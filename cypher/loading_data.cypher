@@ -1,3 +1,29 @@
+//Load MR geo data
+LOAD CSV WITH HEADERS FROM 'file:///MRgeodata.csv' AS row 
+WITH row
+    WHERE row IS NOT NULL
+WITH row
+    MERGE(s: Sites {uid: TRIM(row.`Site Name`) + TRIM(row.`Event Name`) + TRIM(row.Lat) + TRIM(row.Long) + TRIM(row.Date)})
+        SET
+            s.name = TRIM(row.`Site Name`),
+            s.event = TRIM(row.`Event Name`),
+            s.lat = TRIM(row.Lat),
+            s.long = TRIM(row.Long),
+            s.date = TRIM(row.Date),
+            s.state = TRIM(row.State),
+            s.county = TRIM(row.County),
+            s.category = TRIM(row.Category),
+            s.protocol = TRIM(row.Protocol),
+            s.protocol_url = TRIM(row.`Protocol Url`),
+            s.study_plan = TRIM(row.`Study Plan`),
+            s.study_plan_url = TRIM(row.`Study Plan Url`),
+            s.program = TRIM(row.Program),
+            s.program_url = TRIM(row.`Program Url`),
+            s.organization = TRIM(row.Organization),
+            s.organization_url = TRIM(row.`Organization Url`),
+            s.url = TRIM(row.URL),
+            s.data_provider = TRIM(row.`Data Provider`)
+
 //Load categories data
 LOAD CSV WITH HEADERS FROM 'file:///CATEGORIES-AllCategories.csv' AS row
 WITH row

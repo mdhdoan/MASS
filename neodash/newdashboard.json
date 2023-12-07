@@ -2,16 +2,20 @@
   "title": "PASS dashboard",
   "version": "2.4",
   "settings": {
-    "pagenumber": 2,
+    "pagenumber": 0,
     "editable": true,
     "fullscreenEnabled": false,
     "parameters": {
-      "neodash_tags_title_1": "Columbia Habitat Monitoring Program",
-      "neodash_tags_title_1_display": "Columbia Habitat Monitoring Program",
+      "neodash_tags_title_1": "Bonneville Power Administration",
+      "neodash_tags_title_1_display": "Bonneville Power Administration",
       "neodash_keywords_title_1": "BPA",
       "neodash_keywords_title_1_display": "BPA",
-      "neodash_protocols_title_1": "Scientific Protocol for Salmonid Habitat Surveys within the Columbia Habitat Monitoring Program (CHaMP)",
-      "neodash_protocols_title_1_display": "Scientific Protocol for Salmonid Habitat Surveys within the Columbia Habitat Monitoring Program (CHaMP)"
+      "neodash_protocols_title_1": "BPA MBACI Monitoring Effectiveness of Instream Habitat Projects (Bank Stabilization) v3.0",
+      "neodash_protocols_title_1_display": "BPA MBACI Monitoring Effectiveness of Instream Habitat Projects (Bank Stabilization) v3.0",
+      "neodash_protocols_title_2": "BPA MBACI Monitoring Effectiveness of Instream Habitat Projects (Bank Stabilization) v3.0",
+      "neodash_protocols_title_2_display": "BPA MBACI Monitoring Effectiveness of Instream Habitat Projects (Bank Stabilization) v3.0",
+      "neodash_methods_title_1": "Snags v1.0",
+      "neodash_methods_title_1_display": "Snags v1.0"
     },
     "theme": "light"
   },
@@ -55,19 +59,18 @@
           "schema": [
             [
               "Protocols",
+              "uid",
               "keywords",
+              "background",
               "values",
               "description",
               "pid",
               "problem_statement",
+              "objectives",
               "title",
               "desired_outcomes",
               "target",
-              "tags",
-              "louvain",
-              "uid",
-              "background",
-              "objectives"
+              "tags"
             ]
           ]
         },
@@ -169,13 +172,13 @@
               "background",
               "values",
               "description",
-              "pid",
               "problem_statement",
+              "pid",
               "objectives",
               "title",
               "desired_outcomes",
-              "target",
-              "tags"
+              "tags",
+              "target"
             ]
           ]
         },
@@ -235,15 +238,17 @@
           "id": "d5fdad1f-def7-4b39-9021-380787f3b72d",
           "title": "Protocol's details",
           "query": "MATCH (p:Protocols)\nWHERE p.title = $neodash_protocols_title_1   \nUNWIND keys(p) as pk\nWITH p, pk\nRETURN pk as properties, p[pk] as values ORDER BY pk",
-          "width": 10,
-          "height": 5,
-          "x": 0,
-          "y": 2,
+          "width": 14,
+          "height": 9,
+          "x": 10,
+          "y": 0,
           "type": "table",
           "selection": {},
           "settings": {
-            "columnWidths": "[3, 10]",
-            "compact": true
+            "columnWidths": "[2, 10]",
+            "compact": false,
+            "transposed": false,
+            "columnWidthsType": "Relative (%)"
           },
           "schema": []
         },
@@ -251,66 +256,54 @@
           "id": "a254444f-4e01-4e2a-ac0c-7a4616c33376",
           "title": "All available protocols",
           "query": "WITH CASE $neodash_protocols_title_1 IS NOT NULL WHEN TRUE THEN not(isEmpty($neodash_protocols_title_1)) ELSE FALSE END AS condition\nCALL apoc.do.when(condition, \n  'MATCH (p:Protocols {title: selected_protocol})\nCALL apoc.path.spanningTree(p, {\n  maxLevel: 1\n})\nYIELD path\nRETURN path\n',\n  'Match (n) OPTIONAL MATCH (n)-[path]-() RETURN n, path', \n  {selected_protocol: $neodash_protocols_title_1})\nYIELD value\nRETURN value.path, value.n",
-          "width": 14,
+          "width": 10,
           "height": 5,
-          "x": 10,
-          "y": 0,
+          "x": 0,
+          "y": 4,
           "type": "graph",
           "selection": {
             "Protocols": "title",
-            "Programs": "name",
-            "Categories": "title",
+            "Keywords": "title",
+            "Tags": "title",
+            "Methods": "title",
             "Sites": "name"
           },
           "settings": {},
           "schema": [
             [
               "Protocols",
-              "methods",
-              "literatureCited",
+              "keywords",
+              "values",
+              "description",
+              "pid",
+              "problem_statement",
               "title",
-              "assumptions",
-              "lastUpdated",
-              "uid",
-              "ownerName",
-              "html",
-              "id",
-              "images",
-              "citation",
-              "version",
-              "metric_category",
-              "metric_subcategory",
-              "link_to",
-              "url",
+              "desired_outcomes",
+              "target",
               "tags",
-              "ownerEmail",
-              "background",
-              "metric_title",
-              "programUrl",
-              "objectives",
-              "metrics",
-              "status"
-            ],
-            [
-              "Programs",
-              "primaryContactName",
               "uid",
-              "organizations",
-              "name",
-              "id",
-              "protocols",
-              "primaryContactEmail",
-              "url",
-              "link_to",
-              "link_to_org"
+              "background",
+              "objectives"
             ],
             [
-              "Categories",
-              "category_description",
-              "no_of_subcategories",
-              "category_id",
+              "Keywords",
               "title",
-              "subject"
+              "uid"
+            ],
+            [
+              "Tags",
+              "title",
+              "uid"
+            ],
+            [
+              "Methods",
+              "uid",
+              "customized",
+              "pid",
+              "optional",
+              "type",
+              "title",
+              "status"
             ],
             [
               "Sites",
@@ -340,10 +333,10 @@
           "id": "ce7e3cbc-268d-4257-9c07-fd1c63c43d70",
           "title": "Number of tags",
           "query": "MATCH (p:Protocols) \nWHERE p.title = $neodash_protocols_title_1 \nUNWIND SPLIT(p.tags, ', ') as tags\nRETURN COUNT(tags) as `Number of tags`",
-          "width": 7,
+          "width": 5,
           "height": 2,
-          "x": 17,
-          "y": 5,
+          "x": 5,
+          "y": 2,
           "type": "value",
           "selection": {},
           "settings": {},
@@ -353,10 +346,10 @@
           "id": "4409ec67-1a6d-4da7-bf98-35f486029b21",
           "title": "Number of keywords",
           "query": "MATCH (p:Protocols) \nWHERE p.title = $neodash_protocols_title_1 \nUNWIND SPLIT(p.keywords, ', ') as keywords\nRETURN COUNT(keywords) as `Number of keywords`",
-          "width": 7,
+          "width": 5,
           "height": 2,
-          "x": 10,
-          "y": 5,
+          "x": 0,
+          "y": 2,
           "type": "value",
           "selection": {},
           "settings": {},
@@ -370,7 +363,7 @@
         {
           "id": "07ca4b65-f50c-4ecf-a589-06f5aef9fa50",
           "title": "Map MR data",
-          "query": "MATCH (s: Sites)\nWHERE s.program CONTAINS 'CHaMP (Columbia Habitat Monitoring Program)'\nRETURN s\n",
+          "query": "MATCH (s: Sites)  \nMATCH (p: Protocols {title: $neodash_protocols_title_2})  \nWHERE p.title CONTAINS s.protocol  \nRETURN s",
           "width": 18,
           "height": 7,
           "x": 0,
@@ -385,6 +378,7 @@
           "schema": [
             [
               "Sites",
+              "date",
               "organization_url",
               "study_plan_url",
               "county",
@@ -402,10 +396,90 @@
               "category",
               "event",
               "study_plan",
-              "lat",
-              "date"
+              "lat"
             ]
           ]
+        },
+        {
+          "id": "d07d8db5-c0be-4e8d-85cb-490878b1b026",
+          "title": "Select protocol",
+          "query": "MATCH (n:`Protocols`) \nWHERE toLower(toString(n.`title`)) CONTAINS toLower($input) \nRETURN DISTINCT n.`title` as value,  n.`title` as display ORDER BY size(toString(value)) ASC LIMIT 5",
+          "width": 6,
+          "height": 3,
+          "x": 18,
+          "y": 0,
+          "type": "select",
+          "selection": {},
+          "settings": {
+            "type": "Node Property",
+            "entityType": "Protocols",
+            "propertyType": "title",
+            "propertyTypeDisplay": "title",
+            "parameterName": "neodash_protocols_title_2",
+            "id": "2"
+          },
+          "schema": []
+        },
+        {
+          "id": "b6a5c0f1-a13a-411c-a18c-9f6fa309adab",
+          "title": "Protocols with geodata",
+          "query": "MATCH (s: Sites)\nWHERE (s)-[]-()\nRETURN DISTINCT s.protocol",
+          "width": 6,
+          "height": 4,
+          "x": 18,
+          "y": 3,
+          "type": "table",
+          "selection": {},
+          "settings": {}
+        }
+      ]
+    },
+    {
+      "title": "New page",
+      "reports": [
+        {
+          "id": "d864b20b-6b97-4ab2-b9c4-489c38afa4fc",
+          "title": "Connected methods from protocols before",
+          "query": "MATCH (m: Methods)\nWHERE m.title = $neodash_methods_title_1    \nUNWIND keys(m) as mk\nWITH m, mk\nRETURN mk as properties, m[mk] as values ORDER BY mk",
+          "width": 15,
+          "height": 5,
+          "x": 9,
+          "y": 2,
+          "type": "table",
+          "selection": {},
+          "settings": {}
+        },
+        {
+          "id": "577c6179-fa18-4fc6-b097-03b5a3a60a14",
+          "title": "Method",
+          "query": "MATCH (n:`Methods`) \nWHERE toLower(toString(n.`title`)) CONTAINS toLower($input) \nRETURN DISTINCT n.`title` as value,  n.`title` as display ORDER BY size(toString(value)) ASC LIMIT 5",
+          "width": 15,
+          "height": 2,
+          "x": 9,
+          "y": 0,
+          "type": "select",
+          "selection": {},
+          "settings": {
+            "type": "Node Property",
+            "entityType": "Methods",
+            "propertyType": "title",
+            "propertyTypeDisplay": "title",
+            "parameterName": "neodash_methods_title_1",
+            "id": "1"
+          },
+          "schema": []
+        },
+        {
+          "id": "925c9b50-4289-4b05-8570-6d515bb8691f",
+          "title": "Methods connected to selected protocol",
+          "query": "MATCH (m: Methods)\nMATCH (p: Protocols {title: $neodash_protocols_title_1})\nWHERE (m)-[]-(p)\nRETURN m.title as `Methods' Title`",
+          "width": 9,
+          "height": 7,
+          "x": 0,
+          "y": 0,
+          "type": "table",
+          "selection": {},
+          "settings": {}
         }
       ]
     }

@@ -27,14 +27,6 @@ WITH p1, links
     MERGE (o:Organizations {uid: links})
     MERGE (p1)<-[:LED_AND_SPONSOR]-(o)
 
-//Connect programs to organizations
-MATCH (p1:Programs)
-WITH p1
-    UNWIND SPLIT(p1.link_to_org, '|') as links
-WITH p1, links
-    MERGE (o:Organizations {uid: links})
-    MERGE (p1)<-[:LED_AND_SPONSOR]-(o)
-
 //Connect programs to protocols
 MATCH (p1:Programs)
 WITH p1

@@ -5,7 +5,7 @@ WITH row
 WITH row
     MERGE(s: Sites {uid: TRIM(row.`Site Name`) + TRIM(row.`Event Name`) + TRIM(row.Lat) + TRIM(row.Long) + TRIM(row.Date)})
         SET
-            s.name = TRIM(row.`Site Name`),
+            s.title = TRIM(row.`Site Name`),
             s.event = TRIM(row.`Event Name`),
             s.lat = TRIM(row.Lat),
             s.long = TRIM(row.Long),
@@ -96,7 +96,7 @@ WITH row
             n.projects = TRIM(row.projects),
             n.organizations = TRIM(row.organizations),
             n.id = TRIM(row.id),
-            n.name = TRIM(row.name),
+            n.title = TRIM(row.name),
             n.citation = TRIM(row.citation),
             n.url = TRIM(row.url),
             n.primaryContactName = TRIM(row.primaryContactName),
@@ -104,7 +104,7 @@ WITH row
             n.link_to = TRIM(row.link_to),
             n.link_to_org = TRIM(row.link_to_org)
     MERGE (o:Organizations {uid:row.organizations})
-        SET o.name = TRIM(row.organization);
+        SET o.title = TRIM(row.organization);
 
 //Load protocols data
 LOAD CSV WITH HEADERS FROM 'file:///protocols.tsv' AS row FIELDTERMINATOR '\t'

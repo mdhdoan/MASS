@@ -67,13 +67,13 @@ MERGE (c)-[r:LOCATED_AT]->(s)
 // Connect sites to organizations
 MATCH (o: Organizations)
 MATCH (s: Sites)
-WHERE o.name CONTAINS s.organization
+WHERE o.title CONTAINS s.organization
 MERGE (o)-[r:LOCATED_AT]->(s)
 
 // Connect sites to programs
 MATCH (p2: Programs)
 MATCH (s: Sites)
-WHERE s.program = p2.name
+WHERE s.program = p2.title
 MERGE (p2)-[r:LOCATED_AT]->(s)
 
 // Connect sites to protocols

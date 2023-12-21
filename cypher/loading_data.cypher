@@ -104,7 +104,7 @@ WITH row
             n.link_to = TRIM(row.link_to),
             n.link_to_org = TRIM(row.link_to_org)
     MERGE (o:Organizations {uid:row.organizations})
-        SET o.title = TRIM(row.organization);
+        SET o.title = TRIM(row.organizations);
 
 //Load protocols data
 LOAD CSV WITH HEADERS FROM 'file:///protocols.tsv' AS row FIELDTERMINATOR '\t'

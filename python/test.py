@@ -1,100 +1,76 @@
-import csv
 import json
-from os import link
+import os
 import urllib.request
+import urllib.error
+from os import link
 from urllib.request import FancyURLopener
-# import os
+from sympy import false
+from torch import NoneType
+from zmq import NULL
 
-def api_to_json(url):
-    response_body = urllib.request.urlopen(url).read()
-    return json.loads(response_body)
+# with open('studydesigns_jdata.json', 'r') as study_design_file:
+#     study_designs_jdata = json.load(study_design_file)
 
-# designs_link = 'https://www.monitoringresources.org/api/v1/designs'
-# designs_jdata = []
-methods_link ='https://www.monitoringresources.org/api/v1/methods'
-methods_jdata = api_to_json(methods_link)
-# projects_link = 'https://www.monitoringresources.org/api/v1/projects'
-# projects_jdata = []
-programs_link = 'https://www.monitoringresources.org/api/v1/programs'
-programs_jdata = api_to_json(programs_link)
-protocols_link = 'https://www.monitoringresources.org/api/v1/protocols'
-protocols_jdata = api_to_json(protocols_link)
-# repositories_link = 'https://www.monitoringresources.org/api/v1/repositories'
-# repositories_jdata = []
-# studydesigns_link = 'https://www.monitoringresources.org/api/v1/studydesigns'
-# studydesigns_jdata =[]
+# with open('protocols_jdata.json', 'r') as protocol_file:
+#     protocols_jdata = json.load(protocol_file)
 
-# collection_event_request = urllib.request.Request(collection_event_link, method = 'PUT')
-# print(collection_event_request)
-# response_body = urllib.request.urlopen(collection_event_request)
-# collection_event_jdata = json.load(response_body)
-# print(collection_event_jdata)
+with open('methods_jdata.json', 'r') as method_file:
+    methods_jdata = json.load(method_file)
 
-
-list_of_links = [methods_link, programs_link, protocols_link]
-jdata_list = [methods_jdata, programs_jdata, protocols_jdata]
-
-# programs_jdata_full = []
-# i = 0
-# for id_list in programs_jdata:
-#     jdata_url = str('https://www.monitoringresources.org/api/v1/programs/'+ str(id_list['id']))
-#     programs_jdata_full.append(api_to_json(jdata_url))
-#     url_list = programs_jdata_full[i]['protocols']
-#     for url in url_list:
-#         field_name = 'link_to'
-#         if field_name not in programs_jdata_full[i]:
-#             programs_jdata_full[i][field_name] = url['url']
+# print(type(study_designs_jdata))
+# extracted_study_design = {}
+# for key, value in study_designs_jdata.items():
+#     # print('Key: ', key, '\n\tValue: ', value)
+#     result_value = ''
+#     for value_key, value_value in value.items():
+#         # print(key, value)
+#         if value_value is None or type(value_value) is NoneType:
+#             continue
+#         if value_key == 'backgroundRationale' or value_key == 'keyAssumptions' or value_key == 'qualityControlConsiderations' or value_key == 'trainingRequirements' or value_key == 'safetyConsiderations':
+#             if result_value == '': 
+#                 result_value = value_value
+#             else:
+#                 # print(result_value, ' | ', value_value)
+#                 result_value = result_value + ' ' + value_value
 #         else:
-#             programs_jdata_full[i][field_name] = programs_jdata_full[i][field_name] + '|' + url['url']
-#     i = i + 1
-# # print(programs_jdata[0:3])
+#             continue
+#     extracted_study_design[value['url']] = result_value
 
-# protocols_jdata_full = []
-# i = 0
-# for id_list in protocols_jdata:
-#     # print(id_list)
-#     jdata_url = str('https://www.monitoringresources.org/api/v1/protocols/'+ str(id_list['id']))
-#     protocols_jdata_full.append(api_to_json(jdata_url))
-#     url_list = protocols_jdata_full[i]['methods']
-#     url_string = ''
-#     for url in url_list:
-#         url_string = url_string + '|' + url
-#     protocols_jdata_full[i]['link_to'] = url_string
-#     i = i + 1
-# print(protocols_jdata_full[0:3])
+# extracted_protocol = {}
+# for key, value in protocols_jdata.items():
+#     # print('Key: ', key, '\n\tValue: ', value)
+#     result_value = ''
+#     for value_key, value_value in value.items():
+#         print('Key: ', value_key, '\n\tValue: ', value_value, '\n')
+#         if value_value is None or type(value_value) is NoneType:
+#             continue
+#         if value_key == 'assumptions' or value_key == 'background':
+#             if result_value == '': 
+#                 result_value = value_value
+#             else:
+#                 # print(result_value, ' | ', value_value)
+#                 result_value = result_value + ' ' + value_value
+#         else:
+#             continue
+#     extracted_protocol[value['url']] = result_value
 
-# methods_jdata_full = []
-# for id_list in methods_jdata:
-#     jdata_url = str('https://www.monitoringresources.org/api/v1/methods/'+ str(id_list['id']))
-#     methods_jdata_full.append(api_to_json(jdata_url))
-#     # print(methods_jdata_full)
-
-# protocols_jdata_full = []
-# i = 0
-# for id_list in protocols_jdata:
-#     # print(id_list)
-#     jdata_url = str('https://www.monitoringresources.org/api/v1/protocols/'+ str(id_list['id']))
-#     protocols_jdata_full.append(api_to_json(jdata_url))
-#     url_list = protocols_jdata_full[i]['methods']
-#     url_string = ''
-#     for url in url_list:
-#         url_string = url_string + '|' + url
-#     protocols_jdata_full[i]['link_to'] = url_string
-#     i = i + 1
-
-
-
-
-
-# full_data_list = [programs_jdata_full, protocols_jdata_full, methods_jdata_full]
-# len_list = len(full_data_list)
-
-# for i in range(0, len_list):
-# for data in protocols_jdata_full:
-#     # file_name = ((list_of_links[i][43:]) + '.tsv')
-#     keys = protocols_jdata_full[0].keys()
-#     with open('protocols.tsv', 'w', newline='') as output_file:
-#         dict_writer = csv.DictWriter(output_file, keys, delimiter='\t')
-#         dict_writer.writeheader()
-#         dict_writer.writerows(protocols_jdata_full)
-
+extracted_method = {}
+for key, value in methods_jdata.items():
+    # print('Key: ', key, '\n\tValue: ', value)
+    result_value = ''
+    for value_key, value_value in value.items():
+        # print('Key: ', value_key, '\n\tValue: ', value_value, '\n')
+        if value_value is None or type(value_value) is NoneType or value_value is NULL:
+            continue
+        if value_key == 'abstractText' or value_key == 'instructions':
+            if result_value == '': 
+                result_value = value_value
+            else:
+                # print(result_value, ' | ', value_value)
+                result_value = result_value + ' ' + value_value
+        else:
+            continue
+    extracted_method[value['url']] = result_value
+    print('Key: ', value['url'], '\n\t Value: ', result_value)
+    # break
+# print(extracted_method)

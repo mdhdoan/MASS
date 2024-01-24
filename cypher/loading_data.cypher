@@ -240,3 +240,12 @@ WITH sf
     UNWIND(SPLIT(sf.keywords, ',')) as keyword
 WITH sf, keyword
     MERGE (k:Keywords {title: keyword})
+
+// Load method data
+CALL apoc.load.directory('*.json', 'embed') YIELD value
+WITH value as json_file
+    CALL apoc.load.json(json_file) YIELD value as json_data
+MERGE (m:Methods {uid: json_data['url'], vector: json_data['vector'], textbody: json_data['abstractText']})
+
+// Create index for vector
+CALL db.index.vector.createNodeIndex('method-embeddings', 'Methods', 'vector', 384, 'cosine')

@@ -1,9 +1,0 @@
-{
-  "abstractText": "Method describing the establishment of a site that is monumented for future visits to the site. Monuments are permanent identifiers that include reference information for monument refinds. GPS coordinates of a site is captured during this method and information necessary to find the top and bottom of a site, if site length is greater than 10m.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/279",
-  "title": "Site Establishment-Monumented Site v1.0",
-  "id": 279,
-  "type": "Data Collection",
-  "ownerName": "Carol Volk",
-  "ownerEmail": "carol@southforkresearch.org"
-}

@@ -1,9 +1,0 @@
-{
-  "abstractText": "Measuring stream and river water temperatures can provide important insight into potential water quality concerns. To ensure data collected is accurate, field visits during deployment are conducted to verify data logger accuracy. Field visits also allow for visual checks during deployment to ensure data loggers are still correctly installed.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/1686",
-  "title": "Water Temperature Field Accuracy Checks and Site Visits v1.0",
-  "id": 1686,
-  "type": "Data Collection",
-  "ownerName": "Troy Baker",
-  "ownerEmail": "troy.baker@wwbwc.org"
-}

@@ -1,9 +1,0 @@
-{
-  "abstractText": "Bankfullwidth will be measured at each major transect using the compass and laser. Refer to the full AREMP protocol (attached) for instructions on calibration and setup of the compass and laser.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/3809",
-  "title": "Channel Morphology: Bankfull Width v1.0",
-  "id": 3809,
-  "type": "Data Collection",
-  "ownerName": "Stephanie Miller",
-  "ownerEmail": "stephaniemiller@fs.fed.us"
-}

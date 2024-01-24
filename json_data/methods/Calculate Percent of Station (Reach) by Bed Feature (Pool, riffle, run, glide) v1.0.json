@@ -1,9 +1,0 @@
-{
-  "abstractText": "Geomorphic data help us understand the processes and characteristics ofstream systems, provide fish habitat information, facilitate stream comparisonswithin a watershed and between regions, and provide a common framework forcommunication. A major reason for using geomorphic data collection methods isthat they are scientifically sound and produce repeatable results. The nature ofthe geomorphic data we collect will vary according to the specific survey needsand our desired level of understanding. However, there is valuable streamhabitat information that would not be obtained through a geomorphic survey alone (e.g., fish cover). Therefore, the general approach to obtaining in-streamhabitat data will be to collect geomorphic data and additional habitat dataconcurrently.Recommend data collection method ID4111.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/4115",
-  "title": "Calculate Percent of Station (Reach) by Bed Feature (Pool, riffle, run, glide) v1.0",
-  "id": 4115,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "PNAMP Support",
-  "ownerEmail": "pnamp.mm@gmail.com"
-}

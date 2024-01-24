@@ -1,9 +1,0 @@
-{
-  "abstractText": "Weather station data is collected monthly in order to correlate micro climate responses such as precipitation and atmospheric temperatures to changes in water temperatures and river discharge.Notes:Includes Vantage Pro console/receiver, Integrated Sensor Suite (ISS), and mounting hardware. ISS includes rain collector, temperature and humidity sensors, anemometer, 40' (12 m) anemometer cable, solar radiation sensor, UV sensor, sensor mounting shelf, and solar panel. Temperature and humidity sensors are enclosed in standard radiation shield.ISS is solar powered. Transmitter and battery are located inside radiation shield. Console may be powered using the included AC-power adapter or with three C batteries (not included).Wireless range is up to 400' (120 m) outdoors, line of sight. Typical range through walls under most conditions is 75' to 150' (23 to 46 m). Add wireless repeaters for distances up to 0.6 miles (1 km).",
-  "url": "http://www.monitoringresources.org/api/v1/methods/1680",
-  "title": "Vantage Weather Pro Weather station sensor data collection v1.0",
-  "id": 1680,
-  "type": "Data Collection",
-  "ownerName": "Stephan Charette",
-  "ownerEmail": "steph.charette@wstribes.org"
-}

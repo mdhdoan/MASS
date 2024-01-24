@@ -1,9 +1,0 @@
-{
-  "abstractText": "The total spawner abundanceor TSAis an important metric usedin theNatural Origin Spawner Abundance indicator calculation (and is defined in Galbreath et al. 2008). Using aGRTSdesign creates a spatially balanced statistical design.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/5409",
-  "title": "Total Spawner Abundance (TSA) - Using GRTS Surveys v1.0",
-  "id": 5409,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "PNAMP Support",
-  "ownerEmail": "pnamp.mm@gmail.com"
-}

@@ -1,9 +1,0 @@
-{
-  "abstractText": "Collection of hourly water temperature data as needed to characterize the thermal regime of rivers (i.e., temperature magnitude, variability, frequency, duration, and timing) and assess status and trends in temperature metrics relevant to salmon growth and survival.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/6952",
-  "title": "Water temperature - data logger installation and maintenance v1.0",
-  "id": 6952,
-  "type": "Data Collection",
-  "ownerName": "Casey Justice",
-  "ownerEmail": "jusc@critfc.org"
-}

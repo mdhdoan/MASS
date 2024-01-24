@@ -1,9 +1,0 @@
-{
-  "abstractText": "This method utilizes snorkel data collected using the methodEstimating Instream Juvenile Salmonid Abundance Using Snorkeling v1.0(ID: 197)Fish use is calculated forall structure types by life stage, broken out by species. This information is used to asses the level of fish use of various structure types, such as boulders, off channel areas, and large wood. Fish use of structures is particularly of interest when structures are placed or created as part of stream habitat restoration.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/4248",
-  "title": "Calculation of Fish Use of Structures by Life Stage and Species v1.0",
-  "id": 4248,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Rachael Katz",
-  "ownerEmail": "rachael.katz@tetratech.com"
-}

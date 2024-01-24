@@ -1,9 +1,0 @@
-{
-  "abstractText": "This method describes how we use data from hydroacoustics, trawling, and kokanee processing to determine the number of mature female kokanee in Lake Pend Oreille.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/1080",
-  "title": "Calculation of Mature Female Kokanee and Potential Egg Deposition v1.0",
-  "id": 1080,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Pete Rust",
-  "ownerEmail": "Pete.Rust@idfg.idaho.gov"
-}

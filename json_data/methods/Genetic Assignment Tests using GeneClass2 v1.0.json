@@ -1,9 +1,0 @@
-{
-  "abstractText": "There are a number of different software programs that can use genetic data to assign individuals of unknown origin to populations.  Hauser et al (2006) evaluated the performance of five different methods and software packages to accurately distinguish hatchery offspring from those of sympatric wild steelhead.  Methods included Bayesian, frequency based, and distance-based assignment with a baseline, and a clustering and Bayesian detection method not requiring a baseline).  The five computer programs included whichrun (Banks & Eichert 2000), geneclass2 (Piry et al. 2004), gma (Kalinowski, ST. 2003. genetic mixture analysis 1.0.), bayes (Pella & Masuda 2001), structure (Pritchard et al. 2000), and baps 3.1 (Corander et al. 2004).  All methods provided similar high assignment success, despite low differentiation between wild and hatchery fish (FST = 0.02) and violations of assumptions, and all were considered robust for ecological studies that require correct classification of different groups.  Methods for performing assignment tests in GeneClass2 are described below.  GENECLASS2 is a software that computes various genetic assignment criteria to assign or exclude reference populations as the origin of diploid or haploid individuals, as well as of groups of individuals, on the basis of multilocus genotype data.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/487",
-  "title": "Genetic Assignment Tests using GeneClass2 v1.0",
-  "id": 487,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Matthew Campbell",
-  "ownerEmail": "matthew.campbell@idfg.idaho.gov"
-}

@@ -1,9 +1,0 @@
-{
-  "abstractText": "Physiochemical profiles recorded with multiparameter water quality datasondes characterize temperature, dissolved oxygen, conductivity, total dissolved gas, turbidity, pH, oxidation reduction potential, and total dissolved solids to establish basic limnological conditions. Profiles including temperature, dissolved oxygen, conductivity, turbidity, pH, total dissolved gas, oxidation reduction potential, and total dissolved solids are recorded from the water column using a Hydrolabmultiprobe datasonde.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/5487",
-  "title": "Physiochemical Profiling for Lakes v1.0",
-  "id": 5487,
-  "type": "Data Collection",
-  "ownerName": "Alex Kain",
-  "ownerEmail": "alexander.kain@spokanetribe.com"
-}

@@ -1,9 +1,0 @@
-{
-  "abstractText": "Measuring stream and river water temperatures can provide important insight into potential water quality concerns. To ensure data collected is accurate, data logger units must be check against a NIST traceable thermometer. This method describes how to conduct a pre-deployment and post-deployment accuracy check for temperature data loggers.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/1685",
-  "title": "Pre and Post Deployment Accuracy Check for Temperature Data Loggers v1.0",
-  "id": 1685,
-  "type": "Data Collection",
-  "ownerName": "Troy Baker",
-  "ownerEmail": "troy.baker@wwbwc.org"
-}

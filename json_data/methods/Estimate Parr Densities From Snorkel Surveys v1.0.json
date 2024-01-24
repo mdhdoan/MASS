@@ -1,9 +1,0 @@
-{
-  "abstractText": "Monitor the occurrence and density of juvenile and adult salmonids. These data will allow assessment of spatial structure and productivity.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/1425",
-  "title": "Estimate Parr Densities From Snorkel Surveys v1.0",
-  "id": 1425,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Eric Stark",
-  "ownerEmail": "eric.stark@idfg.idaho.gov"
-}

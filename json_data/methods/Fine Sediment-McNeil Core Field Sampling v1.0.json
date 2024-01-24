@@ -1,9 +1,0 @@
-{
-  "abstractText": "This method is used in association with lab processing ofMcNeil Core samples (monitoringmethods.org method 199, Fine Sediment-McNeil Core Lab Processing). McNeil Core sampling was developed in 1964 as a quantitative method to measuring subsurface fine sediments, as these are often carried away with other sediment sampling techniques, such as pebble counts. Riffles are targeted with McNeil Core sampling as this habitat is used for fish spawning, which is influenced by the amount of fine sediment in the substrate. McNeil Core samples must be lab processed (e.g. sieving) to determine the sample fraction that is considered fine sediment.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/5397",
-  "title": "Fine Sediment-McNeil Core Field Sampling v1.0",
-  "id": 5397,
-  "type": "Data Collection",
-  "ownerName": "Carol Volk",
-  "ownerEmail": "carol@southforkresearch.org"
-}

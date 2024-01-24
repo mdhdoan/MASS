@@ -1,9 +1,0 @@
-{
-  "abstractText": "D16, D50, and D84 arethe diameters of the 16th, 50th, and 84th percentile streambed particles from fast water channel units.Within a site, 210 particles are measured at 10 transects in fast-water turbulent and non-turbulent channel units. The data collection method is described at:https://www.monitoringmethods.org/Method/Details/4059Percentiles are calculated using a logarithmic interpolation.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/1730",
-  "title": "D16, D50, and D84 Particle Size in Riffles Calculation v2.0",
-  "id": 1730,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Steve Rentmeester",
-  "ownerEmail": "steve@sitkatech.com"
-}

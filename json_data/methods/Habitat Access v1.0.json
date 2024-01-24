@@ -1,9 +1,0 @@
-{
-  "abstractText": "The plan includes three specific indicators associated with artificial physical barriers: road crossings (culverts), dams, and fishways. Remote sensing (aerial photos, LANDSAT ETM+, or both) will be used as a first cut to identify possible barriers. Investigators will then conduct field surveys using the WDFW (2000) protocols to evaluate possible barriers. The WDFW (2000) manual provides guidance and methods on how to identify, inventory, and evaluate culverts, dams, and fishways that impede fish passage. WDFW (2000) also provides methods for estimating the potential habitat gained upstream from barriers, allowing prioritization of restoration projects. The manual by Parker (2000) focuses on culverts and assesses connectivity of fish habitats on a watershed scale. These manuals can be used toidentify all fish passage barriers within monitoring reaches. Assessment of fish passage barriers will occur once annually during base-flow conditions.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/35",
-  "title": "Habitat Access v1.0",
-  "id": 35,
-  "type": "Data Collection",
-  "ownerName": "Tracy Hillman",
-  "ownerEmail": "tracy.hillman@bioanalysts.net"
-}

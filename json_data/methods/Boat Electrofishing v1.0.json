@@ -1,9 +1,0 @@
-{
-  "abstractText": "Today electrofishing is a common and effective fish sampling method used by most fisheries biologists in both lentic and lotic systems (Bohlin et al. 1989; Guy et al. 2009; Miranda and Boxrucker 2009). An energy source (e.g., a generator or battery) is used to electrify metal electrodes that are in the water. The electrical field (AC, DC, or pulsed AC or DC) is used to stun fish or alter their movement in a way that allows them to be captured (Reynolds and Kolz 2012). In the DC field, fish typically turn toward the anode and exhibit electrotaxis (forced swimming);as the fish nears the anode it experiences narcosis (muscle relaxation) and loss of equilibrium (Reynolds 1996). In most cases, it is recommended that pulsed DC be used to reduce injury to fish.Electrofishing is an active gear type of fish collection, and it is an effective tool for characterizing catch-per-unit-effort of both single and multiple species. Boat electrofishing is commonly employed in lakes and reservoirs to determine fish abundance, density, and species composition (Reynolds 1996; Odenkirk and Smith 2005). It has been found to be effective at sampling and characterizing fish communities that reside in the littoral areas of aquatic ecosystems (i.e., electrofishing is less effective at greater depths). If used properly, boat electrofishing results typically do not harm fish (Bohlin et al. 1989). Fish usually return to their normal state in as little as two minutes. Once this happens, and all data have been collected, the fish are returned to the water alive.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/1013",
-  "title": "Boat Electrofishing v1.0",
-  "id": 1013,
-  "type": "Data Collection",
-  "ownerName": "Holly McLellan",
-  "ownerEmail": "holly.mclellan@colvilletribes.com"
-}

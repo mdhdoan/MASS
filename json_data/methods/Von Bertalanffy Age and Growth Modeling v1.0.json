@@ -1,9 +1,0 @@
-{
-  "abstractText": "The Von Bertalanffy growth function has been widely used in fisheries, and although it has certain issues associated with it (see Roff 1980), it remains one of the most popular growth models in fisheries science (Quist et al. 2012) Growth models, in general, relate the age of fish in a population to their length or weight. This information allows researchers and scientists to make important inferences and management decisions for the fish population(s) of interest. For example, growth rates of a fish species in one aquatic system could be compared to those of the same species in another system to gage how the population is performing in terms of growth. This type of information is important for fisheries managers needing to set (for example) minimum length regulations for various sport fisheries.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/4039",
-  "title": "Von Bertalanffy Age and Growth Modeling v1.0",
-  "id": 4039,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "T.J. Ross",
-  "ownerEmail": "tj.ross@idfg.idaho.gov"
-}

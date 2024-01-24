@@ -1,9 +1,0 @@
-{
-  "abstractText": "At each sampling point, determine if the habitat is a riffle/run or a pool/glide (any area where there is not sufficient current to extend the net is operationally defined as a pool/glide habitat).",
-  "url": "http://www.monitoringresources.org/api/v1/methods/6875",
-  "title": "Rapid Habitat and General Visual Stream Assessments v2.0",
-  "id": 6875,
-  "type": "Data Collection",
-  "ownerName": "PNAMP Support",
-  "ownerEmail": "pnamp.mm@gmail.com"
-}

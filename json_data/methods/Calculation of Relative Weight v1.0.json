@@ -1,9 +1,0 @@
-{
-  "abstractText": "The basis for the use of relative weight for assessing the health/condition of individual fish and fish populations is that the standard weight used for comparisonshould describe the inherent shape of a fish in good condition; thus, revealing the condition of the fishor fish population of interest(Neumann et al. 2012). Standard weights for many fish species can be found in Neumann et al. (2012). Mean Wrvalues of 100 indicate ecological and physiological optimums (Anderson and Neumann 1996; Blackwell et al. 2000).",
-  "url": "http://www.monitoringresources.org/api/v1/methods/4038",
-  "title": "Calculation of Relative Weight v1.0",
-  "id": 4038,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "T.J. Ross",
-  "ownerEmail": "tj.ross@idfg.idaho.gov"
-}

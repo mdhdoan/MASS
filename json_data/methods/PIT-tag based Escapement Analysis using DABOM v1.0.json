@@ -1,9 +1,0 @@
-{
-  "abstractText": "This method utilizes a subset of PIT-tagged adult salmon to generate estimates of escapement at major population group (MPG)/evolutionary significant unit (ESU), population, subpopulation, tributary, and major spawning area spatial scales.DABOM (Dam Adult Branch Occupancy Model) is an R package for estimating abundance of anadromous fishes using fish tagged at a primary sampling facility (e.g., dam) and later detected in upstream tributaries. It incorporates the branching structure of a stream network, and simultaneously estimates imperfect detection probabilities at all detection locations and movement probabilities past detection locations. The movement probabilities, when multiplied correctly and combined with an estimate of total abundance at the tagging site, can be used to estimate abundance at a variety of spatial scales.This method is described in further detail by Waterhouse et al. (2020).",
-  "url": "http://www.monitoringresources.org/api/v1/methods/6929",
-  "title": "PIT-tag based Escapement Analysis using DABOM v1.0",
-  "id": 6929,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Ben Truscott",
-  "ownerEmail": "ben.truscott@dfw.wa.gov"
-}

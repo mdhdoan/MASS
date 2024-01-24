@@ -1,9 +1,0 @@
-{
-  "abstractText": "Environmental DNA often referred to as eDNA has more frequently been used as a surveillance tool to monitor for the genetic presence of aquatic invasive species (AIS) or threatened and endangered species (Jerde2011). Environmental samples generally have low levels of the target species DNA (Dejeanet al. 2011), thus it is critical to have minimal loss of DNA during processing in the lab.DNeasyBlood & Tissue procedures can be an effective tool for targeting species DNA. During centrifugation, DNA is selectively bound to theDNeasymembrane as contaminants pass through. Remaining contaminants and enzymeinhibitors are removed in two efficient wash steps and DNA is then eluted in water orbuffer, ready for use. DNA adsorbs to theDNeasymembrane in the presence of high concentrationsofchaotropicsalt, which remove water from hydrated molecules in solution. Buffer conditions inDNeasyBlood & Tissue procedures are designed to enable specificadsorption of DNA to the silica membrane and optimal removal of contaminants andenzyme inhibitors.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/5480",
-  "title": "Environmental DNA (eDNA) Extraction from Filters Using the Qiagen DNeasy Kit v1.0",
-  "id": 5480,
-  "type": "Data Collection",
-  "ownerName": "PNAMP Support",
-  "ownerEmail": "pnamp.mm@gmail.com"
-}

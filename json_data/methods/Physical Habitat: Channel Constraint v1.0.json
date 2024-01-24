@@ -1,9 +1,0 @@
-{
-  "abstractText": "This method is derived from an Environmental Monitoring and Assessment Program (EMAP) protocol developed for monitoring western wadable streams. Included in this method are instructions for determining the extent of channel constraint within the floodplain.Whether natural or the result of human activities, the presence of immovable or non-erodible river margins constrains the degree to which the stream can form its own channel and banks through scour and deposition. The degree of channel constraint can strongly influence the quantity and quality of habitat for aquatic organisms. Constraint also influences the type and degree of stream channel adjustment to anthropogenic alterations in flow and sediment supply, or to direct channel manipulations (e.g., dredging, revetments, impoundment). To assess overall reach channel constraint, we have modified methods used by Oregon Department of Fish and Wildlife in their Aquatic Inventories (Moore et al. 1993).",
-  "url": "http://www.monitoringresources.org/api/v1/methods/85",
-  "title": "Physical Habitat: Channel Constraint v1.0",
-  "id": 85,
-  "type": "Data Collection",
-  "ownerName": "Jacque Schei",
-  "ownerEmail": "jschei@usgs.gov"
-}

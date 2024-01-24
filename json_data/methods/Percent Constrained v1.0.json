@@ -1,9 +1,0 @@
-{
-  "abstractText": "This method reports the percentage of a monitoring reach that is constrainedas measured by the methodMeasuring channel constraints v1.0(ID: 239)The percent constrained is the total of all constraining features present at a sitethat are in contact with the stream channel",
-  "url": "http://www.monitoringresources.org/api/v1/methods/5272",
-  "title": "Percent Constrained v1.0",
-  "id": 5272,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Rachael Katz",
-  "ownerEmail": "rachael.katz@tetratech.com"
-}

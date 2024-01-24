@@ -1,9 +1,0 @@
-{
-  "abstractText": "Underwater video systems are used to count anadromous salmon at strategic locations as they migrate to upstream spawning areas. The video method involves the use of a Digital Video Internet Protocol (DV-IP) device to collect imagery of fish passing through a custom-designed video chute. Specialized underwater cameras located in the video chutes transfer constant imagery to the DV-IP device. The DV-IP stores a log of fish passage events, captured by motion detection, which are reviewed remotely by video technicians and converted to numeric data for analysis. The target species may include anadromous forms of Salmonidae, including summer steelhead, sockeye salmon, and Chinook salmon. Target locations can be chosen by weighing information regarding current and historic salmonid use and contemporary discharge levels, and forecasts.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/515",
-  "title": "Underwater Video Fish Enumeration v1.0",
-  "id": 515,
-  "type": "Data Collection",
-  "ownerName": "John Arterburn",
-  "ownerEmail": "john.arterburn@colvilletribes.com"
-}

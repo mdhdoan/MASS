@@ -1,9 +1,0 @@
-{
-  "abstractText": "Effectiveness monitoring for changes to stream habitat should be: (1) relevant to the biotic endpoint, by demonstrating a quantifiable relation; (2) responsive to management impacts; (3) appropriate to the stream network; and (4) measurable with acceptable precision and accuracy. (Bauer and Ralph 2001, Mossop and Bradford 2006). This necessitates quantitative techniques that have a relatively low measurement error, are insensitive to differences in observers, and flow conditions, can occur across all habitats in a reasonable amount of time, and are simple and easy to explain to field personnel.A useful method for quantifying stream morphology and habitat characteristics consists of thalweg, i.e., longitudinal, profiling, which involves surveying the streambed elevation along the deepest portion of the stream (the thalweg), yielding a two-dimensional, longitudinal profile of streambed elevations (Mossop and Bradford 2006). Depressions in the profile represent pools, or deeper habitats, with low velocity during low flow periods, whereas crests in the profile represent riffles (Mossop and Bradford 2006). Thalweg profiles have become a useful tool to assess and monitor fish habitat in wadable streams, in part because thalweg profiles can improve the accuracy and precision of channel and pool measurements (Bauer and Ralph 2001, Mossop and Bradford 2006). Thalweg profiles provide important quantitative measures of stream channel morphology (i.e. stream channel gradient) and fish habitat (i.e. variation in pool depth), while remaining independent of flow conditions (Lisle 1987, Bauer and Ralph 2001, May and Lee 2004, Mossop and Bradford 2006).",
-  "url": "http://www.monitoringresources.org/api/v1/methods/4171",
-  "title": "Longitudinal Profile Mean Square Error v1.0",
-  "id": 4171,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "jonathan drake",
-  "ownerEmail": "jon.drake@noaa.gov"
-}

@@ -1,9 +1,0 @@
-{
-  "abstractText": "Weirs are often leaky and not totally efficient, therefore a mark-recapture method may be used to estimate spawning escapements.This method relies on recaptures of surviving post-spawn fish as they move downstream from the spawning reach, therefore it is only appropriate for populations of iteroparous salmonids that do not remain resident in the spawning reach(anadromous, fluvial or adfluvialtrouts and charr).Spawners are marked as they are place upstream of the weir. Recaptures are made as post-spawn kelts move downstream and are passed at the weir. This is similar to estimating abundance of juvenile emigrants passing a screw trap, therefore analysis is made using methods developed by Steinhorst et al. (2004). Briefly, Bailey's modification of the Lincoln-Peterson estimator is used for the point estimate and confidence intervals may be computed using a bootstrap technique. The procedures are implemented in software ( (Gauss) available from Dr Kirk Steinhorst (http://www.webpages.uidaho.edu/~kirk/).",
-  "url": "http://www.monitoringresources.org/api/v1/methods/1440",
-  "title": "Adult abundance of iteroparous and migratory salmonid populations from weir data v1.0",
-  "id": 1440,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Tim Copeland",
-  "ownerEmail": "tim.copeland@idfg.idaho.gov"
-}

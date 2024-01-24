@@ -1,9 +1,0 @@
-{
-  "abstractText": "The structures include tripod supported upstream and downstream guide fences connected to video equipped counting chambers (Figure 5).  Support brackets are attached to a tripod leg to support the picket stringers.  Picket stringers are constructed of 1/4 inch aluminum angle with one inch diameter holes punched two inches on center.  After the tripods, support brackets, and stringers are set in their final positions, one inch galvanized pickets are installed in the stringers.  The downstream guide fence will be installed at a 30 to 45 degree (upstream) angle to the bank.  The upstream guide fence is similarly angled to the bank (downstream) to allow unimpeded downstream adult fish movement and movement of other fish species such as westslope cutthroat trout and bull trout.  The counting chamber will be installed in the channel thalweg, which is anticipated to be the preferred adult salmon migration corridor.     Photographs of individual salmon are taken through a clear plexiglas window mounted on the lower half of the counting chamber on the near side.  The video camera is an ultra-high resolution monochrome CCD camera.  The camera will image infrared and visible light and is sealed in a waterproof housing.  Fish images will be recorded in time-lapse (2 frames/sec) on 8mm videotape.  Recording will occur continuously while the count station is operated.  Artificial light will be used.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/307",
-  "title": "Video Weir Methods v1.0",
-  "id": 307,
-  "type": "Data Collection",
-  "ownerName": "Jacque Schei",
-  "ownerEmail": "jschei@usgs.gov"
-}

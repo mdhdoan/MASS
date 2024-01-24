@@ -1,9 +1,0 @@
-{
-  "abstractText": "Background:Data collected from groundwater monitoring are used to detect changes in water table elevation and groundwater temperature patterns. Changes in water table elevation and groundwater temperature are anintended result of certain restoration activities (e.g., floodplain reconnection projects) and monitoring these patterns can help provide evidence that restoration work is achieving project goals.This method describes ananalysis procedure for water table elevation data collected over a multi-year time period, and assumes that data were collected in at least one reference site (which received no manipulations for the purpose of restoration) and one treated site (where restoration activities have occurred). The goal of the analysis is to compare the change in water table elevation between reference and treated sites.Specifically, this procedureevaluates changein three response variables over time: seven-day maximum, minimum, and mean water table elevation. This methodassumes that data were collected from groundwater wells installed as part of a restoration monitoring design and instrumented with Onset HOBOU20Water Level Loggers (U20probes), and that data were collected at a resolution of one reading per hour or two hours for the duration of the monitoring period. There are two parts to this method: (1) summarizing and graphically displaying data, and (2) utilizing a linear mixed model time series analysis to determine the effect of treatment on the restored site.Analysis of groundwater temperature data isdiscussed in a separate method.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/5457",
-  "title": "Time series analysis of water table elevation monitoring data v1.0",
-  "id": 5457,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Erin Morgan",
-  "ownerEmail": "erin@southforkresearch.org"
-}

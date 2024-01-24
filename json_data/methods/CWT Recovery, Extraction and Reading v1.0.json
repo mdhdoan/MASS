@@ -1,9 +1,0 @@
-{
-  "abstractText": "Coded wire tags (CWT) have been a useful tool to alleviateexternal marking of salmonids since the 1960's. These tags can be placed in various locations depending on the species of fish but in the case of salmonids, specifically Chinook salmon (O.tshawytscha) they are injected into the snout.CWTshave evolved with time beginning as a 5 color longitudinal banded tag to a binary tag and now a 6 digit numerical code capable of producing numerous specific unique tag codes. The 6 digit code provides information on the spool of tags from which it was cut. This information corresponds to agency, brood year and release location as well as other fields.Coded wire tags are magnetized and can be detected easily by using a T-wand or V-reader. When a tagged Chinook is recovered, it is assessedfor a cwt by scanning the dorsal portion of its head with the equipment mentioned above. These samples are collected to be later analyzed in a lab with the aid of magnification. Recovered tags are entered intoRMISto retrievespecific data about that spool or batch of fish.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/6588",
-  "title": "CWT Recovery, Extraction and Reading v1.0",
-  "id": 6588,
-  "type": "Data Collection",
-  "ownerName": "Brian Dietz",
-  "ownerEmail": "brian.dietz.fnw@colvilletribes.com"
-}

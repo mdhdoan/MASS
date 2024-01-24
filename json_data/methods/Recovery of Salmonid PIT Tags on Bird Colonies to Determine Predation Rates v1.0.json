@@ -1,9 +1,0 @@
-{
-  "abstractText": "A method to document mortality of juvenile salmonid by birds nesting in the Columbia River estuary is via the recovery of passive integrated transponder (PIT)  tags on bird colonies (Collis et al. 2001, Ryan et al. 2003, Antolos et al. 2005, Evans et al. 2012).  Avian predation rates can then be calculated based on the percentage of PIT-tagged juvenile salmonids released and/or detected passing hydroelectric dams that are subsequently consumed and deposited by birds on their nesting colonies. Because each PIT tag represents a unique fish, the tag recovery approach allows the testing of hypotheses on the effects of smolt morphology, condition, abundance, and origin on smolt vulnerability to avian predation.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/255",
-  "title": "Recovery of Salmonid PIT Tags on Bird Colonies to Determine Predation Rates v1.0",
-  "id": 255,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Allen Evans",
-  "ownerEmail": "allen@realtimeresearch.com"
-}

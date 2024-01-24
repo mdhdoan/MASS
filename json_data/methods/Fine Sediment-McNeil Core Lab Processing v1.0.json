@@ -1,9 +1,0 @@
-{
-  "abstractText": "This method is used in association with field sampling of McNeil Core samples (monitoringmethods.org method 5397, Fine Sediment-McNeil Core Field Sampling). McNeil Core sampling was developed in 1964 as a quantitative method to measuring subsurface fine sediments, as these are often carried away with other sediment sampling techniques, such as pebble counts. Riffles are targeted with McNeil Core sampling as this habitat is used for fish spawning, which is influenced by the amount of fine sediment in the substrate.This methodtherefore adopts the volumetric processing method that begins with the sorting of a McNeil sediment core sample into its respective size categories through the use of a series of stacked sieves oriented on a sieve processing station. The volume for each sediment size category is then determined through the use of a displacement flask. The total volume of fine sediment smaller than the sieve sizes used is established by the settling these sediments in a modified graduated cylinder or Imhoff cone.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/199",
-  "title": "Fine Sediment-McNeil Core Lab Processing v1.0",
-  "id": 199,
-  "type": "Data Collection",
-  "ownerName": "Carol Volk",
-  "ownerEmail": "carol@southforkresearch.org"
-}

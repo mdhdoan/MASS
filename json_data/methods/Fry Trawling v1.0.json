@@ -1,9 +1,0 @@
-{
-  "abstractText": "This trawl net has smaller mesh than a standard midwater trawl, and therefore this survey was developed to more effectively capture fry. Information from the fry trawl can be used for several different calculations including hatchery and wild components and size data. Likethe midwater trawl survey, these methods follow the methods described by Rieman (1992).",
-  "url": "http://www.monitoringresources.org/api/v1/methods/1084",
-  "title": "Fry Trawling v1.0",
-  "id": 1084,
-  "type": "Data Collection",
-  "ownerName": "Pete Rust",
-  "ownerEmail": "Pete.Rust@idfg.idaho.gov"
-}

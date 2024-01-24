@@ -1,9 +1,0 @@
-{
-  "abstractText": "In the past, we have estimated salmonid abundances using multiple-pass removal depletion methods. Though multipass-depletion estimates are useful for examining site-specific temporal trends, the large degree of within-year variability among site estimates that has commonly been documented in our surveys does not permit a reliable examination of abundance when estimates are expanded to larger spatial scales (Firehammer et al. 2009). Because of this shortcoming and the desire to increase sampling efficiency, an index of site abundance was preferable to an absolute estimate, and was found to track true abundance over time (Firehammer et al. 2011). Others have also found single-pass indices to perform well in predicting abundances for salmonid populations in small-streams (Jones and Stockwell 1995; Kruse et al. 1998; Bateman et al. 2005). More importantly, we found that depletion estimates underestimated the true abundance, primarily as a result of an overestimation of capture probability during subsequent passes, which was consistent with other studies that documented biases associated with depletion-removal estimates for salmonids in small stream systems (Peterson et al. 2004; Rosenberger and Dunham 2005). Results from trend analyses also indicated that first pass catch data provided similar interpretations of watershed-wide abundance trends in salmonids as did our removal-depletion estimates (Firehammer et al. 2011). These results lend support to using first-pass catch rather than multi-pass depletion estimates to examine long-term reach trajectories in our watersheds.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/1058",
-  "title": "Index of salmonid abundance derived from single pass stream electrofishing surveys v1.0",
-  "id": 1058,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Jon Firehammer",
-  "ownerEmail": "jfirehammer@cdatribe-nsn.gov"
-}

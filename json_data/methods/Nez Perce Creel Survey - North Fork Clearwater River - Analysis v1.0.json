@@ -1,9 +1,0 @@
-{
-  "abstractText": "Application of the Nez Perce Creel Survey - North Fork Clearwater River method is intended to produce a reliable estimate of treaty catch of steelhead, fall Chinook and spring Chinook (and incidental species) and tribal fishing effort. Catch and harvest information generated is used to ensure that the proposed harvest strategy (i.e. take numbers, locations, dates and gear types) occurs as planned. As such, catch data derived from application of this method provides a baseline accounting of Nez Perce annual harvest, with multiple years of information characterizing trends in the fisheries.Tribal harvest data obtained is also useful for run-reconstruction, SAR estimations and run forecast models.The creel survey method is one of four that is applied by the Nez Perce Harvest Monitoring Program to estimate Treaty harvest in Usual and Accustomed fishing areas. The other three methods (in-season interview survey, post-season interview survey and gill net in-season interview survey) are addressed under separate protocols.This Creel Survey method is specific to the North Fork Clearwater River.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/4141",
-  "title": "Nez Perce Creel Survey - North Fork Clearwater River - Analysis v1.0",
-  "id": 4141,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "David Statler",
-  "ownerEmail": "daves@nezperce.org"
-}

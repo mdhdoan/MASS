@@ -1,9 +1,0 @@
-{
-  "abstractText": "This method involves the retrospective simulation of multiple years of circulation in the Columbia River plume, followed by the storage of the results in simulation databases.These simulation databases are useda posteriorito compute salmon relevant metrics (see method Calculation of plume volumes to characterize ocean entry conditions). Simulations are conducted within a modeling system (theVirtual Columbia River) maintained at the Oregon Health & Science University (OHSU).",
-  "url": "http://www.monitoringresources.org/api/v1/methods/1749",
-  "title": "Virtual Columbia River: simulation databases of circulation v1.0",
-  "id": 1749,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "PNAMP Support",
-  "ownerEmail": "pnamp.mm@gmail.com"
-}

@@ -1,9 +1,0 @@
-{
-  "abstractText": "NOAA recommends that as part of monitoring salmonid populations to demonstrate ESU/DPS viability that the genetic diversity of populations and major population groups is periodically documented.  Two common measures of genetic diversity that are often reported for salmonid populations are allelic diversity and heterozygosity (observed and expected).  These measures can be compared both within and across studies.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/1345",
-  "title": "Estimating Genetic Diversity v1.0",
-  "id": 1345,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Matthew Campbell",
-  "ownerEmail": "matthew.campbell@idfg.idaho.gov"
-}

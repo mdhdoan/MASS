@@ -1,9 +1,0 @@
-{
-  "abstractText": "Objective:Identify and label the main channel and different side channel types.Channel segment numbers are used to differentiate the main channel from qualifying sidechannels. Assign a channel segment number to all channel units within the main channel andqualifying side channels.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/4076",
-  "title": "Channel Segment Number v2.0",
-  "id": 4076,
-  "type": "Data Collection",
-  "ownerName": "Boyd Bouwes",
-  "ownerEmail": "boydbouwes@gmail.com"
-}

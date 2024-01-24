@@ -1,9 +1,0 @@
-{
-  "abstractText": "Summary: Estimate the SAR for a number of CWT releases in the Columbia Basin. Abstract: An annual analysis of coded-wire-tag (CWT) returns from a list of hatcheries across the Northwest region (WA, OR, and ID) for all available years, prompted by the need to research, monitor, and evaluate smolt-to-adult ratio (SAR) pursuant to the Federal Columbia River Power System (FCRPS) 2000 Biological Opinion (BO) Reasonable and Prudent Alternative (RPA). Smolt-to-adult ratios are based on all available historical CWT data collected since mid-70s. The CWT release and recovery data used in this report were obtained from the Regional Mark Processing Center, managed by the Pacific States Marine Fisheries Commission (PSMFC). Smolt-to-adult ratios from throughout the Columbia Basin, Puget Sound, and outer Washington and Oregon coasts are analyzed to provide a wide geographic representation.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/1522",
-  "title": "Estimate Smolt-to-Adult Ratio (SAR) using CWT Data v1.0",
-  "id": 1522,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Richard Townsend",
-  "ownerEmail": "rich@u.washington.edu"
-}

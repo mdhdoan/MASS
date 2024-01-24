@@ -1,9 +1,0 @@
-{
-  "abstractText": "Groundwater monitoring is an important part of understanding the hydrology of a given watershed.  Many wells are equipped with data logging pressure transducers to collect data on a more frequent interval than can be realistic for manual water level measurements.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/1449",
-  "title": "Downloading a Groundwater Pressure Transducer v1.0",
-  "id": 1449,
-  "type": "Data Collection",
-  "ownerName": "Troy Baker",
-  "ownerEmail": "troy.baker@wwbwc.org"
-}

@@ -1,9 +1,0 @@
-{
-  "abstractText": "This is a method for computing the Exposure Index of a population ofanimals to an environmental variable (measurement) at a site.For example, the exposure of juvenile salmon at Little Goose Dam to Total Dissolved Gas (TDG) in 2016. River conditions during salmon migration vary considerably and there is a need to assess the relative exposure of salmon populations to various conditions that may impact their survival, travel time, or fitness.Becausefish on one day have different exposure than fish on a subsequent day, the exposure index is computed as an average of daily environmental variables weighted by the number of animals on that day. There are no constraints on what metrics are used. Environmental variables can be any time series of data and the animals could be any population of animals that can be enumerated at the site where the environmental variable is being monitored. For example, juvenile salmon passing a dam.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/5421",
-  "title": "Exposure Index for Migratory Salmon to Environmental Conditions v1.0",
-  "id": 5421,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Nicholas Beer",
-  "ownerEmail": "nickbeer@uw.edu"
-}

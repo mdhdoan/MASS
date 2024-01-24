@@ -1,9 +1,0 @@
-{
-  "abstractText": "Macro-nutrient limitation will be evaluated using NDS amended with N, P, a combination of N and P, and an un-amended control (Tank et al. (2006) (Nitrogen Limitation and Uptake chapter) in Hauer and Lamberti (2006) (Methods in Stream Ecology)). Nutrient diffusing substrata will be constructed using frames holding 30 ml polycon cups covered with fritted glass discs. Cups will be filled with 2% agar amended with: a 0.5M solution of NaNO3 (N treatment); a 0.5M solution of KH2PO4 (P treatment); a combination of N and P; and a non-amended agar (control). Seven replicates of each treatment (control, N, P, and N+P in an upstream to downstream order) will be secured to frames and incubated in riffle habitat units for 21 (2) days. Samples will be analyzed for chlorophyll a and AFDM using analysis of variance models (ANOVA). Results from NDS experiments will help to characterize and assess nutrient limitation in study streams in the upper Salmon River subbasin. Nutrient limited streams will be considered for SCA nutrient enrichment treatments.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/796",
-  "title": "Using an artificial nutrient diffusing substrate in streams to assess nutrient limitation v1.0",
-  "id": 796,
-  "type": "Data Collection",
-  "ownerName": "David Richardson",
-  "ownerEmail": "drichardson@sbtribes.com"
-}

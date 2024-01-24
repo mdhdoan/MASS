@@ -1,9 +1,0 @@
-{
-  "abstractText": "Genetic distance refers to the genetic differences (or divergence) between populations within a species. It is important to measure because it provides information to help identify demographically independent populations (DIPs) and major population groups (MPGs) within a species ESU/DPS for viability monitoring purposes. It can be measured by a variety of parameters with different biological assumptions. Some common measures of genetic distance include F-statistics (Wright 1978), Reynolds distance or the coancestry distance (Reynolds et al., 1983; see Weir, 1996, p. 167), Neis genetic distance (Nei 1972, 1978), and Cavalli-Sforza and Edwards chord distance (1967). For all measures, smaller values indicate low genetic differentiation among populations, whereas larger values indicated higher levels of genetic differentiation among populations.Geneticists often report population pairwise distances in a distance matrix and then construct a PCA plot to visualize thepatterns of genetic relationship contained inthe matrix. This method describes procedures for producing a PCA plot in the software program GenAlEx 6.5 based on Nei's genetic distance.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/3817",
-  "title": "Constructing a Principal Coordinate Analysis (PCA) plot based on genetic distance v1.0",
-  "id": 3817,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Matthew Campbell",
-  "ownerEmail": "matthew.campbell@idfg.idaho.gov"
-}

@@ -1,9 +1,0 @@
-{
-  "abstractText": "This method explains how to collect in situ measures of temperature, dissolved oxygen, pH andconductivity at wadeable streams using a multi-probe (e.g.Hydrolab Minisonde).It requires adherence to calibration techniques documented in method ID 3830, Title QC and Calibrating Minisode Multiprobes and FloMate-2000- temperature, pH, conductivity, dissolved oxygen, and velocity.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/3831",
-  "title": "Collecting with Multiprobes and FloMate-2000- temperature, pH, conductivity, dissolved oxygen, and velocity v1.0",
-  "id": 3831,
-  "type": "Data Collection",
-  "ownerName": "Glenn Merritt",
-  "ownerEmail": "glenn.merritt@ecy.wa.gov"
-}

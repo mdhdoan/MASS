@@ -1,9 +1,0 @@
-{
-  "abstractText": "This method explains how to collect measurements at each of11 equidistant transects at each site. Establish transects using method ID 3828 (or something similary).  Measurements in this procedure will be restricted to onemain channel.This method is performed by 2 persons. This method is applied at every data colletion eventat each majortransect. Staff performing this method must have been trained",
-  "url": "http://www.monitoringresources.org/api/v1/methods/3838",
-  "title": "Channel Dimensions - Bankfull, Wetted and Bar Width and Bankfull Height v1.0",
-  "id": 3838,
-  "type": "Data Collection",
-  "ownerName": "Glenn Merritt",
-  "ownerEmail": "glenn.merritt@ecy.wa.gov"
-}

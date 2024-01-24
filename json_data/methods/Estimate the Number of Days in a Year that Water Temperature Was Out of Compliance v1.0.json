@@ -1,9 +1,0 @@
-{
-  "abstractText": "The number of days out of compliance is the number of days in a year during which the average temperature exceeds 20C. The average temperature is calculated using the maximum 7-day average of the daily maximums (7DADM), and based on the definition under the water quality standards for surface waters of the state of Washington.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/716",
-  "title": "Estimate the Number of Days in a Year that Water Temperature Was Out of Compliance v1.0",
-  "id": 716,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "John Skalski",
-  "ownerEmail": "skalski@uw.edu"
-}

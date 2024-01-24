@@ -1,9 +1,0 @@
-{
-  "abstractText": "Variable mesh gill nets are appropriate for sampling when fish mortality is not a limiting factor. Gill nets normally kill a high percentage of fish due to the trapping mechanism of the net around the gills. Careful net tending can reduce but not eliminate the mortality percentage. The use of variable size mesh panels in the gill net allows capture of fish of different sizes. As such, this method can be used to collect data on population abundance, stock characteristics, population distribution, and species richness. Gill nets are not species-selective, and as a result, it can be expected that as many or more nontarget species will be captured as target species. In addition, small aquatic mammals and birds will also occasionally become entangled in the mesh and drown. Gill nets can be used to meet the following objectives:  Determine relative abundance of lake or stream populations by measuring the catch-per-unit-effort (CPUE).  Determine total abundance of lake populations by measuring the recapture rate of marked fish.  Determine the length, sex, phenotypes, and genotypes of fish by collecting a representative catch of each sample.  Determine the species composition and relative biomass of a lake or a stream. This method draws extensively from the following papers: Bernabo (1986); Baklwill and Combs (1994); Bonar et al. (2000); and Klemm et al. (1993). Additional insights into use of gill nets can be found in Hubert (1996).",
-  "url": "http://www.monitoringresources.org/api/v1/methods/140",
-  "title": "Gill Netting v1.0",
-  "id": 140,
-  "type": "Data Collection",
-  "ownerName": "Jacque Schei",
-  "ownerEmail": "jschei@usgs.gov"
-}

@@ -1,9 +1,0 @@
-{
-  "abstractText": "Effort Estimation - Private Vessel Bar Crossing Count Method The primary method for counting private ocean recreational boats involves making bar crossing counts for a set period of time.    Most generally this is the period of dawn through 10:00 AM.  Both out and in counts are made.  For each day that a count is made, one form will be filled out for the OUT count and a second for the IN count of returning boats.  The boat counter makes their count within the specified time frame as scheduled, and records both the starting and ending time of the count.  The primary use of the IN count, is as a correction of the OUT count for boats that turned around early and returned due to weather, sea, or other unforeseen circumstances prior to when ORBS samplers would have a chance to interview them.  Private boat OUT counts are transferred to the Recreational Ocean Fishery Effort Form.  If adjustments are made to the OUT count for early returning trips, the adjusted OUT count is what is recorded.   For effort counts utilizing the standard bar crossing method, the sample data for the week is examined to determine the proportion of interviewed boats that crossed the bar either before or after the bar crossing count was conducted.  This information is used to generate one or more expansion factors which are applied back to the OUT counts to estimate the total number of private boats that entered the ocean during the day.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/183",
-  "title": "Effort Estimation - Private Vessel Bar Crossing Count Method v1.0",
-  "id": 183,
-  "type": "Data Collection",
-  "ownerName": "Eric Schindler",
-  "ownerEmail": "eric.d.schindler@state.or.us"
-}

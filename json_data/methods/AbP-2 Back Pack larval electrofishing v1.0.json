@@ -1,9 +1,0 @@
-{
-  "abstractText": "The AbP-2 has been used in assessing larval lamprey populations in the Great Lakes Region by various agencies since 1991 (Weisser 1994). The electroshocker will be operated with settings of 3 pulses per second with 25% duty cycle slow pulse to remove animals from the substrate (Hintz 1993). When larvae exit the substrate, 30 pulse per second with 25% duty cycle will be applied to stun and collect larvae. The peak voltage will be set at 125 volts. In 1998, forty three 7.5 m2 index plots were selected for monitoring larval densities.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/580",
-  "title": "AbP-2 Back Pack larval electrofishing v1.0",
-  "id": 580,
-  "type": "Data Collection",
-  "ownerName": "Aaron Jackson",
-  "ownerEmail": "aaronjackson@ctuir.org"
-}

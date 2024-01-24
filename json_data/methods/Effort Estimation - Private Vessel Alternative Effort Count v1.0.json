@@ -1,9 +1,0 @@
-{
-  "abstractText": "The majority of the remaining ports use what is known as the Alternative Effort Count.  This method is only used in smaller ports with a view of the exit channel and a single boat basin area that handles the vast majority of the ocean effort and that can be viewed completely at all times.  This count method is typically used in Depoe Bay, Florence, Bandon, and Gold Beach.  The alternative effort count form involves four components to estimate effort.  First, the sampler counts all boat trailers and moorage slips that are currently in use but vacant at the time of the count.  This count includes any other locations that ocean boats are using such as moorage or access points.  This count is typically made once at the start of the sampling day, before the fishing boats start returning to port.  The start time and initial count may need to occur earlier based on weather conditions and angler success rates.  The second component of the alternative effort count is to count any additional departing private boats throughout the day.  The third component involves keeping a count of all private boats that are returning to their moorage slips, the boat ramp, and upstream moorage sites.   The fourth and final component is to tally the boats that are interviewed by category on the form.  The categories are ocean trips all trip types, and estuary trips which are split out for salmon, non-salmon, and non-fishing trip types.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/181",
-  "title": "Effort Estimation - Private Vessel Alternative Effort Count v1.0",
-  "id": 181,
-  "type": "Data Collection",
-  "ownerName": "Eric Schindler",
-  "ownerEmail": "eric.d.schindler@state.or.us"
-}

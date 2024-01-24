@@ -1,9 +1,0 @@
-{
-  "abstractText": "Single Nucleotide Polymorphisms (SNPs) are attractive for large-scale PBT and GSI efforts in that theirbi-allelic nature allows for highly automated, rapid genotyping (Schlotterer 2004; Van Tassell etal. 2008; Seeb et al. 2009a) with low error rates (Morin et al. 2004) which facilitatesstandardization across laboratories. These characteristics make SNPs ideal for collaborationamong agencies involved in genetic studies involving salmon and steelhead throughout the Columbia River basin.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/1332",
-  "title": "SNP genotyping on Fluidigm platform v1.0",
-  "id": 1332,
-  "type": "Data Collection",
-  "ownerName": "Matthew Campbell",
-  "ownerEmail": "matthew.campbell@idfg.idaho.gov"
-}

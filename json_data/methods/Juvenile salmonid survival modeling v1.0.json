@@ -1,9 +1,0 @@
-{
-  "abstractText": "Survival modelingis essential to identify potential limitations during juvenile outmigration and adult upstream migration periods that may be affecting population and/or species recovery. Information collected from PIT tagged salmonids provides the foundation to estimate overall apparent survivaland susequently can provide insight critical to understanding out-of-basin survival by estimating population specific smolt-to-adult-returns. The (SAR) rate represents one of the most commonly used metrics to understand within-basin productivity, ocean survival, and subsequent adult returns. Smolt abundance estimates coupled with SAR rates can be evaluated over time to better understand freshwater versus oceanic influences on annual adult returns.By calculating juvenile salmonid apparent survival managers are better equipped to pinpoint any bottlenecks in survival and can aptly compare patterns observed between wild and hatchery groups to enhance overall production.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/5368",
-  "title": "Juvenile salmonid survival modeling v1.0",
-  "id": 5368,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Philip Simpson",
-  "ownerEmail": "philip.c.simpson@state.or.us"
-}

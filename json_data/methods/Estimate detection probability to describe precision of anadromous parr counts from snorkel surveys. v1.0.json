@@ -1,9 +1,0 @@
-{
-  "abstractText": "To assess observation bias during snorkel surveys, field crews implemented a mark-resight methodology to estimate the observation or detection efficiency of steelhead parr and Westslope Cutthroat Trout in a subjectively chosen set of sites each year. A protocol modified from Thurow et al. (2006) was designed to estimate detection probability through observation of marked individuals (Apperson et al. 2015). Since Thurow et al. (2006) found that steelhead and Westslope Cutthroat Trout had the same detection efficiency, we evaluate the observation efficiency of snorkeling for juvenile steelhead and Cutthroat Trout combined at a subset of transects. Mark-resight surveys are selected at the snorkel crew leaders discretion, but the program goal is to perform them in 10% of transects annually.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/6938",
-  "title": "Estimate detection probability to describe precision of anadromous parr counts from snorkel surveys. v1.0",
-  "id": 6938,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Eric Stark",
-  "ownerEmail": "eric.stark@idfg.idaho.gov"
-}

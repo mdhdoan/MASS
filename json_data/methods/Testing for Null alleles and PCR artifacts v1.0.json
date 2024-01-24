@@ -1,9 +1,0 @@
-{
-  "abstractText": "Genotyping errors may occur when primer-site mutations result in non-amplified alleles (null alleles), or due to PCR artifacts that cause large allele drop-out (large alleles do not amplify as efficiently as small alleles) and allele stuttering (PCR slippage). Such errors can cause deviations from Hardy-Weinberg equilibria, and may bias spatial and temporal population genetic analyses.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/1740",
-  "title": "Testing for Null alleles and PCR artifacts v1.0",
-  "id": 1740,
-  "type": "Data Collection",
-  "ownerName": "Matthew Campbell",
-  "ownerEmail": "matthew.campbell@idfg.idaho.gov"
-}

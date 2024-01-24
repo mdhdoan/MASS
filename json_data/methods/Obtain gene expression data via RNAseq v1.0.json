@@ -1,9 +1,0 @@
-{
-  "abstractText": "Compare gene expression between fish of different genetic backgrounds but raised in same environment. We created crosses within and between wild fish and F1 hatchery fish, and froze the fry in liquid nitrogen at swim up. RNA was isolated from whole bodies of each fish.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/607",
-  "title": "Obtain gene expression data via RNAseq v1.0",
-  "id": 607,
-  "type": "Data Collection",
-  "ownerName": "Michael Blouin",
-  "ownerEmail": "blouinm@science.oregonstate.edu"
-}

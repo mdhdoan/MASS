@@ -1,9 +1,0 @@
-{
-  "abstractText": "Perform temperature data quality assurance/quality control (QAQC) procedures and calculate water temperature metrics characterizing the main components of a river's thermal regime (magnitude, variability, frequency, duration, and timing).",
-  "url": "http://www.monitoringresources.org/api/v1/methods/6953",
-  "title": "Water temperature - metric calculation v1.0",
-  "id": 6953,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Casey Justice",
-  "ownerEmail": "jusc@critfc.org"
-}

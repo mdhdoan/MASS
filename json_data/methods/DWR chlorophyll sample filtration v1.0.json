@@ -1,9 +1,0 @@
-{
-  "abstractText": "Procedure to collect chlorophyll-a samples on filters for analysis by SM10200 for California Department of Water Resources (DWR) at Bryte Lab.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/7111",
-  "title": "DWR chlorophyll sample filtration v1.0",
-  "id": 7111,
-  "type": "Data Collection",
-  "ownerName": "John Franco Saraceno",
-  "ownerEmail": "JOHNFRANCO.SARACENO@WATER.CA.GOV"
-}

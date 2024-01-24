@@ -1,9 +1,0 @@
-{
-  "abstractText": "We monitor turbidity during weir installation and daily weir operations to make sure that levels during construction or dailymonitoring activities do not exceed 5 Nephelometric Turbidity Units (NTU's). If it does exceed this level, the construction or activity that is responsible for introducting turbidity will be terminated until mitigating measures can be developed and implemented. Measurements are taken once daily during installation and operation of the weir.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/5527",
-  "title": "Turbidity Measurements at a Weir with an Oakton Meter v1.0",
-  "id": 5527,
-  "type": "Data Collection",
-  "ownerName": "Andrea Pearl",
-  "ownerEmail": "andrea.pearl@colvilletribes.com"
-}

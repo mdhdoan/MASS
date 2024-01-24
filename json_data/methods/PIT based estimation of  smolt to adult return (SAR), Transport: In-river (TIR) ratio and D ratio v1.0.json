@@ -1,9 +1,0 @@
-{
-  "abstractText": "The rate of smolt to adult return (SAR) isestimatedamong outgoing juveniles ofknown release, and detected return numbers ofPIT-tagged adult fish. The tags in juvenile fish which were PIT tagged in upstream tributariesare potentially read as the fish pass through the coils of detectors installed in the collection/bypass channels of mainstem dams. The method randomly pre-assigns the tagged fish to transported and in-riverstudy groups prior to their emigration through the hydrosystem.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/4180",
-  "title": "PIT based estimation of  smolt to adult return (SAR), Transport: In-river (TIR) ratio and D ratio v1.0",
-  "id": 4180,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Christine Petersen",
-  "ownerEmail": "chpetersen@bpa.gov"
-}

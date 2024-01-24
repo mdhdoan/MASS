@@ -1,9 +1,0 @@
-{
-  "abstractText": "It is important for hatcheries to estimate the average egg production for each species spawned. This allows them to calculate the total number of eggs collected and meet production goals. Many different methods for measuring and counting eggs have been developed over the years. Three well know methods are the California volumetric method, Burrows displacement method, and the Von Bayer method (Leitritz & Lewis, 1976). The Von Bayer method uses a trout egg measuring trough (Figure 1). The trough measures 12 inches long (inside dimension), has an angle of 45 degrees and a depth of about 2 inches. The left side of the trough has a scale displaying the number of eggs and the right side indicates the number of eggs per ounce (Leitritz & Lewis, 1976).",
-  "url": "http://www.monitoringresources.org/api/v1/methods/5286",
-  "title": "Estimating Egg Production Using the Von Bayer Method v1.0",
-  "id": 5286,
-  "type": "Data Collection",
-  "ownerName": "Doug Hatch",
-  "ownerEmail": "hatd@critfc.org"
-}

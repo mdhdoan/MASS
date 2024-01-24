@@ -1,9 +1,0 @@
-{
-  "abstractText": "This method is derived from an Environmental Monitoring and Assessment Program (EMAP) protocol developed for monitoring measuring the ecological condition of western wadable streams. Included in this method are instructions for measuring large woody debrisThis component of the EMAP physical habitat characterization allows quantitative estimates of the number, size, total volume and distribution of wood within the stream reach. LWD is defined here as woody material with a small end diameter of at least 10 cm (4 in.) and a length of at least 1.5 m (5 ft.).*This method for determining large woody debris (LWD) measurements is a simplified adaptation of those described by Robison and Beschta (1990).Overview: what data to collect1. Determine diameter class of the large end.2. Determine the length class.3. Tally LWD within segment that are at least partially within the bankfull channel.4. Tally LWD within segment that are not actually within the bankfull channel, but are at least partially spanning (bridging) the bankfull channel.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/75",
-  "title": "Physical Habitat: Large Woody Debris v1.0",
-  "id": 75,
-  "type": "Data Collection",
-  "ownerName": "Jacque Schei",
-  "ownerEmail": "jschei@usgs.gov"
-}

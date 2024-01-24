@@ -1,9 +1,0 @@
-{
-  "abstractText": "Ratio of inundated floodplain area to channel length is a metric that provides a measure of how engaged thefloodplain of a stream is a various flows. Floodplain reconnection is a goal of some stream restoration projects, and is therefore important to monitor in order to gaugethe efficacy of restoration efforts to reconnect floodplains. The analysis isdone in conjunction with Hydraulic Modeling to predict floodplain inundation at different stream flow levels. See separate data analysis (method ID: 1764) - Hydraulic Modeling for Analysis of Floodplain Habitat.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/4234",
-  "title": "Ratio Inundated Floodplain Area to Channel Length v1.0",
-  "id": 4234,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Rachael Katz",
-  "ownerEmail": "rachael.katz@tetratech.com"
-}

@@ -1,9 +1,0 @@
-{
-  "abstractText": "Having an estimate of fish population abundance is a basic piece of knowledge necessary for describing or understanding changes fish populations, and for fisheries management (Everhart and Youngs 1981). At times, direct observation and enumeration may be available when a fish population is concentrated at some particular life stage, however, indirect methods are often required when direct observations are not available or practical (Everhart and Youngs 1981). Overall abundance (N) of white sturgeonwithin anarea can be estimated using a Schnabel population estimator (Schnabel 1938; Chapman 1952, 1954),",
-  "url": "http://www.monitoringresources.org/api/v1/methods/780",
-  "title": "Abundance Estimation of Fish Using Multiple Mark and Recapture Data v1.0",
-  "id": 780,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Christine Mallette",
-  "ownerEmail": "christine.mallette@state.or.us"
-}

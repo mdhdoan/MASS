@@ -1,9 +1,0 @@
-{
-  "abstractText": "Aerial photography and photo points are key tools for conducting quantitative measurements and qualitative assessments of landscape features at monitored sites. It is important to document the spatial changes in geomorphological features (such as tidal channel evolution or the intertidal area) and vegetation communities (e.g., agricultural meadow vs. emergent marsh) at a site scale to complement less extensive statistical sampling. Full color or near infrared aerial photographs are often publicly available through governmental agencies and provide a low cost alternative for evaluating environmental change without image analysis software and remote sensing expertise. If funds and expertise are available, hyperspectral or multispectral satellite imagery or digital aerial photography can provide additional information.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/820",
-  "title": "Landscape Features (aerial photography and photo points) Data Collection - Roegner et al. 2009 v1.0",
-  "id": 820,
-  "type": "Data Collection",
-  "ownerName": "Catherine Corbett",
-  "ownerEmail": "ccorbett@estuarypartnership.org"
-}

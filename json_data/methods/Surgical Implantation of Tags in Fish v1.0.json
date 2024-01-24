@@ -1,9 +1,0 @@
-{
-  "abstractText": "Implanting tags into fish allows researchers to implement telemetry studies on fish totrack movements, distribution, home range, and habitat preference in their native environments without direct observation or recapture. Tags in fish can be implanted gastrically (into the stomach) or surgically in the peritoneal cavity. Gastic tagging can be quick, but may result in a ruptured esophagus or stomach. Surgical tagging is more time consuming, requires more handling of the fish, and increases the potential for infection at the surgical site (Martinelli et al. 1998). But, it has been shown thatgrowth, feeding behavior, and condition of salmonids were less affected by the presence of surgically implanted tags over a long term (21 days) than by gastrically implanted tags (Adams et al. 1998; Martinelli et al. 1998).",
-  "url": "http://www.monitoringresources.org/api/v1/methods/902",
-  "title": "Surgical Implantation of Tags in Fish v1.0",
-  "id": 902,
-  "type": "Data Collection",
-  "ownerName": "PNAMP Support",
-  "ownerEmail": "pnamp.mm@gmail.com"
-}

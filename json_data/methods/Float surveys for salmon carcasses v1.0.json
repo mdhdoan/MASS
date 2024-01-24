@@ -1,9 +1,0 @@
-{
-  "abstractText": "Salmon carcasses retrieved from spawning grounds can provide important data for research and monitoring applications. With suitable data collection methods, assessments can be made regarding: spawning escapement; pre-spawn mortality and egg retention; demographic characteristics; genotypic and phenotypic traits; stray rates; and spawning composition (ratio of hatchery- tonatural-origin spawners). Spawning grounds must be surveyed during the spawning season, to allow for the collection of carcasses. This method deals only with the survey/collection of salmon carcasses from spawning grounds. See other methods for data collection relating to further assessments of collected carcasses (e.g., biological sampling, tag/mark interrogations).",
-  "url": "http://www.monitoringresources.org/api/v1/methods/5490",
-  "title": "Float surveys for salmon carcasses v1.0",
-  "id": 5490,
-  "type": "Data Collection",
-  "ownerName": "Matthew Laramie",
-  "ownerEmail": "mlaramie@usgs.gov"
-}

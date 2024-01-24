@@ -1,9 +1,0 @@
-{
-  "abstractText": "High frequency sonar files are recorded using DIDSON software version 5.25.48 at six frames per second, 24 hours per day, and seven days per week during the salmon migration season. These files are processed using the Convolved Samples Over Threshold (CSOT) feature of the DIDSON software (Table 1). CSOT processes high frequency DIDSON files to periods of motion-only events. The CSOT is a motion detection algorithm that allows for the capture and recording of frames that only contain moving objects greater than a specified size and brightness (Sound Metrics 2009a). This software feature presents a methodology that saves both disk space and observation time. The algorithm is based on user specified parameters, including Minimum and Maximum Cluster Area, and a Minimum Threshold value in decibels (dB) (Sound Metrics 2009b).",
-  "url": "http://www.monitoringresources.org/api/v1/methods/6638",
-  "title": "DIDSON CSOT Processing and File Reading v1.0",
-  "id": 6638,
-  "type": "Data Collection",
-  "ownerName": "Ryan Kinzer",
-  "ownerEmail": "ryank@nezperce.org"
-}

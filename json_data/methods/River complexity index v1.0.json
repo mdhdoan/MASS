@@ -1,9 +1,0 @@
-{
-  "abstractText": "Calculate river complexity index as in Brown (2002) representingchannel planform complexity, a function of channel sinuosity and the number of side channel junctions.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/6942",
-  "title": "River complexity index v1.0",
-  "id": 6942,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Casey Justice",
-  "ownerEmail": "jusc@critfc.org"
-}

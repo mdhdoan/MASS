@@ -1,9 +1,0 @@
-{
-  "abstractText": "Many techniques to assess egg-to-fry survival involve a multitude of sub-estimators that can confound any direct effects by compounding the variances of each individual sub-estimate. Therefore, a direct measurement from egg to pre-emergent or emergent fry stage is often a better estimator. Habitat measurements are needed to better understand the conditions experienced by eggs and fry during incubation. One important habitat variable is the presence or absence of groundwater influence in the form of upwelling or downwelling.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/4221",
-  "title": "Groundwater Influence v1.0",
-  "id": 4221,
-  "type": "Data Collection",
-  "ownerName": "Pete Rust",
-  "ownerEmail": "Pete.Rust@idfg.idaho.gov"
-}

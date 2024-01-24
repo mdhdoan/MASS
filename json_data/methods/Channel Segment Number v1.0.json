@@ -1,9 +1,0 @@
-{
-  "abstractText": "The channel segment number is used to uniquely identify side channels containing between 16% and 49% of the flow. A qualifying side channel is a channel separated from the main channel by an island that is above the bankfull elevation for a distance equal to or greater than the site width category. The main channel is always channel segment 1. The first side channel encountered is channel segment 2, the next side channel is channel segment 3, and so on (Figure 18). Side channels separated by an island that are not as long as the distance of the site width category are not uniquely identified by a channel segment number. The primary channel segment (the main channel segment containing the highest percentage of stream flow throughout the site) will always have a segment number of 1, and its start will always be the downstream boundary of the site.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/837",
-  "title": "Channel Segment Number v1.0",
-  "id": 837,
-  "type": "Data Collection",
-  "ownerName": "Boyd Bouwes",
-  "ownerEmail": "boydbouwes@gmail.com"
-}

@@ -1,9 +1,0 @@
-{
-  "abstractText": "The Pacific States Marine Fisheries Commission (PSMFC) maintains a recreational fisheries data base known as the Recreational Fishery Information Network or RecFIN.  The first of these expansions was recommended by the RecFIN statistical sub-committee to account for late afternoon/night fishing activity and for activity at minor unsampled ports (refer to Figure 1).  The RecFIN statistical subcommittee recommended a static 4% expansion to the effort and catch estimates for private boat bottomfishing and spearfishing trips.  RecFIN Effort Estimation:  Current total effort is estimated by dividing total groundfish effort by sampled ports average 3-year summer effort as a percentage of total effort.  RecFIN Unsampled Port Effort Estimate:  The current unsampled port effort is estimated by multiplying each unsampled ports average effort percentage to the total estimated groundfish effort.  Unsampled Catch Estimate:  The current unsampled port catch is estimated by multiplying each unsampled ports estimated groundfish effort to the previous years catch per angler estimate and then to the previous years estimated groundfish species composition.  In general, this expansion accounts for 10% or less of the statewide annual bottomfish effort and catch.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/264",
-  "title": "RecFIN Expansion for Unsampled Ports and Time Periods v1.0",
-  "id": 264,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Eric Schindler",
-  "ownerEmail": "eric.d.schindler@state.or.us"
-}

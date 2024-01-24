@@ -1,9 +1,0 @@
-{
-  "abstractText": "To document the EPA NARS field methods for the National Rivers and Streams Assessment (NRSA) 2018/19 Field Manual Wadeable.The document includesmethods for:initial site proecdures,laying out the sample reach and modifying sample protocols for high or low flowswater chemistry, dissolved oxygen, oH, temperature, conductivity, and chlorophyll-a sample collection and preservation (Method: Water Chemistry Sample Collection with Cube Containers for Total Phosphorous, Nitrogen & Ammonium, Total Suspended Solids, Turbidity and Alkalinity v1.0 (monitoringresources.org))algal toxins (micrrosystins and cylindrospermopsin)benthic macroinvertebrates (Customized Method 31181 Benthic Macroinvertebrates (monitoringresources.org))periphytonphysical habitat characterization (includesMethod: Measuring Bank Characteristics: Bankfull Width v1.0 (monitoringresources.org);Method: Tallying Large Woody Debris v1.0 (monitoringresources.org);Customized Method 31186 Stream Gradient (monitoringresources.org);Method: Substrate Measurements and Pebble Counts v1.0 (monitoringresources.org))fecal indicator (enterococci)fish assemblagefish tissue and sampling methodswhole fish sampling methodfield quality controlThe NRSA is a probability-based survey of our Nations rivers and streams and is designed to:Assess the condition of the Nations rivers and streams.Evaluate changes in condition from both the NRSA 2008/09 and NRSA 2013/14.Help build State and Tribal capacity for monitoring and assessment and promote collaboration across jurisdictional boundaries",
-  "url": "http://www.monitoringresources.org/api/v1/methods/7080",
-  "title": "NRSA Field Methods 2018/19 v1.0",
-  "id": 7080,
-  "type": "Data Collection",
-  "ownerName": "PNAMP Support",
-  "ownerEmail": "pnamp.mm@gmail.com"
-}

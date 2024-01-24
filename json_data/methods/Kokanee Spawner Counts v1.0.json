@@ -1,9 +1,0 @@
-{
-  "abstractText": "One method that has been used as an index of mature kokanee abundance, and ultimately total kokanee abundance, is spawner counts. Though spawner counts do not represent an absolute value for kokanee abundance, these trend data can show large-scale changes in kokanee abundance of many years. These counts have been standardized for timing, locations, and counting methodologies.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/1095",
-  "title": "Kokanee Spawner Counts v1.0",
-  "id": 1095,
-  "type": "Data Collection",
-  "ownerName": "Pete Rust",
-  "ownerEmail": "Pete.Rust@idfg.idaho.gov"
-}

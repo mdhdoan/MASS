@@ -1,9 +1,0 @@
-{
-  "abstractText": "Estimate of the aerial coverage frombig trees (>0.3 m diameter at breast height) in the canopy layer (trees >5 m tall).Visual estimates taken at 5 transects (1, 6, 11, 16, 21) within a 10m x 10m plot on the right and left bank (RB and LB) beginning at bankfull.  Estimates are the percent of aerial cover (the amount of shadow that would be cast if the sun were directly overhead) from bigtrees (>0.3m DBH) in the canopy layer (>5mhigh). All the estimates site-wide are averaged to arrive at the percent big tree coverThe CHaMP - Riparian Structure Method provides background on the measurements that are analyzed for this calculation. See - http://www.monitoringmethods.org/Method/Details/845",
-  "url": "http://www.monitoringresources.org/api/v1/methods/878",
-  "title": "Percent Big Tree Cover v1.0",
-  "id": 878,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Carol Volk",
-  "ownerEmail": "carol@southforkresearch.org"
-}

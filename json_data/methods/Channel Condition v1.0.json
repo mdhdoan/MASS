@@ -1,9 +1,0 @@
-{
-  "abstractText": "Stream gradient: the water surface gradient or slope is an indication of potential water velocities and stream power.  Water surface slope will be reported as a percentage.Wetted width: the width of the water surface measured perpendicular to the direction of flow.Bankfull width: the width of the channel at bankfull stage.Width/depth ratio: an index of the cross-section shape of a stream channel at bankfull level.  The ratio is expressed as bankfull width divided by the mean cross-section bankfull depth.Streambank Condition: the plan includes streambank stability as the one specific indicator of streambank condition.  The method estimates the percent of lineal distance that is actively eroding at the active channel height on both sides of the transect regardless if the channel is wet or dry.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/37",
-  "title": "Channel Condition v1.0",
-  "id": 37,
-  "type": "Data Collection",
-  "ownerName": "Tracy Hillman",
-  "ownerEmail": "tracy.hillman@bioanalysts.net"
-}

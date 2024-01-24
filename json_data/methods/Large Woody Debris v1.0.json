@@ -1,9 +1,0 @@
-{
-  "abstractText": "All LWD pieces and jams occurring within the bankfull channel are enumerated for each channel unit. LWD outside the wetted channel are enumerated as dry wood for the nearest channel unit. LWD is one of the channel unit level attributes covered in section 8 of the protocol.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/841",
-  "title": "Large Woody Debris v1.0",
-  "id": 841,
-  "type": "Data Collection",
-  "ownerName": "Steve Rentmeester",
-  "ownerEmail": "steve@sitkatech.com"
-}

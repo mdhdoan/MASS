@@ -1,9 +1,0 @@
-{
-  "abstractText": "This method explains how to measure classify substrate into types at each of 11 equidistant transects at each site. Establish transects using method ID 3828.Measurements in this procedure will be restrictedto one main channel. This method must be preceded by the Major Transects Method.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/3842",
-  "title": "Substrate Type (particle size classified into types)    - For Wadable Streams v1.0",
-  "id": 3842,
-  "type": "Data Collection",
-  "ownerName": "Glenn Merritt",
-  "ownerEmail": "glenn.merritt@ecy.wa.gov"
-}

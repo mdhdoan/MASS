@@ -1,9 +1,0 @@
-{
-  "abstractText": "Wilcox et al. (2015) conducted particle distribution analysis of eDNAfrom a captive Brook Trout (Salvelinus fontinalis) in a flow-through mesocosm in a fishless, ephemeral tributary. They tested for inhibition, but found no evidence of it in this study. Methods for water sample collection, DNA extraction and qPCR analyses are also presented since inhibition can be influenced by these initial steps.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/6625",
-  "title": "Detecting inhibition in environmental DNA samples collected in streams v1.0",
-  "id": 6625,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Adam Sepulveda",
-  "ownerEmail": "asepulveda@usgs.gov"
-}

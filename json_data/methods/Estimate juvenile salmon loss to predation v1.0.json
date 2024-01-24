@@ -1,9 +1,0 @@
-{
-  "abstractText": "This method uses estimates of predator consumption of juvenile salmon and predator abundance to estimate the total loss of juvenile salmonto predation within a particular time frame and study area. This information can be used to assess the relative importance of predation as a juvenile salmon mortality factor. This method is used with smallmouth bass and juvenile fall Chinook salmon but can be customized for any predator and prey fish.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/1459",
-  "title": "Estimate juvenile salmon loss to predation v1.0",
-  "id": 1459,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Kenneth Tiffan",
-  "ownerEmail": "ktiffan@usgs.gov"
-}

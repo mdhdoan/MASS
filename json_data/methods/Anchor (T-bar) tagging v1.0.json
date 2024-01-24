@@ -1,9 +1,0 @@
-{
-  "abstractText": "The purpose of anchor tagging is to mark fish for subsequent recapture. Data from recaptured fish can be used to estimate population abundance, fish growth,and fish movement. Typically, fish must be large enough to accept an anchortag. For example, for a fish like a smallmouth bass, a 150 mm fish can easily accept a40 mmtag. Fish to be tagged may or may not be anesthetized first, and will depend on the species and how quickly they can be handled during the tagging process.Anchor tags are composed of a T-shaped (T-bar) or barbed (dart) attachment end that is embedded in the fish. The other end is a colored plastic tube or streamer that typically has information about the project printed on it (Zale et al. 2012). This method describes attachment of T-bar anchor tags, also known as Floy tags.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/1443",
-  "title": "Anchor (T-bar) tagging v1.0",
-  "id": 1443,
-  "type": "Data Collection",
-  "ownerName": "Kenneth Tiffan",
-  "ownerEmail": "ktiffan@usgs.gov"
-}

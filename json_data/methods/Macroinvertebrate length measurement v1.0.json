@@ -1,9 +1,0 @@
-{
-  "abstractText": "Measuring the lengths of macroinvertebrates is often necessary to later calculating length-frequency histograms, developing length-weight regressions, and estimating biomass from length-weight regressions. The length measurement of choice will depend on the species of interest. For example, a larval mayfly might have its total length measured whereas a crayfish might just have its carapace length measured. The number of individuals measured will also depend on the final use of the data and the amount of length variability in the population. For example, a sample size of 100 individuals might be adequate for generating a length-weight regression, but a sample size of 500 individuals might be more appropriate for discerning the age structure of a population for which many length bins are used. This describes a general method for measuring the length of an invertebrate and should be customized based on the species of interest.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/5348",
-  "title": "Macroinvertebrate length measurement v1.0",
-  "id": 5348,
-  "type": "Data Collection",
-  "ownerName": "Kenneth Tiffan",
-  "ownerEmail": "ktiffan@usgs.gov"
-}

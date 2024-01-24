@@ -1,9 +1,0 @@
-{
-  "abstractText": "Size selectivity of fishing gear can bias estimates of size structure, growth and mortality and thus should be evaluated in any stock assessment program (McCombie and Fry 1960; Jensen 1982; Rudstam et al. 1984; Willis et al. 1985; Colombo et al. 2008; Gwinn et al. 2010). Direct estimates of selectivity can be calculated if the length distribution of the population is known, although knowledge of a population's length distribution is rare (Millar and Holst 1997). Selectivity can be estimated directly using mark-recapture techniques (see Method 4176); however, mark-recapture experiments are often cost-prohibitive (Pierce 1994).Selectivity of some fishing gears, such as setlines and gillnets, can be estimated indirectly by comparing the observed catch frequencies across the various hook sizes or meshes fished (Millar and Holst 1997). The maximum-likelihood approach of Millar and Holst (1997), also known as the SELECT method (Share Each Lengths Catch Total). is used to estimate parameters of log-linear selectivity models (Normal location, Normal scale, Gamma, Lognormal, and Bi-normal) and generate selection curves for each hook or mesh size. The selectivity curves from each hook or mesh size can be combined to generate an overall setline or gillnet selectivity curve that describes the probability of a capturing (retaining) a fish within each length class. The catch can then be adjusted by applying the probability of retention for each length class to the total catch within the length class.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/5399",
-  "title": "Indirect estimation of setline and gillnet size selectivity v1.0",
-  "id": 5399,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Jason McLellan",
-  "ownerEmail": "jason.mclellan@colvilletribes.com"
-}

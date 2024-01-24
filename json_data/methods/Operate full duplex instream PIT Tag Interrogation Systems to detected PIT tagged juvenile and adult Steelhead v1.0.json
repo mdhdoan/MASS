@@ -1,9 +1,0 @@
-{
-  "abstractText": "Instream PIT tag interrogation systems (PTISs) are a valuable tool to research life history aspects of fish in river systems (Zydlewski et al. 2006; Connolly et al. 2008; Achord et al. 2012). Data for population estimates, survival, and migration timing can be gathered with PTISs. PIT tagging of anadromous salmonids in the Columbia River Basin is a primary tool used by researchers, and instream PTIS have become a key tool in such research. Because of the limits of tag size and read speed required at hydroelectid facilities, most anadromous salmonids in the Columbia River Basin are tagged with full duplex 134.2 kHz 12-mm PIT tags. Use of PTISs allow researchers to tag and follow cohorts of fish from parr size to return as adults. Detection data from PIT-tagged fish may be used for population estimates,behavioral studies, or caluclation of life-stage specific survival rates.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/6855",
-  "title": "Operate full duplex instream PIT Tag Interrogation Systems to detected PIT tagged juvenile and adult Steelhead v1.0",
-  "id": 6855,
-  "type": "Data Collection",
-  "ownerName": "Ian Jezorek",
-  "ownerEmail": "ijezorek@usgs.gov"
-}

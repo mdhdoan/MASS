@@ -1,9 +1,0 @@
-{
-  "abstractText": "Weir installation and operation begins as early as conditions permitted in the spring and continued through spawning in the fall.  Dates of installation are controlled by access (i.e., snow conditions), water level, and amount of debris in the stream.   If operated over the duration of the adult return, fish weirs are an efficient and potentially accurate means of enumerating and representatively sampling adult spring Chinook salmon. Also, because weirs enable researchers to handle and collect fish, information such as gender, size and hatchery or natural origin can be collected.   To minimize fish holding time, weirs are checked several times a day.  Adults are processed as the weirs are checked.  Captured fish are placed in an insulated holding container filled with fresh water.  Each fish is then checked for external marks and tags, fork length measured, and then scanned for a CWT.  When possible, the gender of returning adult fish are identified based on sexually dimorphic phenotypic characteristics of spawning males and females.  No samples are taken or marks applied to steelhead and are immediately released with minimal handling. Water temperature is measured whenever fish are handled.  Species other than Chinook salmon trapped at weirs were immediately released with minimal handling.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/253",
-  "title": "Picket Weir Methods v1.0",
-  "id": 253,
-  "type": "Data Collection",
-  "ownerName": "Jacque Schei",
-  "ownerEmail": "jschei@usgs.gov"
-}

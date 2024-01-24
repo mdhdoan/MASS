@@ -1,9 +1,0 @@
-{
-  "abstractText": "At a minimum, ORBS conducts private boat effort counts on four days each week (both weekend days and two weekdays).  In most ports and weeks, ORBS actually conducts five or six effort counts each week, and counts for all seven days of the week may be available in major ports during peak season.  For those days when there were no effort counts made, expansions are made by ORBS staff in Newport to account for the non-counted days.  These expansions are simple averages of the counted days that are of similar day and season types.  In other words, if it is a deep water halibut season weekday, then only other deep water halibut season weekdays will be used to average the effort.  In some cases, there may have been a storm or other extreme weather or ocean condition that occurred on the non-counted day.  If information is available to indicate that there were no ocean trips on a non-counted day (US Coast Guard kept the bar closed, adjacent port with a zero count, etc.), then the effort would be assigned a zero count for the day.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/185",
-  "title": "Effort Estimation - Private Vessel Effort Counts \u2013 Expansions for non-count days v1.0",
-  "id": 185,
-  "type": "Data Collection",
-  "ownerName": "Eric Schindler",
-  "ownerEmail": "eric.d.schindler@state.or.us"
-}

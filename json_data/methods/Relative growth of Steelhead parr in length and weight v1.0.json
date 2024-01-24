@@ -1,9 +1,0 @@
-{
-  "abstractText": "Growth of Steelhead parr in length or weight is an important metric to provide comparisons among and between populations, to investigate influence on life-history patterns, or to evaluate changes to fish with habitat or climate changes. Tagging of Steelhead parr at age-0 or age-1 with Passive Integrated Transponder (PIT) tags and subsequent recaptures of those fish allows individual identification of fish and calculation of growth sesonally or annually. Relative growth is simply growth as a percent of fish length or weight at initial tagging (Lugert et al. 2016), and is useful because fish of the same cohort vary in size even in the same location. For instance, two age-0 steelhead might be tagged at a location, one might be 55 mm Fork Length (FL), the other might be 60 mm FL. Both fish might be recatpured two months later having both grown by 2 mm. Thoughchange in length was the same (2 mm), the 55 mm fish grew more relative to it's initial length. With age-0 and age-1 salmonids in a field setting, FL should be measured to the nearest mm and weight to the nearest 0.1 g.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/6856",
-  "title": "Relative growth of Steelhead parr in length and weight v1.0",
-  "id": 6856,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Ian Jezorek",
-  "ownerEmail": "ijezorek@usgs.gov"
-}

@@ -1,9 +1,0 @@
-{
-  "abstractText": "Count of qualifying large wood pieces (>0.10m diameter, 1.0m length) at a site,standardized to a count per 100 m of bankfull length.Wetted Large Wood Frequency is the number (per 100 m) of qualifying pieces within the wetted channel at a site. A portion of the main stem oor root extending into the wettedchannel must be >0.10m diameter.BankfullLarge Wood Frequency is the number (per 100 m) of qualifying pieces within the bankfullchannel at a site. A portion of the main stem or root extending into the bankfull channel must be >0.10m diameter.The CHaMP - Large Woody Debris (lwd) Method provides background on enumeration of large woody debris that are analyzed for this calculation. See - http://www.monitoringmethods.org/Method/Details/4165",
-  "url": "http://www.monitoringresources.org/api/v1/methods/1240",
-  "title": "Large Wood Frequency v1.0",
-  "id": 1240,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Carol Volk",
-  "ownerEmail": "carol@southforkresearch.org"
-}

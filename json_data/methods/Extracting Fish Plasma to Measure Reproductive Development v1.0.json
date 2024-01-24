@@ -1,9 +1,0 @@
-{
-  "abstractText": "The reproductive development of adult fish can be measured by collecting blood samples and extracting plasma. Specifically, the fish plasma levels of estradiol-17 (E2) and vitellogenin (VG). The volume of blood taken is a small fraction of the total, and the sampling procedure is not particularly hard on the fish. Blood is sampled using heparinized syringes. Heparin is a protein produced by the liver and other tissues which inhibits blood clotting. Heparin solutions are often used to prevent blood clotting during blood sampling. The heparin solution is made up so the amount in the dead spaces of a syringe and needle is sufficient to prevent clotting. Heparin is available as sodium, lithium, and ammonium salts. Use of sodium heparin will affect measurement of sodium ion concentration in plasma. Heparin may affect some laboratory assays, such as free fatty acids and lactate. Alternative anticoagulants are available for these applications. This method is an efficient and non-lethal procedure that allows researchers to measure fish reproductive development weeks or months before spawning occurs.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/4239",
-  "title": "Extracting Fish Plasma to Measure Reproductive Development v1.0",
-  "id": 4239,
-  "type": "Data Collection",
-  "ownerName": "Doug Hatch",
-  "ownerEmail": "hatd@critfc.org"
-}

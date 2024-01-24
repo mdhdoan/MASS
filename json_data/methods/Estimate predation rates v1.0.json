@@ -1,9 +1,0 @@
-{
-  "abstractText": "The hierarchical Bayesian model of Hostetter et al. (2015) will be uased to estimate avian predation rates based on recoveries of smolt PIT tags from each bird colony.Estimates of predation rates will be calculated using the proportion of salmonid PIT tags found on each bird colony from the available population of PIT-tagged fish (i.e. smolt availability), and then adjusting by the probability that a PIT tag consumed by a bird from that colony was subsequently deposited on the colony (i.e. deposition probability) and subsequently detected on-colony by researchers following the breeding season (i.e. detection probability).?",
-  "url": "http://www.monitoringresources.org/api/v1/methods/6811",
-  "title": "Estimate predation rates v1.0",
-  "id": 6811,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Ken Collis",
-  "ownerEmail": "ken@realtimeresearch.com"
-}

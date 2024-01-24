@@ -1,9 +1,0 @@
-{
-  "abstractText": "Parentage-based tagging (PBT) involves the annual genotyping of all broodstock at each hatchery, creating a parental genotype database. Progeny from any of these parents (either collected as juveniles or returning adults), if genotyped, could be assigned back to their parents, thus identifying the hatchery they originated from and exact brood year they were produced in (Anderson and Garza 2005; Steele et al 2011). Essentially this technology is very similar to human parentage analyses (i.e. whos the father?). The exceptional advantage PBT has over mechanical tagging technology is increased sample size. By genotyping all parental broodstock, every juvenile is tagged. The key to this technology ultimately working is the ability to sample all (100%) of the hatchery broodstock. 100% broodstock sampling- The primary annual objectives for any hatchery using PBT tagging are to:  Obtain tissue samples (fin clips) from every adult hatchery broodstock that contributes to spawning.  Ensure that all samples come from fresh, live tissue and that each sample is properly preserved until DNA extraction and free of contamination.  Ensure that every sample is properly labeled and inventoried.  Ensure that data/information from every fish sampled is recorded and tied to a field/hatchery sample number (sample/spawn date, take #, hatchery, sex, length, cross information, etc.) and that field/hatchery sample number is tied to a unique genetic number. The step by step instructions below summarize tissue sampling and storage in either coin envelopes (dry method) or in tubes filled with ethanol.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/1432",
-  "title": "Tissue sampling for Parentage Based Tagging v1.0",
-  "id": 1432,
-  "type": "Data Collection",
-  "ownerName": "Matthew Campbell",
-  "ownerEmail": "matthew.campbell@idfg.idaho.gov"
-}

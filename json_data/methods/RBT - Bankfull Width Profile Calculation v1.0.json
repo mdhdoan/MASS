@@ -1,9 +1,0 @@
-{
-  "abstractText": "The RBT is a suite of GIS tools that work within the ESRI ArcGIS Desktop software. The RBT allows users to describe and measure river channels using high resolution digital elevation models (DEM). The DEMs can be derived from airborne remote sensing, such as LiDAR, or from ground based topographic surveys. Profile metrics are calculated at repeated intervals down the length of the site. The interval distance is customizable. For the 2011 CHaMP data the interval distance was 0.5m. Each profile metric comprises several output values: - Mean for all profile values - Standard deviation across all profile values - Coefficient of variation across all profile values - Filtered mean of selected profile values - Filtered standard deviation across selected profile values - Filtered coefficient of variation across all profile values - All profile values along with their cumulative interval distance downstream from the top of the site. The filtered metrics report the same statistics but for a subset of the profile intervals. Filtering removes any values from the population that are more than a set number of standard deviations from the population mean. For CHaMP 2011, this filtering threshold is set at 4 standard deviations. This is intended to exclude outliers from the metrics. The CHaMP - Topographic Point Collection Methods provides background on collection of the measurement data that are analyzed for this calculation. http://www.monitoringmethods.org/Method/Details/836",
-  "url": "http://www.monitoringresources.org/api/v1/methods/1273",
-  "title": "RBT - Bankfull Width Profile Calculation v1.0",
-  "id": 1273,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Carol Volk",
-  "ownerEmail": "carol@southforkresearch.org"
-}

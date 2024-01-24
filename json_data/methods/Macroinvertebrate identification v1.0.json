@@ -1,9 +1,0 @@
-{
-  "abstractText": "Samples of aquatic macroinvertebrates collected in the field are typically later identified in the laboratory.Samples usually contain both invertebrates and a collection of other matter such as organic debris, silt, rocks, and vegetation, which necessitates the separtation of invertebrates from the latter. Once individual taxa have been identified, the data can be summarized and used in a variety of different analyses. This method covers the processing of field samples in the laboratory to arrive at a count of macroinvertebrates in a sample.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/5248",
-  "title": "Macroinvertebrate identification v1.0",
-  "id": 5248,
-  "type": "Data Collection",
-  "ownerName": "Kenneth Tiffan",
-  "ownerEmail": "ktiffan@usgs.gov"
-}

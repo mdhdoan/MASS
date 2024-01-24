@@ -1,9 +1,0 @@
-{
-  "abstractText": "Active Channel Height (ACH). Vertical distance from the average levelstreambedto the top of the active channel.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/3862",
-  "title": "Channel Metrics: Active Channel Height (ACH) v1.0",
-  "id": 3862,
-  "type": "Data Collection",
-  "ownerName": "Charlie Stein",
-  "ownerEmail": "charlie.stein@oregonstate.edu"
-}

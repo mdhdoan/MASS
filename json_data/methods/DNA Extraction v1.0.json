@@ -1,9 +1,0 @@
-{
-  "abstractText": "Total genomic DNA was extracted using DNeasy extraction kits (QIAGEN Inc.). Polymerase chain reactions (PCRs) and fragment analyses using an Applied Biosystems PRISM 3730 automated sequencer were performed by the Nevada Genomics Center (Reno, NV). Of an initial working set of 10 loci, we chose a subset of eight that could be genotyped reliably. The eight microsatellite loci, references, GenBank Accession nos, and PCR and thermal conditions are given in Table 1. PCRs were performed in 10-?L reactions, each with 1?L Titanium buffer, 0.2?L TitaniumTaq, approximately 20 ng of DNA, the dNTP and primer amounts given in Table 1, and the remainder made-up with water. Individuals were genotyped manually by Neville using genemapper version 3.0 (Applied Biosystems). The quality of DNA in many of our tissue samples was poor due to degradation of carcasses in the field. For quality control, therefore, we amplified each individual three times at each locus. Individuals were genotyped at a locus only if amplified successfully, consistently, and unambiguously at minimum twice for heterozygotes and three times for homozygotes.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/177",
-  "title": "DNA Extraction v1.0",
-  "id": 177,
-  "type": "Data Collection",
-  "ownerName": "Russell Thurow",
-  "ownerEmail": "rthurow@fs.fed.us"
-}

@@ -1,9 +1,0 @@
-{
-  "abstractText": "Genetic markers are increasingly being used to ascertain the population of origin of individuals or mixtures of individuals in complex aggregations of Pacific salmon Oncorhynchus spp. Multilocus genotype data from single nucleotide polymorphisms (SNPs) are especially useful for admixture analyses. Single-nucleotide polymorphisms can be discovered in nonmodel organisms with relative ease and can be characterized in the coding and regulatory regions of the genome influenced by selection. Those influenced by diversifying selection may show atypically high levels of differentiation among populations.  If the goal is to describe neutral genetic diversity and structure within a species, these SNPs may need to be excluded from analyses.  However, these SNPs may allow the investigation of local adaptation in natural populations and allow for the identification of candidate genes under selection. In addition, they may be particularly valuable for genetic stock identification in cases where neutral loci show little difference among populations of interest.  There are a variety of genetic software programs that can run different outlier tests with different type I (false positive) and type II (false negative) error rates (Reviewed in Narum and Hess 2011).  We describe procedures below for running the software program LOSITAN (Antao et al. 2008) for identifying outlier loci.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/1355",
-  "title": "Identifying outlier loci (candidates for selection) using the genetic software program LOSITAN v1.0",
-  "id": 1355,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Matthew Campbell",
-  "ownerEmail": "matthew.campbell@idfg.idaho.gov"
-}

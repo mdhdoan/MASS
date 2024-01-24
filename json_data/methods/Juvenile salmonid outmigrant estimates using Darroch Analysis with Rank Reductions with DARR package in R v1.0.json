@@ -1,9 +1,0 @@
-{
-  "abstractText": "'R' is a free software environment for statistical computing and graphics that runs on a wide variety of UNIX platforms, Windows, and Macintosh operating systems.Darroch Analysis with Rank Reductions(DARR) is a software package for the statistical analysis softwareR that can be used to estimate outmigrating juvenile salmonid species from screw trap data. It uses stratified mark-recapture data and pools strata with similar capture probabilities. DARR calculates an estimate by using the total number of first time captures, the total number of marked individuals, and the recaptures of those marked fish over the migration period. This methods describes step by step instructions of the procedure for using DARR in Rusing juvenile Chinook salmon as an example.In this procedure weused the one trap and no prior pooling of strata options available in DARR.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/6568",
-  "title": "Juvenile salmonid outmigrant estimates using Darroch Analysis with Rank Reductions with DARR package in R v1.0",
-  "id": 6568,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Leslie Naylor",
-  "ownerEmail": "lesnaylor@ctuir.org"
-}

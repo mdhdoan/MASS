@@ -1,9 +1,0 @@
-{
-  "abstractText": "A cohort analysis is a tool that can be used to estimate age-specific abundances when a complete census of harvest of a given species is available. This method eliminates the need for solving of a nonlinear equation for the instantaneous rate of fishing mortality of fish in a population (such as is required for a virtual population analysis), thus simplifying analyses (Pope 1972).",
-  "url": "http://www.monitoringresources.org/api/v1/methods/6836",
-  "title": "Cohort Analysis v1.0",
-  "id": 6836,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Pete Rust",
-  "ownerEmail": "Pete.Rust@idfg.idaho.gov"
-}

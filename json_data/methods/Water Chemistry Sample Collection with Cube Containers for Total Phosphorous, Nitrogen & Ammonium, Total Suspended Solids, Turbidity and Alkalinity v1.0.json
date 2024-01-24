@@ -1,9 +1,0 @@
-{
-  "abstractText": "To collect water samples in-stream for water chemistry analyses, including total phosphorous (TP), total nitrogen (TN), total ammonium, nitrate, basic anions, cations, total suspended solids (TSS), turbidity, acid neutralizing capacity (ANC), alkalinity, dissoled oxygen carbon (DOC) and total organic carbon (TOC).",
-  "url": "http://www.monitoringresources.org/api/v1/methods/7016",
-  "title": "Water Chemistry Sample Collection with Cube Containers for Total Phosphorous, Nitrogen & Ammonium, Total Suspended Solids, Turbidity and Alkalinity v1.0",
-  "id": 7016,
-  "type": "Data Collection",
-  "ownerName": "PNAMP Support",
-  "ownerEmail": "pnamp.mm@gmail.com"
-}

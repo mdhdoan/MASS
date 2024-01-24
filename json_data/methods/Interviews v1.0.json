@@ -1,9 +1,0 @@
-{
-  "abstractText": "The primary goals of the ORBS dockside interviews are to generate accurate and unbiased estimates of anglers per boat and catch by species per boat for the ocean recreational boat fishery, and to sample for and recover from the ocean recreational salmon fishery coded wire tags (CWTs).  Further the estimates are expected to be accurate when stratified to the level of statistical week, port, boat type, trip type, season type, and area of effort/catch.  To sample salmon adequately for CWTs, a minimum sampling rate standard of 20% of landed salmon by port and week has been established to better insure that CWT recoveries will represent the actual fishery interceptions occurring for any given strata.  The ORBS has generally adopted this as the minimum standard for all fisheries and time periods sampled.  A variety of other data are also collected including information on the number of fish released, lengths and weights of fish, departure time, interview time, and information on estuary trips as well.  The data is stratified by port and summed over ports to generate estimates for catch areas and the entire state.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/231",
-  "title": "Interviews v1.0",
-  "id": 231,
-  "type": "Data Collection",
-  "ownerName": "Eric Schindler",
-  "ownerEmail": "eric.d.schindler@state.or.us"
-}

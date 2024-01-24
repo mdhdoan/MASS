@@ -1,9 +1,0 @@
-{
-  "abstractText": "Measure the suspended solids in the water column that cause the water to become turbid. This method was written for use with a LaMotte turbidimeter (see manufacturer instructions for other instruments)",
-  "url": "http://www.monitoringresources.org/api/v1/methods/7012",
-  "title": "Water Quality - Turbidity using a LaMotte Turbidimeter v1.0",
-  "id": 7012,
-  "type": "Data Collection",
-  "ownerName": "PNAMP Support",
-  "ownerEmail": "pnamp.mm@gmail.com"
-}

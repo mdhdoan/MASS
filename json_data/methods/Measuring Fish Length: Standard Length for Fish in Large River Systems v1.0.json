@@ -1,9 +1,0 @@
-{
-  "abstractText": "Standard lengthis the distance from the anterior-most extreme of the head (jaw closed) to the posterior margin of the hypural bone as manifested by the notch created by flexing the caudal peduncle (see fish measurement image; Anderson and Gutreuter 1983).Only measure for standard length if the fish specimen cannot be measured using the maximum total length method (Method ID: 1551)orthefork length method (Method ID: 4041; for those species in which fork length measurements are appropriate) due to damaged or deformed caudal fins.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/5547",
-  "title": "Measuring Fish Length: Standard Length for Fish in Large River Systems v1.0",
-  "id": 5547,
-  "type": "Data Collection",
-  "ownerName": "Sam Cimino",
-  "ownerEmail": "scimino@usgs.gov"
-}

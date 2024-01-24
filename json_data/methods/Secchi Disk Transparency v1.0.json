@@ -1,9 +1,0 @@
-{
-  "abstractText": "A Secchi disk is a black and white patterned disk used to measure water transparency. The disk, attached to a line or pole, is lowered by hand into the water until it vanishes from sight. The depth at which the pattern on the disk is no longer visible is taken as a measure of the transparency of the water. Secchi disk readings may not provide an exact measure of transparency due to error from the sun's glare on the water or the eyesight of the operator; however, it is an inexpensive and straightforward method of measuring water clarity.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/3812",
-  "title": "Secchi Disk Transparency v1.0",
-  "id": 3812,
-  "type": "Data Collection",
-  "ownerName": "Amy  Puls",
-  "ownerEmail": "apuls@usgs.gov"
-}

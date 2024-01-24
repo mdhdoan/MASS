@@ -1,9 +1,0 @@
-{
-  "abstractText": "Chemical assays used to measure limiting nutrients or other compounds can provide useful information to researchers and managers alike. However, results for chemical analyses are often below the minimum detection level (MDL) of the assay used, particularly when testing the amount of a limiting nutrient in an oligotrophic system. This presents the researcher or manager with a decision to make when calculating descriptive statistics. These values could be treated as zero, assumed to be very near the MDL, or somewhere in between.When making comparisons involving long-term datasets, lab assays are sometimes changed over the years resulting in different MDLs for some years. When calculating descriptive statistics, particularly when many of the values in the dataset are below the MDL, changes in the MDL can have a great influence on the calculated values.Datasets for nutrient concentrations often follow a highly skewed distribution, particularly when numerous values are below the MDL. In these instances, calculating confidence intervals using classical approaches may not be appropriate (Chernick1999; Efron andTibshirani1994).It may also be desirable to assess the consistency and variability of the results using field duplicates. Field duplicates can be used to calculate the relative percent difference (RPD) between the original and duplicate, which gives the researcher a measure of the variability in the field sampling.This method provides details for calculating annual statistics and confidence intervals, making inter-annual comparisons, and calculating the RPD in these circumstances.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/1420",
-  "title": "Analysis of Water Chemistry Data v1.0",
-  "id": 1420,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Sean Wilson",
-  "ownerEmail": "sean.wilson@idfg.idaho.gov"
-}

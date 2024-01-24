@@ -1,9 +1,0 @@
-{
-  "abstractText": "This method is derived from an Environmental Monitoring and Assessment Program (EMAP) protocol developed for monitoring western wadable streams. This expands on another, similar method (Canopy Cover Measurements) outlined in the EMAP protocol.The following visual estimation procedures supplement the (Canopy Cover Measurements) with a semi-quantitative evaluation of the type and amount of various types of riparian vegetation. These data are used to evaluate the health and level of disturbance of the stream corridor. They also provide an indication of the present and future potential for various types of organic inputs and shading. Additional measures within the riparian zone (legacy trees and invasive riparian plants) are described in Sections 7.5.9 and 8, respectively.Riparian vegetation observations apply to the riparian area upstream 5 meters and downstream 5 meters from each of the 11 cross-section transects (refer to Figure 7-1). They include the visible area from the stream back a distance of 10m (-30 ft) shoreward from both the left and right banks, creating a 10 m  10 m riparian plot on each side of the stream (Figure 7-12). The riparian plot dimensions are estimated, not measured. On steeply sloping channel margins, the 10 m  10 m plot boundaries are defined as if they were projected down from an aerial view.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/80",
-  "title": "Physical Habitat: Riparian Vegetation Structure v1.0",
-  "id": 80,
-  "type": "Data Collection",
-  "ownerName": "Jacque Schei",
-  "ownerEmail": "jschei@usgs.gov"
-}

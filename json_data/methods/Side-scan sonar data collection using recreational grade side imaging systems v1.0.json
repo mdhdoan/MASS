@@ -1,9 +1,0 @@
-{
-  "abstractText": "Acoustic backscatter technologies are commonly used for remote sensing of benthic topograpy, however much of the techniques used come at a high cost and require significant technical expertise. Fortunately, these techonologies have rapidly advanced and are now available off the shelf to the average consumer in the form of recreational fishing and nautical navigation equipment. Recreational grade side imaging sonar systems are relatively low costand can produce accuratelygeoreferenced,high resolution imagery useful to aquatic resource managers and researchers. Imagery produced from recreational grade side imagery systems has been assessed for accuracy and applied to the management and research of aquatic resources (Kaeser and Litts 2010,Kaeser et al. 2012).",
-  "url": "http://www.monitoringresources.org/api/v1/methods/6803",
-  "title": "Side-scan sonar data collection using recreational grade side imaging systems v1.0",
-  "id": 6803,
-  "type": "Data Collection",
-  "ownerName": "Reuben Smit",
-  "ownerEmail": "reuben.smit@spokanetribe.com"
-}

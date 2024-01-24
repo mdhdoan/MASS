@@ -1,9 +1,0 @@
-{
-  "abstractText": "We conduct Chinook redd surveys weekly, coinciding with carcass recovery efforts. In order to eliminate double counting of redds, we need to use ArcGIS shapefiles of redd locations (XY data) along with date of collection to determine the actual redd count. We assume that a Chinook redd is visible (i.e. countable) in the Okanogan/Similkameen rivers for a period of 2 weeks under normal conditions. Therefore, we inspect redd data to include only those redds that were not already accounted for in the data for the previous week, or are in surplus of those counted in the previous week, or that occur in diffent locations. This final dataset provides the most accurate count of redds, and is the corrected dataset used for any future analysis and reporting.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/6749",
-  "title": "Chinook redd data analysis v1.0",
-  "id": 6749,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Matthew Laramie",
-  "ownerEmail": "mlaramie@usgs.gov"
-}

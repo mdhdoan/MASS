@@ -1,9 +1,0 @@
-{
-  "abstractText": "White Sturgeonsurgically implanted with acoustic tags are passively tracked with a Vemco receiver array. The array is comprised of 27 individual receivers, which are used to track any tagged fish throughout Lake Roosevelt. When a fish implanted with a tag moves past a receiverit pings. These tracking pingsare logged as detectionsand stored onsaid receivers. These detections are downloaded quarterly (4 times annually), with all downloaded data uploaded and compiled to a database which stores all detections.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/6837",
-  "title": "Downloading Vemco Receiver Array v1.0",
-  "id": 6837,
-  "type": "Data Collection",
-  "ownerName": "Joseph Cronrath",
-  "ownerEmail": "joseph.cronrath@spokanetribe.com"
-}

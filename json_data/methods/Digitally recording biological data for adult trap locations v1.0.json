@@ -1,9 +1,0 @@
-{
-  "abstractText": "Accurately recording biological data from adult returns captured at trap locations is an important part of a monitoring and evaluation program. These data can provide further insight into survival metrics, hatchery/natural compositions, and adult return age structure information. Recording this data digitally at time of collection reduces errors associated with manual entry of data into databases.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/1744",
-  "title": "Digitally recording biological data for adult trap locations v1.0",
-  "id": 1744,
-  "type": "Data Collection",
-  "ownerName": "Mike Peterson",
-  "ownerEmail": "mike.peterson@idfg.idaho.gov"
-}

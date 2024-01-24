@@ -1,9 +1,0 @@
-{
-  "abstractText": "The PREDictive Assessment Tool for ORegon (PREDATOR) is a predictive tool developed using a RIVPACS-type approach, linking physical habitat variables to expected macroinvertebrate composition. The predictive model estimates the expected occurrence of taxa at a sample site based on a list that has been developed for taxa occurrence at reference sites (having the lowest level of human disturbance) that have similar natural conditions to the sample site (e.g. slope, elevation, region, natural confinement). The expected (E) taxa list is compared to the sample site observed (O) taxa list by the predictive model as an O/E taxa ratio. Scores less than 1 indicate loss of taxa from reference conditions while scores greater than 1 indicate reference conditions or enhancement actions (Hubler 2008)",
-  "url": "http://www.monitoringresources.org/api/v1/methods/4120",
-  "title": "Benthic Macroinvertebrate PREDictive Assessment Tool For Oregon v1.0",
-  "id": 4120,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Colin Riordan",
-  "ownerEmail": "colin@naturaldes.com"
-}

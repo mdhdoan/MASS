@@ -1,9 +1,0 @@
-{
-  "abstractText": "Using fluorescently labeled probes that can be detected optically during the polymerase chain reaction (PCR), the number of copies of DNA target are measured during the amplification process in a quantitative PCR (qPCR). Determining the quantity of copies involves comparing these results to a standard curve produced by simultaneous (in the same plate) amplification and analysis of serial dilutions of a standard DNA sample of known quantity. This procedure has many applications, for both DNA and RNA studies. It requires meticulous attention to pipetting accuracy. Here we are using quantitative PCR to measure the severity of infection of known positive R. salmoninarum DNA samples. Sample preparation and DNA extraction are explained in separate protocols. These instructions specific to an ABI 7500 real-time PCR machine, but this is not an endorsement of this equipment over any other comparable machines produced by other companies.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/1380",
-  "title": "Northwest Fisheries Science Center Ocean Salmon Survey Renibacterium salmoninarum ABC gene Quantitative PCR (qPCR) v1.0",
-  "id": 1380,
-  "type": "Data Collection",
-  "ownerName": "Cheryl Morgan",
-  "ownerEmail": "cheryl.morgan@oregonstate.edu"
-}

@@ -1,9 +1,0 @@
-{
-  "abstractText": "Generate primary post-processing products including adense point cloud,orthomosaic, Digital Surface Model (DSM), and Digital Elevation Model (DEM)fromunmanned aircraft systems (UAS) imagery of stream channels for use in calculating channel morphology, riparian vegetation, and instream cover metrics.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/6956",
-  "title": "Unmanned aircraft systems (UAS) imagery post-processing v1.0",
-  "id": 6956,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Casey Justice",
-  "ownerEmail": "jusc@critfc.org"
-}

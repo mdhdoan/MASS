@@ -1,9 +1,0 @@
-{
-  "abstractText": "In the past, traditional fishery techniques were used to detect the leading edge of invasive speciespopulations; however, this method was somewhat ineffective at targeting these species at low densities.The University of Notre Dame, with funding from the USACE, developed a method that detectedenvironmental DNA (eDNA) left behind in the aquatic system by the targeted species. EnvironmentalDNA enters the system through a variety of mechanisms, some of which include sloughing of externalepidermal cells into the water, sloughing of internal epidermal cells into feces and into the water, and astissue residues following injury or predation. The detection of eDNA in water samples is based on wholeDNA extraction from particulate organic and inorganic matter found in the water andpolymerase chainreaction (PCR) assays for species-specific mitochondrial DNA markers.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/5491",
-  "title": "Environmental DNA (eDNA) Sample Processing \u2014 Centrifuging Water to Capture DNA from Aquatic Organisms v1.0",
-  "id": 5491,
-  "type": "Data Collection",
-  "ownerName": "PNAMP Support",
-  "ownerEmail": "pnamp.mm@gmail.com"
-}

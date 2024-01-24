@@ -1,9 +1,0 @@
-{
-  "abstractText": "Collection estimates are the total number of juvenile salmonids calculated to have entered the juvenile bypass system at a particular dam. The collection estimate is derived from timed sub-samples taken at intervals throughout a daily twenty-four hour period. The timed sub-sample is determined by the sample rate(s) that are used at each site, on a daily basis. Therefore, the collection estimate is calculated by dividing the daily catch by the sample rate that was used that day",
-  "url": "http://www.monitoringresources.org/api/v1/methods/5324",
-  "title": "Dam Collection and Daily Passage Index v1.0",
-  "id": 5324,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Christine Petersen",
-  "ownerEmail": "chpetersen@bpa.gov"
-}

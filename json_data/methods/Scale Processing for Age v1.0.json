@@ -1,9 +1,0 @@
-{
-  "abstractText": "Age composition data are important for monitoring recovery of wild anadromous fish populations listed under the ESA. Age data collected at LGR are used to assign returning adults to specific brood years, for cohort analysis, and to estimate productivity and survival rates.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/1433",
-  "title": "Scale Processing for Age v1.0",
-  "id": 1433,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Eric Stark",
-  "ownerEmail": "eric.stark@idfg.idaho.gov"
-}

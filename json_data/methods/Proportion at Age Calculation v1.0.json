@@ -1,9 +1,0 @@
-{
-  "abstractText": "Age data is needed to calculate proportion at age. See methods on data collection for scale age analysis and otolith analysis (Method IDs: 1366 or 1462). The proportion at age is used in calculating Recruits per Spawner (method ID: 5411), which is a Viable Salmonid Population (VSP) indicator.The Interior Columbia Technical Review Team (ICTRT) uses the VSP indicators to assess the current status of the populations in terms of extinction risk (ICTRT 2010).",
-  "url": "http://www.monitoringresources.org/api/v1/methods/5413",
-  "title": "Proportion at Age Calculation v1.0",
-  "id": 5413,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "PNAMP Support",
-  "ownerEmail": "pnamp.mm@gmail.com"
-}

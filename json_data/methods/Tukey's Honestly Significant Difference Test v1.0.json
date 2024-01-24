@@ -1,9 +1,0 @@
-{
-  "abstractText": "Tukey's Honestly Significant Difference (HSD)Test is a single-step, multiple (i.e., pairwise)comparison statistical test that is used in conjunction with an ANOVA to determine whether or not means (often of groups) are significantly different from one another (Seaman et al. 1991). Tukey's HSD Test is generally run, post-hoc (i.e., after the primary analysis has been completed and further tests are desired). The output from an ANOVA model provides information regarding whether or not the covariates explain a significant amount of the variation in the data, but Tukey's HSD provides additional (often needed) resolution when making direct group comparisons. Data used in a Tukey's HSD Test are derived from an ANOVA (see method ID 4042). The formula for Tukey's HSD Test can be found, below:qs= (Ya-Yb)/sewhere:qs= the test statistic,Ya= the larger of the two means being compared,Yb= the smaller of the two means being compared, andse = the standard error of the data in question",
-  "url": "http://www.monitoringresources.org/api/v1/methods/4043",
-  "title": "Tukey's Honestly Significant Difference Test v1.0",
-  "id": 4043,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "T.J. Ross",
-  "ownerEmail": "tj.ross@idfg.idaho.gov"
-}

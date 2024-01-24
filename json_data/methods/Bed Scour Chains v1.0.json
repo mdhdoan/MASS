@@ -1,9 +1,0 @@
-{
-  "abstractText": "Streambed substrate can be scoured away or filled in with sediment during high flows. We use bed scour chains to determine the average depth of scour in salmonid spawning areas. Lengths of metal linked chain are buried vertically in the streambed with the top of the chain as close to flush with the stream bed surface as possible. After a runoff period, the horizontal elbow of the chain is located. The difference in the length of chain above the elbow before and after a flood yields the depth of scour. When fill occurs, the distance between the elbow and the post flood bed gives the depth of fill. Once these measurements have been taken, the chain will be reset in anticipation of the next flood or icing event.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/93",
-  "title": "Bed Scour Chains v1.0",
-  "id": 93,
-  "type": "Data Collection",
-  "ownerName": "John Arterburn",
-  "ownerEmail": "john.arterburn@colvilletribes.com"
-}

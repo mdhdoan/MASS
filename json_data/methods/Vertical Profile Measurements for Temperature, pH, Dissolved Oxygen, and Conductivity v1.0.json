@@ -1,9 +1,0 @@
-{
-  "abstractText": "Technological advances have resulted in instrumentation that can house multiple sensors that will takesimultaneous readings for water quality measurements in the field. This method describes short-term, discrete measurements of depth profiles for temperature, pH, dissolved oxygen (DO), and conductivity using a calibrated multi-parameter water quality meter (or sonde). This information is used to determine the extent of stratification and the availability of the appropriate temperature range and level of DO necessary to support aquatic life.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/3813",
-  "title": "Vertical Profile Measurements for Temperature, pH, Dissolved Oxygen, and Conductivity v1.0",
-  "id": 3813,
-  "type": "Data Collection",
-  "ownerName": "Amy  Puls",
-  "ownerEmail": "apuls@usgs.gov"
-}

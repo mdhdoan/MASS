@@ -1,9 +1,0 @@
-{
-  "abstractText": "Use the channel ordering code based on size and locationcharacteristics. Channel type orders the sequence of single, multiple, and side channels.It is very important that the primary channel be identified with the proper code. Thisinformation is used in a critical step of the data analysis to calculate channel lengthand sinuosity.This inventory considers the stream as the system of all channels that transportwater down the drainage. The intention is to survey and quantify all aquatic habitatslocated within the valley floor. All active channels and unit types are classified with achannel code and an estimate of the percent of total flow carried.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/3873",
-  "title": "Channel Type v1.0",
-  "id": 3873,
-  "type": "Data Collection",
-  "ownerName": "Charlie Stein",
-  "ownerEmail": "charlie.stein@oregonstate.edu"
-}

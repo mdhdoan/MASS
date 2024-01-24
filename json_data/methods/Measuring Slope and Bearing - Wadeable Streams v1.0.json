@@ -1,9 +1,0 @@
-{
-  "abstractText": "This method describes how to measure slope and bearing of the main channel at each site duringa data collection event (DCE). It applies to wadedstreams. This method requires use of a hand level, measuring rod, and a compass to makeincremental measurements across each of at least 20 segments of the stream site.Two persons perform this activity: one rodder who holds a measuring rod in a vertical positionand a sighter who sights on the rodder with a hand level and compass to record data. Crewmembers must be trained prior to performing this method.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/3845",
-  "title": "Measuring Slope and Bearing - Wadeable Streams v1.0",
-  "id": 3845,
-  "type": "Data Collection",
-  "ownerName": "Glenn Merritt",
-  "ownerEmail": "glenn.merritt@ecy.wa.gov"
-}

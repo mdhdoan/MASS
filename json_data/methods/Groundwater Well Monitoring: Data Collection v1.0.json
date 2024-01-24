@@ -1,9 +1,0 @@
-{
-  "abstractText": "Background:The data collected from groundwater monitoring are used to detect changes in water table elevation and groundwater temperature patterns. Changes in water table elevation and groundwater temperature are anintended result of certain restoration activities (e.g., floodplain reconnection projects) and monitoring these patterns can help provide evidence that restoration work is achieving project goals. Ideally, monitoring should occur both prior to and after restoration. This methodassumes that groundwater wells have already been installed as part of a restoration monitoring design, and that monitoring data are being collected by Onset HOBOU20Water Level Loggers (U20 probes) that have been suspended within each well casing using a steel cable connected to the well cap (Figure 1). This methodology describes how to upload data collected by the U20probes.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/5419",
-  "title": "Groundwater Well Monitoring: Data Collection v1.0",
-  "id": 5419,
-  "type": "Data Collection",
-  "ownerName": "Erin Morgan",
-  "ownerEmail": "erin@southforkresearch.org"
-}

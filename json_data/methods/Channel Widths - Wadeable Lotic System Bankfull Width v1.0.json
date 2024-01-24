@@ -1,9 +1,0 @@
-{
-  "abstractText": "Measure the bankfull width along each main transect in a wadeable lotic system. Measure the width between the bankfull elevation on one side of the channel to the bankfull elevation on the opposite side of the channel. Measurements should be taken perpendicular to the thalweg at all 11 main transects.See Appendix C3 (page 88) in the cited documentation (or supplemental info) for guidance on measuring bankfull width at beaver-impacted reaches and Appendix D (page 93) in the cited documentation (or supplemental info)for examples of bankfull locations.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/7030",
-  "title": "Channel Widths - Wadeable Lotic System Bankfull Width v1.0",
-  "id": 7030,
-  "type": "Data Collection",
-  "ownerName": "PNAMP Support",
-  "ownerEmail": "pnamp.mm@gmail.com"
-}

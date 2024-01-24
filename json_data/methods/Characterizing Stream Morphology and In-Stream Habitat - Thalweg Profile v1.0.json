@@ -1,9 +1,0 @@
-{
-  "abstractText": "The Thalweg profile can detect morphological changes associated with habitat restoration projects designed to improve pool-riffle relationships as well as natural changes resulting from environmental conditions. The Thalweg profile can also detect velocity changes and geomorphic structure conducive to predation cover and holding habitat for salmonids during various life stages. The Thalweg profile is a longitudinal survey of depth, habitat class, and off-channel habitat at 100 equally spaced intervals, or stations, along the Thalweg. The Thalweg refers to the flow path of the deepest water in a stream channel.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/45",
-  "title": "Characterizing Stream Morphology and In-Stream Habitat - Thalweg Profile v1.0",
-  "id": 45,
-  "type": "Data Collection",
-  "ownerName": "John Arterburn",
-  "ownerEmail": "john.arterburn@colvilletribes.com"
-}

@@ -1,9 +1,0 @@
-{
-  "abstractText": "Many techniques to assess egg-to-fry survival involve a multitude of sub-estimators that can confound any direct effects by compounding the variances of each individual sub-estimate. Therefore, a direct measurement from egg to pre-emergent or emergent fry stage is often a better estimator. Habitat measurements that are collected at egg box sites can be used to form a model explains survival.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/4222",
-  "title": "Effect of habitat variables on egg incubation v1.0",
-  "id": 4222,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Pete Rust",
-  "ownerEmail": "Pete.Rust@idfg.idaho.gov"
-}

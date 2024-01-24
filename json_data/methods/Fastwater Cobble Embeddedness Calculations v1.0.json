@@ -1,9 +1,0 @@
-{
-  "abstractText": "Within a site, 210 particles are measured at 10 transects in fast-water turbulent and non-turbulent channel units. For particles between 65 and 250mm, embeddedness is estimated as the product of the percentage of the cobbles surface that is buried below the surface of the streambed and the percentage of fine sediment < 2 mm in the substrate immediately surrounding the cobble.The CHaMP - Particle Size Distribution and Particle Embeddedness Method provides background on collection of the measurement data that are analyzed for this calculation. See - http://www.monitoringmethods.org/Method/Details/840",
-  "url": "http://www.monitoringresources.org/api/v1/methods/866",
-  "title": "Fastwater Cobble Embeddedness Calculations v1.0",
-  "id": 866,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Boyd Bouwes",
-  "ownerEmail": "boydbouwes@gmail.com"
-}

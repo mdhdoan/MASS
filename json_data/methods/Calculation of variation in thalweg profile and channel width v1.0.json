@@ -1,9 +1,0 @@
-{
-  "abstractText": "Calculation of variation index for residual pools from thalweg profile data and histogram of channel widths. This variation index for residual pools has been found to have a strong correlation with habitat complexity and fish use (Mossop and Bradford 2006).",
-  "url": "http://www.monitoringresources.org/api/v1/methods/1763",
-  "title": "Calculation of variation in thalweg profile and channel width v1.0",
-  "id": 1763,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Jennifer O'Neal",
-  "ownerEmail": "jen@naturaldes.com"
-}

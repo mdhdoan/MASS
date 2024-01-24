@@ -1,9 +1,0 @@
-{
-  "abstractText": "Visual estimate of the percent of different substrate types (boulder, cobble, coarse gravel, fine gravel, sand or fines) within the wetted site area.Estimated for each channel unit in the site or tier, then weighted by channel unit area to arrive at site or tier level estimate. Estimates are rounded to the nearest 5% for a total of 100%; 1% denotes minimal presence.Metrics are calculated at the site level for:Percent Boulders and CobblesPercent BouldersPercent CobblesPercent Coarse and Fine GravelPercent Sand and FinesThe CHaMP - Ocular Channel Unit Substrate Composition Method provides background on identification of the channel units that are analyzed for this calculation. See - http://www.monitoringmethods.org/Method/Details/839",
-  "url": "http://www.monitoringresources.org/api/v1/methods/867",
-  "title": "Substrate Composition Calculations (Boulder, Cobbles, Gravel, Sand and Fines) v1.0",
-  "id": 867,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Carol Volk",
-  "ownerEmail": "carol@southforkresearch.org"
-}

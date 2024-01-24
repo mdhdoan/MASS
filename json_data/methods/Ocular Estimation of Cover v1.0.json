@@ -1,9 +1,0 @@
-{
-  "abstractText": "This technique can be usedfor estimating percent cover of plants in quadrat sampling (see method ID: 5317) and includes three separate but similar approaches for ocular estimation; grid, plant cramming, and plant counting.The grid technique is appropiate if cover values areestimated and put into broad classes such as0-5%, 5- 25%, 25-50%, 50-75%, 75-100%.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/5293",
-  "title": "Ocular Estimation of Cover v1.0",
-  "id": 5293,
-  "type": "Data Collection",
-  "ownerName": "Blair McClarin",
-  "ownerEmail": "blairm@nezperce.org"
-}

@@ -1,9 +1,0 @@
-{
-  "abstractText": "Catch-per-unit effort (CPUE) can be used as a measure of relative abundance of juvenile fishes during rearing acknowledging changes in sampling efficiency over time and from year to year (e.g., Figure 1 inset) In turn, the correlation between CPUE and variables such as the median time of downstream dispersal from rearing areas can be used to evaluate the evidence for a density-dependent response. The relation between CPUE and timing of downstream dispersal for Snake River fall Chinook salmonOncorhynchus tshawytschajuveniles was first described by Connor et al. (2013; Figure 5 inset). It was concluded that timing of downstream dispersal became later as relative abundance along the shorelines increased. That baseline information will be important to consider when assessing the status of the population when future levels of abundance are higher than presently observed and a decision is made about removing Snake River basin fall Chinook salmon from the federal list of threatened species. Methods for calculating CPUE are described here.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/5257",
-  "title": "Calculating CPUE v1.0",
-  "id": 5257,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Kenneth Tiffan",
-  "ownerEmail": "ktiffan@usgs.gov"
-}

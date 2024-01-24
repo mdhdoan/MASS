@@ -1,9 +1,0 @@
-{
-  "abstractText": "The DIDSON unit will be operated and data collected continuously, 24 hours per day, seven days per week during the salmon migration period.  The data will be collected on site on high capacity storage medium.  Data analysis can be divided into two parts: 1) analysis of the hydroacoustics records for fish passage (net upstream passage), and 2) evaluation of the technique as a resource management tool in these types of locations.  The analysis of DIDSON files will involve counting fish images, similar in technique to how video records are analyzed.  Evaluation of the technique as a resource management tool will be based on validation of the DIDSON counts with underwater optical camera counts for correct species identification and salmon passage counts when both systems are operating concurrently.   It will also be based on the accuracy and precision of the DIDSON salmon escapement estimates. Blueview sonar may also be operated in the at the current DIDSON monitoring site to provide a side-by-side comparison of the two sonar technologies.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/284",
-  "title": "Sonar Applications (DIDSON, Blueview) Methods v1.0",
-  "id": 284,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Jacque Schei",
-  "ownerEmail": "jschei@usgs.gov"
-}

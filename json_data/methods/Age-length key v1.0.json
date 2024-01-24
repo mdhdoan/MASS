@@ -1,9 +1,0 @@
-{
-  "abstractText": "Age data is valuable for calculating some fish stock assessment indices, such as growth and mortality. Fish are usually aged by collecting and examining hard parts, such as scales, otoliths, fin spines or rays, and other bones (vertebrae, cleithrum, operlar bone, or dentary) (Devries and Frie 1996). Fish age data can be time consuming and expensive to collect, thus many researchers subsample across length groups to estimate fish ages. Per Isely and Grabowski (2007),Given a sample of fish that has been aged, we can produce a probability matrix of the proportion of individuals within a certain length-class having a certain age...The matrix, often referred to as an age-length key, can...be used to estimate the age of fish of a given length so that length frequency from a much larger sample can be converted to age frequency(Isely and Grabowski 2007).The age-length key could also be used to convert a bias corrected (from gear selectivty) length frequency into a potentially unbiased age frequency.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/5400",
-  "title": "Age-length key v1.0",
-  "id": 5400,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Jason McLellan",
-  "ownerEmail": "jason.mclellan@colvilletribes.com"
-}

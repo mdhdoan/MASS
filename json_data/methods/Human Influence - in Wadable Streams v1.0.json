@@ -1,9 +1,0 @@
-{
-  "abstractText": "This method explains how to collect measurements of human influence for 11 equidistant transects at each site (Establish major transets using method ID 3828). Measurements in this procedure will be restricted to onemain channel. This method must follow the method for establishing major transects.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/3844",
-  "title": "Human Influence - in Wadable Streams v1.0",
-  "id": 3844,
-  "type": "Data Collection",
-  "ownerName": "Glenn Merritt",
-  "ownerEmail": "glenn.merritt@ecy.wa.gov"
-}

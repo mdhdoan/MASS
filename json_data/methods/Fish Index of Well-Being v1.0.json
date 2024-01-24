@@ -1,9 +1,0 @@
-{
-  "abstractText": "The original Index of Well-Being (Iwb) was developed by Gammon (1976; 1980) as anassessment of the water quality of a river based on the density and diversity of its fish community. The basic premise of the Iwb is that least impacted stream segments will support a larger variety and greater abundance of fish than stressed segments of the same stream. The Iwb has been used to assess the detrimental effects of point source thermal, municipal, and industrial effluents and nonpoint source agricultural and urban runoff (Gammon 1976; 1980; 1983; Gammon and Reidy 1981;Gammon et al 1981).The Iwb is a composite index that combines two parameters of fish diversity and twoparameters of fish abundance in approximately equal measures to produce a single value reflective of the diversity and abundance of the fish community (Gammon 1976). The four community parameters comprising the Iwb include the relative density of fish, the relative biomass of fish, the Shannon-Wiener Index of Diversity based on numbers, and the Shannon-Wiener Index of Diversity based on biomass. These parameters have been used individually in the past as indicators of environmental stress on fish populations with disappointing results (Fausch et al 1990). However, when combined in the Iwb these individual community parameters work in a complementary manner.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/4214",
-  "title": "Fish Index of Well-Being v1.0",
-  "id": 4214,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "PNAMP Support",
-  "ownerEmail": "pnamp.mm@gmail.com"
-}

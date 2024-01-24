@@ -1,9 +1,0 @@
-{
-  "abstractText": "Background:The National Oceanic and Atmospheric Administration (NOAA) National Center for Environmental Information (NCEI) compiles both U.S. national and global climate data from automated sensing systems, surface stations, cooperative observer networks, and other climatological networks such as the U.S. Air Force Climatology Center and the World Meteorological Organization. Land-based observation instruments are located throughout the world. Climate information collected by these systems includes temperature, dew point, relative humidity, precipitation, wind speed and direction, and atmospheric pressure, among other data types. Not only does the NCEI collect data, but it also conducts quality control measures, archives the data, and makes it available for public use (NOAA NCEI 2015).Many different types of climate summaries are available on the NOAA NCEI website, including annual, monthly, daily, hourly, and even 15 minute summaries of different climatic variables. However, daily climate data is particularly useful in many ecological studies. The Global Historical Climatology Network - Daily (GHCN-Daily) dataset integrates daily climate observations from approximately 30 different data sources (NOAA NCDC 2015). The most recent version of this dataset contains station-based measurements from over 90,000 land-based stations worldwide, and observations from over 25,000 stations are updated on a monthly basis (Menne et al. 2012, NOAA NCDC 2015). Daily climate data may be downloaded at no cost from the NOAA NCEI website. This method describes the download process for daily climate data.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/5420",
-  "title": "Download of daily climate data collected by the National Climatic Data Center v1.0",
-  "id": 5420,
-  "type": "Data Collection",
-  "ownerName": "Erin Morgan",
-  "ownerEmail": "erin@southforkresearch.org"
-}

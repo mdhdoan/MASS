@@ -1,9 +1,0 @@
-{
-  "abstractText": "The objective of this method is to collect a quantitative benthic invertebrate sample that will be used to describe the abundance and composition of the stream benthic macroinvertebrate community. This method for sampling macroinvertebrates uses a targeted riffle sample approach. Collect subsamples using a fixed area design from fast water habitats with a 500 m mesh, 0.09 m2fixed-area surber-style benthic invertebrate sample net. Take samples from 4 different fast-water (e.g. riffles) habitat units. Take 2 separate samples from each unit. If fewer sub-samples are collected record the number of sub-samples taken on the Benthic Sample Field Data form. Assume the number of sub-samples is 8 unless otherwise noted on the field form. Collect invertebrates from within the 0.09 m2sampling frame in front of the net. Work from the upstream edge of the sampling plot backward and carefully pick up and rub stones directly in front of the net to remove attached organisms. Quickly inspect each stone to make sure you have dislodged everything and then set it aside. If a rock is lodged in the stream bottom, rub it a few times concentrating on any cracks or indentations. After removing all large stones, disturb small substrates (i.e. sand or gravel) to a depth of about 10 cm by raking and stirring with your hands. Continue this process until you can see no additional organisms or organic matter being washed into the net.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/234",
-  "title": "Macroinvertebrates-Benthic Field Collection v1.0",
-  "id": 234,
-  "type": "Data Collection",
-  "ownerName": "Carol Volk",
-  "ownerEmail": "carol@southforkresearch.org"
-}

@@ -1,9 +1,0 @@
-{
-  "abstractText": "A Robel pole (Robel 1975) is used to document vertical and/or horizontal cover for herbaceous vegetation i.e., visual obstruction readings (VOR). Measurements are recorded at 20, 25, or 50-foot intervals. Intervals are determined by the length of each transect, i.e., a minimum of 12 measurements are required for each transect, or cover type heterogeneity (structurally diverse cover types generally require larger sample sizes).VOR samples are considered independent for statistical purposes.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/308",
-  "title": "Visual Obstruction Readings (VOR) v1.0",
-  "id": 308,
-  "type": "Data Collection",
-  "ownerName": "Paul Ashley",
-  "ownerEmail": "lonepinebutte@comcast.net"
-}

@@ -1,9 +1,0 @@
-{
-  "abstractText": "PitPro is a computer program produced by Columbia Basin Research that converts files downloaded from the Columbia Basin PIT Tag Information System (PTAGIS; https://ptagis.org) to the format needed for running SURPH (http://www.cbr.washington.edu/analysis/apps/surph) and ROSTER (http://www.cbr.washington.edu/analysis/apps/roster). PitPro can also produce travel-time and Cormack-Jolly-Seber survival estimates from PIT tag interrogation data.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/6878",
-  "title": "File conversion, travel-time and survival estimation with the software program PitPro v1.0",
-  "id": 6878,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "John Powell",
-  "ownerEmail": "john.powell@idfg.idaho.gov"
-}

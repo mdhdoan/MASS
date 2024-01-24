@@ -1,9 +1,0 @@
-{
-  "abstractText": "This site layout method covers locating the site, establishing site markers, determining bankfull elevation and site width category, laying out the site and determining channel units. This layout uses a similar strategy to the layout described in Peck et al (2003) which uses transects labeled A through K, corresponding with the odd numbered transects in the CHaMP (2013) site layout protocols described below (i.e. Transect A = Transect 1 and Transect C = Transect 5).This method is based off of Site Layout v2.0 (Method 1579) but does not include benchmarks or monuments.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/4073",
-  "title": "AEM Site Layout v1.0",
-  "id": 4073,
-  "type": "Data Collection",
-  "ownerName": "Jennifer O'Neal",
-  "ownerEmail": "jen@naturaldes.com"
-}

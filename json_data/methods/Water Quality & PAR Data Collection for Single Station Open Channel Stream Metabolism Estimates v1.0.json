@@ -1,9 +1,0 @@
-{
-  "abstractText": "The purpose of this method is to describe the collection of water quality parameters and photosynthetically active radiation (PAR) necessary to estimate gross primary production (GPP), net ecosystem production (NEP), and community respiration (CR) using diel oxygen curves andestimating stream metabolism specifically using the BASE (BAyesian Single-station Estimation) model (Grace et al. 2015). Data analysis and interpretation will not be described here.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/6930",
-  "title": "Water Quality & PAR Data Collection for Single Station Open Channel Stream Metabolism Estimates v1.0",
-  "id": 6930,
-  "type": "Data Collection",
-  "ownerName": "David Richardson",
-  "ownerEmail": "drichardson@sbtribes.com"
-}

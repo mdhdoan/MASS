@@ -1,9 +1,0 @@
-{
-  "abstractText": "Two types of electro-fishing methods will be implemented, multiple-pass mark-recapture and single pass.  Marking will be facilitated by clipping the caudal fin (dorsal tip) of salmonids greater than 50mm in fork length.  Following a recovery period (during which fish will be held within live-wells oxygenated by ambient stream flow and electric aerators) crews will return marked fish to the sample unit with respect to survey observations.  Double block nets will be employed at units subject to closed-population mark-recapture modeling, with the area between primary and secondary nets surveyed to evaluate violation of closed-population assumptions.    Surveys will be conducted utilizing Smith-Root LR-24 24 volt backpack units fitted with 11 ring anodes and rat-tail cathodes.  These electrofishing units will be programmed to output pulsed DC current with frequency, duty cycle, and voltage settings adjusted relative to reach conductivity and temperature.  Each electrofishing crew will consist of one operator and two netters, assignment of duties remaining fixed throughout the project.  Double block nets (1/4 in. mesh) will be deployed at the upper and lower ends of transects subject to closed-population modeling.  Electrofishing will begin at the bottom of each transect and move upstream, with shocked fish being netted.   Single pass electrofishing occurs in much the same manner, but no block nets are used and no fish are marked.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/190",
-  "title": "Electrofishing Methods v1.0",
-  "id": 190,
-  "type": "Data Collection",
-  "ownerName": "Jacque Schei",
-  "ownerEmail": "jschei@usgs.gov"
-}

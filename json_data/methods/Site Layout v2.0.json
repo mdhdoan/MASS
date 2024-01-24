@@ -1,0 +1,9 @@
+{
+  "abstractText": "This site layout method covers locating the site, establish benchmarks, site markers and monuments, determine bankfull elevation and site width category, lay out the site and determine channel units. This method assumes you've already Located the Site - see Method 831: http://www.monitoringmethods.org/Method/Details/831. Changes made for 2012: - Deleted the table of reasons for rejecting a site. - While laying out transects, changed from stretching the tape in the middle of the bankfull channel to the middle of the wetted channel. - Deleted bearing readings from benchmarks to other benchmark locations.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1579",
+  "title": "Site Layout v2.0",
+  "id": 1579,
+  "type": "Data Collection",
+  "ownerName": "Boyd Bouwes",
+  "ownerEmail": "boydbouwes@gmail.com"
+}

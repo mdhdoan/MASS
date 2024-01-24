@@ -1,0 +1,9 @@
+{
+  "abstractText": "The application of Passive Integrated Transponder (PIT) tags has increased from 20,000 in 1988 to over 2,000,000 in 2009. Currently, 2% of the returning adult salmon and steelhead passing Bonneville Dam (BON) are PIT tagged. It is natural extension of the currentLower Columbia River Coded Wire Tag (LCRCWT)recovery program to include PIT tag recoveries. Goals of the program are to expand Washingtons LCR CWT program to include a recovery program for all tags, including PIT tags, and marks sampled in fisheries and escapement programs, to provide point and interval estimates for recovered PIT and CWT tags by stratum when sample sizes are sufficient, and to make this information available to policy makers, planners, managers, and others. This project builds on the existing framework and infrastructure of the current CWT recovery program along with other state, federal, and locally funded fisheries and escapement sampling programs coordinated by the Washington Department of Fish and Wildlife (WDFW).",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1503",
+  "title": "PIT Tag sampling in Columbia River Commercial and Treaty Fisheries with FS2001-ISO Reader v1.0",
+  "id": 1503,
+  "type": "Data Collection",
+  "ownerName": "Aaron  Borisenko",
+  "ownerEmail": "borisenko.aaron@deq.state.or.us"
+}

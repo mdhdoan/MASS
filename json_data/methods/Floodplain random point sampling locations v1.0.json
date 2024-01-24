@@ -1,0 +1,9 @@
+{
+  "abstractText": "The purpose of this method is to create a series of random sampling points for fish capture witihn a restoration projects active floodplain that would be flexible enough to allow for variations in innundation within the floodplain during a 4 month sampling window.The procedures for this method are reliant on an engineering design and hydraulic modelfor the restoration project, although if that is not available it could still be used with some modifications.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/6923",
+  "title": "Floodplain random point sampling locations v1.0",
+  "id": 6923,
+  "type": "Data Collection",
+  "ownerName": "Leslie Naylor",
+  "ownerEmail": "lesnaylor@ctuir.org"
+}

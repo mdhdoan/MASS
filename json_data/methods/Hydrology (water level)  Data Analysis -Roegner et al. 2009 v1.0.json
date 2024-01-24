@@ -1,0 +1,9 @@
+{
+  "abstractText": "Water-level variation in wetlands is a function of river flow and tidal fluctuations. This variation largely drives wetland evolution in estuaries, with tidal fluctuations probably being the most deterministic for wetland restoration (Cornu and Sadro 2002). A key measure is change in tidal elevation within a restoration project due to tidal reconnection. The extent, period, and duration of tidal forcing will cause changes in aerial exposure, circulation patterns in tidal creeks (including the distribution of water quality parameters such as salinity, temperature, and DO), sedimentation/erosion patterns and tidal creek evolution, and the distribution of vegetation and fishes. This method describes analysis of data collected in Method: Hydrology (water level) - Data Collection.Objective: Measure the pattern of hydrology with respect to a known reference point to determine the timing, frequency, and duration of tidal inundation in reference and restored sites.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/815",
+  "title": "Hydrology (water level)  Data Analysis -Roegner et al. 2009 v1.0",
+  "id": 815,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Catherine Corbett",
+  "ownerEmail": "ccorbett@estuarypartnership.org"
+}

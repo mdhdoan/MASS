@@ -1,0 +1,9 @@
+{
+  "abstractText": "After completing a trawling event, the data must be analyzed in order to calculate density estimates. These estimates must be completed even when the final population estimate is completed using hydroacoustics because the age-specific proportions needed for the final estimate come from trawling. Because the minimum and maximum depths of the kokanee layer are not identical throughout the lake, the volume of water sampled varies by transect, and thus, the proportion of each age class is not a simple percent of fish collected. Herein we describe how we estimate fish density from the trawling data.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1102",
+  "title": "Midwater Trawling Analysis v1.0",
+  "id": 1102,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Pete Rust",
+  "ownerEmail": "Pete.Rust@idfg.idaho.gov"
+}

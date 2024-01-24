@@ -1,0 +1,9 @@
+{
+  "abstractText": "Measure the average width of the wetted channel.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/3877",
+  "title": "Channel Metrics: Wetted Width (WW) v1.0",
+  "id": 3877,
+  "type": "Data Collection",
+  "ownerName": "Charlie Stein",
+  "ownerEmail": "charlie.stein@oregonstate.edu"
+}

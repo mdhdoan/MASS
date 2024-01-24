@@ -1,0 +1,9 @@
+{
+  "abstractText": "Longitudinal profiles are performed between each transect by following the thalweg of the main channel at 100 equally spaced stations. Habitat type, pool maximum depth and crested depth, presence of side channels, and in-active channel habitats (backwater or side pool) are assessed at each longitudinal point. Beginning in 2007, ISEMP adopted the NWIFC definition of secondary habitat units- units that are less than 50% of the wetted width. Secondary units occur in conjunction with a primary unit (habitat unit greater than 50% of the wetted width). For maximum efficiency the recorder should count the large woody debris (LWD, see below) while the surveyor moves up the longitudinal profile between transects. For streams with an abundance of LWD, it may be more efficient for the surveyor to call out the LWD totals to the recorder. Substrate is measured for size class at the secondary transects as part of the longitudinal profile.This is an alternative method to measuring discrete habitat units and was originally intended to save time by coupling habitat unit identification with the long profile.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/220",
+  "title": "Habitat-Longitudinal Profile-Habitat Units v1.0",
+  "id": 220,
+  "type": "Data Collection",
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org"
+}

@@ -1,0 +1,9 @@
+{
+  "abstractText": "We calculate the biomass, production, and mortality by weight of the kokanee population in Lake Pend Oreille to determine the effects of predation. This method describes how we use kokanee population estimates, age-specific survival, and weight data from other methods to calculate annual kokanee biomass, production, and mortality by weight.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1094",
+  "title": "Kokanee Biomass, Production, and Mortality by Weight v1.0",
+  "id": 1094,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Pete Rust",
+  "ownerEmail": "Pete.Rust@idfg.idaho.gov"
+}

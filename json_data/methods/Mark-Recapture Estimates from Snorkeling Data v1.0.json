@@ -1,0 +1,9 @@
+{
+  "abstractText": "Snorkeling is the underwater observation and study of fish in flowing waters. Snorkel surveys can be used with other techniques to estimate abundance using markrecapture techniques. The use of snorkel surveys for markrecapture estimates provides a calibration factor for the counting efficiency of snorkel surveys as compared to other methods such as electrofishing and seining. For this technique to be used, the system should be closed off with block nets so that the total population observed is constant. For markrecapture estimates, fish need to be collected, marked, and released back to the sample area. Collection occurs with electrofishing, seining, or trapping; marking is done using tags or dyes with color coding or patterns; and release is into the sample reach. Snorkel surveys can then be conducted in the same sample reach to count the number of marked fish. The ratio of the number of fish resighted (i.e., those with marks that are counted) can be used as a calibration factor for the effectiveness of a snorkel survey compared to other survey methods. Fish can be marked differently based on size-class and species recorded by observers, which can help identify those species and size-classes that may have been undercounted using a snorkel survey approach.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/137",
+  "title": "Mark-Recapture Estimates from Snorkeling Data v1.0",
+  "id": 137,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Jennifer O'Neal",
+  "ownerEmail": "jen@naturaldes.com"
+}

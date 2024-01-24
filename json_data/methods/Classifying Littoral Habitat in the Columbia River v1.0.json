@@ -1,0 +1,9 @@
+{
+  "abstractText": "It is possible that an abundance model stratified by habitat type will improve the precision of the abundance estimates. Our year one GRTS study design will allow the collection of fish density by habitat type and will ultimately allow us to develop habitat-based abundance estimates. During year one all near shore habitat between McNary and Priest Dams will be classified based on defined criteria. Since boat electrofishing will occur along the shoreline, habitats will be classified <3 m dep; the general sampling effectiveness of a boat electroshocker. Habitat within the four reservoir strata will be delineated to include substrate type, water depth, velocity, and cover type. All habitat classes may not be present in the sampling sites within each stratum and additional sites may be required. Aerial photography (Google Earth), existing GIS databases (Hatten et al. 2009) and boat surveys will be used to classify habitat within each sample site. Final habitat classes will be determined based on observed fish densities (e.g., each habitat class has unique and homogenous fish densities by species). The number of strata will also be based on observed fish densities. Habitat classes will be integrated into a GIS database for the study area. Unfortunately, habitat preference data, except during spawning, for species like SMB, WAL, NPM, and CC in large altered systems like the Columbia River is not well described in the literature.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/7071",
+  "title": "Classifying Littoral Habitat in the Columbia River v1.0",
+  "id": 7071,
+  "type": "Data Collection",
+  "ownerName": "Matt Polacek",
+  "ownerEmail": "polacmcp@dfw.wa.gov"
+}

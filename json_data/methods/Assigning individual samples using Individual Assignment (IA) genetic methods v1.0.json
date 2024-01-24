@@ -1,0 +1,9 @@
+{
+  "abstractText": "Two types of genetic classification techniques are generally used for mixed stock analyses (MSA) and both use allele frequencies from baseline populations as reference information to characterize potentially contributing stocks. Individual assignment (IA) methods assign individual samples to stocks in which the probability of its genotype occurring is the greatest. Stock proportions are then estimated by summing all of the individual assignments.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1334",
+  "title": "Assigning individual samples using Individual Assignment (IA) genetic methods v1.0",
+  "id": 1334,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Matthew Campbell",
+  "ownerEmail": "matthew.campbell@idfg.idaho.gov"
+}

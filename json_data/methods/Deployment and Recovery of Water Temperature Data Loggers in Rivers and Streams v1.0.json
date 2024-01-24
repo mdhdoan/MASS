@@ -1,0 +1,9 @@
+{
+  "abstractText": "Measuring stream and river water temperatures can provide important insight into potential water quality concerns. Data loggers are a useful tool to collected water temperature and need to be deployed properly and recovered at the end of data collection.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1687",
+  "title": "Deployment and Recovery of Water Temperature Data Loggers in Rivers and Streams v1.0",
+  "id": 1687,
+  "type": "Data Collection",
+  "ownerName": "Troy Baker",
+  "ownerEmail": "troy.baker@wwbwc.org"
+}

@@ -1,0 +1,9 @@
+{
+  "abstractText": "Quantify the percentage of surface substrate <2 mm and between 2-6 mm at the tails of pools and non-turbulent channel units. Changes made for 2012: - Changed size categories to be mutually exclusive. <2 is no longer counted in the <6 category.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1585",
+  "title": "Pool Tail Fines Grid v1.0",
+  "id": 1585,
+  "type": "Data Collection",
+  "ownerName": "Boyd Bouwes",
+  "ownerEmail": "boydbouwes@gmail.com"
+}

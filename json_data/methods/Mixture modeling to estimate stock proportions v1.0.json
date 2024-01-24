@@ -1,0 +1,9 @@
+{
+  "abstractText": "Mixture modeling uses likelihood or Bayesian modeling methods to fractionally allocate individual samples within the mixture to each stock in proportion to the probability that it belongs to that stock.  Mixture modeling methods have been shown to be more accurate for estimating stock composition when all individual assignments cannot be made with high confidence (Manel et al. 2005, Koljonen et al. 2005).  Mixture modeling using multi-locus genotype data to estimate proportions of stocks sampled in fisheries or in the adult escapement sampled at a weir or dam can be performed using different software programs. Brief procedures for using the software program gsi_sim are described below.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1333",
+  "title": "Mixture modeling to estimate stock proportions v1.0",
+  "id": 1333,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Matthew Campbell",
+  "ownerEmail": "matthew.campbell@idfg.idaho.gov"
+}

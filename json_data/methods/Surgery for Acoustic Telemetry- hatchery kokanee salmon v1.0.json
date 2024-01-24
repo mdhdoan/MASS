@@ -1,0 +1,9 @@
+{
+  "abstractText": "Acoustic tracking will be used to assess distribution patterns, probability of entrainment and to potentially identify spawning locations of fishes in Lake Roosevelt and the upper Columbia River. To track the fish within the reservoir, we will utilize Vemco VR2W and VR2 receivers which are moored to Rolyan Buoys (Item B1452) along the river. VR2W and VR2 receivers are submersible, single-channel acoustic receivers which monitor the environment for the digitally coded transmitter signals which we implanted into our kokanee (Lacroix and Voefeli 2000; Heupel et al. 2006). These receivers are omnidirectional units that record the time, date, and identity the fish (by transmitter serial number) that swims within a given range (Heupel et al. 2006). However, to put the transmitters into the fish, we must first surgically implant the transmitters into the fish. We've decided to use V7-2X Vemco transmitters for all hatchery kokanee, as this method has been used for previous two years of data collection.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1121",
+  "title": "Surgery for Acoustic Telemetry- hatchery kokanee salmon v1.0",
+  "id": 1121,
+  "type": "Data Collection",
+  "ownerName": "alix blake",
+  "ownerEmail": "alix.blake@spokanetribe.com"
+}

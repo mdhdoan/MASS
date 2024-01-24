@@ -1,0 +1,9 @@
+{
+  "abstractText": "This extraction procedure purifies environmental DNA collected by water filtration onto a mixed ester filter. This extraction procedure uses a filtration-based method in which DNA selectively binds to the silica membrane inside Biomeme'ssample prep column. Subsequent washes through a sequence of buffers produces purified nucleic acid upon elution.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/6654",
+  "title": "DNA extraction from water samples using Biomeme kit v1.0",
+  "id": 6654,
+  "type": "Data Collection",
+  "ownerName": "Adam Sepulveda",
+  "ownerEmail": "asepulveda@usgs.gov"
+}

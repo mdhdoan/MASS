@@ -1,0 +1,9 @@
+{
+  "abstractText": "The relationship betweenphenotypic or behavioral traits of steelhead(e.g., length orrun timing) and their reproductive success(i.e., the number of offspring produced)isnot well understood.Identifying which traits are correlated with reproductive success may help to explain any differences observed in reproductive success between hatchery origin and natural origin steelhead, and reveal potential mechanisms by which hatchery rearingcontributes to variation in reproductive success.The effects of various individual traits (e.g.,fork length) and environmental variables (e.g., spawner density) on reproductive success of adult steelhead can be evaluated using generalized linear models. We used methods similar to those documented by Berntson et al. (2011) and Ford et al. (2016).?",
+  "url": "http://www.monitoringresources.org/api/v1/methods/6708",
+  "title": "Analysis of Reproductive Success and Individual Traits Using Generalized Linear Models v1.0",
+  "id": 6708,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Ben Goodman",
+  "ownerEmail": "benjamin.goodman@dfw.wa.gov"
+}

@@ -1,0 +1,9 @@
+{
+  "abstractText": "Statistics are summaries or collections of numbers.For a data set, the terms arithmetic mean, mathematical expectation,and sometimes averageare used synonymously to refer to a central value of a discrete set of numbers: specifically, the sum of the values divided by the number of values.The arithmetic mean of a set of numbersx1,x2, ...,xnis typically denoted by, pronounced xbar. (Wikipedia contributors, 2014).Variance and standard deviation are additionally summary statistics, calculated to describe the sample variation around the mean.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/4245",
+  "title": "Calculating a Mean, Variance and Standard Deviation v1.0",
+  "id": 4245,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Katie  Pierson",
+  "ownerEmail": "katherine.j.pierson@state.or.us"
+}

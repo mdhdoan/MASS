@@ -1,0 +1,9 @@
+{
+  "abstractText": "Description of processing captured target fish and subsequent data collection.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/135",
+  "title": "Adult Trap Fish Processing v1.0",
+  "id": 135,
+  "type": "Data Collection",
+  "ownerName": "Eric Stark",
+  "ownerEmail": "eric.stark@idfg.idaho.gov"
+}

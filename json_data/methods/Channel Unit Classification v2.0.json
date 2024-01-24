@@ -1,0 +1,9 @@
+{
+  "abstractText": "The identification of channel units provides the context for the survey of fish habitat attributes and channel topography. Channel units are classified using a two-tiered system (Figure 7): Tier I and Tier II. Tier I units are Fast Water Turbulent, Fast Water Non-Turbulent, and Slow Water/Pool. Tier II classifications break Tier I units d own to a finer scale. Generally, channel units are at least as long as the wetted channel width. Figure 8 provides context in regards to the spacing and resolution of channel units in a typical survey.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1581",
+  "title": "Channel Unit Classification v2.0",
+  "id": 1581,
+  "type": "Data Collection",
+  "ownerName": "Boyd Bouwes",
+  "ownerEmail": "boydbouwes@gmail.com"
+}

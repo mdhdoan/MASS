@@ -1,0 +1,9 @@
+{
+  "abstractText": "Weirs have long been used by biologists to capture upstream migrating anadromous salmonids from streams (Anderson and McDonald 1978). Fishery managers use adult escapement estimates to monitor anadromous salmonid population status and management (Cousens et al. 1982). In addition, out-of-basin limiting factors (e.g., hydropower, predation, harvest, ect.) can be identified through PIT tagged adults by monitoring the data from the array.In addition to serving as a tool for monitoring naturally produced populations, weirs are also useful for evaluating hatchery programs and hatchery/natural fish interactions. Furthermore, weirs are used to collect samples from upstream migrants for purposes such as genetics sampling, fish disease, research, and predation (gut content) evaluations.Monitoring data can provide the foundation for successful management programs if data are collected in a systematic, consistent, and comprehensive manner. This weir methodis usedas part of a comprehensive monitoring strategy for Chinook salmon.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/6722",
+  "title": "Chinook Weir Sampling v1.0",
+  "id": 6722,
+  "type": "Data Collection",
+  "ownerName": "Lytle Denny",
+  "ownerEmail": "ldenny@sbtribes.com"
+}

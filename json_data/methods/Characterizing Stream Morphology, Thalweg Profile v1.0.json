@@ -1,0 +1,9 @@
+{
+  "abstractText": "The Thalweg Profile is a longitudinal survey of depth, habitat class, presence of soft/small sediment deposits, and off-channel habitat at 100 equally spaced intervals (150 in streams less than 2.5 m wide) along the centerline between the two ends of the sampling reach. Thalweg refers to the flow path of the deepest water in a stream channel. Wetted width and bankfull width are measured and substrate size is evaluated at 21 equally spaced cross-sections (at 11 regular Transects A through K, plus 10 supplemental cross-sections spaced mid-way between each of these).",
+  "url": "http://www.monitoringresources.org/api/v1/methods/157",
+  "title": "Characterizing Stream Morphology, Thalweg Profile v1.0",
+  "id": 157,
+  "type": "Data Collection",
+  "ownerName": "Jennifer O'Neal",
+  "ownerEmail": "jen@naturaldes.com"
+}

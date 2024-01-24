@@ -1,0 +1,9 @@
+{
+  "abstractText": "Maintaining diverse life histories is critical to the long-term persistence and resilience of salmonid populations. As a result documenting the life history traits and patterns within a population is critical to any monitoring program.Generally, juvenile salmonid emigration timing is characterized by individual life stages (parr, presmolt, transitional, smolt) at an instream emigrant trap (e.g. rotary screw trap, scoop trap, etc) or a juvenile fish passage facility (e.g. Lower Granite Dam).Emigration timing at the passage or capture site is typically expressed as the percent of total abundance over time and often expressed as the median, 0%, 10%, 50%, 90% and 100% detection or capture dates are calculated for fish passing the individual site.In addition to providing documentation of life history strategies, these data can then be used to inform managers of changes in migration timing to adjust sampling and tagging rates, adjusting water management needs, or in comparing trend data among separate groups or populations of emigrating fish.This method has been generalized for broad application. If you have specific needs, please customize this method as needed.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/389",
+  "title": "Juvenile Emigration Timing v1.0",
+  "id": 389,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "PNAMP Support",
+  "ownerEmail": "pnamp.mm@gmail.com"
+}

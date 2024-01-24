@@ -1,0 +1,9 @@
+{
+  "abstractText": "This document is the Environmental Assessment Program (EAP) Standard Operating Procedure (SOP) for field collection and laboratory procedures used to determine the concentration of dissolved oxygen (DO) in water samples. The samples are analyzed using the Winkler Method (Azide-Modification), SM 21st Edition, 2005 (See attachment A for chemical reaction details). The volume, in mL, of sodium thiosulfate used to analyze a 200mL sample with this method is equal to the DO concentration in mg/L.In general, the concentration of DO in water varies in response to changes in atmospheric pressure and water temperature. The higher the atmospheric pressure the higher the oxygen solubility in water and the higher the potential DO concentration. The opposite is true with temperature, the higher the temperature the lower the solubility and saturation concentration of oxygen in water. DO is one of the major factors that determine the types of biological communities that inhabit an aquatic system. The addition of organic or inorganic material that exerts an oxygen demand through respiration and biodegradation lowers the DO concentration and can facilitate the growth of nuisance organisms.This SOP is intended for freshwater monitoring.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/3791",
+  "title": "Standard Operating Procedures for the Collection and Analysis of Dissolved Oxygen (Winkler Method) v1.0",
+  "id": 3791,
+  "type": "Data Collection",
+  "ownerName": "Steve Rentmeester",
+  "ownerEmail": "steve@sitkatech.com"
+}

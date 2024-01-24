@@ -1,0 +1,9 @@
+{
+  "abstractText": "Documentation for dates and times using the ISO standards help ensure consistency of data queries.Documentation of date and time using international standards is recommended by the Northwest Environmental Data Network and ISO international standards. Calendar date representations are in the form as shown in the box to the right. [YYYY] indicates a four-digit year, 0000 through 9999. [MM] indicates a two-digit month of the year, 01 through 12. [DD] indicates a two-digit day of that month, 01 through 31. For example, the 5th of April 1981 may be represented as either 1981-04-05 in the extended format or 19810405 in the basic format. Time: ISO 8601 uses the 24-hour clock system. The basic format is [hh][mm][ss] and the extended format is [hh]:[mm]:[ss]. [hh] refers to a zero-padded hour between 00 and 24 (where 24 is only used to notate midnight at the end of a calendar day). [mm] refers to a zero-padded minute between 00 and 59. [ss] refers to a zero-padded second between 00 and 60 (where 60 is only used to notate an added leap second). Extended format includes use of colon separators 13:47:30 Note that [mm] and [ss] are optional in documentation for time one should document Time Zone for Universal timezone offsets",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1728",
+  "title": "Date and Time (ISO International Standard) v1.0",
+  "id": 1728,
+  "type": "Data Collection",
+  "ownerName": "Russell Scranton",
+  "ownerEmail": "rwscranton@bpa.gov"
+}

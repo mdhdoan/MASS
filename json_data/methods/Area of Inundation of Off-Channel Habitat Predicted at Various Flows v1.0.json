@@ -1,0 +1,9 @@
+{
+  "abstractText": "This metric is the area of wetted off-channel habitat at different flow levels. Off-channel area at the time of survey is calculated by the River Bathymetry Toolbit (RBT)using the channel units delineated during the topographic survey (Method ID: 1258). Area of off-channel habitat is also calculated at a flow level where floodplain activation is anticipated (abovebankfull). Hydraulic modeling is used model a flow level where floodplain activation is anticipated (Method ID:4233), and the wetted area of off-channel habitat is measured. Measurement units are square meters.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/4233",
+  "title": "Area of Inundation of Off-Channel Habitat Predicted at Various Flows v1.0",
+  "id": 4233,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Rachael Katz",
+  "ownerEmail": "rachael.katz@tetratech.com"
+}

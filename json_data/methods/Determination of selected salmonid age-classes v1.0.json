@@ -1,0 +1,9 @@
+{
+  "abstractText": "The number of selected salmonid age classesreflects the suitability and stability of conditionsfor spawning, rearing, and maturation. Stressors (exploitation, recruitment failure, food limitation, niche shifts) often cause a shift in age-class distributions. The method refers to selected salmonids because it focuses on theredd building, gravel-spawning species, such as Chinook and steelhead. This metric is also used to develop an index for biotic integrity (IBI) applicable to fish assemblages in coldwater riversthroughout the Pacific Northwest.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1746",
+  "title": "Determination of selected salmonid age-classes v1.0",
+  "id": 1746,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "PNAMP Support",
+  "ownerEmail": "pnamp.mm@gmail.com"
+}

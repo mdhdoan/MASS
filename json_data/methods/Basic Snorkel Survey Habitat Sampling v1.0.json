@@ -1,0 +1,9 @@
+{
+  "abstractText": "Snorkel Surveys typically consist of both snorkeling (fish count) and habitat measurements. In this method aminimum of physical habitat measurements are required in order to complete a snorkel survey at a specific locationto allow estimation of fish density from fish counts.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/6936",
+  "title": "Basic Snorkel Survey Habitat Sampling v1.0",
+  "id": 6936,
+  "type": "Data Collection",
+  "ownerName": "Eric Stark",
+  "ownerEmail": "eric.stark@idfg.idaho.gov"
+}

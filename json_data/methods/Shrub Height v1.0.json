@@ -1,0 +1,9 @@
+{
+  "abstractText": "Shrubs are defined as woody vegetation including trees <16 feet in height unless otherwise defined in Habitat Evaluation Program (HEP) models.There is an assumption that trees <16 feet tall function ecologically more like shrubs than trees.The 16 height restriction generally applies to tree species such as ponderosa pine (Pinus ponderosa). If the tree is < 16 tall, it is counted as a shrub; > 16 tall it is counted as a tree. Conversely, most shrub species are always counted as shrubs regardless of height e.g., a chokecherry (Prunus virginiana) > 16 in height will always beconsidered a shrub.Shrub height measurements are recorded relative to the position of the transect line and/or point interval. As a result, the height of the dominant shrub canopy biomass is recorded (maximum shrub height is seldom documented - especially in shrubsteppe habitat). Mean shrub height data results are generally lower than ocular shrub height estimates.Shrub heights are recorded in 10thsof feet as whole numbers on either data loggers or paper data forms. For example, a shrub height of four feet is recorded as 40. Similarly, a shrub height of 2.5 feet is recorded as 25.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/278",
+  "title": "Shrub Height v1.0",
+  "id": 278,
+  "type": "Data Collection",
+  "ownerName": "Paul Ashley",
+  "ownerEmail": "lonepinebutte@comcast.net"
+}

@@ -1,0 +1,9 @@
+{
+  "abstractText": "This method describes how to estimate the percentage of a hatchery release group that strayed. This method assumes that a portion (or all) of the release group has been tagged with a uniquely coded wire tag. We tag enough fish to ensure at least 35 tag recoveries (based on pasttag recovery history).We consider tagged fish to have strayed if they were recovered outside of the direct migratory path between the ocean and the river basin of release. See methods 4223and 5526for coded wire tagging details. See Johnson (1990) for a detailed description of coded wire tagging operations in the Pacific Northwest. See Clarke et al. 2016 for an example of this method used in a journal article.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/5528",
+  "title": "Stray rate of hatchery fish based on coded wire tag recovery v1.0",
+  "id": 5528,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Lance Clarke",
+  "ownerEmail": "Lance.R.Clarke@state.or.us"
+}

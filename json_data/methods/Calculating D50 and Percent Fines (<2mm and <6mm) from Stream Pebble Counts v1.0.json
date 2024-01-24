@@ -1,0 +1,9 @@
+{
+  "abstractText": "To calculate D50 and percent fines <2mm and 6mm based on stream pebble counts at a site. Recommended Data Collection method for this isMethod 6797: Physical Habitat: Substrate - Pebble Counts v2.0.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/7055",
+  "title": "Calculating D50 and Percent Fines (<2mm and <6mm) from Stream Pebble Counts v1.0",
+  "id": 7055,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "PNAMP Support",
+  "ownerEmail": "pnamp.mm@gmail.com"
+}

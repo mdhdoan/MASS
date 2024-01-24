@@ -1,0 +1,9 @@
+{
+  "abstractText": "Recent publication suggest that domestication may cause a tradeoff such that families that perform well in the hatchery (produced many surviving adult offspring), produce offspring that have lowered reproductive success in the wild (Christie et al., 2012; Ford et al., 2012). Circumstantial evidence in Christie et al. (2012) suggest that crowding enhances the rate of domestication, and therefore that fish may be adapting to high crowding levels. If true, one prediction is that the rank performance of families (growth rate) depends on the density at which they were raised (i.e families that do best at low density do worst at high, and vice versa).See also Thompson and Blouin (2015) for further details.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/3957",
+  "title": "test of rearing density on among-family performance in hatchery v1.0",
+  "id": 3957,
+  "type": "Data Collection",
+  "ownerName": "Michael Blouin",
+  "ownerEmail": "blouinm@science.oregonstate.edu"
+}

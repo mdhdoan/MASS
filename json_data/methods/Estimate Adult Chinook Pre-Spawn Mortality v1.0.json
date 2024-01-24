@@ -1,0 +1,9 @@
+{
+  "abstractText": "Adult chinook carcasses are collected throughout the Okanogan basin during spawning ground surveys in August-November. The target sample size for carcass recovery efforts is 20% of the spawning population within each reach (Hillman et al. 2014). Carcass recovery efforts occurr simultaneously with redd float surveys. Recovered carcasses are transported within inflatable rafts downstream until a suitable site was found for processing. Biological data is collected from carcasses included sex, fork length (FL) and post-orbital hypural length (POH) to the nearest cm, and estimated egg retention for all females (0 to 5,000 max; visually estimated). Please refer to MethodID: 6748 for more information about determining egg retention. Refer to Protocol ID: 2226 for more information about other metrics collected collected during the Okanogan carcass surveys.At the end of the season a percent of sample female carcasses that retained all of their eggs was calculated for both hatchery-origin and natural-origin fish.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/6747",
+  "title": "Estimate Adult Chinook Pre-Spawn Mortality v1.0",
+  "id": 6747,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Andrea Pearl",
+  "ownerEmail": "andrea.pearl@colvilletribes.com"
+}

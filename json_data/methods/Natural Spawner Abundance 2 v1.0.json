@@ -1,0 +1,9 @@
+{
+  "abstractText": "OBMEP diagram of data analysis flow for the calculation of natural spawner abundance. See the diagram for specific details.Updated version of Method ID: 508Natural Spawner Abundance v1.0 - https://www.monitoringresources.org/Document/Method/Details/508",
+  "url": "http://www.monitoringresources.org/api/v1/methods/6927",
+  "title": "Natural Spawner Abundance 2 v1.0",
+  "id": 6927,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Brian Miller",
+  "ownerEmail": "brian.miller@colvilletribes.com"
+}

@@ -1,0 +1,9 @@
+{
+  "abstractText": "The USGS PatuxentWildlife Research Center Bird Count Database isa searchable repository a tool for managing your surveys a place for collaboration, e.g. Partners in Flight or regional surveys. The official site for National Wildlife Refuge point counts. What is a point count? A method for conducting standardized bird surveys so that you can compare numbers of birds among sites or years. This site was built through collaboration among USGS Patuxent Wildlife Research Center, the USFWS National Wildlife Refuge System, American Bird Conservancy, and many individuals.Raw point count data is uploaded into the database and it will then summarize the data internally and report out as an Access database table.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/5363",
+  "title": "Reporting out summarized data from the Patuxent Wildlife Research Center Bird Count Database v1.0",
+  "id": 5363,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Katie  Pierson",
+  "ownerEmail": "katherine.j.pierson@state.or.us"
+}

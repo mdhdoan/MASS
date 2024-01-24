@@ -1,0 +1,9 @@
+{
+  "abstractText": "The extraction of DNA is necessary for the associated nested and quantitative PCR protocols. This process is started with a digestion of the proteins (cell walls, etc) with the enzyme Proteinase K (to release the DNA from the cells) followed by binding of the DNA to a glass fiber column, and rinsing with various wash buffers, and finally freeing the DNA from the column and putting it into solution. The wash buffers remove the degraded proteins from the DNA, leaving, ideally, only nucleic acids (the DNA and RNA) bound to the column. Binding of DNA to a glass fiber column depends on the presence of salts, a chaotropic agent (denatures the DNA so it can bind) one of which is found in the Binding Buffer, Guanidine thiocyanate (GuSCN), and optimum pH. After the ethanol-based rinses of the column the DNA is eluted from the column using buffer 1xTE at a pH of ~8.0. To avoid contamination of samples and solutions with human DNA, one should use disposable gloves when handling the samples, extractions etc. Also a blank or negative control with everything but tissue, should be included, to be able to check for contamination later on.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1376",
+  "title": "Northwest Fisheries Science Center Ocean Salmon Survey DNA extraction for Renibacterium salmoninarum v1.0",
+  "id": 1376,
+  "type": "Data Collection",
+  "ownerName": "Cheryl Morgan",
+  "ownerEmail": "cheryl.morgan@oregonstate.edu"
+}

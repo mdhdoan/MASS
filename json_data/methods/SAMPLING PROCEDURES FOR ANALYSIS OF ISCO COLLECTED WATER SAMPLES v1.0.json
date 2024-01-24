@@ -1,0 +1,9 @@
+{
+  "abstractText": "SAMPLING PROCEDURES FOR ANALYSIS OF ISCO COLLECTED WATER SAMPLESThis is a list of procedures for analyzing water samples collected from ISCO automated water samplers.  These methods will analyze the water for conductivity, total suspended solids (TSS), and turbidity.  Samplers:The water samplers used to collect the water samples are automated water samplers manufactured by the Teledyne ISCO Co. (formerly Instrument Specialty Corporation) of Lincoln, Nebraska.   These samplers are commonly referred to as Iscos.  They are programmable, enabling sampling to be done 4 times a day for up to 24 days before being picked-up & changed-out with empty bottles. The Sampler & tub assembly are housed in metal shelters. ISCOs are powered by rechargeable dry cell batteries.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1285",
+  "title": "SAMPLING PROCEDURES FOR ANALYSIS OF ISCO COLLECTED WATER SAMPLES v1.0",
+  "id": 1285,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "William Dowdy",
+  "ownerEmail": "wdowdy@fs.fed.us"
+}

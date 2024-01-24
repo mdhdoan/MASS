@@ -1,0 +1,9 @@
+{
+  "abstractText": "Smolt-to-Adult return ratio (SAR) is the estimate of survival from a beginning point as a smolt to an ending point as an adult. SAR estimates are used in gauging the viability of populations in the Columbia Basin and the effectiveness of smolt transport efforts (Hinrichsen and Paulsen 2011). Tributary to tributary SAR estimates for natural and hatchery origin fish are calculated using PIT tag technology as well as direct counts of fish returning to the drainage. PIT tag SAR estimates are calculated by dividing the number of PIT tag adults returning to the tributary by the number of PIT tagged juvenile fish migrating from the tributary. Overall PIT tag SAR estimates for natural fish are then calculated by averaging the individual life stage specific SARs. Direct counts are calculated by dividing the estimated number of natural and hatchery-origin adults returning to the tributary (by length break-out for natural fish) by the estimated number of natural-origin fish and the known number of hatchery-origin fish leaving the tributary (Beasley et al. 2008).",
+  "url": "http://www.monitoringresources.org/api/v1/methods/395",
+  "title": "Calculating the smolt to adult return rate (SAR) v1.0",
+  "id": 395,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "PNAMP Support",
+  "ownerEmail": "pnamp.mm@gmail.com"
+}

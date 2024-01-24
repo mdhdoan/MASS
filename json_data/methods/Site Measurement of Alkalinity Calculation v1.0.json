@@ -1,0 +1,9 @@
+{
+  "abstractText": "Measure of the capacity of water to neutralize an acid, or the buffering capacity.The site measurement of alkalinity will be measured at the upstream end of each site and this single measurement will be reported as the site-level metric.The CHaMP - Water Chemistry Method provides background on collection of the measurement data that are analyzed for this calculation. See - http://www.monitoringmethods.org/Method/Details/848",
+  "url": "http://www.monitoringresources.org/api/v1/methods/874",
+  "title": "Site Measurement of Alkalinity Calculation v1.0",
+  "id": 874,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Steve Rentmeester",
+  "ownerEmail": "steve@sitkatech.com"
+}

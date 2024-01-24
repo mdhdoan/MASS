@@ -1,0 +1,9 @@
+{
+  "abstractText": "Mid-water trawling is an effective technique for capturing pelagic fish. In particular, kokaneeand juvenile sockeye tend to dissociate during hours of darkness and form a 'fish layer' which can be detected using an echo sounder. This survey was developed to assessO. nerkapopulations in lakes and reservoirs, but may be adapted to other pelagic species. Data from these surveys are used to determine the size and age structure of the population in question and generate estimates of abundance, biomass and production. This methodwas adapted from that described by Rieman (1992).",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1000",
+  "title": "Mid-water trawl survey for assessing pelagic fish populations v1.0",
+  "id": 1000,
+  "type": "Data Collection",
+  "ownerName": "Sean Wilson",
+  "ownerEmail": "sean.wilson@idfg.idaho.gov"
+}

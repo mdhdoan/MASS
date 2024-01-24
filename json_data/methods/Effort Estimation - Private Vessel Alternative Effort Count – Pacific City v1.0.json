@@ -1,0 +1,9 @@
+{
+  "abstractText": "The fishery and fleet at the port of Pacific City requires yet another method to account for private boat effort.  Pacific City is a beach access point where flat bottomed dories are launched through the surf.  A large number of the dories fleet have commercial fishing licenses and on any given day may be either sport fishing or commercial fishing.  In order to estimate the component of the fleet that is sport fishing accurately, a separate count form is used at Pacific City.  This method accounts for the commercial traffic in much the same way that the alternative effort count form deals with estuary fishing activity in other ports.   The sampler starts by counting all of trailers on the beach and the adjacent parking lot just south of Cape Kiwanda at the start of the day.  This initial count usually needs to occur between 7:00 and 8:30 AM.  There is one additional site just to the North at Tierra del Mar that may need to be counted if the beach conditions at Cape Kiwanda deteriorate.  Next, any additional boat launches are recorded during the hour in which they occurred.  Throughout the day, the ORBS sampler tallies all returning boats on the form in column C as they land back on the beach.  Then the sampler tallies each boat as to the category the boat falls within i.e. private boat, charter boat, commercial salmon, or commercial/other based on interviews with the vessel.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/182",
+  "title": "Effort Estimation - Private Vessel Alternative Effort Count \u2013 Pacific City v1.0",
+  "id": 182,
+  "type": "Data Collection",
+  "ownerName": "Eric Schindler",
+  "ownerEmail": "eric.d.schindler@state.or.us"
+}

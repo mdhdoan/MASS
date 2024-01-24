@@ -1,0 +1,9 @@
+{
+  "abstractText": "This method will allow us to determine if the stream banks within the habitat restoration area have improved and thereby reduced siltation and erosion by reducing the percentage of the streambank that is actively eroding. This method is adapted from Moore et al. (1998).",
+  "url": "http://www.monitoringresources.org/api/v1/methods/4100",
+  "title": "Measuring Active Streambank Erosion v1.0",
+  "id": 4100,
+  "type": "Data Collection",
+  "ownerName": "Colin Riordan",
+  "ownerEmail": "colin@naturaldes.com"
+}

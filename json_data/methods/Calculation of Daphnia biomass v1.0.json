@@ -1,0 +1,9 @@
+{
+  "abstractText": "Zooplankton are tiny pelagic animals that swim only weakly, and thus are at the mercy of the currents. They feed primarily on phytoplankton and picoplankton (bacteria), and therefore represent secondary production in most lakes and reservoirs. They are an important food source for fish, linking them to the lower trophic levels (Horne and Goldman 1994).Researchers investigating secondary production in freshwaters, or assessing food availability for planktivorous fishes, may need to estimate the standing stock of a specific taxa of zooplankton. Some planktivores feed selectively on specific zooplankton taxa that are above a minimum size. For example, kokanee have been found to preferDaphnia sp. that are 0.80 mm or more in length (Stark and Stockner 2006; Wilson et al. 2013). To understand how food availability has changed for this species, it may be helpful to estimate the changes in the biomass of their preferred prey, rather than overall changes in zooplankton density.Since zooplankton lengths can easily be measured using an optical micrometer, researchers have developed length to weight relationships in order to convert lengths to weight estimates, which can then be used to estimate biomass (McCauley 1984). This method describes the estimation of individual weights ofDaphnia sp. from length data. It expands this to estimation ofDaphnia sp. biomass using observed densities from each individual tow and mean weights estimated from the length data. Finally, it describes the use of these methods to estimate the biomass ofDaphnia sp. large enough to be efficiently captured and consumed by a planktivorous fish species for which the minimum prey size is known.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1421",
+  "title": "Calculation of Daphnia biomass v1.0",
+  "id": 1421,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Sean Wilson",
+  "ownerEmail": "sean.wilson@idfg.idaho.gov"
+}

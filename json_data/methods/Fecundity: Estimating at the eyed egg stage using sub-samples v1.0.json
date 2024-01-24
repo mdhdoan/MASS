@@ -1,0 +1,9 @@
+{
+  "abstractText": "Values of individual female fecundity are used when generating predictive fecundity regression formulas for females that spawned naturally in spawning channels. They are also used to track/monitor changes in fecundity by age.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1470",
+  "title": "Fecundity: Estimating at the eyed egg stage using sub-samples v1.0",
+  "id": 1470,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Todd Hillson",
+  "ownerEmail": "hillsth@dfw.wa.gov"
+}

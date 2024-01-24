@@ -1,0 +1,9 @@
+{
+  "abstractText": "After field data collection, the data are uploaded into an MS Access database which then computes summary statistics to reflect habitat conditions at the reach scale.  These summary statistics were generally developed as part of the EPA EMAP and were selected for this program based on their high signal to noise ratios as compared to other potential summary variables.   The following variables are reported for Riparian Planting Projects: GPS Coordinates, Sample Date, Reach Length, Reach Width, Area Planted, Riparian Vegetation Structure, Canopy Density, Bank Erosion, Average Pool Tail Fines, Number of Plantings, Percent of Plants Living, and Percent Cover of Woody Vegetation within the Riparian Planting Area. Statistical significance will be tested (w/ paired-t test) for: Number of Riparian Plantings, Canopy Cover, and Riparian Vegetation Structure.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/908",
+  "title": "Summary Statistics for Riparian Planting Projects v1.0",
+  "id": 908,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Jennifer O'Neal",
+  "ownerEmail": "jen@naturaldes.com"
+}

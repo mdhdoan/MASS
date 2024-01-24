@@ -1,0 +1,9 @@
+{
+  "abstractText": "Determining trends in the adult sturgeon population are paramount to sturgeon recovery.Our goal is to provide a comprehensive and current picture of the status, population dynamics, and future prospects of the Kootenai River white sturgeon by analyzing population data from all Kootenai River and Kootenay Lake white sturgeon sampling efforts from 1977 to the present (Paragamian et al. 2005).Our objectives are to determine abundance,mortality rate, survival rate, growth, and maturation.This analysis provides a benchmark with which to compare similar metrics after recovery measures are in place. The purpose ofthis data analysis method is to describethe general modeling procedures we use toevaluate the state of this population.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1020",
+  "title": "Adult sturgeon population demographics v1.0",
+  "id": 1020,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Aaron  Borisenko",
+  "ownerEmail": "borisenko.aaron@deq.state.or.us"
+}

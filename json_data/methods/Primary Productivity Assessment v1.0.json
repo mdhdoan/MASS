@@ -1,0 +1,9 @@
+{
+  "abstractText": "Primary productivity can not be accurately assessed using data describing chlorophyll concentrations or standing phytoplankton density or biovolume. Changes in primary production are not always reflected by changes in standing stock. Primary productivity can be masked or exaggerated by changes in grazing pressure. The best way to assess changes to primary production is to measure carbon uptake rates directly. The following methodology was developed to measure primary production in terms of carbon uptake by the phytoplankton community. Size fractionation makes it possible to differentiate production from the pico, nano, microplankton communities.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1654",
+  "title": "Primary Productivity Assessment v1.0",
+  "id": 1654,
+  "type": "Data Collection",
+  "ownerName": "Sean Wilson",
+  "ownerEmail": "sean.wilson@idfg.idaho.gov"
+}

@@ -1,0 +1,9 @@
+{
+  "abstractText": "Habitat description variables are important for understanding changes in amphibian abundance. Origin of the water source (man-made or natural), seasonal drainage characteristics, general habitat description (includes signs of beaver activity), maximum length and width, maximum depth, stream order (an index of stream size), primary substrate, emergent vegetation, north shoreline characteristics (important in evaluating breeding habitat), and forest characteristics (if present).",
+  "url": "http://www.monitoringresources.org/api/v1/methods/5308",
+  "title": "Site Characteristics of Amphibian Habitat v1.0",
+  "id": 5308,
+  "type": "Data Collection",
+  "ownerName": "Blair McClarin",
+  "ownerEmail": "blairm@nezperce.org"
+}

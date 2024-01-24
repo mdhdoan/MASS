@@ -1,0 +1,9 @@
+{
+  "abstractText": "This method is for establishing a measuring point on wells from which all water level measurements are measured. A MP helps to ensure that all measurements, even if taken by multiple people, are referenced to the same elevation. Please see attached photo for an example MP on a two inch monitoring well.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1670",
+  "title": "Establishing a Measurement Point (MP) on Groundwater Wells v1.0",
+  "id": 1670,
+  "type": "Data Collection",
+  "ownerName": "Troy Baker",
+  "ownerEmail": "troy.baker@wwbwc.org"
+}

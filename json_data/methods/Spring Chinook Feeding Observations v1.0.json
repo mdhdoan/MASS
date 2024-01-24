@@ -1,0 +1,9 @@
+{
+  "abstractText": "We use stationary snorkeling to observe and record subyearling spring Chinook and Coho territory size. Using a clipboard, observers recorded direction and distance of juvenile Chinook salmon movements relative to the focal position. Underwater stopwatches were used to time each observation. Observations range in duration from 1.0 to 5.5 minutes, terminating when the target Chinook left the observers view. Movements are recorded onto a two-dimensional datasheet graph, which represented distance in body lengths, and direction relative to the focal point (Figure 1). The direction of a fish movement was classified as top, bottom, left or right, with each consisting of a ninety-degree range centered at the focal point (Figure 1). Movements were classified as either feeding or agonistic depending upon whether the focal fish 1) obtained a food item, or 2) moved aggressively as an instigator or in response to an intruding Chinook. Feeding strikes were denoted by a dark circle or point on the datasheet, and agonistic strikes with an x. (Johnson et. al. 2012)",
+  "url": "http://www.monitoringresources.org/api/v1/methods/6688",
+  "title": "Spring Chinook Feeding Observations v1.0",
+  "id": 6688,
+  "type": "Data Collection",
+  "ownerName": "Nick Mankus",
+  "ownerEmail": "nicholas.mankus@dfw.wa.gov"
+}

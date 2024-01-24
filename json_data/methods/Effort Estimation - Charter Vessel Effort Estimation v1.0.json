@@ -1,0 +1,9 @@
+{
+  "abstractText": "For charter vessels, ORBS relies on contacting each charter office to find out the number of trips by target species for each day of the week.  For those few charters who are more transient in nature (i.e. they do not have a permanent charter office within the port) charters trips are accounted for using the same effort methods listed below for private boats, but they are recorded as guides to be able to identify the level of activity by category as needed.  These trip counts are transferred to the Recreational Ocean Fishery Effort Form.  This form is a weekly summary of all recreational ocean effort in a port.  In rare instances, individual charter offices have refused to provide the effort information.  In the event of such an occurrence, the charter effort has been estimated in the same manner as for private boats as listed in the next section.  Also the charter effort totals are occasionally cross checked with the bar crossing counts to confirm that accurate information is being provided by the charter offices.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/180",
+  "title": "Effort Estimation - Charter Vessel Effort Estimation v1.0",
+  "id": 180,
+  "type": "Data Collection",
+  "ownerName": "Eric Schindler",
+  "ownerEmail": "eric.d.schindler@state.or.us"
+}

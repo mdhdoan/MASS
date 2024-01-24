@@ -1,0 +1,9 @@
+{
+  "abstractText": "Size selectivity of sampling has been widely acknowledged as an issue in fisheries management and all gears have some varying degree of size selectivity associated with them (Gulland 1980). Understanding the selectivity of your gear is critical to reducingbias in your population statistic, e.g.,abundance, size structure, survival rates, etc., estimates(Hamley 1975; Ricker 1975). By examining the recapture rates of fish of varying lengths captured by your sampling gear you can determine your gear's size selectivity,how the vulnerability of your population in question varies by size (Beamesderfer and Rieman 1988), and how to correct for that selectivity when calculating population statistics (Beamesderfer et al. 1995).",
+  "url": "http://www.monitoringresources.org/api/v1/methods/4176",
+  "title": "Gear Size Selectivity Correction Factor Estimation v1.0",
+  "id": 4176,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Tucker Jones",
+  "ownerEmail": "tucker.a.jones@state.or.us"
+}

@@ -1,0 +1,9 @@
+{
+  "abstractText": "This method explains how to collect measurementsat 11 equidistant transects at each. Establishtransects using method ID 3828 or something similary. Measurements in this procedure will be restricted to onemain channel.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/3839",
+  "title": "Estimated Bank Instability- For Wadable Streams v1.0",
+  "id": 3839,
+  "type": "Data Collection",
+  "ownerName": "Glenn Merritt",
+  "ownerEmail": "glenn.merritt@ecy.wa.gov"
+}

@@ -1,0 +1,9 @@
+{
+  "abstractText": "Objective: Classify streambank stability (into one of 15 categories) at each transect flag This method was described by Bauer and Burton (1993). They have been modified and more thoroughly defined to increase measurement precision. The stability plot is 30 cm wide and perpendicular to the streambank. The bottom and upper limit of the plot are determined by observing the location of depositional features. Use the Streambank Stability Classification Key to code results.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/69",
+  "title": "Bank Stability v1.0",
+  "id": 69,
+  "type": "Data Collection",
+  "ownerName": "Jacque Schei",
+  "ownerEmail": "jschei@usgs.gov"
+}

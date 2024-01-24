@@ -1,0 +1,9 @@
+{
+  "abstractText": "Standardizing sampling effort, techniques, and gear is critical to allow for comparisons of data among field stations. A suite of environmental measurements are recorded at every site immediately before sampling for fishes. Measurements or observations are taken at the anticipated midpoint of a run (electrofishing, trawling) or at the net location for sampling locations with stationary gear (fyke netting, hoop netting).Habitats with high vegetation density can act as a refuge for prey to hide from predators (Heck and Crowder 1991; Petry et al. 2003). Predators have also been shown to change predation tactics in the presence of high density vegetation stands from searching to ambushing (Savino and Stein 1989).Vegetation density is an important observation when conducting long term fish monitoring as fish behavior in these habitats may be altered.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/5536",
+  "title": "Large River Monitoring Qualitative Vegetation Density Appraisal v1.0",
+  "id": 5536,
+  "type": "Data Collection",
+  "ownerName": "Sam Cimino",
+  "ownerEmail": "scimino@usgs.gov"
+}

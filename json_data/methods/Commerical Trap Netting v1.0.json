@@ -1,0 +1,9 @@
+{
+  "abstractText": "Entrapment gears such as trap nets are commonly used in fisheries studies to capture species that are mobile and willing to follow leads into the trap. Typically, trap nets are biased towards capturing larger, more active fish. One benefit to trap nets is they have essentially zero mortality, with the rare exception of a small fish that becomes stuck in the trap mesh. Therefore, trap nets are effective for capturing fish to be used for other purposes (e.g., telemetry, population estimates), and the nets are easily standardized for catch rate trend analyses. Large versions of trap nets have been used in commercial fisheries in the Great Lakes for many years. More details on the use of trap nets can be found in Hubert (1996).",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1035",
+  "title": "Commerical Trap Netting v1.0",
+  "id": 1035,
+  "type": "Data Collection",
+  "ownerName": "Pete Rust",
+  "ownerEmail": "Pete.Rust@idfg.idaho.gov"
+}

@@ -1,0 +1,9 @@
+{
+  "abstractText": "This document is the Environmental Assessment Program (EAP) Standard Operating Procedure (SOP) for the collection of freshwater samples for laboratory analysis of fecal coliform bacteria. The typical methods for fecal coliform analysis are: Standard Methods (SM) 9222D  a membrane filtration method and SM9221E 1 a most-probable number method using an EC medium. The procedures in this SOP may also be used to collect other bacteria samples such as E. coli, Enterococci, etc. Standard Methods contains alternative analytical procedures for these bacteria parameters.This SOP includes the procedures for sample collection by hand, using a bacteria sampler, or with an extension pole. The SOP also covers sample collection from waters with high residual chlorine (treated effluent or receiving waters) or metals contamination.Surface water can contain pathogenic (disease-causing) microorganisms. Testing water samples for the presence of all pathogenic microorganisms is expensive. Due to this high cost, Ecology tests water samples for fecal coliform bacteria, an organism used as an indicator of the potential presence of other pathogenic microorganisms.This SOP applies to the collection of bacteria samples in surface water.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/3794",
+  "title": "Standard Operating Procedures for the Collection of Fecal Coliform Bacteria Samples in Surface water v1.0",
+  "id": 3794,
+  "type": "Data Collection",
+  "ownerName": "Steve Rentmeester",
+  "ownerEmail": "steve@sitkatech.com"
+}

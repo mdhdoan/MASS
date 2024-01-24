@@ -1,0 +1,9 @@
+{
+  "abstractText": "At some dams in the Columbia River basin including Lower Granite Dam, PIT-tagged fish that are diverted from the turbine intakes by fish guidance screens are routed to the juvenile bypass system where they were detected in flumes equipped with PIT-tag systems. See Prentice et al. 1990. The hardware and data are maintained and managed by the Pacific States Marine Fisheries Comission. Information on the tagging, release, and detection of PIT-tagged fish must be downloaded from the PIT-tag Information System prior to analysis.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1473",
+  "title": "Downloading juvenile fall Chinook PIT-tag data collected at Lower Granite Dam v1.0",
+  "id": 1473,
+  "type": "Data Collection",
+  "ownerName": "Kenneth Tiffan",
+  "ownerEmail": "ktiffan@usgs.gov"
+}

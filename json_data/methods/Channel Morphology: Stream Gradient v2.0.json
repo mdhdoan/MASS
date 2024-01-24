@@ -1,0 +1,9 @@
+{
+  "abstractText": "The stream gradient is measured by the change in elevation measured between the left wetted at Transect A and the left wetted at Transect K (or their respective thalwegs if the reach is dry at either Transect A or K; fig 6) divided by the reach length. Since the reach length is already known, this section discusses how to measure the change in elevation between A and K.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/6852",
+  "title": "Channel Morphology: Stream Gradient v2.0",
+  "id": 6852,
+  "type": "Data Collection",
+  "ownerName": "PNAMP Support",
+  "ownerEmail": "pnamp.mm@gmail.com"
+}

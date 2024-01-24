@@ -1,0 +1,9 @@
+{
+  "abstractText": "Substrate size and embeddedness are evaluated at 5 points at each of the 11 transects. Substrate size (but not embeddedness) is also evaluated at 10 additional cross-sections located midway between each of the 11 regular transects (A-K). In the process of measuring substrate particle sizes at each transect, the water depth at each substrate sample point is measured (at the 10 midway cross-sections, depth to the substrate point is not recorded).The substrate sampling points along the cross-section are located at 0, 25, 50, 75, and 100 percent of the measured wetted width, with the first and last points located at the water's edge just within the left and right banks.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/6874",
+  "title": "Substrate Measurements and Pebble Counts v1.0",
+  "id": 6874,
+  "type": "Data Collection",
+  "ownerName": "PNAMP Support",
+  "ownerEmail": "pnamp.mm@gmail.com"
+}

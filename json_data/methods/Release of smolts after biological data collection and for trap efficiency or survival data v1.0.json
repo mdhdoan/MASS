@@ -1,0 +1,9 @@
+{
+  "abstractText": "Smolts used for biological data collection (or further data collection; eg. reach survival estimates) need a sufficient amount of time to recover from anesthetic before being released back into the natural environment. This method describes the steps taken to release these smolts back into the natural environment to avoid additional survival risks due to data collection stress.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1636",
+  "title": "Release of smolts after biological data collection and for trap efficiency/survival data v1.0",
+  "id": 1636,
+  "type": "Data Collection",
+  "ownerName": "Mike Peterson",
+  "ownerEmail": "mike.peterson@idfg.idaho.gov"
+}

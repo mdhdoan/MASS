@@ -1,0 +1,9 @@
+{
+  "abstractText": "A DIDSON is a multi-beam underwater acoustic video camera. It repetitively emits sets of sound beams and uses its unique patented lens to resolve the reflections of objects passing within its field of view into two-dimensional images. The standard model of the DIDSON emits an array of 96 beams at high frequency (HF; 1.8 MHz), or 48 beams at low frequency (LF; 1.1 MHz). The DIDSON has a functional range of 10-12 m when operated at HF, and a range of 24+ m when operated at LF - though with reduced resolution of the images relative to those obtained using the HF transducer. Placed in a body of water and oriented to transmit horizontally through the water column, it produces a top-down (birds-eye) view of the conically-shaped ensonified field. Unlike optical cameras, the camera is able to see objects irrespective of light intensity, and in water with up to moderate levels of turbidity. Additionally, field testing for fisheries applications, including salmon escapement estimation in rivers, has shown that the DIDSON has some significant advantages relative to other sonar systems (Moursund et al. 2003, Johnson et al. 2004, Maxwell and Gove 2004, Faurot and Kucera 2005, Galbreath and Barber 2005, Xie et al. 2005, Kucera and Orme 2006, Burwen et al. 2007, Maxwell 2007, Faulkner and Maxwell 2008, Melegari and Osborne 2008).",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1314",
+  "title": "DIDSON Escapement Estimation v1.0",
+  "id": 1314,
+  "type": "Data Collection",
+  "ownerName": "Peter F. Galbreath",
+  "ownerEmail": "galp@critfc.org"
+}

@@ -1,0 +1,9 @@
+{
+  "abstractText": "Kd values along with a visual observation of yolk sac absorption are used for determining the readiness of fry for ponding.  Kd values can also be used to indicate the condition of the early rearing habitat.  Values above expected in natural environments could be a result of inhospitable intra-gravel environmental conditions; values below expected indicate a lack of forage in the rearing area.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1472",
+  "title": "Estimating Kd values v1.0",
+  "id": 1472,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Todd Hillson",
+  "ownerEmail": "hillsth@dfw.wa.gov"
+}

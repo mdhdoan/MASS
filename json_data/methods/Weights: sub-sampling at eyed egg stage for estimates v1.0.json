@@ -1,0 +1,9 @@
+{
+  "abstractText": "Generates data fora fecundity estimate that includes estimates of variance and 95% CI values is generated for each female that was individually spawned and incubated. This fecundity estimate is used when generating predictive fecundity regression formulas. See Reintroduction of Lower Columbia River Chum Salmon into Duncan Creek FFY 2008 to 2010 Summary Report for more (https://pisces.bpa.gov/release/documents/documentviewer.aspx?doc=P123791",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1463",
+  "title": "Weights: sub-sampling at eyed egg stage for estimates v1.0",
+  "id": 1463,
+  "type": "Data Collection",
+  "ownerName": "Todd Hillson",
+  "ownerEmail": "hillsth@dfw.wa.gov"
+}

@@ -1,0 +1,9 @@
+{
+  "abstractText": "Thalweg refers to the flow path of the deepest water in a stream channel. The thalweg profile is a longitudinal survey of maximum flow path depth. Data from the thalweg profile allows calculation of indices of residual pool volume, stream size, channel complexity, and the relative proportions of habitat types such as riffles and pools.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/4111",
+  "title": "Longitudinal Profile Survey - Thalweg profile v1.0",
+  "id": 4111,
+  "type": "Data Collection",
+  "ownerName": "PNAMP Support",
+  "ownerEmail": "pnamp.mm@gmail.com"
+}

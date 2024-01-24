@@ -1,0 +1,9 @@
+{
+  "abstractText": "Estimate the percent of the lineal distance between each Transect that is actively eroding at the active channel height. Active erosion is defined as actively, recently eroding or collapsing banks and may have the following characteristics: exposed soils and inorganic material, evidence of tension cracks, active sloughing, or superficial vegetation that does not contribute to bank stability.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/238",
+  "title": "Measuring Actively Eroding Streambanks v1.0",
+  "id": 238,
+  "type": "Data Collection",
+  "ownerName": "Jennifer O'Neal",
+  "ownerEmail": "jen@naturaldes.com"
+}

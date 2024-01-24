@@ -1,0 +1,9 @@
+{
+  "abstractText": "Carcasses are collected and biological data and samples are taken to inform life history characteristics during all spawning ground surveys. Data is collected from all observed salmon, steelhead and Bull Trout, however, steelhead and Bull Trout carcasses are rarely encountered. Occasionally carcass only surveys are conducted to increase recovery rates, to monitor mortality prior to spawning (i.e., pre-spawn mortality) or to opportunistically sample spawning areas surveyed aerially. When conducting surveys, observers carefully scan the stream for carcasses. Carcasses may be difficult to detect as they may be covered in silt or fungus, located in log jams or deep pools, or located out of the water on the stream bank. When carcasses are found they are recovered and processed utilizing a similar collection methodology. All data is recorded on a standardized datasheetusing database acceptable values. Standardized carcass processing consists of collecting georeferenced locations, recording and collecting biological data, and visually and electronically checking for marks and tags.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/6643",
+  "title": "Spawning Ground Carcass Processing v1.0",
+  "id": 6643,
+  "type": "Data Collection",
+  "ownerName": "Ryan Kinzer",
+  "ownerEmail": "ryank@nezperce.org"
+}

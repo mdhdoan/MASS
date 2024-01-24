@@ -1,0 +1,9 @@
+{
+  "abstractText": "The AIS Data Dictionary is used to house information about each AIS in a sample reach and associate that information with the GPS location of the structure.  This allows additional details about the AIS to be collected and housed in one central location with the location information.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/905",
+  "title": "Entering AIS into AIS Dictionary v1.0",
+  "id": 905,
+  "type": "Data Collection",
+  "ownerName": "Jennifer O'Neal",
+  "ownerEmail": "jen@naturaldes.com"
+}

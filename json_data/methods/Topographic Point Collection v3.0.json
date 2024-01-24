@@ -1,0 +1,9 @@
+{
+  "abstractText": "Capture X, Y, and Z coordinates as points and lines that collectively represent the topographic surface of the stream channel and floodplain.Many topographic surveys are time-limited, thus topographic points and lines must be collected efficiently and strategically to maximize the quality and utility of the DEM. The number of survey points collected is dependent upon the size and complexity of the site. Complex topography should be represented with a higher density of points (approx. 1,000-1,200 points) compared to more simple planar topography (500-600 points). Larger sites may have more points overall but generally have less topographic complexity and a lower density of points.Collect survey points at locations that represent changes in slope (inflection points). When capturing streambed topography, avoid capturing elements of bed roughness (e.g., substrate) and instead, focus effort on capturing the bedform of the channel. Extend survey points far enough into the floodplain so that the areal extent of the survey encompasses all large and small side channels in areas where lateral migration may occur.Survey points and lines are attributed with a description code that is used to further represent features in the stream channel (Figure 7). Use the topographic descriptions in Table 4 to identify and code survey points and lines throughout the site.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/5328",
+  "title": "Topographic Point Collection v3.0",
+  "id": 5328,
+  "type": "Data Collection",
+  "ownerName": "Boyd Bouwes",
+  "ownerEmail": "boydbouwes@gmail.com"
+}

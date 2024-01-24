@@ -1,0 +1,9 @@
+{
+  "abstractText": "To process and analyze bulk water chemistrysamples collected viaMethod 7016: Water Chemistry Sample Collection with Cube Containers for Total Phosphorous, Nitrogen & Ammonium, Total Suspended Solids, Turbidity and Alkalinity v1.0for parameters including, but not limited to, conductivity, turbidity, total nitrogen andtotal phosphorous.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/7048",
+  "title": "Water Chemistry Lab Process for Cube Container Samples v1.0",
+  "id": 7048,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "PNAMP Support",
+  "ownerEmail": "pnamp.mm@gmail.com"
+}

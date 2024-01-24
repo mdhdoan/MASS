@@ -1,0 +1,9 @@
+{
+  "abstractText": "To calculate reach level average thalweg depth based on channel morphology data. Reach level indicates a single value summary of numerous attributes of each stream reach.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/7015",
+  "title": "Reach Level Mean Thalweg Depth v1.0",
+  "id": 7015,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "PNAMP Support",
+  "ownerEmail": "pnamp.mm@gmail.com"
+}

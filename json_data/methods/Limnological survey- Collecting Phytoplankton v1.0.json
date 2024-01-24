@@ -1,0 +1,9 @@
+{
+  "abstractText": "Phytoplankton are free-floating algae that are the dominant form of plants in larger lakes and reservoirs andaccountfor the majority of primary productionin these systems (Horne and Goldman 1994). Phytoplantkon abundance and species composition can be controlled by a number of factors, including nutrient availability, temperature, light and grazing pressure. The abundance of phytoplankton is important to lake and fisheries managers, as too little can mean alimited food supply for fish and too much can lead to poor water quality. The composition of the phytoplankton community is equally important. Some taxaare highly nutritious and easily consumed by zooplankton, leading to increased secondary production and potentially clearer water as these taxa are grazed down. Other taxa are not edible, and therefore not controlled by grazing zooplankton, which can lead to nuisance blooms. A few of these taxa can produce toxins, making them a hazard to public health.This method provides details for field collection and preservation of water samples for analysis of phytoplanktonabundance and composition by an outside analytical lab using techniques based on Utermohl 1958.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/3928",
+  "title": "Limnological survey- Collecting Phytoplankton v1.0",
+  "id": 3928,
+  "type": "Data Collection",
+  "ownerName": "Sean Wilson",
+  "ownerEmail": "sean.wilson@idfg.idaho.gov"
+}

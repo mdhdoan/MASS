@@ -1,0 +1,9 @@
+{
+  "abstractText": "This method is used for calculating fish densities using a multi-pass depletion style electrofishing technique.The response variables for juvenile fish are calculated in the same way for Chinook, coho, and steelhead par. The number of fish per square meter is calculated foreach reach sampled. The number of fish is found by using a regression based on the number of fish captured in reach pass to calculate the local population in the area sampled. Water surface area of the sampled reach is used to calculate density.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/4131",
+  "title": "Calculating Juvenile Salmonid Density from Electrofishing v1.0",
+  "id": 4131,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Colin Riordan",
+  "ownerEmail": "colin@naturaldes.com"
+}

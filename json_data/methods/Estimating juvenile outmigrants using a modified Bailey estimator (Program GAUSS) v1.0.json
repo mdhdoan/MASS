@@ -1,0 +1,9 @@
+{
+  "abstractText": "Estimating total outmigration for a species each year is an important metric to measure productivity and survival. Both hatchery and natural production is present within our system and using collected biological data we provide estimates for each type separately. We use a program developed by Steinhorst et al. (2004) and run in GAUSS (https://www.aptech.com) to estimate the number of juvenile Oncorhynchus nerka emigrating from nursery lakes in the Sawtooth Valley basin.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1739",
+  "title": "Estimating juvenile outmigrants using a modified Bailey estimator (Program GAUSS) v1.0",
+  "id": 1739,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Mike Peterson",
+  "ownerEmail": "mike.peterson@idfg.idaho.gov"
+}

@@ -1,0 +1,9 @@
+{
+  "abstractText": "Channel width is used to designate relative stream size during the peak flow months and low flow months. The wetted width of the channel at base flow helps define the quantity of wetted area available for riverine species. Width is measured in the field to the 0.1 ft.The inputs for channel width are the average channel width during the month when width is greatest (generally the highest flow month) and the average channel width during the month when width is least (generally the lowest flow month). The intent is to provide the typical width during each month to calculate the typical quantity of habitat in each month. (Lestelle, 2005). In the rapid assessment, channel widths measured in the field will be wetted width and bank-full width.The width of a confined stream or river reach may be consistent along its length, allowing the field practitioner to determine the average width with few width measurements. Other reaches will have complex features such as braided channels, off-channel habitat, mid-channel bars and flood plains. Measure channel width in locations which represent the average for the reach.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/3959",
+  "title": "Rapid Assessment Channel Width Min_Max v1.0",
+  "id": 3959,
+  "type": "Data Collection",
+  "ownerName": "Sonya Schaller",
+  "ownerEmail": "sonya.schaller@colvilletribes.com"
+}

@@ -1,0 +1,9 @@
+{
+  "abstractText": "The purpose of this protocol is to determine whether the channel constraints have been reduced.1: Classify stream reach channel pattern as predominantly a single, anastomosing, or braided channel.2: After classifying channel pattern, determine whether the channel is constrained within a narrow valley, constrained by local features within a broad valley, unconstrained and free to move about within a broad flood plain, or free to move about, but within a relatively narrow valley floor.3: Then examine the channel to ascertain the bank and valley features that constrain the stream. E.g.: bedrock, hillslopes, terraces/alluvial fans, and human use (e.g. road, dike, landfill, riprap, etc.).4: Based on determinations from Steps 1 through 3, select a constraint class on the Channel Constraint Form.5: Estimate percent of channel margin in contact with constraining features (unconstrained channels = 0%).6: Measure the bankfull width at each transect and each intermediate transect. Visually estimate the average width of the floodplain. If estimation of floodplain width cannot be done visually, use GIS and/or aerial photos.7: Measure the height of the constraining feature treated by the restoration project.8: At transects A, F, & K measure height of bankfull from the water surface edge to the height at which bankfull flow would occur.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/239",
+  "title": "Measuring channel constraints v1.0",
+  "id": 239,
+  "type": "Data Collection",
+  "ownerName": "Jennifer O'Neal",
+  "ownerEmail": "jen@naturaldes.com"
+}

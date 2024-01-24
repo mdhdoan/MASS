@@ -1,0 +1,9 @@
+{
+  "abstractText": "Collect aerial imagery using unmanned aircraft systems (UAS) from multiple viewing angles (i.e., nadir and off-nadir) toproduce spatially accurate maps of complex channels, track changes in habitat over time, and compute accurate measures of habitat metrics.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/6946",
+  "title": "Unmanned aircraft systems (UAS) stream habitat survey v1.0",
+  "id": 6946,
+  "type": "Data Collection",
+  "ownerName": "Casey Justice",
+  "ownerEmail": "jusc@critfc.org"
+}

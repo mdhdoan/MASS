@@ -1,0 +1,9 @@
+{
+  "abstractText": "To assess the rate at which different species reach certain sizes and to ascertain the size potential of those species, we use ageing data to calculate species-specific growth rates. This method describes howto calculate those rates.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1618",
+  "title": "Growth Rate Calculation v1.0",
+  "id": 1618,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Pete Rust",
+  "ownerEmail": "Pete.Rust@idfg.idaho.gov"
+}

@@ -1,0 +1,9 @@
+{
+  "abstractText": "Monitor the conditon of fish species in fisheris surveys. Condition has been know to be ametric used to understand the health of a fish or a fish population. Tradionally Fulton condition factors have been used to caluculate condition. However, amoung species this can vary widely, due to allometric growth, and only allowed a good comparison of fish of similar lengths (Wege and Anderson 1978). Using relative weight avoids these problems. In order to calculate Wr for your selected species you need to use a precaluated Wsequation. Each species has it's own Ws equation that has been created in the literature.Wsis calculated using a wide range of individual populationsof a specific species throughout a wide geography (Murphy et al. 1990; Blackwell et al. 2000; Bister et al. 2000).",
+  "url": "http://www.monitoringresources.org/api/v1/methods/6822",
+  "title": "Fish Condition 'Relative Weight (Wr)' v1.0",
+  "id": 6822,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Justin Seibert",
+  "ownerEmail": "justin.seibert@spokanetribe.com"
+}

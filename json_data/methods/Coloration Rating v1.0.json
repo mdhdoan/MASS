@@ -1,0 +1,9 @@
+{
+  "abstractText": "The coloration rating assesses the visual appearance for each fish captured. The color values are bright, medium, and dark. Coloration is collected because it is an indicator of physiological state.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/5302",
+  "title": "Coloration Rating v1.0",
+  "id": 5302,
+  "type": "Data Collection",
+  "ownerName": "Doug Hatch",
+  "ownerEmail": "hatd@critfc.org"
+}

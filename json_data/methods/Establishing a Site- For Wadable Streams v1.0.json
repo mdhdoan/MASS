@@ -1,0 +1,9 @@
+{
+  "abstractText": "This method describes how to establish the boundaries and stations within the site. Once asite is deemed suitable for sampling, a Data Collection Event (DCE) can be established touniquely identify the sampling event.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/3827",
+  "title": "Establishing a Site- For Wadable Streams v1.0",
+  "id": 3827,
+  "type": "Data Collection",
+  "ownerName": "Glenn Merritt",
+  "ownerEmail": "glenn.merritt@ecy.wa.gov"
+}

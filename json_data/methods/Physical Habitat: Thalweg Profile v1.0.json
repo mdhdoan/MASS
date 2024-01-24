@@ -1,0 +1,9 @@
+{
+  "abstractText": "This method is derived from an Environmental Monitoring and Assessment Program (EMAP) protocol developed for monitoring measuring the ecological condition of western wadable streams. Included in this method are instructions for collecting stream channel measurements. Thalweg refers to the flow path of the deepest water in a stream channel. The thalweg profile is a longitudinal survey of maximum flow path depth and several other selected characteristics at 100 or 150 equally spaced points (termed stations) along the length of the support reach measured along the centerline of the channel. Data from the thalweg profile allows calculation of indices of residual pool volume, stream size, channel complexity, and the relative proportions of habitat types such as riffles and pools. This habitat assessment modifies traditional methods by measuring upstream distance in the middle of the channel, rather than along the thalweg itself (though each thalweg depth measurement is taken at the point of the deepest flow path at each station).Overview: method activities/data collected1. Measure wetted width.2. Classify the size of the bed surface particles.3. Measure depth of thalweg.4. Determine the channel unit code and pool forming element codes.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/74",
+  "title": "Physical Habitat: Thalweg Profile v1.0",
+  "id": 74,
+  "type": "Data Collection",
+  "ownerName": "Jacque Schei",
+  "ownerEmail": "jschei@usgs.gov"
+}

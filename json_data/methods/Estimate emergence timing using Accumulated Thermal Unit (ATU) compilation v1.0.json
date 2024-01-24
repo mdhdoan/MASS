@@ -1,0 +1,9 @@
+{
+  "abstractText": "To estimate emergence timing, the daily average egg pocket temperature (in degrees centigrade) was summed, starting from four different times: initiation of spawning, 10% of spawning completed, 50% of spawning completed, and 90% of spawning completed. The percentage of spawning completed was determined using weekly redd counts in the Ives Island area obtained from the Pacific States Marine Fisheries Commission (PSMFC, unpublished data). Emergence was calculated at two different ATU levels. The first (825 ATU) was used extensively in the past by state and federal agencies to represent the onset of emergence in the Ives Island area (FPC 2012). This value represents the ATU level at which the earliest onset of chum salmon emergence should be expected to occur and has been used previously to calculate emergence dates for Ives Island chum salmon (Todd Hillson, Washington Department of Fish and Wildlife, personal communication, December 2010). The second level (932 ATU) represents the mean temperature unit (TU) level at which 50% emergence occurred in control fish during a laboratory experiment conducted at PNNL (Arntzen et al. 2008, 2009; Murray et al. 2011).",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1630",
+  "title": "Estimate emergence timing using Accumulated Thermal Unit (ATU) compilation v1.0",
+  "id": 1630,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "PNAMP Support",
+  "ownerEmail": "pnamp.mm@gmail.com"
+}

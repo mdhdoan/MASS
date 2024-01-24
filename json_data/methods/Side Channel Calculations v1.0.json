@@ -1,0 +1,9 @@
+{
+  "abstractText": "Several metrics are calculated that relate to the spatial extent of side channels.Total Side Channel Area is the total area of all qualifying (16-49% of flow) and non-qualifying (<16% of flow) side channels.Proportion of Side Channel Area to Reach Area isthe percent of the total reach area (wetted area plus non-qualifying side channels) that is side channels (qualifying and non-qualifying).Aerial Proportion of pools for qualifying side channels isthe percent of the area of qualifying channels that is slow/pool.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/4047",
+  "title": "Side Channel Calculations v1.0",
+  "id": 4047,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Steve Rentmeester",
+  "ownerEmail": "steve@sitkatech.com"
+}

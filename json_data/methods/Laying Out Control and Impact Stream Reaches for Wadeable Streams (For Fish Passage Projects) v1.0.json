@@ -1,0 +1,9 @@
+{
+  "abstractText": "The concept of EMAP sampling is that randomly selected reaches located on a stream can be used to measure changes in the status and trends of habitat, water quality, and biota over time if taken in a scientifically rigorous manner per specific protocols.  We have applied the EMAP field sampling protocols for measuring effectiveness of restoration and acquisition projects.  Instead of a randomly selected stream reach, the stream reach impacted by the project is sampled. These impact reaches have been matched with control reaches of the same length and size on the same stream whenever possible.  Within each sampled project reach a series of Transects A-K are taken across the stream and riparian zone as points of reference for measuring characteristics of the stream and riparian areas.  The Transects are then averaged to obtain an average representation of the stream reach.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/913",
+  "title": "Laying Out Control and Impact Stream Reaches for Wadeable Streams (For Fish Passage Projects) v1.0",
+  "id": 913,
+  "type": "Data Collection",
+  "ownerName": "Jennifer O'Neal",
+  "ownerEmail": "jen@naturaldes.com"
+}

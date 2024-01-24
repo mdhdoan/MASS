@@ -1,0 +1,9 @@
+{
+  "abstractText": "To determine the percent bedrock or other particule size class in a channel based on channel pebble counts. Systematic channel pebble counts can be directly reduced to whole-reach substrate characterizations by calculating percentages of observations within stated size classes. Because the data are systematically spaced, these averages and percentiles are interpreted as unbiased representations of the substrate characteristics measured.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/7011",
+  "title": "Percent Bedrock or Particle Size Class from Channel Survey Pebble Counts v1.0",
+  "id": 7011,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "PNAMP Support",
+  "ownerEmail": "pnamp.mm@gmail.com"
+}

@@ -1,0 +1,9 @@
+{
+  "abstractText": "Wetland accretion in the Pacific Northwest has been linked to inundation by sediment-laden (turbid) water (Peck et al., 2020). Inundation and turbidity can be easily measured by deploying a turbidity and pressure senson on a wetland platform. When co-located with measurements of long-term accretion (e.g. Surface Elevation Table [SET] data), inundation and turbidity data provide valuable information about sediment supply and delivery.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/7067",
+  "title": "Inundation Turbidity Measurement v1.0",
+  "id": 7067,
+  "type": "Data Collection",
+  "ownerName": "Maggie McKeon",
+  "ownerEmail": "maggie.mckeon@pnnl.gov"
+}

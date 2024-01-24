@@ -1,0 +1,9 @@
+{
+  "abstractText": "The United States Geological Survey (USGS) has collected water-resources data at approximately 1.5 million sites in all 50 States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa and the Commonwealth of the Northern Mariana Islands. The types of data collected are varied, but generally fit into the broad categories of surface water and groundwater. Surface-water data, such as gage height (stage) and streamflow (discharge), are collected at major rivers, lakes, and reservoirs. The National Water Information System (NWIS) web site serves current and historical data. Data are retrieved by category of data, such as surface water, groundwater, or water quality, and by geographic area. Subsequent pages allow further refinement by selecting specific information and by defining the output desired. This method describes retrieving daily data for surface water parameters measured at USGSstreamgaging stations throughout the nation. Data can be accessed online athttp://waterdata.usgs.gov/nwis/.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/175",
+  "title": "Download of surface water data collected at streamgaging stations from NWIS v1.0",
+  "id": 175,
+  "type": "Data Collection",
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org"
+}

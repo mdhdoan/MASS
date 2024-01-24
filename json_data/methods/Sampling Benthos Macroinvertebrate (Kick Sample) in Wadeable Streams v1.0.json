@@ -1,0 +1,9 @@
+{
+  "abstractText": "This method describes how to collect benthic macroinvertebrate samples for conductingcommunity level assessments. Data will be usedtodescribe biological integrity and ecological quality (or taxonomic loss). It applies to wadedstreams. This method requires measurement of the associated physical and chemicalenvironmental variables described in other methods within theEnvironmental Assessment Program Washington State Department of Ecology,Status and Trends Monitoring for Watershed Health & Salmon Recovery: Field Data Collection Protocol- Wadeable Streams.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/3849",
+  "title": "Sampling Benthos Macroinvertebrate (Kick Sample) in Wadeable Streams v1.0",
+  "id": 3849,
+  "type": "Data Collection",
+  "ownerName": "Glenn Merritt",
+  "ownerEmail": "glenn.merritt@ecy.wa.gov"
+}

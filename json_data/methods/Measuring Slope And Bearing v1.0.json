@@ -1,0 +1,9 @@
+{
+  "abstractText": "Using the following methods, the water surface slope and bearing can be determined.  These measures can be used to calculate residual pool depth.  Residual pool volume is the amount of water that would remain in the pools if there were not flow and the pools were impermeable basins.  The intent of measuring this parameter is to show the changes in cross sectional stream complexity typified by pools and riffles.Slope and bearing are measured using two people by back-sighting downstream between Transects.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/241",
+  "title": "Measuring Slope And Bearing v1.0",
+  "id": 241,
+  "type": "Data Collection",
+  "ownerName": "Jennifer O'Neal",
+  "ownerEmail": "jen@naturaldes.com"
+}

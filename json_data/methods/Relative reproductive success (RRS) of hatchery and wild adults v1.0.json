@@ -1,0 +1,9 @@
+{
+  "abstractText": "Construct pedigrees from microsatellite or SNP genotypes, and compare the relative number of offspring produced (parr, migrants, or adults) among groups of fish from different treatments (e.g., hatchery vs. natural). Calculate the number of offspring produced per parent of each treatment, and compare to other treatments.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/729",
+  "title": "Relative reproductive success (RRS) of hatchery and wild adults v1.0",
+  "id": 729,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Ewann Berntson",
+  "ownerEmail": "ewann.berntson@noaa.gov"
+}

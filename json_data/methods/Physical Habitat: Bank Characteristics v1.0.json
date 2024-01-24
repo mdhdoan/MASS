@@ -1,0 +1,9 @@
+{
+  "abstractText": "This method is derived from an Environmental Monitoring and Assessment Program (EMAP) protocol developed for monitoring western wadable streams. Included in this method are instructions for collecting stream bank characteristics. Cross sectional transects are used to determine bank angle and undercut distance. In addition wetted channel width and exposed mid channel bars are measured to estimate bankful stage dimensions. Estimates of the bankfull dimensions of stream channels are extremely important in EMAP surveys and are used to calculate shear stress and bed stability (Kaufmann et al., 1999).Overview - what data to collect:1. Measure bank angle (using a meter stick and a clinometer). Measure on both banks.2. If the bank is undercut, measure the horizontal distance of the undercutting to the nearest 0.01 m. Measure on both banks.3. Examine both banks, then determine the channel incision as the height up from the water surface to the elevation of the first terrace of the valley floodplain. This is recorded as the incised height.4. Measure wetted width.5. Measure bankfull channel width.6. Measure width of exposed mid-channel bars.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/78",
+  "title": "Physical Habitat: Bank Characteristics v1.0",
+  "id": 78,
+  "type": "Data Collection",
+  "ownerName": "Jacque Schei",
+  "ownerEmail": "jschei@usgs.gov"
+}

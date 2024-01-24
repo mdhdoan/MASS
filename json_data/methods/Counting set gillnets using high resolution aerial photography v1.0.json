@@ -1,0 +1,9 @@
+{
+  "abstractText": "The purpose of this method is to generate estimates of the total number of setnets in the treaty commercial fishery between Bonneville and McNary Dams on a weekly basis.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/7058",
+  "title": "Counting set gillnets using high resolution aerial photography v1.0",
+  "id": 7058,
+  "type": "Data Collection",
+  "ownerName": "Stuart Ellis",
+  "ownerEmail": "ells@critfc.org"
+}

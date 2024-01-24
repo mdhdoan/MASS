@@ -1,0 +1,9 @@
+{
+  "abstractText": "Scales are collected from fish to determine the age at time of capture and can be used to depict the age distribution of a population. The age distribution of a population of salmonids is used for run reconstruction and forecasting. Standardization and collection of good quality scales improves the accuracy of scale age analysis.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/4220",
+  "title": "Collecting Scales From Adult Salmonids v1.0",
+  "id": 4220,
+  "type": "Data Collection",
+  "ownerName": "Cyndi Baker",
+  "ownerEmail": "cynthia.f.baker@state.or.us"
+}

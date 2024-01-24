@@ -1,0 +1,9 @@
+{
+  "abstractText": "Fish habitat monitoring data collected in the sub-basin is analyzed in collaboration with ICF International through their EDT model. The Ecosystems Diagnosis and Treatment (EDT) model is integrated with existing long-term habitat status and trends monitoring data by transforming the data into information about habitat potential for salmon, steelhead and redband trout that is easily communicated to decision makers and the public. All metrics and indicators listed in the habitat monitoring data collection method are developed through the operation of the EDT model.EDT integration relies on the transformation of quantitative habitat status and trends monitoring into EDT model input attributes for describing the environment. A different habitat scenario will be created using the empirical data collected during each four-year monitoring cycle. Each habitat scenario represents a characterization of habitat conditions during its monitoring cycle, allowing for characterization of habitat status and trends data in terms of the change in habitat performance for fish species of interest. Each habitat scenario can also be compared with the template, or historical conditions scenario to evaluate the current status of the habitat relative to its theoretical maximum potential.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/3973",
+  "title": "Ecosystem Diagnosis and Treatment (EDT) v1.0",
+  "id": 3973,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Sonya Schaller",
+  "ownerEmail": "sonya.schaller@colvilletribes.com"
+}

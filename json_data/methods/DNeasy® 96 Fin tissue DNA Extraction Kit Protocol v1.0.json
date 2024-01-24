@@ -1,0 +1,9 @@
+{
+  "abstractText": "There are many types of DNA extraction kits and protocols. One that has proven to yield high quality/quantity DNA extract for SNP genotyping is the DNeasy 96 Blood & Tissue Kit protocol. DNeasy Tissue procedures are simple. Samples are first lysed using proteinase K.* Buffering conditions are adjusted to provide optimal DNAbinding conditions and the lysate is loaded onto the DNeasy Mini spin column or the DNeasy 96 plate. During centrifugation, DNA is selectively bound to the DNeasy membrane as contaminants pass through. Remaining contaminants and enzyme inhibitors are removed in two efficient wash steps and DNA is then eluted in water or buffer, ready for use. DNeasy purified DNA has A260/A280 ratios of 1.71.9, and absorbance scans show a symmetric peak at 260 nm confirming high purity.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1353",
+  "title": "DNeasy\u00ae 96 Fin tissue DNA Extraction Kit Protocol v1.0",
+  "id": 1353,
+  "type": "Data Collection",
+  "ownerName": "Matthew Campbell",
+  "ownerEmail": "matthew.campbell@idfg.idaho.gov"
+}

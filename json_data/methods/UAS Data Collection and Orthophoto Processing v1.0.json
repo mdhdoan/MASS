@@ -1,0 +1,9 @@
+{
+  "abstractText": "High-resolution imagery is becoming a standard for monitoring river/wetland restoration projects due to cost-effectiveness and a multitude of monitoring metrics that can be calculated from this product.This method builds off of the UAS operation v1.0, Method #6731 [https://www.monitoringresources.org/Document/Method/Details/6731] to provide a more detailed process of data collection to create an orthophoto from an Unmanned Aircraft System (UAS). This method also provides a standard approach to processing raw photographic data collected using an UAS in Agisoft Metashape but can be generalized to other structure-from-motion photogrammetric programs.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/6824",
+  "title": "UAS Data Collection and Orthophoto Processing v1.0",
+  "id": 6824,
+  "type": "Data Collection",
+  "ownerName": "Sarah Flynn",
+  "ownerEmail": "sflynn@geumconsulting.com"
+}

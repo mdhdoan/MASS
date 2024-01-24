@@ -1,0 +1,9 @@
+{
+  "abstractText": "NOTE: This is version 2.0 ofMethod #1247most recently revisedbyCarol Volk. Versioned on12-19-2018 by Sheryn Olson for updating by current user organization CTUIR.Estimate of the percent woody riparian cover.Estimates of woody cover are taken at 5 transects (1, 6, 11, 16, 21) on the right and left bankwithin a10mx10mplot beginning atbankfull. Estimates are made of the percent of woody cover forthegroundstory (woody shrubs), understory (woody shrubs) and canopy cover (big trees + small trees).The CHaMP - Riparian Structure Method provides background on the measurements that are analyzed for this calculation. See - http://www.monitoringmethods.org/Method/Details/845 CHaMP method follows the Peck et al. (2001) methods used by the EMAP.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/6753",
+  "title": "Percent Riparian Woody Cover v2.0",
+  "id": 6753,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Kaylyn Costi",
+  "ownerEmail": "kaylyncosti@ctuir.org"
+}

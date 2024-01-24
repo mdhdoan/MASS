@@ -1,0 +1,9 @@
+{
+  "abstractText": "Correctly locating a sample site is imperative for the proper mapping and analysis of resources. This method is a general method to be applied anytime a sample location is needed.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/6985",
+  "title": "Locating a Sample Site v1.0",
+  "id": 6985,
+  "type": "Data Collection",
+  "ownerName": "Taylor Spaulding",
+  "ownerEmail": "tspaulding@esassoc.com"
+}

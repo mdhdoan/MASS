@@ -1,0 +1,9 @@
+{
+  "abstractText": "Measuring the discharge of streams and rivers is an important component of managing water resources for multiple purposes including fish and other wildlife, habitat, and irrigation. Having accurate discharge measurements is important for making water policy decisions that will affect fish and farmers.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1451",
+  "title": "Stream Cross-sectional Discharge Measurement (wading) v1.0",
+  "id": 1451,
+  "type": "Data Collection",
+  "ownerName": "Troy Baker",
+  "ownerEmail": "troy.baker@wwbwc.org"
+}

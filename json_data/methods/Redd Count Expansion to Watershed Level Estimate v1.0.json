@@ -1,0 +1,9 @@
+{
+  "abstractText": "Due to the nature of the GRTS design, the total number of redds constructed in a watershed during a spawning season was estimated by expanding the survey counts (collected by the modified Method ID:131)first within each stratum, and then to the entire basin.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/5447",
+  "title": "Redd Count Expansion to Watershed Level Estimate v1.0",
+  "id": 5447,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Katie  Pierson",
+  "ownerEmail": "katherine.j.pierson@state.or.us"
+}

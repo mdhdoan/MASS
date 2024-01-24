@@ -1,0 +1,9 @@
+{
+  "abstractText": "Juvenile salmonids undergo a process called smoltification which prepares them for migration to the ocean and osmoregulation in seawater. A simple assay to assess smoltification is to subject juvenile salmonids to a seawater challenge during the time of year that they are undergoing smoltification (ex. April to May for steelhead). Fish that survive in seawater are classified as smolts. Those that do not are classified as non smolts.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1753",
+  "title": "Seawater challenge assay v1.0",
+  "id": 1753,
+  "type": "Data Collection",
+  "ownerName": "Chris Tatara",
+  "ownerEmail": "chris.p.tatara@noaa.gov"
+}

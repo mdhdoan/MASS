@@ -1,0 +1,9 @@
+{
+  "abstractText": "Estimate site abundance of juvenile salmonids within a site using a two-pass Lincoln-Petersen mark-recapture study. Employ the use of electrofishing, remote PIT tagging, mark-recapture events, and in-stream PIT tag antennas to assess utilization of tributaries to the mainstem of a river by juvenile salmonids and to determine population estimates. Calculations used to estimate the abundance in the site as well as expansion to reach and tributary are provided below.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/3971",
+  "title": "Estimate abundance of juvenile salmonids in small streams v1.0",
+  "id": 3971,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Sonya Schaller",
+  "ownerEmail": "sonya.schaller@colvilletribes.com"
+}

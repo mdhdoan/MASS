@@ -1,0 +1,9 @@
+{
+  "abstractText": "This method describes techniques used to back calculate length at age of individual fish by examining scales. Back calculation is a tool that can be used to determine annual growth increments without measuring a fish at multiple times it's life. Furthermore, this technique provides growth information for individual fish, rather than the population in general. These growths increments can then be used to develop mixed effects models to determine the effects of management actions or environmental variation on fish growth.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1422",
+  "title": "Length back-calculation from scale measurements v1.0",
+  "id": 1422,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Sean Wilson",
+  "ownerEmail": "sean.wilson@idfg.idaho.gov"
+}

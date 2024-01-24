@@ -1,0 +1,9 @@
+{
+  "abstractText": "Objective: Measure the amount of solar radiation entering the stream channel at evenly spaced transects throughout the site.The Solmetric SunEye device is used to measure solar radiation at the center of the wetted channel at all odd numbered transects (1, 3, 5, 7,21). To ensure accuracy in estimation of solar radiation, it is critical to capture good quality images. Adequate atmospheric conditions are necessary to achieve usable images. These conditions include low sun angle (dawn or dusk is ideal) or uniform overcast sky and absence of sun flares or spots. It is also important to hold the SunEye as level and steady as possible to ensure that images are clear and representative of the vegetation directly overhead. See Appendix M for Solmetric SunEye operating instructions (https://www.champmonitoring.org/Program/RetrieveProgramDocumentFile/1/222). The SunEye captures images that are called skylines. Each skyline image is stored in a work session. Name the session using the Site ID and date (e.g., CBW06683-457806-20130801).",
+  "url": "http://www.monitoringresources.org/api/v1/methods/4052",
+  "title": "Solar Input v2.0",
+  "id": 4052,
+  "type": "Data Collection",
+  "ownerName": "Boyd Bouwes",
+  "ownerEmail": "boydbouwes@gmail.com"
+}

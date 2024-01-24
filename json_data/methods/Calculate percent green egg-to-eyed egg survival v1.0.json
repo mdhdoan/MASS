@@ -1,0 +1,9 @@
+{
+  "abstractText": "Green egg-to-eyed egg survival is a calculated metric used to monitor progress towards meeting fish production goals. It is also usedas a metric for tracking egg survival within thehatchery. The metric is sometimesapplied to an individual fish, but it is morecommonly used to summarize survival for the total number of eggs used to create a production group (i.e., eggs collected on a single day orover multiple spawning days). The summarization level is subject to the discretion of the person summarizing the data.The green egg-to-eyed egg percentages can be used to determine the success of an individual female in producing offspring or as a metric fordetermining iffish production goals (e.g., parr or smolts) will be achieved.For example, assume the average green egg-to-eyed egg survival rate at a facility is 90%. A green egg-to-eyed egg survival rate <90% could indicate potential problems with meeting fish production goals based on green egg collections and a survival rate >90% might indicate the potential for over production from the green egg collections.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/347",
+  "title": "Calculate percent green egg-to-eyed egg survival v1.0",
+  "id": 347,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Joseph Feldhaus",
+  "ownerEmail": "joseph.feldhaus@odfw.oregon.gov"
+}

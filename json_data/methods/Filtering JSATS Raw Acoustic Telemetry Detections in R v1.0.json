@@ -1,0 +1,9 @@
+{
+  "abstractText": "This method is used to filter raw detection data from JSATS (Juvenile Salmonid Acoustic Telemetry System)receivers. This method is uses rulesets toIdentify and removemultipath detectionsIdentify and remove false positives by filtering detections byTag IDExpected Battery LifeTag Pulse RateTag FrequencyThis method was originally written up by Arnold Ammann (NOAA SWFSC)and has been adapted by Taylor Spaulding from it's original MatLAB code to an R package.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/7070",
+  "title": "Filtering JSATS Raw Acoustic Telemetry Detections in R v1.0",
+  "id": 7070,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Taylor Spaulding",
+  "ownerEmail": "tspaulding@esassoc.com"
+}

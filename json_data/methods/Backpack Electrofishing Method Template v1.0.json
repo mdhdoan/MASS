@@ -1,0 +1,9 @@
+{
+  "abstractText": "Background/Abstract:To Users: We suggest that you use this template to customize your electrofishing method. The questions that you find below represent guidance from PNAMP and electrofishing experts for developing your method. It is not our intent to standardize responses to these questions but rather to standardize how an electrofishing method is documented. Some of the questions have a multiple choice component. If you do not know the answer(s) at any point in the process,please do not guess; obtain the correct answer from helpful sources, such as equipment manuals.1. Objective/Purpose  What is the intent of your program? (e.g., Management survey, Abundance, Detection)Sampling Objectives(Describe all that apply.)[] Specimen Collection[] Species Presence-Absence[] Species List[] Relative Abundance (e.g., CPUE)[] Absolute Abundance (e.g., mark-recapture)[]Population Dynamics (e.g., recruitment, growth, mortality)[] Other: ___________________________2. Why are you using electrofishing to achieve this objective?3. What are the Title/Affiliation/Program names?4. What is the email address and phone number of the Point of Contact?",
+  "url": "http://www.monitoringresources.org/api/v1/methods/5404",
+  "title": "Backpack Electrofishing Method Template v1.0",
+  "id": 5404,
+  "type": "Data Collection",
+  "ownerName": "PNAMP Support",
+  "ownerEmail": "pnamp.mm@gmail.com"
+}

@@ -1,0 +1,9 @@
+{
+  "abstractText": "Mapping flow characteristics such as floodplain connection, inundation, flow depth and velocity can be used to evaluate fish habitat preferences, instream restoration effectiveness and floodplain connectivity. This approach requires the use of a sophisticated computer model to determine water surface elevations and water velocities at various flows. There are many hydraulic modeling alternatives available but our team uses HEC-RAS, because it is the industry standard for computing velocity, flow depth, shears stress, and other hydraulic characteristics in riverine systems. HEC-RAS is a cross section based one-dimensional model developed by the United States Army Corps of Engineers (USACE, 2010, version 4.1). Because of this, our team also uses HEC-GeoRAS, which is a custom interface between HEC-RAS and GIS, for mapping HEC-RAS water surfaces, flow depths and velocities by comparing elevations with existing topography (USACE, 2009, version 4.2). This interface tool allows visualization of flow characteristic estimates throughout the channel which can be displayed and shared as user-friendly geospatial data.Developing a robust hydraulic model in HEC-RAS includes the initial setup of the reach cross-sectional topography and hydraulic characteristics, verification of the characteristics chosen, and a final run of the model to obtain the desired hydraulic calculation estimates. This method describes the setup and operation of the hydraulic model and the methods for visualizing the model output in GIS as geospatial data.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1764",
+  "title": "Hydraulic modeling for analysis of floodplain habitat v1.0",
+  "id": 1764,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Jennifer O'Neal",
+  "ownerEmail": "jen@naturaldes.com"
+}

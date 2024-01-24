@@ -1,0 +1,9 @@
+{
+  "abstractText": "Evaluate species composition (lowest practical taxon), temporal abundance patterns (catch per unit effort [CPUE] by date), and fish size (fork length or total length) in pre-restoration habitat, post restoration habitat, and reference sites.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/827",
+  "title": "Fish Community  Data Analysis - Roegner et al. 2009 v1.0",
+  "id": 827,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Catherine Corbett",
+  "ownerEmail": "ccorbett@estuarypartnership.org"
+}

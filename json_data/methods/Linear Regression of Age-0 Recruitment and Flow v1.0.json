@@ -1,0 +1,9 @@
+{
+  "abstractText": "The construction and operation of dams has been suggested as the greatest risk to the persistence and productivity of sturgeon populations worldwide. The effects of dam construction and operation on white sturgeonAcipenser transmontanusin the Columbia River include reductions in spawning habitat (Parsley and Beckman 1994; Chapman and Jones 2010), native prey abundance (Beamesderfer et al. 1995), and genetic diversity (Drauch Schreier et al. 2013), as well asblockage of historical migration patterns (North et al. 1993). Understanding the effects of dam construction and operation onthe productivity ofwhite sturgeonrequires an understanding of how density independent factors affectage-0 white sturgeon recruitment.Data from each ofthe three lowest impounded reacheson the Columbia River suggesta significant positive relationshipbetween dam discharge (i.e., flow) during the white sturgeon spawning season andthe relativeabundance of age-0white sturgeonin the fall. This information may be used to suggest changes or modifications to the hydropower system to benefit the natural recruitment of white sturgeon in impounded reaches of the Columbia River.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/5551",
+  "title": "Linear Regression of Age-0 Recruitment and Flow v1.0",
+  "id": 5551,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Colin Chapman",
+  "ownerEmail": "colin.g.chapman@state.or.us"
+}

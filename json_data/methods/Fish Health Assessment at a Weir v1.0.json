@@ -1,0 +1,9 @@
+{
+  "abstractText": "Evaluate the effect of the weir on fish health. Information collected on the injured or fish mortalities are assessed daily for potential negative effects of the weir on migrating salmon or other aquatic resources. This may include data or observations that indicate the weir or its' operations may be causing bodily injury or mortality to fish. In this case, the process of adaptive management for operation of the weir will be conducted through a Technical Oversight Group (TOG). Field technicians will report a critical situation to the project lead and provide documentation of a potential negative impact to fish including bodily injury (e.g. gilling between pickets) and mortality (e.g. moribund or dead fish impinged or gilled at weir). If 5 fish of any species are forced up against the weir on the upstream side or gilled between pickets of the weir from the downstream side the Project Lead will consult withthe TOG. The TOG may recommend replacement with an alternative picket spacing based on the size class of the fish (Chinook adult, Chinook jack, large sockeye, small sockeye). The Project lead will implement the TOG recommendation and monitor the effect.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/5499",
+  "title": "Fish Health Assessment at a Weir v1.0",
+  "id": 5499,
+  "type": "Data Collection",
+  "ownerName": "Andrea Pearl",
+  "ownerEmail": "andrea.pearl@colvilletribes.com"
+}

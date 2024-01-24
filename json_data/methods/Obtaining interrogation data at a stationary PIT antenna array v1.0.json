@@ -1,0 +1,9 @@
+{
+  "abstractText": "PIT technology and the use of stationary antenna arrays have been used by researchers to monitor movement of salmonids with a high degree of efficiency (Zydlewski et al. 2006; Connolly et al. 2008). These arrays are minimally intrusive given that interrogationof PIT tagged fish does not require additional recapture events. Furthermore, after installation of the stationary arrays, operation and maintenance does not require a significant investment of time; the initial investment in equipment is offset by the low cost of maintenance and operation. Data from interrogated fish at a site is time-stamped and logged on the receiver and is collected by interfacing with the receiver using a computer or PDA.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/6572",
+  "title": "Obtaining interrogation data at a stationary PIT antenna array v1.0",
+  "id": 6572,
+  "type": "Data Collection",
+  "ownerName": "Jon Firehammer",
+  "ownerEmail": "jfirehammer@cdatribe-nsn.gov"
+}

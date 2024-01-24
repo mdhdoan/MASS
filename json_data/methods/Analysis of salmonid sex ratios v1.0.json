@@ -1,0 +1,9 @@
+{
+  "abstractText": "Sex ratio is one important life history attribute of Pacific salmon. The upper limit of potential productivity (eggs) is obviously dependent upon the number of females present. However, there is often little analysis of the sex ratio of salmon that is seen, either in peer-reviewed publications or progress reports. When analyzing sex ratios of Pacific salmon there are several thingsto consider regardingthe way data was collected. Strong bias may be present in samples collected on spawning ground surveys, in the angler catch, and gillnet harvest, due to fish behavior, recovery methods, and body morphology. Even trap catches during the spawning run can be biased if not all the run is sampled, and there is variable efficiency during periods when the proportions of males and females are different. In some cases, correction can be made for the sex ratio. If fish are trapped, individually marked, an initial sex determination made, and later, the sex confirmed at the hatchery where fish are spawned, then the initial determination can be corrected, and the direction of the bias can be assessed.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1691",
+  "title": "Analysis of salmonid sex ratios v1.0",
+  "id": 1691,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Leslie Naylor",
+  "ownerEmail": "lesnaylor@ctuir.org"
+}

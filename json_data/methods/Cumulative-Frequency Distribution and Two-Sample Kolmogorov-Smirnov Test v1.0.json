@@ -1,0 +1,9 @@
+{
+  "abstractText": "Cumulative-frequency distributions (CFD) provide an alternate view of length-frequency histograms and are used in some statistical tests comparing two or more distributions (Neumann and Allen 2007). Comparisons of length distributions are often completed because mean lengths between two strata can be the same while the underlying distribution of lengths can be significantly different. The Kolmogorov-Sminov test (Zar 1999) is a non-parametric test that can be used to examine differences in length distributions across different groups.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/4182",
+  "title": "Cumulative-Frequency Distribution and Two-Sample Kolmogorov-Smirnov Test v1.0",
+  "id": 4182,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Jason McLellan",
+  "ownerEmail": "jason.mclellan@colvilletribes.com"
+}

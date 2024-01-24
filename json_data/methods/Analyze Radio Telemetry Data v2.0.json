@@ -1,0 +1,9 @@
+{
+  "abstractText": "Radio telemetry data is used to document fish migrations, passage impediments and barriers, passage routes past and over diversions, prespawning holding areas, spawning areas, and the final disposition of radio tagged fish.We also document rate of movement, passage delay at impediments, fall back, and kelting movements.Passage impediments and spawning areas are mapped in ARCGIS for a visual representation of their locations.The location, description and details of passage impediments and barriers are provided to habitat enhancement teams and managers for remedial action.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/7096",
+  "title": "Analyze Radio Telemetry Data v2.0",
+  "id": 7096,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Craig Contor",
+  "ownerEmail": "craigcontor@ctuir.org"
+}

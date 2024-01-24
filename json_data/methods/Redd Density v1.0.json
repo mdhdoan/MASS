@@ -1,0 +1,9 @@
+{
+  "abstractText": "Redddensity provides a measure of the number of successfuladultspawnersin the monitoring reach, standardized over a 1 km area.Redd density is calculated primarily for the target species identified for each project. However, if additional redds are observed, the densities for these redds will also be presented.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/4112",
+  "title": "Redd Density v1.0",
+  "id": 4112,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Colin Riordan",
+  "ownerEmail": "colin@naturaldes.com"
+}

@@ -1,0 +1,9 @@
+{
+  "abstractText": "Dams can be equipped with a bypass that routes a portion of the fish that enter the turbine intakes away from the powerhouse into flumes where they can be counted. Daily passage abundance can be estimated by dividing the number of fish counted in the bypass by the sampling rate, and then by dividing the resulting quotient by collection probability (i.e., the percentage of the fish population passing the dam that is bypassed). When mark-recapture data are available, passage abundance can be calculated for specific groups of fish including those released from hatcheries or that were marked while rearing or migrating from natal spawning areas.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1474",
+  "title": "Estimating juvenile fall Chinook abundance at Lower Granite Dam. v1.0",
+  "id": 1474,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Kenneth Tiffan",
+  "ownerEmail": "ktiffan@usgs.gov"
+}

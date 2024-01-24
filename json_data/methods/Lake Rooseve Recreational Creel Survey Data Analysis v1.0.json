@@ -1,0 +1,9 @@
+{
+  "abstractText": "Data collected from creel surveys on Lake Roosevelt was used to estimate annual angler pressure, annual harvest, catch rates, and the economic value of the fishery. The statistical analysis was completed using the statistical program R 3.5.2. The R program packageand the statistical analysis were developed in coordination with a biostatistician.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1073",
+  "title": "Lake Rooseve Recreational Creel Survey Data Analysis v1.0",
+  "id": 1073,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Justin Seibert",
+  "ownerEmail": "justin.seibert@spokanetribe.com"
+}

@@ -1,0 +1,9 @@
+{
+  "abstractText": "A topographic map of each watershed will be supplied, marked with potential sample sites. Select sites in numerical order, omitting sites that cannot be sampled. For watershed re-surveys, survey sites will be repeated in numerical order from lowest to highest number. If additional sites need to be added, select sites in numerical order, starting with number 1 (regardless of the numbers of previously surveyed sites).",
+  "url": "http://www.monitoringresources.org/api/v1/methods/3806",
+  "title": "Locating and establishing the start of the survey v1.0",
+  "id": 3806,
+  "type": "Data Collection",
+  "ownerName": "Stephanie Miller",
+  "ownerEmail": "stephaniemiller@fs.fed.us"
+}

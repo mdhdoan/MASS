@@ -1,0 +1,9 @@
+{
+  "abstractText": "The purpose of elevation data is to quantify changes in elevation before and after restoration actions on portions of the site within the area influenced by tidal inundation; link data logging instruments to topography and biotic surveys.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/819",
+  "title": "Elevation Data Analysis - Roegner et al. 2009 v1.0",
+  "id": 819,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Catherine Corbett",
+  "ownerEmail": "ccorbett@estuarypartnership.org"
+}

@@ -1,0 +1,9 @@
+{
+  "abstractText": "Visually estimate the percent distribution of substrate material for each channel unit based on the substrate classes listed in Table 15. Ocular Channel Unit Substrate Composition is one of the channel unit level attributes covered in section 8 of the protocol.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/839",
+  "title": "Ocular Channel Unit Substrate Composition v1.0",
+  "id": 839,
+  "type": "Data Collection",
+  "ownerName": "Boyd Bouwes",
+  "ownerEmail": "boydbouwes@gmail.com"
+}

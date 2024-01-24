@@ -1,0 +1,9 @@
+{
+  "abstractText": "Temperature can be measured instantaneously or continuously. This protocol focuses on instantaneous measurements. The Environmental Assessment Program has many types of instruments that measure temperature, including mercury thermometers, alcohol thermometers, Hydrolab DataSondes, Hydrolab MiniSondes, YSI Model 30 Conductivity Meters, and HOBO StowAway TidbiTs. Several other devices used in the field have built-in thermometers and can be used if appropriate for the project needs. The investigator should make sure that the equipment chosen meets their project accuracy and precision requirements. Devices for making continuous temperature measurements, including the HOBO StowAway TidbiTs, are covered in the Continuous Temperature SOP and are not covered here.This SOP should be followed when making an instantaneous measurement of temperature in water.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/3796",
+  "title": "Standard Operating Procedures for Instantaneous Measurements of Temperature in Water v1.0",
+  "id": 3796,
+  "type": "Data Collection",
+  "ownerName": "Steve Rentmeester",
+  "ownerEmail": "steve@sitkatech.com"
+}

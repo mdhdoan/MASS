@@ -1,0 +1,9 @@
+{
+  "abstractText": "In monitoring the life history of Okanogan River Basin-released hatchery-origin summer/fall Chinook, it is important to monitor the rate at which fish stray to nontarget basins. Relying on data stored in theRMISdatabase, this method estimates the out-of-basin stray rate of Okanogan River Basin-released hatchery-origin fish.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/5541",
+  "title": "Calculating the Brood Year Out-of-Basin Stray Rate for Similkameen Program Hatchery-Origin Summer/Fall Chinook v1.0",
+  "id": 5541,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "John Rohrback",
+  "ownerEmail": "john.rohrback@colvilletribes.com"
+}

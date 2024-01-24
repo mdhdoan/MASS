@@ -1,0 +1,9 @@
+{
+  "abstractText": "Gill nets are a passive fishing gear comprised of a panel of mesh netting. Fish are captured when they swim in to the netting and are wedged, gilled, or entangled. Gill nets can be constructed in a variety of ways (e.g. mesh size, mesh type, net length, net height, hanging ratio) to target specific species and/or sizes of fish, as well as to account for water body size, vessel size, and equipment. Small gill nets can be fished from small watercraft in small waterbodies or localized areas, while large water bodies often require large vessels with specialized net deployment and retrieval equipment and large gill nets to fish them effectively.Gill nets are the primary sampling gear utilized for the capture of juvenile white sturgeon in the Columbia River Basin for assessments of natural recruitment and evaluation of hatchery supplementation efforts (Burner et al. 2000; Golder 2007; Howell and McLellan 2008). Small-mesh (5.1 cm stretch mesh webbing) gill nets are used in studies specifically targetting sub-yearling (age 0) white sturgeon (Burner et al. 2000; Howell and McLellan 2008).The steps outlined in this method describe the deployment and retrieval of gill nets hydraulic gill net drums mounted in 7 to 10 m vessels.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/955",
+  "title": "Gill Netting Utilizing Hydraulic Powered Reel v1.0",
+  "id": 955,
+  "type": "Data Collection",
+  "ownerName": "Jason McLellan",
+  "ownerEmail": "jason.mclellan@colvilletribes.com"
+}

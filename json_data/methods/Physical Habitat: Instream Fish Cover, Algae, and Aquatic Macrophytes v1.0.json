@@ -1,0 +1,9 @@
+{
+  "abstractText": "This method is derived from an Environmental Monitoring and Assessment Program (EMAP) protocol developed for monitoring western wadable streams. Included in this method are instructions for semi-quantitatively evaluating the type and amount of important types of cover for fish and macroinvertebrates - using a visual estimation procedure. Alone and in combination with other metrics, this information is used to assess habitat complexity, fish cover, and channel disturbance.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/81",
+  "title": "Physical Habitat: Instream Fish Cover, Algae, and Aquatic Macrophytes v1.0",
+  "id": 81,
+  "type": "Data Collection",
+  "ownerName": "Jacque Schei",
+  "ownerEmail": "jschei@usgs.gov"
+}

@@ -1,0 +1,9 @@
+{
+  "abstractText": "Complete enumeration of fish is ideal, but often not practical because the number of fish using a facility can exceed holding tank capacities or staffing levels. And fish handling may be restricted through regulation when threatened or endangered species are present. When this occurs, timed sub-samples are taken and the total number of fish can be estimated.Due to the non-homogeneous behavior of juvenile salmonids during passage through fish screening facilities, sampling should occur 24 hours per day and 7 days per week. And sub-samples taken, at minimum, once per hour. When sampling cannot occur (e.g. mechanical failure, heavy debris, high-density of non-target fish), additional extrapolation is required. Catch during an unsampled period can be estimated by interpolating catch from the previous and following sampling periods or by any temporal (e.g., daily, weekly, monthly) or diel (e.g., day and night) stratification that minimizes the variance of the estimates, while still having biological/environmental relevance.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/6978",
+  "title": "Juvenile Salmonid Collection Estimates at a Juvenile Fish Screening and Bypass Facility v1.0",
+  "id": 6978,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Josh Hanson",
+  "ownerEmail": "Josh.hanson@odfw.oregon.gov"
+}

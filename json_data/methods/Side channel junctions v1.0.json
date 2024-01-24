@@ -1,0 +1,9 @@
+{
+  "abstractText": "Count the number of side channel junctions in a survey reach asneeded for calculation ofriver complexity index (RCI).",
+  "url": "http://www.monitoringresources.org/api/v1/methods/6944",
+  "title": "Side channel junctions v1.0",
+  "id": 6944,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Casey Justice",
+  "ownerEmail": "jusc@critfc.org"
+}

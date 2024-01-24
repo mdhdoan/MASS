@@ -1,0 +1,9 @@
+{
+  "abstractText": "Estimate of the extent of groundcover that is covered with vegetation and the extent of groundcover that is devoid of vegetation.Estimates of cover are taken at 5 transects (1, 6, 11, 16, 21) on the right and left bankwithin a10mx10mplot beginning atbankfull. Percent of the areal coverage of groundcover (<0.5 m) is visually estimated for each plot.Percent GroundCover is an average of the estimates from each of these 10 plots. Percent GroundcoverNoCover is100-Percent GroundCover.The CHaMP - Riparian Structure Method provides background on the measurements that are analyzed for this calculation. See - http://www.monitoringmethods.org/Method/Details/845 CHaMP method follows the Peck et al. (2001) methods used by the EMAP.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1243",
+  "title": "Percent Ground Cover and Percent No Ground Cover v1.0",
+  "id": 1243,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Steve Rentmeester",
+  "ownerEmail": "steve@sitkatech.com"
+}

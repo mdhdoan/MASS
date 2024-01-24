@@ -1,0 +1,9 @@
+{
+  "abstractText": "TheRBTis a suite of GIS tools that work within theESRIArcGISDesktop software that was developed by North Arrow Research in association withESSAand the Rocky Mountain Research Station (McKean2009). TheRBTallows users to describe and measure river channels using high resolution digital elevation models (DEM). TheDEMscan be derived from airborne remote sensing, such asLiDAR, or from ground based topographic surveys. With theRBTyou can:Detrenda DEM to remove the longitudinal valley slope.Cut user-defined cross sections through the DEM.Define the hydraulic geometry in each cross section, e.g. thebankfullwidth/depth.Compute stream gradient and sinuosity.Cut long profiles down the length of a channel and map longitudinal variations in any of the channel geometry metrics.Vary the water level in adetrendedDEM to investigate the distribution of water depths inside a stream and the extent of off-channel habitat still hydraulically connected to the main stem flow.Locate residual pools, which may be used to identify fish habitat.TheRBTis anArcGISadd-inand as such you have to haveArcGISinstalled before you can use any of the tools in the toolkit. TheCHaMP- Topographic Point Collection Methodsprovides background on collection of the measurement data that are analyzed for this calculation.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1262",
+  "title": "RBT - Bankfull Area Calculation v1.0",
+  "id": 1262,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org"
+}

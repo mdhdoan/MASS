@@ -1,0 +1,9 @@
+{
+  "abstractText": "Counting waterfowl during fall, winter, and spring migrations is crucial data that provides district biologist and wildlife area staff with insight on population counts by species, waterfowl concentrations, and value of habitats. Historically, fall and winter waterfowl counts are conducted in fixed wing aircraft. However, fixed wing surveys typically are associated with a high cost (aircraft, pilot, fuel, and numerous employees) and have a inherit risk of danger. By using trail cameras to estimate waterfowl populations during migrations biologists can survey numerous areas for longer intervals and at much lower costs. In our study design biologists would place a number of elevated camera traps across habitats in a project area. Photos are taken every hour from sunrise to sunset and each camera trap has a measurable surface area (1 acre)to create sub-samples of density estimates across the project area.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/6705",
+  "title": "Waterfowl abundance counts with remote camera traps v1.0",
+  "id": 6705,
+  "type": "Data Collection",
+  "ownerName": "Chattan McPherson",
+  "ownerEmail": "Chattan.Mcpherson@dfw.wa.gov"
+}

@@ -1,0 +1,9 @@
+{
+  "abstractText": "At sites that are too difficult to complete the topographical survey with the total station, certain topographical measurements (length, width, and depth) are taken at all channel units, but this can be done with depth rods and tape measures.The stick and tape method will be implemented to capture data regarding channel units. This data will be used to calculate volumes for the remaining channel units not captured during the total station survey.Record your data on the field form < CHaMP_Stick-And-Tape_ChannelUnits_form.xlsx> available below and at Crew Resources. Transfer the data to the CSV file when downloading the data loggers. This data will be uploaded in to the cloud with the other auxiliary data.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/4058",
+  "title": "Channel Unit Supplemental Data v1.0",
+  "id": 4058,
+  "type": "Data Collection",
+  "ownerName": "Boyd Bouwes",
+  "ownerEmail": "boydbouwes@gmail.com"
+}

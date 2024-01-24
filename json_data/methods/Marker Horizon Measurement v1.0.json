@@ -1,0 +1,9 @@
+{
+  "abstractText": "The marker horizons are sampled to quantify deposition occurring on a wetland surface. Sampling is normally done on the same day that the Surface Elevation Table (SET) is measured and needs to be accomplished without disturbing a large area of the sample plot, usually by making an incision although cut plugs may also be used.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/6995",
+  "title": "Marker Horizon Measurement v1.0",
+  "id": 6995,
+  "type": "Data Collection",
+  "ownerName": "Maggie McKeon",
+  "ownerEmail": "maggie.mckeon@pnnl.gov"
+}

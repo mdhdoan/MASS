@@ -1,0 +1,9 @@
+{
+  "abstractText": "In a genetics laboratory setting there are many opportunities for errors to arise during the collection of data (Stephenson et al. 2009). These include tissue or DNA extraction contamination, errors in transposition of sample order, allele scoring errors (e.g. null alleles or data that goes unrecorded), and data transcription errors (e.g. tabulation in data in spreadsheets). Further, errors may occur in the field while biological samples are being gathered. These include mislabeling sample vials and duplicate sampling. All genotypic data sets used for downstream analysis in multi-year projects need to be validated for accuracy and consistency. We follow a standard procedure for calculating an allele scoring (genotyping) error rate for all data sets, that is within an acceptable range (i.e. 1% or less) for all statistical analyses. Briefly, once a data set in completed, a second staff member replicates the process of extraction, amplification and fragment analysis on a randomly selected subset of individuals (no less than 2% of samples in the complete data set). Original allele scores are compared to the second round QC scores and a concordance report is generated. Concordance is defined as individuals that result in identical genotypes across the 13 loci (i.e. no mismatch genotypes) for the duplicate runs. The proportion of non-concordant gentypes in the QC excercise is applied to the entire data set, and this rate is treated as the observed overall laboratory/data entry error rate.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/917",
+  "title": "Error rate analysis and quality control for uSAT loci v1.0",
+  "id": 917,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Andrew Matala",
+  "ownerEmail": "mata@critfc.org"
+}

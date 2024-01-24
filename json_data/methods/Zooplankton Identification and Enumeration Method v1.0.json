@@ -1,0 +1,9 @@
+{
+  "abstractText": "Zooplankton will be sorted, counted, and identified to species or lowest practical taxa using keys by Brooks (1957), Edmondson (1963), Pennak (1989), and Thorp and Covich (1991). When organism densities are too high to count directly, sub-samples will be taken using a Motodo 1.5 L plankton splitter. Zooplankton samples will be split until approximately 300 organisms of the most prevalent species remain in the sub-sample. Body lengths will be measured from the first 30 individuals of each species within the subsample using a Leica MZ-8 dissecting microscope fitted with an optical micrometer. Remaining individuals will be enumerated by species. Branchiopod body lengths will be measured from the anterior most region of the head to the posterior base of the carapace. Copepod body lengths will be measured from the anterior most region of the head to the base of the caudal ramus. Zooplankton body lengths, densities, and biomass will be calculated. Zooplankton biomass will be determined for each species using length to dry weight regressions of Dumont et al. (1975), Bottrell et al. (1976), and Downing and Rigler.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/980",
+  "title": "Zooplankton Identification and Enumeration Method v1.0",
+  "id": 980,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Tamara Knudson",
+  "ownerEmail": "tamarak@spokanetribe.com"
+}

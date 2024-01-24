@@ -1,0 +1,9 @@
+{
+  "abstractText": "Sediment pinsmay be usedto track sediment changes at discreet locations over time. Sediment accumulation is monitored through time by measuring the distance from the top of the sediment pin to the surface of the sediment below. Typically,measurements are taken semiannually. This method can be used along with bathymetry and terrestrial LiDAR, which provide a larger spatial coverage of elevation data. This method was developed for theColumbia Estuary Ecosystem Restoration Program (CEERP) action effectiveness monitoring and research (AEMR).",
+  "url": "http://www.monitoringresources.org/api/v1/methods/3915",
+  "title": "Sediment Pin Measurement changes over time v1.0",
+  "id": 3915,
+  "type": "Data Collection",
+  "ownerName": "PNAMP Support",
+  "ownerEmail": "pnamp.mm@gmail.com"
+}

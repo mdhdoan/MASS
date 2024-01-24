@@ -1,0 +1,9 @@
+{
+  "abstractText": "A common for estimating the age of a fish is to examine the fine ridges on a scale (called circuli) that are laid down in a circular pattern as the fish grows. Scale samples are often collected from samples of fish within a population to estimate age composition. NOAA recommends that to demonstrate ESU/DPS viability, annual documentation of a variety of biological parameters (including adult abundance, age distribution, sex ratio, length, and run timing) is needed at the population, major population grouping, and ESU/DPS level for each listed species (Crawford and Rumsey 2011). Detailed instructions for this method are provided below.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1417",
+  "title": "Mounting scales for aging v1.0",
+  "id": 1417,
+  "type": "Data Collection",
+  "ownerName": "Matthew Campbell",
+  "ownerEmail": "matthew.campbell@idfg.idaho.gov"
+}

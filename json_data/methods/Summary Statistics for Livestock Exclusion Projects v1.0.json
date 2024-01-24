@@ -1,0 +1,9 @@
+{
+  "abstractText": "After field data collection, the data are uploaded into an MS Access database which then computes summary statistics to reflect habitat conditions at the reach scale.  These summary statistics were generally developed as part of the EPA EMAP and were selected for this program based on their high signal to noise ratios as compared to other potential summary variables.   The following variables are reported for Livestock Exclusion Projects: Sample Date, GPS Coordinates, Reach Length, Reach Width, Canopy Cover, Riparian Vegetation Structure, Bank Erosion, Average Pool Tail Fines, Exclusion Design, and Area of Exclusion.  Testing for significance is performed for Canopy Density and Riparian Vegetation Structure.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/910",
+  "title": "Summary Statistics for Livestock Exclusion Projects v1.0",
+  "id": 910,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Jennifer O'Neal",
+  "ownerEmail": "jen@naturaldes.com"
+}

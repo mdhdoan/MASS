@@ -1,0 +1,9 @@
+{
+  "abstractText": "This method is used to determine whether the design criteria are met over a ten-year period.  The restoration project excludes livestock from the riparian zone in order for the riparian vegetation and stream morphology to recover from the effects of livestock.  Therefore, the fence design and strength should continue to exclude livestock for at least ten years.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/166",
+  "title": "Detecting Presence/Absence Of Livestock v1.0",
+  "id": 166,
+  "type": "Data Collection",
+  "ownerName": "Jennifer O'Neal",
+  "ownerEmail": "jen@naturaldes.com"
+}

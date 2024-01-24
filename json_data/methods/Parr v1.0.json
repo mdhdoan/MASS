@@ -1,0 +1,9 @@
+{
+  "abstractText": "The plan includes the abundance and distribution of juvenile fish as an indicator of population status. Juvenile numbers will be estimated with snorkeling and electrofishing within status/trend monitoring reaches and effectiveness monitoring sites. Snorkeling is the primary sampling method in this plan and will follow the protocols identified in Thurow (1994). Accurate estimates of juvenile salmonids may likely require nighttime snorkeling. Therefore, both daytime and nighttime surveys should be conducted for at least two years to see which survey time (daytime or nighttime) provides the best estimate of juvenile fish. For each fish observed during day or night surveys, snorkelers will estimate fish size to the nearest 2 cm and report numbers as fish/ha.  Electrofishing is the secondary method and will be used within a sub-sample of snorkel sites. Electrofishing will follow the protocols outlined in Reynolds (1996) and NMFS (2000). This plan recommends the removal-depletion method of electrofishing, with a minimum of three complete passes.  Population numbers and 95% confidence intervals can be estimated with the maximum-likelihood formula (Van Deventer and Platts 1989). Numbers will be reported as fish/ha.  The plan includes Fulton-type conditon as the metric for well-being of juvenile fish.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/31",
+  "title": "Parr v1.0",
+  "id": 31,
+  "type": "Data Collection",
+  "ownerName": "Tracy Hillman",
+  "ownerEmail": "tracy.hillman@bioanalysts.net"
+}

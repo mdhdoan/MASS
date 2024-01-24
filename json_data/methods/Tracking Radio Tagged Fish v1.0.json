@@ -1,0 +1,9 @@
+{
+  "abstractText": "Tracking radio tagged fish providesspatial and temporal distribution and migratory information.Telemetry tools can document migratory routes and the extent of delay at fishpassage impediments.Uniquely coded radio tags inserted or attached to fish can be located and followed through mobile tracking and triangulation techniques.Fixed site receivers continuously monitor stream confluences, passage impediments, and other strategic locations.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/6895",
+  "title": "Tracking Radio Tagged Fish v1.0",
+  "id": 6895,
+  "type": "Data Collection",
+  "ownerName": "Craig Contor",
+  "ownerEmail": "craigcontor@ctuir.org"
+}

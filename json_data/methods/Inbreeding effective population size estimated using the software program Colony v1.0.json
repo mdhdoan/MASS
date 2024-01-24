@@ -1,0 +1,9 @@
+{
+  "abstractText": "Geneticists are interested in estimating the effective population size of salmon and steelhead populations because it is a measure that is directly related to the rate of loss of genetic diversity and the rate of increase in inbreeding within a population (Wright 1969) and because it can affect population viability.  From the Colony User Guide, Version 2.0 (May 1, 2008):  Colony is a computer software program for implementing a maximum likelihood method to assign/infer parentage and sibship among individuals using their multi-locus genotypes. It can be used in estimating full- and half-sib relationships, assigning parentage, inferring mating systems (polygamous / monogamous) and reproductive skew in both diploid and haplo-diploid species.  Inbreeding effective population size (Ne) can be estimated from sibship assignments (Wang 2009).  Within a sample of individuals taken at random (with respect to kin) from a population, the frequencies of full and half sib dyads can be used to estimate the current effective size of the population. The logic behind the method is simple. A small population (small Ne) will result in a high proportion of sibs. The smaller the Ne is, the higher is the probability that 2 individuals drawn at random from the same cohort of a population are sibs sharing the same father, or mother or both.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1342",
+  "title": "Inbreeding effective population size estimated using the software program Colony v1.0",
+  "id": 1342,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Matthew Campbell",
+  "ownerEmail": "matthew.campbell@idfg.idaho.gov"
+}

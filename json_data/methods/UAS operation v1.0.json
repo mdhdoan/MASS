@@ -1,0 +1,9 @@
+{
+  "abstractText": "Unmanned aerial systems (UAS), also known as drones, are increasingly being used to collect aerial imagery. All UAS users must obtain an license from the Federal Aviation Administration to operate a UAS. Beyond that, operation,UAS type, and relevant restrictionswill vary byagency or entity using it. This method applies specifically to federal agencies within the Department of Interior. It is beyond the scope of this method to describe required training, aircraft,flight proficiency certifications, and relevant aviation regulations. This method applies to using a 3RD Solo UAS and assumes the user is familiar and proficient in flying it.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/6731",
+  "title": "UAS operation v1.0",
+  "id": 6731,
+  "type": "Data Collection",
+  "ownerName": "Kenneth Tiffan",
+  "ownerEmail": "ktiffan@usgs.gov"
+}

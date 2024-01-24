@@ -1,0 +1,9 @@
+{
+  "abstractText": "This method defines how the transects are established at a reach.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/3828",
+  "title": "Setting up Transects in a Reach- For Wadable Streams v1.0",
+  "id": 3828,
+  "type": "Data Collection",
+  "ownerName": "Glenn Merritt",
+  "ownerEmail": "glenn.merritt@ecy.wa.gov"
+}

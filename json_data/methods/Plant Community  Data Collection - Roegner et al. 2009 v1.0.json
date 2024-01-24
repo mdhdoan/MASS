@@ -1,0 +1,9 @@
+{
+  "abstractText": "Tidal reconnections can result in substantial changes in the species abundance and distribution of vegetation (Cornu and Sadro 2002, Roman et al. 2002, Thom et al. 2002). Vegetation is recognized as a key indicator of ecological conditions in a restored environment (Zedler et al. 2001, Rice et al. 2005), and floristic measurements can be used to document plant succession following the implementation of restoration actions. Native estuarine and tidal freshwater plant communities have both structural and functional effects on estuarine ecosystems, although we concentrate here only on structural elements. We encourage measurements of functional benefits (i.e., primary productivity); while equally important, these are often more labor intensive to measure. To measure vegetation changes, we advocate geo-referenced surveys that can be integrated with:Method IDs:814/815- hydrology,Method IDs:818/819- elevation, andMethod IDs: -820/821landscape-scale GIS data.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/822",
+  "title": "Plant Community  Data Collection - Roegner et al. 2009 v1.0",
+  "id": 822,
+  "type": "Data Collection",
+  "ownerName": "Catherine Corbett",
+  "ownerEmail": "ccorbett@estuarypartnership.org"
+}

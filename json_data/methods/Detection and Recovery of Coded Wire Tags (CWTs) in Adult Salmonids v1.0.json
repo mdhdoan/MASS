@@ -1,0 +1,9 @@
+{
+  "abstractText": "Coded Wire Tags (CWTs) are implanted in juvenile salmonids and used to identify release groups or cohorts (e.g., brood year, hatchery, release site, etc.) when recovered from adults in fisheries or escapement areas (Bernard and Clark 1996). These tags can be detected and recovered during sampling events and are used to provide essential information for many studies, including ocean and freshwater distribution, fishery contribution, run reconstruction, run size forecasting, stray rates, and smolt to adult survival rates (SARs).",
+  "url": "http://www.monitoringresources.org/api/v1/methods/4223",
+  "title": "Detection and Recovery of Coded Wire Tags (CWTs) in Adult Salmonids v1.0",
+  "id": 4223,
+  "type": "Data Collection",
+  "ownerName": "Cyndi Baker",
+  "ownerEmail": "cynthia.f.baker@state.or.us"
+}

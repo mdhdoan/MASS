@@ -1,0 +1,9 @@
+{
+  "abstractText": "Field data are uploaded into an MS Access database to compute summary statistics to reflect habitat conditions at the reach scale. These summary statistics were generally developed as part of the EPA EMAP and were selected for this program based on their high signal to noise ratios as compared to other potential summary variables. The following variables are reported:   Reach Length / Reach Width / GPS Coordinates / Sample Date / Juvenile Fish Density in Number of fish per square meter / Spawner Density in spawners per km / Redd Density in redds per km / Fish Passage Design success reported as a Yes or No w/ respect to engineering plan design specifications.  Data will be tested using a paired t-test to compare control and impact reaches of individual streams.  As this test may yield very small differences that may be statistically significant but not biologically meaningful, biological significance will also be indicated by a 20% increase in populations between the mean yearly difference for the 10 sampled fish passage projects.  The conclusions are based upon the differences of the paired scores for the 10 sampled projects.  Tests will be done in Years 1, 2, and 5. If the results are significant in any of those years, the fish passage projects will be considered effective.  The hypothesis tested is:  H0 : mean difference is less than or equal to 0 of the difference observed in Year 0.  HA : mean difference is greater than 0 of the difference observed in Year 0.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/295",
+  "title": "Summary Statistics / Significance Testing v1.0",
+  "id": 295,
+  "type": "Data Collection",
+  "ownerName": "Jennifer O'Neal",
+  "ownerEmail": "jen@naturaldes.com"
+}

@@ -1,0 +1,9 @@
+{
+  "abstractText": "The dockside interview is recorded on a handheld computer using a program developed by ORBS staff.  This program assists in making sure that all pertinent interview data is gathered and errors minimized by using prompts for data that falls outside of expected ranges.  The current content and source of the interview data is summarized in Table 1.  Additional specialized data elements such as profiles of fishing gear, PIT tag scanning, etc. are occasionally collected, but are not part of the standard ORBS interview.  Interview Summary Form  At the end of each work day, each ORBS sampler is required to run a data summary program on their handheld data computer.  The results of this summary are then transferred to a two sided summary form (Figures 6 and 7).  The summary form has two primary uses.  First, it provides minimal information from the interviews that could be used to recreate the majority of the data in the event of failure of the handheld computer.  The second use is for mid-week updates on the fishery.  This is primarily used for tracking of quota fisheries and making sure that the overall landings do not exceed the quota.   Final Catch and Effort Expansion  The remaining process is to make the final expansion of the interview data to the fishing  population within each strata.  Due to the nature of the effort estimates, separate estimates and expansions are made for charter boats and private/guide boats.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/249",
+  "title": "ORBS Interview v1.0",
+  "id": 249,
+  "type": "Data Collection",
+  "ownerName": "Eric Schindler",
+  "ownerEmail": "eric.d.schindler@state.or.us"
+}

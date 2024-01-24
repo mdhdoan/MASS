@@ -1,0 +1,9 @@
+{
+  "abstractText": "The Human Influences Assessment method is designed to provide bank-specific estimates of human disturbance within the riparian area of a site. Although it is subject to crew variability since measurements are crew member estimates, it provides relative information on both the location (by transect and bank) and type of local disturbance.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/218",
+  "title": "Habitat-Human Influences Assessment v1.0",
+  "id": 218,
+  "type": "Data Collection",
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org"
+}

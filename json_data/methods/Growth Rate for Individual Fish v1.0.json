@@ -1,0 +1,9 @@
+{
+  "abstractText": "Growth rate is the growth, or the change in the length or weight of an individual, over a period of time. Growth can provide information on health, population dynamics, and habitat quality (Quist et al. 2012). The method described here relies on direct observation of individuals and entails capturing, marking (using VI, PIT, or other tags with unique identifiers), and recapturing at regular intervals to obtain length and weight data. Because of this, the method is the least variable and most accurate for determining growth as measurement error is the only source of possible variation. That said, the effort to mark and recapture can be labor intensive and costly, so growth information is often supplemental to the primary purpose of the mark recapture study.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/746",
+  "title": "Growth Rate for Individual Fish v1.0",
+  "id": 746,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Chris Tatara",
+  "ownerEmail": "chris.p.tatara@noaa.gov"
+}

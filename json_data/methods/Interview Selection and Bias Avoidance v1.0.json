@@ -1,0 +1,9 @@
+{
+  "abstractText": "Due to substantial differences between charters and private boats, charter boat effort is stratified to trip type prior to the interview, and interviews are selected to be representative of the fleet activity for the various target species.  As private boats cannot be stratified to trip type prior to the interview, interviews are selected randomly within the boat basin and launch ramp area to reduce potential sampling bias towards trip type.  Samplers are instructed to interview private boats without prejudice to size, number of anglers, presence or absence of fish or fishing tackle, etc.  They are instructed to interview the next boat returning to their area, and once that interview is completed to look for the next returning boat.  Private boat interviews are recorded for any boat that has completed their trip, regardless of whether they entered the ocean or even fished (to determine correct proportion of non-fishing trips).   Sampling schedules are set in advance to provide representative sampling coverage for all day and season types, and to cover the hours when charter and private fishing vessels are expected to return from the ocean.  Interviews are initiated at the boat at the time that it arrives back at the dock or ramp to insure that all anglers and catch are present from the trip.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/230",
+  "title": "Interview Selection and Bias Avoidance v1.0",
+  "id": 230,
+  "type": "Data Collection",
+  "ownerName": "Eric Schindler",
+  "ownerEmail": "eric.d.schindler@state.or.us"
+}

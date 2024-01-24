@@ -1,0 +1,9 @@
+{
+  "abstractText": "~~The population index is an in-season tool that uses predictions of daily PIT-tag detection probability (i.e., probability of entering the collection or bypass facility) based on daily flow and spill percentage data.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/5426",
+  "title": "Population index of juvenile dam passage_CSS v1.0",
+  "id": 5426,
+  "type": "Data Collection",
+  "ownerName": "Christine Petersen",
+  "ownerEmail": "chpetersen@bpa.gov"
+}

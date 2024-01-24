@@ -1,0 +1,9 @@
+{
+  "abstractText": "This protocol is designed to determine the percentage of fine sediments on the pool tail surface of plunge pools and scour pools.  For the purposes of this method, the following criteria must be met for a feature to be considered a pool: Pools are depressions in the streambed that are concave in profile, laterally and longitudinally.  Pools are bound by a head crest (upstream break in streambed slope) and a tail crest (downstream break in streambed slope).  Only consider main channel pools where the thalweg runs through the pool, and not backwater pools.  Pools span at least 50% of the wetted channel width at any location within the pool. So a pool that spans 50% of the wetted channel width at one point, but spans <50% elsewhere is a qualifying pool.  When islands are present only consider pools in the main channel; dont measure pools in side channels.  If a side channel is present, the pool must span at least 50% of the main channels wetted width; disregard side channels width when making this determination.  Maximum pool depth is at least 1.5 times the pool tail depth.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/907",
+  "title": "Measuring Pool Tail Fines v1.0",
+  "id": 907,
+  "type": "Data Collection",
+  "ownerName": "Jennifer O'Neal",
+  "ownerEmail": "jen@naturaldes.com"
+}

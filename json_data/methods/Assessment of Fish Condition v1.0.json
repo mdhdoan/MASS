@@ -1,0 +1,9 @@
+{
+  "abstractText": "Overall there are five data categories for various fish conditions: 1) injury, 2) descaling, 3) predator marks, 4) disease/parasites, and 5) other conditions. Within each category there are several subcategories for particular conditions. Since the data will be entered based on the sub-category in which each condition occurs, this protocol is intended to provide detailed descriptions of each subcategory. Condition data will be recorded for each individual fish. A single fish could have multiple conditions, either in the same category or between several categories. For example, a fish could have two different injures like a body injury and a head injury. Or, a single fish could have an injury (e.g., operculum injury) and a disease (e.g., fungus).",
+  "url": "http://www.monitoringresources.org/api/v1/methods/3808",
+  "title": "Assessment of Fish Condition v1.0",
+  "id": 3808,
+  "type": "Data Collection",
+  "ownerName": "Christine Petersen",
+  "ownerEmail": "chpetersen@bpa.gov"
+}

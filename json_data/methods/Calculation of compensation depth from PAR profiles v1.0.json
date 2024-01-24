@@ -1,0 +1,9 @@
+{
+  "abstractText": "The photic zone is the sunlit portion of the water column in which photosynthesis takes place. It extends from the surface to a depth at which the intensity of photosynthetically active radiation (PAR) is 1 percent of the surface value (Horne and Goldman 1994). This lower boundary is known as the compensation depth. The compensation depth is important to researchers investigatingprimary production or plankton communities in lakes and reservoirs. It can also be used as an indicator of water clarity and therefore an index of water quality.This method documents the calculation of the compensation depth using vertical profiles of PAR(see method ID 3393 for collection of PAR data). It is preferable to have collected this data using a deck sensor in conjunction with the wet sensor in order to compensate for changes in ambient light.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1177",
+  "title": "Calculation of compensation depth from PAR profiles v1.0",
+  "id": 1177,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Sean Wilson",
+  "ownerEmail": "sean.wilson@idfg.idaho.gov"
+}

@@ -1,0 +1,9 @@
+{
+  "abstractText": "Tree height is determined with a clinometer; however, an electronic height measurement instrument or a forestry stick may also be used (only the clinometer tree height method is discussed below). The tree height measurement interval is 100 feet depending upon forest stand homogeneity, tree density, and data needs.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/305",
+  "title": "Tree Measurements - Tree Height v1.0",
+  "id": 305,
+  "type": "Data Collection",
+  "ownerName": "Paul Ashley",
+  "ownerEmail": "lonepinebutte@comcast.net"
+}

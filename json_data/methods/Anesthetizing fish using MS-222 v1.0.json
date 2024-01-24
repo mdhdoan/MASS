@@ -1,0 +1,9 @@
+{
+  "abstractText": "MS-222, (Tricaine mesylate, Tricaine methanesulfonate, TMS) is commonly used to anesthetize fish when collecting data, physiological investigations, implanting tags or other activities that require holding fish immobile while the animal is being handled for sampling (Summerfelt and Smith 1990). The effectiveness of MS-222 as an anesthetic varies with factors such as temperature and fish density. The optimum concentration used is 50-100parts per million (Strange 1996), however adjustment of the anesthesia concentration should be based on the amount of time it takes for a fish to lose equilibrium. It is easily soluble in water but it drastically decreases the pH of water, increasing the acidity, which may be toxic for fish. Sodium bicarbonate can be used to buffer the solution to a pH range of 6.5-7.5. Usually an equal amount of buffer is added to attain a neutral pH.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/5356",
+  "title": "Anesthetizing fish using MS-222 v1.0",
+  "id": 5356,
+  "type": "Data Collection",
+  "ownerName": "PNAMP Support",
+  "ownerEmail": "pnamp.mm@gmail.com"
+}

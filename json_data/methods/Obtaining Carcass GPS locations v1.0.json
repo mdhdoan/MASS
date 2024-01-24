@@ -1,0 +1,9 @@
+{
+  "abstractText": "The GPS unit is set on Datum NAD27. 1. Stand near the carcass and press the PWR button on the GPS unit, followed by the Enter button. You will then see a status screen displaying the satellites that are being acquired by the GPSit takes 10-30 seconds for the GPS to do this (the amount of battery power is also displayed on this screen; batteries will last approximately 12 hours when the screen backlight is not used). Once the GPS has enough satellites to provide a location, a position screen is automatically displayed. At the top of this screen are the UTM coordinates for your present location. Wait for the UTM readings to stabilize (minimum of one minute) before recording the coordinates. To conserve battery life, turn the GPS off (PWR button) once you have recorded the coordinates",
+  "url": "http://www.monitoringresources.org/api/v1/methods/248",
+  "title": "Obtaining Carcass GPS locations v1.0",
+  "id": 248,
+  "type": "Data Collection",
+  "ownerName": "Russell Thurow",
+  "ownerEmail": "rthurow@fs.fed.us"
+}

@@ -1,0 +1,9 @@
+{
+  "abstractText": "This protocol should be used to determine whether the designed fish passage criteria are met post construction such that fish passage remains possible.  The purpose is to determine whether an engineered solution to a fish passage problem remains viable for at least five years.Effectiveness of passage under roadways and other projects associated with culvert improvements, bridge projects, debris removals, and dam removal projects should comply with engineering specifications detailed in Fish Passage Design At Road Culverts: A design manual for fish passage at road crossings (Bates et al. 1999).  Upon completion of the fish passage project, Years 1, 2, and 5, the engineered solution to the fish passage problem is evaluated using the Family Forest Fish Passage Program: Barrier Evaluation Forms (DNR 2005).  The forms consist of measuring specific parameters based on engineering criteria which assists in determining if the engineered solution is effective at providing fish passage.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/169",
+  "title": "Determining effectiveness of passage project structures v1.0",
+  "id": 169,
+  "type": "Data Collection",
+  "ownerName": "Jennifer O'Neal",
+  "ownerEmail": "jen@naturaldes.com"
+}

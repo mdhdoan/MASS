@@ -1,0 +1,9 @@
+{
+  "abstractText": "The goal of thisresearch component is todetermineflow conditions at Libby Dam which maximize upstream movements, and provide those conditions when appropriate to ultimately maximize the spawning potential in upstream areas with what are thought to be more suitable habitats. Although this modeling exercise failed to develop good predictive models explaining sturgeon movements, we intend to rerun these and similar models with a more robust dataset (6 additional years of data) with hopes of developing better models.While this modeling is planned for spring 2014 and has not been completed yet, we intend buil on models originally describedin Swartz (2008).",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1029",
+  "title": "Adult Sturgeon Migration Modeling v1.0",
+  "id": 1029,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Ryan Hardy",
+  "ownerEmail": "ryan.hardy@idfg.idaho.gov"
+}

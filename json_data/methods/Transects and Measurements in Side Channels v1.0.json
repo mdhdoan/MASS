@@ -1,0 +1,9 @@
+{
+  "abstractText": "Use the following guidance when sampling a reach with a side channel.A side channel is defined as a channel that is separated from the main channel by an island (not a mid-channel bar). This protocol differentiates between major and minor side channels. Data should only be collected on major and not on minor side channels. Note if more than one major side channel is present, determine which major side channel has the most flow, and only collect data on that side channel.Major side channel:If the wetted channel is split by an island, with the side channel containing 16-49% of the total flow, this is a major side channel in which data should be collected.Minor side channel:If the wetted channel is split by an island, with the side channel containing less than or equal to 15% of the total flow, this is a minor side channel in which data should not be collected.Dry side channel:If the side channel is dry, take no measurements, and do not recognize it in the thalweg profile since it does not meet the flow requirement.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/7020",
+  "title": "Transects and Measurements in Side Channels v1.0",
+  "id": 7020,
+  "type": "Data Collection",
+  "ownerName": "PNAMP Support",
+  "ownerEmail": "pnamp.mm@gmail.com"
+}

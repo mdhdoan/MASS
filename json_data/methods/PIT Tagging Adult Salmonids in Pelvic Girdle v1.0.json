@@ -1,0 +1,9 @@
+{
+  "abstractText": "Tagging salmonids with passive integrated transponder (PIT) tags is a common marking practice to help understand movement, survival, and other important population metrics. In the Columbia River basin, salmonids can be detected across a wide network of sites that include PIT tag detectors at juvenile and adult hydrosystem facilities, in-stream PIT tag arrays, PIT tag antennas at hatchery facilities, and hand scan detections at weirs and other traps. Additionally, PIT tags provide unique identification for each individual fish and can provide information such as where and when the fish was tagged and at what size. Detection histories can track fish movements and timing of certain life history benchmarks (e.g., spawning, ocean entry, freshwater entry). Information from PIT tags are invaluable to many programs and that often use PIT tags detections for assessing fish populations over time.Commonly, juvenile salmonids are inserted with a PIT tag in the peritoneal cavity of the body using a 12-gauge needle (refer to method ID 4146). When tagging adult fish, they can be susceptible to harvest in a fishery. To reduce the potential risk of an angler accidentally consuming a PIT tag, the tag is inserted in the pelvic girdle so that it can be avoided when a fish is filleted (Dembkowski et al. 2018; Meerbeek 2020). Tagging in the pelvic girdle also has high long-term tag retention so that tags are not shed after spawning (Meerbeek 2020).",
+  "url": "http://www.monitoringresources.org/api/v1/methods/6931",
+  "title": "PIT Tagging Adult Salmonids in Pelvic Girdle v1.0",
+  "id": 6931,
+  "type": "Data Collection",
+  "ownerName": "Marika Dobos",
+  "ownerEmail": "marika.dobos@idfg.idaho.gov"
+}

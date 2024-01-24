@@ -1,0 +1,9 @@
+{
+  "abstractText": "In support of efforts to quantify relationships between juvenile salmonid habitat and population dynamics, survey data from the Columbia Habitat Monitoring Program (CHaMP) have been used to develop hydraulic models for the majority of more than 600 reaches at which the CHaMP program collects habitat data. Hydraulic models are a key linkage being used in CHaMP to relate stream hydraulics to juvenile salmonid population dynamics.The hydraulic modeling approach weve developed aims to provide hydraulic models capable of supporting CHaMP research, in terms of precision accuracy, as well as in the ability to generate unique hydraulic models for more than 600 CHaMP sites, at multiple flow conditions per site. To date, we have successfully modeled more than 1000 CHaMP site / flow condition combinations.Hydraulic model inputs include digital elevation models (DEM) developed from topographic surveys, estimates of surface roughness based on pebble size distributions, and discharge. Hydraulic model outputs include velocity vector and depth fields as well as information derived from these fields. All information used to generate model inputs are generated as part of default CHaMP data collection procedures.Modeling can be done for both measured discharge rates and non-measured discharge rates.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/5458",
+  "title": "Hydraulic Modeling of River and Stream Reaches Sampled in the Columbia Habitat and Monitoring Program v1.0",
+  "id": 5458,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Matt Nahorniak",
+  "ownerEmail": "matt@southforkresearch.org"
+}

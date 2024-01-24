@@ -1,0 +1,9 @@
+{
+  "abstractText": "This site layout method covers locating the site, establish benchmarks, site markers and monuments, determine bankfull elevation and site width category, lay out the site and determine channel units. This method assumes you've already Located the Site - see Method 831: http://www.monitoringmethods.org/Method/Edit/831",
+  "url": "http://www.monitoringresources.org/api/v1/methods/832",
+  "title": "Site Layout v1.0",
+  "id": 832,
+  "type": "Data Collection",
+  "ownerName": "Steve Rentmeester",
+  "ownerEmail": "steve@sitkatech.com"
+}

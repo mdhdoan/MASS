@@ -1,0 +1,9 @@
+{
+  "abstractText": "This method describes in stream surveys to locate live fish and fish carcasses in the vicinity of the weir (from the weir downstream 1 rkm to Chiliwist Creek). Information collected on the estimated live and dead fish downstream of the weir are assessed daily for potential negative effects of the weir on migrating salmon. This may include observations that indicate the weir or its' operations may be causing delay in passage or mortality to fish. In this case, the process of adaptive management for operation of the weir will be conducted through a Technicial Oversight Group (TOG). Field technicians will report a critical situation to the Project Lead and provide documentation of a potential negative impact to fish including passage delay (e.g. holding downstream of the weir) and mortality (e.g. moribund or dead fish downstream of the weir). If 10 salmon mortalities on 3 consecutive surveys or 25 salmon mortalities on any one survey below the weir occur, the Project Lead will consult with the TOG. The TOG may recommend mitigative action, in which case, the Project Lead will implement and monitor the effect.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/5517",
+  "title": "Weir Boat Surveys v1.0",
+  "id": 5517,
+  "type": "Data Collection",
+  "ownerName": "Andrea Pearl",
+  "ownerEmail": "andrea.pearl@colvilletribes.com"
+}

@@ -1,0 +1,9 @@
+{
+  "abstractText": "To calculate percent of the reach that is dryfromthalweg depth profiles. The recommended data collection method for thalweg depth profiles isMethod 7008.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/7004",
+  "title": "Percent Dry from Thalweg Profile Data v1.0",
+  "id": 7004,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "PNAMP Support",
+  "ownerEmail": "pnamp.mm@gmail.com"
+}

@@ -1,0 +1,9 @@
+{
+  "abstractText": "Fish abundance (N) is estimated using removal-depletion data acquired during multiple pass electrofishing surveys, as described in Method # 196. The area of the survey site is applied to the abundance estimate to generate an estimate of density.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/5370",
+  "title": "Estimating Fish Abdundance and Density - Removal-Depletion v1.0",
+  "id": 5370,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Jason McLellan",
+  "ownerEmail": "jason.mclellan@colvilletribes.com"
+}

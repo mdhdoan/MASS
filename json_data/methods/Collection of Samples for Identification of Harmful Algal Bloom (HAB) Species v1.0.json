@@ -1,0 +1,9 @@
+{
+  "abstractText": "A number of different HAB species are members of the natural phytoplankton community in the Sacramento-San Joaquin Delta (Delta) and increase their abundance sufficiently at different times over the growing season (June through October) to form blooms (i.e. chlorophyll concentrations of 13-25 g/L, or above, Sutula et al. 2017). Because the appearance and coloration of the water may be similar during blooms of various freshwater phytoplankton, both eukaryotic (i.e. green algae) and prokaryotic species (i.e. cyanobacteria), it may be useful to know which species is blooming for determining whether to sample the water for toxin analyses. For example, the most commonly occurring toxin-producing HAB species in the Delta include colonial or chain-forming cyanobacterial HAB (cyanoHAB) species such asMicrocystissp.,Dolichospermumsp.,Aphanizomenonsp. andPseudoanabaenasp., and these can co-occur with non-toxin producing green algal species (Lehman et al. 2021).",
+  "url": "http://www.monitoringresources.org/api/v1/methods/7149",
+  "title": "Collection of Samples for Identification of Harmful Algal Bloom (HAB) Species v1.0",
+  "id": 7149,
+  "type": "Data Collection",
+  "ownerName": "Taylor Spaulding",
+  "ownerEmail": "tspaulding@esassoc.com"
+}

@@ -1,0 +1,9 @@
+{
+  "abstractText": "Step 1: Scan the stream segment between two cross section Transects where Thalweg profile msmts are being made.Step 2: Tally LWD pieces within the segment that are partially within the bankfull channel. LWD (small end diameter 10cm (4 in.); length 1.5 m (5 ft.).Step 3: For each piece of LWD, determine the class based on the diameter of the large end 0.1 m < 0.3 m [4 in < 12 in] 0.3 m < 0.6 m [12 in < 24 in] 0.6 m < 0.8 m [24 in < 32 in] > 0.8 m [> 32 in] and for the length of the piece 1.5 m < 5.0 m [5 ft. < 17 ft.] 5.0 m < 15 m [17 ft. < 50 ft.] > 15 m [> 50 ft.] Step 4: Place a tally mark in the appropriate diameter X length class tally box in the PIECES ALL/PART IN BANKFULL CHANNEL section of the Thalweg Profile and Woody Debris Form.Step 5: Tally all LWD pieces within the segment that are not actually within the bankfull channel, but are at least partially spanning (bridging) the channel. For each piece, determine the class based upon the diameter of the large end and the class based on the length of the piece.Step 6: Place a tally mark for each piece in the appropriate diameter X length class tally box in the PIECES BRIDGE ABOVE BANKFUL CHANNEL section of the Thalweg Profile and Woody Debris Form.Step 7: After all pieces within the segment have been tallied, write total number of pieces for each diameter X length class in the small box at the lower right hand corner of each tally box.\\Step 8: Repeat Steps 1 through 7 for the next stream segment",
+  "url": "http://www.monitoringresources.org/api/v1/methods/240",
+  "title": "Measuring Large Woody Debris (LWD) v1.0",
+  "id": 240,
+  "type": "Data Collection",
+  "ownerName": "Jennifer O'Neal",
+  "ownerEmail": "jen@naturaldes.com"
+}

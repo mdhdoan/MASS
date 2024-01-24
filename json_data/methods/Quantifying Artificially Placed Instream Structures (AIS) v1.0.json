@@ -1,0 +1,9 @@
+{
+  "abstractText": "This method is used to tally artificially-placed instream structures (AIS).  AIS are defined as Large Woody Debris (LWD) and rock structures.  The tally includes all AIS that are in the channel.  The active, or bankfull, channel is defined as the channel that is filled by moderate sized flood events that typically occur every one and a half years.  AIS in the active channel is tallied over the entire length of the reach, including between the channel cross-section Transects.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/260",
+  "title": "Quantifying Artificially Placed Instream Structures (AIS) v1.0",
+  "id": 260,
+  "type": "Data Collection",
+  "ownerName": "Jennifer O'Neal",
+  "ownerEmail": "jen@naturaldes.com"
+}

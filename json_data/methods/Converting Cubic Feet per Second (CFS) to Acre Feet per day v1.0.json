@@ -1,0 +1,9 @@
+{
+  "abstractText": "Volume of a stream flow is calculated by converting from CFS.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/5444",
+  "title": "Converting Cubic Feet per Second (CFS) to Acre Feet per day v1.0",
+  "id": 5444,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "PNAMP Support",
+  "ownerEmail": "pnamp.mm@gmail.com"
+}

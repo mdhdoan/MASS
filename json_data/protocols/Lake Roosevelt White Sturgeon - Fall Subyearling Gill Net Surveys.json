@@ -1,0 +1,12 @@
+{
+  "background": "Due to persistent recruitment failure, the subpopulation of white sturgeon inhabiting the upper Columbia River above Grand Coulee Dam is classified as Critically Endangered by the IUCN and endangered under the Canadian Species at Risk Act. Recruitment failure in the area between Grand Coulee and HLK dams (the Transboundary Reach) White Sturgeon population was first documented during surveys of both the Keenleyside Reach (British Columbia) and the Roosevelt Reach (Washington State) in the 1990s (Hildebrand et al. 1999; DeVore et al. 2000). A conservation aquaculture program was began in 2012in order to mitigate for this lack of recruitment. However, continuedmonitoring for natural recruitment is essential. Further, monitoring allows for researchers to gauge effectiveness of treatmentsaddressing recruitment failure and to monitor the conservation aquaculture release populations.Surveys will be standardized, coordinated and conducted simultaneously with efforts by the Colville Tribe's White Sturgeon Enhancement Project (WSEP BPA Project # 2008-116-00 ) and those conducted in the Keenleyside Reach.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/3527",
+  "title": "Lake Roosevelt White Sturgeon - Fall Subyearling Gill Net Surveys",
+  "id": 3527,
+  "assumptions": "<p>Our frame is representative of our target population.</p>\r\n",
+  "objectives": [
+    "To monitor annual natural recruitment of White Sturgeon in Lake Roosevelt."
+  ],
+  "ownerName": "Joseph Cronrath",
+  "ownerEmail": "joseph.cronrath@spokanetribe.com"
+}

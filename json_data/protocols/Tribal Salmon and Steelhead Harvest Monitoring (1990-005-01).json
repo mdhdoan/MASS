@@ -1,0 +1,14 @@
+{
+  "background": "Monitoring tribal harvest of salmon and steelhead documents thedirect benefit of theUmatilla Basin Restoration Project to tribal members. Harvest monitoringalso helps determinethefinal disposition of adult salmon and steelhead returning to the Umatilla Basin.Tribal harvest of salmon and steelhead is managed to ensure adequate escapement to spawning.Harvest quotas are set depending on the number of adult salmon and steelhead that return each season. Harvest monitoring allows fishing opportunities to be extended, or closed early, depending on catch rates andharvest quotas for each season.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/168",
+  "title": "Tribal Salmon and Steelhead Harvest Monitoring (1990-005-01)",
+  "id": 168,
+  "assumptions": "<p>The stratified-random roving creel harvest monitoring survey design, and expansion algorithms will provide estimates&nbsp;within 20% of actual harvest.&nbsp; During creel interviews,&nbsp;anglers will report harvest and angling effort fairly accurately on average.&nbsp; Fisherman and creel clerks have similar access to the river.</p>\r\n",
+  "objectives": [
+    "Conduct surveys during steelhead and Chinook fisheries according to the stratified-random roving creel design. Record the number of angers, catch information, and angling effort by survey reach.",
+    "Enter and review data. Use automated algorithms to summarize data and estimate tribal harvest of salmon and steelhead.",
+    "Report and disseminate harvest estimates to managers in real time and in annual progress reports."
+  ],
+  "ownerName": "Craig Contor",
+  "ownerEmail": "craigcontor@ctuir.org"
+}

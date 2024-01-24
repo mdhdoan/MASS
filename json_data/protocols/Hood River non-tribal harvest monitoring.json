@@ -1,0 +1,13 @@
+{
+  "background": "This protocol was originally established to determine escapement of adult hatchery and wild spring Chinook salmon and winter and summer steelhead to the mouth of the Hood River. Escapement estimates for the Hood River were originally based on counts of wild and hatchery salmon and steelhead collected at the Powerdale Dam Fish Facility (PDFF) at river mile 4.0. Unaccounted for in these estimates was an active non-tribal fishery in the Hood River below the dam where adult hatchery salmon and steelhead were harvested. By combining PDFF counts with estimates of fish harvested between the mouth and Powerdale Dam, an estimate of total escapement to the mouth of the Hood River was produced.The use of non-tribal harvest estimates has changed with the removal of Powerdale Dam and the associated fish collection facilities as this information is no longer necessary to produce escapement estimates (see method 5371). Currently non-tribal harvest estimates are used primarily to calculate the annual proportion of hatchery originspawners(pHOS; see method 5407)and determine if program defined numerical harvest goals are achieved (HDR|FishPro 2008).",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/197",
+  "title": "Hood River non-tribal harvest monitoring",
+  "id": 197,
+  "assumptions": "<p>We assume that our sampling design allows for a representative sample of the total angling effort, and that weekly summaries limit the potential environmental variation that may influence periodic sample estimates. &nbsp;Geographically we assume that areas of the Hood River that are not available to sample due to private land ownership experience similar catch rates as area that have greater public access, and that angling pressure from the publicly available land&nbsp;far outweighs angling pressure occurring on private land. &nbsp;We also assume Chinook with a fork length of 610 mm&nbsp;are true adults, and any male Chinook where fork length is less or equal to 610 mm&nbsp;is a jack. &nbsp;</p>\r\n",
+  "objectives": [
+    "Combine with escapement estimates to the mouth of the Hood River and adult collection sites within the subbasin (method 5371) to determine the proportion of hatchery origin spawners (method 5407)",
+    "Monitor and evaluate harvest goals established by co-managers (ODFW and CTWSRO) of the Hood River Production Program"
+  ],
+  "ownerName": "Philip Simpson",
+  "ownerEmail": "philip.c.simpson@state.or.us"
+}

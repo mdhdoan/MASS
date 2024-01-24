@@ -1,0 +1,16 @@
+{
+  "background": "NOTE: The details in this protocol have been revised and are now contained in multiple protocols. Full details can now be found in protocol IDs: 788,1853 & 1854; https://www.monitoringmethods.org/Protocol/Details/788; https://www.monitoringmethods.org/Protocol/Details/1853; https://www.monitoringmethods.org/Protocol/Details/1854In an alluvial aquifer system that often in direct communication with surface water, groundwater monitoring is essential to understanding how the hydrologic system functions. Correlating groundwater levels to reaches of high seepage loss in rivers help to understand where and what kind of projects can help restore historic groundwater levels and increase stream flows.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/2032",
+  "title": "Recharge Project & Water Monitoring Interim Protocol",
+  "id": 2032,
+  "assumptions": "<p>see new protocols</p>\r\n",
+  "objectives": [
+    "Prepare groundwater data for use in other studies, including model development, watershed planning, groundwater/surface water interactions and others",
+    "Collect groundwater data at wells with both continuous data loggers and quarterly manual water level measurements.",
+    "Monitor surface water temperatures during the summer, fall and early winter.",
+    "Quantify stream flow, especially with the use of data loggers for analysis of stream trends and status.",
+    "Provide stream flow information to partners for use in decision making."
+  ],
+  "ownerName": "Troy Baker",
+  "ownerEmail": "troy.baker@wwbwc.org"
+}

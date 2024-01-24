@@ -1,0 +1,14 @@
+{
+  "background": "This protocoldescribes field methodsand daily operations for crews to use in the Wadeable National River and Stream Assessments (NRSA) procedure. The NRSA is a probability-based survey of our Nations rivers and streams.This is one of a series of water assessments being conducted by states, tribes, the U.S. EPA, and other partners. In addition to rivers and streams, the water assessments will also focus on coastal waters, lakes, and wetlands in a revolving sequence. The purpose of these assessments is to generate statistically valid reports on the condition of our Nations water resources and identify key stressors to these systems.The protocol includes methods fromNational Rivers and Streams Assessment 2018/19 Field Operations Manual Wadeable Version 1.2 (PDF attached as Supplemental Info) and the National Rivers and Streams Assessment 2018/19 Laboratory Operations Manual (PDF attached as a Form).",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/3555",
+  "title": "EPA National Rivers and Streams Assessment",
+  "id": 3555,
+  "assumptions": null,
+  "objectives": [
+    "Evaluate changes in condition over time",
+    "Help build State and Tribal capacity for monitoring and assessment and promote collaboration across jurisdictional boundaries",
+    "Assess the condition of the Nation\u2019s rivers and streams.\r\n"
+  ],
+  "ownerName": "PNAMP Support",
+  "ownerEmail": "pnamp.mm@gmail.com"
+}

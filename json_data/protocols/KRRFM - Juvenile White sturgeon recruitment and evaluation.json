@@ -1,0 +1,12 @@
+{
+  "background": "Significant wild sturgeon recruitment has not occurred in the Kootenai River since at least 1972. Hatchery production from Kootenai Tribe of Idaho (KTOI) began in 1990. To evaluate the successes of the KTOI hatchery program and to evaluate the effects of mitigative flows provided by Libby Dam beginning in 1991, juvenile sturgeon sampling became a standard operating procedure beginning in 1978 (Partridge 1983). We evaluate survival, growth, disease presence, condition, and movements of hatchery reared juvenile sturgeon. Although significant wild recruitment is lacking, we catch about 10 wild recruits each year. Gill nets are the best method for evaluating significant recruitment.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/547",
+  "title": "KRRFM - Juvenile White sturgeon recruitment and evaluation",
+  "id": 547,
+  "assumptions": "<p>All hatchery released juvenile sturgeon are marked</p>\r\n",
+  "objectives": [
+    "Determine relative abundance, growth, and survival of juvenile Kootenai River White Sturgeon"
+  ],
+  "ownerName": "Ryan Hardy",
+  "ownerEmail": "ryan.hardy@idfg.idaho.gov"
+}

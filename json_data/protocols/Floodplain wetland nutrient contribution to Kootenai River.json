@@ -1,0 +1,12 @@
+{
+  "background": "The Kootenai River floodplain ecosystem has been significantly degraded due to wetland losses and impoundment during the last century causing nutrient deficiencies and reductions in habitat types and complexity. As a result, many fish and wildlife habitats along the river have collapsed to include, but not limited to, Kootenai River white sturgeon, burbot, bull trout, kokanee and other salmonids important to the Kootenai Tribe of Idaho and regional sport-fisheries. In response to declining fisheries and wildlife, the Kootenai Tribe of Idaho (KTOI) has started several mitigation efforts to offset habitat and chemical losses caused by Libby Dam. This protocol and the associated KTOI project (Kootenai River Operational Mitigation and Evaluation, BPA project # 200201100; and Albeni Falls Wildlife Mitigation, BPA project # 199206105), were designed to develop a biological baseline to determine which mitigation measures to implement, and, as a monitoring tool for future mitigation actions, such as in-river habitat improvements, to measure success by. Additionally, these projects (in conjunction with 199404900) currently assist in monitoring a nutrient restoration efforts on the Kootenai River. Thus it is important for this protocol to cover a broad swath of the Kootenai River's food web to include primary, secondary and tertiary productivity, along with important water chemistry parameters, such as dissolved phosphorus and nitrogen. This floodplain monitoring protocol allows habitat managers to adaptively manage the ecosystem's response to floodplain nutrient contributions and other project actions in the basin.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/3473",
+  "title": "Floodplain wetland nutrient contribution to Kootenai River",
+  "id": 3473,
+  "assumptions": "<p>Similar to the 199404900 project, key assumptions of this monitoring protocol are: laboratory results are reliable accurate; that spatially and temporally robust field data collection efforts will provide good long-term estimates of primary, seconday and tertiary biological productivity in the Kootenai River wetylands and floodplains; and, that statistically derived sample size estimates are adequate to characterize various trophic levels.</p>\r\n",
+  "objectives": [
+    "Evaluate potential changes in water quality and nutrients as a result of wetland contributions to the Kootenai River"
+  ],
+  "ownerName": "Scott Soults",
+  "ownerEmail": "soults@kootenai.org"
+}

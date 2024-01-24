@@ -1,0 +1,16 @@
+{
+  "background": "The Columbia River Inter-Tribal Fish Commission's (CRITFC)member tribes utilize rotary screw traps (RSTs) as a collection tool for capturing and marking downstream migrating larval and juvenile Pacific Lamprey. The RSTs are operated by the Yakama Nation (YN), the Umatilla Tribe (CTUIR), and the Warm Springs Tribe (CTWSRO) throughout various portions of the Columbia River Basin. Information obtained from the captured fish are used to estimate population abundance, survival, migration timing, and life history characteristics, which in turn are used to inform restoration effectiveness and status and trends evaluations. The sampling design consists of a combination of comparative performance testing (treatment vs. natural), small-scale experiments, and population status monitoring to address management objectives and answer questions fundamental to Pacific Lampreyin the Columbia River Basins. Data obtained from the operation of RSTs is used to estimate larval/juvenile performance characteristics, provide over-winter survival estimates, and life stage specific survival estimates. They also provide a means to calculate Pacific Lamprey larval and juvenile emigration timing and travel from tributary specific areas to Columbia and Snake River Dams. Population status and trend monitoring of Pacific Lamprey is used for effective population management, assessing effectiveness of restoration actions, viability, and recovery metric monitoring.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/3608",
+  "title": "Pacific Lamprey Juvenile Rotary Screw Trap Data Collection",
+  "id": 3608,
+  "assumptions": "<ol>\r\n\t<li>Juvenile screw traps&nbsp;effectively allows us to test quantifiable hypotheses as they relate to our monitoring and evaluation objectives.</li>\r\n\t<li>Trap efficiency estimates accurately reflect the true proportion of the captured emigrating population and provide valid total abundance estimates.</li>\r\n</ol>\r\n",
+  "objectives": [
+    "Obtain life stage-specific estimates of abundance, survival and life history characteristics.",
+    "Obtain life stage-specific estimates of emigration timing.",
+    "Obtain life stage-specific estimates of travel time from tributary specific areas to Snake and Columbia River dams.",
+    "Use collected data to estimate larval/juvenile-to-adult survival rates.",
+    "Use collected data to estimate performance measures to monitor population status, viability and trends, assess hatchery and habitat restoration effectiveness and progress towards population recovery."
+  ],
+  "ownerName": "Brian McIlraith",
+  "ownerEmail": "bjmcilraith@bpa.gov"
+}

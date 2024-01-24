@@ -1,0 +1,12 @@
+{
+  "background": "Predation is likely a significant source of mortality for subyearling fall Chinook salmon because of their relatively small size and because their main-stem rearing habitats often overlap or are in close proximity to habitats used by piscine predators. Under Project 199102900, we completed an assessment of smallmouth bass predation on subyearling fall Chinook salmon in the Hells Canyon Reach of the Snake River in 1996 and 1997 (Nelle 1999). This study was conducted during years of low abundance of wild subyearlings before the first returns of adults from hatchery supplementation releases. Consequently, we found low levels of predation in the Hells Canyon Reach of the Snake River. We estimated a total loss of 9,282 PIT-tagged hatchery fish and 5,102 wild fish to smallmouth bass predation in 1996 and 1997. Since the time of that study, the subyearling population has increased dramatically due to supplementation via the release of smolts and an increase in natural production from returning hatchery adults. This protocol addresses RPA 55 (Investigate key characteristics of the early life history of Snake River Fall Chinook Salmon in the mainstem Snake, Columbia, and Clearwater rivers) of the 2008 Biological Opinion.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/299",
+  "title": "Smallmouth bass predation of juvenile fall Chinook salmon in Hells Canyon (1991-029-00)",
+  "id": 299,
+  "assumptions": "<p>1. The diets of collected smallmouth bass will be representative of the population at large.</p>\r\n\r\n<p>2. Bias between different predator collection methods will be minimal or can be accounted for in analyses.</p>\r\n\r\n<p>3. Sufficient numbers of smallmouth bass can be marked and recaptured to accurately estimate their abundance.</p>\r\n\r\n<p>4. Abundance estimates can be accurately expanded to the larger study reach.</p>\r\n",
+  "objectives": [
+    "Estimate loss of juvenile fall Chinook salmon to smallmouth bass predation in the Hells Canyon reach of the Snake River"
+  ],
+  "ownerName": "Kenneth Tiffan",
+  "ownerEmail": "ktiffan@usgs.gov"
+}

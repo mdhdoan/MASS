@@ -1,0 +1,15 @@
+{
+  "background": "Salmon carcasses are a source of biological samples (e.g., scales, other tissues) and demographic m (e.g., size, sex ratios, age). With marked fish, carcass recoveries offer a mechanism to support markrecapture pop. assessments. Carcasses are also a means to assess the relative number of wild versus hatchery-based fish in the system. By estimating the numbers of spawning fish in a total redd count, one may determine the number of carcasses that need to be recovered to evaluate key demographic and genetic aspects. The ocean-derived nutrients salmon bring to spawning grounds are significant and play a substantial role in the functioning of a healthy ecosystem. Carcasses of adult hatchery fish are often placed in the upper reaches of the watershed for the nutrients they provide (Stockton 2003; Sanderson et al. 2004). Specific guidance for distributing salmonid carcasses has been developed in British Columbia (http://www.bccf.com/steelhead/pdf/Carcass 2002 Final.pdf) and Washington (http://wdfw.wa.gov/hab/ahg/shrg_t11.pdf). Carcass counts are often done in conjunction with visual counts of spawning fish and redd counts.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/16",
+  "title": "SFPH - Carcass Counts",
+  "id": 16,
+  "assumptions": "It is important to be aware that there are differential recovery rates of carcasses that may bias sampling (e.g., females tend to end up closer to the redds, and lighter males may wash farther outstream [Zhou 2002]). Additionally, small fish may be underrepresented using carcass sampling because they are more easily scavenged and harder to see [Cropp et al. 2002].",
+  "objectives": [
+    "Determine contribution of nutrient amounts to ecosystem.",
+    "Recover carcasses in support of mark\u2013recapture and other demographic studies.",
+    "Determine ratios of hatchery origin and wild fish contributing to spawning populations.",
+    "Determine length, sex, age, phenotypes, and genotypes of spawning fish by collecting a representative sample of target species' carcasses."
+  ],
+  "ownerName": "Cathy Kellon",
+  "ownerEmail": "cathy@ecotrust.org"
+}

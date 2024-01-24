@@ -1,0 +1,16 @@
+{
+  "background": "Maintenance of the life history characteristics of the natural juveniles that are part of the Snake River fall Chinook salmon population/ESU is important for assessing the diversity aspect of the draft recovery plan and assessing actions to recover the population/ESU. Specifically, adding additional years to the existing 1992-2014 data set collected on timing of juvenile presence, size, growth, and dispersal timing into the reservoir provides information for assessing evidence for density-dependent phenotypic change in Chinook Salmon subyearlings native to an 8th order river.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/2057",
+  "title": "Monitoring early life history attributes of Snake River basin fall Chinook salmon",
+  "id": 2057,
+  "assumptions": "<p>(1) Our frame is representative of the target population.</p>\r\n\r\n<p>(2) Changes in timing of fish presence are affected more by changes in fish behavior than by flow-related changes in sampling efficiency.</p>\r\n\r\n<p>(3) Growth of juveniles is not strongly affected by PIT tagging.</p>\r\n\r\n<p>(4) Catch per unit effort reflects changes in abundance to a greater extent than flow-related changes in sampling efficiency.</p>\r\n\r\n<p>(5) Collection probability at Lower Granite Dam is affected more by outflow and spill than by fish size.</p>\r\n",
+  "objectives": [
+    "(5) Document trends in rate of downstream movement of natural juveniles measured between time of riverine rearing and passage at Lower Granite Dam.",
+    "(4) Document trends in passage timing of natural juveniles at Lower Granite Dam.",
+    "(3) Document trends in relative abundance of natural fall Chinook salmon juveniles along the shorelines of the free-flowing Snake River upstream of Lower Granite Reservoir.",
+    "(2) Document trends in growth of parr in length and weight during rearing along the shorelines of the free-flowing Snake River upstream of Lower Granite Reservoir.",
+    "(1) Document trends in time of presence of natural fry and parr along the shorelines of the free-flowing Snake River upstream of Lower Granite Reservoir."
+  ],
+  "ownerName": "Kenneth Tiffan",
+  "ownerEmail": "ktiffan@usgs.gov"
+}

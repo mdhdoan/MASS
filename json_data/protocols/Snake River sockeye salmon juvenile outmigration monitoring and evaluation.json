@@ -1,0 +1,13 @@
+{
+  "background": "Monitoring overwinter survival and out-migration of sockeye salmon smolts plays an important role in restoration efforts. Trapping conducted on the lake outlet streams of Redfish, Alturas, and Pettit lakesprovides information on timing of out-migration and smolt sizes. Out-migrant monitoring provides an opportunity to monitor natural production of sockeye salmon in the lakes and to evaluate the success of different release strategies. This information allows us to make informed decisions regarding the placement of future captive broodstock progeny.Out-migrant trapping also provides overwinter survival information for presmolts (summer and fall direct-release) released into the nursery lakes in July or October the year prior to out-migrant trapping. Hatchery origin sockeye salmon smolts captured at lake out-migrant traps originated primarily from the release of adipose fin-clipped presmolts which arereared at Sawtooth Fish Hatchery (SFH) andthe Eagle Fish Hatchery (EFH).Our ability to capture and tag juvenile sockeye during downstream migration allows us to monitor survival from nursery lakes to the first hydrosystem dam (Lower Granite Dam) on their way to the ocean. This also provides valuable information used to develop adult return forecasts.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/1910",
+  "title": "Snake River sockeye salmon juvenile outmigration monitoring and evaluation",
+  "id": 1910,
+  "assumptions": "<p>Juveniles collected at the basin outmigration traps are representative of the population leaving the basin.</p>\r\n\r\n<p>Differential mortality between marked and unmarked fish does not occur.</p>\r\n",
+  "objectives": [
+    "Estimate the survival and travel time of each release strategy  and rearing location of juveniles emigrating from Sawtooth Basin lakes to Lower Granite Dam.",
+    "Estimate the total outmigration of sockeye salmon smolts from three lakes in the Sawtooth Basin."
+  ],
+  "ownerName": "Mike Peterson",
+  "ownerEmail": "mike.peterson@idfg.idaho.gov"
+}

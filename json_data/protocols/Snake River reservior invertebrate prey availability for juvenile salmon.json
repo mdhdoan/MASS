@@ -1,0 +1,13 @@
+{
+  "background": "Prey quantity and quality in part determine the growth opportunity of rearing juvenile fall Chinook salmon in lower Snake River reservoir habitats. Growth opportunity in part dictates the life history pathway (i.e, ocean-type or reservoir-type) that fish will select. The food web in the lower Snake River has changed in the last 20 years. Species likeNeomysis mercedisand the Siberian prawn (Exopalaemon modestus) were not present 20 years ago when Curet (1993) found that subyearling fall Chinook salmon in Lower Granite Reservoir consumed mainly aquatic insects. Today,Corophiumspp., andNeomysismakes up the majority of subyearling diets at certain times in Lower Granite Reservoir (Tiffan et al. 2014). The quantity and quality (i.e., energy content) of these prey are not known. It is possible that food resources have influenced the shift in subyearling outmigrationtiming that has been observed in recent years. Furthermore, work conducted under this protocol will increase our understanding of the food web that supports juvenile salmon and native fishes in the lower Snake River.One of the recent developments in the Snake River reservoirs is the occurance of harmful algal blooms (HABs) in late summer and early autumn that can affect subyearling fall Chinook salmon indirectly through negaitive impacts on the food web and directly if fish take up harmful toxins into their bodies either through the prey they consume or across their gills. Sampling microcystin toxin levels in fish tissue is a first step in determining whether HABs potentially pose a risk to juvenile fall Chinook salmon residing Lower Granite Reservoir during a harmful algal bloom.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/3741",
+  "title": "Snake River reservior invertebrate prey availability for juvenile salmon",
+  "id": 3741,
+  "assumptions": "<p>Collected taxa are either directly or indirectly important to the production of juvenile salmon.</p>\r\n\r\n<p>Sample sites are representative of the entire reservoir.</p>\r\n\r\n<p>Sampling frequency is sufficient to detect seasonal trends.</p>\r\n",
+  "objectives": [
+    "1. Determine the different types of prey available to juvenile fall Chinook salmon during reservoir rearing and their spatial and seasonal densities.",
+    "2. Determine whether the microcystin toxin produced by harmful algal blooms can accumulate in subyearling fall Chinook salmon, thus creating a mortality risk or reduced performance."
+  ],
+  "ownerName": "Kenneth Tiffan",
+  "ownerEmail": "ktiffan@usgs.gov"
+}

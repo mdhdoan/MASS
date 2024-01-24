@@ -1,0 +1,15 @@
+{
+  "background": "The status and trend of migratory salmonidpopulations can be monitored by tracking the number of outmigratingjuveniles at either the tributary or watershed scale. Monitoring annual numbers ofoutmigratingjuveniles permits the tracking of watershed-wide trajectories in juvenile production, and aids in the assessment of the collective in-stream population response to prospective restoration actions (Bradford et al. 2005). In our streams, we chose to use a rotary screw trap to capture juvenile outmigrants that would provide data on their abundance, size at outmigration, and their timing at outmigration. The rotary screw trap also permits the PIT-tagging of large numbers of juveniles within an outmigrant cohort. PIT-tagged fish are used in trap efficiency trials and in analyses of smolt-to-adult return rates. Since 2013, a single rotary screw trap has been used in each of the Lake and Benewah creek watersheds of the Coeur d'Alenebasin to intercept and obtain demographic information on migratory westslope cutthroat trout.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/3278",
+  "title": "Using a rotary screw trap to generate demographic data for a salmonid population",
+  "id": 3278,
+  "assumptions": "<p>Assumptions are associated with trap efficiency release trials that are used to generate outmigrant abundance:</p>\r\n\r\n<p>1. Release trial marked fish remain alive until they are available to be recaptured.</p>\r\n\r\n<p>2. Marked fish retain their marks and are observable upon recapture.</p>\r\n\r\n<p>3. Marked and unmarked fish are captured at similar rates.</p>\r\n\r\n<p>4. Marked fish mix with unmarked fish prior to recapture.</p>\r\n\r\n<p>The following assumptions are associated with trapped juvenile outmigrants&nbsp;in general:</p>\r\n\r\n<p>1. Captured fish are representative (e.g., size, timing) of the population of interest.</p>\r\n",
+  "objectives": [
+    "PIT-tag juvenile outmigrating salmonids to enable prospective return rate analyses.",
+    "Examine and track changes in the distribution of outmigration times for juvenile salmonids at the tributary or watershed scale. ",
+    "Examine and track the size of outmigrating juvenile salmonids at the tributary or watershed scale.",
+    "Estimate the annual abundance of outmigrating juvenile salmonids within a tributary or watershed.\r\n"
+  ],
+  "ownerName": "Jon Firehammer",
+  "ownerEmail": "jfirehammer@cdatribe-nsn.gov"
+}

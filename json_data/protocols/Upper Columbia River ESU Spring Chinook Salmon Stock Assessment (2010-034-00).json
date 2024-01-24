@@ -1,0 +1,14 @@
+{
+  "background": "Upper Columbia River spring Chinook Salmon stock assessment is intended to estimate the abundance, origin, and age composition of returning Upper Columbia River spring Chinook Salmon. Stock assesment sampling and PIT tagging will enable monitoring of viable salmonid population parameters, and provide data to multiplemonitoring and evaluation programs. Specifically, Upper Columbia River spring Chinook Salmon stock assessment activities will provide the opportunity to:Conduct status and trend monitoring in the Upper Columbia River ESUPIT tag a representative sample of UpperColumbia River spring Chinook Salmon to be used in PIT tag based escapement estimatesSet regulations for selective fisheries aimed at reducing the abundance of hatchery fish and the spawning grounds",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/3627",
+  "title": "Upper Columbia River ESU Spring Chinook Salmon Stock Assessment (2010-034-00)",
+  "id": 3627,
+  "assumptions": "<p>Operation of the Off Ladder Adult Fish Trap (OLAFT) at Priest Rapids Dam for equal intervals throughout the entirety of the run provides the opportunity to tag a sample representative of the Upper Columbia River ESU steelhead run-at-large.</p>\r\n",
+  "objectives": [
+    "Determine the origin of all spring Chinook Salmon sampled at Priest Rapids Dam Off-Ladder Adult Fish Trap.",
+    "Determine the age of all spring Chinook Salmon sampled at Priest Rapids Dam Off-Ladder Adult Fish Trap.",
+    "PIT tag a representative sample of returning Upper Columbia River ESU spring Chinook Salmon. PIT tag detection data will be used to generate PIT tag-based escapement estimates."
+  ],
+  "ownerName": "Ben Truscott",
+  "ownerEmail": "ben.truscott@dfw.wa.gov"
+}

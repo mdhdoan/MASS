@@ -1,0 +1,12 @@
+{
+  "background": "The Department of Water Resources is mandated to collect real-time (e.g. 15-min interval) water quality data at key sites in the the San Francisco Bay Delta in compliance with Water Resources Decision D-1641. This procedure explains how to collect real time water quality monitoring data using an Xylem EXO sonde.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/3705",
+  "title": "DWR Real time water quality data collection",
+  "id": 3705,
+  "assumptions": null,
+  "objectives": [
+    "Calibrate, deploy, retrieve, quality assure, and report real time water quality data."
+  ],
+  "ownerName": "John Franco Saraceno",
+  "ownerEmail": "JOHNFRANCO.SARACENO@WATER.CA.GOV"
+}

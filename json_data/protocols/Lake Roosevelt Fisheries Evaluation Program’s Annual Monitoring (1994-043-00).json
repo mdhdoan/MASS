@@ -1,0 +1,14 @@
+{
+  "background": "The completion of Grand Coulee Dam in 1941 altered the natural ecology of the upper Columbia River by blocking waters historically used for reproduction and rearing by anadromous fish. Consequently, the Lake Roosevelt Artificial Production Program (LRAPP), formed in 1988, began stocking Rainbow Trout and kokanee as partial mitigation for the loss of anadromous fishes. The LRAPP includes the Spokane Tribal Hatchery, Washington State Department of Fish and Wildlifes Sherman Creek Hatchery, and the Lake Roosevelt Volunteer Net Pen Project, and has reestablished a recreational and subsistence mitigation fishery. The Lake Roosevelt Fisheries Evaluation Program (LRFEP) is a multi-agency collaborative comprised of the Spokane Tribe of Indians, Colville Confederated Tribes, and Washington Department of Fish and Wildlife. The primary focus of the LRFEP is to evaluate the performance of fishes stocked by the LRAPP. Additional goals of the LRFEP include assessing the impacts of stocked hatchery fish on resident fish populations, standardized reservoir-wide annual fisheries sampling in continuation of long-term monitoring efforts, and characterization of the impacts of hydro-operations on the fishery and lower trophic levels.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/583",
+  "title": "Lake Roosevelt Fisheries Evaluation Program\u2019s Annual Monitoring (1994-043-00)",
+  "id": 583,
+  "assumptions": "<p>1) The number of fish captured is proportional to the population abundance. 2) Catchability is constant throughout the sampling period. 3) Every individual within a stock has the same probability of being captured. 4) Gear is properly calibrated and functionally properly. 5) Age composition of samples is representative of the age composition of the population.</p>\r\n",
+  "objectives": [
+    "Collection of morphometric indices, calculation of catch-per-unit-effort and condition, and assessment of species diversity through boat electrofishing, fyke net, gill net, and beach seine surveys",
+    "Evaluate ecological impacts, size and age structure, predator/prey relationships, and diet of target fish species (e. g. native, introduced piscivorours, hatchery-stocked, etc.) in Lake Roosevelt.",
+    "Compare and contrast current and historical data to investigate changes in fish populations relative to hydro-project operations (e.g. maximum reservoir draw down, water retention time)."
+  ],
+  "ownerName": "Justin Seibert",
+  "ownerEmail": "justin.seibert@spokanetribe.com"
+}

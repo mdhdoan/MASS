@@ -1,0 +1,12 @@
+{
+  "background": "This protocol was established to evaluate trends in the timing and extend of spawning by Kootenai River white sturgeon. This protocol includes evaluation of spawning events by placing substrate mats in suspected spawning sites and evaluating egg development throughout the season. Methods used in this protocol have been in use since 1996 by Paragamian. We hope to answer whether changes in physical habit proplosed by KTOI (Habitat Master Plan no. wt141243) will change spawning locations or timing and reproductive success.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/546",
+  "title": "KRRFM - White sturgeon spawning evaluation",
+  "id": 546,
+  "assumptions": "<p>River scale sampling issues will obscure results.</p>\r\n",
+  "objectives": [
+    "Restore natural recruitment of Kootenai River white sturgeon"
+  ],
+  "ownerName": "Ryan Hardy",
+  "ownerEmail": "ryan.hardy@idfg.idaho.gov"
+}

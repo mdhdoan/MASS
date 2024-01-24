@@ -1,0 +1,13 @@
+{
+  "background": "Juveniles from the historical populations of Snake River basin fall Chinook salmon were abundant, diverse, and spatially distributed. However, these measures of status declined from the late 19th century to 1992 due to anthropogenic activity. The increase in abundance and population distribution after ESA listing in 1992 restored some of the juvenile life history diversity based on results of mark recapture studies involving tagging natural fish in natal spawning areas and recapturing them at Lower Granite Damthe first dam passed by juveniles en route to the sea. However, the tagging data do not fully represent the natural population due to technological limitations. To compliment mark-recapture analyses and move the state of knowledge forward, annual estimates of passage abundance for the population of natural-origin subyearlings at Lower Granite Dam are needed. This protocol describes such estimates and the accompanying analyses.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/298",
+  "title": "Understanding variation in passage abundance of natural Snake River basin fall Chinook salmon juveniles",
+  "id": 298,
+  "assumptions": "<p>We assume that error in the model used to estimate collection probability at Lower Granite Dam is equal across seasons and fish sizes. We assume that estimates of the annual number of hatchery fish released are accurate.</p>\r\n",
+  "objectives": [
+    "Estimate passage abundance of natural-origin fall Chinook salmon subyearlings.",
+    "Increase the understanding of how the numerical trends in passage abundance were associated with anthropogenic, biological, and environmental change."
+  ],
+  "ownerName": "Kenneth Tiffan",
+  "ownerEmail": "ktiffan@usgs.gov"
+}

@@ -1,0 +1,14 @@
+{
+  "background": "Many Eastern Washington lakes are highly stratified in the summer months, with water temperatures in the epilimnion exceeding the tolerance levels for salmonids and the hypolimnion becoming anoxic causing a habitat squeeze (Christensen and Moore2008). North and South Twin Lakes on the Colville Reservation suffer this problem which severely limits the trout fishery in these lakes. In 2008 a hypolimnetic oxygenation system was installed in North Twin Lake and has been in operation since 2009. The purpose of this system was to oxygenate the hypolimnion and make it available to trout. The purpose of this protocol is to evaluate the effectiveness of hypolimnetic oxygenation as a tool to improve the fishery in stratified lakes.In order to answer these questions North Twin is being oxygenated and South Twin is being used as a control.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/2225",
+  "title": "Monitoring Physical and Biological Effects of Oxygenation in Twin Lakes",
+  "id": 2225,
+  "assumptions": "<p>North and South Twin Lakes are sufficiently similar so that South Twin can act as a reference site.&nbsp;</p>\r\n",
+  "objectives": [
+    "Determine if oxygenation in North Twin Lake has resulted in physical or biological changes relative to unoxygenated South Twin Lake. ",
+    "Determine daphnia and copepod abundance and distribution in Twin Lakes.",
+    "Assess water quality in Twin Lakes."
+  ],
+  "ownerName": "Bryan Jones",
+  "ownerEmail": "bryan.jones@colvilletribes.com"
+}

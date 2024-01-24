@@ -1,0 +1,12 @@
+{
+  "background": "On December 14, 2018, the State of Oregon, the State of Washington, the Nez Perce Tribe, Bonneville Power Administration, Bureau of Reclamation and the Corps entered into the 2019-2021 Spill Operation Agreement, referred to as the flexible spill agreement. The Corps agreed to increase spill to improve juvenile salmonid migration during times of low hydropower demand. For the 2020-2021 spring spill, the flexible spill agreement calls for increasing the total dissolved gas (TDG) cap to 125 percent in the tailraces of dams in the Columbia and Snake rivers. This change to the water quality standard for TDG requires the monitoring of native, resident fishes for incidence of gas bubble trauma (GBT) resulting from increased TDG.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/3613",
+  "title": "Gas Bubble Trauma Monitoring in Resident Fish",
+  "id": 3613,
+  "assumptions": null,
+  "objectives": [
+    "Measure the incidence and severity of GBT in native, resident fishes rearing immediately downstream of mainstem Columbia and Snake River dams during the spring spill period."
+  ],
+  "ownerName": "Kenneth Tiffan",
+  "ownerEmail": "ktiffan@usgs.gov"
+}

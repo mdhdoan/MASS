@@ -1,0 +1,12 @@
+{
+  "background": "The Wind River has a TMDL for temperature, a limiting factor for steelhead spawning, rearing, and migration. To help assess changes in this parameter, continuous temperature monitoring is essential. Underwood Conservation District (UCD) will work with partnering agencies to continue to monitor temperature throughout the watershed, utilizing UCD's standard operating procedures and water quality database. UCD supports operation and maintenance of 6thermographs in the Wind River watershed. USGS has managed an additional 11 sites as well, and both agencies coordinate placement of thermographs to best capture watershed conditions while avoiding duplication. Data from this effort will inform and guide habitat restoration work.Wind River Temp Logger LocationsWind RiverMainstem@ baseWR-1Temp.45.727589-121.793569Wind RiverLittle Wind@ baseWR-2Temp.45.727589-121.793569Wind RiverMainstemBelow PCT bridgeWR-5aTemp.45.82027-121.91581Wind RiverMainstemNear sport fishing boundary on Ian Js pit tag stationWR-5Temp.45.86367-121.96931Wind RiverTrapper Creek@ baseWR-5bTemp.45.87989-121.98194Wind RiverMainstemUpper WindWR-8Temp.45.90582-121.95005",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/3614",
+  "title": "Underwood Conservation District Continuous Temperature Monitoring 2021 update",
+  "id": 3614,
+  "assumptions": "<div>Continuous in-stream monitoring of water temperature allows for the analysis of daily and</div>\r\n\r\n<div>seasonal temperature fluctuations. By placing thermographs throughout a river system, it allows</div>\r\n\r\n<div>for spatial analysis of temperature differences.</div>\r\n",
+  "objectives": [
+    "Collect continuous in-stream monitoring of water temperature in the Wind River basin.  Submit data to Dept. of Ecology EIM database for future habitat and trend analysis."
+  ],
+  "ownerName": "Carly Lemon",
+  "ownerEmail": "carly@ucdwa.org"
+}

@@ -1,0 +1,14 @@
+{
+  "background": "The status of migratory salmonidpopulations are monitored by generating annual estimates of the number of adult spawnersat either the tributary orwatershed scale. It is imperative to generate reliable estimates ofspawners given that one of the primary objectives of recovery efforts is to augment sub-populations of migratory adults that wouldsupport a persistent meta-population structure at the watershed scale andultimately provide a sustainable fishery. Survival rates of salmonidsduring their residence time outside their spawning and early life-history rearing environment, a key vital rate in influencing population trajectories(Stapp and Hayward 2002), are also estimated to understand whether processes in adult rearing environments (e.g., larger streams or lakes)are limiting adult production. Fixed weir migrant traps have been employed as a sampling technique across projects of the Coeur d'Alene Tribe's fisheries program to generate this data. In the Hangman Creek watershed, a single fixed weir is located on each of Indian and Nehchen creeks to sample migratory redbandtrout populations that utilize larger stream habitats as adult rearing environments. In the Coeur d'Alene basin, a single fixed weir is located on each of Lake and Benewah creeks to sample migratorywestslope cutthroattrout populations that utilize Coeur d'AleneLake as an adult rearing environment. This protocol is intended to be used for each of these two projects.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/536",
+  "title": "Generating demographic information for a salmonid population using data collected at a fixed weir trap",
+  "id": 536,
+  "assumptions": "<p>Individual fish sampled at the migrant trap represent the population of interest at the tributary or watershed scale.&nbsp;</p>\r\n",
+  "objectives": [
+    "Generate annual abundance estimates for migratory adult salmonids at the tributary or watershed scale.",
+    "Generate annual estimates of juvenile to adult return rates for migratory salmonids at the tributary or watershed scale.",
+    "Annually examine life-history attributes of migratory salmonids (e.g. migration timing, sex ratio, mean size of fish)."
+  ],
+  "ownerName": "Jon Firehammer",
+  "ownerEmail": "jfirehammer@cdatribe-nsn.gov"
+}

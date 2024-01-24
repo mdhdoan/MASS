@@ -1,0 +1,12 @@
+{
+  "background": "High summertime water temperatures are a limiting factor for populations of native fish in the Walla Walla River and several of its tributaries. The Walla Walla River is 303(d) listed for temperature in both Oregon and Washington. Several tributaries are listed for temperature as well. Temperature impairment is of particular concern because the watershed is used by threatened populations of bull trout, summer steelhead, and culturally significant reintroduced spring Chinook salmon. Walla Walla Basin Watershed Council has collected seasonal temperature data in the Walla Walla River and its tributaries for almost 20 years with funding provided by the Oregon Watershed Enhancement Board, Oregon Department of Environmental Quality, and BPA. This protocol describes the continuation of thateffort, which is particularly important in light of the notable increases in peak seasonal temperatures following a 100+ year flow event in the Walla Walla River in 2020 (WWBWC, 2022). Additional data are needed to understand flood impacts, guide restoration efforts, and measure outcomes.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/3562",
+  "title": "Surface Water Temperature Monitoring",
+  "id": 3562,
+  "assumptions": "<p>1 - Temperature recorded by the data logger is representative of the water in that reach of the stream. 2 - Temperature data loggers have been compared to a NIST thermometer. 3 - Temperature measurements are taken every 30 minutes therefore short temperature spikes may not be captured.</p>\r\n",
+  "objectives": [
+    "Use data loggers to collect seasonal water temperature data, at 15-minute intervals, from May-November at 27 locations in the Walla Walla Basin.  "
+  ],
+  "ownerName": "Troy Baker",
+  "ownerEmail": "troy.baker@wwbwc.org"
+}

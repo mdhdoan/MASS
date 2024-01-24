@@ -1,0 +1,15 @@
+{
+  "background": "Point-count monitoring is a common way to monitor bird populations with a relatively small amount of work compared to other methods. Itis a quantitative assessment, involving repeated measures at regular intervals at fixed locations to reveal change. It is characterized by tallying all birds observed at a fixed location during specific, timed, repeated observation periods. It provides the relative abundance of all bird species and, over time, can detect trends in abundance. This protocol uses a habitat-based approach to stratify points by vegetation type so bird abundance can be more closely aligned by community structure and/or composition.Such work can be very meaningful when pooled with a larger body of compatible data.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/1974",
+  "title": "Breeding Bird Point Count Monitoring on the Precious Lands Wildlife Management Area",
+  "id": 1974,
+  "assumptions": "<p>1) Personnel are adequately trained to identify all species in area by visual and auditory means.</p>\r\n\r\n<p>2) A constant fraction of individuals present in an area is counted over the timescale and location of interest; i.e. detection probabilities remain consistent across time and space.</p>\r\n\r\n<p>3) The total number of birds counted is consistently and linearly correlated with the actual density of the population.</p>\r\n\r\n<p>4) Birds are not knowingly double-counted in any one count period at a count station.</p>\r\n\r\n<p>5) The population remains demographically closed throughout the survey period.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "objectives": [
+    "Develop habitat management guidelines to maintain, restore, and enhance bird populations.",
+    "Identify how management activities influence distribution and abundance of species.",
+    "Examine relationship between habitat characteristics and species abundance patterns.",
+    "Identify bird species and populations that are increasing, decreasing, or stable."
+  ],
+  "ownerName": "Angela Sondenaa",
+  "ownerEmail": "angelas@nezperce.org"
+}

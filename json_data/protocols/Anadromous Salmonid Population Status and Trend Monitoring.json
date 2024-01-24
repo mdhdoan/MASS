@@ -1,0 +1,14 @@
+{
+  "background": "The ability to estimate both out-migrant abundance and adult returns allows for the calculation of key performance metrics such as smolt-to-adult return rate and recruits-per-spawner. These metrics and indicators can be used to determine population status, evaluate the effectiveness of management actions, and assess recovery of a population.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/3647",
+  "title": "Anadromous Salmonid Population Status and Trend Monitoring",
+  "id": 3647,
+  "assumptions": null,
+  "objectives": [
+    "Provide long-term time series of consistently derived metrics to inform managers on population response to recovery strategies and environmental stressors (i.e., climate change, water diversion, etc.)",
+    "Report population status and trends at regular intervals.",
+    "Calculate key performance metrics for monitoring the status and trends of an anadromous salmonid population using fish in and fish out data."
+  ],
+  "ownerName": "Josh Hanson",
+  "ownerEmail": "Josh.hanson@odfw.oregon.gov"
+}

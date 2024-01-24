@@ -1,0 +1,15 @@
+{
+  "background": "Precocious male maturation occurs in spring run Chinook SalmonOncorhynchus tshawytscha, both as subyearlings (precocial parr) and as age 1+ juveniles (minijacks) (Thorpe 1994; Sloat et al. 2014). While rates of precocious maturation in wild stocks is thought to be very low (less than 5%), the proportion of juvenile males maturing as minijacks in hatchery populations has been observed to be as high as 80% (Harstad et al. 2014). Minijacks apparently will initiate out-migration along with the other non-maturing smolts, however they do not continue to the ocean for overwintering, nor do they return to their natal spawning areas and participate in natural production (Zimmerman et al. 2003; Beckman and Larsen 2005). Production of minijacks therefore, represents an economic and management loss to a hatchery programs whose objective(s) is to produce large adult size fish for harvest fisheries and/or adults to supplement the naturally spawning population.Studies indicate that exceeding a threshold level for growth and lipid content during the fall one year following egg fertilization, will induce hatchery-reared juvenile male Chinook Salmon to precociously initiate maturation and become fully mature minijacks by the following spawning season, 5-6 months following smolt release (Larsen et al. 2006; Mangel and Satterthwaite 2008; Spanenberg et al. 2014; Good and Davidson 2016). However, beyond environmental factors that may alter growth rate and adiposity of the juveniles, there is also evidence for genetic-based factors that influence precocious male maturation rate, apparent both among different stocks, as well as among individuals within stocks (Debes and Hutchings 2104; Harstad et al. 2014; Spanenberg et al. 2015).",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/3395",
+  "title": "Evaluation of factors affecting minijack rate among hatchery-reared spring Chinook Salmon",
+  "id": 3395,
+  "assumptions": "<p>Inferences regarding precocious male maturation from these studies conducted with this spring Chinook Salmon stock can be generalized to other Chinook Salmon stocks, as to other salmonid species.</p>\r\n",
+  "objectives": [
+    "Determine the effect of broodstock age, within sexes, on minijack rate among male hatchery reared spring Chinook Salmon smolts.",
+    "Quantify minijack rates among male spring Chinook Salmon smolts sired by age 3 versus age 4 broodstock, and correlate the rates to age structure, size, sex ratio, and SARs of returning adult progeny.",
+    "Quantify the timing and magnitude of growth divergence of non-maturing versus maturing minijack hatchery reared juvenile male spring Chinook Salmon.",
+    "Determine the effect of dietary supplementation with tetradecylthioacetic acid (TTA) on minijack rate among male hatchery reared spring Chinook Salmon smolts."
+  ],
+  "ownerName": "Peter F. Galbreath",
+  "ownerEmail": "galp@critfc.org"
+}

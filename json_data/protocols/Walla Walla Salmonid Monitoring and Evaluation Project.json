@@ -1,0 +1,21 @@
+{
+  "background": "The Walla Walla Basin Salmonid Monitoring and Evaluation Project was transitioned in 2007 to a collaborative effort between the CTUIR, WDFW, and a Tribal accord with BPA. In January 2007, BPA requested of this project an amended collaborative proposal; one that emphasized salmonid status and trend monitoring focused primarily on adult abundance and population productivity. Tribal and state partners agreed to collaborate on the project proposal, budget, statement of work and annual report; but, retained their individual contracts with BPA. Currently, CTUIR focuses monitoring efforts in Mill Creek, South Fork Walla Walla and mainstem Walla Walla rivers. Similar work in the Touchet River drainage is currently conducted independently by WDFWthrough a separate project.The Walla Walla Subbasin supports steelhead and bull trout that are both listed as threatened under the Endangered Species Act , and a reintroduced population of spring Chinook. These populations are depressed relative to historic levels. Prior to the start of this project, the subbasin co-managers did not have adequate information to answer specific management questions regarding Viable Salmonid Population parameters of abundance, productivity, spatial structure, and diversity.Our goal is to provide ecological information to decision makers in support of adaptive management for ESA recovery, population restoration, conservation, and preservation of cultural, social, and economic salmonid resources. We do this by emphasizing monitoring of population status and trends to estimate adults in and juveniles out as a measure of salmonid population viability within the subbasin.The management questions addressed by this project: Is the abundance of adult fish trending towards restoration goals for each population? Is the population productivity of fish trending towards restoration goals for each population? What is the spatial structure of each population? What are the major life history strategies for each population? What is the population viability?",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/107",
+  "title": "Walla Walla Salmonid Monitoring and Evaluation Project",
+  "id": 107,
+  "assumptions": "<p>Our frame is representative such that we can detect a 20% change in status of our target population with a coefficient of variation of 20%.</p>\r\n",
+  "objectives": [
+    "Estimate natural-origin steelhead and spring Chinook smolt abundances from mark-recapture efforts at rotary screw traps located at upper-Mill Creek and upper-Walla Walla River.",
+    "Estimate smolt migration survival from release to downstream locations for hatchery- and natural-origin Chinook and natural-origin steelhead PIT-tagged from Mill Creek and upper Walla Walla River.",
+    "Estimate spawner abundance and adult escapement of wild and natural steelhead, Chinook and bull trout from video monitoring of the fish ladders at Nursery Bridge Dam in the upper Walla Walla River.",
+    "Collaborate with the United States Geological Survey (USGS) with their monitoring of stream flow and water temperatures in the basin.",
+    "Perform fish salvage operations at diversion dams, irrigation canals, hatchery intakes, construction projects, etc. as requested by the CTUIR Fish Passage Project and/or Irrigation Districts.",
+    "Estimate the age structure of returning adult spring Chinook by collecting and analyzing body scales from carcasses encountered during Mill Creek, S. Fork Walla Walla and main-stem Walla Walla surveys",
+    "Estimate stray rates for cohorts of hatchery-origin spring Chinook released from the South Fork Walla Walla River. ",
+    "Conduct spring Chinook spawning ground surveys in Mill Creek, South Fork Walla Walla, and main-stem Walla Walla rivers to characterize the spatial distribution of adult spawners in the system.",
+    "Estimate parent-progeny ratios (i.e. adult-to-adult return ratios) for annual cohorts of hatchery- and natural-origin Chinook, and natural-origin steelhead from Mill Creek and upper Walla Walla River.",
+    "Estimate smolt-to-adult return rates of hatchery-origin and natural-origin Chinook, and natural-origin steelhead smolt cohorts PIT-tagged from Mill Creek and the upper Walla Walla River."
+  ],
+  "ownerName": "Travis  Olsen",
+  "ownerEmail": "travisolsen@ctuir.org"
+}

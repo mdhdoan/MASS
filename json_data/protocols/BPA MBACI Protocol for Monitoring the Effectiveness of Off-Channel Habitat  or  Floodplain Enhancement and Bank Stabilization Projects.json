@@ -1,0 +1,24 @@
+{
+  "background": "The purpose of this protocol is to combine two existing protocols under BPA's Action Effectiveness Monitoring Program: Protocol for Monitoring Off-Channel/Floodplain Projects (ID: 2231) and Protocol for Monitoring Bank Stabilization Projects (ID: 2232). A combined protocol facilitates the monitoring of restoration projects that have both floodplain and bank stabilization project actions. Please refer to the background sections of each individual protocol for detailed information on the background and rationale of each, since space is limited here.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/2236",
+  "title": "BPA MBACI Protocol for Monitoring the Effectiveness of Off-Channel Habitat / Floodplain Enhancement and Bank Stabilization Projects",
+  "id": 2236,
+  "assumptions": "<p>Access to impact and suitable control reaches will be provided prior to project implementation and for a period of ten years following project completion.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "objectives": [
+    "Determine the pre-project topography of the floodplain and channel bed (Year -2 and -1)",
+    "Map habitat area by habitat type (turbulent, non-turbulent, edge) (Years -2, -1, 1, 3, 5, and 10)",
+    "Determine the proportion of slow water habitat at various flows through mapping or modeling (<0.15m/s (Beechie 2005) (Years -2, -1, 1, 3, 5, and 10)",
+    "Determine the value of the River Complexity Index (Brown 2002), braid-channel ratio, and sinuosity (Years -2, -1, 1, 3, 5, and 10)",
+    "Determine the ratio of floodplain area to channel area (Years -2, -1, 1, 3, 5, and 10)",
+    "Determine the variation (standard deviation) in residual depth and channel size (Years -2, -1, 1, 3, 5, and 10)",
+    "Determine inundated floodplain area (length2)/channel length (Years -2, -1, 1, 3, 5, and 10)",
+    "Determine the proportion of each habitat type relative to total area (Years -2, -1, 1, 3, 5, and 10)",
+    "Determine the channel migration rate (between survey years, or with aerial photos) (Years -2, -1, 1, 3, 5, and 10)",
+    "Determine secondary production (benthic macroinvertebrates) by habitat type (Years -2, -1, 1, 3, 5, and 10)",
+    "Determine the relative fish abundance by habitat, season, species and life stage (Years -2, -1, 1, 3, 5, and 10)",
+    "Determine the presence of fish species by season (Years -2, -1, 1, 3, 5, and 10) ",
+    "Develop predictive model for inundation of off-channel habitat (Years 1, 3, 5, and 10)"
+  ],
+  "ownerName": "Colin Riordan",
+  "ownerEmail": "colin@naturaldes.com"
+}

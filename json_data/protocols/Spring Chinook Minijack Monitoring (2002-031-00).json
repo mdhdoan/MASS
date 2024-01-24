@@ -1,0 +1,15 @@
+{
+  "background": "Studies over the past decade have demonstrated that many Chinook salmon hatchery programs throughout the Columbia River basin produce high rates of early male maturation at age-2 (a.k.a. minijacks). This protocol is used to determine if a male Chinook salmon has initiated the maturation process. It is used to conduct pre-release monitoring of hatchery populations for rates of precocious male maturation (i.e. minijack production). The method involves collecting plasma from fish and analyzing it by ELISA for the androgen 11-ketotestosterone. 11-KT is instrumental in initiating the process of spermatogenesis. 11-KT levels can then be examined via a frequency distribution of log-transformed levels. 11-KTlevels measured above and below a predetermined threshold determine which fish have or have not initiated maturation for the following fall as a minijack. This threshold has been confirmed through measurement of gonadosomatic index (testes size relative to body size) and most importantly histological analysis of cellular differentiation of testicular material. Furthermore, once fish initiate the maturation process the process is essentially irreversible. High rates ofminijackmaturation averaging 41% of all males have been observed in the Yakima hatchery spring Chinook salmon populationover more than 10 years of monitoring. In more recent years we have extended this monitoring effort to a series of other spring and summer Chinook salmon hatchery facilities throughout the Columbia and Snake River basins.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/305",
+  "title": "Spring Chinook Minijack Monitoring (2002-031-00)",
+  "id": 305,
+  "assumptions": "<p>The key assumption of this protocol is that the 11-KT ELISA is conducted according to standard published biochemical techniques.</p>\r\n",
+  "objectives": [
+    "Minijack rate estimate using plasma 11-KT",
+    "Measure body weight of individual spring Chinook prior to release",
+    "Measure fork length of individual spring Chinook prior to release",
+    "Determine Fish sex"
+  ],
+  "ownerName": "Donald Larsen",
+  "ownerEmail": "don.larsen@noaa.gov"
+}

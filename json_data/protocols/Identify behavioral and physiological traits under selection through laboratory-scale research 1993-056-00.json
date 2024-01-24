@@ -1,0 +1,15 @@
+{
+  "background": "The required transition to local steelhead broodstock at Winthrop National Fish Hatchery requires hatchery reform actions that i) can accommodate a later return and spawn timing, ii) induce proper smoltification, iii) promote high survival, and iv) maintain natural levels of fitness in the hatchery stock. The later spawn timing and cold hatchery culture temperatures preclude raising a yearling smolt from locally collected broodstock. Steelhead in Pacific Northwest hatcheries are typically reared for release as 1-year-old smolts, rather than the 2and 3-year-old smolt life history patterns found in nature. High growth rates associated with accelerated hatchery rearing to a 1-year-old smolt life history may contribute to maladaptive behavioral traits and reduced post-release survival, and may constitute a primary mechanism leading to reduced fitness in hatchery fish. Rearing steelhead to smoltification at age 2 may increase survival and alleviate fitness loss. To do so, we will evaluate genetic, physiological, behavioral and life history impacts of rearing 1- vs 2-year-old steelhead smolts. In our laboratory scale research we are comparing 1- and 2-year steelhead smolts sourced from a common broodstock consisting of steelhead returning to the Methow River. The broodstock is a combination of returning hatchery fish and wild fish.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/707",
+  "title": "Identify behavioral and physiological traits under selection through laboratory-scale research 1993-056-00",
+  "id": 707,
+  "assumptions": "<p>The broodstock used to produce yearling and two-year old smolts are from a common genetic population. Any differences in the growth, survival, and behavior of the 1- and 2-year old steelhead smolts is due to rearing conditions in the laboratory/hatchery.&nbsp; One- and two-year smolts experience a common rearing environment with the exception of ration and duration of rearing.&nbsp; Responses measured in the laboratory populations of steelhead are equivalent and scalable to the hatchery populations of steelhead.</p>\r\n",
+  "objectives": [
+    "Monitor seawater growth and maturation of 1- and 2-year old hatchery steelhead.",
+    "Assess smoltification of 1-and 2-year old hatchery steelhead with seawater challenge and swimming assay.",
+    "Measure behavior of steelhead parr under 1- and 2-year old rearing strategies.",
+    "Measure in-culture growth, survival, smoltification, and maturation of hatchery steelhead under 1- and 2-year rearing strategies."
+  ],
+  "ownerName": "Chris Tatara",
+  "ownerEmail": "chris.p.tatara@noaa.gov"
+}

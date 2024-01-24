@@ -1,0 +1,14 @@
+{
+  "background": "The seven water quality attributes identified by the UCMS (Hillman 2006) to be continuously monitored include temperature (weekly and daily maximums), turbidity, conductivity, pH, and dissolved oxygen (DO) at monitoring sites located at the downstream end of the watersheds within the Wenatchee basin, commonly where rotary screw traps are located.The UCMS (Hillman 2006) also calls for seasonal measurements of dissolved and particulate forms of nitrogen and phosphorous, achieved by collecting monthly grab samples at these same sites. Methods for continuous monitoring of attributes at integrator sites follow the manufacturers guidelines for deployment and calibration, and are co-located as close as possible to flow gauges operated by the United States Geological Service (USGS) or Washington State Department of Ecology (WDOE). Coupling water quality monitoring stations with associated flow gauges allows investigators to assess the effect of stream flow upon the water quality attributes.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/55",
+  "title": "ISEMP Field Manual of Scientific Protocols for Water Quality Surveys within the Upper Columbia Monitoring Strategy",
+  "id": 55,
+  "assumptions": "<p>Monitoring covers the time period of biological interest e.g., spawning and rearing periods</p>\r\n\r\n<p>The monitoring period encompasses expected low flows and the highest air temperatures for the Wenatchee and Entiat River subbasins (early July to mid-Sept).&nbsp;&nbsp;</p>\r\n",
+  "objectives": [
+    "To standardize/document water quality monitoring procedures in the Upper Columbia Basin\r\nDetermine the source and timing of elevated turbidity levels in the Wenatchee River subbasin\r\n",
+    "Address Clean Water Act exceedences in pH and continuously monitor temperature at selected sites as part of effectiveness monitoring in the Entiat River subbasin.",
+    "Determine the status and trend of water quality metrics in the Wenatchee and Entiat River subbasins\r\n\r\n"
+  ],
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org"
+}

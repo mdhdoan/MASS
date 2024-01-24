@@ -1,0 +1,14 @@
+{
+  "background": "The CRITFC Member Tribes utilize radio telemetry to gather information from returning anadromous adult Pacific Lamprey. Information is used compare the relative passage performance of adult Pacific Lamprey at mainstem and tributary barriers with the focus on adult distribution (upstreamand downstream of barriers). Data are utilized for determination of abundance, survival and life history characteristics, restoration effectiveness and status and trends evaluations. Population status and trend monitoring of natural and hatchery origin fish is used for effective population management, assessing effectiveness of restoration actions, viability, and recovery metric monitoring.Please see protocols #2250 for data anlaysis methods describing the calculation of metrics and indicators.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/3609",
+  "title": "Pacific Lamprey Adult Migration Monitoring Radio Telemetry Data Collection",
+  "id": 3609,
+  "assumptions": null,
+  "objectives": [
+    "Evaluate the relative passage performance of adult Pacific Lamprey at mainstem and tributary barriers.",
+    "Evaluate behavior and distribution patterns of upstream migrating adult Pacific Lamprey at mainstem and tributary barriers.",
+    "Evaluate behavior, distribution patterns, and final fates of upstream migrating adult Pacific Lamprey within mainstem and tributary river environments."
+  ],
+  "ownerName": "Brian McIlraith",
+  "ownerEmail": "bjmcilraith@bpa.gov"
+}

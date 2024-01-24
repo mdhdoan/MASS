@@ -1,0 +1,14 @@
+{
+  "background": "Rotary screw traps (RSTs) are used as a collection tool for capturing and marking juvenileanadromous emigrants for determination of abundance, survival, and life history characteristics. Some sites include additional sampling infrastructure (e.g. temporary picket weir, hatchery trap, or PIT array), whichenablemore completemonitoring of select populations (or major spawning aggregates, depending on logistics). These high intensity; 'fish in, fish out' monitoring sites support life cycle modeling leading to a more mechanistic understanding of population dynamics.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/3570",
+  "title": "IDFG ROTARY SCREW TRAPPING for wild Chinook Salmon and steelhead emigrants in the Clearwater and Salmon River basins.",
+  "id": 3570,
+  "assumptions": "<p>Rotary screw traps can provide representative samples of emigrating steelhead juveniles.</p>\r\n",
+  "objectives": [
+    "Produce estimates of Chinook Salmon and steelhead emigrant abundance past RSTs by season and cohort.",
+    "Produce estimates of freshwater productivity for the monitored populations of wild Chinook Salmon and steelhead emigrants for which corresponding estimates of adult abundance are available.",
+    "Produce estimates of emigrant Chinook Salmon and steelhead survival rate to Lower Granite Dam (LGR) by season and cohort (where estimable)."
+  ],
+  "ownerName": "Luciano Chiaramonte",
+  "ownerEmail": "luciano.chiaramonte@idfg.idaho.gov"
+}

@@ -1,0 +1,12 @@
+{
+  "background": "Due to persistent recruitment failure, the subpopulation of white sturgeon inhabiting the upper Columbia River above Grand Coulee Dam is classified as Critically Endangered by the IUCN and endangered under the Canadian Species at Risk Act. Recruitment failure in the area between Grand Coulee and HLK dams (the Transboundary Reach) white sturgeon population was first documented during surveys of both the Keenleyside Reach (British Columbia) and the Roosevelt Reach (Washington State) in the 1990s (Hildebrand et al. 1999; DeVore et al. 2000). Concerns over the threat of extinction led to the formation of the Upper Columbia White Sturgeon Recovery Initiative (UCWSRI) in 2000 and the production of an Upper Columbia White Sturgeon Recovery Plan (UCWSRP; UCWSRI 2002) compatible with the ESA and SARA legislation. The goal of the UCWSRI is to ensure the persistence and viability of naturally reproducing populations of white sturgeon in the upper Columbia River and restore opportunities for beneficial use if feasible. Lake Roosevelt Subyearling White Sturgeon Gill Net Surveys are primarily intended to 1) document annual natural recruitment and 2) evaluate the relative survival of experimental larval releases to subyearling and yearling juveniles as part of proposed research to test hypotheses relating to post-hatch dispersal (see BPA project 2008-116-00). Surveys will be standardized, coordinated and conducted simultaneously with efforts by the Lake Roosevelt Sturgeon Recovery Project (1995-027-00) and those conducted in the Keenleyside Reach.All of the data analysis will be completed by the STOI's Lake Roosevelt Sturgeon Recovery Project (1995-027-00) per their project protocol, which has yet to be developed.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/478",
+  "title": "White Sturgeon Enhancement - Fall Subyearling Gill Net Surveys",
+  "id": 478,
+  "assumptions": "<p>Our frame is representative of our target population.</p>\r\n",
+  "objectives": [
+    "Monitor annual natural recruitment of white sturgeon in Lake Roosevelt."
+  ],
+  "ownerName": "Jason McLellan",
+  "ownerEmail": "jason.mclellan@colvilletribes.com"
+}

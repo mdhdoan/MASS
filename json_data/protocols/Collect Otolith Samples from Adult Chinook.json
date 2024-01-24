@@ -1,0 +1,14 @@
+{
+  "background": "The Chief Joseph Hatchery Program (CJHP)collects late arriving brood from the CJH ladder and Okanogan River Adult Weir for the integrated program. In order to determine whetherChinook from other stocks, specifically the Priest Rapids Hatchery fall Chinook, the program collects otoliths from all ladder and weir brood. The Priest Rapids Hatchery fall Chinook have been thermally marked since run year 2008. The management questions that are addressed include:1.) Are unmarked Priest Rapids Hatchery fall Chinook included in the late collected brood?2.) What is the abundance and proportion of Priest Rapids Hatchery fall Chinook in the CJH ladder?Lab analyses (Volk et al. 1994)on the otolithfrom the late broodstock collections will indicatewhether a thermal mark is present. If a thermal mark is present then it would be considered a Priest Rapids Hatchery fall Chinook.If Priest Rapids Hatchery fall Chinook are collected and included in the broodstock at the time of spawning, then eggs from the female would be culled or included in the CJH segregated program. The segregated program isreleased from CJH directly into the Columbia River and adult returns are targeted exclusively for harvest. For more information regarding the lab analysis methods please see the Literature cited section in this protocol.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/2266",
+  "title": "Collect Otolith Samples from Adult Chinook",
+  "id": 2266,
+  "assumptions": "<p>Our frame is representative of our target population. We plan to collect at least 100 otoliths.</p>\r\n",
+  "objectives": [
+    "Identify CJH ladder and weir brood at the time of spawning\r\n",
+    "Sample and collect otolith from all ladder and weir collected brood",
+    "Obtain results from WDFW lab, analyze number and proportion of PRD fall Chinook in broodstock and cull those eggs associated with PRD brood"
+  ],
+  "ownerName": "Andrea Pearl",
+  "ownerEmail": "andrea.pearl@colvilletribes.com"
+}

@@ -1,0 +1,13 @@
+{
+  "background": "Lake Pend Oreille once provided the largest kokanee fishery in the state of Idaho. Between 1952 and 1966, harvests of kokanee averaged 1 million kokanee/yr with up to 523,000 angler-hours of fishing pressure (Jeppson 1953; Maiolie and Elam 1993). Additionally, kokanee are the forage base that allows Gerrard rainbow trout in Lake Pend Oreille reach trophy sizes, including the former world record. However, kokanee abundance declined, and in the early 2000s they were at risk of complete collapse (Hansen et al. 2010). High predation rates created by a rapidly expanding lake trout was the primary limiting factor for kokanee, but as a part of kokanee recovery, rainbow trout harvest was also liberalized during 2006-2012.Kokanee have since rebounded in Lake Pend Oreille, and restrictive harvest regulations have been instituted for rainbow trout that are designed to improve population size structure and re-build the trophy fishery. With restrictive regulations again in place and a resurgent kokanee population, we sample rainbow trout to characterize age and growth rates for this population. Anglers are the most effective tool for capturing rainbows, so we coordinate sampling with fishing derbies. Samples are collected across all sizes of fish in the population. Results are compared to previous work in recent years to evaluate the response of rainbow trout to these changes.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/586",
+  "title": "LPO Rainbow Trout Population Assessment (1994-047-00)",
+  "id": 586,
+  "assumptions": "<p>Rainbow trout sampled are representative of the entire population.</p>\r\n",
+  "objectives": [
+    "Calculate rainbow trout growth rate",
+    "Calculate rainbow trout condition factor"
+  ],
+  "ownerName": "Pete Rust",
+  "ownerEmail": "Pete.Rust@idfg.idaho.gov"
+}

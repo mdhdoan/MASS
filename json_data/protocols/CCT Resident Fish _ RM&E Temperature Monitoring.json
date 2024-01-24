@@ -1,0 +1,12 @@
+{
+  "background": "The Colville Confederated Tribes (CCT) Resident Fish RM&E project is a Columbia River Fish Accord project that began in 2008. The primary goal for the Resident Fish RM&E Project is to conserve, enhance and restore native fish populations in the blocked area above Grand Coulee Dam in Lake Roosevelt and its tributaries, and where appropriate provide opportunities for subsistence harvest by the Colville Tribal members and recreational anglers. The current work of the RM&E project will focus on the protection and conservation of Redband Trout populations on the Colville Confederated Tribes Reservation, with a focus on the Sanpoil River.Rainbow trout are a focal species in the Sanpoil Subbasin under the Intermountain Province Subbasin Plan (IMP) due to their recreational value as a sport fish and their cultural significance to the CCT (Gillin and Pizzimenti 2004). The Columbia River RedbandTrout are a subspecies of Rainbow TInrout native to the Columbia River drainage east of the Cascade Mountains as far as barrier falls on the Snake, Spokane, Pend Oreille, and Kootenai rivers (Allendorf et al. 1980; Behnke 1992; McLellan and Lee 2010). Effective fisheries management of redband trout requires an understanding of population structure, complex historical management activities, geography, and life history strategies (McCusker et al. 2000; Spidle et al. 2003; Spruell et al. 2003; Small et al. 2006;2007).In 2010, the CCT implemented a RedbandTrout stock assessmentproject in the Sanpoil River (McLellanand Lee 2010). The project plans to implement four primary tasks which include monitoring abundance, monitoring recruitment, monitoring harvest, and monitoring escapement to assist with management decisions. The development of a multi-year data set will enable managers to monitor trends over time and address potential limiting factors. Water temperature monitoring is required to understand limiting factors and movement patterns.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/2122",
+  "title": "CCT Resident Fish _ RM&E Temperature Monitoring",
+  "id": 2122,
+  "assumptions": "<p>The temperature data (~&nbsp;1m^2) collected at the logger location is representative of the water temperature within the entire reach it is located.&nbsp;</p>\r\n",
+  "objectives": [
+    "Collect continuous surface water temperature at fish trap locations in the Sanpoil River. "
+  ],
+  "ownerName": "Holly McLellan",
+  "ownerEmail": "holly.mclellan@colvilletribes.com"
+}

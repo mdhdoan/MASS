@@ -1,0 +1,12 @@
+{
+  "background": "Rotary screw traps are a fundamental means of collecting outmigrating juvenile anadromous species in the Pacific Northwest and elsewhere. The screw trap on Lookingglass Creek provides abundance and life history information for a wild population of native summer steelhead andnaturally spawnedChinook salmonin this sub-watershed of the Grande Ronde Subbasin.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/817",
+  "title": "Monitoring Lookingglass Creek juvenile salmonid outmigrants with a rotary screw trap",
+  "id": 817,
+  "assumptions": "<p>Outmigrant abundance estimates made using fish sampled from the screw trap are accurate and unbiased. Fish sampled from the screw trap are representative of the outmigrating population..</p>\r\n",
+  "objectives": [
+    "Monitor wild juvenile summer steelhead and natural origin juvenile Chinook salmon population status and trends. "
+  ],
+  "ownerName": "Leslie Naylor",
+  "ownerEmail": "lesnaylor@ctuir.org"
+}

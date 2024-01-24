@@ -1,0 +1,12 @@
+{
+  "background": "This document details the monitoring design, procedures, and quality assurance steps necessary to document and report the effectiveness of restoration projects at the project site scale. This supports the Bonneville Power Administrations (BPA) programmatic approach to project level Action Effectiveness Monitoring (AEM), as documented in Action Effectiveness Monitoring of Tributary Habitat Improvement: A programmatic approach for the BPA Fish and Wildlife Program. This is based on the Washington Salmon Recovery Funding Board (SRFB) protocol,Monitoring Effectiveness of Fish Passage Projects (ID: 34) (https://www.monitoringmethods.org/Protocol/DownloadDescription/34), and the Columbia Habitat Monitoring Program (CHaMP) (ID: 18) (https://www.monitoringresources.org/ Resources/Program/Detail/18); however, variations in the monitoring design and metrics collected required modification of the protocol.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/2044",
+  "title": "Coordinated MBACI Protocol for Estimating Instream Juvenile Salmonid Abundance_AEM",
+  "id": 2044,
+  "assumptions": "<p>Access to impact and suitable control reaches will be provided prior to project implementation and for a period of five years following project completion.</p>\r\n\r\n<p>Reach is suitable for snorkel surveys.</p>\r\n",
+  "objectives": [
+    "Determine whether juvenile salmonid density and abundance by channel unit in a restored reach is increasing relative to a control reach.  "
+  ],
+  "ownerName": "Jennifer O'Neal",
+  "ownerEmail": "jen@naturaldes.com"
+}

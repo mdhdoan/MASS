@@ -1,0 +1,13 @@
+{
+  "background": "Wild emigrating juvenile Snake River steelhead and spring-summer Chinook Salmon are sampled at Lower Granite Dam to estimate their abundance and composition at the Evolutionary Significant Unit (ESU) scale andby genetic stock through Genetic Stock Identification (GSI). Monitoring the abundance and composition of juvenile emigrants allows us to describe current status and trends in survival and productivity of the ESU. Additionally, decomposing these metricsby genetic stock allows us to compare and contrast population performance over time among Snake River basin populations (Camacho et al. 2019). Furthermore, Parentage-Based Tagging (PBT) analysis is conducted to exclude adipose-intact hatchery adults not detected with a CWT to ensure only truly wild returning fish are examined. Data are collected by IDFG, personnel from the smolt monitoring program, and contracted agencies cooperatively and are used in stock assessment analyses. The results are valuable for assessing stock status and the impact of habitat, harvest, hatchery, and hydrosystem management actions.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/3274",
+  "title": "IDFG LOWER GRANITE DAM JUVENILE Monitoring for wild spring/summer Chinook Salmon and steelhead.",
+  "id": 3274,
+  "assumptions": "<p>The juvenile bypass system allows representative sampling of the smolt emigration.</p>\r\n",
+  "objectives": [
+    "Sample natural/wild emigrating juvenile Snake River steelhead and spring-summer Chinook Salmon at Lower Granite Dam.",
+    "Estimate abundance, productivity, survival, and composition (age structure, sex, and genetic stock) of natural/wild emigrating juvenile Snake River steelhead and spring-summer Chinook Salmon ESUs."
+  ],
+  "ownerName": "Luciano Chiaramonte",
+  "ownerEmail": "luciano.chiaramonte@idfg.idaho.gov"
+}

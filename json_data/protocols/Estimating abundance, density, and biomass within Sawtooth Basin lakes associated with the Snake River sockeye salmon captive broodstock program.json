@@ -1,0 +1,12 @@
+{
+  "background": "Understanding the dynamics of O. nerka populations in the Sawtooth Valley lakes is a vital part of sockeye salmon restoration efforts. Knowledge of O. nerka abundance, density, and biomass is necessary for making responsible decisions regarding the reintroduction of sockeye salmon juveniles from the captive broodstock program. Productivity in the lakes varies annually and the presence of kokanee in the nursery lakes creates increased competition for limited food sources between kokanee and sockeye salmon. During years in which a lake is experiencing low productivity and/or high kokanee abundance, the program limits reintroduction efforts of individuals that would spend more time in nursery lakes and diverts individuals to more productive lakes. Midwater trawl based techniques are used to collect biological sample data used to generate annual estimates of abundance, density, biomass and proportions of different O. nerka stocks present. Physical limitations (such as lake morphology or size) associated with midwater trawling make the use of hydroacoustics to generate these estimates necessary as well. Utilizing hydroacoustics can also be limiting because biological data on stock compositions cannot be generated. Therefore, using both techniques provides data that is essential to understanding the carrying capacity, population dynamics and to developing reintroduction plans in the Sawtooth Basin lakes.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/1905",
+  "title": "Estimating abundance, density, and biomass within Sawtooth Basin lakes associated with the Snake River sockeye salmon captive broodstock program",
+  "id": 1905,
+  "assumptions": "Sampling equipment is calibrated accurately and annually.\r\nThe sample is representative of the population.",
+  "objectives": [
+    "Describe O. nerka population characteristics for Sawtooth basin lakes in relation to carrying capacity and broodstock program supplementation efforts."
+  ],
+  "ownerName": "Mike Peterson",
+  "ownerEmail": "mike.peterson@idfg.idaho.gov"
+}

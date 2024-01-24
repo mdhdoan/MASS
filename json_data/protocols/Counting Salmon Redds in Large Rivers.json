@@ -1,0 +1,13 @@
+{
+  "background": "Redd counts in large rivers can help to describe the spatial distribution ofspawning salmon. Increases in the spatial distribution of redds can suggest that the a given population/ESU is responding positively to implemented actions. Long-termredd- count datacan also inform the spatial criteria for recoveryestablished recovery plans as well as provide important data for modeling efforts identified suchplans.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/2058",
+  "title": "Counting Salmon Redds in Large Rivers",
+  "id": 2058,
+  "assumptions": "<p>(1) Our frame represents our target population.</p>\r\n\r\n<p>(2) Every redd in shallow water is&nbsp;counted</p>\r\n\r\n<p>(3) Every redd at a deep water site selected for sampling is counted</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "objectives": [
+    "(1)Count redds in shallow water ",
+    "(2)Count redds in deep water"
+  ],
+  "ownerName": "Kenneth Tiffan",
+  "ownerEmail": "ktiffan@usgs.gov"
+}

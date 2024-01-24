@@ -1,0 +1,12 @@
+{
+  "background": "Northern Pike invaded the Pend Oreille River, WA prior to 2004 from upstream illegal introductions in the Clark Fork and Flathead river systems, MT. Northern pike have become firmly established in Box Canyon Reservoir and expanded in number and range and to downstream reservoirs and the upper Columbia River. They threaten local native species recovery efforts and migration to the anadromous zone of the Columbia River is imminent and could be disastrous to multi-billion dollar tribal, commercial, and recreational salmon and steelhead fisheries and further complicate the recovery of ESA-listed species. Washington Department of Fish and Wildlife and the Kalispel Tribe developed the Spring Pike Index Netting Survey (SPIN) to monitor trends in abundance and population structure of northern pike in Box Canyon Reservoir and to evaluate the effectiveness of measures taken to drastically reduce their abundance.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/3482",
+  "title": "Pend Oreille River Spring Pike Index Netting (SPIN) Survey",
+  "id": 3482,
+  "assumptions": "<p>Northern pike inhabitat near-shore littoral zones and sloughs during spring. Northern pike aged 2 and older are recruited to multimesh gill nets (1&quot;-2&quot; panels). Gill nets can be effectively fished during spring under varying reservoir flows and elevation. Catch-per-effort as an index of abundance is linearly related to true abundance.</p>\r\n",
+  "objectives": [
+    "Reduce and maintain Northern Pike (NP) abundance, measured by CPUE, in the SPIN survey to <1.7 NP/net night in the south half and 0.5 NP/net night in the north half of Box Canyon Reservoir."
+  ],
+  "ownerName": "Todd Andersen",
+  "ownerEmail": "tandersen@knrd.org"
+}

@@ -1,0 +1,16 @@
+{
+  "background": "This projectaims to samplejuvenile wild SteelheadOncorhynchus mykissin headwater streams of the Wind River, WA, to characterize population attributes and investigate life-history metrics, particularly age at migration, seasonal migratory patterns, growth, and early life-stage survival.Passive Integrated Transponder (PIT)-tagging and a series of instream PIT-tag interrogation systems (PTISs) are used to track juveniles, in addition to smolt trapping by WDFW. The PTISs also provide information on adult Steelhead migrations and populations. The Wind River subbasin is considered a wild Steelhead refuge by Washington Department of Fish and Wildlife (WDFW). No hatchery Steelhead have been planted in the Wind River subbasin since 1997, and hatchery adults are estimated at less than one percent of spawners in most years (Thomas Buehrens, WDFW, pers comm.). Data generated from this workwill contribute to understanding the diversity of steelhead life-histories, their spatial distribution, and inform life-cycle models. This work will also contributeto assessing Steelhead population response to numerous restoration actions in the subbasin, including removal of Hemlock Dam from Trout Creek in 2009.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/3549",
+  "title": "Monitoring of Steelhead parr life history and population attributes in the Wind River, Washington",
+  "id": 3549,
+  "assumptions": null,
+  "objectives": [
+    "Assess survival and age at migration of age-0 and age-1 Steelhead parr from their headwater rearing habitat to downstream sample sites.",
+    "Describe population attributes (size, growth, distribution, and abundance) and data trends of age-0 and age-1 Steelhead parr in headwaters areas of the Wind River, WA.\r\n\r\n",
+    "Assess distribution and relative abundance of non-native Brook Trout and Chinook Salmon.",
+    "Operate a series of instream PIT-tag Detection Systems to detect PIT-tagged juvenile and adult Steelhead to contribute data to assess migration timing, survival, and abundance.",
+    "Determine abundance of migratory Steelhead parr from headwater to downstream rearing areas."
+  ],
+  "ownerName": "Ian Jezorek",
+  "ownerEmail": "ijezorek@usgs.gov"
+}

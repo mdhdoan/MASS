@@ -1,0 +1,15 @@
+{
+  "background": "The anadromous life history form of redband trout was eliminated from the upper Columbia River with the construction of Grand Coulee Dam in 1939 and likely blocked migration routes and isolated populations and habitats of potamodromous redband trout. Identification of wild redband trout populations and their life history strategies have not been completed in portions of theSpokane River, Lake Roosevelt and the upper Columbia River. Populations of wild redband trout are thought to spawning in gravel bars in the river channels and on shorelines of the reservoir. Investigations to determine the status of these stocks should be conducted to understand the importance of these main channel spawners into the overall redband trout population.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/538",
+  "title": "Redband Trout River Spawning Assessment",
+  "id": 538,
+  "assumptions": "<p>Adult redband trout are spawning in the lower Spokane River, Lake Roosevelt and the upper Columbia River.</p>\r\n",
+  "objectives": [
+    "Quantify redband trout redds in the Spokane River, Lake Roosevelt and the upper Columbia River",
+    "Quantify redband trout adult spawners in the Spokane River, Lake Roosevelt and the upper Columbia River",
+    "Identify redband trout spawning locations in the Spokane River, Lake Roosevelt and the upper Columbia River",
+    "Identify potential redband trout spawning locations in the Spokane River, Lake Roosevelt and the upper Columbia River"
+  ],
+  "ownerName": "Casey Flanagan",
+  "ownerEmail": "caseyf@spokanetribe.com"
+}

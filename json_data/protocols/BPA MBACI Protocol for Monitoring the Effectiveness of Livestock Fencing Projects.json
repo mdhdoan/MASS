@@ -1,0 +1,18 @@
+{
+  "background": "This document details the monitoring design, procedures, and quality assurance steps necessary to document and report the effectiveness of Livestock FencingProjects at the project site scale. This supports the Bonneville Power Administrations (BPA) programmatic approach to project level Action Effectiveness Monitoring (AEM), as documented in Action Effectiveness Monitoring of Tributary Habitat Improvement: A programmatic approach for the BPA Fish and Wildlife Program. This is based on the Washington Salmon Recovery Funding Board (SRFB) protocol, Monitoring Effectiveness of Riparian Livestock Exclusion Projects (ID: 37) (https://www.monitoringmethods.org/Protocol/Details/37); and the Scientific Protocol for Habitat Surveys within the Columbia Habitat Monitoring Program (CHaMP) (ID: 18) (https://www.monitoringresources.org/Resources/Program/Detail/18)however, variations in the monitoring design and metrics collected required modification of the protocol.Livestock exclusions have the potential to create improvements in bank stabilization, streamside shading, erosion control, and other benefits in a moderate time (5-20 years). The goal of livestock exclusion fencing is to exclude cattle from the riparian area of the stream where they can cause severe damage to the stream by breaking down stream banks and increasing erosion, destroying shade producing trees and shrubs, and increasing sedimentation. By excluding cattle with fencing, these adverse impacts can be avoided and restoration of the shoreline can occur.Questions to be answered:Are livestock excluded from the riparian area?Has riparian vegetation been restored in the impact reach?Has bank erosion been reduced in the impact reach?",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/1877",
+  "title": "BPA MBACI Protocol for Monitoring the Effectiveness of Livestock Fencing Projects",
+  "id": 1877,
+  "assumptions": "<p>Access to the control and impact reaches will be provided for a period of at least two years prior to implementation and ten years following project implementation.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "objectives": [
+    "Determine overall use by livestock of the riparian area to be excluded (Years -1 (pre-project))",
+    "Determine if the percentage of pool tail fines is decreasing as a result of the project (Years -1(pre-project),  Years 1, 3, 5, and 10 (post-project))",
+    "Determine if the excluded riparian area is  being used by livestock (Years 1, 3, 5, and 10 (post-project))",
+    "Determine if stream bank erosion is decreasing as a result of the project (Years -1 (pre-project), 1, 3, 5, and 10 (post-project))",
+    "Determine if shading and the complexity of vegetation structure is increasing as a result of the project (Years -1 (pre-project), 1, 3, 5, and 10 (post-project))",
+    "Determine the total kilometers of stream protected (Years 1, 3, 5, and 10 (post-project))",
+    "Determine the total acreage to be fenced (Years -1 (pre-project))"
+  ],
+  "ownerName": "Jennifer O'Neal",
+  "ownerEmail": "jen@naturaldes.com"
+}

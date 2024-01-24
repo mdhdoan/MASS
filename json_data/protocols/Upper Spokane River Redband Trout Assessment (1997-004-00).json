@@ -1,0 +1,12 @@
+{
+  "background": "The Columbia River redband trout Oncorhynchus mykiss gairdneri are a subspecies of rainbow trout native to the Columbia River drainage east of the Cascade Mountains extending as far as barrier falls on the Snake, Spokane, Pend Oreille, and Kootenai rivers (Allendorf et al. 1980; Behnke 1992). Redband Trout populations in the Columbia River have been negatively impacted by a variety of factors, including invasive species, habitat loss, and other anthropogenic causes.Naturally reproducing rainbow trout still occur in the Spokane River and until recently there was speculation that these populations were hybridized with rainbow trout from hatchery plants. However, recent microsatellite DNA analysis conducted on wild rainbow trout in the Spokane River drainage indicated that rainbow trout in the Spokane River are pure redband trout and are presumed to be native (Small et al. 2007).Naturally reproducing Rainbow Trout still occur in the upper Spokane River and the population dynamics of wild Redband Trout in Spokane Riveris necessaryconserve, enhance, restore, and manage their populations.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/3706",
+  "title": "Upper Spokane River Redband Trout Assessment (1997-004-00)",
+  "id": 3706,
+  "assumptions": "Redband trout can be effectively samplied using driftboat electrofishing.",
+  "objectives": [
+    "Estimate abundance and age structure of Redband Trout in an index area of the Spokane River, Spokane County, WA between the Washington/Idaho stateline (rkm 154.8) and Harvard Road (rkm 149.2). "
+  ],
+  "ownerName": "Nicholas Albrecht",
+  "ownerEmail": "nicholas.albrecht@dfw.wa.gov"
+}

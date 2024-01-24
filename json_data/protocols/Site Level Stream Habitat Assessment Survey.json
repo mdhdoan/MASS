@@ -1,0 +1,12 @@
+{
+  "background": "Monitoring of physical responses in tandemwithbiological responsesto stream habitat restoration actions is fundamental to understanding and informing future management actions.This protocol defines site level habitat surveys using a combination of methodologies consistent with CHaMP 2014(https://www.monitoringresources.org/Document/Protocol/Details/2020)and BPAs AEM programmatic (https://www.monitoringresources.org/Document/Protocol/Details/2030)protocols to measure physical site levelresponses to stream habitat restoration efforts.Habitat surveys consist of a simultaneous topographical and auxiliary data survey. Auxiliary data is collected at the channel unit, transect, and site level. CHaMP and AEM methods provide regionallystandardized metrics that can be used to measure response variables in salmonid habitat.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/1955",
+  "title": "Site Level Stream Habitat Assessment Survey",
+  "id": 1955,
+  "assumptions": "<p>Access to&nbsp;treatment and suitable control reaches will be provided prior to project implementation and for a period of ten years following project completion.</p>\r\n",
+  "objectives": [
+    "What are the physical effects of habitat restoration actions at a site level on key floodplain health indicators."
+  ],
+  "ownerName": "Kaylyn Costi",
+  "ownerEmail": "kaylyncosti@ctuir.org"
+}

@@ -1,0 +1,14 @@
+{
+  "background": "The Nez Perce Tribe's Department of Fisheries Resources Management utilize dual frequency identification sonar (DIDSON) and underwater video technology as a passive collection tool for salmon abundance and productivity monitoring in the Snake River Basin. Data are utilized for determination of abundance, survival and life history characteristics, hatchery effectiveness and status and trends evaluations. Population status and trend monitoring of natural and hatchery origin fish is used for effective population management, assessing effectiveness of conservation actions, viability, and recovery metric monitoring.Please see protocols #2246 and #2249 for data analysis methods describing the calculation of metrics and indicators.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/2245",
+  "title": "Nez Perce Tribe Passive Weir Data Collection",
+  "id": 2245,
+  "assumptions": "<p>Application of DIDSON sonar assumes that the entire water column is ensonified, which is verified through use of calibration targets.</p>\r\n",
+  "objectives": [
+    "Operate adult weirs to encompass the entire adult runs of anadromous adult salmonids. ",
+    "Collect adult salmonid data, from DIDSON for determination of adult abundance, natural, hatchery, and stray composition.",
+    "Collect adult salmonid data, from underwater video for determination of adult abundance, natural, hatchery, and stray composition."
+  ],
+  "ownerName": "Jason Vogel",
+  "ownerEmail": "jasonv@nezperce.org"
+}

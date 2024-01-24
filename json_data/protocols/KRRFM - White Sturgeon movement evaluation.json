@@ -1,0 +1,12 @@
+{
+  "background": "This protocol describes White sturgeon movement responses to mitigative flows and temperatures provided by Libby Dam. We monitor sturgeon movements primarily with a passive telemetry array which extends from River kilometer (White sturgeon will be captured and tagged with Vemco sonic transmitters. Movement throughout the Kootenai River/Kootenay Lake system will be determined with these stationary an array of Vemco VR2W receivers which extends fromrkm 300 (Sturgeon Hole)in Montana downstream to Kootenay Lake as far as rkm 18 near the Lardeau River delta. Real time active tracking and position monitoring will be determined during critical periods with Vemco VR-100 receivers. This receiver array allows us to determine fish movement and behavioral responses to Libby dam operations as well as other mitigation measures (discharge and temperature). In addition to general large scale movement monitoring with the Vemco VR2W array, this work element will also include incorporating Vemco'sVemco Positioning System (VPS)which will allow us to evaluate finer scale sturgeon movements near Shorty's Island and possibly other areas where habitat enhancement projects are planned.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/545",
+  "title": "KRRFM - White Sturgeon movement evaluation",
+  "id": 545,
+  "assumptions": "<p>One assumption of our sampling program is that our methods are unbiased, and the data we collect is representative of the true status of the population.</p>\r\n",
+  "objectives": [
+    "Determine specific environmental parameters that influence adult spawning movements into proper spawning habitat above Bonners Ferry, Idaho."
+  ],
+  "ownerName": "Ryan Hardy",
+  "ownerEmail": "ryan.hardy@idfg.idaho.gov"
+}

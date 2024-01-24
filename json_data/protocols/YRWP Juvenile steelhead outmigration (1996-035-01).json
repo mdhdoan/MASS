@@ -1,0 +1,12 @@
+{
+  "background": "We use rotary screw traps on Satus, Toppenish, and Ahtanum to estimate juvenile steelhead outmigrant abundance, and also timing, and downstream survival. Traps are operated continuously during the juvenile migration period roughly from October through June. Target fish are marked with PIT tags and released upstream as part of a mark-recapture study and used to generate the outmigrant estimates. These estimates are used to evaluate the viability of identified rearing habitat in the tributaries and to direct restoration and resource management decisions and actions. PIT tagged steelhead juvenile downstream detections are also used by others to evaluate timing and downstream survival.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/111",
+  "title": "YRWP Juvenile steelhead outmigration (1996-035-01)",
+  "id": 111,
+  "assumptions": "<p>Continuous operation of screw trap can provide a relatively unbiased estimate of juvenile outmigration if catch rates are sufficient.</p>\r\n",
+  "objectives": [
+    "Monitor steelhead population status and trends in Lower Yakima River Tributaries (Satus Creek, Toppenish Creek, and Ahtanum Creek) to estimate yearly juvenile steelhead outmigrant production."
+  ],
+  "ownerName": "Tim Resseguie ",
+  "ownerEmail": "rest@yakamafish-nsn.gov"
+}

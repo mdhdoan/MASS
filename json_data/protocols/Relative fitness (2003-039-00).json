@@ -1,0 +1,14 @@
+{
+  "background": "Hatcheries are one of the main tools that have been used to mitigate for salmon losses caused by the construction and operation of the Columbia River hydropower system. In addition to harvest augmentation, hatcheries are used to protect stocks from extinction and to enhance natural production (supplementation). Surprisingly, little is known about how much the investment in hatcheries benefits natural production. In fact, most information collected over the past decade indicates that hatcheries may be doing more harm than good to wild populations. Evaluating the relative fitness of naturally spawning hatchery fish and understanding the causes of reduced hatchery fish fitness are critical for evaluating the effects of hatcheries on wild populations.The analysis described below uses juvenile data collected using protocol ID #2131Modified ISEMP Field Manual of Scientific Protocols for Downstream Migrant Trapping, with DNA sampling v1.0",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/136",
+  "title": "Relative fitness (2003-039-00)",
+  "id": 136,
+  "assumptions": "<p>Relative reproductive success&nbsp;studies require that&nbsp;a high proportion&nbsp;of the adult escapement to the spawning grounds is interrogated and tissue sampled.&nbsp;The subsequent&nbsp;sampling of the progeny must be representative of the progeny population as whole. It is assumed that the trapping and sampling activities have a similar affect on fish regardless of origin.</p>\r\n",
+  "objectives": [
+    "Determine the degree to which differences in fitness can be explained by measurable biological traits that differ between hatchery and wild fish",
+    "Estimate the relative fitness of hatchery-lineage Chinook salmon after they have experienced an entire generation in the natural environment.  ",
+    "Estimate the relative reproductive success of hatchery and natural origin Chinook salmon when they spawn in the natural and hatchery environments."
+  ],
+  "ownerName": "Andrew Murdoch",
+  "ownerEmail": "andrew.murdoch@dfw.wa.gov"
+}

@@ -1,0 +1,12 @@
+{
+  "background": "This protocol describes how Parentage Based Tagging (PBT) and Genetic Stock Identification (GSI) are implemented in Snake River sockeye salmon. These genetic assignment techniques are powerful tools to effectively monitor Oncorhynchus nerka life history composition and evaluate hatchery release stratgies. The Snake River sockeye salmon nursery lakes in the Sawtooth Valley support three distinct life histories of Oncorhynchus nerka (anadromous sockeye salmon, residualized sockeye salmon, and kokanee; Winans et al. 1996). Immature individuals captured in the Sawtooth Valley basin lakes can only be assigned to a life history type based on their genotype. In addition, the Snake River sockeye salmon captive broodstock program has employed a variety of release strategies (from eyed-egg to maturing adults) across the history of the program. The success of these individual release strategies can be tracked using PBT. All released individuals are genetically tagged because all maturing adult Snake River sockeye salmon spawned in the hatchery or released into Sawtooth Valley basin lakes are genotyped to inform captive broodstock management. Therefore, genetic assignment methods are a critical component to the monitoring and evaluation efforts of the Snake River sockeye salmon captive broodstock program.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/3557",
+  "title": "Genetic assignment methods for Snake River sockeye salmon",
+  "id": 3557,
+  "assumptions": null,
+  "objectives": [
+    "This protocol outlines how individual assignments (PBT and GSI) are completed for Snake River sockeye salmon."
+  ],
+  "ownerName": "John Powell",
+  "ownerEmail": "john.powell@idfg.idaho.gov"
+}

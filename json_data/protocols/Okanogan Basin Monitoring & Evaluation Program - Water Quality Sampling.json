@@ -1,0 +1,12 @@
+{
+  "background": "OBMEP was developed in an attempt to improve our understanding of the anadromous fish populations and habitat that exists within the Okanogan River basin. OBMEP's water quality/quantity and temperature protocol is designed to document water quality, discharge and temperature changes over time (7-20+ year time frame). Procedures were modeled after the Department of Ecologys water quality protocols. Water quality data collection site selection was designed to fill critical data gaps, select sites that already had some form of historical data collection and to make sure no duplication of effort occurs. Temperature data are collected at all Okanogan River tributary EMAP sites located in the U.S. and Canada.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/5",
+  "title": "Okanogan Basin Monitoring & Evaluation Program - Water Quality Sampling",
+  "id": 5,
+  "assumptions": "<p>If water quality data is always collected at the same site, change can be detected over time.</p>\r\n",
+  "objectives": [
+    "To monitor the status and trends of water quality and determine potential impacts to salmonids in the Okanogan River Basin."
+  ],
+  "ownerName": "John Arterburn",
+  "ownerEmail": "john.arterburn@colvilletribes.com"
+}

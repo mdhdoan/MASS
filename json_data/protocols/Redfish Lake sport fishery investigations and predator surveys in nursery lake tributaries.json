@@ -1,0 +1,13 @@
+{
+  "background": "Sport Fisheries Monitoring--The kokanee fishery on Redfish Lake was closed in 1993 due to the presence of ESA listed sockeye salmon but was reopened in 1995 based on the recommendation from program biologist to reduce kokanee competition with sockeye salmon by removing spawning age kokanee through angler harvest. NOAA Fisheries requires IDFG to monitor angler harvest of listed sockeye salmon in Redfish Lake during the kokanee fishing season. The kokanee season on Redfish Lake opens on January 1 and closes on August 7, when mature kokanee initiate spawning in Fishhook Creek, while sockeye salmon remain in the lake. The roving creel survey conducted on Redfish Lake was designed to estimate total kokanee harvest and to collect tissue samples for genetic analysis from angler-harvested kokanee. The genetic analysis is used to estimate the number of unmarked sockeye salmon harvested incidental to the kokanee fishery within the lake. Predator Monitoring-- Because bull trout readily consume Oncorhynchus nerka and other salmonids (Bjornn 1961; Beauchamp and Van Tassell 2001), a large increase in the number of adult bull trout in Stanley basin lakes could affect the recovery of sockeye salmon and kokanee populations in the lakes. Bull trout spawner investigations were initiated in 1995 to monitor Redfish and Alturas lakes bull trout populations. As such, index sections were established on Fishhook and Alpine creeks (tributaries to Redfish Lake and Alturas Lake, respectively) in 1998. These spawner investigations allow us to monitor these populations for trends in the data.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/1907",
+  "title": "Redfish Lake sport fishery investigations and predator surveys in nursery lake tributaries",
+  "id": 1907,
+  "assumptions": "<p>The sample is representative of the population.</p>\r\n",
+  "objectives": [
+    "Predator Monitoring-- Monitor trends in the spawning populations of bull trout found within Fishhook and Alpine Creeks, tributaries located within Redfish and Alturas Lakes, ID, respectively.",
+    "Sport Fisheries Monitoring--Describe the stock compositions of Oncorhychus nerka harvested during the sport fishery for kokanee salmon in Redfish Lake, ID."
+  ],
+  "ownerName": "Mike Peterson",
+  "ownerEmail": "mike.peterson@idfg.idaho.gov"
+}

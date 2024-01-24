@@ -1,0 +1,13 @@
+{
+  "background": "Data on a subset of standard, extensive monitored indicators, dependent on the type of restoration strategy, should be collected at all project sites unless otherwise noted. These data will serve to document key environmental conditions at the site and suggest whether the restoration action is having the desired effect. This standard subset of monitored indicators does not include fish because the intent is to monitor the base physical environment, and minimize impacts on fish populations. As the Action Effectiveness Monitoring and Research database grows, we expect standard monitored indicators will suffice to determine the success of a project in terms of the physical changes realized and in the context of established relationships between extensive and intensive indicators. It is simply not practical for fish data, while very important at chosen priority sites, to be mandatory for all restoration projects. Also, the standard indicators do not cover all core metrics from Roegner et al. (2009a), thereby reducing costs and complexity while maintaining data usefulness for action effectiveness assessments. The standard indicators may also be used in intensive to extensive ratio estimators, although again this is not mandatory.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/1894",
+  "title": "Columbia Estuary Ecosystem Restoration Program (CEERP) Level 3 Standard Monitoring Indicators",
+  "id": 1894,
+  "assumptions": "<p>A detectable environmental change will occur due to a specific restoration action.</p>\r\n",
+  "objectives": [
+    "- Evaluate the effects of individual habitat restoration actions at project sites to evaluate post-restoration trajectories based on project-specific goals ",
+    "- Compare restoration project sites to evaluate impact of restoration actions in the Columbia River and estuary and incorporate results to support and inform regional management decisions."
+  ],
+  "ownerName": "Matthew Schwartz",
+  "ownerEmail": "mschwartz@lcrep.org"
+}

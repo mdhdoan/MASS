@@ -1,0 +1,14 @@
+{
+  "background": "Partial capture traps and mark-recapture methods are frequently used to monitor downstream migrating juvenile fish to assess the performance and status of anadromous salmonids. A variety of important fish population metrics can be obtained from these methodologies, including abundance, migration timing, and survival. These metrics can be used to evaluate trends in habitat productivity, without the masking influence of Columbia River migratory and ocean survival conditions. And when paired with adult abundance, high-level indicators such as smolt-to-adult survival and smolts-per-adult can be estimated.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/3653",
+  "title": "Juvenile Salmonid Enumeration using a Partial Capture Trap",
+  "id": 3653,
+  "assumptions": null,
+  "objectives": [
+    "Provide unbiased estimates of juvenile salmonid abundance from populations located and/or watersheds located upstream of the trapping site(s).",
+    "Determine juvenile life history characteristics and downstream survival.",
+    "Provide a long-term time series of consistently collected data to monitor fish population status and trends."
+  ],
+  "ownerName": "Josh Hanson",
+  "ownerEmail": "Josh.hanson@odfw.oregon.gov"
+}

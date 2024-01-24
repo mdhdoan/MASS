@@ -1,0 +1,12 @@
+{
+  "background": "Submerged aquatic habitat in the Spokane Tribes usual and accustomed areas has not been assessed to date. Quantifying aquatic habitats in deep, swift, cold water is challenging and can be costly; however, accurate assessment of aquatic habitat is critical to improve the understanding of the distribution and status of aquatic species. Low-cost sonar habitat mapping technology has been shown to accurately assess critical habitat for many aquatic species including sturgeon and freshwater mussels (Litts and Kaeser 2016;Smit and Kaeser 2016; Kaeser and Litts 2010). Low cost side scan sonar and habitat mapping will provide baseline substrate, vegetation, and morphological habitat condition in the form of raster imagery and polygon shapefiles that can be easily shared, archived, and used to direct and inform management actions across program disciplines.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/3520",
+  "title": "Side scan sonar habitat mapping",
+  "id": 3520,
+  "assumptions": null,
+  "objectives": [
+    "Produce sonar imagery of submerged features and create benthic aquatic habitat mosaic maps from the usual and accustomed areas of the Spokane Tribe."
+  ],
+  "ownerName": "Reuben Smit",
+  "ownerEmail": "reuben.smit@spokanetribe.com"
+}

@@ -1,0 +1,12 @@
+{
+  "background": "The Select Area Fisheries Enhancement (SAFE) Program produces Chinook and coho salmon for commercial and recreational harvest in off-channel and terminal areas in the Lower Columbia River.Fish for this program arerearedat and/or released from Oregon Department of Fish and Wildlife(ODFW) hatcheries (Gnat Creek and Klaskanine), a Washington Department of Fish and Wildlife (WDFW) hatchery (Grays River), ahatchery owned and operated by Clatsop County (South Fork Klaskanine) and net pens in Youngs Bay, BlindSlough, Tongue Point and Deep River (Washington). Some adult Chinookthat are not caught in the commercial or recreational fisheries return to the hatcheriespreviously mentioned(except Gnat Creek as there is no adult collection trap at this hatchery). Fishcollected from the traps are biologically sampled to obtain information onspecies,stock, age, and size. These data are used in conjunctionwith surveys ofsport and commercial fisheries and spawning grounds to reconstruct the adult salmonid returns of fish released from the SAFE Program. The sampling outlined in this protocol specifically addresses the work performed at twoof the SAFE funded hatcheries, Klaskanineand South Fork Klaskanine Hatcheries, and representsthe data collection methods only. The data collected using this protocol is used inthe analysis described in Protocol ID 2041 Run Reconstruction and Fishery Contribution Analysis for the Select Area Fishery Enhancement (SAFE) Program.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/2039",
+  "title": "Sampling Adult Salmonids Returning to SAFE Hatcheries",
+  "id": 2039,
+  "assumptions": "<p>We assume that Coded Wire Tags (CWTs)&nbsp;can be&nbsp;consistently detected using Northwest Marine Technology (NMT) wands and tunnel detectors.</p>\r\n\r\n<p>We assume that fin marks are recognizable.</p>\r\n\r\n<p>We assume that the age structure (scale) can be accurately read.</p>\r\n",
+  "objectives": [
+    "Sample adult returns of Select Area Bright fall Chinook at Klaskanine and South Fork Klaskanine Hatcheries annually to depict stocks present, and age structure of the returning population"
+  ],
+  "ownerName": "Cyndi Baker",
+  "ownerEmail": "cynthia.f.baker@state.or.us"
+}

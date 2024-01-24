@@ -1,0 +1,12 @@
+{
+  "background": "Photographs of habitat status can help monitor long-term trends in plant cover, weed invasion, and disturbances. Plant height, size, flowering effort, and levels of herbivory are some of the conditions that will be used to document general health trends of vegetative communities. Photo points can be useful in documenting effects and subsequent succession after flood, fire, grazing, or mass wasting events, and can quantitatively monitor habitat and long-term plant growth (Skovlin and Thomas 1995). They will be used to establish baseline conditions and stature of plant communities.In addition to general habitat trends, succession on newly reclaimed sites will be documented photographically annually for the first 3 years, and every 5 years thereafter.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/2059",
+  "title": "Nez Perce Tribe Condition Photo Points; Documenting Habitat Change",
+  "id": 2059,
+  "assumptions": "<p>Photos are taken at approximately the same time each revisit</p>\r\n\r\n<p>The same azimuth is used to duplicate original photo orientation</p>\r\n",
+  "objectives": [
+    "Document any changes in vegetation cover, density, and composition over time"
+  ],
+  "ownerName": "Blair McClarin",
+  "ownerEmail": "blairm@nezperce.org"
+}

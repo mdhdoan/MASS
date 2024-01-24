@@ -1,0 +1,13 @@
+{
+  "background": "Monitoring and evaluation of adult Snake River sockeye salmon has been an important part of the spread-the-risk philosophy (Hebdon et al. 2004). Prespawn sockeye salmon adults were first released back to the wild in 1993. Adult sockeye salmon raised to maturity in the hatchery and released to valley lakes to spawn provide a natural smolt component that is subject to natural selection. Beginning in 1999, anadromous sockeye salmon have been released into valley lakes (when available) along with adult sockeye salmon that were raised to maturity in a hatchery.Current evaluations of adult sockeye salmon focus on collecting anadromous returning adults (and associated biological metrics such as run timing or average length and weight), assigning those returns back to release strategies for smolt-to-adult survival estimates using Parentage Based Tagging (PBT) genetic analysis, identifying spatial structure of redd produced, and documenting spawn timing from adults released into the lake to volitionally spawn.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/1913",
+  "title": "Captive reared and anadromous adult Snake River sockeye salmon monitoring and evaluation",
+  "id": 1913,
+  "assumptions": "<p>Adults collected at basin trap locations are representative of the adult return group.</p>\r\n\r\n<p>Adults released within Redfish Lake behave and spawn similar to non-program adults within the population.</p>\r\n",
+  "objectives": [
+    "Collect biological data from anadromous returning adult Snake River sockeye salmon.\r\n",
+    "Describe the spawning behavior and distribution of Snake River sockeye adults released to volitionally spawn."
+  ],
+  "ownerName": "Mike Peterson",
+  "ownerEmail": "mike.peterson@idfg.idaho.gov"
+}

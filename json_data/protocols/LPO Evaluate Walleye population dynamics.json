@@ -1,0 +1,12 @@
+{
+  "background": "Walleye are an emerging potential threat to native and desire sport fish populations. Walleye likely entered the lake from an upstream source population. To better understand the role this species will play in the lake, we will evaluate their diet, origin via isotopic analysis, and locations of fish aggregations during spawning via telemetry. We will also evaluate trends in catch rates using fall Walleye index netting methods.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/3310",
+  "title": "LPO Evaluate Walleye population dynamics",
+  "id": 3310,
+  "assumptions": "<p>Radio and acoustically tagged walleye will behave in a manner representative of the walleye population.</p>\r\n\r\n<p>Selected sampling location and gear types will representatively sample the walleye population and provide applicable&nbsp;baseline datasets to compare future population trends.&nbsp;</p>\r\n",
+  "objectives": [
+    " Determine origin, spawning locations, home range, feeding habits, growth rates, population dynamics, and general life histories of Walleye.  "
+  ],
+  "ownerName": "Pete Rust",
+  "ownerEmail": "Pete.Rust@idfg.idaho.gov"
+}

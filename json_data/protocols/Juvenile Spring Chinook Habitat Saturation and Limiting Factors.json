@@ -1,0 +1,12 @@
+{
+  "background": "The carrying capacity of a watershed is an important factor in determining whether supplementation is a viable technique of increasing natural production. Preliminary analysis suggests that density dependent mechanisms affecting spring Chinook growth and survival are present in the monitored river basin prior to abundance estimates conducted in the fall, and potentially prior to or during the summer rearing period. If the river is at capacity for rearing subyearlings in some years, then supplementation efforts can only serve to increase the number of naturally produced smolts when natural production is below that capacity. Therefore, identifying the factors that limit natural production is critical if restoration efforts aimed at maintaining or increasing natural production are to achieve their intended biological goals. We conducted snorkeling surveys documenting observed abundance of rearing subyearling Chinook by habitat classification. Our data suggests that habitat type is a significant factor determining abundance of rearing subyearling Chinook, and that the space required of rearing subyearlings appears to expand linearly with increasing growth. A multi-year analysis of abundance indicates that summer rearing densities track well with fall abundance estimates, suggesting that the absence of density dependent mechanisms significantly affectsgrowth and survival during the two life-stages. Temperature and visibility do not appear to have significantly affected estimates of observed abundance among study reaches. (Johnson et. all 2011)",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/3317",
+  "title": "Juvenile Spring Chinook Habitat Saturation and Limiting Factors",
+  "id": 3317,
+  "assumptions": "<p>All fish species are being correctly identified.</p>\r\n\r\n<p>All measurement devices are correctly calibrated and being read correctly.</p>\r\n\r\n<p>Habitat types are representative.</p>\r\n",
+  "objectives": [
+    "Annually assess the limiting factors of carrying capacity for Spring Chinook Salmon."
+  ],
+  "ownerName": "Nick Mankus",
+  "ownerEmail": "nicholas.mankus@dfw.wa.gov"
+}

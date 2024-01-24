@@ -1,0 +1,13 @@
+{
+  "background": "Piscivory on juvenile salmonids in the Columbia River is not fully understood but recognized as major source of their mortality. Annual index sampling in Columbia and Snake River reaches have indicated that Smallmouth Bass (SMB)Micropterus dolomieuand Walleye (WAL)Sander vitreusabundance is increasing and Northern Pikeminnow (NPM)Ptychocheilus oregonensisabundance decreasing (Carpenter et al. 2019). Currently, fish predator abundance and population trends upstream of McNary Dam are not well understood. Estimating the abundance of piscivores is required to quantify their consumptive impacts and set a baseline for future comparisons.This project will establish a baseline dataset that will be used to evaluate the effectiveness of current (e.g., deregulating harvest) and future management actions designed to increase juvenile salmon survival, with the ability to identify significant changes in predator population status over time and space.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/3696",
+  "title": "Evaluating the Status and Trends of Piscivores in the McNary Pool",
+  "id": 3696,
+  "assumptions": null,
+  "objectives": [
+    "Monitor the status and population trends of Northern Pikeminnow, Smallmouth Bass, and Walleye between McNary and Priest Rapids dams.",
+    "Estimate the abundance of Northern Pikeminnow, Smallmouth Bass, and Walleye between McNary and Priest Rapids dams."
+  ],
+  "ownerName": "Matt Polacek",
+  "ownerEmail": "polacmcp@dfw.wa.gov"
+}

@@ -1,0 +1,13 @@
+{
+  "background": "Redd counts are conducted to estimate Viable Salmonid Population (VSP) metrics (i.e. abundance, productivity, and spatial structure for Chinook salmon populations in Idaho. These metrics are used by NOAA to assess the status of Snake River Spring/Summer Chinook salmon, which are currently listed as threatened under the Endangered Species Act. Additionally, these surveys have been conducted in a consistent manner in Idaho since 1957 and thus provide a valuable long-term dataset. In many areas of Idaho, Chinook salmon spawn in remote, roadless areas which are difficult to access by foot. As such, it is efficient to utilize aerial survey methods to count redds in these areas. This protocol only describes data collection methods. Analysis using these data incorporates additional data collected from other protocols suchs as 3594: IDFG GROUND-BASED REDD COUNTS and carcass sampling for wild Chinook Salmon in Idaho, so it is described in a separate protocol",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/3446",
+  "title": "IDFG Aerial Surveys for Chinook Salmon Redds in the Middle Fork Salmon River Basin.",
+  "id": 3446,
+  "assumptions": null,
+  "objectives": [
+    "Survey for Chinook Salmon redds from a helicopter at remote areas in the Middle Fork Salmon River basin.",
+    "Document spatial distribution of Chinook salmon redds"
+  ],
+  "ownerName": "Luciano Chiaramonte",
+  "ownerEmail": "luciano.chiaramonte@idfg.idaho.gov"
+}

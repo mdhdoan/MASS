@@ -1,0 +1,13 @@
+{
+  "background": "The Colville Confederated Tribes (CCT) staff analyzes Passive Integrated Transponder(PIT) tag data to determine juvenile outmigration behavior in the Columbia River, smolt to smolt survival (to Rocky Reach Juvenile Bypass (RRJ) and McNary), smolt to adult survival (SAR), adult run timing to Bonneville and through the Federal Columbia River Power System (FCRPS), and stray rates and locations. These metrics are important In Season Implementation Tool (ISIT) inputs for status and trends, in season fish management, and evaluating performance of the Chief Joseph Hatchery(CJH). PIT tagged Natural-Orign Recruits (NOR) returns will be important in-season predictors of the NOR estimate to the Okanogan, particularly in combination with valid smolt outmigration estimates. Developing an alternative to the current regression analysis in ISIT will be important once adults from the CJH program are returning.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/2220",
+  "title": "Estimate Juvenile Chinook Outmigration and Survival Using PIT Tags (2003-023-00)",
+  "id": 2220,
+  "assumptions": "<p>Juveniles collected at the Okanogan RST and at the confluence are representative of the Okanogan Chinook population.&nbsp; PIT tagging juvenile salmonids at these sites does not affect the behavior or survival of those salmonids which migrate through the FCRPS.&nbsp; There is not PIT tag loss after release of juveniles at the sampling sites.</p>\r\n",
+  "objectives": [
+    "Estimate survival (smolt to smolt, smolt to adult) and travel time for the natural-origin and hatchery-origin Okanogan Chinook salmon using PIT tags. \r\n\r\n ",
+    " Monitor adult run timing at Bonneville"
+  ],
+  "ownerName": "Andrea Pearl",
+  "ownerEmail": "andrea.pearl@colvilletribes.com"
+}

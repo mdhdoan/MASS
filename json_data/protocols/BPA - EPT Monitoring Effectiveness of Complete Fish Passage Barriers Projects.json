@@ -1,0 +1,14 @@
+{
+  "background": "The protocol details the monitoring design, procedures and quality assurance steps necessary to document and report the effectiveness of: Complete Fish Passage Barriers projects at the project site scale. This supports the Bonneville Power Administrations Programmatic approach to project level Action Effectiveness Monitoring (AEM) for Extensive Post Treatment (EPT), as documented in Action Effectiveness Monitoring of Tributary Habitat Improvement: a programmatic approach for the BPA Fish and Wildlife Program. This is based on the WAWashington Salmon Recovery Funding Board(SRFB) protocol SRFB - Monitoring Effectiveness of Fish Passage Projects (ID: 34) (https://www.monitoringmethods.org/Protocol/Details/34) however variations in the design and metrics collected required modification of the protocol.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/1869",
+  "title": "BPA - EPT Monitoring Effectiveness of Complete Fish Passage Barriers Projects",
+  "id": 1869,
+  "assumptions": "<p>Access will be provided to impact and suitable control reaches.</p>\r\n",
+  "objectives": [
+    "Determine: Are the post-barrier juvenile salmon and steelhead numbers similar above and below the barrier?  ",
+    "Determine: Is there a relationship between the number of salmon and steelhead above the barrier relative to below and the time since barrier removal?",
+    "Determine: Is there a relationship between habitat quality (pool frequency, variation in depth, stream channel slope, instream cover, streambed substrate size) and the number of salmon and steelhead?"
+  ],
+  "ownerName": "Christopher Clark",
+  "ownerEmail": "christopher.clark@fishsciences.net"
+}

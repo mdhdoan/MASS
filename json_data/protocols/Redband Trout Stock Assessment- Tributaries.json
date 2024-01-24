@@ -1,0 +1,20 @@
+{
+  "background": "The migration of the anadromous life history form of redband trout was eliminated from the upper Columbia River with the construction of Grand Coulee Dam in 1939 and likely isolated populationsof potamodromous redband trout. Identification of wild redband trout populations and their life history strategies have not been completed in portion of theSpokane River, Lake Roosevelt and the upper Columbia River. This protocol evaluates Redband Trout populations in tributaries to the Spokane River, Lake Roosevelt and the upper Columbia River. Stock assessments under this protocol will use a variety of trapping, electrofishing and tagging methods to estimate population sizewithin the stream, as well as evaluate recruitment to larger water bodies, survival within and outside of tributaries, age class structure, proportions of fluvial to adfluvial Redband Trout within tributaries, movement within and outside of tributaries and spawner escapement.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/3515",
+  "title": "Redband Trout Stock Assessment- Tributaries",
+  "id": 3515,
+  "assumptions": null,
+  "objectives": [
+    "Understand movement and entrainment of Redband Trout.",
+    "Estimate annual spawner escapement of Redband Trout.",
+    "Estimate age at maturity of Redband Trout.",
+    "Estimate growth of fluvial and adfluvial Redband Trout.",
+    "Estimate survival of adfluvial Redband Trout from recruitment to spawning adult.",
+    "Estimate age of recruitment of Redband Trout.",
+    "Estimate recruitment of Redband Trout from their natal tributary to the Columbia and Spokane Rivers.",
+    "Understand age class structure of Redband Trout within tributaries.",
+    "Estimate abundance of Redband Trout within tributaries."
+  ],
+  "ownerName": "Casey Flanagan",
+  "ownerEmail": "caseyf@spokanetribe.com"
+}

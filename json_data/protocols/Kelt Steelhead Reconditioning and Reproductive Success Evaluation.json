@@ -1,0 +1,16 @@
+{
+  "background": "The Kelt Steelhead Reconditioning and Reproductive Success Evaluation Project is a research, monitoring, and evaluation (RM&E) category project funded through the Columbia Basin Fish Accords. The project studies and evaluates two broad topics with respect to post-spawn steelhead, first it assesses reconditioning processes and strategies, and second, it measures reproductive success of artificially reconditioned kelt steelhead. The project associates with RPAs 33 and 64 in the Federal Columbia River Power System Biological Opinion. RPA 33 requires the Action Agencies to develop, in cooperation with regional salmon managers, and to then implement a Snake River steelhead kelt management plan designed to provide at least a 6% improvement in B-run population productivity. Toward that goal, a variety of approaches are being tested and implemented including passage improvements and reconditioning kelt stage steelhead. This project focuses on the reconditioning component. RPA 64 involves resolving artificial propagation critical uncertainties primarily through relative reproductive success studies. This project is working toward evaluating reproductive success of artificially reconditioned kelt steelhead.Kelt steelhead reconditioning process evaluations involve fish culturing practices, studying alternative management strategies, and implementing research scale reconditioning programs.This evaluation program is designed to investigate the reproductive success of artificially reconditioned kelt steelhead. Since direct examination of reproductive success in the field has proven very difficult, we are concentrating on measuring physiological and endocrinological parameters as an index to rematuration and reproductive success. Additionally, we are evaluating gamete and progeny viability and conducting reproductive success studies in the Yakima River using pedigree analysis.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/2051",
+  "title": "Kelt Steelhead Reconditioning and Reproductive Success Evaluation",
+  "id": 2051,
+  "assumptions": "<p>Kelt steelhead are available and collectable at study sites.</p>\r\n",
+  "objectives": [
+    "Evaluate rematuration rates of long-term reconditioned kelt steelhead.",
+    "Conduct relative reproductive success study of artificially reconditioned kelt steelhead in the Yakima River. ",
+    "Estimate the genetic stock structure of Snake River Basin kelt steelhead at Lower Granite Dam.",
+    "Study of alternative management strategies include measuring in-river survival of kelt steelhead to compare against reconditioning strategies.  ",
+    "Refine fish culturing practices for reconditioning kelt steelhead including diet experiments to investigate the benefits of specialized diets in terms of survival and rematuration metrics."
+  ],
+  "ownerName": "Doug Hatch",
+  "ownerEmail": "hatd@critfc.org"
+}

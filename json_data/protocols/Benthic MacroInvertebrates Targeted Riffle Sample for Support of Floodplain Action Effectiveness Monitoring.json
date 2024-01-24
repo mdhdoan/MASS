@@ -1,0 +1,12 @@
+{
+  "background": "This document details the monitoring design, procedures and quality assurance steps necessary to document and report the effectiveness of: Floodplain EnhancementProjects at the Project site scaleBPA MBACI Protocol for Monitoring the Effectiveness of Off-Channel Habitat / Floodplain Enhancement Projects(ID: 1880). This protocol is for only collecting macroinvertebrates and the sample site and time of sample for consumption in the overall protocol. This protocol supports the Bonneville Power Administrations Programmatic approach to project level Action Effectiveness Monitoring (AEM), as documented in Action Effectiveness Monitoring of Tributary Habitat Improvement: a programmatic approach for the BPA Fish and Wildlife Program. This document details the monitoring design, procedures, and quality assurance steps necessary to document and report the effectiveness of stream bank modifications designed to enhance floodplain connection through projects such as dike removal/setback, riprap removal, road removal/setback, landfill removal, active creation of side channels and off-channel habitat, and reconnection of off-channel habitat or side channels. The goal of floodplain enhancement projects is to restore the natural flood flow processes and active channel creation as needed so that gravel, large wood,floodplainmorphology and fish habitat can be restored.Questions To Be Answered : Has macroinvertebrate production changed as a result of restoration actions that have reconnected, created, or opened floodplain habitat? How have macroinvertebrate communities and species assemblages changed as a result of floodplain restoration actions? How do changes in the production and assemblages at the treatment reaches compare to the control reaches?",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/1970",
+  "title": "Benthic MacroInvertebrates Targeted Riffle Sample for Support of Floodplain Action Effectiveness Monitoring",
+  "id": 1970,
+  "assumptions": "<p>Access to impact and suitable control reaches will be provided.</p>\r\n\r\n<p>Correct identification of macroinvertebrates by processing laboratory.&nbsp;</p>\r\n\r\n<p>Macroinvertebrate species captured in a particular habitat type are indicative of the actual species living in that habitat.</p>\r\n",
+  "objectives": [
+    "Determine secondary production (macroinvertebrates) by habitat type (Years -2, -1, 1, 3, and 5)"
+  ],
+  "ownerName": "Russell Scranton",
+  "ownerEmail": "rwscranton@bpa.gov"
+}

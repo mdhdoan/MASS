@@ -1,0 +1,17 @@
+{
+  "background": "Sockeye salmon, Oncorhynchus nerka, is one of the species of Pacific salmon native to the Columbia River Basin. Prior to white settlement of the region, it is estimated the Columbia Basin supported an annual sockeye salmon run averaging over three million fish (Northwest Power Planning Council 1986, Fryer 1995). Since the mid-1800's, however, this sockeye salmon population has severely declined. The Columbia Basin sockeye salmon run was once composed of at least eight principal stocks (Fulton 1970, Fryer 1995). Today, only two major stocks remain. The Okanogan run is the Columbia Basins sole remaining transboundary stock. The fish spawn in the Canadian portion of the Okanagan River, then rear in Osoyoos Lake, through which runs the border between the United States and Canada. This run has persisted despite one of the longest, most difficult migrations of any salmon stock in the world. The stock migrates 986 km between the spawning grounds and the ocean through a series of irrigation control structures and one dam on the Okanogan River as well as nine mainstem Columbia River dams. The Wenatchee stock spawns in tributaries to Lake Wenatchee and rears in the lake. This stock migrates 842 km through two Wenatchee River dams and seven mainstem Columbia River dams. Since 1995, the abundance of this stock relative to the Okanogan stock has declined, although the reasons are unknown. Since both stocks are believed to be limited, at least in part, by upstream survival, in 2006 the Columbia River Inter-Tribal Fish Commission initiated a three year study funded by the Pacific Salmon Commission to examine upstream survival and timing by inserting Passive Integrated Transponder (PIT) tags in sockeye sampled at Bonneville Dam. This project will expand our Upstream Migration Studies project by funding deployment of PIT tag detection antennas as well as an acoustic tag network in the Okanagan Basin.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/132",
+  "title": "Factors limiting production of Okanagan and Wenatchee sockeye stocks (2008-503-00)",
+  "id": 132,
+  "assumptions": "<p>Sockeye sampled represent the run at large Tags applied do not affect survival or the characteristic being measured.</p>\r\n",
+  "objectives": [
+    "Estimate survival from Wells Dam to site OKC in the Okanagan River using PIT tags",
+    "Standardize smolt estimates between Osoyoos Lake and Lake Wenatchee",
+    "Estimate the sockeye carrying capacity of Lake Wenatchee using acoustic trawl surveys and limnology work.  ",
+    "Estimate juvenile survival from Okanagan Basin natal areas to Rocky Reach and McNary dams using PIT tags ",
+    "Use Didson to assess the feasibility of designing a PIT tag array for detecting PIT tagged sockeye salmon as they pass under the Osoyoos Highway 3 bridge to the Osoyoos Lake north basin",
+    "Test use of PIT barge to detect outmigrating PIT tagged juvenile Sockeye smolt at the Osoyoos Lake narrows.  "
+  ],
+  "ownerName": "Jeffrey Fryer",
+  "ownerEmail": "fryj@critfc.org"
+}

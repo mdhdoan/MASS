@@ -1,0 +1,14 @@
+{
+  "background": "Redd counts and carcass surveys are conducted to estimate Viable Salmonid Population (VSP) metrics (i.e. abundance, productivity, and spatial structure)for Chinook salmon populations in Idaho. These metrics are used by NOAA toassess thestatus of Snake River Spring/Summer Chinook salmon, which are currently listed as threatened under the Endangered Species Act. Additionally, these surveys have been conducted in a consistent manner in Idaho since 1957 and thus provide a valuablelong-term dataset.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/3311",
+  "title": "Redd counts and carcass sampling for wild Chinook Salmon in Idaho",
+  "id": 3311,
+  "assumptions": "<p>Transects selected for redd counts are representative of populations of interest.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "objectives": [
+    "Estimate Chinook salmon spawner abundance at the population level",
+    "Estimate age composition of adult Chinook salmon at the population level",
+    "Document spatial distribution of Chinook salmon redds "
+  ],
+  "ownerName": "Eli Felts",
+  "ownerEmail": "eli.felts@idfg.idaho.gov"
+}

@@ -1,0 +1,13 @@
+{
+  "background": "Hatchery adult trapping facilities provide the opportunity to collect information on wild salmonids. Three existing facilities in the Salmon River basin are utilized to monitor wild Chinook salmon abundance using mark-recapture methods. The three facilities include the McCall Fish Hatchery satellite facility on the South Fork Salmon River, Pahsimeroi Fish hatchery on the Pahsimeroi River, and Sawtooth Fish Hatchery on the Upper Salmon River.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/3309",
+  "title": "Wild adult Chinook Salmon monitoring in Idaho",
+  "id": 3309,
+  "assumptions": "<p>N/A</p>\r\n",
+  "objectives": [
+    "Estimate Chinook salmon spawner abundance above hatchery weirs",
+    "Estimate hatchery fraction of Chinook salmon passed above hatchery weirs"
+  ],
+  "ownerName": "Eli Felts",
+  "ownerEmail": "eli.felts@idfg.idaho.gov"
+}

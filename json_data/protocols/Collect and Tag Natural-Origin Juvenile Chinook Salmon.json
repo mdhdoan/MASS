@@ -1,0 +1,14 @@
+{
+  "background": "Critical to the The Chief Joseph Hatchery RM&E program are appropriate tagging/marking of natural origin summer/fall and spring Chinook emigrants to monitor populations status and tred, assess/update key program assumptions and decision rules. These monitoring and assessments will allow the CJH program to annually review previous year's program performance and stock status, thereby allowing the hatchery program to develop the upcoming hatchery implementation plan to manage the program goal.The RM&E program calls for up to 25,000 PIT tagged natural-origin summer/fall Chinook parr/smolts in order to monitor and evaluate the program annually. PIT tagging of natural-origin summer/falljuvenile Chinook occurs at theOkanogan River rotary screw trap sitein and on the Columbia River near the confluence with the Okanogan.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/2223",
+  "title": "Collect and Tag Natural-Origin Juvenile Chinook Salmon",
+  "id": 2223,
+  "assumptions": "<p>Our frame is representative of our target population (Okanogan summer/fall Chinook).</p>\r\n",
+  "objectives": [
+    "PIT tag up to 25,000 juvenile summer/fall Chinook emigrants and release them back into the system.",
+    "Operate a large beach seine on the Columbia River, near the confluence with the Okanogan River, to collect juvenile natural-origin summer/fall Chinook emigrants.",
+    "Operate (2) rotary screw traps and a small seine on the Okanogan River to collect juvenile natural-origin summer/fall and spring Chinook emigrants."
+  ],
+  "ownerName": "Andrea Pearl",
+  "ownerEmail": "andrea.pearl@colvilletribes.com"
+}

@@ -1,0 +1,13 @@
+{
+  "background": "The cultural and spiritual relationship between the native peoples of the Pacific Northwest and salmon was, and is, central to their society. Historically, the upper Columbia River Basin was home to five anadromous fish species Chinook SalmonOncorhynchus tshawytscha, Sockeye SalmonO. nerka, Coho SalmonO. kisutch, steelheadO. mykiss gairdnerii(anadromous Redband Rainbow Trout), and Pacific LampreyLampetra tridentata. However, fish passage in the Columbia River was blocked by the construction of Grand Coulee (1939; river km 960) and Chief Joseph dams (1956; river km 877). Currently, Chief Joseph Dam marks the most upstream extent of the habitat available to anadromous fish. The extirpation of these fish from the upper Columbia River Basin eliminated many subsistence fishing opportunities for Native American Tribes and First Nations in Canada. However, relict freshwater resident populations of historically anadromous fish still exist in these habitats including Redband Rainbow Trout and kokanee (lacustrine Sockeye Salmon).The Colville Confederated Tribes (CCT) Chief JosephKokaneeEnhancement Project (CJKEP) and the Resident Fish Research Monitoring and Evaluation (RM&E) Project and Columbia River Fish Accord project that began in 1996 and 2008, respectively.The primary goal for both projects is to:conserve, enhance and restore native fish populations in the blocked area above Grand Coulee Dam in Lake Roosevelt and its tributaries, and where appropriate provide opportunities for subsistence harvest by the Colville Tribal members and recreational anglers.The CJKEPhas focused on the protection and conservation of wild kokanee, while the RM&E Project has focused on the protection and conservationofRedband Trout populations on the CCT Reservation, with an emphasis on the Sanpoil River and Lake Roosevelt tributaries on the east side of the reservation.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/436",
+  "title": "Sanpoil River escapement, origin, and sex ratios of salmonids and trout",
+  "id": 436,
+  "assumptions": "<p>We assume our resistance panel weir trap is functioning properly.</p>\r\n",
+  "objectives": [
+    "Quantify escapement and population structure of wild redband trout in the Sanpoil River",
+    "Quantify escapement and population structure of wild kokanee salmon in the Sanpoil River"
+  ],
+  "ownerName": "Holly McLellan",
+  "ownerEmail": "holly.mclellan@colvilletribes.com"
+}

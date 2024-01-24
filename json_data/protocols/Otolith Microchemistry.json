@@ -1,0 +1,12 @@
+{
+  "background": "Otolith microchemical analysisis a technique used in fisheries managmentto delineate stocks and characterize movements and natal origin of various fish species.The concentrations of elements and isotopesin otoliths or other bony structuresare compared to those in the water in which the fish inhabitedin order to identify where it has been. Otoliths record specific isotope ratios that can remain stable irrespective of variation in elemental concentration. Strontium isotope ratios, for example, are substantially related to the age of the rocks in the surrounding watershed due to the decay of 87Rb into 87Sr. Thus, older rocks tend to be more radiogenic with higher 87Sr/86Sr values, which in turn influence the water and otolith isotope ratios. Isotopes of other elements such as lead also vary due to radiogenic origin, but also as a result of anthropogenic sources (e.g. industrial processes).",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/3282",
+  "title": "Otolith Microchemistry",
+  "id": 3282,
+  "assumptions": "<p>Water chemistry throughout the basin is different enough to detect changes in isotope ratios.</p>\r\n",
+  "objectives": [
+    "Use otolith micro chemistry to determine Northern Pike origin and general movements"
+  ],
+  "ownerName": "Holly McLellan",
+  "ownerEmail": "holly.mclellan@colvilletribes.com"
+}

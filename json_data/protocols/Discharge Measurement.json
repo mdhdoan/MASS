@@ -1,0 +1,12 @@
+{
+  "background": "The Wind River Watershed Project is a multi-agency watershed-scaleeffort to restore wild Wind River steelhead through habitat restoration and a robust RM and E program. Streamflow measurements on the Wind River are used to help manage juvenile traps, and to provide data for design and monitoring of habitat restoration work in the drainage.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/2104",
+  "title": "Discharge Measurement",
+  "id": 2104,
+  "assumptions": "<p>Stream stage measurements can be used to approximate stream discharge using an established rating curve developed at the monitoring location.</p>\r\n",
+  "objectives": [
+    "Provide hourly streamflow data available in realtime."
+  ],
+  "ownerName": "Bengt Coffin",
+  "ownerEmail": "bcoffin@fs.fed.us"
+}

@@ -1,0 +1,13 @@
+{
+  "background": "The delay of the onset of peak abundance of cladocerans (Rieman and Falter 1981; Caldwell 2010) and the higher survival of late-released hatchery-reared kokanee (Paragamian and Bowles 1995) suggest that survival of hatchery-reared kokanee can be optimized by altering the location and timing of their release in Lake Pend Oreille (LPO). Furthermore, understanding how dynamics between mysids and zooplankton influence all kokanee fry will help better understand what may limit early life survival.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/629",
+  "title": "LPO Evaluate the Distributions of Mysids and Zooplankton (1994-047-00)",
+  "id": 629,
+  "assumptions": "<p>Kokanee are limited by intrinsic or extrinsic competition for limited food resources</p>\r\n",
+  "objectives": [
+    "Identify locations within Lake Pend Oreille with high abundance of cladocerans, especially during kokanee fry emergence/stocking.",
+    "Determine the spatial and temporal distribution of mysids."
+  ],
+  "ownerName": "Pete Rust",
+  "ownerEmail": "Pete.Rust@idfg.idaho.gov"
+}

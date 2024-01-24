@@ -1,0 +1,13 @@
+{
+  "background": "This protocol was developed to assess current conditions or to track temporal and spatial trends in specific water quality metrics at point locations or throughout a watershed. This protocol can be employed throughout the year at various levels of stream flow, depending on what the objectives are for the individual/organization. For example, this protocol can be used to assess current water quality conditions, track changes within a year, or from year to year. Our program tracks water quality throughout the Hangman Creek watershed at a total of 25 sites. These sites are distributed throughout the mainstem and tributaries of the upper Hangman Creek watershed; SF Hangman Creek, Indian Creek, Smith Creek, Nehchen Creek, Sheep Creek, and Mission Creek.Beaver can have a large influence on stream function as well as on habitat for various aquatic species. In order to gain a better understanding of this and how water quality metrics may differ from adjacent free-flowing stream habitat, our program will take opportunistic water quality measurements throughout the vertical profile of a beaver pond. This typically takes place at or near the deepest location within the beaver pond and data is gathered at 1-foot intervals.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/3277",
+  "title": "Monitoring water quality metrics in wadeable streams",
+  "id": 3277,
+  "assumptions": null,
+  "objectives": [
+    "To obtain water quality metrics within a watershed to assess current conditions or monitor trends over time for a represented stream reach.",
+    "Obtain water quality metrics (dissolved oxygen and temperature) throughout the vertical profile of pool(s) created by beaver."
+  ],
+  "ownerName": "Thomas Biladeau",
+  "ownerEmail": "tbiladeau@cdatribe-nsn.gov"
+}

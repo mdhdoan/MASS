@@ -4,6 +4,10 @@
   "title": "KRRFM - Determining Fish Assemblage Structure in Large Western River Systems (Graduate Research)",
   "id": 1985,
   "assumptions": "<p>Sample locations assume fish populations to be closed via temporal short&nbsp;sampling events.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/4004",
+    "http://www.monitoringresources.org/api/v1/methods/4005"
+  ],
   "objectives": [
     "Evaluate efficacy of sampling techniques for fish assemblages and the influence of habitat characteristics on detectability. ",
     "Describe fish assemblage and population-level relationships with habitat."

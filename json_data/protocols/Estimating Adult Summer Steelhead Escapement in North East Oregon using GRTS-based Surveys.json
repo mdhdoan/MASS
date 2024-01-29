@@ -4,6 +4,21 @@
   "title": "Estimating Adult Summer Steelhead Escapement in North East Oregon using GRTS-based Surveys",
   "id": 757,
   "assumptions": "<p>The sample universe conservatively represents the spatial extent utilized by spawning adult steelhead.</p>\r\n\r\n<p>Redds are counted with minimal error (no double, over-, or under counting errors)</p>\r\n\r\n<p>Redd numbers reflect population status.</p>\r\n\r\n<p>Sampled sites represent like unsampled sites.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/131",
+    "http://www.monitoringresources.org/api/v1/methods/402",
+    "http://www.monitoringresources.org/api/v1/methods/454",
+    "http://www.monitoringresources.org/api/v1/methods/1429",
+    "http://www.monitoringresources.org/api/v1/methods/1549",
+    "http://www.monitoringresources.org/api/v1/methods/5407",
+    "http://www.monitoringresources.org/api/v1/methods/5409",
+    "http://www.monitoringresources.org/api/v1/methods/5410",
+    "http://www.monitoringresources.org/api/v1/methods/5437",
+    "http://www.monitoringresources.org/api/v1/methods/5445",
+    "http://www.monitoringresources.org/api/v1/methods/5477",
+    "http://www.monitoringresources.org/api/v1/methods/5493",
+    "http://www.monitoringresources.org/api/v1/methods/6643"
+  ],
   "objectives": [
     "Estimate the population-scale escapement of summer steelhead ",
     "Estimate the distribution of summer steelhead redds and spawners across watersheds.",

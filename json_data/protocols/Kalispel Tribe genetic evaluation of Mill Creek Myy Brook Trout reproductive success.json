@@ -4,6 +4,18 @@
   "title": "Kalispel Tribe genetic evaluation of Mill Creek Myy Brook Trout reproductive success",
   "id": 3534,
   "assumptions": null,
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/454",
+    "http://www.monitoringresources.org/api/v1/methods/1345",
+    "http://www.monitoringresources.org/api/v1/methods/1347",
+    "http://www.monitoringresources.org/api/v1/methods/1349",
+    "http://www.monitoringresources.org/api/v1/methods/1357",
+    "http://www.monitoringresources.org/api/v1/methods/1432",
+    "http://www.monitoringresources.org/api/v1/methods/1691",
+    "http://www.monitoringresources.org/api/v1/methods/1712",
+    "http://www.monitoringresources.org/api/v1/methods/5446",
+    "http://www.monitoringresources.org/api/v1/methods/6569"
+  ],
   "objectives": [
     "Conduct annual genetic parentage analyses to determine if Myy Brook Trout have successfully spawned with the extant population.",
     "Conduct annual genetic evaluation to estimate the sex ratio and determine if male Brook Trout abundance is increasing as a result of successive Myy Brook Trout spawning with the extant population."

@@ -4,6 +4,11 @@
   "title": "DWR Real time water quality data collection",
   "id": 3705,
   "assumptions": null,
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/7087",
+    "http://www.monitoringresources.org/api/v1/methods/7100",
+    "http://www.monitoringresources.org/api/v1/methods/7101"
+  ],
   "objectives": [
     "Calibrate, deploy, retrieve, quality assure, and report real time water quality data."
   ],

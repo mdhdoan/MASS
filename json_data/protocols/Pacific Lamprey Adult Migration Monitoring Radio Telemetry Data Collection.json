@@ -4,6 +4,17 @@
   "title": "Pacific Lamprey Adult Migration Monitoring Radio Telemetry Data Collection",
   "id": 3609,
   "assumptions": null,
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/1432",
+    "http://www.monitoringresources.org/api/v1/methods/4241",
+    "http://www.monitoringresources.org/api/v1/methods/4244",
+    "http://www.monitoringresources.org/api/v1/methods/6908",
+    "http://www.monitoringresources.org/api/v1/methods/7102",
+    "http://www.monitoringresources.org/api/v1/methods/7103",
+    "http://www.monitoringresources.org/api/v1/methods/7104",
+    "http://www.monitoringresources.org/api/v1/methods/7105",
+    "http://www.monitoringresources.org/api/v1/methods/7106"
+  ],
   "objectives": [
     "Evaluate the relative passage performance of adult Pacific Lamprey at mainstem and tributary barriers.",
     "Evaluate behavior and distribution patterns of upstream migrating adult Pacific Lamprey at mainstem and tributary barriers.",

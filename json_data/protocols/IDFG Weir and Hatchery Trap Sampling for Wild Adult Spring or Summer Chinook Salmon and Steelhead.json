@@ -4,6 +4,28 @@
   "title": "IDFG Weir and Hatchery Trap Sampling for Wild Adult Spring/Summer Chinook Salmon and Steelhead",
   "id": 3569,
   "assumptions": "<p>N/A</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/145",
+    "http://www.monitoringresources.org/api/v1/methods/253",
+    "http://www.monitoringresources.org/api/v1/methods/342",
+    "http://www.monitoringresources.org/api/v1/methods/380",
+    "http://www.monitoringresources.org/api/v1/methods/700",
+    "http://www.monitoringresources.org/api/v1/methods/1334",
+    "http://www.monitoringresources.org/api/v1/methods/1341",
+    "http://www.monitoringresources.org/api/v1/methods/1356",
+    "http://www.monitoringresources.org/api/v1/methods/1429",
+    "http://www.monitoringresources.org/api/v1/methods/1430",
+    "http://www.monitoringresources.org/api/v1/methods/1432",
+    "http://www.monitoringresources.org/api/v1/methods/1433",
+    "http://www.monitoringresources.org/api/v1/methods/1440",
+    "http://www.monitoringresources.org/api/v1/methods/1742",
+    "http://www.monitoringresources.org/api/v1/methods/3924",
+    "http://www.monitoringresources.org/api/v1/methods/4000",
+    "http://www.monitoringresources.org/api/v1/methods/4174",
+    "http://www.monitoringresources.org/api/v1/methods/4220",
+    "http://www.monitoringresources.org/api/v1/methods/5511",
+    "http://www.monitoringresources.org/api/v1/methods/6640"
+  ],
   "objectives": [
     "Capture and sample wild adult Chinook salmon and Steelhead at IDFG-operated temporary weirs and hatchery traps.",
     "Collect critical data from weir and trap sampled wild adult Chinook Salmon and steelhead including return timing, fork length, phenotypic sex, and tissue samples for genetic analyses."

@@ -4,6 +4,14 @@
   "title": "SFPH - Carcass Counts",
   "id": 16,
   "assumptions": "It is important to be aware that there are differential recovery rates of carcasses that may bias sampling (e.g., females tend to end up closer to the redds, and lighter males may wash farther outstream [Zhou 2002]). Additionally, small fish may be underrepresented using carcass sampling because they are more easily scavenged and harder to see [Cropp et al. 2002].",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/107",
+    "http://www.monitoringresources.org/api/v1/methods/108",
+    "http://www.monitoringresources.org/api/v1/methods/109",
+    "http://www.monitoringresources.org/api/v1/methods/110",
+    "http://www.monitoringresources.org/api/v1/methods/111",
+    "http://www.monitoringresources.org/api/v1/methods/112"
+  ],
   "objectives": [
     "Determine contribution of nutrient amounts to ecosystem.",
     "Recover carcasses in support of mark\u2013recapture and other demographic studies.",

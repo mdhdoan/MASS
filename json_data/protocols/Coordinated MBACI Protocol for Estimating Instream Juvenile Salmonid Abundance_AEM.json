@@ -4,6 +4,13 @@
   "title": "Coordinated MBACI Protocol for Estimating Instream Juvenile Salmonid Abundance_AEM",
   "id": 2044,
   "assumptions": "<p>Access to impact and suitable control reaches will be provided prior to project implementation and for a period of five years following project completion.</p>\r\n\r\n<p>Reach is suitable for snorkel surveys.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/294",
+    "http://www.monitoringresources.org/api/v1/methods/1581",
+    "http://www.monitoringresources.org/api/v1/methods/4073",
+    "http://www.monitoringresources.org/api/v1/methods/4076",
+    "http://www.monitoringresources.org/api/v1/methods/4228"
+  ],
   "objectives": [
     "Determine whether juvenile salmonid density and abundance by channel unit in a restored reach is increasing relative to a control reach.  "
   ],

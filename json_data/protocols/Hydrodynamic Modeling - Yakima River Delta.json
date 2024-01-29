@@ -4,6 +4,10 @@
   "title": "Hydrodynamic Modeling - Yakima River Delta",
   "id": 3360,
   "assumptions": "<p>Constraints of the hydroelectric system and related factors associated with water surface elevation changes are well understood (these have been discussed and researched in detail through the actions of the Predator Recruitment Reduction Team).</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/814",
+    "http://www.monitoringresources.org/api/v1/methods/6659"
+  ],
   "objectives": [
     "Determine operations necessary to displace larval non-native predators"
   ],

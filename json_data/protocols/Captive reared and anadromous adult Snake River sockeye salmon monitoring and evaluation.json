@@ -4,6 +4,21 @@
   "title": "Captive reared and anadromous adult Snake River sockeye salmon monitoring and evaluation",
   "id": 1913,
   "assumptions": "<p>Adults collected at basin trap locations are representative of the adult return group.</p>\r\n\r\n<p>Adults released within Redfish Lake behave and spawn similar to non-program adults within the population.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/195",
+    "http://www.monitoringresources.org/api/v1/methods/380",
+    "http://www.monitoringresources.org/api/v1/methods/395",
+    "http://www.monitoringresources.org/api/v1/methods/454",
+    "http://www.monitoringresources.org/api/v1/methods/700",
+    "http://www.monitoringresources.org/api/v1/methods/1366",
+    "http://www.monitoringresources.org/api/v1/methods/1433",
+    "http://www.monitoringresources.org/api/v1/methods/1454",
+    "http://www.monitoringresources.org/api/v1/methods/1744",
+    "http://www.monitoringresources.org/api/v1/methods/4041",
+    "http://www.monitoringresources.org/api/v1/methods/4087",
+    "http://www.monitoringresources.org/api/v1/methods/4223",
+    "http://www.monitoringresources.org/api/v1/methods/5356"
+  ],
   "objectives": [
     "Collect biological data from anadromous returning adult Snake River sockeye salmon.\r\n",
     "Describe the spawning behavior and distribution of Snake River sockeye adults released to volitionally spawn."

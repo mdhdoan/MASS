@@ -4,6 +4,15 @@
   "title": "Obtaining indices of trout abundance in streams",
   "id": 572,
   "assumptions": "<p>Habitat units (e.g., pool availability) and habitat attributes (e.g., percent canopy cover) in the selected sample sites are representative of the habitat in the reach from which they were randomly selected.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/118",
+    "http://www.monitoringresources.org/api/v1/methods/342",
+    "http://www.monitoringresources.org/api/v1/methods/1058",
+    "http://www.monitoringresources.org/api/v1/methods/1551",
+    "http://www.monitoringresources.org/api/v1/methods/1734",
+    "http://www.monitoringresources.org/api/v1/methods/1736",
+    "http://www.monitoringresources.org/api/v1/methods/3991"
+  ],
   "objectives": [
     "Obtain reach-scale indices of trout abundance that can be used in prospective trend analyses"
   ],

@@ -4,6 +4,21 @@
   "title": "Snake River sockeye salmon juvenile outmigration monitoring and evaluation",
   "id": 1910,
   "assumptions": "<p>Juveniles collected at the basin outmigration traps are representative of the population leaving the basin.</p>\r\n\r\n<p>Differential mortality between marked and unmarked fish does not occur.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/342",
+    "http://www.monitoringresources.org/api/v1/methods/433",
+    "http://www.monitoringresources.org/api/v1/methods/1090",
+    "http://www.monitoringresources.org/api/v1/methods/1362",
+    "http://www.monitoringresources.org/api/v1/methods/1454",
+    "http://www.monitoringresources.org/api/v1/methods/1636",
+    "http://www.monitoringresources.org/api/v1/methods/1739",
+    "http://www.monitoringresources.org/api/v1/methods/4041",
+    "http://www.monitoringresources.org/api/v1/methods/4087",
+    "http://www.monitoringresources.org/api/v1/methods/5356",
+    "http://www.monitoringresources.org/api/v1/methods/5400",
+    "http://www.monitoringresources.org/api/v1/methods/6583",
+    "http://www.monitoringresources.org/api/v1/methods/6878"
+  ],
   "objectives": [
     "Estimate the survival and travel time of each release strategy  and rearing location of juveniles emigrating from Sawtooth Basin lakes to Lower Granite Dam.",
     "Estimate the total outmigration of sockeye salmon smolts from three lakes in the Sawtooth Basin."

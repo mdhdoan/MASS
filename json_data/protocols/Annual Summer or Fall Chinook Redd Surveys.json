@@ -4,6 +4,14 @@
   "title": "Annual Summer/Fall Chinook Redd Surveys",
   "id": 3276,
   "assumptions": "<p>Redds are created by a single female Chinook.&nbsp;</p>\r\n\r\n<p>Female Chinook create only a single redd.</p>\r\n\r\n<p>Redds are observable by survey crews.</p>\r\n\r\n<p>Redds are counted with reasonable accuracy (i.e. minimal double-counting, under-counting, over-counting)</p>\r\n\r\n<p>The sex-ratio (which is combined with redd count data to estimate spawner abundance) obtained from passage observations at Well Dam is representative of the sex-ratio on Okanogan Basin spawning grounds (Okanogan and Similkameen Rivers)</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/104",
+    "http://www.monitoringresources.org/api/v1/methods/105",
+    "http://www.monitoringresources.org/api/v1/methods/131",
+    "http://www.monitoringresources.org/api/v1/methods/454",
+    "http://www.monitoringresources.org/api/v1/methods/5408",
+    "http://www.monitoringresources.org/api/v1/methods/6749"
+  ],
   "objectives": [
     "Monitor status and trends in spatial distribution of redds (habitat use)",
     "Monitor status and trends in spawn timing",

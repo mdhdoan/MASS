@@ -4,6 +4,10 @@
   "title": "Sampling invertebrate biomass and diversity in wetlands",
   "id": 3540,
   "assumptions": null,
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/6843",
+    "http://www.monitoringresources.org/api/v1/methods/6858"
+  ],
   "objectives": [
     "To assess invertebrate biomass, species richness, and diversity in wetlands that include and exclude fish.  Then evaluate how that impacts local waterfowl production."
   ],

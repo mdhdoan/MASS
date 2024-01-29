@@ -4,6 +4,12 @@
   "title": "Nez Perce In-Hatchery Data Collection",
   "id": 2256,
   "assumptions": null,
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/6639",
+    "http://www.monitoringresources.org/api/v1/methods/6646",
+    "http://www.monitoringresources.org/api/v1/methods/6648",
+    "http://www.monitoringresources.org/api/v1/methods/6649"
+  ],
   "objectives": [
     "Provide support and perform hatchery effectiveness monitoring and evaluation to adaptively manage Nez Perce Tribe hatchery programs.",
     "Provide support and perform critical uncertainty analysis research for action effectiveness."

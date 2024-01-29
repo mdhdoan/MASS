@@ -4,6 +4,9 @@
   "title": "Parentage based tagging sample collection from Chinook salmon at Chief Joseph Hatchery",
   "id": 2229,
   "assumptions": "<p>*NOTE: Chief Joseph Hatchery staff are responsible for collecting the genetic samples and biological information ONLY. Samples and data are shipped to the Columbia River Intertribal Fish Commission (CRITFC) Hagerman Genetics Laboratory (3059F National Fish Hatchery Road, Hagerman, Idaho 83332) for any futher processing and/or data analysis.</p>\r\n\r\n<p>Genetic samples can be collected and properly preserved from every Chinook salmon hatchery&nbsp;broodstock&nbsp;spawned at Chief Joseph Hatchery. In addition, accurate biological information (stock, spawn date, sex, cross information) can be recorded for every adult sampled. A set of&nbsp;SNP&nbsp;markers can be developed/identified that can achieve high parental assignment accuracy even when tens of thousands of potential parents are involved and when parentage involves hatchery populations that are very similar genetically due to shared ancestry or in situations where the&nbsp;broodstock&nbsp;contains closely related individuals (ISRP/ISAB&nbsp;2009).</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/1432"
+  ],
   "objectives": [
     "Describe how PBT genetic samples are to be collected from hatchery Chinook salmon at Chief Joseph Hatchery."
   ],

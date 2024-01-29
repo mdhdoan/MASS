@@ -4,6 +4,21 @@
   "title": "IDFG ROTARY SCREW TRAPPING for wild Chinook Salmon and steelhead emigrants in the Clearwater and Salmon River basins.",
   "id": 3570,
   "assumptions": "<p>Rotary screw traps can provide representative samples of emigrating steelhead juveniles.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/133",
+    "http://www.monitoringresources.org/api/v1/methods/134",
+    "http://www.monitoringresources.org/api/v1/methods/191",
+    "http://www.monitoringresources.org/api/v1/methods/387",
+    "http://www.monitoringresources.org/api/v1/methods/389",
+    "http://www.monitoringresources.org/api/v1/methods/1360",
+    "http://www.monitoringresources.org/api/v1/methods/1378",
+    "http://www.monitoringresources.org/api/v1/methods/1433",
+    "http://www.monitoringresources.org/api/v1/methods/1678",
+    "http://www.monitoringresources.org/api/v1/methods/4041",
+    "http://www.monitoringresources.org/api/v1/methods/5411",
+    "http://www.monitoringresources.org/api/v1/methods/5519",
+    "http://www.monitoringresources.org/api/v1/methods/6634"
+  ],
   "objectives": [
     "Produce estimates of Chinook Salmon and steelhead emigrant abundance past RSTs by season and cohort.",
     "Produce estimates of freshwater productivity for the monitored populations of wild Chinook Salmon and steelhead emigrants for which corresponding estimates of adult abundance are available.",

@@ -4,6 +4,14 @@
   "title": "Understanding the relationship between minijack and jack rates in spring Chinook salmon",
   "id": 3417,
   "assumptions": "<p>The key assumption of this protocol is that the 11-KT ELISA and genetic sex marker protocol is conducted according to standard published biochemical techniques.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/371",
+    "http://www.monitoringresources.org/api/v1/methods/746",
+    "http://www.monitoringresources.org/api/v1/methods/1340",
+    "http://www.monitoringresources.org/api/v1/methods/3814",
+    "http://www.monitoringresources.org/api/v1/methods/4041",
+    "http://www.monitoringresources.org/api/v1/methods/6583"
+  ],
   "objectives": [
     "Assess minijack and jack rates of high and low growth rearing groups of hatchery spring Chinook salmon\r\n"
   ],

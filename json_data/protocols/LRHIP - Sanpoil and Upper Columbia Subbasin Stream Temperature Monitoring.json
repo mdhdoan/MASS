@@ -4,6 +4,10 @@
   "title": "LRHIP - Sanpoil and Upper Columbia Subbasin Stream Temperature Monitoring",
   "id": 518,
   "assumptions": "<p>The temperature data (~&nbsp;1m^2) collected at the logger location is representative of the water temperature within the entire reach it is located.&nbsp;</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/817",
+    "http://www.monitoringresources.org/api/v1/methods/846"
+  ],
   "objectives": [
     "Collect continuous surface water temperature in all migratory redband rainbow trout spawning tributaries. "
   ],

@@ -4,6 +4,10 @@
   "title": "Survival to emergence and out-migration timing (1995-011-00)",
   "id": 442,
   "assumptions": "<p>The project assumes study areas will be safe to access during the key development and out-migration periods.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/1070",
+    "http://www.monitoringresources.org/api/v1/methods/1144"
+  ],
   "objectives": [
     "Estimate egg to emergence survival and timing of out-migration"
   ],

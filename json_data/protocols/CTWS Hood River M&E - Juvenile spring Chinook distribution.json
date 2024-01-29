@@ -4,6 +4,9 @@
   "title": "CTWS Hood River M&E - Juvenile spring Chinook distribution",
   "id": 766,
   "assumptions": "<p>Fish species that are present are detected by surveyors, fish can be identified correctly.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/136"
+  ],
   "objectives": [
     "Determine distribution of juvenile anadromous salmonids through the Hood River basin. ",
     "Determine fish community composition in Hood River basin streams"

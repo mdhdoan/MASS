@@ -4,6 +4,12 @@
   "title": "Performance of volitional and forceout release of hatchery-reared spring Chinook salmon",
   "id": 820,
   "assumptions": "<p>PIT tag readers detect representative numbers of each release group.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/254",
+    "http://www.monitoringresources.org/api/v1/methods/721",
+    "http://www.monitoringresources.org/api/v1/methods/3972",
+    "http://www.monitoringresources.org/api/v1/methods/5258"
+  ],
   "objectives": [
     "Describe and compare differences in survival, arrival timing, and travel time for hatchery-origin spring Chinook salmon reared at Catherine Creek and Upper Grande Ronde River acclimation facilities."
   ],

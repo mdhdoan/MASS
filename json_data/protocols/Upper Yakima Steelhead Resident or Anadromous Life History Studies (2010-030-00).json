@@ -4,6 +4,19 @@
   "title": "Upper Yakima Steelhead Resident/Anadromous Life History Studies (2010-030-00)",
   "id": 2165,
   "assumptions": "<p>There are minimal assumptions associated with this work in the context of uncertainties research, because it supplies data necessary to understand the interplay between life history forms (we make no assumptions).&nbsp; However, in generating abundance estimates of both resident trout and juvenile anadromous steelhead, we assume instream survival of both forms is the same prior to the smolt stage for the migrants.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/109",
+    "http://www.monitoringresources.org/api/v1/methods/118",
+    "http://www.monitoringresources.org/api/v1/methods/119",
+    "http://www.monitoringresources.org/api/v1/methods/488",
+    "http://www.monitoringresources.org/api/v1/methods/700",
+    "http://www.monitoringresources.org/api/v1/methods/780",
+    "http://www.monitoringresources.org/api/v1/methods/1360",
+    "http://www.monitoringresources.org/api/v1/methods/1734",
+    "http://www.monitoringresources.org/api/v1/methods/1736",
+    "http://www.monitoringresources.org/api/v1/methods/4041",
+    "http://www.monitoringresources.org/api/v1/methods/5411"
+  ],
   "objectives": [
     "Determine viable salmonid population (VSP) metrics for sympatric resident and anadromous O. mykiss life history types in pre selected locations."
   ],

@@ -4,6 +4,16 @@
   "title": "Monitoring adult summer steelhead returns at Lookingglass weir",
   "id": 3450,
   "assumptions": "<p>The adult trap is effective in capturing a large (&gt;90%) portion of the run going above Lookingglass&nbsp;weir and the sample provides unbiased estimates of escapement and life history metrics.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/29",
+    "http://www.monitoringresources.org/api/v1/methods/135",
+    "http://www.monitoringresources.org/api/v1/methods/253",
+    "http://www.monitoringresources.org/api/v1/methods/380",
+    "http://www.monitoringresources.org/api/v1/methods/384",
+    "http://www.monitoringresources.org/api/v1/methods/454",
+    "http://www.monitoringresources.org/api/v1/methods/1366",
+    "http://www.monitoringresources.org/api/v1/methods/4041"
+  ],
   "objectives": [
     "Describe wild adult summer steelhead life history and abundance for Lookingglass Creek."
   ],

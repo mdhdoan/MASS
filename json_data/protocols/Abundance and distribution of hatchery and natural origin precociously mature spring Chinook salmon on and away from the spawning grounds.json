@@ -4,6 +4,14 @@
   "title": "Abundance and distribution of hatchery and natural origin precociously mature spring Chinook salmon on and away from the spawning grounds",
   "id": 1960,
   "assumptions": "<p>Juvenile spring Chinook observed are precociously mature (Pearsons et al. 2009), and are predominantly found on active redds (Gebhards 1960; James et al. 1999).</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/120",
+    "http://www.monitoringresources.org/api/v1/methods/121",
+    "http://www.monitoringresources.org/api/v1/methods/131",
+    "http://www.monitoringresources.org/api/v1/methods/136",
+    "http://www.monitoringresources.org/api/v1/methods/4226",
+    "http://www.monitoringresources.org/api/v1/methods/6706"
+  ],
   "objectives": [
     "Monitor the relative abundance and distribution of precociously mature, hatchery and natural origin, spring Chinook salmon (minijacks) present on active redds",
     "Determine the period of peak spawning activity"

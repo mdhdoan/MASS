@@ -4,6 +4,21 @@
   "title": "BPA MBACI Protocol for Monitoring the Effectiveness of Livestock Fencing Projects",
   "id": 1877,
   "assumptions": "<p>Access to the control and impact reaches will be provided for a period of at least two years prior to implementation and ten years following project implementation.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/156",
+    "http://www.monitoringresources.org/api/v1/methods/166",
+    "http://www.monitoringresources.org/api/v1/methods/238",
+    "http://www.monitoringresources.org/api/v1/methods/868",
+    "http://www.monitoringresources.org/api/v1/methods/910",
+    "http://www.monitoringresources.org/api/v1/methods/1585",
+    "http://www.monitoringresources.org/api/v1/methods/4048",
+    "http://www.monitoringresources.org/api/v1/methods/4052",
+    "http://www.monitoringresources.org/api/v1/methods/4070",
+    "http://www.monitoringresources.org/api/v1/methods/4073",
+    "http://www.monitoringresources.org/api/v1/methods/4102",
+    "http://www.monitoringresources.org/api/v1/methods/4103",
+    "http://www.monitoringresources.org/api/v1/methods/5279"
+  ],
   "objectives": [
     "Determine overall use by livestock of the riparian area to be excluded (Years -1 (pre-project))",
     "Determine if the percentage of pool tail fines is decreasing as a result of the project (Years -1(pre-project),  Years 1, 3, 5, and 10 (post-project))",

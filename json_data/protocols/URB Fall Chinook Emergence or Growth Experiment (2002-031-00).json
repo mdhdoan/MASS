@@ -4,6 +4,15 @@
   "title": "URB Fall Chinook Emergence/Growth Experiment (2002-031-00)",
   "id": 304,
   "assumptions": "<p>This methodology has been used successfully for similar studies of life-history diversity in bothWinter (Sacramento) and Spring (Yakima) Chinook stocks. It is very likely to be successful for our proposed work with Fall Chinook. However, as with comparisons between Winter and Spring Chinook salmon, the life-history response with regard to magnitude was very different for these two run types and is likely to be different still for Fall Chinook. So, making predictions with regard to response is challenging. However, this fact speaks to the need for conducting these types of studies in a repeated systematic way in order to understand where there are and are not parallel results and applications to different Chinook Run types.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/368",
+    "http://www.monitoringresources.org/api/v1/methods/371",
+    "http://www.monitoringresources.org/api/v1/methods/1550",
+    "http://www.monitoringresources.org/api/v1/methods/1734",
+    "http://www.monitoringresources.org/api/v1/methods/3785",
+    "http://www.monitoringresources.org/api/v1/methods/3814",
+    "http://www.monitoringresources.org/api/v1/methods/3815"
+  ],
   "objectives": [
     "Assess growth and smolt development of Umatilla River, URB Fall Chinook salmon reared in a laboratory scale 2x2 factorial experiment altering emergence time and early growth rate",
     "Assess precocious male maturation rates at age-1 and 2 in Umatilla River, URB Fall Chinook salmon reared in a laboratory scale 2x2 factorial experiment altering emergence time and early growth rate."

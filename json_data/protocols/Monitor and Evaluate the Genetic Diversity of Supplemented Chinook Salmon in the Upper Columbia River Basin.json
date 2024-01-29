@@ -4,6 +4,19 @@
   "title": "Monitor and Evaluate the Genetic Diversity of Supplemented Chinook Salmon in the Upper Columbia River Basin",
   "id": 3624,
   "assumptions": "<p>We assume that by sampling a stretch of each site ranging from 1/4-1 mile in length, that we are not sampling a single family grouping. Additionally, we choose to sample juveniles at each study site rather than returning adults, as juveniles are not as susceptible to straying issues.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/1332",
+    "http://www.monitoringresources.org/api/v1/methods/1340",
+    "http://www.monitoringresources.org/api/v1/methods/1345",
+    "http://www.monitoringresources.org/api/v1/methods/1347",
+    "http://www.monitoringresources.org/api/v1/methods/1352",
+    "http://www.monitoringresources.org/api/v1/methods/1353",
+    "http://www.monitoringresources.org/api/v1/methods/1354",
+    "http://www.monitoringresources.org/api/v1/methods/1357",
+    "http://www.monitoringresources.org/api/v1/methods/1431",
+    "http://www.monitoringresources.org/api/v1/methods/4002",
+    "http://www.monitoringresources.org/api/v1/methods/5446"
+  ],
   "objectives": [
     "Monitoring question 1: Is the contemporary allele frequency of natural-origin fish and hatchery-origin fish similar to the baseline allele frequency of natural-origin fish over time?",
     "Monitoring question 2: Is the contemporary allele frequency of hatchery-origin broodstock similar to the baseline allele frequency of hatchery-origin broodstock over time?",

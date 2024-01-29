@@ -4,6 +4,10 @@
   "title": "Discharge Measurement",
   "id": 2104,
   "assumptions": "<p>Stream stage measurements can be used to approximate stream discharge using an established rating curve developed at the monitoring location.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/847",
+    "http://www.monitoringresources.org/api/v1/methods/4106"
+  ],
   "objectives": [
     "Provide hourly streamflow data available in realtime."
   ],

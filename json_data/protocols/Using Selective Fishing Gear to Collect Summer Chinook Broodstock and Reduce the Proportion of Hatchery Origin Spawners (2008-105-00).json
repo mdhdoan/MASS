@@ -4,6 +4,13 @@
   "title": "Using Selective Fishing Gear to Collect Summer Chinook Broodstock and Reduce the Proportion of Hatchery Origin Spawners (2008-105-00)",
   "id": 402,
   "assumptions": "<p>Okanogan River summer/fall Chinook are subject to a very high exploitation rate in Pacific Ocean and Columbia River fisheries.&nbsp;</p>\r\n\r\n<p>Numbers of returning fish fluctuate from year to year due to yearly changes in spawning conditions, hatchery production levels, SAR rate, ocean conditions, exploitation rate and river conditions.&nbsp;</p>\r\n\r\n<p>Hatchery supplementation and selective fisheries increase&nbsp;fish availablity&nbsp;for terminal fisheries and allow a higher proportion of NOR escapement into natural spawning areas.&nbsp;</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/138",
+    "http://www.monitoringresources.org/api/v1/methods/1503",
+    "http://www.monitoringresources.org/api/v1/methods/5257",
+    "http://www.monitoringresources.org/api/v1/methods/6588",
+    "http://www.monitoringresources.org/api/v1/methods/6771"
+  ],
   "objectives": [
     "Collect natural-origin and hatchery-origin summer/fall Chinook broodstock for the Chief Joseph Hatchery Program using purse seine, tangle nets and other selective fishing gears  and techniques",
     "Reduce pHOS of summer/fall Chinook in the Upper Columbia and Okanogan river basins by harvesting HOR summer Chinook for subsistence and ceremonial uses and releasing NOR Chinook at point of capture",

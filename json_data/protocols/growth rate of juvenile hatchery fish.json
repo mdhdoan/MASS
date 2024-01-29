@@ -4,6 +4,10 @@
   "title": "growth rate of juvenile hatchery fish",
   "id": 787,
   "assumptions": "<p>Juvenile growth rate is assumed to be a component of total fitness because size at release is correlated with subsequent survival.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/3957",
+    "http://www.monitoringresources.org/api/v1/methods/4042"
+  ],
   "objectives": [
     "Test for presence of significant family by environment (crowding level) interaction in fish raised in a hatchery"
   ],

@@ -4,6 +4,10 @@
   "title": "Harvest sampling (2008-502-00)",
   "id": 147,
   "assumptions": "<p>Mainstem fisheries are managed to stay within allowed harvest rates under the terms of the U.S. v. Oregon Management Agreement.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/3906",
+    "http://www.monitoringresources.org/api/v1/methods/3907"
+  ],
   "objectives": [
     "Collect harvest data",
     "Collect PIT tag data"

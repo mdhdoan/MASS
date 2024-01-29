@@ -4,6 +4,11 @@
   "title": "Evaluation of Lamprey Use of Salmonid Restoration Projects",
   "id": 3631,
   "assumptions": null,
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/216",
+    "http://www.monitoringresources.org/api/v1/methods/580",
+    "http://www.monitoringresources.org/api/v1/methods/6773"
+  ],
   "objectives": [
     "Quantify the area and condition of Type 1 lamprey rearing habitat present (as per Close 2000) at a suite of historic salmonid-focused habitat restoration projects in the Methow and Entiat Subbasins.\t",
     "Quantify the presence and biomass of larval lamprey in available Type 1 habitat present at sampled salmonid-focused habitat restoration projects (see attached field data sheet). ",

@@ -4,6 +4,10 @@
   "title": "Long-term Monitoring of Wetland Accretion Rates in the Lower Columbia River Estuary and Tidal River",
   "id": 3648,
   "assumptions": null,
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/6994",
+    "http://www.monitoringresources.org/api/v1/methods/6995"
+  ],
   "objectives": [
     "Monitor long-term changes in LCRE wetland elevation.",
     "Monitor long-term changes in LCRE wetland accretion.",

@@ -4,6 +4,15 @@
   "title": "Water Quality, Limnology, and Zooplankton Monitoring in Lake Roosevelt (1994-043-00)",
   "id": 533,
   "assumptions": "<p>Spatial and temporal design accurately characterize the reaches within the reservoir.&nbsp;Metrics respond predictably to hydro-operations.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/980",
+    "http://www.monitoringresources.org/api/v1/methods/3931",
+    "http://www.monitoringresources.org/api/v1/methods/5486",
+    "http://www.monitoringresources.org/api/v1/methods/5487",
+    "http://www.monitoringresources.org/api/v1/methods/5488",
+    "http://www.monitoringresources.org/api/v1/methods/5489",
+    "http://www.monitoringresources.org/api/v1/methods/6581"
+  ],
   "objectives": [
     "Complete annual limnological assesment of Lake Roosevelt."
   ],

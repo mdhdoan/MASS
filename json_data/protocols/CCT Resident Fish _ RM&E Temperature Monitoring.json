@@ -4,6 +4,11 @@
   "title": "CCT Resident Fish _ RM&E Temperature Monitoring",
   "id": 2122,
   "assumptions": "<p>The temperature data (~&nbsp;1m^2) collected at the logger location is representative of the water temperature within the entire reach it is located.&nbsp;</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/175",
+    "http://www.monitoringresources.org/api/v1/methods/817",
+    "http://www.monitoringresources.org/api/v1/methods/846"
+  ],
   "objectives": [
     "Collect continuous surface water temperature at fish trap locations in the Sanpoil River. "
   ],

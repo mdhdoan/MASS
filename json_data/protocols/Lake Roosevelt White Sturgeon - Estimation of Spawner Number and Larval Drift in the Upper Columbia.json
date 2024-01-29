@@ -4,6 +4,11 @@
   "title": "Lake Roosevelt White Sturgeon - Estimation of Spawner Number and Larval Drift in the Upper Columbia",
   "id": 3525,
   "assumptions": null,
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/918",
+    "http://www.monitoringresources.org/api/v1/methods/921",
+    "http://www.monitoringresources.org/api/v1/methods/5352"
+  ],
   "objectives": [
     "Determine if white sturgeon drifting downstream from the Waneta spawning site are captured in the American repatriation program.\r\n",
     "Assess number of spawners (Ns) represented and genetic diversity captured in the Waneta and American repatriation efforts"

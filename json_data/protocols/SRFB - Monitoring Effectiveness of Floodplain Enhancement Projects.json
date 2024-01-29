@@ -4,6 +4,16 @@
   "title": "SRFB - Monitoring Effectiveness of Floodplain Enhancement Projects",
   "id": 38,
   "assumptions": "Access to impact and suitable control reaches will be provided.",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/156",
+    "http://www.monitoringresources.org/api/v1/methods/157",
+    "http://www.monitoringresources.org/api/v1/methods/233",
+    "http://www.monitoringresources.org/api/v1/methods/239",
+    "http://www.monitoringresources.org/api/v1/methods/241",
+    "http://www.monitoringresources.org/api/v1/methods/294",
+    "http://www.monitoringresources.org/api/v1/methods/906",
+    "http://www.monitoringresources.org/api/v1/methods/912"
+  ],
   "objectives": [
     "Determine the overall stream morphology using Thalweg Profile in the impact reaches. (Years 1, 3, 5, and 10)",
     "Determine the overall changes in channel capacity and constraints in the impact reaches. (Years 1, 3, 5, and 10)",

@@ -4,6 +4,14 @@
   "title": "Juvenile Spring Chinook Habitat Saturation and Limiting Factors",
   "id": 3317,
   "assumptions": "<p>All fish species are being correctly identified.</p>\r\n\r\n<p>All measurement devices are correctly calibrated and being read correctly.</p>\r\n\r\n<p>Habitat types are representative.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/46",
+    "http://www.monitoringresources.org/api/v1/methods/224",
+    "http://www.monitoringresources.org/api/v1/methods/3965",
+    "http://www.monitoringresources.org/api/v1/methods/4228",
+    "http://www.monitoringresources.org/api/v1/methods/6685",
+    "http://www.monitoringresources.org/api/v1/methods/6695"
+  ],
   "objectives": [
     "Annually assess the limiting factors of carrying capacity for Spring Chinook Salmon."
   ],

@@ -4,6 +4,14 @@
   "title": "Estimate redd observer efficiency (2010-034-00)",
   "id": 64,
   "assumptions": "<p>Random sites were not selected because of the high probability that few to no redds may be found within a random reach.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/4148",
+    "http://www.monitoringresources.org/api/v1/methods/4149",
+    "http://www.monitoringresources.org/api/v1/methods/4151",
+    "http://www.monitoringresources.org/api/v1/methods/4161",
+    "http://www.monitoringresources.org/api/v1/methods/4162",
+    "http://www.monitoringresources.org/api/v1/methods/4164"
+  ],
   "objectives": [
     "Estimate observer efficiency in redd surveys"
   ],

@@ -4,6 +4,15 @@
   "title": "Evaluating the Status and Trends of Piscivores in the McNary Pool",
   "id": 3696,
   "assumptions": null,
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/780",
+    "http://www.monitoringresources.org/api/v1/methods/1445",
+    "http://www.monitoringresources.org/api/v1/methods/1734",
+    "http://www.monitoringresources.org/api/v1/methods/4041",
+    "http://www.monitoringresources.org/api/v1/methods/6583",
+    "http://www.monitoringresources.org/api/v1/methods/6795",
+    "http://www.monitoringresources.org/api/v1/methods/7076"
+  ],
   "objectives": [
     "Monitor the status and population trends of Northern Pikeminnow, Smallmouth Bass, and Walleye between McNary and Priest Rapids dams.",
     "Estimate the abundance of Northern Pikeminnow, Smallmouth Bass, and Walleye between McNary and Priest Rapids dams."

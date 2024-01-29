@@ -4,6 +4,11 @@
   "title": "Asotin Creek Salmonid Juvenile and Smolt to Adult Return (SAR) Analysis (2002-053-00)",
   "id": 3381,
   "assumptions": "<p>We assume that our gear (smolt trap) is functioning properly, and we are sampling a representative portion of the population. We also work under the key assumptions of smolt trapping.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/378",
+    "http://www.monitoringresources.org/api/v1/methods/384",
+    "http://www.monitoringresources.org/api/v1/methods/395"
+  ],
   "objectives": [
     "Conduct steelhead juvenile productivity (juveniles per adult spawner) assessment.",
     "Conduct steelhead Smolt to Adult Survival SARs assessment."

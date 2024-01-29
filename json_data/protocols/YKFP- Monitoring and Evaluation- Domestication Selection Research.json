@@ -4,6 +4,21 @@
   "title": "YKFP- Monitoring and Evaluation- Domestication Selection Research",
   "id": 3297,
   "assumptions": "<p>The Domestication research was designed to test the hypothesis that supplementation hatchery rearing does not reduce the fitness of hatchery fish spawning in the wild, or of&nbsp;the natural population.&nbsp; The three lines of fish used for comparisons include fish that have not had hatchery exposure (Wild Control Line), fish with minimal hatchery exposure (maximum of one generation; Supplementation Hatchery/Supplementation Natural&nbsp; sub-lines), or fish with repeated hatchery exposure for many generations&nbsp;(Hatchery Control Line).&nbsp; Differences in any of the traits monitored are assumed to be the result of Domestication Selection.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/107",
+    "http://www.monitoringresources.org/api/v1/methods/110",
+    "http://www.monitoringresources.org/api/v1/methods/380",
+    "http://www.monitoringresources.org/api/v1/methods/1090",
+    "http://www.monitoringresources.org/api/v1/methods/1366",
+    "http://www.monitoringresources.org/api/v1/methods/1457",
+    "http://www.monitoringresources.org/api/v1/methods/1472",
+    "http://www.monitoringresources.org/api/v1/methods/1548",
+    "http://www.monitoringresources.org/api/v1/methods/1549",
+    "http://www.monitoringresources.org/api/v1/methods/1551",
+    "http://www.monitoringresources.org/api/v1/methods/4041",
+    "http://www.monitoringresources.org/api/v1/methods/6585",
+    "http://www.monitoringresources.org/api/v1/methods/6586"
+  ],
   "objectives": [
     "Compare developmental abnormalities for three genetic lines of Yakima spring Chinook (Hatchery Control, Supplementation Hatchery and Supplementation Natural origin sublines, and a Wild Control)",
     "Compare egg-to-fry survival for three genetic lines of Yakima spring Chinook (Hatchery Control, Supplementation Hatchery and Supplementation Natural origin sublines, and a Wild Control)",

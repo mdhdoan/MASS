@@ -4,6 +4,12 @@
   "title": "Surface Water Temperature Monitoring",
   "id": 3562,
   "assumptions": "<p>1 - Temperature recorded by the data logger is representative of the water in that reach of the stream. 2 - Temperature data loggers have been compared to a NIST thermometer. 3 - Temperature measurements are taken every 30 minutes therefore short temperature spikes may not be captured.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/1685",
+    "http://www.monitoringresources.org/api/v1/methods/1686",
+    "http://www.monitoringresources.org/api/v1/methods/1687",
+    "http://www.monitoringresources.org/api/v1/methods/4192"
+  ],
   "objectives": [
     "Use data loggers to collect seasonal water temperature data, at 15-minute intervals, from May-November at 27 locations in the Walla Walla Basin.  "
   ],

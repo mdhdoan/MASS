@@ -4,6 +4,20 @@
   "title": "Lake Roosevelt White Sturgeon - Setline Stock Assessment",
   "id": 3497,
   "assumptions": "<p>Our frame is representative of our target population.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/342",
+    "http://www.monitoringresources.org/api/v1/methods/700",
+    "http://www.monitoringresources.org/api/v1/methods/780",
+    "http://www.monitoringresources.org/api/v1/methods/952",
+    "http://www.monitoringresources.org/api/v1/methods/1055",
+    "http://www.monitoringresources.org/api/v1/methods/1734",
+    "http://www.monitoringresources.org/api/v1/methods/1736",
+    "http://www.monitoringresources.org/api/v1/methods/4039",
+    "http://www.monitoringresources.org/api/v1/methods/4041",
+    "http://www.monitoringresources.org/api/v1/methods/4216",
+    "http://www.monitoringresources.org/api/v1/methods/5352",
+    "http://www.monitoringresources.org/api/v1/methods/5398"
+  ],
   "objectives": [
     "Estimate the abundance of hatchery and wild components of the white sturgeon population.",
     "Describe spatial and depth distributions of white sturgeon.",

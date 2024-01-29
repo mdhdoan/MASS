@@ -4,6 +4,19 @@
   "title": "NPT - Fisheries Research Data Collection Activities (Metadata Documentation)",
   "id": 40,
   "assumptions": null,
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/147",
+    "http://www.monitoringresources.org/api/v1/methods/162",
+    "http://www.monitoringresources.org/api/v1/methods/190",
+    "http://www.monitoringresources.org/api/v1/methods/191",
+    "http://www.monitoringresources.org/api/v1/methods/211",
+    "http://www.monitoringresources.org/api/v1/methods/246",
+    "http://www.monitoringresources.org/api/v1/methods/253",
+    "http://www.monitoringresources.org/api/v1/methods/254",
+    "http://www.monitoringresources.org/api/v1/methods/283",
+    "http://www.monitoringresources.org/api/v1/methods/284",
+    "http://www.monitoringresources.org/api/v1/methods/307"
+  ],
   "objectives": [],
   "ownerName": "Jay Hesse",
   "ownerEmail": "jayh@nezperce.org"

@@ -4,6 +4,13 @@
   "title": "LPO Improve Kokanee Sampling Techniques (1994-047-00)",
   "id": 617,
   "assumptions": "<p>Midwater&nbsp;trawling is a size selective gear.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/140",
+    "http://www.monitoringresources.org/api/v1/methods/1000",
+    "http://www.monitoringresources.org/api/v1/methods/1090",
+    "http://www.monitoringresources.org/api/v1/methods/1102",
+    "http://www.monitoringresources.org/api/v1/methods/1130"
+  ],
   "objectives": [
     "Create a correction factor for kokanee abundance for our standard midwater trawling gear."
   ],

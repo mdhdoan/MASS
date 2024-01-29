@@ -4,6 +4,9 @@
   "title": "Spatial Stream Networks for Anadromous Fish Abundance and Distribution",
   "id": 3336,
   "assumptions": "<p>Key assumptions for FDAT are: 1) sufficient numbers of juvenile anadromous fish density samples or redd counts exist within a river basin to show evidence of spatial autocorrelation, 2) the fish data can be assembled into a properly formatted dataset for use with the SSN and STARS software, 3) patterns in fish abundance will be related to available geospatial representations of stream habitat conditions, and 4) steps associated with fitting SSN models and linking fish data to geospatial habitat descriptors can be semi-automated. Once a functional FDAT prototype exists, it could be linked to a regional fish database to enable efficient modeling and mapping of patterns in anadromous fish density.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/6621"
+  ],
   "objectives": [
     "1) Organize and summarize an anadromous fish density dataset for a pilot area, 2) link fish densities to habitat variables, 3) fit SSN model and map predictions, 4) deliver results online through FDAT"
   ],

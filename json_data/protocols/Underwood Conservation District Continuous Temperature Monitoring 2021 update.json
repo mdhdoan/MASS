@@ -4,6 +4,10 @@
   "title": "Underwood Conservation District Continuous Temperature Monitoring 2021 update",
   "id": 3614,
   "assumptions": "<div>Continuous in-stream monitoring of water temperature allows for the analysis of daily and</div>\r\n\r\n<div>seasonal temperature fluctuations. By placing thermographs throughout a river system, it allows</div>\r\n\r\n<div>for spatial analysis of temperature differences.</div>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/716",
+    "http://www.monitoringresources.org/api/v1/methods/1687"
+  ],
   "objectives": [
     "Collect continuous in-stream monitoring of water temperature in the Wind River basin.  Submit data to Dept. of Ecology EIM database for future habitat and trend analysis."
   ],

@@ -4,6 +4,18 @@
   "title": "IDFG Ground Based Redd and Carcass Sampling for Wild Chinook Salmon in Idaho",
   "id": 3594,
   "assumptions": "<p>Transects selected for redd counts are representative of populations of interest.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/122",
+    "http://www.monitoringresources.org/api/v1/methods/131",
+    "http://www.monitoringresources.org/api/v1/methods/342",
+    "http://www.monitoringresources.org/api/v1/methods/1462",
+    "http://www.monitoringresources.org/api/v1/methods/1728",
+    "http://www.monitoringresources.org/api/v1/methods/4041",
+    "http://www.monitoringresources.org/api/v1/methods/4216",
+    "http://www.monitoringresources.org/api/v1/methods/6588",
+    "http://www.monitoringresources.org/api/v1/methods/6643",
+    "http://www.monitoringresources.org/api/v1/methods/6965"
+  ],
   "objectives": [
     "Survey for Chinook Salmon redds at long-term index transects representing important production areas in Idaho.",
     "Survey for Chinook Salmon carcasses at long-term index transects in order to estimate age composition  and quantify hatchery fraction of spawning populations.",

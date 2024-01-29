@@ -4,6 +4,16 @@
   "title": "Gas Bubble Trauma for Resident Fish",
   "id": 3693,
   "assumptions": null,
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/117",
+    "http://www.monitoringresources.org/api/v1/methods/120",
+    "http://www.monitoringresources.org/api/v1/methods/190",
+    "http://www.monitoringresources.org/api/v1/methods/1551",
+    "http://www.monitoringresources.org/api/v1/methods/4041",
+    "http://www.monitoringresources.org/api/v1/methods/5325",
+    "http://www.monitoringresources.org/api/v1/methods/5356",
+    "http://www.monitoringresources.org/api/v1/methods/5543"
+  ],
   "objectives": [
     "Measure the incidence and severity of GBT in Northern Pikeminnow, Smallmouth Bass, and Walleye rearing downstream of Priest Rapids dam during the spring spill period.",
     "Determine feasibility to describe GBT in resident Northern Pikeminnow, Smallmouth Bass, and Walleye fishes while in the field, on a boat, and working at night."

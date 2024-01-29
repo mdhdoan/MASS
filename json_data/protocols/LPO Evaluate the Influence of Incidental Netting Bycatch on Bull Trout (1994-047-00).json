@@ -4,6 +4,14 @@
   "title": "LPO Evaluate the Influence of Incidental Netting Bycatch on Bull Trout (1994-047-00)",
   "id": 584,
   "assumptions": "<p>The overall Bull Trout population will benefit from Lake Trout removal,&nbsp;even though direct Buill Trout mortality as bycatch&nbsp;from the commercial netting occurs at variable rates. &nbsp; &nbsp; &nbsp;</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/1030",
+    "http://www.monitoringresources.org/api/v1/methods/1035",
+    "http://www.monitoringresources.org/api/v1/methods/1042",
+    "http://www.monitoringresources.org/api/v1/methods/1044",
+    "http://www.monitoringresources.org/api/v1/methods/1045",
+    "http://www.monitoringresources.org/api/v1/methods/1074"
+  ],
   "objectives": [
     "Assess whether contract netting efforts are having disproportionate effects on stocks of bull trout that are of particular concern.",
     "Analyze the effectiveness of gill net characteristics (e.g., mesh size) in catching lake trout and avoiding bull trout."

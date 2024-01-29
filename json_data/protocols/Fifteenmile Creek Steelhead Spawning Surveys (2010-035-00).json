@@ -4,6 +4,19 @@
   "title": "Fifteenmile Creek Steelhead Spawning Surveys (2010-035-00)",
   "id": 2177,
   "assumptions": null,
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/107",
+    "http://www.monitoringresources.org/api/v1/methods/108",
+    "http://www.monitoringresources.org/api/v1/methods/112",
+    "http://www.monitoringresources.org/api/v1/methods/131",
+    "http://www.monitoringresources.org/api/v1/methods/402",
+    "http://www.monitoringresources.org/api/v1/methods/1366",
+    "http://www.monitoringresources.org/api/v1/methods/1433",
+    "http://www.monitoringresources.org/api/v1/methods/4041",
+    "http://www.monitoringresources.org/api/v1/methods/4223",
+    "http://www.monitoringresources.org/api/v1/methods/5334",
+    "http://www.monitoringresources.org/api/v1/methods/5447"
+  ],
   "objectives": [
     "Improve accuracy and precision of estimates of spawner abundance",
     "Determine population dynamics for Fifteenmile Creek steelhead"

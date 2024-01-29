@@ -4,6 +4,15 @@
   "title": "IDFG LOWER GRANITE DAM JUVENILE Monitoring for wild spring/summer Chinook Salmon and steelhead.",
   "id": 3274,
   "assumptions": "<p>The juvenile bypass system allows representative sampling of the smolt emigration.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/342",
+    "http://www.monitoringresources.org/api/v1/methods/1360",
+    "http://www.monitoringresources.org/api/v1/methods/1362",
+    "http://www.monitoringresources.org/api/v1/methods/1433",
+    "http://www.monitoringresources.org/api/v1/methods/1577",
+    "http://www.monitoringresources.org/api/v1/methods/4041",
+    "http://www.monitoringresources.org/api/v1/methods/6941"
+  ],
   "objectives": [
     "Sample natural/wild emigrating juvenile Snake River steelhead and spring-summer Chinook Salmon at Lower Granite Dam.",
     "Estimate abundance, productivity, survival, and composition (age structure, sex, and genetic stock) of natural/wild emigrating juvenile Snake River steelhead and spring-summer Chinook Salmon ESUs."

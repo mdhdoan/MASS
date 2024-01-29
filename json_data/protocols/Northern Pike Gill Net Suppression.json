@@ -4,6 +4,9 @@
   "title": "Northern Pike Gill Net Suppression",
   "id": 3354,
   "assumptions": "<p>1.) Reducing Northern Pike abundance&nbsp;will protect native and managed fish species (such as&nbsp;Redband&nbsp;Trout, Kokanee, and Burbot), reduce/eliminate recruitment of Northern Pike within the reservoir, and limit downstream movement of Northern Pike below Grand Coulee and Chief Joseph Dams.</p>\r\n\r\n<p>2.) Northern Pike will remain highly susceptible to capture by gill net&nbsp;and&nbsp;bycatch&nbsp;mortality will not cause negative population level changes in native or managed fish species.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/140"
+  ],
   "objectives": [
     "Reduce the abundance of Northern Pike to the point at which they are rarely observed - <1 Northern Pike/100 overnight gill net sets in reservoir-wide Northern Pike Monitoring Program gill net catch."
   ],

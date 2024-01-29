@@ -4,6 +4,18 @@
   "title": "Parentage Based Tagging for hatchery Chinook salmon and steelhead in the Snake River basin (2010-031-00)",
   "id": 281,
   "assumptions": "Genetic samples can be collected and properly preserved from every steelhead and Chinook salmon hatchery broodstock spawned in the Snake River basin.  In addition, accurate biological information (stock, spawn date, sex, cross information) can be recorded for every adult sampled.\r\n\r\nA set of SNP markers can be developed/identified that can achieve high parental assignment accuracy even when tens of thousands of potential parents are involved and when parentage involves hatchery populations that are very similar genetically due to shared ancestry or in situations where the broodstock contains closely related individuals (ISRP/ISAB 2009).",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/1332",
+    "http://www.monitoringresources.org/api/v1/methods/1339",
+    "http://www.monitoringresources.org/api/v1/methods/1340",
+    "http://www.monitoringresources.org/api/v1/methods/1341",
+    "http://www.monitoringresources.org/api/v1/methods/1345",
+    "http://www.monitoringresources.org/api/v1/methods/1352",
+    "http://www.monitoringresources.org/api/v1/methods/1356",
+    "http://www.monitoringresources.org/api/v1/methods/1362",
+    "http://www.monitoringresources.org/api/v1/methods/1432",
+    "http://www.monitoringresources.org/api/v1/methods/1550"
+  ],
   "objectives": [
     "Describe how data are to be collected, managed, analyzed, and reported to develop and assess the utility of PBT technology for hatchery steelhead and Chinook salmon in the Snake river basin."
   ],

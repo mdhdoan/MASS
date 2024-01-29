@@ -4,6 +4,12 @@
   "title": "LPO Using acoustic telemetry to determine fish movements and habitat use and to guide suppression efforts",
   "id": 3530,
   "assumptions": null,
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/380",
+    "http://www.monitoringresources.org/api/v1/methods/996",
+    "http://www.monitoringresources.org/api/v1/methods/1071",
+    "http://www.monitoringresources.org/api/v1/methods/6611"
+  ],
   "objectives": [
     "Document movement extent, habitat use, spawn timing of Walleye, Northern Pike, Rainbow Trout, and Lake Trout to help guide suppression efforts and to determine factors limiting recruitment (RBT)."
   ],

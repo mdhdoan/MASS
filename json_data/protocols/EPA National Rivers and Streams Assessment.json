@@ -4,6 +4,23 @@
   "title": "EPA National Rivers and Streams Assessment",
   "id": 3555,
   "assumptions": null,
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/6847",
+    "http://www.monitoringresources.org/api/v1/methods/6852",
+    "http://www.monitoringresources.org/api/v1/methods/6866",
+    "http://www.monitoringresources.org/api/v1/methods/6870",
+    "http://www.monitoringresources.org/api/v1/methods/6874",
+    "http://www.monitoringresources.org/api/v1/methods/6875",
+    "http://www.monitoringresources.org/api/v1/methods/7005",
+    "http://www.monitoringresources.org/api/v1/methods/7011",
+    "http://www.monitoringresources.org/api/v1/methods/7014",
+    "http://www.monitoringresources.org/api/v1/methods/7015",
+    "http://www.monitoringresources.org/api/v1/methods/7016",
+    "http://www.monitoringresources.org/api/v1/methods/7018",
+    "http://www.monitoringresources.org/api/v1/methods/7048",
+    "http://www.monitoringresources.org/api/v1/methods/7080",
+    "http://www.monitoringresources.org/api/v1/methods/7081"
+  ],
   "objectives": [
     "Evaluate changes in condition over time",
     "Help build State and Tribal capacity for monitoring and assessment and promote collaboration across jurisdictional boundaries",

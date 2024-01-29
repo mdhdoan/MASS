@@ -4,6 +4,11 @@
   "title": "Salmonid Redd Surveys for CTUIR Biological Monitoring of Fish Habitat Action Effectiveness",
   "id": 3322,
   "assumptions": "<p>Assumptions of multiple pass spawning surveys include: 1) reasonably consistent observations within and between surveyors, passes, and years; 2) flagging redds minimizes double counting; 3) surveyors on subsequent passes track previous redds sufficiently to reduce double counting in cases where flagging loss occurs between surveys; 4) spring Chinook census spawning survey reaches bracket all spawning activities&nbsp;in time and space; 5) sites are accessible during steelhead spawning surveys to allow for redd visibility and documentation.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/131",
+    "http://www.monitoringresources.org/api/v1/methods/4112",
+    "http://www.monitoringresources.org/api/v1/methods/6600"
+  ],
   "objectives": [
     "Map and compare spatial distribution and density of redds in treatment and control reaches related to fish habitat data over time.",
     "Correlate the biological effects of habitat restoration actions on redd abundance and distribution over time between treatment and control reaches."

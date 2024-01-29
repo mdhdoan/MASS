@@ -4,6 +4,20 @@
   "title": "Colorado River Monitoring for Native and Nonnative Fish Populations",
   "id": 2274,
   "assumptions": "<p>All fish data collected was done by trained professionals.</p>\r\n\r\n<p>The collected fish data is kept in&nbsp;a large database that is housed at the Grand Canyon Monitoring Research Center in Flagstaff, AZ. All data for the Colorado River used in this protocol was obtained from this database.&nbsp;</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/1442",
+    "http://www.monitoringresources.org/api/v1/methods/1503",
+    "http://www.monitoringresources.org/api/v1/methods/1551",
+    "http://www.monitoringresources.org/api/v1/methods/1736",
+    "http://www.monitoringresources.org/api/v1/methods/3991",
+    "http://www.monitoringresources.org/api/v1/methods/4041",
+    "http://www.monitoringresources.org/api/v1/methods/5545",
+    "http://www.monitoringresources.org/api/v1/methods/6569",
+    "http://www.monitoringresources.org/api/v1/methods/6574",
+    "http://www.monitoringresources.org/api/v1/methods/6578",
+    "http://www.monitoringresources.org/api/v1/methods/6579",
+    "http://www.monitoringresources.org/api/v1/methods/6580"
+  ],
   "objectives": [
     "Determine the abundance, life stage, feeding habits, and general health of each fish species in our study reach.",
     "Provide guidance to fieldworkers regarding procedures and methods that may vary from year to year depending on specific projects and objectives. ",

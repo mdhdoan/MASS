@@ -4,6 +4,11 @@
   "title": "Environmental DNA (eDNA) Sampling for the Pend Oreille River Basin",
   "id": 3373,
   "assumptions": "<p>1) If present, eDNA is detectable for target&nbsp;fish species&nbsp;when collected according to protocols in Carim et al. (2016).</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/6620",
+    "http://www.monitoringresources.org/api/v1/methods/6624",
+    "http://www.monitoringresources.org/api/v1/methods/6629"
+  ],
   "objectives": [
     "Use Environmental DNA (eDNA) sampling to determine the presence or absence of target non-native fish in tributary streams within the Pend Oreille River basin.",
     "Use Environmental DNA (eDNA) sampling to determine the presence or absence of target non-native fish in lakes or rivers within the Pend Oreille River basin.",

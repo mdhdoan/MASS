@@ -4,6 +4,16 @@
   "title": "Pre-spawn Habitat use by Chinook Salmon",
   "id": 3621,
   "assumptions": null,
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/145",
+    "http://www.monitoringresources.org/api/v1/methods/4229",
+    "http://www.monitoringresources.org/api/v1/methods/4241",
+    "http://www.monitoringresources.org/api/v1/methods/4242",
+    "http://www.monitoringresources.org/api/v1/methods/5333",
+    "http://www.monitoringresources.org/api/v1/methods/6611",
+    "http://www.monitoringresources.org/api/v1/methods/6895",
+    "http://www.monitoringresources.org/api/v1/methods/6900"
+  ],
   "objectives": [
     "Document migration patterns and habitat use of a sub-sample of returning adult spring Chinook salmon in the upper Grande Ronde River during the pre-spawning period for restoration planning."
   ],

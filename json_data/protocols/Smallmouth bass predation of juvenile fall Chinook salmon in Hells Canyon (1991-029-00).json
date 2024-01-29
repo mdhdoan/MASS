@@ -4,6 +4,23 @@
   "title": "Smallmouth bass predation of juvenile fall Chinook salmon in Hells Canyon (1991-029-00)",
   "id": 299,
   "assumptions": "<p>1. The diets of collected smallmouth bass will be representative of the population at large.</p>\r\n\r\n<p>2. Bias between different predator collection methods will be minimal or can be accounted for in analyses.</p>\r\n\r\n<p>3. Sufficient numbers of smallmouth bass can be marked and recaptured to accurately estimate their abundance.</p>\r\n\r\n<p>4. Abundance estimates can be accurately expanded to the larger study reach.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/1013",
+    "http://www.monitoringresources.org/api/v1/methods/1442",
+    "http://www.monitoringresources.org/api/v1/methods/1443",
+    "http://www.monitoringresources.org/api/v1/methods/1445",
+    "http://www.monitoringresources.org/api/v1/methods/1455",
+    "http://www.monitoringresources.org/api/v1/methods/1456",
+    "http://www.monitoringresources.org/api/v1/methods/1459",
+    "http://www.monitoringresources.org/api/v1/methods/1460",
+    "http://www.monitoringresources.org/api/v1/methods/1551",
+    "http://www.monitoringresources.org/api/v1/methods/1734",
+    "http://www.monitoringresources.org/api/v1/methods/3822",
+    "http://www.monitoringresources.org/api/v1/methods/4040",
+    "http://www.monitoringresources.org/api/v1/methods/5248",
+    "http://www.monitoringresources.org/api/v1/methods/5298",
+    "http://www.monitoringresources.org/api/v1/methods/5299"
+  ],
   "objectives": [
     "Estimate loss of juvenile fall Chinook salmon to smallmouth bass predation in the Hells Canyon reach of the Snake River"
   ],

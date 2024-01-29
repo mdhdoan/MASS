@@ -249,3 +249,36 @@ MERGE (m:Methods {uid: json_data['url'], vector: json_data['vector'], textbody: 
 
 // Create index for vector
 CALL db.index.vector.createNodeIndex('method-embeddings', 'Methods', 'vector', 384, 'cosine')
+
+// Load protocol data
+CALL apoc.load.directory('*.json', 'protocols') YIELD value
+WITH value as json_file
+    CALL apoc.load.json(json_file) YIELD value as json_data
+MERGE (m:Protocols {uid: json_data['url'], 
+background: json_data['background'], 
+objectives: json_data['objectives'],
+methods: json_data['methods'],
+ownerName: json_data['ownerName'],
+ownerEmail: json_data['ownerEmail'],
+title: json_data['title']})
+
+// Shortest path between 2 methods
+MATCH (m1:Methods {uid: 'http://www.monitoringresources.org/api/v1/methods/902'})
+MATCH (m2:Methods {uid: 'http://www.monitoringresources.org/api/v1/methods/1378'})
+RETURN SHORTESTPATH((m1)-[*]-(m2))
+
+// Similarity level between 2 methods
+MATCH (m1:Methods {uid: 'http://www.monitoringresources.org/api/v1/methods/902'})
+MATCH (m2:Methods {uid: 'http://www.monitoringresources.org/api/v1/methods/1378'})
+RETURN gds.similarity.cosine(m1.vector, m2.vector)
+
+// Connect Protocols to Methods
+MATCH (p: Protocols)
+WITH p, p.methods as method_list
+    UNWIND method_list as method_link
+WITH p, method_link
+    MATCH (m: Methods)
+WITH p, method_link, m
+    WHERE m.uid = method_link
+    MERGE (p)-[r:IMPLEMENT]-(m)
+RETURN COUNT(r)

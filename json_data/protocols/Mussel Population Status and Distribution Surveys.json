@@ -4,6 +4,10 @@
   "title": "Mussel Population Status and Distribution Surveys",
   "id": 492,
   "assumptions": "<p>1. Monitoring efforts will give an accurate assessment of underlying mussel presence or abundances per site. 2. Monitoring will be timely and complete in order to detect underlying trends in abundance.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/6619",
+    "http://www.monitoringresources.org/api/v1/methods/6713"
+  ],
   "objectives": [
     "To determine distribution of freshwater mussel populations by sub-basin, and to evaluate population health and status through mussel specific surveys.  "
   ],

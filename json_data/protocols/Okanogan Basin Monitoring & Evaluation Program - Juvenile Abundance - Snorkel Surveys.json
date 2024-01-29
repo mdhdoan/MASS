@@ -4,6 +4,10 @@
   "title": "Okanogan Basin Monitoring & Evaluation Program - Juvenile Abundance - Snorkel Surveys",
   "id": 7,
   "assumptions": "<p>Fish can be identified correctly. Observed numbers of fish accurately represents total population within the site.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/136",
+    "http://www.monitoringresources.org/api/v1/methods/1425"
+  ],
   "objectives": [
     "To determine the status and trend of juvenile salmonid abundance in the Okanogan River Basin."
   ],

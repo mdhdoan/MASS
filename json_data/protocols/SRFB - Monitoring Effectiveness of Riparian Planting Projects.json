@@ -4,6 +4,14 @@
   "title": "SRFB - Monitoring Effectiveness of Riparian Planting Projects",
   "id": 36,
   "assumptions": "Access to impact and suitable control reaches will be provided.",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/156",
+    "http://www.monitoringresources.org/api/v1/methods/233",
+    "http://www.monitoringresources.org/api/v1/methods/238",
+    "http://www.monitoringresources.org/api/v1/methods/263",
+    "http://www.monitoringresources.org/api/v1/methods/907",
+    "http://www.monitoringresources.org/api/v1/methods/908"
+  ],
   "objectives": [
     "Determine the proportion of actively eroding stream banks within the project impact and control areas. (Years 5 and 10)",
     "Determine the proportion of shading within the project impact and control areas. (Years 5 and 10)",

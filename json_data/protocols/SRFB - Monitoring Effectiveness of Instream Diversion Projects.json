@@ -4,6 +4,10 @@
   "title": "SRFB - Monitoring Effectiveness of Instream Diversion Projects",
   "id": 32,
   "assumptions": "Access to project sites will be provided.",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/261",
+    "http://www.monitoringresources.org/api/v1/methods/296"
+  ],
   "objectives": [
     "Determine whether diversion screening design criteria are being met at each project sampled. (Years 1, 2, and 5)",
     "Determine the proper design criteria for meeting best management practices for the diversion screening projects. (Year 0)\r\n"

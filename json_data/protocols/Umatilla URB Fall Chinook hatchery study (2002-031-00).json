@@ -4,6 +4,15 @@
   "title": "Umatilla URB Fall Chinook hatchery study (2002-031-00)",
   "id": 302,
   "assumptions": "<p>1. The physiological assays are working properly and consistently with proper quality control monitoring in place. 2. Sampling of dip netted fish is random, robust and representative. 3. We sample a sufficient number of fish to have adequate statical power to characterize each life-history type based on physiological measures.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/368",
+    "http://www.monitoringresources.org/api/v1/methods/371",
+    "http://www.monitoringresources.org/api/v1/methods/650",
+    "http://www.monitoringresources.org/api/v1/methods/1550",
+    "http://www.monitoringresources.org/api/v1/methods/1734",
+    "http://www.monitoringresources.org/api/v1/methods/3785",
+    "http://www.monitoringresources.org/api/v1/methods/3814"
+  ],
   "objectives": [
     "Assess seasonal physiological status of fish in a feeding study to help determine how  changes in growth rate and adiposity may affect the propensity of male URB fall Chinook salmon to mature.",
     "Determine the proportion of male Umatilla URB fall Chinook salmon undergoing early male maturation at age-1 and 2 in a 2x2 factorial size x dietary ration study."

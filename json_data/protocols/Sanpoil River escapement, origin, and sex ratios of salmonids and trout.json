@@ -4,6 +4,16 @@
   "title": "Sanpoil River escapement, origin, and sex ratios of salmonids and trout",
   "id": 436,
   "assumptions": "<p>We assume our resistance panel weir trap is functioning properly.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/145",
+    "http://www.monitoringresources.org/api/v1/methods/303",
+    "http://www.monitoringresources.org/api/v1/methods/342",
+    "http://www.monitoringresources.org/api/v1/methods/1429",
+    "http://www.monitoringresources.org/api/v1/methods/1551",
+    "http://www.monitoringresources.org/api/v1/methods/5400",
+    "http://www.monitoringresources.org/api/v1/methods/6583",
+    "http://www.monitoringresources.org/api/v1/methods/6678"
+  ],
   "objectives": [
     "Quantify escapement and population structure of wild redband trout in the Sanpoil River",
     "Quantify escapement and population structure of wild kokanee salmon in the Sanpoil River"

@@ -4,6 +4,10 @@
   "title": "Otolith Microchemistry",
   "id": 3282,
   "assumptions": "<p>Water chemistry throughout the basin is different enough to detect changes in isotope ratios.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/6610",
+    "http://www.monitoringresources.org/api/v1/methods/6613"
+  ],
   "objectives": [
     "Use otolith micro chemistry to determine Northern Pike origin and general movements"
   ],

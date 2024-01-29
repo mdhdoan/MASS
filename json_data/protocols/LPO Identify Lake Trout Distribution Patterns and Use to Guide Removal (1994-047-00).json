@@ -4,6 +4,13 @@
   "title": "LPO Identify Lake Trout Distribution Patterns and Use to Guide Removal (1994-047-00)",
   "id": 581,
   "assumptions": "<p>Acoustic tagged Lake Trout behave in a manner representative of the Lake Trout population.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/1030",
+    "http://www.monitoringresources.org/api/v1/methods/1035",
+    "http://www.monitoringresources.org/api/v1/methods/1042",
+    "http://www.monitoringresources.org/api/v1/methods/1044",
+    "http://www.monitoringresources.org/api/v1/methods/1071"
+  ],
   "objectives": [
     "Identify areas of high concentration of lake trout at each spawning site, and use this information to guide the placement of gill nets."
   ],

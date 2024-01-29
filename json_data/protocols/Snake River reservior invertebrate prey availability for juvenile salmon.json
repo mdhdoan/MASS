@@ -4,6 +4,18 @@
   "title": "Snake River reservior invertebrate prey availability for juvenile salmon",
   "id": 3741,
   "assumptions": "<p>Collected taxa are either directly or indirectly important to the production of juvenile salmon.</p>\r\n\r\n<p>Sample sites are representative of the entire reservoir.</p>\r\n\r\n<p>Sampling frequency is sufficient to detect seasonal trends.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/1554",
+    "http://www.monitoringresources.org/api/v1/methods/3820",
+    "http://www.monitoringresources.org/api/v1/methods/4081",
+    "http://www.monitoringresources.org/api/v1/methods/4098",
+    "http://www.monitoringresources.org/api/v1/methods/5248",
+    "http://www.monitoringresources.org/api/v1/methods/5298",
+    "http://www.monitoringresources.org/api/v1/methods/5299",
+    "http://www.monitoringresources.org/api/v1/methods/5330",
+    "http://www.monitoringresources.org/api/v1/methods/5331",
+    "http://www.monitoringresources.org/api/v1/methods/5348"
+  ],
   "objectives": [
     "1. Determine the different types of prey available to juvenile fall Chinook salmon during reservoir rearing and their spatial and seasonal densities.",
     "2. Determine whether the microcystin toxin produced by harmful algal blooms can accumulate in subyearling fall Chinook salmon, thus creating a mortality risk or reduced performance."

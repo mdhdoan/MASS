@@ -4,6 +4,22 @@
   "title": "IDFG Snorkel Surveys for Wild Chinook Salmon and Steelhead Parr in the Clearwater and Salmon River Basins.",
   "id": 89,
   "assumptions": "<p>The observed fish are representative of the population.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/77",
+    "http://www.monitoringresources.org/api/v1/methods/116",
+    "http://www.monitoringresources.org/api/v1/methods/136",
+    "http://www.monitoringresources.org/api/v1/methods/201",
+    "http://www.monitoringresources.org/api/v1/methods/243",
+    "http://www.monitoringresources.org/api/v1/methods/1425",
+    "http://www.monitoringresources.org/api/v1/methods/1687",
+    "http://www.monitoringresources.org/api/v1/methods/1747",
+    "http://www.monitoringresources.org/api/v1/methods/3806",
+    "http://www.monitoringresources.org/api/v1/methods/4174",
+    "http://www.monitoringresources.org/api/v1/methods/4228",
+    "http://www.monitoringresources.org/api/v1/methods/6634",
+    "http://www.monitoringresources.org/api/v1/methods/6938",
+    "http://www.monitoringresources.org/api/v1/methods/6939"
+  ],
   "objectives": [
     "Estimate anadromous salmonid parr abundance and density, and describe changes over time.",
     "Determine the abundance and spatial distribution of anadromous salmonid parr at the population scale.",

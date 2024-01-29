@@ -4,6 +4,19 @@
   "title": "ISEMP Field Manual of Scientific Protocols for Water Quality Surveys within the Upper Columbia Monitoring Strategy",
   "id": 55,
   "assumptions": "<p>Monitoring covers the time period of biological interest e.g., spawning and rearing periods</p>\r\n\r\n<p>The monitoring period encompasses expected low flows and the highest air temperatures for the Wenatchee and Entiat River subbasins (early July to mid-Sept).&nbsp;&nbsp;</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/309",
+    "http://www.monitoringresources.org/api/v1/methods/310",
+    "http://www.monitoringresources.org/api/v1/methods/311",
+    "http://www.monitoringresources.org/api/v1/methods/312",
+    "http://www.monitoringresources.org/api/v1/methods/313",
+    "http://www.monitoringresources.org/api/v1/methods/314",
+    "http://www.monitoringresources.org/api/v1/methods/316",
+    "http://www.monitoringresources.org/api/v1/methods/317",
+    "http://www.monitoringresources.org/api/v1/methods/318",
+    "http://www.monitoringresources.org/api/v1/methods/319",
+    "http://www.monitoringresources.org/api/v1/methods/327"
+  ],
   "objectives": [
     "To standardize/document water quality monitoring procedures in the Upper Columbia Basin\r\nDetermine the source and timing of elevated turbidity levels in the Wenatchee River subbasin\r\n",
     "Address Clean Water Act exceedences in pH and continuously monitor temperature at selected sites as part of effectiveness monitoring in the Entiat River subbasin.",

@@ -4,6 +4,23 @@
   "title": "Generating demographic information for Westslope Cutthroat Trout populations using data collected at an inclined-plane trap and PIT tag arrays",
   "id": 3481,
   "assumptions": "<p>Individual fish sampled at the migrant trap represent the population of interest at the tributary or watershed scale.&nbsp;</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/132",
+    "http://www.monitoringresources.org/api/v1/methods/342",
+    "http://www.monitoringresources.org/api/v1/methods/380",
+    "http://www.monitoringresources.org/api/v1/methods/395",
+    "http://www.monitoringresources.org/api/v1/methods/454",
+    "http://www.monitoringresources.org/api/v1/methods/1551",
+    "http://www.monitoringresources.org/api/v1/methods/1734",
+    "http://www.monitoringresources.org/api/v1/methods/1736",
+    "http://www.monitoringresources.org/api/v1/methods/4051",
+    "http://www.monitoringresources.org/api/v1/methods/5334",
+    "http://www.monitoringresources.org/api/v1/methods/5498",
+    "http://www.monitoringresources.org/api/v1/methods/5519",
+    "http://www.monitoringresources.org/api/v1/methods/6572",
+    "http://www.monitoringresources.org/api/v1/methods/6573",
+    "http://www.monitoringresources.org/api/v1/methods/6786"
+  ],
   "objectives": [
     "Generate annual abundance estimates for migratory adult Westslope Cutthroat Trout at the tributary scale.",
     "Generate annual estimates of juvenile to adult return rates for migratory Westslope Cutthroat Trout at the tributary scale.",

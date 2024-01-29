@@ -4,6 +4,10 @@
   "title": "Temperature monitoring in trout streams of interest to the Coeur d'Alene Tribe",
   "id": 3280,
   "assumptions": "<p>1. The temperature recorded by a data logger at a stream location is representative of the water in that reach of the stream.</p>\r\n\r\n<p>2. &nbsp;Temperature data loggers retain their calibration so that they are accurately recording the true stream temperature.</p>\r\n\r\n<p>3. &nbsp;Data loggers are located in well-mixed zones of the stream so that they are capturing the ambient surface temperature (e.g., not positioned at the stream bottom&nbsp;where they may be either unduly influenced by groundwater input or represent conditions in a stratified pool).</p>\r\n\r\n<p>4. &nbsp;Temperature changes that have occurred due to restorative actions (e.g., planting that increase stream shading) will be captured by the dataloggers.</p>\r\n\r\n<p>5. &nbsp;During low flow periods, the logger does not get de-watered.&nbsp;</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/3793",
+    "http://www.monitoringresources.org/api/v1/methods/6575"
+  ],
   "objectives": [
     "Track changes in water temperature metrics over time to evaluate if restoration actions implemented in mainstem habitats are improving summer rearing thermal conditions for trout.",
     "Monitor surface stream temperatures throughout the year in both tributary and mainstem reaches to provide profiles of continuous water temperature.",

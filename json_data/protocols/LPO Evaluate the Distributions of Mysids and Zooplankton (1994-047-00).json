@@ -4,6 +4,11 @@
   "title": "LPO Evaluate the Distributions of Mysids and Zooplankton (1994-047-00)",
   "id": 629,
   "assumptions": "<p>Kokanee are limited by intrinsic or extrinsic competition for limited food resources</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/980",
+    "http://www.monitoringresources.org/api/v1/methods/1100",
+    "http://www.monitoringresources.org/api/v1/methods/1101"
+  ],
   "objectives": [
     "Identify locations within Lake Pend Oreille with high abundance of cladocerans, especially during kokanee fry emergence/stocking.",
     "Determine the spatial and temporal distribution of mysids."

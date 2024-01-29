@@ -4,6 +4,25 @@
   "title": "Estimate subyearling loss to smallmouth bass predation in the Snake River",
   "id": 272,
   "assumptions": "<p>1.&nbsp; The diets of collected smallmouth bass and channel catfish will be representative of the population at large.</p>\r\n\r\n<p>2.&nbsp; Bias between different predator collection methods will be minimal or can be accounted for in analyses.</p>\r\n\r\n<p>3.&nbsp; Sufficient numbers of smallmouth bass can be marked and recaptured to accurately estimate their abundance.</p>\r\n\r\n<p>4. Smallmouth bass abundance can be accurately expanded to the larger study area.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/1013",
+    "http://www.monitoringresources.org/api/v1/methods/1442",
+    "http://www.monitoringresources.org/api/v1/methods/1443",
+    "http://www.monitoringresources.org/api/v1/methods/1445",
+    "http://www.monitoringresources.org/api/v1/methods/1455",
+    "http://www.monitoringresources.org/api/v1/methods/1456",
+    "http://www.monitoringresources.org/api/v1/methods/1459",
+    "http://www.monitoringresources.org/api/v1/methods/1460",
+    "http://www.monitoringresources.org/api/v1/methods/1550",
+    "http://www.monitoringresources.org/api/v1/methods/1734",
+    "http://www.monitoringresources.org/api/v1/methods/3822",
+    "http://www.monitoringresources.org/api/v1/methods/4040",
+    "http://www.monitoringresources.org/api/v1/methods/4044",
+    "http://www.monitoringresources.org/api/v1/methods/5248",
+    "http://www.monitoringresources.org/api/v1/methods/5296",
+    "http://www.monitoringresources.org/api/v1/methods/5298",
+    "http://www.monitoringresources.org/api/v1/methods/5299"
+  ],
   "objectives": [
     "Estimate the annual loss of subyearlings to smallmouth bass predation in the upper portion of Lower Granite Reservoir. Document the relative consumption of subyearlings by channel catfish."
   ],

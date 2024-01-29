@@ -4,6 +4,13 @@
   "title": "A Field Manual of Scientific Protocols for Monitoring the Status and Trend of Wild Salmonids in the Entiat River Subbasin",
   "id": 2211,
   "assumptions": "<p>1. The sampling frame is representative of the target populations of spring Chinook and steelhead in the Entiat River subbasin.</p>\r\n\r\n<p>2. That the frame is outside the scope of influence of any habitat or hatchery or harvest actions and therefore is representative of natural variability of the populations.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/1734",
+    "http://www.monitoringresources.org/api/v1/methods/1736",
+    "http://www.monitoringresources.org/api/v1/methods/4041",
+    "http://www.monitoringresources.org/api/v1/methods/5356",
+    "http://www.monitoringresources.org/api/v1/methods/5465"
+  ],
   "objectives": [
     "Evaluate status and trends of juvenile spring Chinook and steelhead in the Entiat River subbasin in wadeable, perennial streams below natural impassible barriers within TRT population boundaries."
   ],

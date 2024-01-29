@@ -4,6 +4,11 @@
   "title": "Estimating solar insolation and electrical conductivity for inputs in a salmonid gross primary production model",
   "id": 2271,
   "assumptions": null,
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/4052",
+    "http://www.monitoringresources.org/api/v1/methods/6555",
+    "http://www.monitoringresources.org/api/v1/methods/6556"
+  ],
   "objectives": [
     "Summarize predicted upstream conductivity values (\u00b5S cm-1) per 1000-meter stream segments for HUC4 watersheds.",
     "Summarize the average upstream solar insolation values (watt hours per square meter, WH/m2) per 200-meter stream segments for HUC4 watersheds.",

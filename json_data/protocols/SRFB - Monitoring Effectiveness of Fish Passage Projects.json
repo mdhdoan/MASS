@@ -4,6 +4,15 @@
   "title": "SRFB - Monitoring Effectiveness of Fish Passage Projects",
   "id": 34,
   "assumptions": "Access will be provided to impact and suitable control reaches.",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/169",
+    "http://www.monitoringresources.org/api/v1/methods/195",
+    "http://www.monitoringresources.org/api/v1/methods/196",
+    "http://www.monitoringresources.org/api/v1/methods/197",
+    "http://www.monitoringresources.org/api/v1/methods/243",
+    "http://www.monitoringresources.org/api/v1/methods/913",
+    "http://www.monitoringresources.org/api/v1/methods/914"
+  ],
   "objectives": [
     "Determine salmon abundance both in the downstream control reach and impact reach upstream of the fish blockage for each project. (Years 1, 2, and 5)",
     "Determine whether fish passage design criteria are being met at each project monitored. (Years 1, 2, and 5)",

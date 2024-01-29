@@ -4,6 +4,21 @@
   "title": "KRRFM - Rainbow Trout Recruitment and Early Life History",
   "id": 556,
   "assumptions": "<p>Tributaries will possess unique Sr 87/86 signatures based on local geographical characteristics.</p>\r\n\r\n<p>Age-0 Rainbow Trout residing and collected in tributaries were spawned in the tributary in which they were collected.</p>\r\n\r\n<p>The Sr 87/86 signature of the Kootenay Lake differs from the signature in the Kootenai River.</p>\r\n\r\n<p>The sample of adults is representative of the population structure in terms of tributary of origin.</p>\r\n\r\n<p>Age-at-outmigration will be detectable based on the ability to accurately age Rainbow Trout otoliths relative to changes in Sr 87/86 signatures.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/190",
+    "http://www.monitoringresources.org/api/v1/methods/1013",
+    "http://www.monitoringresources.org/api/v1/methods/1462",
+    "http://www.monitoringresources.org/api/v1/methods/1551",
+    "http://www.monitoringresources.org/api/v1/methods/1617",
+    "http://www.monitoringresources.org/api/v1/methods/1734",
+    "http://www.monitoringresources.org/api/v1/methods/3797",
+    "http://www.monitoringresources.org/api/v1/methods/4245",
+    "http://www.monitoringresources.org/api/v1/methods/6609",
+    "http://www.monitoringresources.org/api/v1/methods/6610",
+    "http://www.monitoringresources.org/api/v1/methods/6611",
+    "http://www.monitoringresources.org/api/v1/methods/6612",
+    "http://www.monitoringresources.org/api/v1/methods/6613"
+  ],
   "objectives": [
     "Derive strontium isotope signatures for all major tributaries to the Kootenai River from Libby Dam, Montana to Boundary Creek, Idaho.",
     "Estimate the percent contribution of each tributary to the mainstem adult rainbow trout population (both in Idaho and Montana).",

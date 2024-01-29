@@ -4,6 +4,11 @@
   "title": "Operation of a PIT-tag Interrogation System at an Irrigation Diversion Dam",
   "id": 3650,
   "assumptions": null,
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/3921",
+    "http://www.monitoringresources.org/api/v1/methods/6786",
+    "http://www.monitoringresources.org/api/v1/methods/6855"
+  ],
   "objectives": [
     "Operate and maintain PIT-tag interrogation system to provide consistent passive interrogation and uploading of data to the regional PIT-tag database (PTAGIS).",
     "Calculate detection efficiencies to characterize system performance."

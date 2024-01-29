@@ -4,6 +4,17 @@
   "title": "Estimating Juvenile Salmonid Abundance for CTUIR Biological Monitoring of Fish Habitat Action Effectiveness",
   "id": 3324,
   "assumptions": "<p>Access to impact and suitable control reaches will be provided prior to project implementation and for a period of&nbsp;10 years following project completion.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/196",
+    "http://www.monitoringresources.org/api/v1/methods/197",
+    "http://www.monitoringresources.org/api/v1/methods/1581",
+    "http://www.monitoringresources.org/api/v1/methods/4076",
+    "http://www.monitoringresources.org/api/v1/methods/4131",
+    "http://www.monitoringresources.org/api/v1/methods/4238",
+    "http://www.monitoringresources.org/api/v1/methods/5273",
+    "http://www.monitoringresources.org/api/v1/methods/5274",
+    "http://www.monitoringresources.org/api/v1/methods/5396"
+  ],
   "objectives": [
     "Measure presence and relative abundance of fish species and life stages by habitat type and season"
   ],

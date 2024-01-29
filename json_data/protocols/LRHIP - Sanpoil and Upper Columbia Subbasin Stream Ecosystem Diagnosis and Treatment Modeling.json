@@ -4,6 +4,9 @@
   "title": "LRHIP - Sanpoil and Upper Columbia Subbasin Stream Ecosystem Diagnosis and Treatment Modeling",
   "id": 685,
   "assumptions": "<p>Attributes of template (historic) habitat conditions are accurate.</p>\r\n\r\n<p>Attributes of current habitat conditions are accurate.</p>\r\n\r\n<p>All measurable environmental conditions that effect habitat productivity and potentia are included in the EDT model.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/3973"
+  ],
   "objectives": [
     "Model current habitat condition, habitat capacity, and potential fish production in Sanpoil and Upper Columbia Subbasin streams in reference to historical and potential restored habitat conditions. "
   ],

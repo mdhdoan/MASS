@@ -4,6 +4,10 @@
   "title": "Silene spaldingii Monitoring on the Precious Lands Wildlife Management Area",
   "id": 2065,
   "assumptions": "<p>1.Personnel&nbsp;can properly&nbsp;identify&nbsp;Spalding&#39;s Catchfly.</p>\r\n\r\n<p>2.Sampling twice during the growing season will capture all plants present within the plots, with enough information collected to inform introduction, dormancy and pollination of this plant.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/4245",
+    "http://www.monitoringresources.org/api/v1/methods/5318"
+  ],
   "objectives": [
     "To collect seeds for cryopreservation.",
     "Continuous monitoring to learn more about reproduction, dormancy and pollination of this plant."

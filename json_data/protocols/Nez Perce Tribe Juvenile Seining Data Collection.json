@@ -4,6 +4,12 @@
   "title": "Nez Perce Tribe Juvenile Seining Data Collection",
   "id": 2243,
   "assumptions": "<p>Collected fish are randomly sampled and represent the un-caught population.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/6633",
+    "http://www.monitoringresources.org/api/v1/methods/6634",
+    "http://www.monitoringresources.org/api/v1/methods/6636",
+    "http://www.monitoringresources.org/api/v1/methods/6639"
+  ],
   "objectives": [
     "Collect juvenile salmonid data, from seining (boat and shore) with a capture and marking program for determination of survival, growth and life history characteristics. ",
     "Provide a means to calculate natural Chinook salmon emigration timing and survival to Snake and Columbia river dams. ",

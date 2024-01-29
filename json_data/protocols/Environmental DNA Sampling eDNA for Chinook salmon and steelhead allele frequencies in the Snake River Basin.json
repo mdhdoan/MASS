@@ -4,6 +4,12 @@
   "title": "Environmental DNA Sampling eDNA for Chinook salmon and steelhead allele frequencies in the Snake River Basin",
   "id": 3471,
   "assumptions": "<p>1) eDNA in the water column is shed from a living organism or a recent corpse of the target species or taxonomic group;</p>\r\n\r\n<p>2) eDNA does not move counter to the flow of water and does not enter the water column from a reservoir in sediments;</p>\r\n\r\n<p>3) eDNA is not appreciably moved by predators/parasites or derive from anthropogenic sources.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/5446",
+    "http://www.monitoringresources.org/api/v1/methods/5476",
+    "http://www.monitoringresources.org/api/v1/methods/5501",
+    "http://www.monitoringresources.org/api/v1/methods/6778"
+  ],
   "objectives": [
     "The objective of this protocol is to determine the feasibility of generating allele frequency information from eDNA sampling."
   ],

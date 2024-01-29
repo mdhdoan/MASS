@@ -4,6 +4,21 @@
   "title": "Generating demographic information for a salmonid population using data collected at a fixed weir trap",
   "id": 536,
   "assumptions": "<p>Individual fish sampled at the migrant trap represent the population of interest at the tributary or watershed scale.&nbsp;</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/342",
+    "http://www.monitoringresources.org/api/v1/methods/380",
+    "http://www.monitoringresources.org/api/v1/methods/395",
+    "http://www.monitoringresources.org/api/v1/methods/454",
+    "http://www.monitoringresources.org/api/v1/methods/1440",
+    "http://www.monitoringresources.org/api/v1/methods/1551",
+    "http://www.monitoringresources.org/api/v1/methods/1734",
+    "http://www.monitoringresources.org/api/v1/methods/1736",
+    "http://www.monitoringresources.org/api/v1/methods/3991",
+    "http://www.monitoringresources.org/api/v1/methods/5334",
+    "http://www.monitoringresources.org/api/v1/methods/5356",
+    "http://www.monitoringresources.org/api/v1/methods/5498",
+    "http://www.monitoringresources.org/api/v1/methods/6577"
+  ],
   "objectives": [
     "Generate annual abundance estimates for migratory adult salmonids at the tributary or watershed scale.",
     "Generate annual estimates of juvenile to adult return rates for migratory salmonids at the tributary or watershed scale.",

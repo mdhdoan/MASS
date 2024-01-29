@@ -4,6 +4,11 @@
   "title": "Grassland Restoration Monitoring on the Precious Lands Wildlife Management Area",
   "id": 2055,
   "assumptions": "<p>1.Personnel are trained in the identification of the local flora as well as familiar with the sampling design.</p>\r\n\r\n<p>2.Plots will be monitored at height of growing season (middle of summer) to limit year to year variability.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/4245",
+    "http://www.monitoringresources.org/api/v1/methods/5281",
+    "http://www.monitoringresources.org/api/v1/methods/5317"
+  ],
   "objectives": [
     "Reclamation of the natural floral components native to the area."
   ],

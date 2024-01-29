@@ -4,6 +4,21 @@
   "title": "ORBS - Sampling Design of the Oregon Department of Fish and Wildlife\u2019s Ocean Recreational Boat Survey",
   "id": 45,
   "assumptions": null,
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/155",
+    "http://www.monitoringresources.org/api/v1/methods/180",
+    "http://www.monitoringresources.org/api/v1/methods/181",
+    "http://www.monitoringresources.org/api/v1/methods/182",
+    "http://www.monitoringresources.org/api/v1/methods/183",
+    "http://www.monitoringresources.org/api/v1/methods/184",
+    "http://www.monitoringresources.org/api/v1/methods/185",
+    "http://www.monitoringresources.org/api/v1/methods/186",
+    "http://www.monitoringresources.org/api/v1/methods/187",
+    "http://www.monitoringresources.org/api/v1/methods/230",
+    "http://www.monitoringresources.org/api/v1/methods/231",
+    "http://www.monitoringresources.org/api/v1/methods/249",
+    "http://www.monitoringresources.org/api/v1/methods/264"
+  ],
   "objectives": [
     "To estimate catch and effort are made for the marine recreational fishery by the Ocean Recreational Boat Survey."
   ],

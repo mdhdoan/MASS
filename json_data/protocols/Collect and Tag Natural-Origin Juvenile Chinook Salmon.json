@@ -4,6 +4,12 @@
   "title": "Collect and Tag Natural-Origin Juvenile Chinook Salmon",
   "id": 2223,
   "assumptions": "<p>Our frame is representative of our target population (Okanogan summer/fall Chinook).</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/204",
+    "http://www.monitoringresources.org/api/v1/methods/254",
+    "http://www.monitoringresources.org/api/v1/methods/1736",
+    "http://www.monitoringresources.org/api/v1/methods/4041"
+  ],
   "objectives": [
     "PIT tag up to 25,000 juvenile summer/fall Chinook emigrants and release them back into the system.",
     "Operate a large beach seine on the Columbia River, near the confluence with the Okanogan River, to collect juvenile natural-origin summer/fall Chinook emigrants.",

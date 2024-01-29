@@ -4,6 +4,14 @@
   "title": "Evaluation of factors affecting minijack rate among hatchery-reared spring Chinook Salmon",
   "id": 3395,
   "assumptions": "<p>Inferences regarding precocious male maturation from these studies conducted with this spring Chinook Salmon stock can be generalized to other Chinook Salmon stocks, as to other salmonid species.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/371",
+    "http://www.monitoringresources.org/api/v1/methods/746",
+    "http://www.monitoringresources.org/api/v1/methods/1353",
+    "http://www.monitoringresources.org/api/v1/methods/1430",
+    "http://www.monitoringresources.org/api/v1/methods/1734",
+    "http://www.monitoringresources.org/api/v1/methods/5446"
+  ],
   "objectives": [
     "Determine the effect of broodstock age, within sexes, on minijack rate among male hatchery reared spring Chinook Salmon smolts.",
     "Quantify minijack rates among male spring Chinook Salmon smolts sired by age 3 versus age 4 broodstock, and correlate the rates to age structure, size, sex ratio, and SARs of returning adult progeny.",

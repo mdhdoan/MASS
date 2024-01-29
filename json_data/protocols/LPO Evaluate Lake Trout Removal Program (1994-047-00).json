@@ -4,6 +4,19 @@
   "title": "LPO Evaluate Lake Trout Removal Program (1994-047-00)",
   "id": 580,
   "assumptions": null,
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/1030",
+    "http://www.monitoringresources.org/api/v1/methods/1035",
+    "http://www.monitoringresources.org/api/v1/methods/1042",
+    "http://www.monitoringresources.org/api/v1/methods/1044",
+    "http://www.monitoringresources.org/api/v1/methods/1067",
+    "http://www.monitoringresources.org/api/v1/methods/1077",
+    "http://www.monitoringresources.org/api/v1/methods/1078",
+    "http://www.monitoringresources.org/api/v1/methods/1429",
+    "http://www.monitoringresources.org/api/v1/methods/1551",
+    "http://www.monitoringresources.org/api/v1/methods/1617",
+    "http://www.monitoringresources.org/api/v1/methods/1618"
+  ],
   "objectives": [
     "Estimate lake trout fecundity",
     "Calculate lake trout growth rate",

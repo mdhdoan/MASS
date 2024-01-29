@@ -4,6 +4,15 @@
   "title": "Hood River Spring Chinook Salmon Smolt Quality",
   "id": 1957,
   "assumptions": "<p>1. &nbsp;Broodstock are collected in the Hood River basin and gametes are divided up among three test factilities for comparative rearing studies. &nbsp;A key assumption is that the fish reared at each facility are from the same or nearly the same genetic pool.</p>\r\n\r\n<p>2. &nbsp;Differences in smolt&nbsp;quality and early male maturation rates are due to environmental differences among rearing locations and regimes.</p>\r\n\r\n<p>3. &nbsp;The methods used to evaluate fish quality are proven and tested tools that correlate with smolt-to-adult return rates (SAR) in previous studies and provide reliable estimates of pre-release minijack&nbsp;rates.</p>\r\n\r\n<p>4. The physiological assays are working properly and consistently with proper quality control monitoring in place.</p>\r\n\r\n<p>5. Sampling of dip netted fish is random, robust and representative.</p>\r\n\r\n<p>6. We sample a sufficient number of fish to have adequate statical power to characterize each life-history type based on physiological measures.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/368",
+    "http://www.monitoringresources.org/api/v1/methods/371",
+    "http://www.monitoringresources.org/api/v1/methods/650",
+    "http://www.monitoringresources.org/api/v1/methods/1550",
+    "http://www.monitoringresources.org/api/v1/methods/1734",
+    "http://www.monitoringresources.org/api/v1/methods/3785",
+    "http://www.monitoringresources.org/api/v1/methods/3814"
+  ],
   "objectives": [
     "The objective of this evaluation is to conduct a multi-year (2008-2018) comparative study of Hood River spring Chinook reared at three different hatchery facilities."
   ],

@@ -4,6 +4,16 @@
   "title": "Nez Perce Tribe Spawning Ground Survey Data Collection",
   "id": 2255,
   "assumptions": "<p style=\"margin-left:1.0in\">1. All redds are enumerated.</p>\r\n\r\n<p style=\"margin-left:1.0in\">2. Females build one redd.</p>\r\n\r\n<p style=\"margin-left:1.0in\">3. Carcasses are collected randomly and represent the unobserved individuals.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/6639",
+    "http://www.monitoringresources.org/api/v1/methods/6641",
+    "http://www.monitoringresources.org/api/v1/methods/6642",
+    "http://www.monitoringresources.org/api/v1/methods/6643",
+    "http://www.monitoringresources.org/api/v1/methods/6644",
+    "http://www.monitoringresources.org/api/v1/methods/6645",
+    "http://www.monitoringresources.org/api/v1/methods/6652",
+    "http://www.monitoringresources.org/api/v1/methods/6653"
+  ],
   "objectives": [
     "Obtain an index of spawner abundance (i.e. observed redds)",
     "Determine spatial distribution of spawners",

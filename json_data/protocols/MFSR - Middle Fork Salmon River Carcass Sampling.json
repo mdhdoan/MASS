@@ -4,6 +4,13 @@
   "title": "MFSR - Middle Fork Salmon River Carcass Sampling",
   "id": 42,
   "assumptions": null,
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/177",
+    "http://www.monitoringresources.org/api/v1/methods/248",
+    "http://www.monitoringresources.org/api/v1/methods/302",
+    "http://www.monitoringresources.org/api/v1/methods/303",
+    "http://www.monitoringresources.org/api/v1/methods/304"
+  ],
   "objectives": [],
   "ownerName": "Jacque Schei",
   "ownerEmail": "jschei@usgs.gov"

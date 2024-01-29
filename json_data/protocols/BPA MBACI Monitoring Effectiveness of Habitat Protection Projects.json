@@ -4,6 +4,24 @@
   "title": "BPA MBACI Monitoring Effectiveness of Habitat Protection Projects",
   "id": 1868,
   "assumptions": "<p>Access to survey reach will be provided for a period of at least twelve years following project implementation.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/89",
+    "http://www.monitoringresources.org/api/v1/methods/156",
+    "http://www.monitoringresources.org/api/v1/methods/157",
+    "http://www.monitoringresources.org/api/v1/methods/165",
+    "http://www.monitoringresources.org/api/v1/methods/172",
+    "http://www.monitoringresources.org/api/v1/methods/238",
+    "http://www.monitoringresources.org/api/v1/methods/241",
+    "http://www.monitoringresources.org/api/v1/methods/297",
+    "http://www.monitoringresources.org/api/v1/methods/834",
+    "http://www.monitoringresources.org/api/v1/methods/856",
+    "http://www.monitoringresources.org/api/v1/methods/906",
+    "http://www.monitoringresources.org/api/v1/methods/907",
+    "http://www.monitoringresources.org/api/v1/methods/913",
+    "http://www.monitoringresources.org/api/v1/methods/1584",
+    "http://www.monitoringresources.org/api/v1/methods/1586",
+    "http://www.monitoringresources.org/api/v1/methods/1763"
+  ],
   "objectives": [
     "Determine the biological condition of macroinvertebrate and fish species assemblages using a multi-metric index for each randomly selected parcel (Years 1 3, 6, 9, and 12)",
     "Determine status and trends of instream, riparian, and upland habitat within each randomly selected parcel (Years 1 3, 6, 9, and 12)"

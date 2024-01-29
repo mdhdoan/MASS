@@ -4,6 +4,16 @@
   "title": "Smolt Monitoring (1990-005-01)",
   "id": 173,
   "assumptions": "<p>Our tagging effects,&nbsp;related mortality and tag loss are low and similar to rates in published studies.</p>\r\n\r\n<p>The variance of each trap efficiency estimate is determined under the normal assumption of a binomial sampling distribution:</p>\r\n\r\n<p>The stratified Lincoln-Petersen estimator is appropriate under the following assumptions:</p>\r\n\r\n<p>&nbsp; 1) The population is closed.</p>\r\n\r\n<p>&nbsp; 2) Marks or tags are not lost between the points of release and recapture.</p>\r\n\r\n<p>&nbsp; 3) All fish have the same probability of being captured at the screw trap over the stratum.</p>\r\n\r\n<p>&nbsp; 4) The outcome of any individual (i.e., whether or not it is captured or recaptured) is independent of the outcome of all other individuals.</p>\r\n\r\n<p>&nbsp; 5) Marked and unmarked fish are equally mixed throughout the study.</p>\r\n\r\n<p>The key assumptions of the CJS model include:</p>\r\n\r\n<p>&nbsp; 1) PIT tagged juvenile steelhead 100 mm or greater in length are actively migrating toward the sea.</p>\r\n\r\n<p>&nbsp; 2) PIT tagged steelhead die at the same rate as untagged smolts.</p>\r\n\r\n<p>&nbsp; 3) Detected and undetected steelhead passing a detection site have the same probability of being&nbsp;&nbsp; detected downstream.</p>\r\n\r\n<p>&nbsp; 4) Survival through a dam is the same for all passage routes (e.g., survival is the same whether passing through the bypass, turbines, or spillway.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/134",
+    "http://www.monitoringresources.org/api/v1/methods/272",
+    "http://www.monitoringresources.org/api/v1/methods/389",
+    "http://www.monitoringresources.org/api/v1/methods/485",
+    "http://www.monitoringresources.org/api/v1/methods/6583",
+    "http://www.monitoringresources.org/api/v1/methods/6608",
+    "http://www.monitoringresources.org/api/v1/methods/6632",
+    "http://www.monitoringresources.org/api/v1/methods/6981"
+  ],
   "objectives": [
     "Monitor the status and trends of annual natural juvenile salmonid production from Meacham Creek and the upper Umatilla River.",
     "Assess annual survival of natural juvenile steelhead migrating through the lower Umatilla river and the lower Columbia River in an integrated program with the Oregon Department of Fish and Wildlife.",

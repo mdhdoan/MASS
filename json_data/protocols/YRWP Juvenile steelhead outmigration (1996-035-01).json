@@ -4,6 +4,15 @@
   "title": "YRWP Juvenile steelhead outmigration (1996-035-01)",
   "id": 111,
   "assumptions": "<p>Continuous operation of screw trap can provide a relatively unbiased estimate of juvenile outmigration if catch rates are sufficient.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/133",
+    "http://www.monitoringresources.org/api/v1/methods/134",
+    "http://www.monitoringresources.org/api/v1/methods/485",
+    "http://www.monitoringresources.org/api/v1/methods/1734",
+    "http://www.monitoringresources.org/api/v1/methods/1736",
+    "http://www.monitoringresources.org/api/v1/methods/4041",
+    "http://www.monitoringresources.org/api/v1/methods/5519"
+  ],
   "objectives": [
     "Monitor steelhead population status and trends in Lower Yakima River Tributaries (Satus Creek, Toppenish Creek, and Ahtanum Creek) to estimate yearly juvenile steelhead outmigrant production."
   ],

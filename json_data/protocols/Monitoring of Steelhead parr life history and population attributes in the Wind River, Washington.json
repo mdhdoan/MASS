@@ -4,6 +4,18 @@
   "title": "Monitoring of Steelhead parr life history and population attributes in the Wind River, Washington",
   "id": 3549,
   "assumptions": null,
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/118",
+    "http://www.monitoringresources.org/api/v1/methods/119",
+    "http://www.monitoringresources.org/api/v1/methods/485",
+    "http://www.monitoringresources.org/api/v1/methods/1734",
+    "http://www.monitoringresources.org/api/v1/methods/3971",
+    "http://www.monitoringresources.org/api/v1/methods/4041",
+    "http://www.monitoringresources.org/api/v1/methods/6573",
+    "http://www.monitoringresources.org/api/v1/methods/6785",
+    "http://www.monitoringresources.org/api/v1/methods/6855",
+    "http://www.monitoringresources.org/api/v1/methods/6856"
+  ],
   "objectives": [
     "Assess survival and age at migration of age-0 and age-1 Steelhead parr from their headwater rearing habitat to downstream sample sites.",
     "Describe population attributes (size, growth, distribution, and abundance) and data trends of age-0 and age-1 Steelhead parr in headwaters areas of the Wind River, WA.\r\n\r\n",

@@ -4,6 +4,10 @@
   "title": "Floodplain wetland nutrient contribution to Kootenai River",
   "id": 3473,
   "assumptions": "<p>Similar to the 199404900 project, key assumptions of this monitoring protocol are: laboratory results are reliable accurate; that spatially and temporally robust field data collection efforts will provide good long-term estimates of primary, seconday and tertiary biological productivity in the Kootenai River wetylands and floodplains; and, that statistically derived sample size estimates are adequate to characterize various trophic levels.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/316",
+    "http://www.monitoringresources.org/api/v1/methods/3789"
+  ],
   "objectives": [
     "Evaluate potential changes in water quality and nutrients as a result of wetland contributions to the Kootenai River"
   ],

@@ -4,6 +4,10 @@
   "title": "Lake Roosevelt White Sturgeon - Conservation Aquaculture",
   "id": 3537,
   "assumptions": null,
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/6839",
+    "http://www.monitoringresources.org/api/v1/methods/6842"
+  ],
   "objectives": [
     "Annually collect wild origin White Sturgeon Larvae during their larval dispersion drift phase",
     "Annually release 3,000 wild caught White Sturgeon larvae at a size of release of 200g to meet adult abundance and harvest targets"

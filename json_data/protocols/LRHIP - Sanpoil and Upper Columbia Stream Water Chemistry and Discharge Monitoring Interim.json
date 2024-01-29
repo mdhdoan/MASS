@@ -4,6 +4,19 @@
   "title": "LRHIP - Sanpoil and Upper Columbia Stream Water Chemistry and Discharge Monitoring Interim",
   "id": 2135,
   "assumptions": "<p>See new protocols.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/72",
+    "http://www.monitoringresources.org/api/v1/methods/316",
+    "http://www.monitoringresources.org/api/v1/methods/318",
+    "http://www.monitoringresources.org/api/v1/methods/817",
+    "http://www.monitoringresources.org/api/v1/methods/847",
+    "http://www.monitoringresources.org/api/v1/methods/848",
+    "http://www.monitoringresources.org/api/v1/methods/1579",
+    "http://www.monitoringresources.org/api/v1/methods/1580",
+    "http://www.monitoringresources.org/api/v1/methods/3789",
+    "http://www.monitoringresources.org/api/v1/methods/3796",
+    "http://www.monitoringresources.org/api/v1/methods/4106"
+  ],
   "objectives": [
     "Describe stream water chemistry and discharge for use in habitat restoration and protection prioritization.",
     "Provide baseline water chemistry and stream discharge data sets for use in EDT model development.",

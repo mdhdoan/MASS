@@ -4,6 +4,13 @@
   "title": "Okanogan Basin Monitoring & Evaluation Program - Steelhead Spawner Abundance",
   "id": 192,
   "assumptions": "<p>One redd per female. Sex and percent wild ratios at Wells Dam are representative of the Okanogan River mainstem habitats. Tributary habitats where a weir exists are representative of sex and percent wild ratios returning to other tributary habitats. This is a census study design so we assume we are observing all redds across available habitats across the entire spawning period.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/131",
+    "http://www.monitoringresources.org/api/v1/methods/402",
+    "http://www.monitoringresources.org/api/v1/methods/1429",
+    "http://www.monitoringresources.org/api/v1/methods/4000",
+    "http://www.monitoringresources.org/api/v1/methods/6927"
+  ],
   "objectives": [
     "To determine if the number of adult salmon and steelhead in the Okanogan River subbasin is trending towards recovery over time.",
     "To estimate the proportion of hatchery and natural origin spawners in the Okanogan subbasin.",

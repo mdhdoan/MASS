@@ -4,6 +4,9 @@
   "title": "LPO Kokanee Spawner Status Assessment",
   "id": 2017,
   "assumptions": "<p>Visual spawner counts along shorelines or in tributaries are representative of the entire lake wide spawning component of the population.&nbsp;</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/1095"
+  ],
   "objectives": [
     "Conduct spawner counts as an index of mature kokanee abundance"
   ],

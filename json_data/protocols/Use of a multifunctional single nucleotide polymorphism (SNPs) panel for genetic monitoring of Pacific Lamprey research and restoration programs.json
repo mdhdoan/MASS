@@ -4,6 +4,12 @@
   "title": "Use of a multifunctional single nucleotide polymorphism (SNPs) panel for genetic monitoring of Pacific Lamprey research and restoration programs",
   "id": 3593,
   "assumptions": "<p>Collection and tissue sampling procedures for adults and juveniles, and for adult PIT tagging are all well established, and these procedures are followed in each of the current tribal lamprey programs (Campbell et al. 2012, Method 1432, Tissue sampling for Parentage Based Tagging v1.0, https://www.monitoringresources.org/Document/Method/Details/1432).</p>\r\n\r\n<p>The SNP marker panel for use in Pacific Lamprey genetics analyses has been developed, refined, and tested using financing from BPA 2008-524-00 (McIlraith 2015, Method 713, Developing new genetic markers to understand and monitor Columbia River Basin Pacific Lampreys v1.0, https://www.monitoringresources.org/Document/Protocol/Details/713; Hess et al. 2015).</p>\r\n\r\n<p>The SNP marker panel developed by Hess et al. 2015 through BPA 2008-524-00 has contributed to information on physiology and life history of returning adults (Hess et al. 2014), gene flow, or lack thereof, of lampreys within the Columbia River basin (Hess et al. 2013), effective spawner abundance in a stream reach (Whitlock et al. in review), and species identification (Baker et al. 2015).<br />\r\n&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/133",
+    "http://www.monitoringresources.org/api/v1/methods/580",
+    "http://www.monitoringresources.org/api/v1/methods/1432",
+    "http://www.monitoringresources.org/api/v1/methods/5446"
+  ],
   "objectives": [
     "Collect tissue samples from all adult lamprey collected for regional restoration efforts (e.g. translocation and artificial propagation) from mainstem Columbia River dams.",
     "Strategically collect tissue samples from larval/juvenile lampreys during regional research/monitoring efforts (e.g. electrofishing and screw trap monitoring) in CRB study/control streams.",

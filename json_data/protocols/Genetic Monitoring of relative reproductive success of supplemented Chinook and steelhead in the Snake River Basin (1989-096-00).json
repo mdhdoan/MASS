@@ -4,6 +4,21 @@
   "title": "Genetic Monitoring of relative reproductive success of supplemented Chinook and steelhead in the Snake River Basin (1989-096-00)",
   "id": 364,
   "assumptions": "<p>We assume that every location and species may act differently within a supplementation framework, so our results here are not necessarily to be applied to other systems.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/700",
+    "http://www.monitoringresources.org/api/v1/methods/729",
+    "http://www.monitoringresources.org/api/v1/methods/1332",
+    "http://www.monitoringresources.org/api/v1/methods/1340",
+    "http://www.monitoringresources.org/api/v1/methods/1345",
+    "http://www.monitoringresources.org/api/v1/methods/1347",
+    "http://www.monitoringresources.org/api/v1/methods/1353",
+    "http://www.monitoringresources.org/api/v1/methods/1357",
+    "http://www.monitoringresources.org/api/v1/methods/1430",
+    "http://www.monitoringresources.org/api/v1/methods/1431",
+    "http://www.monitoringresources.org/api/v1/methods/4002",
+    "http://www.monitoringresources.org/api/v1/methods/5404",
+    "http://www.monitoringresources.org/api/v1/methods/5446"
+  ],
   "objectives": [
     "Monitor relative reproductive success of hatchery and wild Chinook and steelhead in the Snake River Basin"
   ],

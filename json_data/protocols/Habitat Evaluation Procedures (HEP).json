@@ -4,6 +4,27 @@
   "title": "Habitat Evaluation Procedures (HEP)",
   "id": 2042,
   "assumptions": "<p>Our key assumption is that HEP species models can be used to quantify habitat quality for individual wildlife species and species guilds.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/150",
+    "http://www.monitoringresources.org/api/v1/methods/151",
+    "http://www.monitoringresources.org/api/v1/methods/173",
+    "http://www.monitoringresources.org/api/v1/methods/178",
+    "http://www.monitoringresources.org/api/v1/methods/192",
+    "http://www.monitoringresources.org/api/v1/methods/194",
+    "http://www.monitoringresources.org/api/v1/methods/229",
+    "http://www.monitoringresources.org/api/v1/methods/250",
+    "http://www.monitoringresources.org/api/v1/methods/251",
+    "http://www.monitoringresources.org/api/v1/methods/252",
+    "http://www.monitoringresources.org/api/v1/methods/276",
+    "http://www.monitoringresources.org/api/v1/methods/277",
+    "http://www.monitoringresources.org/api/v1/methods/278",
+    "http://www.monitoringresources.org/api/v1/methods/280",
+    "http://www.monitoringresources.org/api/v1/methods/288",
+    "http://www.monitoringresources.org/api/v1/methods/290",
+    "http://www.monitoringresources.org/api/v1/methods/305",
+    "http://www.monitoringresources.org/api/v1/methods/308",
+    "http://www.monitoringresources.org/api/v1/methods/4225"
+  ],
   "objectives": [
     "Provide consistency with how habitat variable data is collected throughout the Columbia Basin Region in support of the Columbia River Wildlife Mitigation Program funded by BPA."
   ],

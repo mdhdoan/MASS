@@ -4,6 +4,18 @@
   "title": "Using a rotary screw trap to generate demographic data for a salmonid population",
   "id": 3278,
   "assumptions": "<p>Assumptions are associated with trap efficiency release trials that are used to generate outmigrant abundance:</p>\r\n\r\n<p>1. Release trial marked fish remain alive until they are available to be recaptured.</p>\r\n\r\n<p>2. Marked fish retain their marks and are observable upon recapture.</p>\r\n\r\n<p>3. Marked and unmarked fish are captured at similar rates.</p>\r\n\r\n<p>4. Marked fish mix with unmarked fish prior to recapture.</p>\r\n\r\n<p>The following assumptions are associated with trapped juvenile outmigrants&nbsp;in general:</p>\r\n\r\n<p>1. Captured fish are representative (e.g., size, timing) of the population of interest.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/133",
+    "http://www.monitoringresources.org/api/v1/methods/271",
+    "http://www.monitoringresources.org/api/v1/methods/342",
+    "http://www.monitoringresources.org/api/v1/methods/380",
+    "http://www.monitoringresources.org/api/v1/methods/1551",
+    "http://www.monitoringresources.org/api/v1/methods/1734",
+    "http://www.monitoringresources.org/api/v1/methods/1736",
+    "http://www.monitoringresources.org/api/v1/methods/3991",
+    "http://www.monitoringresources.org/api/v1/methods/5356",
+    "http://www.monitoringresources.org/api/v1/methods/5519"
+  ],
   "objectives": [
     "PIT-tag juvenile outmigrating salmonids to enable prospective return rate analyses.",
     "Examine and track changes in the distribution of outmigration times for juvenile salmonids at the tributary or watershed scale. ",

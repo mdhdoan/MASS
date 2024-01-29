@@ -4,6 +4,17 @@
   "title": "IDFG Lower Granite Dam Adult Monitoring for wild spring/summer Chinook Salmon and steelhead",
   "id": 88,
   "assumptions": "<p>Adult steelhead and Chinook Salmon are counted and sampled only once at Lower Granite Dam and continue upstream to spawn.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/342",
+    "http://www.monitoringresources.org/api/v1/methods/378",
+    "http://www.monitoringresources.org/api/v1/methods/1366",
+    "http://www.monitoringresources.org/api/v1/methods/1432",
+    "http://www.monitoringresources.org/api/v1/methods/1433",
+    "http://www.monitoringresources.org/api/v1/methods/1577",
+    "http://www.monitoringresources.org/api/v1/methods/4041",
+    "http://www.monitoringresources.org/api/v1/methods/6931",
+    "http://www.monitoringresources.org/api/v1/methods/6941"
+  ],
   "objectives": [
     "Sample representative portion of natural/wild adult Snake River steelhead and spring-summer Chinook Salmon runs at Lower Granite Dam.",
     "Estimate and monitor abundance, productivity, survival, and composition (age structure, sex ratios, and genetic stock) of adult natural/wild Snake River steelhead and spring-summer Chinook Salmon ESUs"

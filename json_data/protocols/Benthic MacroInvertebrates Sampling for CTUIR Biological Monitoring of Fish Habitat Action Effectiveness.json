@@ -4,6 +4,15 @@
   "title": "Benthic MacroInvertebrates Sampling for CTUIR Biological Monitoring of Fish Habitat Action Effectiveness",
   "id": 3451,
   "assumptions": "<p>Access to impact and suitable control reaches will be provided.</p>\r\n\r\n<p>Correct identification of macroinvertebrates by processing laboratory.&nbsp;</p>\r\n\r\n<p>Macroinvertebrate species captured in a particular habitat type are indicative of the actual species living in that habitat.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/89",
+    "http://www.monitoringresources.org/api/v1/methods/4073",
+    "http://www.monitoringresources.org/api/v1/methods/4084",
+    "http://www.monitoringresources.org/api/v1/methods/4085",
+    "http://www.monitoringresources.org/api/v1/methods/4114",
+    "http://www.monitoringresources.org/api/v1/methods/4120",
+    "http://www.monitoringresources.org/api/v1/methods/4237"
+  ],
   "objectives": [
     "Determine how benthic macroinvertebrate communities have changed as a result of in stream and floodplain habitat restoration."
   ],

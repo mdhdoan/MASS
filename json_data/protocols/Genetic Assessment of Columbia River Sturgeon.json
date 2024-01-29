@@ -4,6 +4,12 @@
   "title": "Genetic Assessment of Columbia River Sturgeon",
   "id": 428,
   "assumptions": "<p>White sturgeon in the middle Columbia River impoundments are in decline compared to the lower Columbia River region. Migration and geneflow is limited. Those populations with relatively small and variable census sizes are likely to exhibit genetic drift. Effective numbers of breeders across impounments is variable and relatedness amoung young of the year and sub-adult fish may be high within some impoundments. Broodstock will be characterized and genetic variablility maintained relative to the natural-origin populations.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/917",
+    "http://www.monitoringresources.org/api/v1/methods/918",
+    "http://www.monitoringresources.org/api/v1/methods/920",
+    "http://www.monitoringresources.org/api/v1/methods/921"
+  ],
   "objectives": [
     "To outline and describe the following:\r\nWE157 - extract and amplify DNA, conduct fragment analysis;\r\nWE159 - scoring error analysis and data formatting;\r\nWE162 - conduct population genetic analyses"
   ],

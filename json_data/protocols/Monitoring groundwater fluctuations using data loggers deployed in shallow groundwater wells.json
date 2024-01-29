@@ -4,6 +4,12 @@
   "title": "Monitoring groundwater fluctuations using data loggers deployed in shallow groundwater wells",
   "id": 2185,
   "assumptions": "<ul>\r\n\t<li>The reference site provides an appropriate control scenario</li>\r\n\t<li>The depth and spatial locations of the groundwater wells are appropriate for detecting changes in water table elevation and groundwater temperature resulting from restoration activities</li>\r\n\t<li>Long term differences in water table elevation trajectories and groundwater temperature patterns recorded from the two instrumented well fields are attributable to their treated vs. reference status</li>\r\n\t<li>Data loggers are calibrated and functioning properly</li>\r\n\t<li>Field measurement data for each well (well elevations, cap perch measurements, and cable length measurements) are accurate</li>\r\n</ul>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/1448",
+    "http://www.monitoringresources.org/api/v1/methods/5419",
+    "http://www.monitoringresources.org/api/v1/methods/5457",
+    "http://www.monitoringresources.org/api/v1/methods/5459"
+  ],
   "objectives": [
     "Monitor hourly changes in water table elevation and groundwater temperature in well fields adjacent to a restored stream reach (treatment) and a nearby unrestored, reference stream reach (control)",
     "Determine whether trends in water table elevation and groundwater temperature support the hypothesis that restoration actions have improved hydrologic connectivity and mitigated effects of incision"

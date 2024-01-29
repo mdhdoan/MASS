@@ -4,6 +4,20 @@
   "title": "Asotin Adult Sampling and Analysis(2002-053-00)",
   "id": 295,
   "assumptions": "<p>We assume that our weirs are functioning properly, and we are sampling a representative portion of the population, and the remainder of the basic mark-recapture assumptions.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/131",
+    "http://www.monitoringresources.org/api/v1/methods/135",
+    "http://www.monitoringresources.org/api/v1/methods/145",
+    "http://www.monitoringresources.org/api/v1/methods/195",
+    "http://www.monitoringresources.org/api/v1/methods/378",
+    "http://www.monitoringresources.org/api/v1/methods/380",
+    "http://www.monitoringresources.org/api/v1/methods/384",
+    "http://www.monitoringresources.org/api/v1/methods/402",
+    "http://www.monitoringresources.org/api/v1/methods/931",
+    "http://www.monitoringresources.org/api/v1/methods/1366",
+    "http://www.monitoringresources.org/api/v1/methods/1736",
+    "http://www.monitoringresources.org/api/v1/methods/4220"
+  ],
   "objectives": [
     "Estimate spawner abundance and escapement of wild and hatchery steelhead in the Asotin Creek salmon population.",
     "Estimate adults per redd in the Asotin Creek mainstem.",

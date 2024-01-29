@@ -4,6 +4,15 @@
   "title": "Supplemental Burbot Sampling to Evaluate Lake Roosevelt FWIN Gill Net Length/Age Bias",
   "id": 693,
   "assumptions": "<p>Our sample will be representative of the entire population.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/140",
+    "http://www.monitoringresources.org/api/v1/methods/1078",
+    "http://www.monitoringresources.org/api/v1/methods/1229",
+    "http://www.monitoringresources.org/api/v1/methods/1230",
+    "http://www.monitoringresources.org/api/v1/methods/1551",
+    "http://www.monitoringresources.org/api/v1/methods/5399",
+    "http://www.monitoringresources.org/api/v1/methods/5400"
+  ],
   "objectives": [
     "Collect Burbot using trammel nets and modified cod traps to evaluate length and age bias in Fall Walleye Index Netting Burbot catch."
   ],

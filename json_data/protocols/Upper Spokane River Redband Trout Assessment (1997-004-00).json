@@ -4,6 +4,25 @@
   "title": "Upper Spokane River Redband Trout Assessment (1997-004-00)",
   "id": 3706,
   "assumptions": "Redband trout can be effectively samplied using driftboat electrofishing.",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/117",
+    "http://www.monitoringresources.org/api/v1/methods/120",
+    "http://www.monitoringresources.org/api/v1/methods/342",
+    "http://www.monitoringresources.org/api/v1/methods/746",
+    "http://www.monitoringresources.org/api/v1/methods/780",
+    "http://www.monitoringresources.org/api/v1/methods/952",
+    "http://www.monitoringresources.org/api/v1/methods/1090",
+    "http://www.monitoringresources.org/api/v1/methods/1360",
+    "http://www.monitoringresources.org/api/v1/methods/1366",
+    "http://www.monitoringresources.org/api/v1/methods/1551",
+    "http://www.monitoringresources.org/api/v1/methods/1734",
+    "http://www.monitoringresources.org/api/v1/methods/4041",
+    "http://www.monitoringresources.org/api/v1/methods/5249",
+    "http://www.monitoringresources.org/api/v1/methods/5400",
+    "http://www.monitoringresources.org/api/v1/methods/6579",
+    "http://www.monitoringresources.org/api/v1/methods/6583",
+    "http://www.monitoringresources.org/api/v1/methods/6931"
+  ],
   "objectives": [
     "Estimate abundance and age structure of Redband Trout in an index area of the Spokane River, Spokane County, WA between the Washington/Idaho stateline (rkm 154.8) and Harvard Road (rkm 149.2). "
   ],

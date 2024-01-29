@@ -4,6 +4,16 @@
   "title": "LPO Rainbow Trout Population Assessment (1994-047-00) Interim Protocol",
   "id": 2035,
   "assumptions": "<p>Rainbow trout sampled are representative of the entire population.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/1045",
+    "http://www.monitoringresources.org/api/v1/methods/1077",
+    "http://www.monitoringresources.org/api/v1/methods/1078",
+    "http://www.monitoringresources.org/api/v1/methods/1551",
+    "http://www.monitoringresources.org/api/v1/methods/1617",
+    "http://www.monitoringresources.org/api/v1/methods/1618",
+    "http://www.monitoringresources.org/api/v1/methods/1734",
+    "http://www.monitoringresources.org/api/v1/methods/4038"
+  ],
   "objectives": [
     "Calculate rainbow trout growth rate",
     "Calculate rainbow trout condition factor"

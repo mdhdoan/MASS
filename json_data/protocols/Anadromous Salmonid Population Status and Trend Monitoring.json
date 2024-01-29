@@ -4,6 +4,17 @@
   "title": "Anadromous Salmonid Population Status and Trend Monitoring",
   "id": 3647,
   "assumptions": null,
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/143",
+    "http://www.monitoringresources.org/api/v1/methods/395",
+    "http://www.monitoringresources.org/api/v1/methods/1087",
+    "http://www.monitoringresources.org/api/v1/methods/3979",
+    "http://www.monitoringresources.org/api/v1/methods/4095",
+    "http://www.monitoringresources.org/api/v1/methods/5366",
+    "http://www.monitoringresources.org/api/v1/methods/5407",
+    "http://www.monitoringresources.org/api/v1/methods/5411",
+    "http://www.monitoringresources.org/api/v1/methods/6996"
+  ],
   "objectives": [
     "Provide long-term time series of consistently derived metrics to inform managers on population response to recovery strategies and environmental stressors (i.e., climate change, water diversion, etc.)",
     "Report population status and trends at regular intervals.",

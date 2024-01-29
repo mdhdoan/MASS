@@ -4,6 +4,22 @@
   "title": "Redband Trout Repatriation Project",
   "id": 3499,
   "assumptions": null,
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/32",
+    "http://www.monitoringresources.org/api/v1/methods/133",
+    "http://www.monitoringresources.org/api/v1/methods/145",
+    "http://www.monitoringresources.org/api/v1/methods/195",
+    "http://www.monitoringresources.org/api/v1/methods/271",
+    "http://www.monitoringresources.org/api/v1/methods/395",
+    "http://www.monitoringresources.org/api/v1/methods/746",
+    "http://www.monitoringresources.org/api/v1/methods/952",
+    "http://www.monitoringresources.org/api/v1/methods/1454",
+    "http://www.monitoringresources.org/api/v1/methods/1475",
+    "http://www.monitoringresources.org/api/v1/methods/4041",
+    "http://www.monitoringresources.org/api/v1/methods/4087",
+    "http://www.monitoringresources.org/api/v1/methods/6583",
+    "http://www.monitoringresources.org/api/v1/methods/6640"
+  ],
   "objectives": [
     "Repatriate captured juvenile Redband Trout near their natal spawning grounds.",
     "Raise captured juvenile Redband Trout to an average minimum of 165mm in fork length.",

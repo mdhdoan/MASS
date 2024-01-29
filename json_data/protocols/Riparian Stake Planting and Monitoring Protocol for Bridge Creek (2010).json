@@ -4,6 +4,13 @@
   "title": "Riparian Stake Planting and Monitoring Protocol for Bridge Creek (2010)",
   "id": 58,
   "assumptions": "<ul>\r\n\t<li>Individual trees can be identified accurately each year, in order to record their status</li>\r\n\t<li>Tree survival and growth is improved by implementing experimental results from Hall et al. 2011, which demonstrated the efficacy of herbivory protection structures and deep-planting</li>\r\n</ul>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/269",
+    "http://www.monitoringresources.org/api/v1/methods/270",
+    "http://www.monitoringresources.org/api/v1/methods/279",
+    "http://www.monitoringresources.org/api/v1/methods/1111",
+    "http://www.monitoringresources.org/api/v1/methods/5461"
+  ],
   "objectives": [
     "To plant and monitor tree stakes along the riparian area of Bridge Creek within the National Park Service-John Day Fossil Beds National Monument land."
   ],

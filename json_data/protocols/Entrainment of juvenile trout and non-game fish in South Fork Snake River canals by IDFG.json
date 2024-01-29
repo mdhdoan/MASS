@@ -4,6 +4,10 @@
   "title": "Entrainment of juvenile trout and non-game fish in South Fork Snake River canals by IDFG",
   "id": 3307,
   "assumptions": "<ul>\r\n\t<li>The entrainment rates observed in the three canals are constant through time</li>\r\n\t<li>Entrainment rates of fish in other canals are similar to those monitored with screw traps</li>\r\n\t<li>Entrained fish are not able to navigate back to the South Fork Snake River</li>\r\n\t<li>Rotary screw traps are suitable gear to sample small trout and non-game fish in the South Fork</li>\r\n</ul>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/271",
+    "http://www.monitoringresources.org/api/v1/methods/1615"
+  ],
   "objectives": [
     "Quantification of the entrainment of juvenile trout and non-game fish in three South Fork Snake River canals during the summer irrigation season."
   ],

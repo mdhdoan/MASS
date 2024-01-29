@@ -4,6 +4,16 @@
   "title": "Redband Trout Recruitment in the Sanpoil River",
   "id": 2140,
   "assumptions": "<p>The key assumption&nbsp;for this project is that the screw trap is an adequate method to collect migrating juvenile Redband Trout.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/133",
+    "http://www.monitoringresources.org/api/v1/methods/134",
+    "http://www.monitoringresources.org/api/v1/methods/342",
+    "http://www.monitoringresources.org/api/v1/methods/387",
+    "http://www.monitoringresources.org/api/v1/methods/1433",
+    "http://www.monitoringresources.org/api/v1/methods/1551",
+    "http://www.monitoringresources.org/api/v1/methods/1736",
+    "http://www.monitoringresources.org/api/v1/methods/5519"
+  ],
   "objectives": [
     "The objective of this protocol is to estimate juvenile Redband Trout recruitment from the Sanpoil River into Lake Roosevelt."
   ],

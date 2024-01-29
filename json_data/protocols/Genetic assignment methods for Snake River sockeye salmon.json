@@ -4,6 +4,13 @@
   "title": "Genetic assignment methods for Snake River sockeye salmon",
   "id": 3557,
   "assumptions": null,
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/1334",
+    "http://www.monitoringresources.org/api/v1/methods/1339",
+    "http://www.monitoringresources.org/api/v1/methods/1341",
+    "http://www.monitoringresources.org/api/v1/methods/1356",
+    "http://www.monitoringresources.org/api/v1/methods/5446"
+  ],
   "objectives": [
     "This protocol outlines how individual assignments (PBT and GSI) are completed for Snake River sockeye salmon."
   ],

@@ -4,6 +4,10 @@
   "title": "Breeding Bird Point Count Monitoring on the Precious Lands Wildlife Management Area",
   "id": 1974,
   "assumptions": "<p>1) Personnel are adequately trained to identify all species in area by visual and auditory means.</p>\r\n\r\n<p>2) A constant fraction of individuals present in an area is counted over the timescale and location of interest; i.e. detection probabilities remain consistent across time and space.</p>\r\n\r\n<p>3) The total number of birds counted is consistently and linearly correlated with the actual density of the population.</p>\r\n\r\n<p>4) Birds are not knowingly double-counted in any one count period at a count station.</p>\r\n\r\n<p>5) The population remains demographically closed throughout the survey period.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/1295",
+    "http://www.monitoringresources.org/api/v1/methods/5363"
+  ],
   "objectives": [
     "Develop habitat management guidelines to maintain, restore, and enhance bird populations.",
     "Identify how management activities influence distribution and abundance of species.",

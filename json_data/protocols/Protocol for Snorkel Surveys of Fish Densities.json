@@ -4,6 +4,12 @@
   "title": "Protocol for Snorkel Surveys of Fish Densities",
   "id": 499,
   "assumptions": "<p>The key assumption of this protocol is that snorkeling provides a consistent measure of relative fish abundance and assemblage structure.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/136",
+    "http://www.monitoringresources.org/api/v1/methods/834",
+    "http://www.monitoringresources.org/api/v1/methods/1746",
+    "http://www.monitoringresources.org/api/v1/methods/1747"
+  ],
   "objectives": [
     "Document the relative abundance of juvenile salmonids at the habitat unit and reach scales.",
     "Document fish assemblage structure at the habitat unit and reach scales."

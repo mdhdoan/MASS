@@ -4,6 +4,10 @@
   "title": "Creel Monitoring Protocol for the Dworshak Reservoir Resident Fisheries Mitigation Project",
   "id": 552,
   "assumptions": "<p>Anglers interviewed will be representative of the overall fishery. The number of shore anglers fishing at locations other than boat ramps is negligible. The number of boats launched at locations other than the established boat ramps is negligible.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/1127",
+    "http://www.monitoringresources.org/api/v1/methods/1154"
+  ],
   "objectives": [
     "Estimate the total fishing effort and the effort directed at each species during the time period of the creel survey.",
     "Estimate the catch and harvest by species for the time period of the creel survey.",

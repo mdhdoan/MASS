@@ -4,6 +4,21 @@
   "title": "SRFB - Monitoring Effectiveness of Habitat Protection Projects",
   "id": 31,
   "assumptions": "Access to sites will be provided.",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/156",
+    "http://www.monitoringresources.org/api/v1/methods/157",
+    "http://www.monitoringresources.org/api/v1/methods/165",
+    "http://www.monitoringresources.org/api/v1/methods/170",
+    "http://www.monitoringresources.org/api/v1/methods/171",
+    "http://www.monitoringresources.org/api/v1/methods/172",
+    "http://www.monitoringresources.org/api/v1/methods/233",
+    "http://www.monitoringresources.org/api/v1/methods/238",
+    "http://www.monitoringresources.org/api/v1/methods/240",
+    "http://www.monitoringresources.org/api/v1/methods/241",
+    "http://www.monitoringresources.org/api/v1/methods/242",
+    "http://www.monitoringresources.org/api/v1/methods/297",
+    "http://www.monitoringresources.org/api/v1/methods/301"
+  ],
   "objectives": [
     "Determine status of macro-invertebrate and fish species assemblages using a multi-metric index for each randomly selected parcel. (Years 3, 6, 9, and 12)",
     "Determine trends in instream, riparian and upland habitat within each randomly selected parcel compared to the baseline year. (Years 3, 6, 9, and 12)",

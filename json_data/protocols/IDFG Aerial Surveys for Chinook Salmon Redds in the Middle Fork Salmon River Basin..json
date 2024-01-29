@@ -4,6 +4,11 @@
   "title": "IDFG Aerial Surveys for Chinook Salmon Redds in the Middle Fork Salmon River Basin.",
   "id": 3446,
   "assumptions": null,
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/1728",
+    "http://www.monitoringresources.org/api/v1/methods/6600",
+    "http://www.monitoringresources.org/api/v1/methods/6642"
+  ],
   "objectives": [
     "Survey for Chinook Salmon redds from a helicopter at remote areas in the Middle Fork Salmon River basin.",
     "Document spatial distribution of Chinook salmon redds"

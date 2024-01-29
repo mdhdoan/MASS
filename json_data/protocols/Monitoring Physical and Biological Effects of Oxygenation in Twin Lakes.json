@@ -4,6 +4,11 @@
   "title": "Monitoring Physical and Biological Effects of Oxygenation in Twin Lakes",
   "id": 2225,
   "assumptions": "<p>North and South Twin Lakes are sufficiently similar so that South Twin can act as a reference site.&nbsp;</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/34",
+    "http://www.monitoringresources.org/api/v1/methods/980",
+    "http://www.monitoringresources.org/api/v1/methods/3931"
+  ],
   "objectives": [
     "Determine if oxygenation in North Twin Lake has resulted in physical or biological changes relative to unoxygenated South Twin Lake. ",
     "Determine daphnia and copepod abundance and distribution in Twin Lakes.",

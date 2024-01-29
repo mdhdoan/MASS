@@ -4,6 +4,12 @@
   "title": "LRHIP - Sanpoil and Upper Columbia Subbasin Stream Fish Monitoring",
   "id": 1980,
   "assumptions": "<p>Sample sizes are large enough to provide high confidence in EDT Level II attribute ratings.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/196",
+    "http://www.monitoringresources.org/api/v1/methods/831",
+    "http://www.monitoringresources.org/api/v1/methods/832",
+    "http://www.monitoringresources.org/api/v1/methods/1580"
+  ],
   "objectives": [
     "Describe stream fish communities for use in habitat restoration and protection prioritization.",
     "Provide a standardized protocol for future status and trend monitoring of fish populations.",

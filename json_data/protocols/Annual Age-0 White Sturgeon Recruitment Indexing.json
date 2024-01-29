@@ -4,6 +4,15 @@
   "title": "Annual Age-0 White Sturgeon Recruitment Indexing",
   "id": 376,
   "assumptions": "<p>1. Age-0 white sturgeon are effectively captured with the sampling gear utilized</p>\r\n\r\n<p>2. Sampling takes place at specific sites utilized by&nbsp;age-0 white sturgeon</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/746",
+    "http://www.monitoringresources.org/api/v1/methods/787",
+    "http://www.monitoringresources.org/api/v1/methods/1734",
+    "http://www.monitoringresources.org/api/v1/methods/1736",
+    "http://www.monitoringresources.org/api/v1/methods/3783",
+    "http://www.monitoringresources.org/api/v1/methods/4041",
+    "http://www.monitoringresources.org/api/v1/methods/5551"
+  ],
   "objectives": [
     "Estimate the relative annual abundance of age-0 white sturgeon in each of the impounded reaches of the lower Columbia River  ",
     "Relate age-0 recruitment to physical and enviromental variables",

@@ -4,6 +4,16 @@
   "title": "Hood River non-tribal harvest monitoring",
   "id": 197,
   "assumptions": "<p>We assume that our sampling design allows for a representative sample of the total angling effort, and that weekly summaries limit the potential environmental variation that may influence periodic sample estimates. &nbsp;Geographically we assume that areas of the Hood River that are not available to sample due to private land ownership experience similar catch rates as area that have greater public access, and that angling pressure from the publicly available land&nbsp;far outweighs angling pressure occurring on private land. &nbsp;We also assume Chinook with a fork length of 610 mm&nbsp;are true adults, and any male Chinook where fork length is less or equal to 610 mm&nbsp;is a jack. &nbsp;</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/145",
+    "http://www.monitoringresources.org/api/v1/methods/342",
+    "http://www.monitoringresources.org/api/v1/methods/1366",
+    "http://www.monitoringresources.org/api/v1/methods/1480",
+    "http://www.monitoringresources.org/api/v1/methods/4041",
+    "http://www.monitoringresources.org/api/v1/methods/5366",
+    "http://www.monitoringresources.org/api/v1/methods/5371",
+    "http://www.monitoringresources.org/api/v1/methods/5407"
+  ],
   "objectives": [
     "Combine with escapement estimates to the mouth of the Hood River and adult collection sites within the subbasin (method 5371) to determine the proportion of hatchery origin spawners (method 5407)",
     "Monitor and evaluate harvest goals established by co-managers (ODFW and CTWSRO) of the Hood River Production Program"

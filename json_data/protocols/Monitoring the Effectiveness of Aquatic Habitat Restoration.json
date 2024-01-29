@@ -4,6 +4,17 @@
   "title": "Monitoring the Effectiveness of Aquatic Habitat Restoration",
   "id": 3663,
   "assumptions": null,
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/319",
+    "http://www.monitoringresources.org/api/v1/methods/1451",
+    "http://www.monitoringresources.org/api/v1/methods/1672",
+    "http://www.monitoringresources.org/api/v1/methods/1673",
+    "http://www.monitoringresources.org/api/v1/methods/1674",
+    "http://www.monitoringresources.org/api/v1/methods/1676",
+    "http://www.monitoringresources.org/api/v1/methods/3796",
+    "http://www.monitoringresources.org/api/v1/methods/3881",
+    "http://www.monitoringresources.org/api/v1/methods/3937"
+  ],
   "objectives": [
     "Survey riparian transects above, within, and below the project area before and after project implementation. ",
     "Collect turbidity data during rain/storm/high flow events and associated stream flow measurements before and after project implementation. ",

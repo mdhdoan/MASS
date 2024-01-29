@@ -4,6 +4,17 @@
   "title": "Avian Predation on Juvenile Salmonids in the Columbia River Estuary",
   "id": 41,
   "assumptions": "<p>Methods and techniques to determine piscivorous colonial waterbird impacts to juvenile salmonids rely on field observations of birds and fish. The abundance (number), nesting chronology, productivity and diet of birds can vary greatly both within and between nesting seasons. As such, adaptable methods (ability to rapidly change the location or timing of sampling) are the most likely to succeed. Field observations also rely on the accuracy of sampling equipment and the experience of field staff to carry out research objectives.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/152",
+    "http://www.monitoringresources.org/api/v1/methods/153",
+    "http://www.monitoringresources.org/api/v1/methods/154",
+    "http://www.monitoringresources.org/api/v1/methods/158",
+    "http://www.monitoringresources.org/api/v1/methods/167",
+    "http://www.monitoringresources.org/api/v1/methods/208",
+    "http://www.monitoringresources.org/api/v1/methods/210",
+    "http://www.monitoringresources.org/api/v1/methods/255",
+    "http://www.monitoringresources.org/api/v1/methods/258"
+  ],
   "objectives": [
     "Determine the diet (prey types, consumption and predation rates) of Caspian terns and double-crested cormorants nesting on East Sand Island to evaluate the efficacy of management actions",
     "Determine the abundance, nesting success, and habitat use of Caspian terns and double-crested cormorants nesting on East Sand Island to evaluate the efficacy of management actions",

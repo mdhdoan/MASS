@@ -4,6 +4,15 @@
   "title": "NPT Rapid Site Assessment",
   "id": 3458,
   "assumptions": null,
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/839",
+    "http://www.monitoringresources.org/api/v1/methods/1248",
+    "http://www.monitoringresources.org/api/v1/methods/4046",
+    "http://www.monitoringresources.org/api/v1/methods/4099",
+    "http://www.monitoringresources.org/api/v1/methods/4165",
+    "http://www.monitoringresources.org/api/v1/methods/6783",
+    "http://www.monitoringresources.org/api/v1/methods/6784"
+  ],
   "objectives": [
     "Provide coarse-scale assessment of current salmonid habitat conditions within study site."
   ],

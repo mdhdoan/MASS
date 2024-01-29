@@ -4,6 +4,11 @@
   "title": "Estimate Juvenile Chinook Outmigration and Survival Using PIT Tags (2003-023-00)",
   "id": 2220,
   "assumptions": "<p>Juveniles collected at the Okanogan RST and at the confluence are representative of the Okanogan Chinook population.&nbsp; PIT tagging juvenile salmonids at these sites does not affect the behavior or survival of those salmonids which migrate through the FCRPS.&nbsp; There is not PIT tag loss after release of juveniles at the sampling sites.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/254",
+    "http://www.monitoringresources.org/api/v1/methods/395",
+    "http://www.monitoringresources.org/api/v1/methods/485"
+  ],
   "objectives": [
     "Estimate survival (smolt to smolt, smolt to adult) and travel time for the natural-origin and hatchery-origin Okanogan Chinook salmon using PIT tags. \r\n\r\n ",
     " Monitor adult run timing at Bonneville"

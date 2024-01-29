@@ -4,6 +4,20 @@
   "title": "Field Sampling for Validation of Fish Community Monitoring Protocol in the Mainstem Willamette River",
   "id": 3323,
   "assumptions": "<p>Differences in environmental conditions between 2011-13 and 2017 do not affect sampling results.&nbsp; Electrofishing efficiency similar among years.&nbsp; Crew experience and abillity similar among years.&nbsp; Changes in fish communities are detectable using this protocol.&nbsp; Sufficient sampling is being conducted to effectively evaluate the protocol.&nbsp; Time frame and other logistics in 2017 are consistent with past efforts.&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/72",
+    "http://www.monitoringresources.org/api/v1/methods/77",
+    "http://www.monitoringresources.org/api/v1/methods/118",
+    "http://www.monitoringresources.org/api/v1/methods/120",
+    "http://www.monitoringresources.org/api/v1/methods/157",
+    "http://www.monitoringresources.org/api/v1/methods/847",
+    "http://www.monitoringresources.org/api/v1/methods/1728",
+    "http://www.monitoringresources.org/api/v1/methods/4041",
+    "http://www.monitoringresources.org/api/v1/methods/6601",
+    "http://www.monitoringresources.org/api/v1/methods/6602",
+    "http://www.monitoringresources.org/api/v1/methods/6603",
+    "http://www.monitoringresources.org/api/v1/methods/6615"
+  ],
   "objectives": [
     "Collect data to estimate (1) abundance of native and non-native fishes; (2) richness of native/non-native fish communities; (3) proportion of native species, and (4) proportion of salmonids.",
     "Collect water quality data at sites sampled for fish and in known coldwater refuges to determine their suitability as fish habitat.",

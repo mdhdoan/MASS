@@ -4,6 +4,16 @@
   "title": "Redband Trout Genetic Study",
   "id": 3513,
   "assumptions": "<p>The tissue samples collected for each population are representative of the entire genetic diversity found within the population and not just a small sample representing siblings.</p>\r\n\r\n<p>The 192 SNPs are appropriate for determining Redband&nbsp;Trout population level distinctions.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/303",
+    "http://www.monitoringresources.org/api/v1/methods/487",
+    "http://www.monitoringresources.org/api/v1/methods/1334",
+    "http://www.monitoringresources.org/api/v1/methods/1345",
+    "http://www.monitoringresources.org/api/v1/methods/1351",
+    "http://www.monitoringresources.org/api/v1/methods/1352",
+    "http://www.monitoringresources.org/api/v1/methods/1355",
+    "http://www.monitoringresources.org/api/v1/methods/3817"
+  ],
   "objectives": [
     "Determine the genetic status (pure, introgressed, or naturalized non-native) of wild trout populations within the Lake Roosevelt watershed."
   ],

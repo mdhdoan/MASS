@@ -4,6 +4,13 @@
   "title": "Lake Roosevelt White Sturgeon - Creel Survey",
   "id": 3498,
   "assumptions": null,
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/342",
+    "http://www.monitoringresources.org/api/v1/methods/1480",
+    "http://www.monitoringresources.org/api/v1/methods/3940",
+    "http://www.monitoringresources.org/api/v1/methods/4041",
+    "http://www.monitoringresources.org/api/v1/methods/5352"
+  ],
   "objectives": [
     "To accurately estimate White Sturgeon harvest, angler effort, catch rate and success during the annual Washington State sturgeon fishery on Lake Roosevelt"
   ],

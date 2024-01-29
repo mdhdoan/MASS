@@ -4,6 +4,12 @@
   "title": "YRWP Adult steelhead abundance (1996-035-01)",
   "id": 110,
   "assumptions": "<p>Redd counts provide a sufficient index of adult steelhead spawner abundance.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/131",
+    "http://www.monitoringresources.org/api/v1/methods/195",
+    "http://www.monitoringresources.org/api/v1/methods/402",
+    "http://www.monitoringresources.org/api/v1/methods/4112"
+  ],
   "objectives": [
     "Our objective is to conduct steelhead spawning surveys in Yakima River tributaries to produce a redd count to use as an index of adult steelhead abundance.     "
   ],

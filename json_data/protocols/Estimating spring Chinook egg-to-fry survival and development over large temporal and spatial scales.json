@@ -4,6 +4,11 @@
   "title": "Estimating spring Chinook egg-to-fry survival and development over large temporal and spatial scales",
   "id": 2103,
   "assumptions": "<p>1) Selected study locations are spatially and temporally representative of the population</p>\r\n\r\n<p>2) Environmental conditions within buried Whitlock-Vibert egg boxes are&nbsp;representative of conditions in the surrounding environment (see Wesche et al. 1989; Garrett and Bennett 1996).</p>\r\n\r\n<p>3) Environmental conditions experienced among study years sufficiently represent&nbsp;inter-annual variation within the target watershed.</p>\r\n\r\n<p>4) A simple thermal sums model is sufficient to calculate duration of deployment such that developmental stage at recovery is similar among study areas; which may differ substantially in the rate and magnitude of temperature unit delivery to the egg pocket.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/1115",
+    "http://www.monitoringresources.org/api/v1/methods/4042",
+    "http://www.monitoringresources.org/api/v1/methods/4043"
+  ],
   "objectives": [
     "Investigate the extent to which environmental factors such as scour, redd superimposition, fines sediment infiltration, and temperature may influence survival and development spatially and temporally.",
     "Estimate relative developmental stage at recovery among and within primary spawning locations of the target watershed, within and among years, while controlling for parental effects.",

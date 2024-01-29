@@ -4,6 +4,12 @@
   "title": "Hatchery steelhead pre-release evaluation of relative condition and mark accuracy",
   "id": 783,
   "assumptions": "<p>We assume the steelhead sampled at the hatchery are representative of the greater release population. Additionally, we assume that for comparative purposes the hatchery individuals captured in downstream migrant traps within the Hood River subbasin are also representative of the greater hatchery population.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/952",
+    "http://www.monitoringresources.org/api/v1/methods/1734",
+    "http://www.monitoringresources.org/api/v1/methods/4041",
+    "http://www.monitoringresources.org/api/v1/methods/4226"
+  ],
   "objectives": [
     "Collect the data necessary to determine distribution of Hood River stock steelhead by fork length, weight, and condition factor prior to release.  ",
     "Compare biological data collected from fish captured after release (rotary screw trap) to data collected prior to release.    ",

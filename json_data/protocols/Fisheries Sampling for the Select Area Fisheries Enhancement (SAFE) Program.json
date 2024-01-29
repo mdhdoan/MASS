@@ -4,6 +4,18 @@
   "title": "Fisheries Sampling for the Select Area Fisheries Enhancement (SAFE) Program",
   "id": 3577,
   "assumptions": null,
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/933",
+    "http://www.monitoringresources.org/api/v1/methods/1090",
+    "http://www.monitoringresources.org/api/v1/methods/1734",
+    "http://www.monitoringresources.org/api/v1/methods/4041",
+    "http://www.monitoringresources.org/api/v1/methods/4174",
+    "http://www.monitoringresources.org/api/v1/methods/4220",
+    "http://www.monitoringresources.org/api/v1/methods/4223",
+    "http://www.monitoringresources.org/api/v1/methods/4226",
+    "http://www.monitoringresources.org/api/v1/methods/6894",
+    "http://www.monitoringresources.org/api/v1/methods/6896"
+  ],
   "objectives": [
     "Perform in-season monitoring of commercial landings in Select Area fisheries",
     "Deliver feedback to fisheries managers for review and decision making"

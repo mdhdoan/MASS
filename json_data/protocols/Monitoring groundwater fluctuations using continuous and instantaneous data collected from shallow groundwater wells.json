@@ -4,6 +4,12 @@
   "title": "Monitoring groundwater fluctuations using continuous and instantaneous data collected from shallow groundwater wells",
   "id": 3283,
   "assumptions": "<p>1. The depth and spatial locations of the groundwater wells are appropriate for detecting changes in water table elevation and resulting from restoration activities</p>\r\n\r\n<p>2. Data loggers are calibrated and functioning properly</p>\r\n\r\n<p>3. Field measurement data for each well (well elevations, cap perch measurements, and cable length measurements) are accurate</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/1447",
+    "http://www.monitoringresources.org/api/v1/methods/1448",
+    "http://www.monitoringresources.org/api/v1/methods/1671",
+    "http://www.monitoringresources.org/api/v1/methods/5419"
+  ],
   "objectives": [
     "Monitor hourly changes in water table elevation during base flow summer periods in well fields adjacent to restored stream reaches in target watersheds.",
     "Determine whether trends in water table elevation over years support the hypothesis that restoration actions have improved hydrologic connectivity."

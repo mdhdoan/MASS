@@ -4,6 +4,11 @@
   "title": "Side scan sonar habitat mapping",
   "id": 3520,
   "assumptions": null,
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/6803",
+    "http://www.monitoringresources.org/api/v1/methods/6819",
+    "http://www.monitoringresources.org/api/v1/methods/6821"
+  ],
   "objectives": [
     "Produce sonar imagery of submerged features and create benthic aquatic habitat mosaic maps from the usual and accustomed areas of the Spokane Tribe."
   ],

@@ -4,6 +4,9 @@
   "title": "Twin Lakes Dissolved Oxygen Monitoring",
   "id": 2224,
   "assumptions": null,
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/309"
+  ],
   "objectives": [
     "Monitor dissolved oxygen levels in North Twin Lake.",
     "Assess effectiveness of oxygen addition to North Twin Lake. "

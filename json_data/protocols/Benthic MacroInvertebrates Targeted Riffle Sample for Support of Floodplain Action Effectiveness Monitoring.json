@@ -4,6 +4,10 @@
   "title": "Benthic MacroInvertebrates Targeted Riffle Sample for Support of Floodplain Action Effectiveness Monitoring",
   "id": 1970,
   "assumptions": "<p>Access to impact and suitable control reaches will be provided.</p>\r\n\r\n<p>Correct identification of macroinvertebrates by processing laboratory.&nbsp;</p>\r\n\r\n<p>Macroinvertebrate species captured in a particular habitat type are indicative of the actual species living in that habitat.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/89",
+    "http://www.monitoringresources.org/api/v1/methods/4073"
+  ],
   "objectives": [
     "Determine secondary production (macroinvertebrates) by habitat type (Years -2, -1, 1, 3, and 5)"
   ],

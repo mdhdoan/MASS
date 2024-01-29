@@ -4,6 +4,13 @@
   "title": "LPO Lake Trout Removal (1994-047-00)",
   "id": 577,
   "assumptions": "<p>Commercial&nbsp;netting is a cost effective means to reduce Lake Trout densities over the long term. &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/1030",
+    "http://www.monitoringresources.org/api/v1/methods/1035",
+    "http://www.monitoringresources.org/api/v1/methods/1042",
+    "http://www.monitoringresources.org/api/v1/methods/1044",
+    "http://www.monitoringresources.org/api/v1/methods/1045"
+  ],
   "objectives": [
     "Reduce the lake trout population to pre-1999 abundance (about 1,800) for fish over 406 mm to minimize predation and competition risks to bull trout and westslope cutthroat trout."
   ],

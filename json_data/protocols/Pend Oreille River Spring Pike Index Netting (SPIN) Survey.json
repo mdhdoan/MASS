@@ -4,6 +4,12 @@
   "title": "Pend Oreille River Spring Pike Index Netting (SPIN) Survey",
   "id": 3482,
   "assumptions": "<p>Northern pike inhabitat near-shore littoral zones and sloughs during spring. Northern pike aged 2 and older are recruited to multimesh gill nets (1&quot;-2&quot; panels). Gill nets can be effectively fished during spring under varying reservoir flows and elevation. Catch-per-effort as an index of abundance is linearly related to true abundance.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/140",
+    "http://www.monitoringresources.org/api/v1/methods/1042",
+    "http://www.monitoringresources.org/api/v1/methods/1454",
+    "http://www.monitoringresources.org/api/v1/methods/5547"
+  ],
   "objectives": [
     "Reduce and maintain Northern Pike (NP) abundance, measured by CPUE, in the SPIN survey to <1.7 NP/net night in the south half and 0.5 NP/net night in the north half of Box Canyon Reservoir."
   ],

@@ -4,6 +4,15 @@
   "title": "KRRFM - White Sturgeon movement evaluation",
   "id": 545,
   "assumptions": "<p>One assumption of our sampling program is that our methods are unbiased, and the data we collect is representative of the true status of the population.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/902",
+    "http://www.monitoringresources.org/api/v1/methods/992",
+    "http://www.monitoringresources.org/api/v1/methods/996",
+    "http://www.monitoringresources.org/api/v1/methods/1029",
+    "http://www.monitoringresources.org/api/v1/methods/1442",
+    "http://www.monitoringresources.org/api/v1/methods/3889",
+    "http://www.monitoringresources.org/api/v1/methods/6616"
+  ],
   "objectives": [
     "Determine specific environmental parameters that influence adult spawning movements into proper spawning habitat above Bonners Ferry, Idaho."
   ],

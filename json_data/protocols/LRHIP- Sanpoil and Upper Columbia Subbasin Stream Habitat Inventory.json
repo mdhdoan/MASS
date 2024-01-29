@@ -4,6 +4,20 @@
   "title": "LRHIP- Sanpoil and Upper Columbia Subbasin Stream Habitat Inventory",
   "id": 1982,
   "assumptions": "<p>Data are&nbsp;representative of existing stream habitat.&nbsp;</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/46",
+    "http://www.monitoringresources.org/api/v1/methods/67",
+    "http://www.monitoringresources.org/api/v1/methods/93",
+    "http://www.monitoringresources.org/api/v1/methods/157",
+    "http://www.monitoringresources.org/api/v1/methods/3810",
+    "http://www.monitoringresources.org/api/v1/methods/3862",
+    "http://www.monitoringresources.org/api/v1/methods/3864",
+    "http://www.monitoringresources.org/api/v1/methods/3865",
+    "http://www.monitoringresources.org/api/v1/methods/3866",
+    "http://www.monitoringresources.org/api/v1/methods/3871",
+    "http://www.monitoringresources.org/api/v1/methods/3880",
+    "http://www.monitoringresources.org/api/v1/methods/3881"
+  ],
   "objectives": [
     "Inventory stream habitat suitable for adfluvial redband rainbow trout. ",
     "Identify natural and anthropogenic barriers to all life stages of redband rainbow trout."

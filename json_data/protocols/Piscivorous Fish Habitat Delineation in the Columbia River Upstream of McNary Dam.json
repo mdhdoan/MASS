@@ -4,6 +4,11 @@
   "title": "Piscivorous Fish Habitat Delineation in the Columbia River Upstream of McNary Dam",
   "id": 3574,
   "assumptions": null,
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/5328",
+    "http://www.monitoringresources.org/api/v1/methods/6890",
+    "http://www.monitoringresources.org/api/v1/methods/7074"
+  ],
   "objectives": [
     "Classify habitat to understand Piscivore habitat specific density.",
     "Expand piscivore density by habitat type for reservoir wide piscivore abundance estimate."

@@ -4,6 +4,11 @@
   "title": "Nez Perce Tribe Radio Telemetry Data Collection",
   "id": 2258,
   "assumptions": null,
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/4241",
+    "http://www.monitoringresources.org/api/v1/methods/4242",
+    "http://www.monitoringresources.org/api/v1/methods/4244"
+  ],
   "objectives": [
     "\tDetermine adult return fidelity to natal stream of origin.",
     "\tDetermine spatial overlap in the spawning distribution of natural, supplementation and conventional adults (above and below barriers)",

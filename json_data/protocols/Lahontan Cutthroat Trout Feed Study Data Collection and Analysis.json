@@ -4,6 +4,12 @@
   "title": "Lahontan Cutthroat Trout Feed Study Data Collection and Analysis",
   "id": 3315,
   "assumptions": "<p>No fish escape or enter the net pens over the duration of the study.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/1551",
+    "http://www.monitoringresources.org/api/v1/methods/1734",
+    "http://www.monitoringresources.org/api/v1/methods/4042",
+    "http://www.monitoringresources.org/api/v1/methods/6614"
+  ],
   "objectives": [
     "Identify the transition feed treatment period with maximum post-stocking survival.",
     "Assess post-stocking daily survival rate for different transition feed treatment periods."

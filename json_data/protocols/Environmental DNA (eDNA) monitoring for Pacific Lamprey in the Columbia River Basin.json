@@ -4,6 +4,16 @@
   "title": "Environmental DNA (eDNA) monitoring for Pacific Lamprey in the Columbia River Basin",
   "id": 3605,
   "assumptions": "<p>The presence of Chinook DNA at a stream site is the result of the recent presence of Chinook at the site (i.e. not from alternative, less likely sources such as site contamination from birds, etc.)</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/5476",
+    "http://www.monitoringresources.org/api/v1/methods/5480",
+    "http://www.monitoringresources.org/api/v1/methods/5484",
+    "http://www.monitoringresources.org/api/v1/methods/5491",
+    "http://www.monitoringresources.org/api/v1/methods/5496",
+    "http://www.monitoringresources.org/api/v1/methods/5497",
+    "http://www.monitoringresources.org/api/v1/methods/5501",
+    "http://www.monitoringresources.org/api/v1/methods/6909"
+  ],
   "objectives": [
     "Determine which Columbia River Basin tributaries are utilized by Pacific Lamprey as indicated by the presence of Pacific Lamprey environmntal DNA (eDNA).",
     "Monitor the status and trends of Paific Lamprey distribution throughout the Columbia River Basin using environmental DNA (eDNA) analysis.",

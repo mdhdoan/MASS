@@ -4,6 +4,15 @@
   "title": "Lake Roosevelt Angler Creel Survey (1994-043-00)",
   "id": 521,
   "assumptions": "<p>1. There are differences in the distribution of fishing efforts within a day. 2. There are no differences in the distribution of fishing efforts among or between days within the five weekdays or between days within the two weekend days. 3. There are differences in the distribution of fishing efforts from one time block to another. 4. All the fishing trips are completed between sunrise and sundown. 5. The number of boats launched outside access points is negligible. 6. Most of the fishing pressure comes from boat anglers, not shore anglers.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/952",
+    "http://www.monitoringresources.org/api/v1/methods/1073",
+    "http://www.monitoringresources.org/api/v1/methods/1551",
+    "http://www.monitoringresources.org/api/v1/methods/1734",
+    "http://www.monitoringresources.org/api/v1/methods/3940",
+    "http://www.monitoringresources.org/api/v1/methods/4056",
+    "http://www.monitoringresources.org/api/v1/methods/4226"
+  ],
   "objectives": [
     "The primary objectives of the Lake Roosevelt angler creel survey are to estimate annual angler pressure, catch, harvest, and catch-rate, and the economic value of the fishery."
   ],

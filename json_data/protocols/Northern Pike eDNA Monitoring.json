@@ -4,6 +4,12 @@
   "title": "Northern Pike eDNA Monitoring",
   "id": 3353,
   "assumptions": "<p>A key assumption of the study is that the water sample&nbsp;reflects the actual presence or absence of Northern Pike.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/5476",
+    "http://www.monitoringresources.org/api/v1/methods/5480",
+    "http://www.monitoringresources.org/api/v1/methods/5494",
+    "http://www.monitoringresources.org/api/v1/methods/5501"
+  ],
   "objectives": [
     "Use eDNA as an early detection tool for monitoring the distribution and expansion of Northern Pike in the Upper Columbia River watershed."
   ],

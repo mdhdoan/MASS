@@ -4,6 +4,9 @@
   "title": "ISEMP Life Cycle Models",
   "id": 2234,
   "assumptions": "<p>Beverton-Holt&nbsp;stock recruitment relationship is the correct freshwater productivity relationship for salmonids.</p>\r\n\r\n<p>Model consumes derived estimates and each of those estimates are accompanied by own suite of assumptions e.g., rotary screw trap estimates of juvenile abundance.</p>\r\n\r\n<p>Relationship between fish productivity is known and relative to metrics of habitat&nbsp;quality and quantity</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/5481"
+  ],
   "objectives": [
     "Develop Life Cycle Models that can be used to support decision making for management actions targeting ESA listed salmonids in the Columbia River Basin."
   ],

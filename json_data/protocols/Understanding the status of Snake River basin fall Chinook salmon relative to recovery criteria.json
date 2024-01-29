@@ -4,6 +4,18 @@
   "title": "Understanding the status of Snake River basin fall Chinook salmon relative to recovery criteria",
   "id": 287,
   "assumptions": "<p>We assume our frame will be represented the natural-origin Snake River basin fall Chinook salmon population. We assume that trends in estimated abundance are not solely caused by error in run reconstruction. We assume that trends in geographic distribution of redd counts are not solely caused by error in redd counts.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/631",
+    "http://www.monitoringresources.org/api/v1/methods/637",
+    "http://www.monitoringresources.org/api/v1/methods/6731",
+    "http://www.monitoringresources.org/api/v1/methods/6732",
+    "http://www.monitoringresources.org/api/v1/methods/6734",
+    "http://www.monitoringresources.org/api/v1/methods/6735",
+    "http://www.monitoringresources.org/api/v1/methods/6736",
+    "http://www.monitoringresources.org/api/v1/methods/6737",
+    "http://www.monitoringresources.org/api/v1/methods/6738",
+    "http://www.monitoringresources.org/api/v1/methods/6739"
+  ],
   "objectives": [
     "Increase the understanding of how the numerical trends in the estimated counts of natural-origin adults from 1983 onward were influenced by anthropogenic, biological, and environmental change.",
     "Predict the status of escapement of natural-origin adults to the spawning areas relative to the explicit population level spatial structure criteria.",

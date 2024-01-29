@@ -4,6 +4,16 @@
   "title": "Pacific Lamprey Migration, Distribution, and Passage PIT Tagging",
   "id": 3716,
   "assumptions": null,
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/1432",
+    "http://www.monitoringresources.org/api/v1/methods/6855",
+    "http://www.monitoringresources.org/api/v1/methods/7102",
+    "http://www.monitoringresources.org/api/v1/methods/7103",
+    "http://www.monitoringresources.org/api/v1/methods/7104",
+    "http://www.monitoringresources.org/api/v1/methods/7134",
+    "http://www.monitoringresources.org/api/v1/methods/7135",
+    "http://www.monitoringresources.org/api/v1/methods/7136"
+  ],
   "objectives": [
     "Evaluate the relative passage performance of Pacific Lamprey at mainstem and tributary barriers.",
     "Evaluate behavior and distribution patterns of migrating Pacific Lamprey at mainstem and tributary barriers.",

@@ -4,6 +4,11 @@
   "title": "Retrieve and Analyze CWT Information for for Okanogan Summer/Fall Chinook",
   "id": 2264,
   "assumptions": "<p>All hatchery-origin summer/fall Chinook on a spawning ground have an equal chance of recovery</p>\r\n\r\n<p>All deciphered tags are read correctly</p>\r\n\r\n<p>RMPC&nbsp;provided estimates of fish numbers are correct</p>\r\n\r\n<p>Spawning escapement estimates for a given basin are correct</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/5540",
+    "http://www.monitoringresources.org/api/v1/methods/5541",
+    "http://www.monitoringresources.org/api/v1/methods/5542"
+  ],
   "objectives": [
     "Examine, through analysis of cwt data, life history patterns of hatchery-origin summer/fall Chinook Salmon, specifically homing and stray rates to and from the Okanogan River Basin."
   ],

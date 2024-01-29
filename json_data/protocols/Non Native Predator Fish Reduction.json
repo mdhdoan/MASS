@@ -4,6 +4,19 @@
   "title": "Non Native Predator Fish Reduction",
   "id": 438,
   "assumptions": "<p>We are assuming the reduction in predators will affect kokanee and rainbow trout survival.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/123",
+    "http://www.monitoringresources.org/api/v1/methods/140",
+    "http://www.monitoringresources.org/api/v1/methods/1013",
+    "http://www.monitoringresources.org/api/v1/methods/1442",
+    "http://www.monitoringresources.org/api/v1/methods/4040",
+    "http://www.monitoringresources.org/api/v1/methods/4174",
+    "http://www.monitoringresources.org/api/v1/methods/4245",
+    "http://www.monitoringresources.org/api/v1/methods/5257",
+    "http://www.monitoringresources.org/api/v1/methods/5547",
+    "http://www.monitoringresources.org/api/v1/methods/6569",
+    "http://www.monitoringresources.org/api/v1/methods/6636"
+  ],
   "objectives": [
     "Reduce non-native predator densities to increase the survival of native fish populations."
   ],

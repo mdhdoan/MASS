@@ -4,6 +4,15 @@
   "title": "Upper Columbia River ESU Steelhead Stock Assessment (2010-034-00)",
   "id": 235,
   "assumptions": "<p>Operation of the Off Ladder Adult Fish Trap (OLAFT) at Priest Rapids Dam for equal intervals throughout the entirety of the run provides the opportunity to tag a sample representative of the Upper Columbia River ESU steelhead run-at-large.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/1366",
+    "http://www.monitoringresources.org/api/v1/methods/1433",
+    "http://www.monitoringresources.org/api/v1/methods/1550",
+    "http://www.monitoringresources.org/api/v1/methods/1736",
+    "http://www.monitoringresources.org/api/v1/methods/3979",
+    "http://www.monitoringresources.org/api/v1/methods/4000",
+    "http://www.monitoringresources.org/api/v1/methods/4001"
+  ],
   "objectives": [
     "Determine the origin of all steelhead sampled at Priest Rapids Dam (PRD) OLAFT.",
     "Determine the age of all steelhead sampled at Priest Rapids Dam.",

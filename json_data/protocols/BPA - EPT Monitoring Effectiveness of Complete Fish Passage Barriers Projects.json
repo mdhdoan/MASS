@@ -4,6 +4,21 @@
   "title": "BPA - EPT Monitoring Effectiveness of Complete Fish Passage Barriers Projects",
   "id": 1869,
   "assumptions": "<p>Access will be provided to impact and suitable control reaches.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/839",
+    "http://www.monitoringresources.org/api/v1/methods/1432",
+    "http://www.monitoringresources.org/api/v1/methods/1763",
+    "http://www.monitoringresources.org/api/v1/methods/4075",
+    "http://www.monitoringresources.org/api/v1/methods/4131",
+    "http://www.monitoringresources.org/api/v1/methods/4153",
+    "http://www.monitoringresources.org/api/v1/methods/4154",
+    "http://www.monitoringresources.org/api/v1/methods/4168",
+    "http://www.monitoringresources.org/api/v1/methods/4171",
+    "http://www.monitoringresources.org/api/v1/methods/4172",
+    "http://www.monitoringresources.org/api/v1/methods/4179",
+    "http://www.monitoringresources.org/api/v1/methods/5291",
+    "http://www.monitoringresources.org/api/v1/methods/5395"
+  ],
   "objectives": [
     "Determine: Are the post-barrier juvenile salmon and steelhead numbers similar above and below the barrier?  ",
     "Determine: Is there a relationship between the number of salmon and steelhead above the barrier relative to below and the time since barrier removal?",

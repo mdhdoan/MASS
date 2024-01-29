@@ -4,6 +4,16 @@
   "title": "Harmful Algal Blooms in the Snake River",
   "id": 3744,
   "assumptions": null,
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/1734",
+    "http://www.monitoringresources.org/api/v1/methods/4041",
+    "http://www.monitoringresources.org/api/v1/methods/5298",
+    "http://www.monitoringresources.org/api/v1/methods/7181",
+    "http://www.monitoringresources.org/api/v1/methods/7182",
+    "http://www.monitoringresources.org/api/v1/methods/7183",
+    "http://www.monitoringresources.org/api/v1/methods/7184",
+    "http://www.monitoringresources.org/api/v1/methods/7185"
+  ],
   "objectives": [
     "Describe the temporal and spatial distribution of blue-green algae in reservoirs.",
     "Quantify the amount of cyanotoxins in reservoir water both spatially and temporally",

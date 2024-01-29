@@ -4,6 +4,19 @@
   "title": "Grande Ronde Basin Stream Flow Gauging - Grande Ronde Model Watershed",
   "id": 2169,
   "assumptions": "<p>The location takes advantage of the best locally available conditions for developing a stable stage-discharge relation</p>\r\n\r\n<p>We assume that&nbsp;short-term management actions, medium term project implementation, and long-term management strategies have an effect on magnitude, timing and duration of stream flow.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/1451",
+    "http://www.monitoringresources.org/api/v1/methods/4150",
+    "http://www.monitoringresources.org/api/v1/methods/4245",
+    "http://www.monitoringresources.org/api/v1/methods/5429",
+    "http://www.monitoringresources.org/api/v1/methods/5431",
+    "http://www.monitoringresources.org/api/v1/methods/5432",
+    "http://www.monitoringresources.org/api/v1/methods/5433",
+    "http://www.monitoringresources.org/api/v1/methods/5434",
+    "http://www.monitoringresources.org/api/v1/methods/5435",
+    "http://www.monitoringresources.org/api/v1/methods/5436",
+    "http://www.monitoringresources.org/api/v1/methods/5444"
+  ],
   "objectives": [
     "Flow gauging provides the opportunity to access watershed conditions and monitoring objectives include a combination of short (annual), medium (5-10 years), and long-term (>10 years) objectives."
   ],

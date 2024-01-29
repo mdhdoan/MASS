@@ -4,6 +4,11 @@
   "title": "Apply and Evaluate Freshwater Mussel Best Management Practices (BMPs) in the Columbia River Basin",
   "id": 491,
   "assumptions": "<p>Translocation events will take place if mussels are in the immediate impact area of a ecologically justifyable and pre-planned&nbsp;stream alteration event.&nbsp; The preproject timeline and project&nbsp;coordination will be such that&nbsp;survey, salvage, translocation, and&nbsp;following up monitoring of mussel populations will be able to&nbsp;follow&nbsp;methods and procedures&nbsp;specificed in the &quot;Conserving the Gems of Our Waters&quot; document.&nbsp;&nbsp;</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/6619",
+    "http://www.monitoringresources.org/api/v1/methods/6713",
+    "http://www.monitoringresources.org/api/v1/methods/6714"
+  ],
   "objectives": [
     "Apply and evaluate efficacy of Best Management Practices outlined in \"Conserving the Gems of Our Waters\" - freshwater mussel BMPs published by the Xerces Society by Blevins et al. 2017."
   ],

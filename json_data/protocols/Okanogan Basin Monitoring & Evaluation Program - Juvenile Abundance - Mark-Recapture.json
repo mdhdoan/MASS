@@ -4,6 +4,16 @@
   "title": "Okanogan Basin Monitoring & Evaluation Program - Juvenile Abundance - Mark-Recapture",
   "id": 194,
   "assumptions": "<p>Block nets are effective at keeping fish within the study area. Marked fish are representative of unmarked fish. Marks are retained and all marks are detected upon recapture. Marking of fish does not affect the likelihood of recapture. Marked fish are randomly distributed with unmarked fish. An equal effort is used in both fish capture passes. Fish can be identified correctly. Observed numbers of fish accurately represents total population within the reach. Each study site is representative of the reach in which it is located and that fish are evenly distributed throughout the reach.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/117",
+    "http://www.monitoringresources.org/api/v1/methods/118",
+    "http://www.monitoringresources.org/api/v1/methods/119",
+    "http://www.monitoringresources.org/api/v1/methods/254",
+    "http://www.monitoringresources.org/api/v1/methods/1076",
+    "http://www.monitoringresources.org/api/v1/methods/1736",
+    "http://www.monitoringresources.org/api/v1/methods/3971",
+    "http://www.monitoringresources.org/api/v1/methods/3972"
+  ],
   "objectives": [
     "To determine the status and trend of juvenile salmonid abundance in the Okanogan River Basin.",
     "To calculate an independent, stream-based population emigration estimate from PIT tags.",

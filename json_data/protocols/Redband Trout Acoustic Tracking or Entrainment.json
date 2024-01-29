@@ -4,6 +4,10 @@
   "title": "Redband Trout Acoustic Tracking/Entrainment",
   "id": 3528,
   "assumptions": null,
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/1135",
+    "http://www.monitoringresources.org/api/v1/methods/1241"
+  ],
   "objectives": [
     "Determine Redband Trout reservoir usage and entrainment by in Lake Roosevelt"
   ],

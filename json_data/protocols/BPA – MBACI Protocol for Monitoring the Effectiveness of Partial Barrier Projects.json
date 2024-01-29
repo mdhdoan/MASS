@@ -4,6 +4,19 @@
   "title": "BPA \u2013 MBACI Protocol for Monitoring the Effectiveness of Partial Barrier Projects",
   "id": 1870,
   "assumptions": "<p>&nbsp;</p>\r\n\r\n<p>Access to impact and suitable control reaches will be provided prior to project implementation and for a period of five years following project completion.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/197",
+    "http://www.monitoringresources.org/api/v1/methods/4070",
+    "http://www.monitoringresources.org/api/v1/methods/4073",
+    "http://www.monitoringresources.org/api/v1/methods/4075",
+    "http://www.monitoringresources.org/api/v1/methods/4105",
+    "http://www.monitoringresources.org/api/v1/methods/4131",
+    "http://www.monitoringresources.org/api/v1/methods/4179",
+    "http://www.monitoringresources.org/api/v1/methods/5337",
+    "http://www.monitoringresources.org/api/v1/methods/5338",
+    "http://www.monitoringresources.org/api/v1/methods/5339",
+    "http://www.monitoringresources.org/api/v1/methods/5340"
+  ],
   "objectives": [
     "Determine whether the design and information in the permit and/or funding application for fish passage are being met post-implementation (Years 1, 2, and 5)",
     "Determine whether adult and juvenile salmonid density both in aimpact reach upstream of the fish barrier is increasing relative to the desenties in the downstream control reach.  year -1 to 2 and 5",

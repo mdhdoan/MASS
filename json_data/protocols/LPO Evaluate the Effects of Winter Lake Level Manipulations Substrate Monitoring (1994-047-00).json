@@ -4,6 +4,9 @@
   "title": "LPO Evaluate the Effects of Winter Lake Level Manipulations Substrate Monitoring (1994-047-00)",
   "id": 592,
   "assumptions": null,
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/1088"
+  ],
   "objectives": [
     "Evaluate how kokanee spawning substrate changes with respect to winter lake level management."
   ],

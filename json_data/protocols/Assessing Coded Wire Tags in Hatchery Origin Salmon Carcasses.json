@@ -4,6 +4,12 @@
   "title": "Assessing Coded Wire Tags in Hatchery Origin Salmon Carcasses",
   "id": 3298,
   "assumptions": "<p>The methods selected are standard practices for CWT recovery, extraction and reading used by other Columbia River basin labs (i.e. WDFW, CRITFC).</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/395",
+    "http://www.monitoringresources.org/api/v1/methods/5413",
+    "http://www.monitoringresources.org/api/v1/methods/5540",
+    "http://www.monitoringresources.org/api/v1/methods/6588"
+  ],
   "objectives": [
     "Extract and recover coded wire tag from Colville Tribes hatchery ladder, weir, purse seine, spawning ground and creel survey's to monitor the stray rate of hatchery origin fish into the Okanogan Basin",
     "Estimate Smolt-to-Adult Rate (SARs)\r\nAge Structure of Adult Returns\r\nIn-To-Basin Stray Rate\r\n"

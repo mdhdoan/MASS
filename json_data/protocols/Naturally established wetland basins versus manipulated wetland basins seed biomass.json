@@ -4,6 +4,10 @@
   "title": "Naturally established wetland basins versus manipulated wetland basins seed biomass",
   "id": 3674,
   "assumptions": "<p style=\"margin-left:&#10; margin-right:0in\">Wetlands that have been harrowed and seeded with Wild Millet and Smartweed will exhibit higher rates of seed biomass than wetlands left to naturally establish.&nbsp; Furthermore, wetland basins that have been tilled will benefit from turning over soil and desirable vegetation will be allowed to establish. &nbsp;</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/6707",
+    "http://www.monitoringresources.org/api/v1/methods/6777"
+  ],
   "objectives": [
     "To evaluate different moist soil management practices and compare effectiveness in producing high yields of seed for wildlife forage."
   ],

@@ -4,6 +4,17 @@
   "title": "KRRFM - Burbot Early Life Studies: WMA Ponds (1988-065-00)",
   "id": 2002,
   "assumptions": "<p>Fish have an equal chance of being sampled once they are recruited to gear in the Kootenai River.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/746",
+    "http://www.monitoringresources.org/api/v1/methods/889",
+    "http://www.monitoringresources.org/api/v1/methods/1551",
+    "http://www.monitoringresources.org/api/v1/methods/1736",
+    "http://www.monitoringresources.org/api/v1/methods/3791",
+    "http://www.monitoringresources.org/api/v1/methods/3793",
+    "http://www.monitoringresources.org/api/v1/methods/3931",
+    "http://www.monitoringresources.org/api/v1/methods/4042",
+    "http://www.monitoringresources.org/api/v1/methods/4043"
+  ],
   "objectives": [
     "Determine if pond raised burbot grow and survive better than those reared in a hatchery and stocked into the main Kootenai River.",
     "Determine differences in growth and survival between ponds."

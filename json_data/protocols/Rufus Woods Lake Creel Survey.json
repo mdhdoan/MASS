@@ -4,6 +4,12 @@
   "title": "Rufus Woods Lake Creel Survey",
   "id": 2050,
   "assumptions": "<p>Surveys will be conducted from 7:00 am until 5:00 pm, and are assumed to represent catch and effort throughout the rest of the non-sampled complete fishing day (i.e., half-hour before sunrise to half-hour after sunset).</p>\r\n\r\n<p>The degree of bias induced by the access-point surveys will be assumed to be negligible based on the lack of anglers viewed at other locations along the shoreline from effort surveys performed from a boat.</p>\r\n\r\n<p>The length of an angling trip is assumed to be relatively constant throughout individual strata and anglers are assumed to only make one trip a day.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/1551",
+    "http://www.monitoringresources.org/api/v1/methods/1734",
+    "http://www.monitoringresources.org/api/v1/methods/4056",
+    "http://www.monitoringresources.org/api/v1/methods/4231"
+  ],
   "objectives": [
     "Estimate total fishing effort (angler-hours and angler days) for shore and boat anglers for all strata.",
     "Estimate average catch and harvest rate (# fish per angler-hour) for all Rainbow Trout and individual sources of Rainbow Trout (when possible) for all strata.",

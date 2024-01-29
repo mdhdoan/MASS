@@ -4,6 +4,10 @@
   "title": "Using stationary PIT interrogation antenna arrays to monitor movements of salmonids within watersheds",
   "id": 3279,
   "assumptions": "<p>1. &nbsp;PIT tagged fish and their patterns of movement represent the population from which they were sampled and tagged.</p>\r\n\r\n<p>2 &nbsp;Series of stationary PIT antenna arrays within watersheds operate at sufficient efficiency to confidently generate conclusions regarding seasonal and life-history movements within watersheds.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/6572",
+    "http://www.monitoringresources.org/api/v1/methods/6573"
+  ],
   "objectives": [
     "Use interrogation data from stationary PIT arrays to describe the spatial distribution of the migratory life-history variant within watersheds.",
     "Create interrogation histories for individual PIT tagged fish to evaluate seasonal movements within watersheds."

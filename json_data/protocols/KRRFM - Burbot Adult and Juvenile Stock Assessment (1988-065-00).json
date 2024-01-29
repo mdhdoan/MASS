@@ -4,6 +4,19 @@
   "title": "KRRFM - Burbot Adult and Juvenile Stock Assessment (1988-065-00)",
   "id": 548,
   "assumptions": "<p>Burbot stocked since 2010 have survived and are now recruited to the population at large.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/254",
+    "http://www.monitoringresources.org/api/v1/methods/485",
+    "http://www.monitoringresources.org/api/v1/methods/746",
+    "http://www.monitoringresources.org/api/v1/methods/902",
+    "http://www.monitoringresources.org/api/v1/methods/996",
+    "http://www.monitoringresources.org/api/v1/methods/1341",
+    "http://www.monitoringresources.org/api/v1/methods/1432",
+    "http://www.monitoringresources.org/api/v1/methods/1551",
+    "http://www.monitoringresources.org/api/v1/methods/1734",
+    "http://www.monitoringresources.org/api/v1/methods/1736",
+    "http://www.monitoringresources.org/api/v1/methods/4004"
+  ],
   "objectives": [
     "Assess population demographics (survival, growth, and recruitment) of wild and hatchery produced natural burbot of the Kootenai River, ID."
   ],

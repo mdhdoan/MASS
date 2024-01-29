@@ -4,6 +4,21 @@
   "title": "ISEMP Cooperator Rotary Screw Trap Operation",
   "id": 2267,
   "assumptions": "<p>Regarding efficiency estimates:</p>\r\n\r\n<ol>\r\n\t<li>Rotary screw traps are function properly (when not attended) on intended trapping days</li>\r\n\t<li>Mortality of marked and unmarked individuals is equal</li>\r\n\t<li>Marked individuals retain their marks (tags) and all tags are detected upon recapture</li>\r\n\t<li>Marked individuals are captured at the same rate as unmarked individuals (no trap avoidance or happiness)</li>\r\n\t<li>Marked individuals mix randomly among unmarked individuals</li>\r\n\t<li>Marked individuals&nbsp;are representative of the entire target population for which abundance and survival will be estimated</li>\r\n</ol>\r\n\r\n<p>Moreover, we assume that trap efficiency estimates accurately reflect the true proportion of the captured emigrating population.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/133",
+    "http://www.monitoringresources.org/api/v1/methods/191",
+    "http://www.monitoringresources.org/api/v1/methods/271",
+    "http://www.monitoringresources.org/api/v1/methods/272",
+    "http://www.monitoringresources.org/api/v1/methods/342",
+    "http://www.monitoringresources.org/api/v1/methods/485",
+    "http://www.monitoringresources.org/api/v1/methods/700",
+    "http://www.monitoringresources.org/api/v1/methods/1360",
+    "http://www.monitoringresources.org/api/v1/methods/1734",
+    "http://www.monitoringresources.org/api/v1/methods/1736",
+    "http://www.monitoringresources.org/api/v1/methods/4041",
+    "http://www.monitoringresources.org/api/v1/methods/4087",
+    "http://www.monitoringresources.org/api/v1/methods/5519"
+  ],
   "objectives": [
     "Provide standardization of trapping and fish handling protocols among rotary screw traps operated by ISEMP in the South Fork Salmon and Lemhi rivers",
     "Indirectly, estimate juvenile Chinook salmon and steelhead survival (egg-to-smolt)",

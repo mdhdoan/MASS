@@ -4,6 +4,16 @@
   "title": "KRRFM - Burbot Early Life Studies: Kootenai Tributaries (1988-065-00)",
   "id": 549,
   "assumptions": "<p>Fish have an equal chance of being sampled once they are recruited to gear in the Kootenai River.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/254",
+    "http://www.monitoringresources.org/api/v1/methods/485",
+    "http://www.monitoringresources.org/api/v1/methods/746",
+    "http://www.monitoringresources.org/api/v1/methods/1551",
+    "http://www.monitoringresources.org/api/v1/methods/1736",
+    "http://www.monitoringresources.org/api/v1/methods/4004",
+    "http://www.monitoringresources.org/api/v1/methods/4042",
+    "http://www.monitoringresources.org/api/v1/methods/5333"
+  ],
   "objectives": [
     "Determine condition suitable for stocking burbot in tributaries of the Kootenai River.",
     "Determine if burbot stocked into specific tributaries will return to their stocking location to spawn."

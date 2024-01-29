@@ -4,6 +4,10 @@
   "title": "Tribal Salmon and Steelhead Harvest Monitoring (1990-005-01)",
   "id": 168,
   "assumptions": "<p>The stratified-random roving creel harvest monitoring survey design, and expansion algorithms will provide estimates&nbsp;within 20% of actual harvest.&nbsp; During creel interviews,&nbsp;anglers will report harvest and angling effort fairly accurately on average.&nbsp; Fisherman and creel clerks have similar access to the river.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/1127",
+    "http://www.monitoringresources.org/api/v1/methods/1154"
+  ],
   "objectives": [
     "Conduct surveys during steelhead and Chinook fisheries according to the stratified-random roving creel design. Record the number of angers, catch information, and angling effort by survey reach.",
     "Enter and review data. Use automated algorithms to summarize data and estimate tribal harvest of salmon and steelhead.",

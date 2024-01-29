@@ -4,6 +4,11 @@
   "title": "Redfish Lake sport fishery investigations and predator surveys in nursery lake tributaries",
   "id": 1907,
   "assumptions": "<p>The sample is representative of the population.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/195",
+    "http://www.monitoringresources.org/api/v1/methods/1737",
+    "http://www.monitoringresources.org/api/v1/methods/4056"
+  ],
   "objectives": [
     "Predator Monitoring-- Monitor trends in the spawning populations of bull trout found within Fishhook and Alpine Creeks, tributaries located within Redfish and Alturas Lakes, ID, respectively.",
     "Sport Fisheries Monitoring--Describe the stock compositions of Oncorhychus nerka harvested during the sport fishery for kokanee salmon in Redfish Lake, ID."

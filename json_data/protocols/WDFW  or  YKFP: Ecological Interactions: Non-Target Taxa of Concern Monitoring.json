@@ -4,6 +4,17 @@
   "title": "WDFW / YKFP: Ecological Interactions: Non-Target Taxa of Concern Monitoring",
   "id": 2046,
   "assumptions": "<p>Sampling sites are&nbsp;representative.</p>\r\n\r\n<p>Fish are accurately identified to species.</p>\r\n\r\n<p>Instrumentation used in measuring fish is properly calibrated.</p>\r\n\r\n<p>Data collected and&nbsp;analyzed represent&nbsp;accurate&nbsp;estimates&nbsp;of the true&nbsp;population.</p>\r\n\r\n<p>The Type&nbsp;I and Type II error rates reported adequately detect differences in effect size:&nbsp; e.g., lack of impact to NTT monitoring variable is not due to lack of statistical power.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/45",
+    "http://www.monitoringresources.org/api/v1/methods/73",
+    "http://www.monitoringresources.org/api/v1/methods/115",
+    "http://www.monitoringresources.org/api/v1/methods/116",
+    "http://www.monitoringresources.org/api/v1/methods/117",
+    "http://www.monitoringresources.org/api/v1/methods/118",
+    "http://www.monitoringresources.org/api/v1/methods/119",
+    "http://www.monitoringresources.org/api/v1/methods/120",
+    "http://www.monitoringresources.org/api/v1/methods/121"
+  ],
   "objectives": [
     "Assess and contain risks to abundance, size structure, biomass, and distribution for 15 NTTOC associated with hatchery salmon supplementation in the Yakima."
   ],

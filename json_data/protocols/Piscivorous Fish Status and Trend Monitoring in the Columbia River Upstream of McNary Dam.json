@@ -4,6 +4,14 @@
   "title": "Piscivorous Fish Status and Trend Monitoring in the Columbia River Upstream of McNary Dam",
   "id": 3508,
   "assumptions": null,
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/780",
+    "http://www.monitoringresources.org/api/v1/methods/1445",
+    "http://www.monitoringresources.org/api/v1/methods/1456",
+    "http://www.monitoringresources.org/api/v1/methods/3822",
+    "http://www.monitoringresources.org/api/v1/methods/4044",
+    "http://www.monitoringresources.org/api/v1/methods/5405"
+  ],
   "objectives": [
     "Estimate predator fish density and abundance by habitat class in the mainstem Columbia River upstream of McNary Dam.",
     "Estimate predatory fish consumption rates by species and size class on juvenile salmon and steelhead."

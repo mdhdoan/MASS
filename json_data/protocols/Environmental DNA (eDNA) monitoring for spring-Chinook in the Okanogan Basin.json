@@ -4,6 +4,11 @@
   "title": "Environmental DNA (eDNA) monitoring for spring-Chinook in the Okanogan Basin",
   "id": 2227,
   "assumptions": "<p>The presence of Chinook DNA at a stream site is the result of the recent presence of Chinook at the site (i.e. not from alternative, less likely sources such as site contamination from birds, etc.)</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/5476",
+    "http://www.monitoringresources.org/api/v1/methods/5480",
+    "http://www.monitoringresources.org/api/v1/methods/5494"
+  ],
   "objectives": [
     "Determine which Okanogan Basin tributaries are utilized by spring-Chinook, as indicated by the presence of Chinook eDNA.",
     "Monitor the status and trends of spring-Chinook distribution throughout the Okanogan Basin (USA & Canada) using environmental DNA (eDNA) analysis."

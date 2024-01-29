@@ -4,6 +4,14 @@
   "title": "SRFB - Monitoring Effectiveness of Riparian Livestock Exclusion Projects",
   "id": 37,
   "assumptions": "Access to impact and suitable control reaches will be provided.",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/156",
+    "http://www.monitoringresources.org/api/v1/methods/166",
+    "http://www.monitoringresources.org/api/v1/methods/233",
+    "http://www.monitoringresources.org/api/v1/methods/238",
+    "http://www.monitoringresources.org/api/v1/methods/907",
+    "http://www.monitoringresources.org/api/v1/methods/910"
+  ],
   "objectives": [
     "Determine the overall proportion of stream bank actively eroding. (Years 1, 3, 5, and 10)",
     "Determine the overall riparian vegetation cover layers and percent shading within the project area. (Years 1, 3, 5, and 10)",

@@ -4,6 +4,10 @@
   "title": "DV Fisheries Creel Surveys",
   "id": 701,
   "assumptions": "<p>The first Key assumption is that people being surveyed are giving honest answers to the number of fish caught, kept, or released. The second assumption is closely related to the first. That people are being honest and fair about their experience and the facilities. The third assumption is the anglers being surveyed are a random sample.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/1154",
+    "http://www.monitoringresources.org/api/v1/methods/3940"
+  ],
   "objectives": [
     "Estimate satisfaction of the tribal and non-tribal anglers\r\nEstimate the exploitation rate of the reservoirs.\r\nBring attention to any problems with our facilities"
   ],

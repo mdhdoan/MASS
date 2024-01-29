@@ -4,6 +4,17 @@
   "title": "KRRFM \u2013 Ecosystem Restoration: Fish Biomonitoring",
   "id": 554,
   "assumptions": "<p>Sampling sites are representative of different reaches/habitat types of the Kootenai River.&nbsp; Control sites&nbsp;aid in eliminating confounding factors, and provide the basis for evaluating the effect of nutrients.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/1013",
+    "http://www.monitoringresources.org/api/v1/methods/1366",
+    "http://www.monitoringresources.org/api/v1/methods/1551",
+    "http://www.monitoringresources.org/api/v1/methods/4038",
+    "http://www.monitoringresources.org/api/v1/methods/4039",
+    "http://www.monitoringresources.org/api/v1/methods/4040",
+    "http://www.monitoringresources.org/api/v1/methods/4042",
+    "http://www.monitoringresources.org/api/v1/methods/4043",
+    "http://www.monitoringresources.org/api/v1/methods/4044"
+  ],
   "objectives": [
     "Restore fish populations in the Idaho reach of the Kootenai River to densities present prior to Libby Dam.\r\n"
   ],

@@ -4,6 +4,14 @@
   "title": "LRHIP - Sanpoil and Upper Columbia Subbasin Benthic Macroinvertebrate Monitoring",
   "id": 2100,
   "assumptions": "<p>Sample sizes are large enough to provide high confidence in EDT Level II attribute ratings.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/831",
+    "http://www.monitoringresources.org/api/v1/methods/832",
+    "http://www.monitoringresources.org/api/v1/methods/887",
+    "http://www.monitoringresources.org/api/v1/methods/1580",
+    "http://www.monitoringresources.org/api/v1/methods/4054",
+    "http://www.monitoringresources.org/api/v1/methods/4083"
+  ],
   "objectives": [
     "Describe benthic macroinvertebrate communities for use in EDT model development that will aid in habitat restoration and protection prioritization.",
     "Provide a standardized protocol for future status and trend monitoring of benthic macroinvertebrate communities.",

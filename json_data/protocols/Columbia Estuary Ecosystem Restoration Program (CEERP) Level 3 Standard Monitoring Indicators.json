@@ -4,6 +4,16 @@
   "title": "Columbia Estuary Ecosystem Restoration Program (CEERP) Level 3 Standard Monitoring Indicators",
   "id": 1894,
   "assumptions": "<p>A detectable environmental change will occur due to a specific restoration action.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/814",
+    "http://www.monitoringresources.org/api/v1/methods/815",
+    "http://www.monitoringresources.org/api/v1/methods/816",
+    "http://www.monitoringresources.org/api/v1/methods/817",
+    "http://www.monitoringresources.org/api/v1/methods/818",
+    "http://www.monitoringresources.org/api/v1/methods/819",
+    "http://www.monitoringresources.org/api/v1/methods/820",
+    "http://www.monitoringresources.org/api/v1/methods/821"
+  ],
   "objectives": [
     "- Evaluate the effects of individual habitat restoration actions at project sites to evaluate post-restoration trajectories based on project-specific goals ",
     "- Compare restoration project sites to evaluate impact of restoration actions in the Columbia River and estuary and incorporate results to support and inform regional management decisions."

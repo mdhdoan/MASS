@@ -4,6 +4,21 @@
   "title": "Habitat Evaluation on the Precious Lands Project",
   "id": 2056,
   "assumptions": "<p>1. Personnel will be properly trained in HEP monitoring as well as identification of local flora.</p>\r\n\r\n<p>2. Transects, when revisited, will be run at the same time of year and phenological stage of the indicator plants as&nbsp;the baseline transects.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/150",
+    "http://www.monitoringresources.org/api/v1/methods/173",
+    "http://www.monitoringresources.org/api/v1/methods/178",
+    "http://www.monitoringresources.org/api/v1/methods/250",
+    "http://www.monitoringresources.org/api/v1/methods/252",
+    "http://www.monitoringresources.org/api/v1/methods/277",
+    "http://www.monitoringresources.org/api/v1/methods/278",
+    "http://www.monitoringresources.org/api/v1/methods/280",
+    "http://www.monitoringresources.org/api/v1/methods/305",
+    "http://www.monitoringresources.org/api/v1/methods/4245",
+    "http://www.monitoringresources.org/api/v1/methods/5293",
+    "http://www.monitoringresources.org/api/v1/methods/5311",
+    "http://www.monitoringresources.org/api/v1/methods/5313"
+  ],
   "objectives": [
     "Develop trend data for plant community health and weed encroachment from long term monitoring of HEP transects.",
     "Determine limiting factors for wildlife.",

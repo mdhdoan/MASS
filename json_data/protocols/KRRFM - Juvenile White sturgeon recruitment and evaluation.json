@@ -4,6 +4,19 @@
   "title": "KRRFM - Juvenile White sturgeon recruitment and evaluation",
   "id": 547,
   "assumptions": "<p>All hatchery released juvenile sturgeon are marked</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/485",
+    "http://www.monitoringresources.org/api/v1/methods/952",
+    "http://www.monitoringresources.org/api/v1/methods/995",
+    "http://www.monitoringresources.org/api/v1/methods/1021",
+    "http://www.monitoringresources.org/api/v1/methods/1551",
+    "http://www.monitoringresources.org/api/v1/methods/1734",
+    "http://www.monitoringresources.org/api/v1/methods/1736",
+    "http://www.monitoringresources.org/api/v1/methods/4041",
+    "http://www.monitoringresources.org/api/v1/methods/4042",
+    "http://www.monitoringresources.org/api/v1/methods/4216",
+    "http://www.monitoringresources.org/api/v1/methods/4217"
+  ],
   "objectives": [
     "Determine relative abundance, growth, and survival of juvenile Kootenai River White Sturgeon"
   ],

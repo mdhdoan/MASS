@@ -4,6 +4,14 @@
   "title": "Nez Perce Tribe Juvenile Rotary Screw Trap Data Collection",
   "id": 2242,
   "assumptions": "<ol>\r\n\t<li>Juvenile screw traps&nbsp;effectively allows us to test quantifiable hypotheses as they relate to our monitoring and evaluation objectives.</li>\r\n\t<li>Trap efficiency estimates accurately reflect the true proportion of the captured emigrating population and provide valid total abundance estimates.</li>\r\n</ol>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/6608",
+    "http://www.monitoringresources.org/api/v1/methods/6632",
+    "http://www.monitoringresources.org/api/v1/methods/6633",
+    "http://www.monitoringresources.org/api/v1/methods/6634",
+    "http://www.monitoringresources.org/api/v1/methods/6635",
+    "http://www.monitoringresources.org/api/v1/methods/6639"
+  ],
   "objectives": [
     "Obtain life stage-specific estimates of abundance, survival and life history characteristics.",
     "Obtain life stage-specific estimates of emigration timing.",

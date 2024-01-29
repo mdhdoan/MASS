@@ -4,6 +4,15 @@
   "title": "LRHIP - Sanpoil and Upper Columbia Subbasin Stream Water Chemistry Monitoring",
   "id": 2101,
   "assumptions": "<p>Sample sizes are large enough to provide high confidence in EDT Level II attribute ratings.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/317",
+    "http://www.monitoringresources.org/api/v1/methods/318",
+    "http://www.monitoringresources.org/api/v1/methods/831",
+    "http://www.monitoringresources.org/api/v1/methods/848",
+    "http://www.monitoringresources.org/api/v1/methods/1580",
+    "http://www.monitoringresources.org/api/v1/methods/3789",
+    "http://www.monitoringresources.org/api/v1/methods/3796"
+  ],
   "objectives": [
     "Describe stream water chemistry for use in habitat restoration and protection prioritization.",
     "Provide a standardized protocol for future status and trend monitoring of stream water chemistry.",

@@ -4,6 +4,14 @@
   "title": "Yakima/Klickitat Fisheries Project (YKFP) - Monitoring and Evaluation: Genetic Studies",
   "id": 3299,
   "assumptions": "<p>The primary assumption being tested is that supplementation can be used to increase natural production while maintaining long-term genetic fitness of the population and keeping adverse&nbsp;genetic and ecological interactions with non-target fish populations within acceptable limits.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/29",
+    "http://www.monitoringresources.org/api/v1/methods/32",
+    "http://www.monitoringresources.org/api/v1/methods/488",
+    "http://www.monitoringresources.org/api/v1/methods/700",
+    "http://www.monitoringresources.org/api/v1/methods/729",
+    "http://www.monitoringresources.org/api/v1/methods/933"
+  ],
   "objectives": [
     "Collect and Process juvenile spring Chinook smolt samples using single nucleotide polymorphisms (SNP) panels to partition mixed stock migrants into population of origin. ",
     "Collect and Process spring Chinook adult genetic samples using SNP panels to contribute to a whole river pedigree analysis."

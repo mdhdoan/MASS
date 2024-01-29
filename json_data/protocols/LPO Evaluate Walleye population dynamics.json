@@ -4,6 +4,16 @@
   "title": "LPO Evaluate Walleye population dynamics",
   "id": 3310,
   "assumptions": "<p>Radio and acoustically tagged walleye will behave in a manner representative of the walleye population.</p>\r\n\r\n<p>Selected sampling location and gear types will representatively sample the walleye population and provide applicable&nbsp;baseline datasets to compare future population trends.&nbsp;</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/902",
+    "http://www.monitoringresources.org/api/v1/methods/996",
+    "http://www.monitoringresources.org/api/v1/methods/1042",
+    "http://www.monitoringresources.org/api/v1/methods/1044",
+    "http://www.monitoringresources.org/api/v1/methods/1455",
+    "http://www.monitoringresources.org/api/v1/methods/4044",
+    "http://www.monitoringresources.org/api/v1/methods/4241",
+    "http://www.monitoringresources.org/api/v1/methods/5257"
+  ],
   "objectives": [
     " Determine origin, spawning locations, home range, feeding habits, growth rates, population dynamics, and general life histories of Walleye.  "
   ],

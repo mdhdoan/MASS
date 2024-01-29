@@ -4,6 +4,20 @@
   "title": "Monitoring early life history attributes of Snake River basin fall Chinook salmon",
   "id": 2057,
   "assumptions": "<p>(1) Our frame is representative of the target population.</p>\r\n\r\n<p>(2) Changes in timing of fish presence are affected more by changes in fish behavior than by flow-related changes in sampling efficiency.</p>\r\n\r\n<p>(3) Growth of juveniles is not strongly affected by PIT tagging.</p>\r\n\r\n<p>(4) Catch per unit effort reflects changes in abundance to a greater extent than flow-related changes in sampling efficiency.</p>\r\n\r\n<p>(5) Collection probability at Lower Granite Dam is affected more by outflow and spill than by fish size.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/700",
+    "http://www.monitoringresources.org/api/v1/methods/888",
+    "http://www.monitoringresources.org/api/v1/methods/1550",
+    "http://www.monitoringresources.org/api/v1/methods/1734",
+    "http://www.monitoringresources.org/api/v1/methods/1736",
+    "http://www.monitoringresources.org/api/v1/methods/3999",
+    "http://www.monitoringresources.org/api/v1/methods/5250",
+    "http://www.monitoringresources.org/api/v1/methods/5251",
+    "http://www.monitoringresources.org/api/v1/methods/5252",
+    "http://www.monitoringresources.org/api/v1/methods/5256",
+    "http://www.monitoringresources.org/api/v1/methods/5257",
+    "http://www.monitoringresources.org/api/v1/methods/5258"
+  ],
   "objectives": [
     "(5) Document trends in rate of downstream movement of natural juveniles measured between time of riverine rearing and passage at Lower Granite Dam.",
     "(4) Document trends in passage timing of natural juveniles at Lower Granite Dam.",

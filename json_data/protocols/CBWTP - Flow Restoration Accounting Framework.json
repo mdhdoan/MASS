@@ -4,6 +4,13 @@
   "title": "CBWTP - Flow Restoration Accounting Framework",
   "id": 437,
   "assumptions": "<p>The Flow Restoration Accounting Framework is premised upon two key ecological assumptions that strengthen the development of water transactions as a tool for aquatic habitat restoration. i. Transacted water can be accounted for within a protected stream reach. ii. Flow is a limiting factor to ESA-listed Evolutionarily Significant Units (ESUs) and other at-risk species of concern.</p>\r\n\r\n<p>Additionally, this programmatic monitoring protocol, integrates existing USGS&nbsp;stream-discharge monitoring methods and protocol, as well as establishing stage-discharge relationships for continuous flow monitoring, so assumes monitoring staff have some familiarity with these techniques and methods.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/169",
+    "http://www.monitoringresources.org/api/v1/methods/174",
+    "http://www.monitoringresources.org/api/v1/methods/847",
+    "http://www.monitoringresources.org/api/v1/methods/853",
+    "http://www.monitoringresources.org/api/v1/methods/1451"
+  ],
   "objectives": [
     "This programmatic monitoring protocol is designed to guide the CBWTP and our partners to validate, track and verify project compliance and effectiveness of our flow restoration program."
   ],

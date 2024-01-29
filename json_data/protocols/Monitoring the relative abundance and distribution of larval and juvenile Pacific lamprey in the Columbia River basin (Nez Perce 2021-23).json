@@ -4,6 +4,12 @@
   "title": "Monitoring the relative abundance and distribution of larval and juvenile Pacific lamprey in the Columbia River basin (Nez Perce 2021-23)",
   "id": 3709,
   "assumptions": "<p>N/A</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/580",
+    "http://www.monitoringresources.org/api/v1/methods/1432",
+    "http://www.monitoringresources.org/api/v1/methods/6773",
+    "http://www.monitoringresources.org/api/v1/methods/7038"
+  ],
   "objectives": [
     "Monitor and evaluate the distribution patterns and presence/absence of Pacific Lamprey within Columbia River Basin freshwater environments.",
     "Estimate larval and juvenile Pacific Lamprey relative abundance and/or density in wadeable depth streams through backpack electrofishing.",

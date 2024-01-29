@@ -4,6 +4,16 @@
   "title": "Gas Bubble Trauma Monitoring in Resident Fish",
   "id": 3613,
   "assumptions": null,
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/888",
+    "http://www.monitoringresources.org/api/v1/methods/891",
+    "http://www.monitoringresources.org/api/v1/methods/1551",
+    "http://www.monitoringresources.org/api/v1/methods/4041",
+    "http://www.monitoringresources.org/api/v1/methods/5325",
+    "http://www.monitoringresources.org/api/v1/methods/5356",
+    "http://www.monitoringresources.org/api/v1/methods/5543",
+    "http://www.monitoringresources.org/api/v1/methods/6785"
+  ],
   "objectives": [
     "Measure the incidence and severity of GBT in native, resident fishes rearing immediately downstream of mainstem Columbia and Snake River dams during the spring spill period."
   ],

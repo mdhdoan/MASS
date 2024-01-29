@@ -4,6 +4,12 @@
   "title": "Piscivore Diet Collection and Analysis",
   "id": 606,
   "assumptions": "The key assumption is that seasonal sampling represents the annual diet compostion of piscivores.",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/1445",
+    "http://www.monitoringresources.org/api/v1/methods/1455",
+    "http://www.monitoringresources.org/api/v1/methods/1456",
+    "http://www.monitoringresources.org/api/v1/methods/5405"
+  ],
   "objectives": [
     "Determine annual consumption rates of Northern Pikeminnow, Smallmouth Bass, and Walleye on juvenile salmonids between McNary and Priest Rapids dams.",
     "Collect the diets of Northern Pikeminnow, Smallmouth Bass, and Walleye for consumption analysis."

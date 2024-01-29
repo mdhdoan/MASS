@@ -4,6 +4,10 @@
   "title": "LPO Standardized Annual Mysid Assessment (1994-047-00)",
   "id": 604,
   "assumptions": null,
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/1100",
+    "http://www.monitoringresources.org/api/v1/methods/1101"
+  ],
   "objectives": [
     "Estimate mysid densities."
   ],

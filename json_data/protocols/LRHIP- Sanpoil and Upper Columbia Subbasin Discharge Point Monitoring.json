@@ -4,6 +4,9 @@
   "title": "LRHIP- Sanpoil and Upper Columbia Subbasin Discharge Point Monitoring",
   "id": 2102,
   "assumptions": "<p>Sample sizes are large enough to provide high confidence in EDT Level II attribute ratings.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/847"
+  ],
   "objectives": [
     "Provide baseline discharge data sets for use in EDT model development.",
     "Describe stream discharge for use in habitat restoration and protection prioritization."

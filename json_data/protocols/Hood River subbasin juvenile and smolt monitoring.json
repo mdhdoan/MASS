@@ -4,6 +4,17 @@
   "title": "Hood River subbasin juvenile and smolt monitoring",
   "id": 352,
   "assumptions": "<p>We assume that winter steelhead are native to the East and Middle Forks of the Hood River, and summer steelhead are native to the West Fork Hood River. We assume that marked individuals have the same opportunity to be caught in rotary screw traps as those who are caught for the first time.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/133",
+    "http://www.monitoringresources.org/api/v1/methods/933",
+    "http://www.monitoringresources.org/api/v1/methods/952",
+    "http://www.monitoringresources.org/api/v1/methods/1734",
+    "http://www.monitoringresources.org/api/v1/methods/1736",
+    "http://www.monitoringresources.org/api/v1/methods/4041",
+    "http://www.monitoringresources.org/api/v1/methods/4051",
+    "http://www.monitoringresources.org/api/v1/methods/4057",
+    "http://www.monitoringresources.org/api/v1/methods/4220"
+  ],
   "objectives": [
     "Estimate steelhead and spring Chinook smolt production\r\n",
     "Monitor juvenile rainbow-steelhead abundance status and trends \r\n",

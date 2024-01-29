@@ -4,6 +4,15 @@
   "title": "Monitoring water quality metrics in wadeable streams",
   "id": 3277,
   "assumptions": null,
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/847",
+    "http://www.monitoringresources.org/api/v1/methods/848",
+    "http://www.monitoringresources.org/api/v1/methods/3796",
+    "http://www.monitoringresources.org/api/v1/methods/3800",
+    "http://www.monitoringresources.org/api/v1/methods/3813",
+    "http://www.monitoringresources.org/api/v1/methods/3937",
+    "http://www.monitoringresources.org/api/v1/methods/4099"
+  ],
   "objectives": [
     "To obtain water quality metrics within a watershed to assess current conditions or monitor trends over time for a represented stream reach.",
     "Obtain water quality metrics (dissolved oxygen and temperature) throughout the vertical profile of pool(s) created by beaver."

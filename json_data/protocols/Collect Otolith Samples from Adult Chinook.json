@@ -4,6 +4,10 @@
   "title": "Collect Otolith Samples from Adult Chinook",
   "id": 2266,
   "assumptions": "<p>Our frame is representative of our target population. We plan to collect at least 100 otoliths.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/1462",
+    "http://www.monitoringresources.org/api/v1/methods/1479"
+  ],
   "objectives": [
     "Identify CJH ladder and weir brood at the time of spawning\r\n",
     "Sample and collect otolith from all ladder and weir collected brood",

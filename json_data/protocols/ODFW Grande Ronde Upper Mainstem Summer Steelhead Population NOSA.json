@@ -4,6 +4,16 @@
   "title": "ODFW Grande Ronde Upper Mainstem Summer Steelhead Population NOSA",
   "id": 2151,
   "assumptions": "<p>The Grande Ronde Upper Mainstem (GRUM) population is genetically distinct from surrounding populations.</p>\r\n\r\n<p>Steelhead spawners in the GRUM are predominantly natural origin since 2002.</p>\r\n\r\n<p>Data collection is as accurate as possible and has been quality checked.</p>\r\n\r\n<p>Total spawner abundance (TSA) and proportion of hatchery origin spawners (pHOS) are accurate.</p>\r\n\r\n<p>pHOS was assumed to be zero prior to 1989.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/402",
+    "http://www.monitoringresources.org/api/v1/methods/4112",
+    "http://www.monitoringresources.org/api/v1/methods/5407",
+    "http://www.monitoringresources.org/api/v1/methods/5408",
+    "http://www.monitoringresources.org/api/v1/methods/5409",
+    "http://www.monitoringresources.org/api/v1/methods/5410",
+    "http://www.monitoringresources.org/api/v1/methods/5437",
+    "http://www.monitoringresources.org/api/v1/methods/5445"
+  ],
   "objectives": [
     "To provide natural origin spawner abundance estimates to NOAA, allowing them to assess the current status of the population.\r\n",
     "To provide accurate and up to date metric and indicator data for salmon and steelhead in the Columbia Basin to users via a data exchange network and web applications."

@@ -4,6 +4,14 @@
   "title": "Okanogan Basin Monitoring & Evaluation Program - Water Quality Sampling",
   "id": 5,
   "assumptions": "<p>If water quality data is always collected at the same site, change can be detected over time.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/72",
+    "http://www.monitoringresources.org/api/v1/methods/175",
+    "http://www.monitoringresources.org/api/v1/methods/1451",
+    "http://www.monitoringresources.org/api/v1/methods/1672",
+    "http://www.monitoringresources.org/api/v1/methods/3973",
+    "http://www.monitoringresources.org/api/v1/methods/4150"
+  ],
   "objectives": [
     "To monitor the status and trends of water quality and determine potential impacts to salmonids in the Okanogan River Basin."
   ],

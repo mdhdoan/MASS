@@ -4,6 +4,21 @@
   "title": "LPO Kokanee Population Status Assessment (1994-047-00)",
   "id": 596,
   "assumptions": null,
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/1000",
+    "http://www.monitoringresources.org/api/v1/methods/1001",
+    "http://www.monitoringresources.org/api/v1/methods/1079",
+    "http://www.monitoringresources.org/api/v1/methods/1084",
+    "http://www.monitoringresources.org/api/v1/methods/1085",
+    "http://www.monitoringresources.org/api/v1/methods/1090",
+    "http://www.monitoringresources.org/api/v1/methods/1092",
+    "http://www.monitoringresources.org/api/v1/methods/1094",
+    "http://www.monitoringresources.org/api/v1/methods/1102",
+    "http://www.monitoringresources.org/api/v1/methods/1551",
+    "http://www.monitoringresources.org/api/v1/methods/1619",
+    "http://www.monitoringresources.org/api/v1/methods/1620",
+    "http://www.monitoringresources.org/api/v1/methods/1734"
+  ],
   "objectives": [
     "Estimate the proportion of hatchery and wild kokanee in each age class.",
     "Estimate kokanee biomass, production, and mortality by weight.",

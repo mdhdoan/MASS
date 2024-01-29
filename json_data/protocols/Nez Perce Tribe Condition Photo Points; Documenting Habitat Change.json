@@ -4,6 +4,10 @@
   "title": "Nez Perce Tribe Condition Photo Points; Documenting Habitat Change",
   "id": 2059,
   "assumptions": "<p>Photos are taken at approximately the same time each revisit</p>\r\n\r\n<p>The same azimuth is used to duplicate original photo orientation</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/5284",
+    "http://www.monitoringresources.org/api/v1/methods/5357"
+  ],
   "objectives": [
     "Document any changes in vegetation cover, density, and composition over time"
   ],

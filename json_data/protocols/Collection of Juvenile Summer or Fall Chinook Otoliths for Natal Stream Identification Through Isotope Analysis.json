@@ -4,6 +4,14 @@
   "title": "Collection of Juvenile Summer/Fall Chinook Otoliths for Natal Stream Identification Through Isotope Analysis",
   "id": 3368,
   "assumptions": "<ol>\r\n\t<li>That Oxygen 18O/16O and&nbsp;87Sr/86Sr ratios measured in water samples are reflected in the otoliths of fish rearing in those streams</li>\r\n\t<li>That subyearling&nbsp;Chinook captured in the most upstream spawning reaches of a given watershed&nbsp;are captured in their natal streams.</li>\r\n</ol>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/893",
+    "http://www.monitoringresources.org/api/v1/methods/3797",
+    "http://www.monitoringresources.org/api/v1/methods/6609",
+    "http://www.monitoringresources.org/api/v1/methods/6610",
+    "http://www.monitoringresources.org/api/v1/methods/6613",
+    "http://www.monitoringresources.org/api/v1/methods/6678"
+  ],
   "objectives": [
     "Collect fish for otolith analysis",
     "Extract and preserve otoliths from anadromous salmonids for isotope analysis",

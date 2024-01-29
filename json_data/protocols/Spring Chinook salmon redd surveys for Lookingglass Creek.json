@@ -4,6 +4,19 @@
   "title": "Spring Chinook salmon redd surveys for Lookingglass Creek",
   "id": 1843,
   "assumptions": "<p>All redds constructed in the selected reaches are counted. Each redd is counted once and only once. Accurate redd/female factor is used. GPS coordinates are accurate.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/109",
+    "http://www.monitoringresources.org/api/v1/methods/131",
+    "http://www.monitoringresources.org/api/v1/methods/195",
+    "http://www.monitoringresources.org/api/v1/methods/286",
+    "http://www.monitoringresources.org/api/v1/methods/380",
+    "http://www.monitoringresources.org/api/v1/methods/402",
+    "http://www.monitoringresources.org/api/v1/methods/508",
+    "http://www.monitoringresources.org/api/v1/methods/780",
+    "http://www.monitoringresources.org/api/v1/methods/1549",
+    "http://www.monitoringresources.org/api/v1/methods/4220",
+    "http://www.monitoringresources.org/api/v1/methods/5410"
+  ],
   "objectives": [
     "Estimate temporal distribution of redds.",
     "Estimate spatial distribution of redds.",

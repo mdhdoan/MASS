@@ -4,6 +4,10 @@
   "title": "Stage-Discharge Rating Curve",
   "id": 3721,
   "assumptions": "<p>1 - Cross-sectional measurements are an accurate estimate of actual stream discharge. 2 - Equipment is calibrated to manufacturer&#39;s specifications.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/1451",
+    "http://www.monitoringresources.org/api/v1/methods/4150"
+  ],
   "objectives": [
     "Using established USGS methods to produce accurate discharge data."
   ],

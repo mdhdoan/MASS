@@ -4,6 +4,18 @@
   "title": "Snake River GSI baseline (2010-026-00)",
   "id": 230,
   "assumptions": "Wild populations can be sampled representatively and sufficiently to accurately estimate allele frequencies of &quot;stocks&quot;.\r\nTemporal changes in allele frequency can be accurately measured.  \r\nGenetic differentiation among stocks is sufficient for GSI analyses.",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/1332",
+    "http://www.monitoringresources.org/api/v1/methods/1339",
+    "http://www.monitoringresources.org/api/v1/methods/1340",
+    "http://www.monitoringresources.org/api/v1/methods/1342",
+    "http://www.monitoringresources.org/api/v1/methods/1345",
+    "http://www.monitoringresources.org/api/v1/methods/1346",
+    "http://www.monitoringresources.org/api/v1/methods/1347",
+    "http://www.monitoringresources.org/api/v1/methods/1350",
+    "http://www.monitoringresources.org/api/v1/methods/1351",
+    "http://www.monitoringresources.org/api/v1/methods/1352"
+  ],
   "objectives": [
     "Describe how data are to be collected, managed, analyzed, and reported for the project that maintains annual GSI baselines for Snake River steelhead and Chinook salmon stocks."
   ],

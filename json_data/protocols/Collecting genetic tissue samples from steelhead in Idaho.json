@@ -4,6 +4,9 @@
   "title": "Collecting genetic tissue samples from steelhead in Idaho",
   "id": 91,
   "assumptions": "<p>Samples are collected representatively from the populations of interest</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/303"
+  ],
   "objectives": [
     "Monitor temporal and spatial genetic patterns of steelhead populations in Idaho."
   ],

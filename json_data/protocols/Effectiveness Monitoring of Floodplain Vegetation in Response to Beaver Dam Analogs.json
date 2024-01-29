@@ -4,6 +4,10 @@
   "title": "Effectiveness Monitoring of Floodplain Vegetation in Response to Beaver Dam Analogs",
   "id": 3301,
   "assumptions": null,
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/6591",
+    "http://www.monitoringresources.org/api/v1/methods/6593"
+  ],
   "objectives": [
     "Species-level vegetation surveys will help describe the effects of beaver dams and beaver browse on floodplain vegetation composition, abundance, and biodiversity.",
     "Monitoring will also track beaver utilization of riparian vegetation.",

@@ -4,6 +4,24 @@
   "title": "Monitoring Lookingglass Creek juvenile salmonid outmigrants with a rotary screw trap",
   "id": 817,
   "assumptions": "<p>Outmigrant abundance estimates made using fish sampled from the screw trap are accurate and unbiased. Fish sampled from the screw trap are representative of the outmigrating population..</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/32",
+    "http://www.monitoringresources.org/api/v1/methods/133",
+    "http://www.monitoringresources.org/api/v1/methods/134",
+    "http://www.monitoringresources.org/api/v1/methods/191",
+    "http://www.monitoringresources.org/api/v1/methods/254",
+    "http://www.monitoringresources.org/api/v1/methods/271",
+    "http://www.monitoringresources.org/api/v1/methods/272",
+    "http://www.monitoringresources.org/api/v1/methods/700",
+    "http://www.monitoringresources.org/api/v1/methods/721",
+    "http://www.monitoringresources.org/api/v1/methods/780",
+    "http://www.monitoringresources.org/api/v1/methods/1360",
+    "http://www.monitoringresources.org/api/v1/methods/1649",
+    "http://www.monitoringresources.org/api/v1/methods/1734",
+    "http://www.monitoringresources.org/api/v1/methods/1736",
+    "http://www.monitoringresources.org/api/v1/methods/4041",
+    "http://www.monitoringresources.org/api/v1/methods/6568"
+  ],
   "objectives": [
     "Monitor wild juvenile summer steelhead and natural origin juvenile Chinook salmon population status and trends. "
   ],

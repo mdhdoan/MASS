@@ -282,3 +282,63 @@ WITH p, method_link, m
     WHERE m.uid = method_link
     MERGE (p)-[r:IMPLEMENT]-(m)
 RETURN COUNT(r)
+
+// Load event data
+CALL apoc.load.json("studydesigns_jdata.json") YIELD value as study_design
+WITH study_design
+    UNWIND keys(study_design) as study_design_key
+WITH study_design, study_design_key
+    MERGE (e:Events {url: study_design[study_design_key].url})
+        SET e.ownerName = study_design[study_design_key].ownerName,
+            e.ownerEmail = study_design[study_design_key].ownerEmail,
+            e.objectives = study_design[study_design_key].objectives,
+            e.background = study_design[study_design_key].backgroundRationale,
+            e.keyAssumptions = study_design[study_design_key].keyAssumptions,
+            e.dataHandlingConsiderations = study_design[study_design_key].dataHandlingConsiderations,
+            e.qualityControlConsiderations = study_design[study_design_key].qualityControlConsiderations,
+            e.reportingConsiderations = study_design[study_design_key].reportingConsiderations,
+            e.equipmentCleaningAndCalibration = study_design[study_design_key].equipmentCleaningAndCalibration,
+            e.rolesAndResponsibilities = study_design[study_design_key].rolesAndResponsibilities,
+            e.qualifications = study_design[study_design_key].qualifications,
+            e.trainingRequirements = study_design[study_design_key].trainingRequirements,
+            e.safetyConsiderations = study_design[study_design_key].safetyConsiderations,
+            e.fieldScheduleNotes = study_design[study_design_key].fieldScheduleNotes,
+            e.name = study_design[study_design_key].name,
+            e.status = study_design[study_design_key].status,
+            e.programUrl = study_design[study_design_key].programUrl,
+            e.protocolUrl = study_design[study_design_key].protocolUrl,
+            e.eid = study_design[study_design_key].id
+
+// Load event data sample
+CALL apoc.load.json("sample_designs_jdata.json") YIELD value as sample_design
+WITH sample_design
+    UNWIND keys(sample_design) as sample_design_key
+WITH sample_design, sample_design_key
+    MERGE (s:Samples {url: sample_design[sample_design_key].url})
+        SET s.ownerName = sample_design[sample_design_key].ownerName,
+            s.ownerEmail = sample_design[sample_design_key].ownerEmail,
+            s.startYear = sample_design[sample_design_key].startYear,
+            s.retirementYear = sample_design[sample_design_key].retirementYear,
+            s.initiationYear = sample_design[sample_design_key].initiationYear,
+            s.description = sample_design[sample_design_key].description,
+            s.dataRepositoryUrl = sample_design[sample_design_key].dataRepositoryUrl,
+            s.spatialDesignCategory = sample_design[sample_design_key].spatialDesignCategory,
+            s.title = sample_design[sample_design_key].title,
+            s.status = sample_design[sample_design_key].status,
+            s.lastUpdated = sample_design[sample_design_key].lastUpdated,
+            s.studyDesignUrl = sample_design[sample_design_key].studyDesignUrl,
+            s.sid = sample_design[sample_design_key].id            
+
+// Load new method data
+CALL apoc.load.json ("methods_jdata.json") YIELD value AS method
+WITH method 
+    UNWIND keys(method) as method_key
+WITH method, method_key
+    MERGE (m:Methods {uid: method[method_key].url})
+        SET m.content = method[method_key].abstractText,
+            m.title = method[method_key].title,
+            m.status = method[method_key].status,
+            m.html = method[method_key].html,
+            m.type = method[method_key].type,
+            m.owner = method[method_key].ownerName
+        

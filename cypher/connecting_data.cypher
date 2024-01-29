@@ -115,3 +115,12 @@ MATCH (e:Events)
 MATCH (s:Samples)
 WHERE e.url = s.studyDesignUrl
 MERGE (e)-[:BECOME]->(s)
+
+// Load method data
+CALL apoc.load.json('full_details.json') YIELD value as json_data
+WITH json_data
+    MATCH(m:Methods)
+    WHERE m.textbody = json_data.Document
+    SET m.topic_id = json_data.Topic,
+        m.representative = json_data.Representative_document,
+        m.represent_words = json_data.Representation

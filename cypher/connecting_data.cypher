@@ -96,3 +96,22 @@ MERGE (p)-[:HAS_TAG]->(t)
 MATCH (s:Subject), (c:Categories)
 WHERE s.name = c.subject
 MERGE (s)-[:SUMMARIZES]->(c)
+
+// Connect method-event protocol link data
+CALL apoc.load.json("protocols_jdata.json") YIELD value as protocol
+WITH protocol
+    UNWIND keys(protocol) as protocol_key
+WITH protocol, protocol_key
+    UNWIND protocol[protocol_key].methods as method_link
+WITH protocol, protocol_key, method_link
+    MATCH (e:Events {protocolUrl: protocol[protocol_key].url})
+WITH protocol, protocol_key, method_link, e
+    MATCH (m:Methods {uid: method_link})
+    MERGE (e)<-[r:USED_IN {title: protocol[protocol_key].title, objectives: protocol[protocol_key].objectives, url: protocol[protocol_key].url}]-(m)
+RETURN COUNT(r)
+
+// Connect events to sample
+MATCH (e:Events)
+MATCH (s:Samples)
+WHERE e.url = s.studyDesignUrl
+MERGE (e)-[:BECOME]->(s)

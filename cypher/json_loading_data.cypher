@@ -15,13 +15,13 @@ MERGE (o:Organizations {uid: organization})
 CALL apoc.load.directory('*.json', 'programs') YIELD value
 WITH value as json_file
     CALL apoc.load.json(json_file) YIELD value as json_data
-MERGE (m:Programs {uid: json_data['url']})
-    SET m.title = json_data['title'], 
-        m.mid = json_data['id'],
-        m.primary_contact_name = json_data['primaryContactName'],
-        m.primary_contact_email = json_data['primaryContactEmail'],
-        m.organization = json_data['organizations'],
-        m.url = json_data['url']
+MERGE (p:Programs {uid: json_data['url']})
+    SET p.title = json_data['title'], 
+        p.pid = json_data['id'],
+        p.primary_contact_name = json_data['primaryContactName'],
+        p.primary_contact_email = json_data['primaryContactEmail'],
+        p.organization = json_data['organizations'],
+        p.url = json_data['url']
 
 // Load protocols data
 CALL apoc.load.directory('*.json', 'protocols') YIELD value

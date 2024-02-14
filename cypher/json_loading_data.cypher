@@ -22,9 +22,19 @@ MERGE (m:Programs {uid: json_data['url']})
         m.primary_contact_email = json_data['primaryContactEmail'],
         m.organization = json_data['organizations'],
         m.url = json_data['url']
-WITH m, json_data
-    UNWIND json_data['protocols'] as protocol
-WITH m, protocol
-    SET m.protocol_title = protocol.title,
-        m.protocol_url = protocol.url
 
+// Load protocols data
+CALL apoc.load.directory('*.json', 'protocols') YIELD value
+WITH value as json_file
+    CALL apoc.load.json(json_file) YIELD value as json_data
+MERGE (p:Protocols {uid: json_data['url']})
+    SET p.title = json_data['title'], 
+        p.background = json_data['background'],
+        p.url = json_data.url,
+        p.pid = json_data.id,
+        p.assumptions = json_data.assumptions,
+        p.methods = json_data.methods,
+        p.objectives = json_data.objectives,
+        p.ownername = json_data.ownerName,
+        p.ownerEmail = json_data.ownerEmail,
+        p.programUrl = json_data.programUrl

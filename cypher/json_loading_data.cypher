@@ -20,7 +20,8 @@ MERGE (m:Programs {uid: json_data['url']})
         m.mid = json_data['id'],
         m.primary_contact_name = json_data['primaryContactName'],
         m.primary_contact_email = json_data['primaryContactEmail'],
-        m.organization = json_data['organizations']
+        m.organization = json_data['organizations'],
+        m.url = json_data['url']
 WITH m, json_data
     UNWIND json_data['protocols'] as protocol
 WITH m, protocol

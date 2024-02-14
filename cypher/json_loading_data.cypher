@@ -7,7 +7,9 @@ WITH json_data
     UNWIND json_data['organizations'] as organization
 WITH json_data, organization
 MERGE (o:Organizations {uid: organization})
-    SET o.title = organization
+    SET o.title = organization,
+        o.programs_title = json_data['title'],
+        o.programs_url = json_data['url']
 
 // Load programs data
 CALL apoc.load.directory('*.json', 'programs') YIELD value

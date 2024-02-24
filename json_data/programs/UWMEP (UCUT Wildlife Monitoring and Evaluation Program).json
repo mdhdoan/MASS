@@ -1,0 +1,20 @@
+{
+  "url": "http://www.monitoringresources.org/api/v1/programs/36",
+  "title": "UWMEP (UCUT Wildlife Monitoring and Evaluation Program)",
+  "id": 36,
+  "primaryContactName": "James Hallett",
+  "primaryContactEmail": "jhallett@ewu.edu",
+  "organizations": [
+    "Upper Columbia United Tribes",
+    "Eastern Washington University"
+  ],
+  "protocols": [
+    {
+      "id": 736,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/736",
+      "title": "Wildlife and habitat monitoring to assess ecological restoration projects",
+      "lastUpdated": "2018-05-01T01:20:47-07:00"
+    }
+  ]
+}

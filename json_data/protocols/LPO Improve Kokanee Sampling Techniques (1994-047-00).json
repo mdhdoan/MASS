@@ -1,0 +1,20 @@
+{
+  "background": "We use midwater trawling catch to estimate age-specific and mature proportions of kokanee in Lake Pend Oreille (LPO). These proportions are then applied to the hydroacoustic estimate of non-fry kokanee. However, large kokanee may be able to avoid our midwater trawl net, thus skewing our estimates. For this study, we will be comparing the size-specific catch rates of kokanee in our standard gear to that using suspended gill nets. The gill nets will provide an estimate of the true size distribution of kokanee available due to the relative ease of quantifying their size-selectivity (Hamley 1975).From these collections, we will attempt to build a model that predicts capture efficiency at a range of kokanee sizes and densities.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/617",
+  "title": "LPO Improve Kokanee Sampling Techniques (1994-047-00)",
+  "id": 617,
+  "assumptions": "<p>Midwater&nbsp;trawling is a size selective gear.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/140",
+    "http://www.monitoringresources.org/api/v1/methods/1000",
+    "http://www.monitoringresources.org/api/v1/methods/1090",
+    "http://www.monitoringresources.org/api/v1/methods/1102",
+    "http://www.monitoringresources.org/api/v1/methods/1130"
+  ],
+  "objectives": [
+    "Create a correction factor for kokanee abundance for our standard midwater trawling gear."
+  ],
+  "ownerName": "Pete Rust",
+  "ownerEmail": "Pete.Rust@idfg.idaho.gov",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/65"
+}

@@ -1,0 +1,9 @@
+{
+  "abstractText": "A common andcomplementary component of many otolith microchemistry studies is the analysis of water samples to determine isotopic and trace element compositions (Wells et al. 2003) of water bodies of interest. Values derived from water samples are typically more precise than those derived from otoliths; however, when the two are used in conjunction and indicate the same or similar isotpic ratios, they are a powerful tool. For this study (see Protocol ID: 556), water samples were analyzed for Sr 87/86 to validate the signature (i.e., mean Sr 87/86 ratio) of tributary and mainstem Kootenai River sampling locations where adult and Age-0 fish were collected for the purpose of analyzing otoliths for Sr 87/86. For details on study design and water sample collection locations, please see Protocol ID: 556. For details on physical collection of water samples, please see Modified Method ID: 29028.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/6612",
+  "title": "Processing of water samples to obtain isotopic and trace element compositions v1.0",
+  "id": 6612,
+  "type": "Data Collection",
+  "ownerName": "T.J. Ross",
+  "ownerEmail": "tj.ross@idfg.idaho.gov"
+}

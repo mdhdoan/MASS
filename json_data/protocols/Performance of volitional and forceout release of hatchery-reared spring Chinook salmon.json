@@ -1,0 +1,19 @@
+{
+  "background": "Volitional release is advocated as part of a natural rearing strategy for spring Chinook salmon and other anadromous species. We describe and compare the short-term benefits (survival to Lower Granite Dam), if any, and differences in arrival timing at Lower Granite Dam between volitional release and forceout. We also describe differences in travel time to Lower Granite Dam.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/820",
+  "title": "Performance of volitional and forceout release of hatchery-reared spring Chinook salmon",
+  "id": 820,
+  "assumptions": "<p>PIT tag readers detect representative numbers of each release group.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/254",
+    "http://www.monitoringresources.org/api/v1/methods/721",
+    "http://www.monitoringresources.org/api/v1/methods/3972",
+    "http://www.monitoringresources.org/api/v1/methods/5258"
+  ],
+  "objectives": [
+    "Describe and compare differences in survival, arrival timing, and travel time for hatchery-origin spring Chinook salmon reared at Catherine Creek and Upper Grande Ronde River acclimation facilities."
+  ],
+  "ownerName": "Leslie Naylor",
+  "ownerEmail": "lesnaylor@ctuir.org",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/19"
+}

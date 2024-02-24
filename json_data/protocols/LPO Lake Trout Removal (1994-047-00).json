@@ -1,0 +1,20 @@
+{
+  "background": "Lake trout were stocked in numerous lakes throughout western North America during the late 1800s and early 1900s (Crossman 1995), including Lake Pend Oreille (LPO) in 1925. Lake trout present a threat to native salmonids, including kokanee and bull trout. Bull trout are particularly susceptible to negative interactions with lake trout, and bull trout populations cannot be sustained after lake trout introduction (Donald and Alger 1993; Fredenberg 2002) without human intervention. Lake trout predation resulted in drastic decreases in the kokanee population in Lake Pend Oreille since 2000 (Maiolie et al. 2002; Maiolie et al. 2006). Declines in kokanee abundance is especially concerning as they are the main prey source for ESA-listed bull trout. In 2000, IDFG removed all bag limits on lake trout and implemented an Angler Incentive Program (AIP), which pays anglers to harvest lake trout. To further reduce lake trout abundance, IDFG has contracted with Hickey Brothers Research, LLC (Baileys Harbor, Wisconsin) since 2006 to fish gill and trap nets in Lake Pend Oreille.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/577",
+  "title": "LPO Lake Trout Removal (1994-047-00)",
+  "id": 577,
+  "assumptions": "<p>Commercial&nbsp;netting is a cost effective means to reduce Lake Trout densities over the long term. &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/1030",
+    "http://www.monitoringresources.org/api/v1/methods/1035",
+    "http://www.monitoringresources.org/api/v1/methods/1042",
+    "http://www.monitoringresources.org/api/v1/methods/1044",
+    "http://www.monitoringresources.org/api/v1/methods/1045"
+  ],
+  "objectives": [
+    "Reduce the lake trout population to pre-1999 abundance (about 1,800) for fish over 406 mm to minimize predation and competition risks to bull trout and westslope cutthroat trout."
+  ],
+  "ownerName": "Pete Rust",
+  "ownerEmail": "Pete.Rust@idfg.idaho.gov",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/65"
+}

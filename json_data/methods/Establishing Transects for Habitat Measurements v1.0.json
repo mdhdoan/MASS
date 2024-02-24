@@ -1,0 +1,9 @@
+{
+  "abstractText": "Transects are established based on a stratified random strategy.Project areas are stratified by cover type(s) while random transect start points are selected either by superimposing a grid over cover type maps and then identifying specific X/Y coordinates with the aid of a random numbers table, or through use of a computer generated random number generator point locater program. Occasionally, random transect locations are moved to accommodate cover types missed in the random assignment. The initial number of transect start points established for each cover type is based on the proportional allocation strategy suggested by Husch et al., (2003).",
+  "url": "http://www.monitoringresources.org/api/v1/methods/151",
+  "title": "Establishing Transects for Habitat Measurements v1.0",
+  "id": 151,
+  "type": "Data Collection",
+  "ownerName": "Paul Ashley",
+  "ownerEmail": "lonepinebutte@comcast.net"
+}

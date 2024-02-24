@@ -1,0 +1,9 @@
+{
+  "abstractText": "Snag data is collected within belt transects (method ID: 151). Field technicians collect snag data in conjunction with tree canopy closure measurements.The diameter breast height (dbh) of all snags located within tenth-acre belt transects is measured. Either the actualdbhis recorded, or snag data is reported by class e.g., 5 snags <4dbh, 2 snags >20 dbh etc., (see dbh section). Crew supervisors will advise whether to collect snag data by class or specific dbh.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/280",
+  "title": "Snags v1.0",
+  "id": 280,
+  "type": "Data Collection",
+  "ownerName": "Paul Ashley",
+  "ownerEmail": "lonepinebutte@comcast.net"
+}

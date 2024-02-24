@@ -1,0 +1,9 @@
+{
+  "abstractText": "The behavioral ecology literature demonstrates that individual animals including juvenile salmonids demonstrate consistent behavioral tactics (often referred to as bold vs. shy phenotypes). These phenotypes are the product of genetics and the rearing environment. The hatchery populations assessed in this method share common genetics (equally represented from the same pairs of broodstock), but experience different hatchery rearing environments (restricted vs satiation feeding regimes). The assay suite described below is designed to assess individual behavioral characteristics of fish from the two hatchery populations. Once behavior is assessed, it can be correlated with indicators of performance such as growth, survival of seawater challenge, and age at maturity to determine how hatchery rearing protocols affect behavior and possibly select for traits that influence fitness in hatchery populations of fish.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1733",
+  "title": "Behavior assesment of juvenile salmonids v1.0",
+  "id": 1733,
+  "type": "Data Collection",
+  "ownerName": "Chris Tatara",
+  "ownerEmail": "chris.p.tatara@noaa.gov"
+}

@@ -1,0 +1,19 @@
+{
+  "url": "http://www.monitoringresources.org/api/v1/programs/32",
+  "title": "CDFG-CMP (Coastal Monitoring Plan)",
+  "id": 32,
+  "primaryContactName": "",
+  "primaryContactEmail": "",
+  "organizations": [
+    "California Department of Fish and Wildlife"
+  ],
+  "protocols": [
+    {
+      "id": 686,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/686",
+      "title": "CMPASP (Coastal Monitoring Plan Aquatic Survey Program)",
+      "lastUpdated": "2011-12-15T21:43:37-08:00"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "abstractText": "Radio telemetry tags and receivers allow biologists to passively track animals over large geographic regions. Installation of equipment does not require permanent infrastructure and equipment can be installed and removed seasonally. Detection of individual tag codes can occurover several hundred yards from the shoreline of large rivers. When used for returning adult salmon, receivers can bet set up at fixed locations with multiple antennas facing upstream, downstream, and towards tributaries that define spawning reaches within a basin as has been done for Snake River Fall Chinook salmon (see attached map). Receivers can also be used from an automobile,boat, or plan to cover larger areas over a shorter amount of time.The tags and receivers described in this method are produced by Lotek. Lotek is company located in Ontario Canada that specializes in radio telemetry products. Equipment from this company has be extensively used throughout the Snake Riverbasin and is currently being used by several agencies in the basin.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/4241",
+  "title": "Using SRX440a Telemetry Receiver v1.0",
+  "id": 4241,
+  "type": "Data Collection",
+  "ownerName": "Deborah Milks",
+  "ownerEmail": "deborah.milks@dfw.wa.gov"
+}

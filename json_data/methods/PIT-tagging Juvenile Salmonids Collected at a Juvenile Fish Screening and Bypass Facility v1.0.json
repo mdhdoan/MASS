@@ -1,0 +1,9 @@
+{
+  "abstractText": "Passive Integrated Transponder (PIT) tags have been utilized as a research and management tool in the Columbia River Basin since 1987. PIT-tagging juvenile salmonids collected at juvenile fish screening and bypass facility can be used to conduct site-specific evaluations, estimate survival and travel time in reaches above and below the facility, or for determining the proportion of fish using the facility. A major advantage of PIT-tags over many other marking or tagging methods is that PIT-tagged fish do not need to be physically recaptured; they only need to pass by an automated tag interrogation system. Other advantages include its small size, individual fish identification, long life expectancy (no battery), and relatively simple tagging procedure.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/6971",
+  "title": "PIT-tagging Juvenile Salmonids Collected at a Juvenile Fish Screening and Bypass Facility v1.0",
+  "id": 6971,
+  "type": "Data Collection",
+  "ownerName": "Josh Hanson",
+  "ownerEmail": "Josh.hanson@odfw.oregon.gov"
+}

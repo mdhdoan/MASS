@@ -1,0 +1,9 @@
+{
+  "abstractText": "Catch and harvest estimates are useful tools used to guide management decisions. We collect catch, species composition, and angler type data using a roving creel survey design to produce these estimates. This information also allows us to monitor the predator catch rates to identify potential population changes which may impact program recovery efforts. The Creel Application Software (CAS; 2002) was designed in South Dakota to produce these estimates. We have used this software since 2009 to produce catch and harvest rate estimates in one of our program lakes.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1737",
+  "title": "Analysis of roving creel data using the Creel Application Software (CAS) program v1.0",
+  "id": 1737,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Mike Peterson",
+  "ownerEmail": "mike.peterson@idfg.idaho.gov"
+}

@@ -1,0 +1,24 @@
+{
+  "background": "Burbot stock limitations become an increasing factor to restoration with each passing season. Because the Kootenai River burbot stock is so limited (Paragamian and Laude 2008), the introduction of a genetically similar donor stock was found to be a useful approach to enhance the population.In the past few years, intensive culture techniques developed by the Kootenai Tribe of Idaho, BC Ministry of Environment, the UIARI, and Idaho Department of Fish and Game (IDFG) have become an important restoration measure for burbot on the Kootenai River. The management goal of this study is to restore the burbot population in the Idaho reach of the Kootenai River in order to provide an annual sustainable harvest of burbot.This work element contains specific early life history evaluations.This protocol involves determining the survival and migration timing of PIT tagged burbot released into tributaries of the Kootenai River. We use a PIT tag array in one specific tributary (Deep Creek)to investigate factors that affect survival and timing.In the future, we may set up in-situ teststo determine if current conditions in the Kootenai River are suitable to rearing burbot naturally. Example of test hypothesis will include: Null Hypothesis (Ho) tested: tributary temperature and habitat conditions have no affect on residence time of larval or juvenile burbot.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/549",
+  "title": "KRRFM - Burbot Early Life Studies: Kootenai Tributaries (1988-065-00)",
+  "id": 549,
+  "assumptions": "<p>Fish have an equal chance of being sampled once they are recruited to gear in the Kootenai River.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/254",
+    "http://www.monitoringresources.org/api/v1/methods/485",
+    "http://www.monitoringresources.org/api/v1/methods/746",
+    "http://www.monitoringresources.org/api/v1/methods/1551",
+    "http://www.monitoringresources.org/api/v1/methods/1736",
+    "http://www.monitoringresources.org/api/v1/methods/4004",
+    "http://www.monitoringresources.org/api/v1/methods/4042",
+    "http://www.monitoringresources.org/api/v1/methods/5333"
+  ],
+  "objectives": [
+    "Determine condition suitable for stocking burbot in tributaries of the Kootenai River.",
+    "Determine if burbot stocked into specific tributaries will return to their stocking location to spawn."
+  ],
+  "ownerName": "T.J. Ross",
+  "ownerEmail": "tj.ross@idfg.idaho.gov",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/28"
+}

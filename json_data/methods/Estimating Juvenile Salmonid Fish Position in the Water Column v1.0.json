@@ -1,0 +1,9 @@
+{
+  "abstractText": "This method is used to estimate the location of individual or schools of fish within the water column that is used as input to Habitat Suitability curves for spring Chinook and steelhead. Data collected to build Habitat Suitability curves includes position in the water column, or depth, cover (Method 5513), substrate (Method 5514) and focal velocity (Method 5515). These curves are used to create Habitat Suitability Indicesfor spring Chinook and steelhead as described in Protocol. The data is collected as part of a study to determine winter habitat requirements for juvenile spring Chinook and steelhead (Protocol 2237; https://www.monitoringresources.org/Document/Protocol/Details/2237). Snorkeling procedures follow those described in Method 136 Basic Snorkel Survey Procedures.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/5512",
+  "title": "Estimating Juvenile Salmonid Fish Position in the Water Column v1.0",
+  "id": 5512,
+  "type": "Data Collection",
+  "ownerName": "PAMELA NELLE",
+  "ownerEmail": "pamela@terraqua.biz"
+}

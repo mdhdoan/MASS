@@ -1,0 +1,9 @@
+{
+  "abstractText": "Surface elevation tables (SETs) provide an accurate means of measuring sediment accretion rates.With SETs, one can separate earth movement processes from surface accretion/erosion because SETs are anchored to bedrockand incorporate marker horizons to estimate surface processes.SETs are commonly used to evaluate subsidence and the risk of sea level rise (e.g., Rogers et al. 2013).Repeated quarterly monitoring adds information about the effects of seasonal environmental factors.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/6994",
+  "title": "Surface Elevation Table (SET) Measurement v1.0",
+  "id": 6994,
+  "type": "Data Collection",
+  "ownerName": "Maggie McKeon",
+  "ownerEmail": "maggie.mckeon@pnnl.gov"
+}

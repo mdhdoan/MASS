@@ -1,0 +1,68 @@
+{
+  "url": "http://www.monitoringresources.org/api/v1/programs/70",
+  "title": "Coeur d'Alene Tribe",
+  "id": 70,
+  "primaryContactName": "Jon Firehammer",
+  "primaryContactEmail": "jfirehammer@cdatribe-nsn.gov",
+  "organizations": [
+    "Bonneville Power Administration"
+  ],
+  "protocols": [
+    {
+      "id": 536,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/536",
+      "title": "Generating demographic information for a salmonid population using data collected at a fixed weir trap",
+      "lastUpdated": "2016-12-18T00:36:50-08:00"
+    },
+    {
+      "id": 572,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/572",
+      "title": "Obtaining indices of trout abundance in streams",
+      "lastUpdated": "2016-11-22T05:00:27-08:00"
+    },
+    {
+      "id": 3277,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3277",
+      "title": "Monitoring water quality metrics in wadeable streams",
+      "lastUpdated": "2016-11-29T07:57:38-08:00"
+    },
+    {
+      "id": 3278,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3278",
+      "title": "Using a rotary screw trap to generate demographic data for a salmonid population",
+      "lastUpdated": "2016-11-24T00:45:13-08:00"
+    },
+    {
+      "id": 3279,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3279",
+      "title": "Using stationary PIT interrogation antenna arrays to monitor movements of salmonids within watersheds",
+      "lastUpdated": "2016-12-01T22:58:26-08:00"
+    },
+    {
+      "id": 3280,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3280",
+      "title": "Temperature monitoring in trout streams of interest to the Coeur d'Alene Tribe",
+      "lastUpdated": "2016-12-02T23:47:30-08:00"
+    },
+    {
+      "id": 3281,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3281",
+      "title": "Stream reach surveys to describe habitat attributes that have been linked to the quality of salmonid rearing habitat",
+      "lastUpdated": "2016-12-06T06:00:31-08:00"
+    },
+    {
+      "id": 3283,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3283",
+      "title": "Monitoring groundwater fluctuations using continuous and instantaneous data collected from shallow groundwater wells",
+      "lastUpdated": "2016-12-12T01:08:57-08:00"
+    }
+  ]
+}

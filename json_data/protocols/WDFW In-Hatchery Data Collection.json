@@ -1,0 +1,20 @@
+{
+  "background": "Project staff will assist Lyons Ferry and Tucannon FH staffs with broodstock collection, spawning activities (collection of biological samples, recording mating crosses, estimation of eggs taken, etc..) and documenting survivals in the hatchery based on data provided from the hatchery staff. Project and hatchery staff will spawn broodstock using a 1x2 or 2x2 spawning matrix. Crosses between individuals will be documented by project staff to ensure that all fish collected for broodstock contribute to the next generation when possible.Incubation of eggs allows for fecundity monitoring by age class. WDFW LSRCP staff have tracked fecundity of female steelhead by stock since 2000 to document any changes over time that could be attributed to hatchery practices. Eggs are picked at the eyed stage, with mortality to eye-up determined by the number of dead eggs picked from each female's egg lot. Live eggs are determined by an egg counter. Additional mortality occurs prior to hatching, which is also determined.Project staff will also sample juvenile summer steelhead when necessary, or when requested by hatchery staff, for tag/mark retention or size at release sampling prior to release. Project staff will report tag/mark retention and size at release in annual reports, and will use this information in hatchery program evaluations. Project staff will consolidate all appropriate data collected while fish are in the hatchery (it is anticipated that the information will inform the recommendations made to hatchery and fish management staff for changes in the program).",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/3632",
+  "title": "WDFW In-Hatchery Data Collection",
+  "id": 3632,
+  "assumptions": null,
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/6639",
+    "http://www.monitoringresources.org/api/v1/methods/6646",
+    "http://www.monitoringresources.org/api/v1/methods/6648",
+    "http://www.monitoringresources.org/api/v1/methods/6649"
+  ],
+  "objectives": [
+    "Provide support and perform hatchery effectiveness monitoring and evaluation to adaptively manage Nez Perce Tribe hatchery programs.",
+    "Provide support and perform critical uncertainty analysis research for action effectiveness."
+  ],
+  "ownerName": "Todd Miller",
+  "ownerEmail": "todd.miller@dfw.wa.gov",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/64"
+}

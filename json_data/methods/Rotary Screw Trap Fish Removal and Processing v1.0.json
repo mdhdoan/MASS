@@ -1,0 +1,9 @@
+{
+  "abstractText": "The frequency of checking the rotary screw trap (RST) and removing fish from the trap box is determined by the number of fish emigrating and the catch rates, time of year, trap capacity, stream discharge level, debris loads, and upstream hatchery releases. Typically RSTs are checked daily and all captured fish are processed by one to three person trap crews. Traps are checked as often as necessary to maintain a safe holding condition and density for all captured fish and to protect equipment. Fish are sensitive to handling, changes in temperature, oxygen levels, sunlight and other factors and all precautions are taken to ensure their safety while processing. To reduce stress, fish processing is performed out of direct sunlight and conducted early in the morning to avoid warm afternoon water temperatures.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/6632",
+  "title": "Rotary Screw Trap Fish Removal and Processing v1.0",
+  "id": 6632,
+  "type": "Data Collection",
+  "ownerName": "Ryan Kinzer",
+  "ownerEmail": "ryank@nezperce.org"
+}

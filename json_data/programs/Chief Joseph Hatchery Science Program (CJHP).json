@@ -1,0 +1,173 @@
+{
+  "url": "http://www.monitoringresources.org/api/v1/programs/61",
+  "title": "Chief Joseph Hatchery Science Program (CJHP)",
+  "id": 61,
+  "primaryContactName": "Andrea Pearl",
+  "primaryContactEmail": "andrea.pearl@colvilletribes.com",
+  "organizations": [
+    "Confederated Tribes of the Colville Reservation"
+  ],
+  "protocols": [
+    {
+      "id": 218,
+      "status": "Expired",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/218",
+      "title": "Wells Dam Monitoring (2003-023-00)",
+      "lastUpdated": "2016-06-24T02:09:19-07:00"
+    },
+    {
+      "id": 219,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/219",
+      "title": "Okanogan Adult Temporary Weir Operations (2003-023-00)",
+      "lastUpdated": "2016-10-14T01:50:35-07:00"
+    },
+    {
+      "id": 222,
+      "status": "Expired",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/222",
+      "title": "Spawning Surveys (2003-023-00)",
+      "lastUpdated": "2016-08-10T23:12:59-07:00"
+    },
+    {
+      "id": 224,
+      "status": "Expired",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/224",
+      "title": "Redd and Carcass Surveys (2003-023-00)",
+      "lastUpdated": "2016-08-10T23:15:07-07:00"
+    },
+    {
+      "id": 226,
+      "status": "Expired",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/226",
+      "title": "Juvenile Outmigration (2003-023-00)",
+      "lastUpdated": "2016-08-10T23:15:56-07:00"
+    },
+    {
+      "id": 402,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/402",
+      "title": "Using Selective Fishing Gear to Collect Summer Chinook Broodstock and Reduce the Proportion of Hatchery Origin Spawners (2008-105-00)",
+      "lastUpdated": "2021-04-06T05:12:05-07:00"
+    },
+    {
+      "id": 2127,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2127",
+      "title": "Assessing Summer/Fall Chinook Outmigrants with a Rotary Screw Trap on the Okanogan River",
+      "lastUpdated": "2016-08-18T04:27:59-07:00"
+    },
+    {
+      "id": 2220,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2220",
+      "title": "Estimate Juvenile Chinook Outmigration and Survival Using PIT Tags (2003-023-00)",
+      "lastUpdated": "2016-09-21T05:01:59-07:00"
+    },
+    {
+      "id": 2223,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2223",
+      "title": "Collect and Tag Natural-Origin Juvenile Chinook Salmon",
+      "lastUpdated": "2016-09-21T04:56:27-07:00"
+    },
+    {
+      "id": 2226,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2226",
+      "title": "Annual Summer/Fall Chinook Carcass Surveys",
+      "lastUpdated": "2018-12-11T03:16:52-08:00"
+    },
+    {
+      "id": 2227,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2227",
+      "title": "Environmental DNA (eDNA) monitoring for spring-Chinook in the Okanogan Basin",
+      "lastUpdated": "2020-01-24T06:38:35-08:00"
+    },
+    {
+      "id": 2228,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2228",
+      "title": "Parentage Based Tagging for hatchery Chinook salmon at Chief Joseph Hatchery (2010-031-00)",
+      "lastUpdated": "2016-06-14T04:42:13-07:00"
+    },
+    {
+      "id": 2229,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2229",
+      "title": "Parentage based tagging sample collection from Chinook salmon at Chief Joseph Hatchery",
+      "lastUpdated": "2017-04-15T01:22:06-07:00"
+    },
+    {
+      "id": 2264,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2264",
+      "title": "Retrieve and Analyze CWT Information for for Okanogan Summer/Fall Chinook",
+      "lastUpdated": "2016-09-15T01:10:34-07:00"
+    },
+    {
+      "id": 2266,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2266",
+      "title": "Collect Otolith Samples from Adult Chinook",
+      "lastUpdated": "2017-02-28T04:45:34-08:00"
+    },
+    {
+      "id": 2269,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2269",
+      "title": "Determine Age Composition of Adult Chinook from Scale Samples",
+      "lastUpdated": "2017-11-01T19:34:51-07:00"
+    },
+    {
+      "id": 3276,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3276",
+      "title": "Annual Summer/Fall Chinook Redd Surveys",
+      "lastUpdated": "2018-12-11T03:14:54-08:00"
+    },
+    {
+      "id": 3298,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3298",
+      "title": "Assessing Coded Wire Tags in Hatchery Origin Salmon Carcasses",
+      "lastUpdated": "2019-05-30T04:02:42-07:00"
+    },
+    {
+      "id": 3368,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3368",
+      "title": "Collection of Juvenile Summer/Fall Chinook Otoliths for Natal Stream Identification Through Isotope Analysis",
+      "lastUpdated": "2018-03-29T06:34:08-07:00"
+    },
+    {
+      "id": 3487,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3487",
+      "title": "Estimating Summer Chinook Egg-to-Fry Survival in the Okanogan Basin",
+      "lastUpdated": "2020-01-25T00:48:55-08:00"
+    },
+    {
+      "id": 3604,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3604",
+      "title": "Environmental DNA (eDNA) monitoring for spring-Chinook in the Okanogan Basin Copy",
+      "lastUpdated": "2020-12-04T03:25:27-08:00"
+    },
+    {
+      "id": 3624,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3624",
+      "title": "Monitor and Evaluate the Genetic Diversity of Supplemented Chinook Salmon in the Upper Columbia River Basin",
+      "lastUpdated": "2021-03-25T00:17:35-07:00"
+    },
+    {
+      "id": 3635,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3635",
+      "title": "Roving Creel Survey",
+      "lastUpdated": "2021-05-05T22:57:41-07:00"
+    }
+  ]
+}

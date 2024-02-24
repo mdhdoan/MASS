@@ -1,0 +1,9 @@
+{
+  "abstractText": "Age composition data are important for monitoring recovery of wild anadromous fish populations listed under the ESA. Age data collected from Chinook Salmon spawning ground surveys are used to assign returning adults to specific brood years, for cohort analysis, and to estimate productivity and survival rates",
+  "url": "http://www.monitoringresources.org/api/v1/methods/6965",
+  "title": "Fin Ray Processing for Age v1.0",
+  "id": 6965,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Eli Felts",
+  "ownerEmail": "eli.felts@idfg.idaho.gov"
+}

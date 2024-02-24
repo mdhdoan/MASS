@@ -1,0 +1,9 @@
+{
+  "abstractText": "Estradiol is the principal gonadal steroid regulating female sexual development in fish. In rainbow trout, plasma estradiol levels increase by approximately 8 months prior to spawning, and reach peak levels approximately 4 months prior to spawning (Bromage et al., 1982; Whitehead et al., 1983; Tyler et al., 1990; Prat et al., 1996). Feed restriction suppresses plasma estradiol levels in maturing female salmonids (Yamamoto et al., 2011). In post-spawning rainbow trout, feed restriction significantly decreased plasma estradiol levels versus controls within 10 weeks after spawning (Caldwell et al., 2014), suggesting that plasma estradiol level may indicate maturational status within a short period of time after spawning in female steelhead kelts.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/5320",
+  "title": "Estradiol Assay of Fish Plasma Samples v1.0",
+  "id": 5320,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Doug Hatch",
+  "ownerEmail": "hatd@critfc.org"
+}

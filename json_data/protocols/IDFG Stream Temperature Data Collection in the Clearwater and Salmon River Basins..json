@@ -1,0 +1,20 @@
+{
+  "background": "Stream temperature data are collected in drainagewhere fish-in/fish-out monitoring of wild steelhead is performed. Additionalstreams are also sampled that span a range of elevation, geomorphic, and vegetative cover across steelhead natal streams. Abundance and life history of steelhead are influenced by the basic productivity, habitat, and thermal regime of the rearing stream. Thus, data can be analyzed and available for use as environmental co-variates for steelhead effectiveness evaluations and for general environmental status and trends monitoring.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/90",
+  "title": "IDFG Stream Temperature Data Collection in the Clearwater and Salmon River Basins.",
+  "id": 90,
+  "assumptions": "<p>Temperatures at selected sites represent the thermal environment of juvenile steelhead rearing in the stream.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/1685",
+    "http://www.monitoringresources.org/api/v1/methods/1686",
+    "http://www.monitoringresources.org/api/v1/methods/1687",
+    "http://www.monitoringresources.org/api/v1/methods/6575"
+  ],
+  "objectives": [
+    "Conduct extensive stream temperature monitoring in select steelhead streams.",
+    "Analyze stream temperature data to compare and contrast spatial and temporal trends in stream temperature metrics within the context of juvenile steelhead habitat quality and availability."
+  ],
+  "ownerName": "Luciano Chiaramonte",
+  "ownerEmail": "luciano.chiaramonte@idfg.idaho.gov",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/73"
+}

@@ -1,0 +1,62 @@
+{
+  "url": "http://www.monitoringresources.org/api/v1/programs/18",
+  "title": "CHaMP (Columbia Habitat Monitoring Program)",
+  "id": 18,
+  "primaryContactName": "Chris Jordan",
+  "primaryContactEmail": "chris.jordan@noaa.gov",
+  "organizations": [
+    "Bonneville Power Administration",
+    "National Oceanic and Atmospheric Administration"
+  ],
+  "protocols": [
+    {
+      "id": 416,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/416",
+      "title": "Scientific Protocol for Salmonid Habitat Surveys within the Columbia Habitat Monitoring Program (CHaMP)",
+      "lastUpdated": "2017-02-24T03:49:19-08:00"
+    },
+    {
+      "id": 806,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/806",
+      "title": "Scientific Protocol for Salmonid Habitat Surveys within the Columbia Habitat Monitoring Program (CHaMP)",
+      "lastUpdated": "2017-10-04T04:47:51-07:00"
+    },
+    {
+      "id": 1896,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/1896",
+      "title": "Tucannon Project Action Effectiveness Monitoring (Floodplain Connectivity and Channel Complexity)",
+      "lastUpdated": "2013-01-31T14:15:34-08:00"
+    },
+    {
+      "id": 1908,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/1908",
+      "title": "Tucannon Project Action Effectiveness Monitoring (Floodplain Connectivity and Channel Complexity) 2013",
+      "lastUpdated": "2017-03-13T22:31:52-07:00"
+    },
+    {
+      "id": 1966,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/1966",
+      "title": "Scientific Protocol for Salmonid Habitat Surveys within the Columbia Habitat Monitoring Program (CHaMP)",
+      "lastUpdated": "2017-04-22T00:39:40-07:00"
+    },
+    {
+      "id": 2020,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2020",
+      "title": "Scientific Protocol for Salmonid Habitat Surveys within the Columbia Habitat Monitoring Program (CHaMP)",
+      "lastUpdated": "2017-04-22T02:32:13-07:00"
+    },
+    {
+      "id": 3737,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3737",
+      "title": "Scientific Protocol for Salmonid Habitat Surveys within the Columbia Habitat Monitoring Program (CHaMP) Copy6",
+      "lastUpdated": "2023-09-12T23:20:30-07:00"
+    }
+  ]
+}

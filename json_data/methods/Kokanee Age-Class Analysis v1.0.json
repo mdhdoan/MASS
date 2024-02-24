@@ -1,0 +1,9 @@
+{
+  "abstractText": "This method describes how we use kokanee ageing data to partition out kokanee age classes. Age-specific estimates are important on their own, but are also needed to estimate survival (Method ID 1619), biomass, and production (Method ID 1094).",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1092",
+  "title": "Kokanee Age-Class Analysis v1.0",
+  "id": 1092,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Pete Rust",
+  "ownerEmail": "Pete.Rust@idfg.idaho.gov"
+}

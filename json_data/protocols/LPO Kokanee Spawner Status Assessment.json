@@ -1,0 +1,16 @@
+{
+  "background": "Lake Pend Oreille (LPO) once provided the largest kokanee fishery in the state of Idaho. Between 1952 and 1966, harvests of kokanee averaged 1 million kokanee/yr with up to 523,000 angler-hours of fishing pressure (Jeppson 1953; Maiolie and Elam 1993). Kokanee harvest dramatically declined after 1966, and by 1985 the annual harvest was only 71,200 kokanee with 179,000 angler hours (Bowles et al. 1987; Maiolie and Elam 1993). The extent and timing of winter lake drawdowns has been implicated as most detrimental effect on the population (Maiolie and Elam 1993), but by the early 2000s, high predation levels created by a rapidly expanding lake trout was the primary limiting factor for kokanee.One way to gauge the abundance of kokanee is through visual counts of spawning adults. These counts are conducted annually on both early and late spawning kokanee along index reaches (Jeppson 1960) in tributaries and along the shoreline dating back to 1972.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/2017",
+  "title": "LPO Kokanee Spawner Status Assessment",
+  "id": 2017,
+  "assumptions": "<p>Visual spawner counts along shorelines or in tributaries are representative of the entire lake wide spawning component of the population.&nbsp;</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/1095"
+  ],
+  "objectives": [
+    "Conduct spawner counts as an index of mature kokanee abundance"
+  ],
+  "ownerName": "Pete Rust",
+  "ownerEmail": "Pete.Rust@idfg.idaho.gov",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/65"
+}

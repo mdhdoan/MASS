@@ -1,0 +1,22 @@
+{
+  "background": "Lake Roosevelt is one of 11 lakes and reservoirs within the Columbia River drainage in Washington State that supports a Burbot population. Standardized stock assessment data is needed to facilitate management of the Lake Roosevelt Burbot population. In the absence of standardized stock assessment data, Burbot populations in Washington State, including Lake Roosevelt, have been managed conservatively. A suspected increase in abundance and high survival suggests that the population could potentially support greater harvest, although this needs confirmation.For the 2011 Resident Fish Categorical Review, the Colville Confederated Tribes (CCT) submitted a proposal to develop a standardized stock assessment program for Burbot in Lake Roosevelt. The objective was to facilitate management of the Burbot population to provide for sustainable harvest through the development of a status and trends monitoring program. Because burbot are commonly observed in the bycatch of annual Lake Roosevelt Fall Walleye Index Netting (FWIN) surveys, the Independent Scientific Review Panel (ISRP) and Northwest Power and Conservation Council (NPCC) recommended that the CCT first evaluate the potential for using FWIN as the basis for Burbot stock assessment in Lake Roosevelt. Accordingly, in 2013 the CCT hired a subcontractor to analyze ten years of FWIN data (2003-2012) and assess its adequacy for Burbot stock assessment. The overarching conclusion of the analysis was that the FWIN program is adequate for monitoring year-to-year differences in Lake Roosevelt Burbot population indices.Despite the demonstrated utility of FWIN as a tool for Lake Roosevelt Burbot stock assessment, there is a need to evaluate the size selectivity of the gill net gear. Gill net size selectivity can be estimated indirectly by fishing multiple mesh gill nets with equal effort and comparing catch frequencies within each of the mesh sizes. We propose to use a maximum-likelihood approach to estimate parameters of log-linear selectivity models (Normal location, Normal scale, Gamma, Lognormal, and Bi-normal), also known as the SELECT method (Share Each Lengths Catch Total), and correct the length data prior to the calculation of length-based stock assessment indices.Age bias resulting from gill net selectivity can be corrected by applying the proportion of fish of each age within each length bin to the bias-corrected length data. To increase sample sizes of small (young) and large (old) Burbot, supplemental sampling with alternative gears can be conducted. We will conduct supplemental sampling concurrent with FWIN using towed bottom trawls (to capture small fish), modified cod traps (large fish), and trammel nets (large fish)  all of which have been used to sample Burbot populations.Protocol 2170 Lake Roosevelt Burbot - FWIN Data Analysis addresses the work element162: https://www.cbfish.org/WorkStatementElement.mvc/Summary/97551 that continue to monitor status and trends in relative abundance, mortality, size and age structure, condition growth, and recruitment.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/693",
+  "title": "Supplemental Burbot Sampling to Evaluate Lake Roosevelt FWIN Gill Net Length/Age Bias",
+  "id": 693,
+  "assumptions": "<p>Our sample will be representative of the entire population.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/140",
+    "http://www.monitoringresources.org/api/v1/methods/1078",
+    "http://www.monitoringresources.org/api/v1/methods/1229",
+    "http://www.monitoringresources.org/api/v1/methods/1230",
+    "http://www.monitoringresources.org/api/v1/methods/1551",
+    "http://www.monitoringresources.org/api/v1/methods/5399",
+    "http://www.monitoringresources.org/api/v1/methods/5400"
+  ],
+  "objectives": [
+    "Collect Burbot using trammel nets and modified cod traps to evaluate length and age bias in Fall Walleye Index Netting Burbot catch."
+  ],
+  "ownerName": "Jason McLellan",
+  "ownerEmail": "jason.mclellan@colvilletribes.com",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/21"
+}

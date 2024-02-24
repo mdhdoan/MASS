@@ -1,0 +1,9 @@
+{
+  "abstractText": "This method is based off of Site Layout v2.0 (Method 1579) but does not include benchmarks, monuments or transects. This site layout method covers locating the site, establishing site markers, determiningbankfullelevation and site width category, lay out the site and determine channel units. This method assumes you've already Located the Site - see Method 831:http://www.monitoringmethods.org/Method/Details/831.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/5396",
+  "title": "AEM Site Layout v3.0",
+  "id": 5396,
+  "type": "Data Collection",
+  "ownerName": "Jennifer O'Neal",
+  "ownerEmail": "jen@naturaldes.com"
+}

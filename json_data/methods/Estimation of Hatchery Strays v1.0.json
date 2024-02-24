@@ -1,0 +1,9 @@
+{
+  "abstractText": "Steelhead collected at weirs/traps will be checked for external marks (fin clips,floy tags, etc.) and internal marks (Coded Wire Tags (CWT)or Passive Integrated Transponder (PIT) tags) to determine the percentage of naturally produced fish and the percentage of hatchery produced fish, as well as the sources of these hatchery fish. (e.g. if 100 fish were sampled with 5 having adipose fin clips (hatchery fish) we would calculate a 5% stray rate of hatchery fish and the proportion of natural spawners would be 95%) This information will also be used to estimate total naturally produced adult steelhead abundance within the Asotin and Tucannon steelhead populations, which is important for Viable Salmonid Population (VSP) monitoring for Endangered Species Act (ESA) recovery.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/372",
+  "title": "Estimation of Hatchery Strays v1.0",
+  "id": 372,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Jeremy Trump",
+  "ownerEmail": "jeremy.trump@dfw.wa.gov"
+}

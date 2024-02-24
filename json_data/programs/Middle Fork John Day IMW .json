@@ -1,0 +1,80 @@
+{
+  "url": "http://www.monitoringresources.org/api/v1/programs/79",
+  "title": "Middle Fork John Day IMW ",
+  "id": 79,
+  "primaryContactName": "",
+  "primaryContactEmail": "",
+  "organizations": [],
+  "protocols": [
+    {
+      "id": 3413,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3413",
+      "title": "Channel Geomorphology and Physical Habitat",
+      "lastUpdated": "2018-05-11T00:55:41-07:00"
+    },
+    {
+      "id": 3414,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3414",
+      "title": "Influence of Deer and Elk Browsing on the Success of Riparian Restoration Plantings",
+      "lastUpdated": "2018-05-11T01:17:43-07:00"
+    },
+    {
+      "id": 3416,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3416",
+      "title": "Analysis of Benthic and Drift Macroinvertebrate Samples",
+      "lastUpdated": "2018-05-22T01:52:19-07:00"
+    },
+    {
+      "id": 3419,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3419",
+      "title": "Analysis of Relationship Between Macroinvertebrates, Streamflow, and Temperature",
+      "lastUpdated": "2018-05-21T23:26:15-07:00"
+    },
+    {
+      "id": 3420,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3420",
+      "title": "Stream Habitat Condition",
+      "lastUpdated": "2018-05-22T22:20:20-07:00"
+    },
+    {
+      "id": 3421,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3421",
+      "title": "Continuous Water Temperature Monitoring of Freshwater Rivers and Streams",
+      "lastUpdated": "2018-05-22T22:28:02-07:00"
+    },
+    {
+      "id": 3423,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3423",
+      "title": "Monitoring and Assessment of Critical Thermal Dynamics",
+      "lastUpdated": "2018-06-09T01:58:52-07:00"
+    },
+    {
+      "id": 3426,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3426",
+      "title": "Future Changes in Water Temperature and the Potential for Riparian Restoration to Mitigate Temperature Increases",
+      "lastUpdated": "2018-07-04T02:02:39-07:00"
+    },
+    {
+      "id": 3427,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3427",
+      "title": "Projected Response of Riparian Vegetation to Passive and Active Restoration over 50 years",
+      "lastUpdated": "2018-06-12T03:11:26-07:00"
+    },
+    {
+      "id": 3428,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3428",
+      "title": "Before-After-Control-Impact (BACI) Comparative Analysis",
+      "lastUpdated": "2018-06-12T06:01:20-07:00"
+    }
+  ]
+}

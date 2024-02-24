@@ -1,0 +1,24 @@
+{
+  "url": "http://www.monitoringresources.org/api/v1/programs/78",
+  "title": "BLM AIM ",
+  "id": 78,
+  "primaryContactName": "Nicole Cappuccio",
+  "primaryContactEmail": "ncappuccio@blm.gov",
+  "organizations": [],
+  "protocols": [
+    {
+      "id": 3339,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3339",
+      "title": "BLM Assessment, Inventory, and Monitoring (AIM) of Wadeable Lotic Systems",
+      "lastUpdated": "2023-02-01T06:22:36-08:00"
+    },
+    {
+      "id": 3727,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3727",
+      "title": "Assessment, Inventory, and Monitoring of Wadeable Lotic Systems",
+      "lastUpdated": "2023-06-05T23:51:23-07:00"
+    }
+  ]
+}

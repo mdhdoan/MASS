@@ -1,0 +1,164 @@
+{
+  "url": "http://www.monitoringresources.org/api/v1/programs/27",
+  "title": "Lake Roosevelt Fisheries Evaluation Program",
+  "id": 27,
+  "primaryContactName": "Brent Nichols",
+  "primaryContactEmail": "bnichols@spokanetribe.com",
+  "organizations": [],
+  "protocols": [
+    {
+      "id": 521,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/521",
+      "title": "Lake Roosevelt Angler Creel Survey (1994-043-00)",
+      "lastUpdated": "2020-02-01T03:09:55-08:00"
+    },
+    {
+      "id": 533,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/533",
+      "title": "Water Quality, Limnology, and Zooplankton Monitoring in Lake Roosevelt (1994-043-00)",
+      "lastUpdated": "2017-01-10T22:57:03-08:00"
+    },
+    {
+      "id": 538,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/538",
+      "title": "Redband Trout River Spawning Assessment",
+      "lastUpdated": "2020-06-06T00:54:44-07:00"
+    },
+    {
+      "id": 560,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/560",
+      "title": "Distribution and Status of Freshwater Mussels in Lake Roosevelt",
+      "lastUpdated": "2011-11-15T16:49:38-08:00"
+    },
+    {
+      "id": 583,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/583",
+      "title": "Lake Roosevelt Fisheries Evaluation Program\u2019s Annual Monitoring (1994-043-00)",
+      "lastUpdated": "2020-02-13T00:41:22-08:00"
+    },
+    {
+      "id": 585,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/585",
+      "title": "Lake Roosevelt Kokanee Escapement Assessment and Egg Collection (1994-043-00)",
+      "lastUpdated": "2020-01-18T00:14:04-08:00"
+    },
+    {
+      "id": 610,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/610",
+      "title": "Redband Trout Acoustic Telemetry Study (BPA Project Number 1994-043-00)",
+      "lastUpdated": "2016-05-11T03:48:35-07:00"
+    },
+    {
+      "id": 623,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/623",
+      "title": "Redband Trout Tributary Habitat Assessment",
+      "lastUpdated": "2020-06-03T01:02:12-07:00"
+    },
+    {
+      "id": 625,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/625",
+      "title": "Hatchery Kokanee Acoustic Telemetry Study (BPA Project Number 1994-043-00)",
+      "lastUpdated": "2016-05-11T03:49:28-07:00"
+    },
+    {
+      "id": 627,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/627",
+      "title": "Fall Kokanee Survey (BPA Project Number 1994-043-00)",
+      "lastUpdated": "2016-06-14T05:07:03-07:00"
+    },
+    {
+      "id": 633,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/633",
+      "title": "Lake Roosevelt Fisheries Evaluation Program - Fall Walleye Index Netting (1994-043-00)",
+      "lastUpdated": "2020-02-13T00:37:11-08:00"
+    },
+    {
+      "id": 665,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/665",
+      "title": "Redband Trout Escapement in the Kettle River 1994-043-00",
+      "lastUpdated": "2011-11-30T21:48:33-08:00"
+    },
+    {
+      "id": 1833,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/1833",
+      "title": "Analysis of Thermal Otolith Marks",
+      "lastUpdated": "2012-10-30T22:02:55-07:00"
+    },
+    {
+      "id": 3354,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3354",
+      "title": "Northern Pike Gill Net Suppression",
+      "lastUpdated": "2020-02-01T02:57:12-08:00"
+    },
+    {
+      "id": 3355,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3355",
+      "title": "Northern Pike Juvenile Suppression",
+      "lastUpdated": "2020-01-22T02:35:02-08:00"
+    },
+    {
+      "id": 3512,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3512",
+      "title": "Redband Trout Acoustic Telemetry Study (BPA Project Number 1994-043-00) Copy2",
+      "lastUpdated": "2019-12-17T06:44:15-08:00"
+    },
+    {
+      "id": 3515,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3515",
+      "title": "Redband Trout Stock Assessment- Tributaries",
+      "lastUpdated": "2020-06-11T02:12:21-07:00"
+    },
+    {
+      "id": 3516,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3516",
+      "title": "Redband Trout Stock Assessment- Rivers",
+      "lastUpdated": "2020-05-19T23:09:05-07:00"
+    },
+    {
+      "id": 3517,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3517",
+      "title": "Redband Trout River Habitat Assessment",
+      "lastUpdated": "2020-06-06T01:39:13-07:00"
+    },
+    {
+      "id": 3520,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3520",
+      "title": "Side scan sonar habitat mapping",
+      "lastUpdated": "2020-01-31T08:57:30-08:00"
+    },
+    {
+      "id": 3524,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3524",
+      "title": "Habitat Restoration Monitoring and Evaluation",
+      "lastUpdated": "2020-05-19T23:38:28-07:00"
+    },
+    {
+      "id": 3526,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3526",
+      "title": "Lake Roosevelt Net Pen Quaility Assurance (QA) (1994-043-00)",
+      "lastUpdated": "2020-02-15T03:07:07-08:00"
+    }
+  ]
+}

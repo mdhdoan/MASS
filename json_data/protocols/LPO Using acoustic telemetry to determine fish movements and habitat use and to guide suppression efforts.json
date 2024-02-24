@@ -1,0 +1,19 @@
+{
+  "background": "An expanding Walleye population has the potential to put several fish populations in Lake Pend Oreille at risk through direct predation and competition. Walleye are prolific piscivores and their establishment in other western lentic systems has led to significant fishery management challenges, particularly where they overlap with salmonid fisheries. Lake Pend Oreille represents a critical stronghold for Bull Trout within their native range. Cutthroat Trout populations in Lake Pend Oreille are depressed relative to historic abundances, but they appear to be reasonably ubiquitous, thus providing some diversity to the sport fishery as well as life history diversity and conservation value. Rainbow Trout provide a popular world-class trophy fishery that largely depends on abundant kokanee for forage. Kokanee provide a popular yield fishery on the lake and represent a forage base for adfluvial Bull Trout. Lake Trout suppression programs were instituted to reduce predation risk when we began to observe rapid population increases, as we are now seeing with Walleye. Should Walleye abundances continue to increase and the scope of their niche expand to include ecologically significant predation on kokanee, Cutthroat Trout, and juvenile Bull Trout and Rainbow Trout, some of the conservation advancement made through previous suppression programs may be jeopardized.Habitats used by nonnative fish populations that threaten our recovery efforts are currently unknown in Lake Pend Oreille. Telemetry is a useful tool for providing information on general movements, spawning locations and timing, and habitat use. Stationary telemetry receivers and active tracking results will provide locational data on areas where fish are concentrated spatially and temporally and will be shared with commercial netters to guide net placement and improve netting efficiencies. Telemetry results will also be shared with anglers to improve catch rates and exploitation rates.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/3530",
+  "title": "LPO Using acoustic telemetry to determine fish movements and habitat use and to guide suppression efforts",
+  "id": 3530,
+  "assumptions": null,
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/380",
+    "http://www.monitoringresources.org/api/v1/methods/996",
+    "http://www.monitoringresources.org/api/v1/methods/1071",
+    "http://www.monitoringresources.org/api/v1/methods/6611"
+  ],
+  "objectives": [
+    "Document movement extent, habitat use, spawn timing of Walleye, Northern Pike, Rainbow Trout, and Lake Trout to help guide suppression efforts and to determine factors limiting recruitment (RBT)."
+  ],
+  "ownerName": "Pete Rust",
+  "ownerEmail": "Pete.Rust@idfg.idaho.gov",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/65"
+}

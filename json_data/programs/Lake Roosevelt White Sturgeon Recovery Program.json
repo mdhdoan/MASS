@@ -1,0 +1,157 @@
+{
+  "url": "http://www.monitoringresources.org/api/v1/programs/26",
+  "title": "Lake Roosevelt White Sturgeon Recovery Program",
+  "id": 26,
+  "primaryContactName": "",
+  "primaryContactEmail": "",
+  "organizations": [],
+  "protocols": [
+    {
+      "id": 478,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/478",
+      "title": "White Sturgeon Enhancement - Fall Subyearling Gill Net Surveys",
+      "lastUpdated": "2015-04-22T15:14:16-07:00"
+    },
+    {
+      "id": 573,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/573",
+      "title": "White Sturgeon Enhancement - Setline Stock Assessment",
+      "lastUpdated": "2015-06-04T17:57:01-07:00"
+    },
+    {
+      "id": 575,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/575",
+      "title": "Lake Roosevelt White Sturgeon - Acoustic Telemetry ( Longitudinal Array ) (1995-027-00)",
+      "lastUpdated": "2016-02-10T05:46:20-08:00"
+    },
+    {
+      "id": 578,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/578",
+      "title": "Lake Roosevelt White Sturgeon - Subyearling Predation Assessment (1995-027-00)",
+      "lastUpdated": "2016-02-10T05:47:14-08:00"
+    },
+    {
+      "id": 628,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/628",
+      "title": "Benthic Macroinvertebrate Sampling in the Upper Columbia River (1995-027-00)",
+      "lastUpdated": "2011-12-15T21:08:18-08:00"
+    },
+    {
+      "id": 643,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/643",
+      "title": "Lake Roosevelt White Sturgeon - Habitat Modeling to Evaluate Habitat Mis-match Hypotheses for the Larval Life Stage",
+      "lastUpdated": "2013-12-31T02:20:48-08:00"
+    },
+    {
+      "id": 644,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/644",
+      "title": "Lake Roosevelt White Sturgeon - Empirical Testing of Habitat Mis-Match Hypotheses for the Larval Life Stage",
+      "lastUpdated": "2013-12-31T02:21:46-08:00"
+    },
+    {
+      "id": 645,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/645",
+      "title": "Lake Roosevelt White Sturgeon - Contaminant Bioaccumulation",
+      "lastUpdated": "2011-11-29T20:02:28-08:00"
+    },
+    {
+      "id": 647,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/647",
+      "title": "Lake Roosevelt White Sturgeon - Effects of Heavy Metal Contaminant Exposure on the Larval Life Stage",
+      "lastUpdated": "2011-11-29T20:07:31-08:00"
+    },
+    {
+      "id": 663,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/663",
+      "title": "Lake Roosevelt White Sturgeon - Subyearling Trawl Surveys",
+      "lastUpdated": "2016-02-10T05:48:18-08:00"
+    },
+    {
+      "id": 2157,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2157",
+      "title": "Lake Roosevelt Flow Velocity Data Collection",
+      "lastUpdated": "2015-07-09T20:59:52-07:00"
+    },
+    {
+      "id": 3497,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3497",
+      "title": "Lake Roosevelt White Sturgeon - Setline Stock Assessment",
+      "lastUpdated": "2020-01-25T00:49:17-08:00"
+    },
+    {
+      "id": 3498,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3498",
+      "title": "Lake Roosevelt White Sturgeon - Creel Survey",
+      "lastUpdated": "2020-01-09T02:59:29-08:00"
+    },
+    {
+      "id": 3501,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3501",
+      "title": "Lake Roosevelt White Sturgeon - Fall Subyearling Gill Net Surveys",
+      "lastUpdated": "2020-01-09T02:58:20-08:00"
+    },
+    {
+      "id": 3504,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3504",
+      "title": "Lake Roosevelt White Sturgeon - Acoustic Telemetry (Longitudinal Array)",
+      "lastUpdated": "2020-01-30T05:05:26-08:00"
+    },
+    {
+      "id": 3518,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3518",
+      "title": "Lake Roosevelt White Sturgeon - Stable Isotope Analysis",
+      "lastUpdated": "2020-01-30T05:06:20-08:00"
+    },
+    {
+      "id": 3525,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3525",
+      "title": "Lake Roosevelt White Sturgeon - Estimation of Spawner Number and Larval Drift in the Upper Columbia",
+      "lastUpdated": "2020-01-31T04:40:42-08:00"
+    },
+    {
+      "id": 3527,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3527",
+      "title": "Lake Roosevelt White Sturgeon - Fall Subyearling Gill Net Surveys",
+      "lastUpdated": "2020-01-24T08:44:27-08:00"
+    },
+    {
+      "id": 3537,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3537",
+      "title": "Lake Roosevelt White Sturgeon - Conservation Aquaculture",
+      "lastUpdated": "2020-02-26T07:16:56-08:00"
+    },
+    {
+      "id": 3742,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3742",
+      "title": "Lake Roosevelt White Sturgeon - Conservation Aquaculture Copy",
+      "lastUpdated": "2023-12-06T06:34:36-08:00"
+    },
+    {
+      "id": 3746,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3746",
+      "title": "Lake Roosevelt White Sturgeon - Stable Isotope Analysis Copy",
+      "lastUpdated": "2023-12-20T08:11:45-08:00"
+    }
+  ]
+}

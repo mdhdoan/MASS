@@ -1,0 +1,17 @@
+{
+  "background": "Moist soil management is a valuable tool for the treatment of wetland habitats and the wildlife species associated with wetlands. The ability to manage water levels, create disturbance, and manipulate vegetation to allow for more productive early successionalwetland habitats is crucial to the TD-1 project.  Moist soil management provides critical habitat and food sources for wetland obligate and wetland associated species, while also allowing for valuable recreation opportunities. Through this survey effort it is our goal to see how seed biomass differs in natural versus manipulated wetland basins. Basins that are being surveyed have been harrowed and broadcast seeded, harrowed and drill seeded, and tilled to allow for volunteer crops to establish.**2017 survey did not have tilled volunteer crops and sample quardants were 1 meter squared.**2018/2019/2020/2021 survey had sample quadrants that were 0.25 meter squared and sample sites were in different location in wetland basins.**2020 survey due to Covid-19 work restrictions all cells were volunteer crops.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/3674",
+  "title": "Naturally established wetland basins versus manipulated wetland basins seed biomass",
+  "id": 3674,
+  "assumptions": "<p style=\"margin-left:&#10; margin-right:0in\">Wetlands that have been harrowed and seeded with Wild Millet and Smartweed will exhibit higher rates of seed biomass than wetlands left to naturally establish.&nbsp; Furthermore, wetland basins that have been tilled will benefit from turning over soil and desirable vegetation will be allowed to establish. &nbsp;</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/6707",
+    "http://www.monitoringresources.org/api/v1/methods/6777"
+  ],
+  "objectives": [
+    "To evaluate different moist soil management practices and compare effectiveness in producing high yields of seed for wildlife forage."
+  ],
+  "ownerName": "Chattan McPherson",
+  "ownerEmail": "Chattan.Mcpherson@dfw.wa.gov",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/64"
+}

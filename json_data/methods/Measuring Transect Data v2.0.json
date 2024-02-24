@@ -1,0 +1,9 @@
+{
+  "abstractText": "Transect data is measured in precise locations so that it can be revisited annually or, in the case of panel sites, every four years. Transects are used to monitor/estimate attributes including Bed Scour, Substrate Size, Substrate Embeddedness and wetted/bankfull channel width. Upon initial implementation of this method, transects should be established during habitat surveys(Method 6724) in portions of habitat units (Small Cobble Riffles, Glides, Pool Tailouts) that have the potential to function as spawning habitat The relative frequency that appropriate habitat units occur should be estimated before the survey in order to distribute a target of 5transects (range 3-7) in each surveyed segment/reach (i.e. a transect should be implemented every X meters of appropriate habitat unit type or over a defined spatial/time frequency during the survey effort. ).In subsequent sampling years, transects will be reoccupied.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/6911",
+  "title": "Measuring Transect Data v2.0",
+  "id": 6911,
+  "type": "Data Collection",
+  "ownerName": "Ryan Klett",
+  "ownerEmail": "ryan.klett@colvilletribes.com"
+}

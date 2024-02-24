@@ -1,0 +1,9 @@
+{
+  "abstractText": "PTAGIS (www.ptagis.org) is a regional database of PIT tagged fish and detection histories within the Columbia River Basin. This database stores data for 40 different agencies, it is administered by the Pacific States Marine Fisheries Commission with funding from Bonneville Power Administration. PIT tag antennas are at most Columbia Basin dam fish ladders as well as many hatcheries and at in-stream sites in tributaries.PTAGIS provides software for contributors to submit and collect tagging and interrogation data.From this site, it is possible to download the complete record of a fish, or group of fish, from tagging through migration to upstream tributaries or hatcheries.Using the Advanced Reporting function users can query data on mark, recapture, release,mortality and detection.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/4095",
+  "title": "Downloading PIT tag observation data from PTAGIS v1.0",
+  "id": 4095,
+  "type": "Data Collection",
+  "ownerName": "PNAMP Support",
+  "ownerEmail": "pnamp.mm@gmail.com"
+}

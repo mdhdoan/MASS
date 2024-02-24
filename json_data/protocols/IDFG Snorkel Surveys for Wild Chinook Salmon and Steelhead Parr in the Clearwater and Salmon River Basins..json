@@ -1,0 +1,31 @@
+{
+  "background": "The purpose of snorkel surveys is to provide information for monitoring the status of wild Chinook Salmon and steelhead populations with respect to the viable salmonid population (VSP) criteria and how abundance and spatial structure are trending over time. Freshwater salmonid production can fluctuate greatly between years. Snorkel surveys provide information related to the density (relative abundance), distribution, and historical trends of Idahos wild Chinook Salmon and steelhead populations. Spatially-balanced snorkel surveys can also be used to address ESA reporting needs (Poole et al. 2020).In the 1950s, IDFG developed a program to index annual spawning escapement by enumerating Chinook Salmon redds in selected areas. The number of redds counted in these areas provides an index of the annual wild adult Chinook Salmon spawner abundance at the independent population scale (see ICBTRT 2003 for population delineations). However, efforts to perform steelhead redd counts in Idaho did not provide reliable estimates of population abundance because of snowmelt-related turbidity and changing flow conditions during the spring spawning period made it very difficult to observe them (Thurow 1985). Therefore, snorkel survey data describing anadromous parr abundance and distribution are particularly important for steelhead, and provides an indirect surrogate to approximate the desired information.Snorkel surveys are widely used for monitoring fish populations because they are a versatile and cost-effective technique. Snorkel surveys are efficient where environmental conditions limit the effectiveness of other techniques, such as electrofishing (Schill and Griffith 1984; Bonneau et al. 1995). Gear and personnel requirements are comparatively modest, so logistical demands are reduced and remote locations become feasible to sample (Hankin and Reeves 1988; Thurow 1994). Counts taken through underwater observations are non-lethal and less intrusive than other field methods, and are an appropriate means to monitor fishes listed under the Endangered Species Act (e.g., Chinook Salmon, steelhead, and Bull Trout Salvelinus confluentus).Snorkel surveys are one of the main techniques used by IDFG to monitor juvenile salmonid populations. Methods for conducting fish abundance surveys by snorkeling have been developed and refined by IDFG over the past several decades (e.g., Corley 1972, Lindland 1974, Reingold 1981). Current snorkeling methods for monitoring the parr of steelhead and Chinook Salmon were originally developed by Petrosky and Holubetz (1985) to assess effects of habitat improvement projects. This effort developed into the General Parr Monitoring program (GPM; Scully et al. 1990), and methods were routinely documented with reporting of survey results. Since then, IDFG snorkel survey methods evolved and were especially influenced by Thurows (1994) review. More recently, ONeal (2007) summarized current standards for conducting snorkel surveys for salmonids.This protocol describes methods used to perform snorkel surveys for the purpose of monitoring abundance and distribution of juvenile anadromous salmonids. Beginning in 2007, we made three changes to snorkel surveys. First, all snorkel crews attend mandatory training to ensure accuracy of surveys and consistency among crews. Second, crews assess snorkeling efficiency (detection probability) of Steelhead parr. Third, we incorporated a probabilistic site selection procedure in order to more objectively assess abundance and distribution.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/89",
+  "title": "IDFG Snorkel Surveys for Wild Chinook Salmon and Steelhead Parr in the Clearwater and Salmon River Basins.",
+  "id": 89,
+  "assumptions": "<p>The observed fish are representative of the population.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/77",
+    "http://www.monitoringresources.org/api/v1/methods/116",
+    "http://www.monitoringresources.org/api/v1/methods/136",
+    "http://www.monitoringresources.org/api/v1/methods/201",
+    "http://www.monitoringresources.org/api/v1/methods/243",
+    "http://www.monitoringresources.org/api/v1/methods/1425",
+    "http://www.monitoringresources.org/api/v1/methods/1687",
+    "http://www.monitoringresources.org/api/v1/methods/1747",
+    "http://www.monitoringresources.org/api/v1/methods/3806",
+    "http://www.monitoringresources.org/api/v1/methods/4174",
+    "http://www.monitoringresources.org/api/v1/methods/4228",
+    "http://www.monitoringresources.org/api/v1/methods/6634",
+    "http://www.monitoringresources.org/api/v1/methods/6938",
+    "http://www.monitoringresources.org/api/v1/methods/6939"
+  ],
+  "objectives": [
+    "Estimate anadromous salmonid parr abundance and density, and describe changes over time.",
+    "Determine the abundance and spatial distribution of anadromous salmonid parr at the population scale.",
+    "Estimate anadromous salmonid parr occupancy within major and minor spawning habitats."
+  ],
+  "ownerName": "Luciano Chiaramonte",
+  "ownerEmail": "luciano.chiaramonte@idfg.idaho.gov",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/73"
+}

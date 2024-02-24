@@ -1,0 +1,9 @@
+{
+  "abstractText": "Parametric tests include the independentt-test, paired (correlated) t-test, and the mean t-test (Ott 1984). The independent an paired t-tests are for two samples, and the mean t-test is for one sample,the mean t-test , or one- sample t-test, is rarely used in fisheries management because it compares point estimates provided by a sample with the true population parameters, which are rarely known. A two-sample t-test is used to determine if two population means are equal.( Brown and Austen, 1996).",
+  "url": "http://www.monitoringresources.org/api/v1/methods/5291",
+  "title": "Tests of Significance: T-Test v1.0",
+  "id": 5291,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "PNAMP Support",
+  "ownerEmail": "pnamp.mm@gmail.com"
+}

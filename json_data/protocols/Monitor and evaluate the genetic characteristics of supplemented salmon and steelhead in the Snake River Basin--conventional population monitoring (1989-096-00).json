@@ -1,0 +1,29 @@
+{
+  "background": "This protocol monitors genetic changes associated with hatchery propagation in multiple Snake River sub-basins for Chinook salmon and steelhead. The information obtained from this protocol directly addresses a critical knowledge gap identified bycomanagers: under what conditions does hatchery supplementation provide a sustained contribution to natural production? This protocol uses changes in gene frequencies through time in hatchery, natural, and wild Chinook salmon and steelhead populations to evaluate the genetic effects of hatchery supplementation on a broad geographic scale. Co-managers areODFW,CTUIR, NPT,WDFW,IDFG, and SBT.This type of monitoring work is now an essential part of hatchery reform and the goal of using widespread hatchery propagation in recovery of natural populations. Tier 2 sites use changes in gene frequencies through time in hatchery, natural and wild Chinook salmon and steelhead populations to evaluate the genetic effects of hatchery supplementation on a broad geographic scale (described here in this Protocol). Tier 3 sites involve direct measures of the relative reproductive success of hatchery fish spawning in the wild by using parentage analysis to construct pedigrees (See Protocol ID:364).The samples needed for this protocol are collected by a number of different entities. Our personnel sample several hatcheries and 4 natural sites in the Salmon River basin every summer. Other sampling locations in the Salmon River are sampled by Gordon Axel (NMFS Pasco) as part of Project 2010-076-00). Other collections may be contributed via opportunistic sampling.We created this new version of the original protocol(original ID:363)because we transitioned this project from usingmicrosatellite markers toSNP markers. See the attached form for a list ofSNP markers we utilize for this protocol.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/3370",
+  "title": "Monitor and evaluate the genetic characteristics of supplemented salmon and steelhead in the Snake River Basin--conventional population monitoring (1989-096-00)",
+  "id": 3370,
+  "assumptions": "<p>We assume that by sampling a stretch of each site ranging from 1/4-1 mile in length, that we are not sampling a single family grouping. Additionally, we choose to sample juveniles at each study site rather than returning adults, as juveniles are not as susceptible to straying issues.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/117",
+    "http://www.monitoringresources.org/api/v1/methods/700",
+    "http://www.monitoringresources.org/api/v1/methods/1332",
+    "http://www.monitoringresources.org/api/v1/methods/1340",
+    "http://www.monitoringresources.org/api/v1/methods/1345",
+    "http://www.monitoringresources.org/api/v1/methods/1347",
+    "http://www.monitoringresources.org/api/v1/methods/1352",
+    "http://www.monitoringresources.org/api/v1/methods/1353",
+    "http://www.monitoringresources.org/api/v1/methods/1354",
+    "http://www.monitoringresources.org/api/v1/methods/1357",
+    "http://www.monitoringresources.org/api/v1/methods/1431",
+    "http://www.monitoringresources.org/api/v1/methods/4002",
+    "http://www.monitoringresources.org/api/v1/methods/5446"
+  ],
+  "objectives": [
+    "Determine the degree to which supplemented populations affect nonsupplemented populations of Chinook and steelhead",
+    "Monitor population genetic relationships within and among populations of Chinook salmon and steelhead in the Snake River Basin"
+  ],
+  "ownerName": "Ewann Berntson",
+  "ownerEmail": "ewann.berntson@noaa.gov",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/81"
+}

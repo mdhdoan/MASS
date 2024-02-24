@@ -1,0 +1,26 @@
+{
+  "background": "The carrying capacity of a watershed is one of the main factors in determining whether supplementation is a viable technique of increasing natural production. Preliminary analysis suggests that density dependent mechanisms affecting spring Chinook survival exists sometime after spawning, prior to the fall parr stage, and potentially prior to the summer rearing period. Each year we collect and measure spring Chinook fry in the early spring and into early summer to identify areas of potential growth limitation. Lengths are collected between March and June (Johnson et. al. 2012). The sampling of Chinook fry is done on a reach scale. The reach is then broken down spatially into sections. Each section of the reach is sampled via backpack electrofishing once during a one-week period. There is a one-week bye time between sampling intervals. The one-week interval between sampling is done to allow a measurable increase in growth. We index growth between sampling periods by dividing the difference in mean length between sampling periods by the number of days between sampling periods. We use mean daily water temperatures near our sampling sites (USBR 2011) to calculate accumulated thermal units through the incubation and early rearing period(Johnson et. al. 2012).",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/3374",
+  "title": "Spring Chinook Fry Growth and Distribution",
+  "id": 3374,
+  "assumptions": "<p>Chinook generally move or are displaced to downstream rearing areas following emergence. (Healey 1991; Quinn 2005)?</p>\r\n\r\n<p>Specific timing and movement patterns of spring Chinook annually are unknown in the basin.&nbsp;&nbsp;Fry are often found in areas of low spawner density, suggesting considerable downstream movement during this life stage. Therefore, detectable differences in growth among sampling reaches may be partially attributable to size selective movement within the sampling period and should be considered as a potential variable when interpreting results. (Fast et al. 1991, Johnson et al. 2010, 2011)<br />\r\n&nbsp;<br />\r\n&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/115",
+    "http://www.monitoringresources.org/api/v1/methods/116",
+    "http://www.monitoringresources.org/api/v1/methods/174",
+    "http://www.monitoringresources.org/api/v1/methods/746",
+    "http://www.monitoringresources.org/api/v1/methods/1464",
+    "http://www.monitoringresources.org/api/v1/methods/1686",
+    "http://www.monitoringresources.org/api/v1/methods/4040",
+    "http://www.monitoringresources.org/api/v1/methods/4041",
+    "http://www.monitoringresources.org/api/v1/methods/5285",
+    "http://www.monitoringresources.org/api/v1/methods/5543",
+    "http://www.monitoringresources.org/api/v1/methods/6633"
+  ],
+  "objectives": [
+    "Annually access the growth and distribution of Spring Chinook fry across reach specific productivity. \r\n"
+  ],
+  "ownerName": "Nick Mankus",
+  "ownerEmail": "nicholas.mankus@dfw.wa.gov",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40"
+}

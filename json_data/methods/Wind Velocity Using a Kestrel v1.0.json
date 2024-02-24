@@ -1,0 +1,9 @@
+{
+  "abstractText": "Wind velocitymay reduce visibility, affecting the number of a given species that is seen. Wind velocitymay cause ripples in the water and disturb the sediment which would inhibit visual counts of adults as well asegg masses.Wind may also hinder the ability to hear certain species, for example, unless theobserver is downwind, as the wind can carry the sound of calling frogs (Kendell2002).A hand held KestrelWeather Meter can be used to measure wind velocity as well as other weather related variables. Max Wind Gust Average Wind Speed Air/Water/Snow Temperature Wind Chill Relative Humidity Heat Stress Index Dewpoint Temperature",
+  "url": "http://www.monitoringresources.org/api/v1/methods/5307",
+  "title": "Wind Velocity Using a Kestrel v1.0",
+  "id": 5307,
+  "type": "Data Collection",
+  "ownerName": "Blair McClarin",
+  "ownerEmail": "blairm@nezperce.org"
+}

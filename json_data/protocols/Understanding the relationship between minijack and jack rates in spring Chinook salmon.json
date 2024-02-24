@@ -1,0 +1,21 @@
+{
+  "background": "Test the Hypothesis: Spring Chinook salmon stocks that possess an increased propensity for minijack maturation will also possess an increased propensity for jack maturationThis investigation will involve rearing a stock of fish withhigh propensity for minijack maturationand a stock of fish withlow propensity for minijack maturationhatchery spring Chinook salmonunder a high and low growth regime and evaluate minijack and jack maturation rates. This study will also evaluate growth profiles that increase and decrease the propensity for early male maturation (minijack and jack) in stocks with variable genetic thresholds for expressing these life histories in order to develop hatchery rearing regimes for BPA and other sponsored hatchery programs.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/3417",
+  "title": "Understanding the relationship between minijack and jack rates in spring Chinook salmon",
+  "id": 3417,
+  "assumptions": "<p>The key assumption of this protocol is that the 11-KT ELISA and genetic sex marker protocol is conducted according to standard published biochemical techniques.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/371",
+    "http://www.monitoringresources.org/api/v1/methods/746",
+    "http://www.monitoringresources.org/api/v1/methods/1340",
+    "http://www.monitoringresources.org/api/v1/methods/3814",
+    "http://www.monitoringresources.org/api/v1/methods/4041",
+    "http://www.monitoringresources.org/api/v1/methods/6583"
+  ],
+  "objectives": [
+    "Assess minijack and jack rates of high and low growth rearing groups of hatchery spring Chinook salmon\r\n"
+  ],
+  "ownerName": "Donald Larsen",
+  "ownerEmail": "don.larsen@noaa.gov",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40"
+}

@@ -1,0 +1,20 @@
+{
+  "background": "Egg-to-fry survival is one of the major factors thought to limit freshwater production and recovery of Chinook salmonOncorhynchus tshawytschaand other salmon populations (Reiser and White 1988; Peterson and Quinn 1996; DeVries 1997). Despite being critical data that is needed to assist with efforts to recover threatened and endangered salmonid populations, adequate estimates of egg-to-fry survival for Chinook salmon do not currently exist (Healey 1991; Bradford 1995).This lack of information is likely due to the difficulty in measuring Chinook salmon and other salmonid egg-to-fry survival in the field because they deposit their eggs in the gravel during periods that make extensive field research difficult (Quinn 2005). This is particularly true for Chinook salmon, which spawn in large rivers with deeper and swifter water than most other salmon, and for which developing embryos remain in the gravel throughout the winter and early spring when it is difficult to sample (Quinn 2005). Therefore, many of the existing studies of Chinook salmon egg-to-fry survival have occurred in a laboratory setting (Jensen et al. 2009) and may not adequately represent egg-to-fry survival in the natural environment. This work provides estimates of survival and development, and an assessment of factor potentially affecting either metric, over large temporal and spatial scales, in the natural environment. See Johnson et al (2012) for a complete explanation of the methodology associated with this protocol",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/3487",
+  "title": "Estimating Summer Chinook Egg-to-Fry Survival in the Okanogan Basin",
+  "id": 3487,
+  "assumptions": "<p>1) Selected study locations are spatially and temporally representative of the population</p>\r\n\r\n<p>2) Environmental conditions within buried Whitlock-Vibert egg boxes are&nbsp;representative of conditions in the surrounding environment (see Wesche et al. 1989; Garrett and Bennett 1996).</p>\r\n\r\n<p>3) Environmental conditions experienced among study years sufficiently represent&nbsp;inter-annual variation within the target watershed.</p>\r\n\r\n<p>4) A simple thermal sums model is sufficient to calculate duration of deployment such that developmental stage at recovery is similar among study areas; which may differ substantially in the rate and magnitude of temperature unit delivery to the egg pocket.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/1115",
+    "http://www.monitoringresources.org/api/v1/methods/4042",
+    "http://www.monitoringresources.org/api/v1/methods/4043"
+  ],
+  "objectives": [
+    "Investigate the extent to which environmental factors such as scour, redd superimposition, fines sediment infiltration, and temperature may influence survival and development spatially and temporally.",
+    "Estimate relative developmental stage at recovery among and within primary spawning locations of the target watershed, within and among years, while controlling for parental effects.",
+    "Estimate relative summer Chinook egg-to-fry survival among and within primary spawning locations of the target watershed, within and among years, while controlling for parental effects."
+  ],
+  "ownerName": "Andrea Pearl",
+  "ownerEmail": "andrea.pearl@colvilletribes.com",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/61"
+}

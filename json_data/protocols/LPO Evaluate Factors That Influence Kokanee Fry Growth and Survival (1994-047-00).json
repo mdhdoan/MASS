@@ -1,0 +1,19 @@
+{
+  "background": "Our goal isto more clearly understandfactors that influence kokanee survival at early life-stages in Lake Pend Oreille (LPO). Specifically, we will focus on diet and growth of kokanee fry, both of hatchery and wild origin. We have not solidified the exact study design, but the methods will be similar to Clarke and Bennett (2002). We will compare the results of this work to the results of another study aimed at evaluating the spatial and temporal distribution and density of mysids and zooplankton.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/618",
+  "title": "LPO Evaluate Factors That Influence Kokanee Fry Growth and Survival (1994-047-00)",
+  "id": 618,
+  "assumptions": "<p>We can effectively preserve stomachs contents from age 0 kokanee. &nbsp;Also, the food items identified in kokanee stomachs are representative of what kokanee actually eat and we are able to evaluate how kokanee diet changes temporally and seasonally. &nbsp;</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/1084",
+    "http://www.monitoringresources.org/api/v1/methods/1455",
+    "http://www.monitoringresources.org/api/v1/methods/1618",
+    "http://www.monitoringresources.org/api/v1/methods/1619"
+  ],
+  "objectives": [
+    "Evaluate kokanee fry growth throughout the growing season."
+  ],
+  "ownerName": "Pete Rust",
+  "ownerEmail": "Pete.Rust@idfg.idaho.gov",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/65"
+}

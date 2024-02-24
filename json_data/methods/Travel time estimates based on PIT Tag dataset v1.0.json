@@ -1,0 +1,9 @@
+{
+  "abstractText": "The mean travel times are calculated for a population of PIT-tagged fish as defined by the query using data uploaded to DART from PTAGIS. Both arithmetic and harmonic mean travel times estimates are offered.When dealing with travel times, the primary interest is the speed with which fish travel from point A to point B. A good statistic for describing a particular group's speed is the harmonic mean. A harmonic mean is used when working with rates of speed, usually the number of days to travel a set distance. A benefit to using the harmonic mean is that it is more robust in the presence of outliers (i.e., a very fast or slow fish).",
+  "url": "http://www.monitoringresources.org/api/v1/methods/721",
+  "title": "Travel time estimates based on PIT Tag dataset v1.0",
+  "id": 721,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Susannah Iltis",
+  "ownerEmail": "siltis@uw.edu"
+}

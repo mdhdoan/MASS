@@ -1,0 +1,9 @@
+{
+  "abstractText": "This method is used to collect cyanotoxin data from water bodies. The SPATT sampler described will measure what types of toxins are present and their relative quantities over the deployment period. It does not provide the absolute toxin concentrate in micrograms/L as would a grab water sample.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/7181",
+  "title": "Collect cyanotoxins from reservoir water v1.0",
+  "id": 7181,
+  "type": "Data Collection",
+  "ownerName": "Kenneth Tiffan",
+  "ownerEmail": "ktiffan@usgs.gov"
+}

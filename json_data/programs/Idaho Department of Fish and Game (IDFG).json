@@ -1,0 +1,150 @@
+{
+  "url": "http://www.monitoringresources.org/api/v1/programs/65",
+  "title": "Idaho Department of Fish and Game (IDFG)",
+  "id": 65,
+  "primaryContactName": "Lance  Hebdon",
+  "primaryContactEmail": "lance.hebdon@idfg.idaho.gov",
+  "organizations": [],
+  "protocols": [
+    {
+      "id": 236,
+      "status": "Expired",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/236",
+      "title": "Chinook Salmon Captive Rearing Evaluation",
+      "lastUpdated": "2017-04-08T01:04:14-07:00"
+    },
+    {
+      "id": 577,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/577",
+      "title": "LPO Lake Trout Removal (1994-047-00)",
+      "lastUpdated": "2017-04-21T22:31:34-07:00"
+    },
+    {
+      "id": 581,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/581",
+      "title": "LPO Identify Lake Trout Distribution Patterns and Use to Guide Removal (1994-047-00)",
+      "lastUpdated": "2017-04-21T01:36:50-07:00"
+    },
+    {
+      "id": 584,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/584",
+      "title": "LPO Evaluate the Influence of Incidental Netting Bycatch on Bull Trout (1994-047-00)",
+      "lastUpdated": "2017-04-22T00:32:35-07:00"
+    },
+    {
+      "id": 588,
+      "status": "Expired",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/588",
+      "title": "LPO Coordinate and Collect Data to Set Winter Lake Level (1994-047-00)",
+      "lastUpdated": "2017-04-22T01:24:35-07:00"
+    },
+    {
+      "id": 589,
+      "status": "Expired",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/589",
+      "title": "LPO Evaluate Effects of Winter Lake Level Manipulations Egg-to-Fry Survival (1994-047-00)",
+      "lastUpdated": "2017-04-22T01:30:35-07:00"
+    },
+    {
+      "id": 603,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/603",
+      "title": "LPO Kokanee Egg Incubation Study (1994-047-00)",
+      "lastUpdated": "2020-01-16T08:36:02-08:00"
+    },
+    {
+      "id": 617,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/617",
+      "title": "LPO Improve Kokanee Sampling Techniques (1994-047-00)",
+      "lastUpdated": "2017-04-21T01:38:07-07:00"
+    },
+    {
+      "id": 618,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/618",
+      "title": "LPO Evaluate Factors That Influence Kokanee Fry Growth and Survival (1994-047-00)",
+      "lastUpdated": "2017-04-26T10:20:53-07:00"
+    },
+    {
+      "id": 629,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/629",
+      "title": "LPO Evaluate the Distributions of Mysids and Zooplankton (1994-047-00)",
+      "lastUpdated": "2017-04-25T03:37:46-07:00"
+    },
+    {
+      "id": 735,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/735",
+      "title": "Historical lake productivity assessment",
+      "lastUpdated": "2017-04-23T01:49:24-07:00"
+    },
+    {
+      "id": 1905,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/1905",
+      "title": "Estimating abundance, density, and biomass within Sawtooth Basin lakes associated with the Snake River sockeye salmon captive broodstock program",
+      "lastUpdated": "2020-07-11T01:31:40-07:00"
+    },
+    {
+      "id": 1907,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/1907",
+      "title": "Redfish Lake sport fishery investigations and predator surveys in nursery lake tributaries",
+      "lastUpdated": "2020-07-17T00:56:44-07:00"
+    },
+    {
+      "id": 1910,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/1910",
+      "title": "Snake River sockeye salmon juvenile outmigration monitoring and evaluation",
+      "lastUpdated": "2020-07-17T23:52:25-07:00"
+    },
+    {
+      "id": 1913,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/1913",
+      "title": "Captive reared and anadromous adult Snake River sockeye salmon monitoring and evaluation",
+      "lastUpdated": "2020-07-17T01:26:40-07:00"
+    },
+    {
+      "id": 2017,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2017",
+      "title": "LPO Kokanee Spawner Status Assessment",
+      "lastUpdated": "2017-04-22T01:34:09-07:00"
+    },
+    {
+      "id": 3310,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3310",
+      "title": "LPO Evaluate Walleye population dynamics",
+      "lastUpdated": "2020-01-30T01:24:21-08:00"
+    },
+    {
+      "id": 3530,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3530",
+      "title": "LPO Using acoustic telemetry to determine fish movements and habitat use and to guide suppression efforts",
+      "lastUpdated": "2020-02-01T05:36:20-08:00"
+    },
+    {
+      "id": 3535,
+      "status": "Revising",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3535",
+      "title": "LPO Evaluate the Influence of Incidental Netting Bycatch on Bull Trout (1994-047-00)",
+      "lastUpdated": "2020-01-29T08:48:31-08:00"
+    },
+    {
+      "id": 3557,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3557",
+      "title": "Genetic assignment methods for Snake River sockeye salmon",
+      "lastUpdated": "2020-07-17T00:54:25-07:00"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "background": "White Sturgeon (Acipenser transmontanus) have seen a worldwide decline in the previous century due to habitat loss, population fragmentation and changing environmental conditions.The sturgeonpopulation locatedin the Roosevelt Reach of the Columbia River in Washington State was isolated from other Columbia River populationsfollowing the construction of Grand Coulee, Hugh Keenleyside and Waneta Dams during the20th century. This population is listed as Critically Endangered by the IUCN and endangered under the Canadian Species at Risk Act.In the 1990s recruitment failure was documented in this population (Hildebrand et al. 1999; DeVore et al. 2000)and recreational fishing was prohibited. Conservation measures were undertaken throughcoordination between multiple US and Canadian agencies throughout the 2000s and 2010s, including an conservation aquaculture program. This program provided hatchery juvenile sturgeon through the capture of wild broodstock adults, which were then artificially spawned out. The numbers produced from broodstock were sufficient for hatchery aquaculture, but the survival rate of these releases weremuch higher than anticipated. This led to a potiental genetic overrepresentation issue.Beginning in 2017 a fishery for White Sturgeon was began on the US portion of the transboundary reach due to concerns that theoverrepresented families from the conservation aquaculture program releasescould swamp the genetic diversity of the population when they reached sexual maturity.This fishery was reopened again in 2018, 2019 and isplannedto be reopened annually in coming years. In response to this fishery a White Sturgeon specific creel was designed and implemented in 2019 in orderto gain an accurateharvest/effort rate of the population.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/3498",
+  "title": "Lake Roosevelt White Sturgeon - Creel Survey",
+  "id": 3498,
+  "assumptions": null,
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/342",
+    "http://www.monitoringresources.org/api/v1/methods/1480",
+    "http://www.monitoringresources.org/api/v1/methods/3940",
+    "http://www.monitoringresources.org/api/v1/methods/4041",
+    "http://www.monitoringresources.org/api/v1/methods/5352"
+  ],
+  "objectives": [
+    "To accurately estimate White Sturgeon harvest, angler effort, catch rate and success during the annual Washington State sturgeon fishery on Lake Roosevelt"
+  ],
+  "ownerName": "Joseph Cronrath",
+  "ownerEmail": "joseph.cronrath@spokanetribe.com",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/26"
+}

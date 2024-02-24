@@ -1,0 +1,9 @@
+{
+  "abstractText": "In monitoring the composition of hatchery-origin spawners in the Okanogan River Basin for a given brood year, it is important to monitor the contribution of hatchery-origin spawnersreared in the non-target basin. Relying on data stored in the RMIS database, this method estimates the in-to-basin stray rate of hatchery-origin fish.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/5540",
+  "title": "Calculating the Rate of Okanogan River In-to-Basin Summer/Fall Hatchery-origin Stray Chinook v1.0",
+  "id": 5540,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "John Rohrback",
+  "ownerEmail": "john.rohrback@colvilletribes.com"
+}

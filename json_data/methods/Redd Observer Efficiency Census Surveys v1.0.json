@@ -1,0 +1,9 @@
+{
+  "abstractText": "Redd counts are an important tool used to monitor salmonid populations. A key assumption of redd counts is that they are representative of the actual number of redds. However, numerous factors can potentially affect the detectability of redds and leads to errors in redd counts. Error associated with redd counts can result from the timing of counts (i.e., surveys not representative of spawn timing), redd characteristics (e.g., redd size, redd age, and/or substrate composition), spawning habitat characteristics (e.g., stream size, water depth and clarity, and distance to cover), spawner densities (e.g., large number of redds and/or superimposition), and/or surveyor experience. Erroneous counts may obscure important trends and potentially compromise the management and conservation of a species, therefore utilizing redd counts for monitoring abundance of salmonid species needs to be critically examined. The purpose of this method is to describe procedures utilized to determine best estimates of total redd counts in order to examine observer (naive) efficiency in redd detection.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/4148",
+  "title": "Redd Observer Efficiency: Census Surveys v1.0",
+  "id": 4148,
+  "type": "Data Collection",
+  "ownerName": "Mike Hughes",
+  "ownerEmail": "michael.hughes@dfw.wa.gov"
+}

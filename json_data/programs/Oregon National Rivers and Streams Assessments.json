@@ -1,0 +1,24 @@
+{
+  "url": "http://www.monitoringresources.org/api/v1/programs/56",
+  "title": "Oregon National Rivers and Streams Assessments",
+  "id": 56,
+  "primaryContactName": "Keith Steele",
+  "primaryContactEmail": "keith@sitkatech.com",
+  "organizations": [],
+  "protocols": [
+    {
+      "id": 1968,
+      "status": "Revising",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/1968",
+      "title": "ODEQ- Wadeable Streams Assessment Field Operations Manual",
+      "lastUpdated": "2020-01-23T04:35:06-08:00"
+    },
+    {
+      "id": 2217,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2217",
+      "title": "WDFW- Wadeable Streams Assessment Field Operations Manual",
+      "lastUpdated": "2017-08-23T01:16:57-07:00"
+    }
+  ]
+}

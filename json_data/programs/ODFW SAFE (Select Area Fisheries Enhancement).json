@@ -1,0 +1,61 @@
+{
+  "url": "http://www.monitoringresources.org/api/v1/programs/59",
+  "title": "ODFW SAFE (Select Area Fisheries Enhancement)",
+  "id": 59,
+  "primaryContactName": "",
+  "primaryContactEmail": "",
+  "organizations": [
+    "Oregon Department of Fish and Wildlife"
+  ],
+  "protocols": [
+    {
+      "id": 319,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/319",
+      "title": "Select Area Fisheries Enhancement (1993-060-00)",
+      "lastUpdated": "2020-11-16T21:44:02-08:00"
+    },
+    {
+      "id": 2039,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2039",
+      "title": "Sampling Adult Salmonids Returning to SAFE Hatcheries",
+      "lastUpdated": "2020-09-16T06:13:20-07:00"
+    },
+    {
+      "id": 2041,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2041",
+      "title": "Run Reconstruction and Fishery Contribution Analysis for the Select Area Fishery Enhancement (SAFE) Program",
+      "lastUpdated": "2020-11-16T22:13:09-08:00"
+    },
+    {
+      "id": 3577,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3577",
+      "title": "Fisheries Sampling for the Select Area Fisheries Enhancement (SAFE) Program",
+      "lastUpdated": "2021-04-06T23:17:08-07:00"
+    },
+    {
+      "id": 3712,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3712",
+      "title": "Visual Stock Identification for Harvested Salmon",
+      "lastUpdated": "2023-01-26T04:46:57-08:00"
+    },
+    {
+      "id": 3714,
+      "status": "Revising",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3714",
+      "title": "Fisheries Sampling for the Select Area Fisheries Enhancement (SAFE) Program",
+      "lastUpdated": "2023-01-28T02:37:05-08:00"
+    },
+    {
+      "id": 3735,
+      "status": "Revising",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3735",
+      "title": "Sampling Adult Salmonids Returning to SAFE Hatcheries",
+      "lastUpdated": "2023-07-20T19:33:41-07:00"
+    }
+  ]
+}

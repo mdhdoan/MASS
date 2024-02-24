@@ -1,0 +1,26 @@
+{
+  "url": "http://www.monitoringresources.org/api/v1/programs/57",
+  "title": "CTUIR Grande Ronde Basin Supplementation O&M",
+  "id": 57,
+  "primaryContactName": "Mike McLean",
+  "primaryContactEmail": "MikeMcLean@ctuir.org",
+  "organizations": [
+    "Confederated Tribes of the Umatilla Indian Reservation"
+  ],
+  "protocols": [
+    {
+      "id": 1991,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/1991",
+      "title": "Catherine Creek adult spring Chinook broodstock trapping",
+      "lastUpdated": "2017-08-30T05:51:50-07:00"
+    },
+    {
+      "id": 3344,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3344",
+      "title": "Adult broodstock capture and juvenile acclimation",
+      "lastUpdated": "2017-08-30T06:32:40-07:00"
+    }
+  ]
+}

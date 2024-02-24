@@ -1,0 +1,25 @@
+{
+  "background": "NOAA specifically recommends that to demonstrate ESU/DPS viability a long-term strategy for monitoring genetic diversity be implemented that involves the development of a SNP baseline for each population within each MPG and ESU/DPS (Recommendation 16; Crawford and Rumsey 2011).  These SNP baselines will also provide the known origin, reference population data necessary for Genetic Stock Identification (GSI). Snake River steelhead and Chinook salmon SNP baselines will be refined and maintained through annual population sampling and genotyping. Ultimately, annual sampling plans will be based on resolution of initial baselines and managers specific needs.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/230",
+  "title": "Snake River GSI baseline (2010-026-00)",
+  "id": 230,
+  "assumptions": "Wild populations can be sampled representatively and sufficiently to accurately estimate allele frequencies of &quot;stocks&quot;.\r\nTemporal changes in allele frequency can be accurately measured.  \r\nGenetic differentiation among stocks is sufficient for GSI analyses.",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/1332",
+    "http://www.monitoringresources.org/api/v1/methods/1339",
+    "http://www.monitoringresources.org/api/v1/methods/1340",
+    "http://www.monitoringresources.org/api/v1/methods/1342",
+    "http://www.monitoringresources.org/api/v1/methods/1345",
+    "http://www.monitoringresources.org/api/v1/methods/1346",
+    "http://www.monitoringresources.org/api/v1/methods/1347",
+    "http://www.monitoringresources.org/api/v1/methods/1350",
+    "http://www.monitoringresources.org/api/v1/methods/1351",
+    "http://www.monitoringresources.org/api/v1/methods/1352"
+  ],
+  "objectives": [
+    "Describe how data are to be collected, managed, analyzed, and reported for the project that maintains annual GSI baselines for Snake River steelhead and Chinook salmon stocks."
+  ],
+  "ownerName": "Matthew Campbell",
+  "ownerEmail": "matthew.campbell@idfg.idaho.gov",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/25"
+}

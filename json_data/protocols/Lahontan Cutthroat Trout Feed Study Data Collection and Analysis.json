@@ -1,0 +1,20 @@
+{
+  "background": "Survival of fish stocked into waters depends on factors such as fish species, water quality, and acclimation to the stocking environment. Lahontan Cutthroat TroutOncorhynchus clarkii henshawihave evolved to inhabit lakes with higher pH and total dissolved solids levels compared to other salmonid species. Omak Lake, on the Colville Reservation, is a popular fishery for Lahontan Cutthroat Trout. As natural reproduction does not occur in the lake, fish must be stocked annually in order to maintain the fishery. A pilot study on Omak Lake showed very low survival (1%) of stocked Lahontan Cutthroat Trout. In order to improve post-stocking survival, a saltwater transition feed for hatchery reared fish has been suggested. The following protocol describes an experiment to test the effects of a saltwater transition feed diet on post-stocking survival of juvenile Lahontan Cutthroat Trout.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/3315",
+  "title": "Lahontan Cutthroat Trout Feed Study Data Collection and Analysis",
+  "id": 3315,
+  "assumptions": "<p>No fish escape or enter the net pens over the duration of the study.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/1551",
+    "http://www.monitoringresources.org/api/v1/methods/1734",
+    "http://www.monitoringresources.org/api/v1/methods/4042",
+    "http://www.monitoringresources.org/api/v1/methods/6614"
+  ],
+  "objectives": [
+    "Identify the transition feed treatment period with maximum post-stocking survival.",
+    "Assess post-stocking daily survival rate for different transition feed treatment periods."
+  ],
+  "ownerName": "Bryan Jones",
+  "ownerEmail": "bryan.jones@colvilletribes.com",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/21"
+}

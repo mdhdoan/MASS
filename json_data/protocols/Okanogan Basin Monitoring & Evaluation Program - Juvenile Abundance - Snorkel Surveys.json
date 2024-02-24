@@ -1,0 +1,17 @@
+{
+  "background": "The intent of OBMEP's juvenile abundance protocol is to estimate the abundance, species, and density of fish observed at sites located within the Okanogan River Basin. Juvenile salmonid data is gathered using snorkel surveys, mark-recapture electrofishing, and PIT tag data and rotary screw trap data. See Protocol #194 - OBMEP - Juvenile Abundance - Mark-Recapture for more details regarding how juvenile abundance estimates are derived.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/7",
+  "title": "Okanogan Basin Monitoring & Evaluation Program - Juvenile Abundance - Snorkel Surveys",
+  "id": 7,
+  "assumptions": "<p>Fish can be identified correctly. Observed numbers of fish accurately represents total population within the site.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/136",
+    "http://www.monitoringresources.org/api/v1/methods/1425"
+  ],
+  "objectives": [
+    "To determine the status and trend of juvenile salmonid abundance in the Okanogan River Basin."
+  ],
+  "ownerName": "John Arterburn",
+  "ownerEmail": "john.arterburn@colvilletribes.com",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/4"
+}

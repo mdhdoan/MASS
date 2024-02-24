@@ -1,0 +1,9 @@
+{
+  "abstractText": "This method explains how to measure wetted and bankfull depths at each of 11 equidistant transects at each site. Measurements in this procedure will be restricted to one main channel. (Reach should be set up according to method ID 3828 or something similarl)",
+  "url": "http://www.monitoringresources.org/api/v1/methods/3841",
+  "title": "Depth Measurements - Wetted and Bankfull Depth - for Wadable Streams v1.0",
+  "id": 3841,
+  "type": "Data Collection",
+  "ownerName": "Glenn Merritt",
+  "ownerEmail": "glenn.merritt@ecy.wa.gov"
+}

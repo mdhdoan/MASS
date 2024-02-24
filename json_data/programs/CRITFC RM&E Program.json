@@ -1,0 +1,103 @@
+{
+  "url": "http://www.monitoringresources.org/api/v1/programs/51",
+  "title": "CRITFC RM&E Program",
+  "id": 51,
+  "primaryContactName": "Phil Roger",
+  "primaryContactEmail": "rogp@critfc.org",
+  "organizations": [
+    "Columbia River Inter-Tribal Fish Commission"
+  ],
+  "protocols": [
+    {
+      "id": 132,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/132",
+      "title": "Factors limiting production of Okanagan and Wenatchee sockeye stocks (2008-503-00)",
+      "lastUpdated": "2020-03-18T00:40:38-07:00"
+    },
+    {
+      "id": 1846,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/1846",
+      "title": "Kelt Steelhead Reproductive Success",
+      "lastUpdated": "2012-12-06T22:09:40-08:00"
+    },
+    {
+      "id": 1849,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/1849",
+      "title": "Kelt Steelhead Physiology Studies",
+      "lastUpdated": "2012-12-06T23:45:13-08:00"
+    },
+    {
+      "id": 2051,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2051",
+      "title": "Kelt Steelhead Reconditioning and Reproductive Success Evaluation",
+      "lastUpdated": "2020-02-08T07:54:24-08:00"
+    },
+    {
+      "id": 2195,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2195",
+      "title": "Use of a multifunctional SNPs panel for genetic monitoring of Pacific Lamprey research and restoration programs OLD",
+      "lastUpdated": "2022-04-07T01:47:56-07:00"
+    },
+    {
+      "id": 3563,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3563",
+      "title": "Aerial Survey to count commercial set nets",
+      "lastUpdated": "2020-07-16T05:12:47-07:00"
+    },
+    {
+      "id": 3568,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3568",
+      "title": "Sea lion removal program",
+      "lastUpdated": "2020-08-19T22:40:23-07:00"
+    },
+    {
+      "id": 3593,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3593",
+      "title": "Use of a multifunctional single nucleotide polymorphism (SNPs) panel for genetic monitoring of Pacific Lamprey research and restoration programs",
+      "lastUpdated": "2022-10-21T02:41:53-07:00"
+    },
+    {
+      "id": 3605,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3605",
+      "title": "Environmental DNA (eDNA) monitoring for Pacific Lamprey in the Columbia River Basin",
+      "lastUpdated": "2021-10-13T01:32:21-07:00"
+    },
+    {
+      "id": 3641,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3641",
+      "title": "Factors Limiting The Carrying Capacity of Lake Wenatchee Juvenile Salmon",
+      "lastUpdated": "2021-07-20T05:42:59-07:00"
+    },
+    {
+      "id": 3678,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3678",
+      "title": "Counting commerical gillnets using high resolution aerial photography",
+      "lastUpdated": "2022-03-26T03:07:58-07:00"
+    },
+    {
+      "id": 3710,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3710",
+      "title": "Monitor and Evaluate the Genetic Diversity of Supplemented Chinook Salmon",
+      "lastUpdated": "2023-01-22T07:35:08-08:00"
+    },
+    {
+      "id": 3718,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3718",
+      "title": "Aerial Survey to count commercial set nets Copy",
+      "lastUpdated": "2023-02-15T05:36:57-08:00"
+    }
+  ]
+}

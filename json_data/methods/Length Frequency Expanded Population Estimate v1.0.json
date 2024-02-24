@@ -1,0 +1,9 @@
+{
+  "abstractText": "Having an estimate of fish population abundance is a basic piece of knowledge necessary for describing or understanding changes fish populations, and for fisheries management (Everhart and Youngs 1981). At times, direct observation and enumeration may be available when a fish population is concentrated at some particular life stage, however, indirect methods are often required when direct observations are not available or practical (Everhart and Youngs 1981). The overall abundance (N) of a population can be determined by apportioning a known abundance, e.g., a certain size range of fish by the overall length frequency of a sampled population(Beamesderferet al. 1995).",
+  "url": "http://www.monitoringresources.org/api/v1/methods/4175",
+  "title": "Length Frequency Expanded Population Estimate v1.0",
+  "id": 4175,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Tucker Jones",
+  "ownerEmail": "tucker.a.jones@state.or.us"
+}

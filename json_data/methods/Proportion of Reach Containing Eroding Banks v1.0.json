@@ -1,0 +1,9 @@
+{
+  "abstractText": "Bank erosion is a measure of the proportion of the reach containing actively eroding stream banks. At each transect (measuredfollowing Method ID: 1579 or 4073) we measure the lineal extent (Method ID:4100)of erosion in meters along the left and right banks.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/4102",
+  "title": "Proportion of Reach Containing Eroding Banks v1.0",
+  "id": 4102,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Colin Riordan",
+  "ownerEmail": "colin@naturaldes.com"
+}

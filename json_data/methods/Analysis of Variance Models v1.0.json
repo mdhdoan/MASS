@@ -1,0 +1,9 @@
+{
+  "abstractText": "An analysis of variance (ANOVA) model is a parametric statistical test that allows one to make inferences about the means of different populations (whether it be fish, macroinvertebrates, etc.) (Ott and Longnecker 2004).ANOVAmodels can take on many different forms, depending on the experimental design. In addition, ANOVA models (and variants of) require the user to specify alpha level and whether the variables are fixed or random effects. There are many options available for customizing an ANOVA model to meet the needs of an analysis plan. Lastly, the user of any ANOVA model should be aware of and adhere to the assumptions associated with its use (Ott and Longnecker 2004). The traditional form of an ANOVA model can be found, below:Yij=u + ai+ Eij,where:Yij= the response variable (e.g., CPUE),u = the intercept,ai= the main effect (covariate) (e.g., river site or reach), andEij= the model error",
+  "url": "http://www.monitoringresources.org/api/v1/methods/4042",
+  "title": "Analysis of Variance Models v1.0",
+  "id": 4042,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "T.J. Ross",
+  "ownerEmail": "tj.ross@idfg.idaho.gov"
+}

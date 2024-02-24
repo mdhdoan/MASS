@@ -1,0 +1,33 @@
+{
+  "url": "http://www.monitoringresources.org/api/v1/programs/74",
+  "title": "Spatial Stream Networks Fish Data Analysis Tool (SSN - FDAT)",
+  "id": 74,
+  "primaryContactName": "Jay Ver Hoef",
+  "primaryContactEmail": "jay.verhoef@noaa.gov",
+  "organizations": [
+    "U.S. Forest Service"
+  ],
+  "protocols": [
+    {
+      "id": 3336,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3336",
+      "title": "Spatial Stream Networks for Anadromous Fish Abundance and Distribution",
+      "lastUpdated": "2018-10-26T22:13:41-07:00"
+    },
+    {
+      "id": 3449,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3449",
+      "title": "Spatial Stream Networks for Anadromous Fish Abundance and Distribution Version 2",
+      "lastUpdated": "2018-10-12T05:37:29-07:00"
+    },
+    {
+      "id": 3452,
+      "status": "Revising",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3452",
+      "title": "Spatial Stream Networks for Anadromous Fish Abundance and Distribution",
+      "lastUpdated": "2020-06-10T06:51:22-07:00"
+    }
+  ]
+}

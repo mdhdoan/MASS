@@ -1,0 +1,20 @@
+{
+  "background": "Multiple pass spawning surveys in the Umatilla Basin document the temporal and spatial distribution and abundance of salmon and steelhead redds. Surveyorsalso evaluate salmon carcasses to estimate prespawning mortality by reach. Spawning surveys are not used to estimate total adult returns because fish are counted at a fish ladder in Three Mile Falls Dam near the mouth of the Umatilla River. Spawning survey data assists managers in assessing the success of the natural production goals of theUmatilla Basin Fisheries Restoration Program.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/174",
+  "title": "Spawning Surveys (1990-005-01)",
+  "id": 174,
+  "assumptions": "<p>Assumptions of multiple pass spawning surveys include: 1) reasonably consistent observations within and between surveyors, passes, and years; 2) flagging redds minimizes double counting; 3) surveyors on subsequent passes track previous redds sufficiently to reduce double counting in cases where flagging loss occurs between surveys; 4) spring Chinook census spawning survey reaches bracket all spawning activities&nbsp;in time and space; 5) redds&nbsp;do not occur in reaches where lethal water temperatures persist; 6) the steelhead redd survey sampling universe where GRTS sites are drawn from includes all spawning areas outside of traditional index survey reaches, and 7) the&nbsp;general assumptions of GRTS spatially-balanced, rotating panel sample design are sufficiently met to reliably expand steelhead redd survey data for reaches not surveyed.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/107",
+    "http://www.monitoringresources.org/api/v1/methods/108",
+    "http://www.monitoringresources.org/api/v1/methods/112",
+    "http://www.monitoringresources.org/api/v1/methods/131"
+  ],
+  "objectives": [
+    "Assess salmon and steelhead redd abundance, temporal distribution and spatial structure for long term status and trend monitoring.",
+    "Evaluate the Umatilla Fishereis Restoration Program's effectiveness in restoring natural production of salmon and steelhead."
+  ],
+  "ownerName": "Craig Contor",
+  "ownerEmail": "craigcontor@ctuir.org",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/19"
+}

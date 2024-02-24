@@ -1,0 +1,32 @@
+{
+  "background": "This protocol is in proposed status and is still actively being modified to address comments.This document details the monitoring design, procedures, and quality assurance steps necessary to document and report the effectiveness of Acquisition&nbsp;Projects at the project site scale. This supports the Bonneville Power Administration&rsquo;s (BPA) programmatic approach to project level Action Effectiveness Monitoring (AEM), as documented in Action Effectiveness Monitoring of Tributary Habitat Improvement: A programmatic approach for the BPA Fish and Wildlife Program. This is based on the Washington Salmon Recovery Funding Board (SRFB) protocol, Monitoring Effectiveness of Habitat Protection Projects; (ID: 31) (https://www.monitoringmethods.org/Protocol/Details/31), and the Columbia Habitat Monitoring Program (CHaMP) (ID: 18) (https://www.monitoringresources.org/ Resources/Program/Detail/18); however, variations in the monitoring design and metrics collected required modification of the protocol.There are two scales for assessing the effectiveness of habitat acquisitions - the parcel scale and the watershed scale. Monitoring at the parcel scale determines whether the desirable attributes of the property, in terms of habitat and fish populations, have continued at original levels or improved over time. This is purely a local evaluation and is blind to the overall watershed needs and existing conditions.&nbsp; It only answers the questions:What is the status of the habitat and fish on acquired lands?Is it improving, remaining the same, or declining?The assumption behind this form of effectiveness monitoring is that acquired habitat that remains unchanged or is improving reflects an effective acquisition. If the habitat is declining, the causes may or may not be directly attributable to changes occurring on the sampled land parcel. For example, there could be activities occurring upstream that affect instream morphology or stream bank structure within the acquisition boundaries. The watershed scale is more complex but also more directly answers the questions of interest.&nbsp; However, this document does not address those larger questions, such as:How do acquisitions fit into the overall critical habitat protection needs identified for each watershed?Have acquisitions been effective in addressing watershed habitat protection goals?The assumption behind these questions is that we know what needs to occur in a watershed in terms of restoring habitat, providing refuges, and halting habitat destruction.Furthermore, these questions also assume that the needs have been prioritized and have broad support.This Protocol for Monitoring Effectiveness of Habitat Protection Projectsaddresses only the characteristics of the parcels as separate and independent entities (parcel scale). It does not attempt to answer land protection effectiveness monitoring questions at watershed or regional scale. Questions to be answered:Have the protected properties maintained or improved the riparian habitat benefits for which they were purchased?Have the protected properties maintained or improved the upland habitat benefits for which they were purchased?Has the biological condition of the macroinvertebrate and fish species assemblages improved, declined or stayed the same within the protected properties?",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/1868",
+  "title": "BPA MBACI Monitoring Effectiveness of Habitat Protection Projects",
+  "id": 1868,
+  "assumptions": "<p>Access to survey reach will be provided for a period of at least twelve years following project implementation.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/89",
+    "http://www.monitoringresources.org/api/v1/methods/156",
+    "http://www.monitoringresources.org/api/v1/methods/157",
+    "http://www.monitoringresources.org/api/v1/methods/165",
+    "http://www.monitoringresources.org/api/v1/methods/172",
+    "http://www.monitoringresources.org/api/v1/methods/238",
+    "http://www.monitoringresources.org/api/v1/methods/241",
+    "http://www.monitoringresources.org/api/v1/methods/297",
+    "http://www.monitoringresources.org/api/v1/methods/834",
+    "http://www.monitoringresources.org/api/v1/methods/856",
+    "http://www.monitoringresources.org/api/v1/methods/906",
+    "http://www.monitoringresources.org/api/v1/methods/907",
+    "http://www.monitoringresources.org/api/v1/methods/913",
+    "http://www.monitoringresources.org/api/v1/methods/1584",
+    "http://www.monitoringresources.org/api/v1/methods/1586",
+    "http://www.monitoringresources.org/api/v1/methods/1763"
+  ],
+  "objectives": [
+    "Determine the biological condition of macroinvertebrate and fish species assemblages using a multi-metric index for each randomly selected parcel (Years 1 3, 6, 9, and 12)",
+    "Determine status and trends of instream, riparian, and upland habitat within each randomly selected parcel (Years 1 3, 6, 9, and 12)"
+  ],
+  "ownerName": "Jennifer O'Neal",
+  "ownerEmail": "jen@naturaldes.com",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/58"
+}

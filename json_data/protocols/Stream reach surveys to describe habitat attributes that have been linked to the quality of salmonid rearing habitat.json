@@ -1,0 +1,27 @@
+{
+  "background": "Studies have found certain measurable habitat attributes in stream reaches are linked with the quality of in-stream rearing habitat for salmonids (Bjornn and Reiser 1991; Rosenfeld et al. 2000). Our program chose to monitor four of these in-stream habitat attributes, which include pool metrics (e.g., percent pool, mean residual pool depth), large woody debris (LWD) frequency, percent fines in substrate and pool tail-outs, and mean bankfull width. In addition, our program also chose to monitor percent canopy cover, which can be considered an attribute that describes the condition of riparian habitat. Percent canopy cover was chosen because it provides an indirect measure of the amount of shading over a stream which is a factor contributing to thermal loading in astream reach. Furthermore, the reason that these attributes were chosen is that most of these are responsive to habitat restoration actions that are implemented to improve stream habitat. For example, restorative actions implemented to address sediment delivery from hydrologically-connected roads or to improve the stability of erodible banks should lead to a decrease in the percentage of fine materials deposited in riffle and tail-pool habitats. As another example, LWD additions in stream habitats are often implemented to increase the frequency and percent of pool habitat for salmonids. In addition, measuring canopy cover should be able to address whether riparian re-vegetation efforts are successfully reducingsolar input on the stream. This protocol is intended to be implemented across watersheds of interest to the Coeur d'AleneTribe in which habitat restoration actions are being implemented to improve the quality of in-stream rearing habitat for redband trout and westslopecutthroat trout.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/3281",
+  "title": "Stream reach surveys to describe habitat attributes that have been linked to the quality of salmonid rearing habitat",
+  "id": 3281,
+  "assumptions": "<p>1. The status of habitat attributes in the sampled reach prior to restoration is representative of the condition of the stream habitat throughout the reach that is projected to be restored.</p>\r\n\r\n<p>2. The change in habitat attributes measured in the sampled reach after restoration actions have been implemented is representative of the average change in these same attributes over the entire length of the restored section of stream.</p>\r\n\r\n<p>3. &nbsp;Habitat attributes in control sites in untreated reaches are not unduly affected by other unintended actions that do not influence attributes in treated reaches.</p>\r\n\r\n<p>4. Changes in measured habitat attributes in treated stream reaches can be detected after the treatment has been implemented.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/67",
+    "http://www.monitoringresources.org/api/v1/methods/100",
+    "http://www.monitoringresources.org/api/v1/methods/224",
+    "http://www.monitoringresources.org/api/v1/methods/870",
+    "http://www.monitoringresources.org/api/v1/methods/871",
+    "http://www.monitoringresources.org/api/v1/methods/3811",
+    "http://www.monitoringresources.org/api/v1/methods/3819",
+    "http://www.monitoringresources.org/api/v1/methods/3877",
+    "http://www.monitoringresources.org/api/v1/methods/4153",
+    "http://www.monitoringresources.org/api/v1/methods/4154"
+  ],
+  "objectives": [
+    "Track changes in riparian and in-stream habitat attributes in a representative sample of stream sites after channel restoration activities have been implemented.",
+    "Determine the status of riparian and in-stream habitat attributes in a representative sample of stream sites prior to projected channel restoration activities.",
+    "Collect habitat data at representative proximate control sites to evaluate if changes detected in restored stream reaches are due to the treatments."
+  ],
+  "ownerName": "Jon Firehammer",
+  "ownerEmail": "jfirehammer@cdatribe-nsn.gov",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/70"
+}

@@ -1,0 +1,9 @@
+{
+  "abstractText": "Progeny per parent ratio (P:P) is the number of adult progeny produced per brood. This may be calculated for hatchery or natural members of a population. The P:P ratio is a derived performance measure that may rely on abundance data, redd counts, age composition information, sex ratios, prespawn mortality, and harvest data, depending on the population you are calculating the ratio for. P:P is an important measure of productivity.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/378",
+  "title": "Progeny Per Parent Ratio v1.0",
+  "id": 378,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "PNAMP Support",
+  "ownerEmail": "pnamp.mm@gmail.com"
+}

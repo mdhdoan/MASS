@@ -1,0 +1,26 @@
+{
+  "background": "Fisheries sampling is an important component of the SAFE Program because it provides real-time feedback to fisheries managers, who are charged with maximizing fishing opportunities for SAFE fishers in Select Areas while minimizing ESA-allocated impacts of this fishery. This is particularly important during the winter/spring/summer (WSS) Chinook fishery when the limiting factor for the fishery is impacts to upriver spring Chinook.Successful fishers take their landing to buyers as soon as the fishery is closed, when they have reached their limit, or when the boat can hold no more. SAFE fishing periods can last 4 hours, 12 hours, to several continuous days, depending on risk of harvesting ESA-listed. Buyers report catch by submitting fish tickets to state agencies responsible for fisheries resources. There are buyers in both states, thus fish samplers from both ODFW and WDFWmust coordinate activities and share fish ticket and bio-sampling results. Fish tickets reportlandings by license number, total ofspecies/stock caught, landing date, pounds purchased and price paid to fishers. They typically have a time frame with which to report landings.Sampling is usually performed by state agency personnel. It is conducted at the location where buyers purchase the catch. Fisheries managers determine the sampling rate necessary to provide reliable information, develops the sampling schedule,and send samplers out accordingly. Sampling may include some of the following:length,weight, fin marks, visual stock identification, fish may be wanded for CWT and PIT tags, tissue samples collected for genetic analysis, scale samples for aging, and perhaps others (see attached supplemental information). Fisheries samplers must be well trained on fish identification, sampling skills, andprovidedproper equipment that has been well maintained.Data indicating the proportion of fish stocks caught is applied to landings, either daily, weekly, or some other time frame, and cumulative landings, by stock, are reviewed by managers with particular attention paid to stocks with ESA allocations.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/3577",
+  "title": "Fisheries Sampling for the Select Area Fisheries Enhancement (SAFE) Program",
+  "id": 3577,
+  "assumptions": null,
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/933",
+    "http://www.monitoringresources.org/api/v1/methods/1090",
+    "http://www.monitoringresources.org/api/v1/methods/1734",
+    "http://www.monitoringresources.org/api/v1/methods/4041",
+    "http://www.monitoringresources.org/api/v1/methods/4174",
+    "http://www.monitoringresources.org/api/v1/methods/4220",
+    "http://www.monitoringresources.org/api/v1/methods/4223",
+    "http://www.monitoringresources.org/api/v1/methods/4226",
+    "http://www.monitoringresources.org/api/v1/methods/6894",
+    "http://www.monitoringresources.org/api/v1/methods/6896"
+  ],
+  "objectives": [
+    "Perform in-season monitoring of commercial landings in Select Area fisheries",
+    "Deliver feedback to fisheries managers for review and decision making"
+  ],
+  "ownerName": "Cyndi Baker",
+  "ownerEmail": "cynthia.f.baker@state.or.us",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/59"
+}

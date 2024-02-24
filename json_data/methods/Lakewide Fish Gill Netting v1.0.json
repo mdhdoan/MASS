@@ -1,0 +1,9 @@
+{
+  "abstractText": "The limnetic gill net survey will provide species verification of targets detected during the mobile hydroacoustic survey, depth distributions, and length frequencies of acoustic targets larger. A lake-wide fall gill netting survey (FWIN) (Morgan 2002) is used to monitor relative abundance of game fishes and apex predators in Banks Lake. ReferenceMethod 991 for more detail. Net catch is used to determine fish species composition, catch-per-unit-effort (CPUE), and collection of biological data for determining age, growth, and condition indices.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/6751",
+  "title": "Lakewide Fish Gill Netting v1.0",
+  "id": 6751,
+  "type": "Data Collection",
+  "ownerName": "Matt Polacek",
+  "ownerEmail": "polacmcp@dfw.wa.gov"
+}

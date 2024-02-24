@@ -1,0 +1,28 @@
+{
+  "background": "The Lake Roosevelt Habitat Improvement Project (LRHIP) was initiated in 1990 to increase the survival of migratory (adfluvial) rainbow troutOncorhynchusmykissand ultimately improve Tribal subsistence and recreational harvest opportunity in streams on the ColvilleConfederated Tribes (CCT) reservation (LeCaireandPeone1991). The goal was to restore healthy andharvestablesalmonidpopulations through rehabilitation of stream habitat and restoration of ecological function in the riparian corridors of streams. Numerous restoration actions were implemented and corresponding rainbow trout status and trend monitoring was conducted.In 2011, as part of the Northwest Power and Conservation Committees Categorical Review process, there was an evaluation of project accomplishments and future direction. While it was obvious that the project made substantial attempts to improve habitat conditions and monitor trends in rainbow trout populations, it is was also apparent that the approach to both aspects was relatively haphazard. Monitoring study design lacked statistical rigor and prioritization of habitat restoration actions was unclear. In response to these shortcomings, we developed a new approach to habitat restoration and protection that focuses on restoring natural stream function and has a clearly defined prioritization strategy.We will use empirical observations of habitat conditions and current fish use from our monitoring efforts and an Ecosystem Diagnosis and Treatment (EDT) model to help us evaluate where the highest priority areas are for habitat restoration and protection. EDT is an analytical model relating habitat features and biological performance to support conservation and recovery planning forsalmonids(Lichatowichet al. 1995;Lestelleet al. 1996;Mobrandet al. 1997;Mobrandet al. 1998). It acts as an analytical framework that brings together information from empirical observation, local experts, and other models and analysis to determine which reaches and habitat attributes are likely to have the most benefit for improving fish performance.Development of the EDT model requires the rating of Level II attributes for the current conditions. We place the highest confidence in Level II attribute ratings that are based on empirical data, the majority of which are collected under this protocol.We selected an established stream habitat inventory methodology that could be readily adapted to EDT Level II attributes and also provided a template to independently assess form and function of surveyed reaches . Data collected following this protocol are used for Level II attribute rating described in Protocol ID: 685 (Sanpoil and Upper Columbia Subbasin Stream Ecosystem Diagnosis and Treatment Modeling).",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/1982",
+  "title": "LRHIP- Sanpoil and Upper Columbia Subbasin Stream Habitat Inventory",
+  "id": 1982,
+  "assumptions": "<p>Data are&nbsp;representative of existing stream habitat.&nbsp;</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/46",
+    "http://www.monitoringresources.org/api/v1/methods/67",
+    "http://www.monitoringresources.org/api/v1/methods/93",
+    "http://www.monitoringresources.org/api/v1/methods/157",
+    "http://www.monitoringresources.org/api/v1/methods/3810",
+    "http://www.monitoringresources.org/api/v1/methods/3862",
+    "http://www.monitoringresources.org/api/v1/methods/3864",
+    "http://www.monitoringresources.org/api/v1/methods/3865",
+    "http://www.monitoringresources.org/api/v1/methods/3866",
+    "http://www.monitoringresources.org/api/v1/methods/3871",
+    "http://www.monitoringresources.org/api/v1/methods/3880",
+    "http://www.monitoringresources.org/api/v1/methods/3881"
+  ],
+  "objectives": [
+    "Inventory stream habitat suitable for adfluvial redband rainbow trout. ",
+    "Identify natural and anthropogenic barriers to all life stages of redband rainbow trout."
+  ],
+  "ownerName": "Ryan Klett",
+  "ownerEmail": "ryan.klett@colvilletribes.com",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/21"
+}

@@ -1,0 +1,9 @@
+{
+  "abstractText": "Historical reach or project scale abundance estimates typically required simplifying assumptions about fish density in sampled versus unsampled areas with some rationale, but lack validation using empirical data (Beamesderfer and Rieman 1991). We propose to take advantage of a new hierarchal Bayesian modeling approach to estimate predator abundance in the Columbia River between Priest Rapids and McNary dams (Korman et al. 2016). Predators in the river the size of the Columbia are not uniformly distributed (Beamesderfer and Rieman 1991). A broad stratification of the study area based on general flow characteristics will greatly help reduce variability and increase the precision of abundance estimates. Observed fish densities from different habitat types (e.g., substrate, depth and velocity) will be used to classify all nearshore habitat, which can be effectively sampled using a boat electro-shocker within each strata. Fish densities and capture probabilities will be estimated using mark-recapture for a random sample of habitat types in each strata. Additional sites may be required to reduce the variability in abundance estimates (Korman et al 2016). If required, additional sites will be sampled using a single pass where the number of fish will be adjusted by the respective capture probability for the habitat class. Fish densities for habitat units not sampled in each stratum will be estimate based on their respective area (i.e., proportion not sampled). A more detailed description of the field methods, model structure and assumptions is provide below.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/6795",
+  "title": "Piscivore Density and Abundance Estimate v1.0",
+  "id": 6795,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Matt Polacek",
+  "ownerEmail": "polacmcp@dfw.wa.gov"
+}

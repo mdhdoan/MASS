@@ -1,0 +1,23 @@
+{
+  "background": "The Columbia RiverRedbandTroutOncorhynchusmykissgairdneriare a subspecies of Rainbow Trout native to the Columbia River drainage east of the Cascade Mountains. Their known distribution extends upstream as far as barrier falls on the Snake, Spokane, Pend Oreille, andKootenairivers (Allendorfet al. 1980;Behnke1992). There is considerable variability in the life history of Columbia RiverRedbandTrout (RedbandTrout) including bothanadromous(O.mykissthat migrate to the ocean) andpotamodromous(O.mykissthat migrate solely within fresh water) forms (Behnke1992). Recently,potamodromousRedbandTrout were estimated to occur in 42% of their historic range with invasive species habitat degradation and fragmentation, and climate change being the primary threats to their long term survival (Muhlfeld2015). Redband Trout are classified as a sensitive species or species of special concern by several states and federal agencies and the American Fisheries Society Endangered Species Committee (Williams et al. 1989;Muhlfeldet al. 2001).The construction of Grand Coulee Dam in 1939 eliminated the opportunity forRedbandTrout in the Upper Columbia River to expressanadromy(Scholzet al. 1985) and likely blocked migration routes and isolated populations and habitats ofpotamodromousRedbandTrout. Lake Roosevelt formed in the impounded portion of the Columbia River behind Grand Coulee Dam and supports important tribal and recreational fisheries.Non-native hatchery Rainbow Trout (McCloudRiver, CaliforniaO.stonei) have been stocked in the upper Columbia River and its tributaries to provide angling opportunities and as mitigation for hydropower related impacts (Stoberet al. 1977;Peoneet al. 1989). Naturally reproducing Rainbow Trout still occur in the upper Columbia River drainage upstream of Grand Coulee Dam.Potamodromy can be divided into four types: fluvial, fluvial-adfluvial, lacustrine-adfluvial, and allacustrine (Varley and Gresswell 1988; Northcote 1997). Lake Roosevelt and its tributaries support fluvial, fluvial-adfluvial, and lacustrine-adfluviallife history types. All three life history types have also been documented within theSanpoilRiver drainage, including a small fall run oflacustrineadfluvialfish (Brown et al. 2013). The Sanpoil is the only documented tributary in Lake Roosevelt supporting fall migrating adultRedbandTrout.MicrosatelliteDNA analysis conducted on wild-born Rainbow Trout in the upper Columbia River drainage indicated that some stocks were pureRedbandTrout (Powell andFaler2002; Taylor 2002; Small and Dean 2006, 2007; Small et al. 2007). Redband Trout persisted in many tributaries with no history of coastal-lineage hatchery Rainbow Trout introductions and where barriers prevented hatchery fish from moving into tributaries (Small et al. 2007).The Redband Trout Stock Assessment Project (RTSAP) was initiated in Lake Roosevelt by the three co-managers in 2010, Washington Department of Fish and Wildlife (WDFW),ColvilleConfederated Tribes (CCT), and the Spokane Tribe of Indians (STI). One of the objectives of RTSAP study is to develop a basin wide genetic stock inventory of the remnant Redband Trout populations in the Lake Roosevelt watershed. This information will be used by regional fisheries managers to assist with habitat restoration plans, conservation needs, and harvest regulation changes.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/3513",
+  "title": "Redband Trout Genetic Study",
+  "id": 3513,
+  "assumptions": "<p>The tissue samples collected for each population are representative of the entire genetic diversity found within the population and not just a small sample representing siblings.</p>\r\n\r\n<p>The 192 SNPs are appropriate for determining Redband&nbsp;Trout population level distinctions.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/303",
+    "http://www.monitoringresources.org/api/v1/methods/487",
+    "http://www.monitoringresources.org/api/v1/methods/1334",
+    "http://www.monitoringresources.org/api/v1/methods/1345",
+    "http://www.monitoringresources.org/api/v1/methods/1351",
+    "http://www.monitoringresources.org/api/v1/methods/1352",
+    "http://www.monitoringresources.org/api/v1/methods/1355",
+    "http://www.monitoringresources.org/api/v1/methods/3817"
+  ],
+  "objectives": [
+    "Determine the genetic status (pure, introgressed, or naturalized non-native) of wild trout populations within the Lake Roosevelt watershed."
+  ],
+  "ownerName": "Holly McLellan",
+  "ownerEmail": "holly.mclellan@colvilletribes.com",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/21"
+}

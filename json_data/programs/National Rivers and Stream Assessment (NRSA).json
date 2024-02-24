@@ -1,0 +1,19 @@
+{
+  "url": "http://www.monitoringresources.org/api/v1/programs/99",
+  "title": "National Rivers and Stream Assessment (NRSA)",
+  "id": 99,
+  "primaryContactName": "",
+  "primaryContactEmail": "",
+  "organizations": [
+    "U.S. Environmental Protection Agency"
+  ],
+  "protocols": [
+    {
+      "id": 3555,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3555",
+      "title": "EPA National Rivers and Streams Assessment",
+      "lastUpdated": "2023-01-27T05:15:52-08:00"
+    }
+  ]
+}

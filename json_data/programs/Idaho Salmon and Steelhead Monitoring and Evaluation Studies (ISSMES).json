@@ -1,0 +1,180 @@
+{
+  "url": "http://www.monitoringresources.org/api/v1/programs/73",
+  "title": "Idaho Salmon and Steelhead Monitoring and Evaluation Studies (ISSMES)",
+  "id": 73,
+  "primaryContactName": "Eric Stark",
+  "primaryContactEmail": "eric.stark@idfg.idaho.gov",
+  "organizations": [
+    "Idaho Department of Fish and Game"
+  ],
+  "protocols": [
+    {
+      "id": 86,
+      "status": "Expired",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/86",
+      "title": "IDFG ROTARY SCREW TRAPPING for wild Chinook Salmon and steelhead emigrants in the Clearwater and Salmon River basins.",
+      "lastUpdated": "2021-04-29T03:33:47-07:00"
+    },
+    {
+      "id": 87,
+      "status": "Archived",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/87",
+      "title": "IDFG WEIR AND HATCHERY TRAP SAMPLING for wild adult spring/summer Chinook Salmon and steelhead.",
+      "lastUpdated": "2020-11-06T02:40:30-08:00"
+    },
+    {
+      "id": 88,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/88",
+      "title": "IDFG Lower Granite Dam Adult Monitoring for wild spring/summer Chinook Salmon and steelhead",
+      "lastUpdated": "2023-11-16T07:57:35-08:00"
+    },
+    {
+      "id": 89,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/89",
+      "title": "IDFG Snorkel Surveys for Wild Chinook Salmon and Steelhead Parr in the Clearwater and Salmon River Basins.",
+      "lastUpdated": "2023-11-16T06:52:23-08:00"
+    },
+    {
+      "id": 90,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/90",
+      "title": "IDFG Stream Temperature Data Collection in the Clearwater and Salmon River Basins.",
+      "lastUpdated": "2023-11-16T08:48:15-08:00"
+    },
+    {
+      "id": 3274,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3274",
+      "title": "IDFG LOWER GRANITE DAM JUVENILE Monitoring for wild spring/summer Chinook Salmon and steelhead.",
+      "lastUpdated": "2023-11-16T06:47:06-08:00"
+    },
+    {
+      "id": 3308,
+      "status": "Archived",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3308",
+      "title": "Screw trap sampling for wild Chinook Salmon smolts in Idaho",
+      "lastUpdated": "2020-08-25T00:59:53-07:00"
+    },
+    {
+      "id": 3309,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3309",
+      "title": "Wild adult Chinook Salmon monitoring in Idaho",
+      "lastUpdated": "2017-12-05T04:12:23-08:00"
+    },
+    {
+      "id": 3311,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3311",
+      "title": "Redd counts and carcass sampling for wild Chinook Salmon in Idaho",
+      "lastUpdated": "2017-12-05T04:15:04-08:00"
+    },
+    {
+      "id": 3446,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3446",
+      "title": "IDFG Aerial Surveys for Chinook Salmon Redds in the Middle Fork Salmon River Basin.",
+      "lastUpdated": "2023-11-16T08:56:40-08:00"
+    },
+    {
+      "id": 3569,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3569",
+      "title": "IDFG Weir and Hatchery Trap Sampling for Wild Adult Spring/Summer Chinook Salmon and Steelhead",
+      "lastUpdated": "2023-11-16T08:35:08-08:00"
+    },
+    {
+      "id": 3570,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3570",
+      "title": "IDFG ROTARY SCREW TRAPPING for wild Chinook Salmon and steelhead emigrants in the Clearwater and Salmon River basins.",
+      "lastUpdated": "2023-11-16T08:05:15-08:00"
+    },
+    {
+      "id": 3579,
+      "status": "Archived",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3579",
+      "title": "Selected Population Performance Metrics of Wild Smolts by Genetic Stock for Chinook Salmon and steelhead from Lower Granite Dam Sampling",
+      "lastUpdated": "2021-01-23T06:30:09-08:00"
+    },
+    {
+      "id": 3582,
+      "status": "Archived",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3582",
+      "title": "Monitoring Snake River Spring-Summer Chinook Salmon and Steelhead at Lower Granite Dam (1990-055-00)",
+      "lastUpdated": "2021-01-23T06:35:13-08:00"
+    },
+    {
+      "id": 3583,
+      "status": "Revising",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3583",
+      "title": "IDFG SNAKE RIVER BASIN STEELHEAD RUN RECONSTRUCTION",
+      "lastUpdated": "2021-05-07T05:54:52-07:00"
+    },
+    {
+      "id": 3585,
+      "status": "Archived",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3585",
+      "title": "IDFG Adult Age Composition of wild Chinook Salmon and steelhead from scales and fin rays collected from Lower Granite Dam, temporary weirs, hatchery traps, and post-spawn carcasses.",
+      "lastUpdated": "2023-11-16T08:00:57-08:00"
+    },
+    {
+      "id": 3586,
+      "status": "Archived",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3586",
+      "title": "IDFG Weir and Hatchery Trap Sampling for Wild Adult Spring/Summer Chinook Salmon and Steelhead 2020",
+      "lastUpdated": "2021-10-29T15:53:57-07:00"
+    },
+    {
+      "id": 3594,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3594",
+      "title": "IDFG Ground Based Redd and Carcass Sampling for Wild Chinook Salmon in Idaho",
+      "lastUpdated": "2023-11-16T08:57:19-08:00"
+    },
+    {
+      "id": 3629,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3629",
+      "title": "IDFG Select Adult Population Performance Metrics for Wild Chinook Salmon in Idaho",
+      "lastUpdated": "2021-10-29T11:56:31-07:00"
+    },
+    {
+      "id": 3633,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3633",
+      "title": "IDFG Select Adult Population Performance Metrics for Wild Steelhead in Idaho",
+      "lastUpdated": "2023-11-16T08:54:56-08:00"
+    },
+    {
+      "id": 3644,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3644",
+      "title": "NPSWCD Stream Temperature Data Collection in the Lapwai Creek Watershed",
+      "lastUpdated": "2021-07-01T05:41:51-07:00"
+    },
+    {
+      "id": 3659,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3659",
+      "title": "IDFG Select Adult Population Performance Metrics for Wild Chinook Salmon in Idaho 2021",
+      "lastUpdated": "2023-11-16T08:56:02-08:00"
+    },
+    {
+      "id": 3699,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3699",
+      "title": "IDFG ROTARY SCREW TRAPPING for wild Chinook Salmon and steelhead emigrants in the Clearwater and Salmon River basins. Copy2",
+      "lastUpdated": "2022-09-03T02:33:00-07:00"
+    },
+    {
+      "id": 3700,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3700",
+      "title": "IDFG ROTARY SCREW TRAPPING for wild Chinook Salmon and steelhead emigrants in the Clearwater and Salmon River basins. Copy3",
+      "lastUpdated": "2022-09-03T02:33:44-07:00"
+    }
+  ]
+}

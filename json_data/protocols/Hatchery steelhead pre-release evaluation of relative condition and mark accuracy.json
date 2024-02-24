@@ -1,0 +1,21 @@
+{
+  "background": "This protocol was established to characterize accuracy of external marks (e.g. fin and maxillary clips) and annual variationin length, weight, and condition factor of Hood River stock hatcherywinter and summer steelhead approximately two weeks prior to release.Resultsare evaluated relative to wild and hatchery downstream migrants caught within the subbasin of release.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/783",
+  "title": "Hatchery steelhead pre-release evaluation of relative condition and mark accuracy",
+  "id": 783,
+  "assumptions": "<p>We assume the steelhead sampled at the hatchery are representative of the greater release population. Additionally, we assume that for comparative purposes the hatchery individuals captured in downstream migrant traps within the Hood River subbasin are also representative of the greater hatchery population.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/952",
+    "http://www.monitoringresources.org/api/v1/methods/1734",
+    "http://www.monitoringresources.org/api/v1/methods/4041",
+    "http://www.monitoringresources.org/api/v1/methods/4226"
+  ],
+  "objectives": [
+    "Collect the data necessary to determine distribution of Hood River stock steelhead by fork length, weight, and condition factor prior to release.  ",
+    "Compare biological data collected from fish captured after release (rotary screw trap) to data collected prior to release.    ",
+    "Assess the accuracy of external marks for Hood River stock hatchery steelhead prior to release."
+  ],
+  "ownerName": "Philip Simpson",
+  "ownerEmail": "philip.c.simpson@state.or.us",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/39"
+}

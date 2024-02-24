@@ -1,0 +1,9 @@
+{
+  "abstractText": "Setting threshold levels and determining target strength values of fish are dependent on a calibrated acoustic system. Without good calibration information, the results are invalid. Many project leaders send their sonar systems in for yearly laboratory calibrations. The advantage of yearly calibrations is that the vendor or specialist performing the calibration has the opportunity to verify that the electronics of the system and make sure all is working correctly. Finding out that something has gone wrong after the system is in the field can be very frustrating. Regardless of whether a preseason laboratory calibration is performed, a field calibration is essential. Site-specific environmental conditions can determine the calibration technique. Two calibration methods are presented below. (Note: Many spherical objects can be used as targets for in situ system calibration; however, manufacturers suggest a standard calibration target of known target strength constructed of copper or tungsten carbide [Foote and MacLennan 1984].)",
+  "url": "http://www.monitoringresources.org/api/v1/methods/124",
+  "title": "Hydroacoustics - Lakes and Reservoirs - Acoustic System Calibration v1.0",
+  "id": 124,
+  "type": "Data Collection",
+  "ownerName": "Jacque Schei",
+  "ownerEmail": "jschei@usgs.gov"
+}

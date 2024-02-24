@@ -1,0 +1,9 @@
+{
+  "abstractText": "Channel migration rate is a comparison of changes in the location of parts of the channel through time where migration has occurred such as along outside bends and in other areas of channel migration and erosion. Channel migration may be caused by project actions such as a levee removal, or as a natural response to stream flow.To assess channel migration, digital elevation models (DEM) of streams are used. DEMs can be created from a variety of sources such as topographic surveys,bathymetric surveys, and Light Detection and Ranging (LiDAR) datasets. One such method is the Topographic PointCollection (Method ID: 5328), which can be processed using tools created forArcGISby the Columbia Habitat Monitoring Program (http://champtools.northarrowresearch.com) to create a DEM for analysis.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/4235",
+  "title": "Channel Migration Rate v1.0",
+  "id": 4235,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Rachael Katz",
+  "ownerEmail": "rachael.katz@tetratech.com"
+}

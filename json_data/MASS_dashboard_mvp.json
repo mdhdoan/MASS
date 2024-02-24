@@ -1,0 +1,440 @@
+{
+  "title": "Methods access",
+  "version": "2.4",
+  "settings": {
+    "pagenumber": 2,
+    "editable": false,
+    "fullscreenEnabled": false,
+    "parameters": {
+      "neodash_methods_title_1": "Floodplain Monitoring Transect Data Collection v1.0",
+      "neodash_methods_title_1_display": "Floodplain Monitoring Transect Data Collection v1.0",
+      "neodash_events_title_1": "Rufus Woods Lake Creel Survey",
+      "neodash_events_title_1_display": "Rufus Woods Lake Creel Survey",
+      "neodash_samples_title_1": "Count fall Chinook salmon redds in the Snake River - US Geological Survey (USGS)",
+      "neodash_samples_title_1_display": "Count fall Chinook salmon redds in the Snake River - US Geological Survey (USGS)"
+    },
+    "theme": "light",
+    "downloadImageEnabled": true
+  },
+  "pages": [
+    {
+      "title": "Methods explorer",
+      "reports": [
+        {
+          "id": "18f08e09-0998-45b2-808d-00b11063f05f",
+          "title": "Total number of methods in database",
+          "query": "MATCH (m:Methods) \nRETURN COUNT(m) as Number_of_methods\n",
+          "width": 5,
+          "height": 2,
+          "x": 0,
+          "y": 0,
+          "type": "value",
+          "selection": {},
+          "settings": {
+            "refreshButtonEnabled": true
+          },
+          "schema": []
+        },
+        {
+          "id": "3af97b15-1a9c-4d29-a327-70277ca497e5",
+          "title": "Methods visualization",
+          "query": "MATCH (m:Methods {title: $neodash_methods_title_1}) CALL apoc.path.spanningTree(m, {relationshipFilter: \"USED_IN>|BECOME\"}) \nYIELD path \nRETURN path, m",
+          "width": 13,
+          "height": 8,
+          "x": 0,
+          "y": 2,
+          "type": "graph",
+          "selection": {
+            "Methods": "title",
+            "Events": "name"
+          },
+          "settings": {
+            "refreshButtonEnabled": true,
+            "fullscreenEnabled": true,
+            "downloadImageEnabled": true,
+            "refreshRate": 0,
+            "defaultNodeSize": 6
+          },
+          "schema": [
+            [
+              "Methods",
+              "owner",
+              "uid",
+              "topic",
+              "vector",
+              "html",
+              "topic_id",
+              "textbody",
+              "represent_words",
+              "type",
+              "title",
+              "representative",
+              "status"
+            ],
+            [
+              "Events",
+              "eid",
+              "ownerName",
+              "background",
+              "name",
+              "programUrl",
+              "objectives",
+              "title",
+              "protocolUrl",
+              "url",
+              "ownerEmail",
+              "status"
+            ]
+          ]
+        },
+        {
+          "id": "4fd277c2-1da2-447a-8295-86993a40a70a",
+          "title": "How the visualization works",
+          "query": "The visualization below would show the method and any connected events or samples.  \nChoosing a method from the search bar on the right, visualization will automatically refresh to show that method.  \nLeft clicking on the nodes shown will also provide the details for you to view.  ",
+          "width": 8,
+          "height": 2,
+          "x": 5,
+          "y": 0,
+          "type": "text",
+          "selection": {},
+          "settings": {},
+          "schema": []
+        },
+        {
+          "id": "631759c9-20d7-402c-a975-9d1916bed0ec",
+          "title": "Method search",
+          "query": "MATCH (n:`Methods`) \nWHERE toLower(toString(n.`title`)) CONTAINS toLower($input) \nRETURN DISTINCT n.`title` as value,  n.`title` as display ORDER BY size(toString(value)) ASC LIMIT 5",
+          "width": 6,
+          "height": 2,
+          "x": 13,
+          "y": 0,
+          "type": "select",
+          "selection": {},
+          "settings": {
+            "type": "Node Property",
+            "entityType": "Methods",
+            "propertyType": "title",
+            "propertyTypeDisplay": "title",
+            "parameterName": "neodash_methods_title_1",
+            "id": "1"
+          },
+          "schema": []
+        },
+        {
+          "id": "ad8cc866-25dc-4a73-9e24-0740df8a0311",
+          "title": "Connected Events",
+          "query": "Match p=(m:Methods {title: $neodash_methods_title_1})-[]-(e:Events)\nRETURN COUNT(p)\n",
+          "width": 5,
+          "height": 2,
+          "x": 19,
+          "y": 0,
+          "type": "value",
+          "selection": {},
+          "settings": {},
+          "schema": []
+        },
+        {
+          "id": "2ee3a1c8-a4e7-491f-9257-70ba44351f2e",
+          "title": "Method details",
+          "query": "MATCH (m: Methods {title: $neodash_methods_title_1})\nWITH m, keys(m) as method_keys\n    UNWIND method_keys as method_key\nWITH m, method_key\nRETURN method_key as `Method attributes`, m[method_key] as Value \n",
+          "width": 11,
+          "height": 8,
+          "x": 13,
+          "y": 2,
+          "type": "table",
+          "selection": {},
+          "settings": {
+            "columnWidths": "[2,10]",
+            "allowDownload": true,
+            "refreshButtonEnabled": true,
+            "fullscreenEnabled": true
+          }
+        }
+      ]
+    },
+    {
+      "title": "Events explorer",
+      "reports": [
+        {
+          "id": "ae81ae67-ddd3-4203-826f-ca2c06374e40",
+          "title": "Total number of events in database",
+          "query": "MATCH (e:Events) \nRETURN COUNT(e) ",
+          "width": 5,
+          "height": 2,
+          "x": 0,
+          "y": 0,
+          "type": "value",
+          "selection": {},
+          "settings": {},
+          "schema": []
+        },
+        {
+          "id": "9f40106e-6a0c-4119-bc01-9bf427f15fa6",
+          "title": "How the visualization works",
+          "query": "The visualization below would show the event and any connected samples.  \nChoosing an event from the search bar on the right, visualization will automatically refresh to show that event.  \nLeft clicking on the nodes shown will also provide the details for you to view.  \n\n\n",
+          "width": 8,
+          "height": 2,
+          "x": 5,
+          "y": 0,
+          "type": "text",
+          "selection": {},
+          "settings": {},
+          "schema": []
+        },
+        {
+          "id": "e0d5ab46-dc76-4aec-9ca6-a6c35f0dd53e",
+          "title": "Events visualization",
+          "query": "MATCH (e:Events {title: $neodash_events_title_1}) CALL apoc.path.spanningTree(e, {relationshipFilter: \"BECOME\"}) \nYIELD path \nRETURN path, e\n",
+          "width": 13,
+          "height": 8,
+          "x": 0,
+          "y": 2,
+          "type": "graph",
+          "selection": {
+            "Events": "name",
+            "Samples": "title"
+          },
+          "settings": {
+            "defaultNodeSize": 5,
+            "nodeLabelFontSize": 2
+          },
+          "schema": [
+            [
+              "Events",
+              "dataHandlingConsiderations",
+              "eid",
+              "qualityControlConsiderations",
+              "keyAssumptions",
+              "fieldScheduleNotes",
+              "title",
+              "url",
+              "reportingConsiderations",
+              "ownerEmail",
+              "qualifications",
+              "ownerName",
+              "background",
+              "name",
+              "safetyConsiderations",
+              "programUrl",
+              "objectives",
+              "rolesAndResponsibilities",
+              "equipmentCleaningAndCalibration",
+              "protocolUrl",
+              "trainingRequirements",
+              "status"
+            ],
+            [
+              "Samples",
+              "dataRepositoryUrl",
+              "startYear",
+              "description",
+              "title",
+              "url",
+              "ownerEmail",
+              "sid",
+              "studyDesignUrl",
+              "lastUpdated",
+              "initiationYear",
+              "ownerName",
+              "spatialDesignCategory",
+              "retirementYear",
+              "status"
+            ]
+          ]
+        },
+        {
+          "id": "878d3f8a-a48d-459c-b37e-cf510255f0d3",
+          "title": "Event search",
+          "query": "MATCH (n:`Events`) \nWHERE toLower(toString(n.`title`)) CONTAINS toLower($input) \nRETURN DISTINCT n.`title` as value,  n.`title` as display ORDER BY size(toString(value)) ASC LIMIT 5",
+          "width": 6,
+          "height": 2,
+          "x": 13,
+          "y": 0,
+          "type": "select",
+          "selection": {},
+          "settings": {
+            "type": "Node Property",
+            "entityType": "Events",
+            "propertyType": "title",
+            "propertyTypeDisplay": "title",
+            "parameterName": "neodash_events_title_1",
+            "id": "1"
+          },
+          "schema": []
+        },
+        {
+          "id": "353cfa6b-86f0-4930-94e9-21700113137a",
+          "title": "Connected Samples",
+          "query": "Match p=(e:Events {title: $neodash_events_title_1})-[]-(s:Samples)\nRETURN COUNT(p)\n\n\n\n",
+          "width": 5,
+          "height": 2,
+          "x": 19,
+          "y": 0,
+          "type": "value",
+          "selection": {},
+          "settings": {},
+          "schema": []
+        },
+        {
+          "id": "c2adac8b-9822-4b25-bb80-bcfe65821c7c",
+          "title": "Events details",
+          "query": "MATCH (e: Events {title: $neodash_events_title_1})\nWITH e, keys(e) as event_keys\n    UNWIND event_keys as event_key\nWITH e, event_key\nRETURN event_key as `Event attributes`, e[event_key] as Value \n",
+          "width": 11,
+          "height": 8,
+          "x": 13,
+          "y": 2,
+          "type": "table",
+          "selection": {},
+          "settings": {
+            "columnWidths": "[3, 10]"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Samples explorer",
+      "reports": [
+        {
+          "id": "e9af324c-e638-43ec-b26b-266e2cfe0c68",
+          "title": "Total number of samples in database",
+          "query": "MATCH (s:Samples) \nRETURN COUNT(s) \n",
+          "width": 5,
+          "height": 2,
+          "x": 0,
+          "y": 0,
+          "type": "value",
+          "selection": {},
+          "settings": {},
+          "schema": []
+        },
+        {
+          "id": "241f69ce-d6bb-4367-96b8-0bff9d976e39",
+          "title": "How the visualization works",
+          "query": "The visualization below would show the sample and any connected events.  \nChoosing an sample from the search bar on the right, visualization will automatically refresh to show that sample.  \nLeft clicking on the nodes shown will also provide the details for you to view. \n",
+          "width": 8,
+          "height": 2,
+          "x": 5,
+          "y": 0,
+          "type": "text",
+          "selection": {},
+          "settings": {},
+          "schema": []
+        },
+        {
+          "id": "58d43391-84dd-4a7d-9442-913552952b83",
+          "title": "Sample search",
+          "query": "MATCH (n:`Samples`) \nWHERE toLower(toString(n.`title`)) CONTAINS toLower($input) \nRETURN DISTINCT n.`title` as value,  n.`title` as display ORDER BY size(toString(value)) ASC LIMIT 5",
+          "width": 6,
+          "height": 2,
+          "x": 13,
+          "y": 0,
+          "type": "select",
+          "selection": {},
+          "settings": {
+            "type": "Node Property",
+            "entityType": "Samples",
+            "propertyType": "title",
+            "propertyTypeDisplay": "title",
+            "parameterName": "neodash_samples_title_1",
+            "id": "1"
+          },
+          "schema": []
+        },
+        {
+          "id": "d3f2051e-28f2-4fe5-b52e-a2ade0b4023b",
+          "title": "Connected Events",
+          "query": "Match p=(s:Samples {title: $neodash_samples_title_1})-[]-(e:Events)\nRETURN COUNT(p)\n",
+          "width": 5,
+          "height": 2,
+          "x": 19,
+          "y": 0,
+          "type": "value",
+          "selection": {},
+          "settings": {},
+          "schema": []
+        },
+        {
+          "id": "b2f0a4c7-05f4-4b3e-8494-68bda7f693a7",
+          "title": "Samples visualization",
+          "query": "MATCH (s:Samples {title: $neodash_samples_title_1}) CALL apoc.path.spanningTree(s, {relationshipFilter: \"BECOME\"}) \nYIELD path \nRETURN path, s\n",
+          "width": 13,
+          "height": 8,
+          "x": 0,
+          "y": 2,
+          "type": "graph",
+          "selection": {
+            "Samples": "title",
+            "Events": "name"
+          },
+          "settings": {},
+          "schema": [
+            [
+              "Samples",
+              "dataRepositoryUrl",
+              "startYear",
+              "title",
+              "url",
+              "ownerEmail",
+              "sid",
+              "lastUpdated",
+              "studyDesignUrl",
+              "initiationYear",
+              "ownerName",
+              "spatialDesignCategory",
+              "retirementYear",
+              "status"
+            ],
+            [
+              "Events",
+              "dataHandlingConsiderations",
+              "qualityControlConsiderations",
+              "eid",
+              "keyAssumptions",
+              "title",
+              "url",
+              "reportingConsiderations",
+              "ownerEmail",
+              "qualifications",
+              "ownerName",
+              "background",
+              "name",
+              "programUrl",
+              "safetyConsiderations",
+              "objectives",
+              "rolesAndResponsibilities",
+              "equipmentCleaningAndCalibration",
+              "protocolUrl",
+              "trainingRequirements",
+              "status"
+            ]
+          ]
+        },
+        {
+          "id": "1741e641-02c8-408e-b0f8-7fc8414750eb",
+          "title": "Samples details",
+          "query": "MATCH (s: Samples {title: $neodash_samples_title_1})\nWITH s, keys(s) as sample_keys\n    UNWIND sample_keys as sample_key\nWITH s, sample_key\nRETURN sample_key as `Sample attributes`, s[sample_key] as Value \n",
+          "width": 11,
+          "height": 8,
+          "x": 13,
+          "y": 2,
+          "type": "table",
+          "selection": {},
+          "settings": {}
+        }
+      ]
+    }
+  ],
+  "parameters": {},
+  "extensions": {
+    "active": true,
+    "activeReducers": [],
+    "styling": {
+      "active": true
+    },
+    "advanced-charts": {
+      "active": true
+    },
+    "actions": {}
+  },
+  "uuid": "1cfc9545-5739-498b-8348-54bee2aba9e0"
+}

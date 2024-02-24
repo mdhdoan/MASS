@@ -1,0 +1,9 @@
+{
+  "abstractText": "Juvenile salmon sampled in the ocean are collected from mixed-stock populations. We use standard methods of genetic stock identification (GSI) and individual assignment (recently reviewed by Manel et al. 2005) to estimate the stock origins of these populations. All fish are also examined for the presence of marks and tags. Data for tags found in our samples are obtained from Pacific States Marine Fisheries Commission (PSMFC, http://www.psmfc.org/). Coded-wire tag (CWT) data are downloaded from PSMFCs Regional Mark Processing Center (RMPC) database and Passive Integrated Transponder (PIT) data are obtained from their Pit Tag Information System (PTAGIS) database.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1343",
+  "title": "NWFS_Center_Ocean Salmon Survey Salmon Stock Identification v1.0",
+  "id": 1343,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Cheryl Morgan",
+  "ownerEmail": "cheryl.morgan@oregonstate.edu"
+}

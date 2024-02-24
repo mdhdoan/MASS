@@ -1,0 +1,9 @@
+{
+  "abstractText": "It is often difficult for fisheries researchers and managers to obtain a numeric estimate of a given fish stock fora variety of reasons (e.g., time, funding, logistics, etc.). In lieu of a numeric estimate, fisheries professionals often calculate relative abundance of a fish stock, commonly known as catch-per-unit-effort (Hubert and Fabrizio 2007). The theory behind using CPUE as a measure of fish abundance is that CPUE will increase with increases in total population size, as it should be representative of the entire population. A primary assumption when using CPUE as an index of relative abundance is that the number of fish captured is proportional to the amount of effort expended (Hubert et al. 2012). There are four additional assumptions that accompany the proper use and interpretation of CPUE:(1)the population is in equilibrium(2) units of effort operate independently from one another(3) catchability is constant throughout the entire sampling period, and(4) every individual in the population has the same probability of capture (Seber 1982).",
+  "url": "http://www.monitoringresources.org/api/v1/methods/4040",
+  "title": "Calculation of CPUE for electrofishing v1.0",
+  "id": 4040,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "T.J. Ross",
+  "ownerEmail": "tj.ross@idfg.idaho.gov"
+}

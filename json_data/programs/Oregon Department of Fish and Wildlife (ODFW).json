@@ -1,0 +1,89 @@
+{
+  "url": "http://www.monitoringresources.org/api/v1/programs/66",
+  "title": "Oregon Department of Fish and Wildlife (ODFW)",
+  "id": 66,
+  "primaryContactName": "",
+  "primaryContactEmail": "",
+  "organizations": [
+    "Oregon Department of Fish and Wildlife"
+  ],
+  "protocols": [
+    {
+      "id": 376,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/376",
+      "title": "Annual Age-0 White Sturgeon Recruitment Indexing",
+      "lastUpdated": "2016-09-28T21:17:06-07:00"
+    },
+    {
+      "id": 378,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/378",
+      "title": "White Sturgeon Sport Harvest Estimation (1986-050-00)",
+      "lastUpdated": "2020-09-23T23:35:55-07:00"
+    },
+    {
+      "id": 456,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/456",
+      "title": "Estimating Salmonid Smolt Abundance in Northeast-Central, Oregon-ODFW",
+      "lastUpdated": "2021-02-09T06:08:36-08:00"
+    },
+    {
+      "id": 3346,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3346",
+      "title": "ODFW John Day River Lower Mainstem Tributaries Summer Steelhead Population, Natural Origin Spawner Abundance (NOSA)",
+      "lastUpdated": "2021-02-03T02:37:40-08:00"
+    },
+    {
+      "id": 3461,
+      "status": "Revising",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3461",
+      "title": "Protocol for Snorkel Surveys of Fish Densities",
+      "lastUpdated": "2022-12-10T06:24:32-08:00"
+    },
+    {
+      "id": 3634,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3634",
+      "title": "Juvenile Salmonid Enumeration at Fish Screening and Bypass Facilities",
+      "lastUpdated": "2021-08-24T05:36:15-07:00"
+    },
+    {
+      "id": 3647,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3647",
+      "title": "Anadromous Salmonid Population Status and Trend Monitoring",
+      "lastUpdated": "2021-08-25T03:54:08-07:00"
+    },
+    {
+      "id": 3650,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3650",
+      "title": "Operation of a PIT-tag Interrogation System at an Irrigation Diversion Dam",
+      "lastUpdated": "2021-08-25T03:49:16-07:00"
+    },
+    {
+      "id": 3653,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3653",
+      "title": "Juvenile Salmonid Enumeration using a Partial Capture Trap",
+      "lastUpdated": "2021-08-24T05:51:41-07:00"
+    },
+    {
+      "id": 3668,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3668",
+      "title": "Oregon Vesper Sparrow Sampling",
+      "lastUpdated": "2022-03-03T02:52:23-08:00"
+    },
+    {
+      "id": 3738,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3738",
+      "title": "ODFW Fish Habitat Surveys",
+      "lastUpdated": "2023-09-21T23:31:45-07:00"
+    }
+  ]
+}

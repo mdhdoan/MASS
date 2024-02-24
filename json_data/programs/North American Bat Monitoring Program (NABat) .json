@@ -1,0 +1,19 @@
+{
+  "url": "http://www.monitoringresources.org/api/v1/programs/80",
+  "title": "North American Bat Monitoring Program (NABat) ",
+  "id": 80,
+  "primaryContactName": "Brian Reichert",
+  "primaryContactEmail": "breichert@usgs.gov",
+  "organizations": [
+    "U.S. Geological Survey"
+  ],
+  "protocols": [
+    {
+      "id": 3363,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3363",
+      "title": "North American Bat Monitoring Protocol (NABat)",
+      "lastUpdated": "2017-12-20T04:02:56-08:00"
+    }
+  ]
+}

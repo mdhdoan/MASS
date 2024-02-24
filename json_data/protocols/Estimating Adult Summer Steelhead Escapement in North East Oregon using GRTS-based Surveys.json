@@ -1,0 +1,30 @@
+{
+  "background": "Steelhead were listed as threatened in the MId-Columbia Distinct Population Segment (DPS)in 1999 (reaffirmed in 2006 and 2016), and includes populations in the John Day, Deschutes, Umatilla and Walla Walla River basins. The Snake River Steelhead DPS waslisted as threatened in 1997 (reaffirmed in 2017), and includes populations in the Grande Ronde River, Joseph Creek, Wallowa River and Imnaha River basisns (U.S. Office of the Federal Register 2006). De-listing of these threatened steelhead populations depends on increasing and maintainingspawner abundance at or above determined abundance and productivity threshholds (McElhany et al. 2000; Gallagher et al. 2010). Thus obtaining accurate and precise estimates of spawner abundance has become increasingly important.To meet scientific review recommendations, we extended the structure and methods successfullyemployed by the Oregon Plan for Salmon and Watersheds Monitoring Program to NE Oregon steelhead populations (Stevens 2002). This approach incorporates the sampling strategy of a general random-tessellation stratified (GRTS) algorithm (Stevens and Olsen 2004) and spatially explicit, probabilistic sampling design developed by Stevens et al. for the EMAP program. The GRTS approach applies a rigorous statitical site selection sampling design and analysis structure which cananswer key monitoring questions, integrate on-going sampling efforts, and improve agency coordination (Stevens 2002). This approach is a sample survey, and relies on selecting part of the resource of interest, characterizing that part, and then making inferences to the entirety.A spatially balanced sampleof sites are selected from a known 'universe' of spawning distributionusing the R statistical package spsurvey. Generally sites are assigned to panels, in which a subset of sites are surveyed in a rotating block, either annually, or every two or three years, depending on project needs. Sites are surveyed every 10 days for the duration of the spawning season, and data is collected about number of redds and any live or dead fish encountered. After surveys are complete, spawnder abundance is calculted by estimating spawner density per siteby multiplyinga fish/redd ratio from Deer Creek (a tributary to the Wallowa River) by redd density. From the fish density per site data, spawner abundance and 95% confidence intervals (from anearest neighbor liklihood estimator) are calculatedusing the R statistical package spsurvey.ODFW conducted annual GRTS-based spawning surveys of summer steelhead in the John Day River basin from 2004-2012(Wiley et al. 2005). GRTSbased spawning ground surveys were conducted from 2008-2018in the Upper Grande Ronde River, from 2012-2017 in Joseph Creek and from 2012-2018 in the upper Umatilla River watershed. GRTS spawning ground surveyscontinue in the South Fork andMIddle Fork John Day Rivers.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/757",
+  "title": "Estimating Adult Summer Steelhead Escapement in North East Oregon using GRTS-based Surveys",
+  "id": 757,
+  "assumptions": "<p>The sample universe conservatively represents the spatial extent utilized by spawning adult steelhead.</p>\r\n\r\n<p>Redds are counted with minimal error (no double, over-, or under counting errors)</p>\r\n\r\n<p>Redd numbers reflect population status.</p>\r\n\r\n<p>Sampled sites represent like unsampled sites.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/131",
+    "http://www.monitoringresources.org/api/v1/methods/402",
+    "http://www.monitoringresources.org/api/v1/methods/454",
+    "http://www.monitoringresources.org/api/v1/methods/1429",
+    "http://www.monitoringresources.org/api/v1/methods/1549",
+    "http://www.monitoringresources.org/api/v1/methods/5407",
+    "http://www.monitoringresources.org/api/v1/methods/5409",
+    "http://www.monitoringresources.org/api/v1/methods/5410",
+    "http://www.monitoringresources.org/api/v1/methods/5437",
+    "http://www.monitoringresources.org/api/v1/methods/5445",
+    "http://www.monitoringresources.org/api/v1/methods/5477",
+    "http://www.monitoringresources.org/api/v1/methods/5493",
+    "http://www.monitoringresources.org/api/v1/methods/6643"
+  ],
+  "objectives": [
+    "Estimate the population-scale escapement of summer steelhead ",
+    "Estimate the distribution of summer steelhead redds and spawners across watersheds.",
+    "Enumerate redds at each selected site"
+  ],
+  "ownerName": "Kasey Bliesner",
+  "ownerEmail": "kasey.bliesner@state.or.us",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/20"
+}

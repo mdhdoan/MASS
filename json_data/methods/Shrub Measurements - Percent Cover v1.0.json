@@ -1,0 +1,9 @@
+{
+  "abstractText": "Line intercept or point intercept (Hays et. al. 1981) is used to determine shrub cover. Line intercept will always be used when shrub cover is estimated at < 5%. In contrast, the point intercept method is used if shrub cover is estimated at  5%. Point intercept results (2 intervals) closely resemble those obtained using the line intercept technique (shrub cover 5%); however, not all shrub species may be detected when shrub cover is less than 10 percent.Shrub transect length/sample size is determined as described in the sample size determination section of the protocol. Data from short transects (300 ft) can be pooled to meet statistical objectives; however, once initiated the pooled data method should be applied to all shrub transects within the cover type.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/252",
+  "title": "Shrub Measurements - Percent Cover v1.0",
+  "id": 252,
+  "type": "Data Collection",
+  "ownerName": "Paul Ashley",
+  "ownerEmail": "lonepinebutte@comcast.net"
+}

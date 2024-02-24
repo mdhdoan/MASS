@@ -1,0 +1,24 @@
+{
+  "url": "http://www.monitoringresources.org/api/v1/programs/48",
+  "title": "Long-Term Illinois River Fish Population Monitoring Program",
+  "id": 48,
+  "primaryContactName": "",
+  "primaryContactEmail": "",
+  "organizations": [],
+  "protocols": [
+    {
+      "id": 809,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/809",
+      "title": "Long-Term Illinois River Fish Population Monitoring Program",
+      "lastUpdated": "2012-10-04T18:56:40-07:00"
+    },
+    {
+      "id": 3343,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3343",
+      "title": "Illinois Natural History Survey\u2019s Long-term Survey and Assessment of Large-River Fishes",
+      "lastUpdated": "2018-08-25T04:14:23-07:00"
+    }
+  ]
+}

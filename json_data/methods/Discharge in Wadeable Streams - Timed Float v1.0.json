@@ -1,0 +1,9 @@
+{
+  "abstractText": "This method describes how to collect field data necessary for estimating instantaneous discharge(in cubic feet per second) during each data collection event. Data will be used to categorize streams according characteristics of the stream at thetime of sampling (approximate base-flow conditions). It applies to waded streams.Discharge is normally measured near the index station (X) (the middle of the reach) in a locationwhere there is uniform(nonturbulent)flow. It can be done at any time during the data collection event, except prior tosampling for water, sediment, or invertebrates.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/3836",
+  "title": "Discharge in Wadeable Streams - Timed Float v1.0",
+  "id": 3836,
+  "type": "Data Collection",
+  "ownerName": "Glenn Merritt",
+  "ownerEmail": "glenn.merritt@ecy.wa.gov"
+}

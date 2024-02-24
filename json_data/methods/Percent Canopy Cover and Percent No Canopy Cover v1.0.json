@@ -1,0 +1,9 @@
+{
+  "abstractText": "Estimate of the extent of the canopy that is covered with vegetation and the extent of the canopy that is devoid of vegetation.Estimates of cover are taken at 5 transects (1, 6, 11, 16, 21) on the right and left bank (RB and LB) within a10mx10mplot beginning at bankfull. Percent of the areal coverage of the canopy (>5 m) is visually estimated for each plot.Percent Canopy Cover is an average of the estimates from each of these 10 plots. Percent No Canopy Cover is 100-PercentCanopyCover.The CHaMP - Riparian Structure Method provides background on the measurements that are analyzed for this calculation. See - http://www.monitoringmethods.org/Method/Details/845 CHaMP method follows the Peck et al. (2001) methods used by the EMAP.This method is not applicable for the 2011 champ protocol.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/4049",
+  "title": "Percent Canopy Cover and Percent No Canopy Cover v1.0",
+  "id": 4049,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org"
+}

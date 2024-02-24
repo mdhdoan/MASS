@@ -1,0 +1,38 @@
+{
+  "url": "http://www.monitoringresources.org/api/v1/programs/83",
+  "title": "Yakama Nation, Yakima Klickitat Fisheries Project",
+  "id": 83,
+  "primaryContactName": "Chris Frederiksen",
+  "primaryContactEmail": "chrisf@yakama.com",
+  "organizations": [],
+  "protocols": [
+    {
+      "id": 2043,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2043",
+      "title": "Rock Creek Water Quality and Temperature Monitoring",
+      "lastUpdated": "2020-12-08T12:10:18-08:00"
+    },
+    {
+      "id": 2171,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2171",
+      "title": "USGS Measurement of  Stream Stage and Discharge",
+      "lastUpdated": "2020-02-13T02:40:21-08:00"
+    },
+    {
+      "id": 3395,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3395",
+      "title": "Evaluation of factors affecting minijack rate among hatchery-reared spring Chinook Salmon",
+      "lastUpdated": "2018-04-05T00:07:14-07:00"
+    },
+    {
+      "id": 3539,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3539",
+      "title": "VSP data collection (2010-030-00) 2020 edition",
+      "lastUpdated": "2020-02-12T23:53:55-08:00"
+    }
+  ]
+}

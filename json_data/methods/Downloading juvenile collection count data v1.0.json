@@ -1,0 +1,9 @@
+{
+  "abstractText": "?Several dams in the Columbia River are staffed to count subsamples of fish as part of the Smolt Monitoring Program. Staff of the Washington Department of Fish and Wildlife counts the number of subyearlings (distinguished based on size and timing) in a subsample of fish that is collected by opening a gate in the juvenile fish bypass system at Lower Granite Dam. The juvenile bypass system is operated 24 h/d, but the gate is opened hourly throughout each day and the sampling rate can vary from as low as 0.67% to as high as 100% throughout the season. Daily collection counts are estimated by dividing the sample count by the sample rate. The Fish Passage Center (FPC) oversees the Smolt Monitoring Program and manages and distributes the data.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1471",
+  "title": "Downloading juvenile collection count data v1.0",
+  "id": 1471,
+  "type": "Data Collection",
+  "ownerName": "Kenneth Tiffan",
+  "ownerEmail": "ktiffan@usgs.gov"
+}

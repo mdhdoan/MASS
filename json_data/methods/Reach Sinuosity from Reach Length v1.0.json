@@ -1,0 +1,9 @@
+{
+  "abstractText": "Sinuosity (Schumm, 1963), or thalweg sinuosity (Leopold and Wolman 1957) is a mathematical expression of the degree of tortuosity or twisting of a stream channel asobserved from above. This method describes how to calculate sinuosity using reach length as the fish swims and as the crow flies.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/7005",
+  "title": "Reach Sinuosity from Reach Length v1.0",
+  "id": 7005,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "PNAMP Support",
+  "ownerEmail": "pnamp.mm@gmail.com"
+}

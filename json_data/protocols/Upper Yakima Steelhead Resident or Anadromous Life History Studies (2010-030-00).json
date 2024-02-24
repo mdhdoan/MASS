@@ -1,0 +1,26 @@
+{
+  "background": "This protocolprovidesresearch techniquesassociated with understanding O. mykisslife history diversity in the upper Yakima Basin, while concurrentlyproviding resident and anadromous population status and trend data. The upper Yakima supports a large robust resident rainbow trout population that overlaps spatially and temporally with a relatively small sympatric anadromouspopulation (Pearsons et al. 2007). The interaction between life history forms is a primary uncertainty documented in all major steelhead recovery documents. This protocol outlines one strategy that generates data to improve our understanding of how resident O. mykiss in the upper Yakima mayinfluence recovery of the anadromous form. Abundance estimates in tributary and main stem areas are generated annually using mark recapture electrofishing techniques. Rearing juvenile fish captured under this protocol are PIT tagged, genetically sampledfor inclusion in aparentage analysis, and scale sampled for cohort tracking/analysis. The proportion of juvenile migrants detected in subsequent years is used to partition abundance estimates intothe abundance estimates for each form. PIT tag detection histories are used to identify areas that produce anadromous juveniles such that the relative production by stream can be evaluated and compared. This protocol collaborates with data collection activities conducted by the Yakima Klickitat Fisheries Project (protocols 94 and 328).",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/2165",
+  "title": "Upper Yakima Steelhead Resident/Anadromous Life History Studies (2010-030-00)",
+  "id": 2165,
+  "assumptions": "<p>There are minimal assumptions associated with this work in the context of uncertainties research, because it supplies data necessary to understand the interplay between life history forms (we make no assumptions).&nbsp; However, in generating abundance estimates of both resident trout and juvenile anadromous steelhead, we assume instream survival of both forms is the same prior to the smolt stage for the migrants.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/109",
+    "http://www.monitoringresources.org/api/v1/methods/118",
+    "http://www.monitoringresources.org/api/v1/methods/119",
+    "http://www.monitoringresources.org/api/v1/methods/488",
+    "http://www.monitoringresources.org/api/v1/methods/700",
+    "http://www.monitoringresources.org/api/v1/methods/780",
+    "http://www.monitoringresources.org/api/v1/methods/1360",
+    "http://www.monitoringresources.org/api/v1/methods/1734",
+    "http://www.monitoringresources.org/api/v1/methods/1736",
+    "http://www.monitoringresources.org/api/v1/methods/4041",
+    "http://www.monitoringresources.org/api/v1/methods/5411"
+  ],
+  "objectives": [
+    "Determine viable salmonid population (VSP) metrics for sympatric resident and anadromous O. mykiss life history types in pre selected locations."
+  ],
+  "ownerName": "Gabriel Temple",
+  "ownerEmail": "gabriel.temple@dfw.wa.gov",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/64"
+}

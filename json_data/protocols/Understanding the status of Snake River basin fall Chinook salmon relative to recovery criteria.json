@@ -1,0 +1,27 @@
+{
+  "background": "A minimum viability threshold of a geometric mean of 3,000 natural-origin adults over 10 years was recommended for the Snake River basin fall Chinook salmon population listed under the ESA. Run reconstruction indicates that 3,000 or more natural-origin adults have arrived at Lower Granite Dam (the last dam passed prior to reaching upstream spawning areas in the lower Snake, Clearwater, and Grande Ronde rivers) during 5 of the last 10 years. A stock-recruitment analysis that tests the influence of anthropogenic, biological, and environmental change on the abundance of natural-origin adults observed after 1983 when reconstruction began would (1) help to understand why the abundance of natural-origin adults increased and (2) provide the ability to make predictions under what if ? scenarios for adaptive management. We describe such an analysis in this protocol. The explicit population level spatial structure criterion proposed for recovery requires the escapement of at least 2,500 natural-origin spawners to the lower Snake River. Though run reconstruction provides an estimate of the abundance of natural-origin adults at Lower Granite Dam to assess status relative to the minimum viability threshold, it does not provide the information on spatial distribution of natural-origin spawners needed to assess status relative to the explicit population level spatial structure criteria. A model that relates redd counts made to the explicit population level spatial structure criteria would be useful. This protocol describes one approach for developing such a model.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/287",
+  "title": "Understanding the status of Snake River basin fall Chinook salmon relative to recovery criteria",
+  "id": 287,
+  "assumptions": "<p>We assume our frame will be represented the natural-origin Snake River basin fall Chinook salmon population. We assume that trends in estimated abundance are not solely caused by error in run reconstruction. We assume that trends in geographic distribution of redd counts are not solely caused by error in redd counts.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/631",
+    "http://www.monitoringresources.org/api/v1/methods/637",
+    "http://www.monitoringresources.org/api/v1/methods/6731",
+    "http://www.monitoringresources.org/api/v1/methods/6732",
+    "http://www.monitoringresources.org/api/v1/methods/6734",
+    "http://www.monitoringresources.org/api/v1/methods/6735",
+    "http://www.monitoringresources.org/api/v1/methods/6736",
+    "http://www.monitoringresources.org/api/v1/methods/6737",
+    "http://www.monitoringresources.org/api/v1/methods/6738",
+    "http://www.monitoringresources.org/api/v1/methods/6739"
+  ],
+  "objectives": [
+    "Increase the understanding of how the numerical trends in the estimated counts of natural-origin adults from 1983 onward were influenced by anthropogenic, biological, and environmental change.",
+    "Predict the status of escapement of natural-origin adults to the spawning areas relative to the explicit population level spatial structure criteria.",
+    "Predict how varying influential anthropogenic, biological, and environmental factors might affect the status of natural-origin adults relative to the minimum viability threshold."
+  ],
+  "ownerName": "Kenneth Tiffan",
+  "ownerEmail": "ktiffan@usgs.gov",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/85"
+}

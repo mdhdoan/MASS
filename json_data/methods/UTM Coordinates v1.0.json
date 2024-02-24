@@ -1,0 +1,9 @@
+{
+  "abstractText": "Objective: Use the global positioning system (GPS) receiver to record the Universal Transverse Mercator (UTM) coordinates.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/60",
+  "title": "UTM Coordinates v1.0",
+  "id": 60,
+  "type": "Data Collection",
+  "ownerName": "Jacque Schei",
+  "ownerEmail": "jschei@usgs.gov"
+}

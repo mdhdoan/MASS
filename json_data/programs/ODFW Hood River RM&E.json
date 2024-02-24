@@ -1,0 +1,75 @@
+{
+  "url": "http://www.monitoringresources.org/api/v1/programs/39",
+  "title": "ODFW Hood River RM&E",
+  "id": 39,
+  "primaryContactName": "Philip Simpson",
+  "primaryContactEmail": "philip.c.simpson@state.or.us",
+  "organizations": [
+    "Oregon Department of Fish and Wildlife"
+  ],
+  "protocols": [
+    {
+      "id": 197,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/197",
+      "title": "Hood River non-tribal harvest monitoring",
+      "lastUpdated": "2017-09-13T23:30:57-07:00"
+    },
+    {
+      "id": 326,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/326",
+      "title": "Monitor Abundance of Non-Supplemented Salmonids",
+      "lastUpdated": "2018-08-28T01:16:55-07:00"
+    },
+    {
+      "id": 352,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/352",
+      "title": "Hood River subbasin juvenile and smolt monitoring",
+      "lastUpdated": "2017-09-12T04:51:11-07:00"
+    },
+    {
+      "id": 353,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/353",
+      "title": "Monitor selected physical & environmental variables affecting natural production of Hood River salmonids",
+      "lastUpdated": "2018-08-17T01:57:49-07:00"
+    },
+    {
+      "id": 359,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/359",
+      "title": "Monitor the reproductive success of natural and hatchery-produced spring Chinook salmon spawning in the West Fork of the Hood River",
+      "lastUpdated": "2017-09-22T01:21:11-07:00"
+    },
+    {
+      "id": 783,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/783",
+      "title": "Hatchery steelhead pre-release evaluation of relative condition and mark accuracy",
+      "lastUpdated": "2018-08-15T00:57:08-07:00"
+    },
+    {
+      "id": 784,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/784",
+      "title": "Adult and juvenile salmonid scale mounting and age analysis",
+      "lastUpdated": "2018-08-17T04:25:54-07:00"
+    },
+    {
+      "id": 785,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/785",
+      "title": "Monitor selected life history and phenotypic characteristics of juvenile & adult wild and hatchery steelhead in the Hood River subbasin",
+      "lastUpdated": "2012-07-03T22:00:16-07:00"
+    },
+    {
+      "id": 2108,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2108",
+      "title": "Hood River subbasin adult abundance monitoring",
+      "lastUpdated": "2015-02-13T18:25:58-08:00"
+    }
+  ]
+}

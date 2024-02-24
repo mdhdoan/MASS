@@ -1,0 +1,32 @@
+{
+  "background": "This document details the monitoring design, procedures, and quality assurance steps necessary to document and report the effectiveness of stream bank modifications designed to enhance floodplain connection through projects such as dike removal/setback, riprap removal, road removal/setback, landfill removal, active creation of side channels and off-channel habitat, and reconnection of off-channel habitat or side channels.  The goal of floodplain enhancement projects is to restore the natural flood flow basin width through natural process and active channel creation as needed so that gravel, large wood, and normal stream morphology and fish habitat can be restored.Monitoring Goal:  Determine whether projects that remove or set back dikes, riprap, roads, or landfills, or build or reconnect off-channel and side channel habitat are effective at the reach scale in restoring stream morphology and eliminating channel constraints in the treated area, as well as providing additional habitat for fish.Questions To Be Answered:  How many acres of new off-channel or floodplain habitat have been created?  What flood stage is necessary for the newly accessible habitat to be available?  What is the frequency and duration of inundation for the new habitat?  Has the removal and/or setback reduced channel constraints and increased flood flow capacity for ten years?  \tHas the channel become more frequently connected with the floodplain?  Has additional off-channel habitat been created within 10 years?  Has the floodprone width increased?  What is the level of fish use?  What species and life stage use the newly available habitat?",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/38",
+  "title": "SRFB - Monitoring Effectiveness of Floodplain Enhancement Projects",
+  "id": 38,
+  "assumptions": "Access to impact and suitable control reaches will be provided.",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/156",
+    "http://www.monitoringresources.org/api/v1/methods/157",
+    "http://www.monitoringresources.org/api/v1/methods/233",
+    "http://www.monitoringresources.org/api/v1/methods/239",
+    "http://www.monitoringresources.org/api/v1/methods/241",
+    "http://www.monitoringresources.org/api/v1/methods/294",
+    "http://www.monitoringresources.org/api/v1/methods/906",
+    "http://www.monitoringresources.org/api/v1/methods/912"
+  ],
+  "objectives": [
+    "Determine the overall stream morphology using Thalweg Profile in the impact reaches. (Years 1, 3, 5, and 10)",
+    "Determine the overall changes in channel capacity and constraints in the impact reaches. (Years 1, 3, 5, and 10)",
+    "Determine the overall stream morphology using the Thalweg Profile in the impact reaches. (Year 0)",
+    "Determine the overall channel capacity and constraints in the impact reaches. (Year 0)",
+    "Determine fish density in newly created off-channel habitat, if project/site conditions allow.  (Years 1, 3, 5, and 10)",
+    "Develop predictive model for inundation of off-channel habitat. (Years 1, 3, 5, and 10)",
+    "Map any newly created off-channel habitat.  (Years 1, 3, 5, and 10)",
+    "Determine changes in topography of floodplain and channel bed. (Years 1, 3, 5, and 10)",
+    "Determine the pre-project fish density/use of channel, if project/site conditions allow. (Year 0)",
+    "Determine the pre-project topography of the floodplain and channel bed. (Year 0)"
+  ],
+  "ownerName": "Jennifer O'Neal",
+  "ownerEmail": "jen@naturaldes.com",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/16"
+}

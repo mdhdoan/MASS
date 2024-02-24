@@ -1,0 +1,9 @@
+{
+  "abstractText": "Fisheries managers and researchers often need to measure the performance of a particular fishery, including catch and angler effort, in order to assess the affects of a management action. Creel surveys have long been a useful tool in measuring these and other performance indicators. The access-access survey design is particularly useful for bodies of water with a relatively small number of access points. This methods describes calculation of fishing effort, catch and harvest from data collected from such surveys.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1154",
+  "title": "Analysis of Access-Access Creel Survey Data v1.0",
+  "id": 1154,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Sean Wilson",
+  "ownerEmail": "sean.wilson@idfg.idaho.gov"
+}

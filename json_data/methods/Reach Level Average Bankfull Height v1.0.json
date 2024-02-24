@@ -1,0 +1,9 @@
+{
+  "abstractText": "To calculate reach level average bankfull height based on data obtained from channel cross section surveys. Reach level indicates a single value summary of numerous attributes of each stream reach.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/7014",
+  "title": "Reach Level Average Bankfull Height v1.0",
+  "id": 7014,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "PNAMP Support",
+  "ownerEmail": "pnamp.mm@gmail.com"
+}

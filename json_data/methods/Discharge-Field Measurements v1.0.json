@@ -1,0 +1,9 @@
+{
+  "abstractText": "Stream discharge is equal to the product of the mean current velocity and vertical cross sectional area of flowing water. Discharge measurements are important for assessing trends in streamwater acidity and other characteristics that are very sensitive to streamflow differences. Stream discharge information is also useful in interpreting the representativeness of water chemistry data and some physical habitat information.No single method for measuring discharge is applicable to all types of stream channels. The preferred procedure for obtaining discharge data is based on velocity-area methods (e.g., Rantz and others 1982, Linsley et al. 1982), and providing either the measurement data to calculate discharge or the calculated value for stream discharge (if the instrumentation has the capability). Data will not be collected for streams that are too small or too shallow to use the equipment required for the velocity-area procedure",
+  "url": "http://www.monitoringresources.org/api/v1/methods/174",
+  "title": "Discharge-Field Measurements v1.0",
+  "id": 174,
+  "type": "Data Collection",
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org"
+}

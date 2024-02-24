@@ -1,0 +1,27 @@
+{
+  "background": "Salmon and steelhead populations within SE Washington are monitored for returns and in some instances are collected for hatchery broodstock for production at Lyons Ferry/Tucannon Fish Hatchery Complex opearated by Washington Department of Fish and Wlidlife (WDFW). Mutliple rivers and tributaries wiers are used in comination with other methods to enumerate adult returns, supporting hatchery broodstock collections, and provide informaiton on diversity assessments.The proposed protocol would provide the following information for Weirs/Traps operated in SE Washinton:1) adult abundance2) the proportion of hatchery origin spawners, origin of hatchery fish from coded wire tags or PIT tags,3) population age structure,4) proportional distribution of the populations in major spawning areas (MSAs) and minor spawning areas (mSAs), and5) contribute to genetic characterization of SE Washington salmonids.Genetic characterization analysis for steelhead DNA is sent to WDFW lab for archive until funds are available to analyze the tissue. Other DNA from brood etc...are handled per Idaho fish and game PBT analysis.While not part of this protocol, WDFW will also operate PIT arrays and conduct spawning surveys in selected tributaries where weir operation is not possible or effective, or where information on spawning distribution of salmonids is limited.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/3546",
+  "title": "South East Washington Weir Operation (WDFW)",
+  "id": 3546,
+  "assumptions": "<p>OBJ-1: 1) adult traps can be installed, maintained and operated adequately to successfully enumerate migrating adult steelhead 2) adult steelhead cannot ascend the stream without being enumerated, or they will accurately be estimated from mark &ndash;recapture techniques 3) marks and tags will not be missed during recapture</p>\r\n\r\n<p>OBJ-2: 1) that we will be able to tissue sample 30-100 unmarked steelhead per trap site/stream 2) that funding is available and the samples will be run for DNA and SNPs analyses, as part of the Snake River genetics database 3) that DNA analyses will be run with existing funding (project 20102600) to compare steelhead from these small tributaries with the core Asotin and Tucannon populations</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/108",
+    "http://www.monitoringresources.org/api/v1/methods/109",
+    "http://www.monitoringresources.org/api/v1/methods/131",
+    "http://www.monitoringresources.org/api/v1/methods/145",
+    "http://www.monitoringresources.org/api/v1/methods/303",
+    "http://www.monitoringresources.org/api/v1/methods/342",
+    "http://www.monitoringresources.org/api/v1/methods/372",
+    "http://www.monitoringresources.org/api/v1/methods/380",
+    "http://www.monitoringresources.org/api/v1/methods/931",
+    "http://www.monitoringresources.org/api/v1/methods/1366",
+    "http://www.monitoringresources.org/api/v1/methods/4041"
+  ],
+  "objectives": [
+    "Estimate adult steelhead abundance, distribution, and the proportion of hatchery origin fish in tributaries, collect broodstock for hatchery programs where appropriate.\r\n",
+    "Collect tissue samples from adult salmonids in SE Washington where applicable.\r\n"
+  ],
+  "ownerName": "Todd Miller",
+  "ownerEmail": "todd.miller@dfw.wa.gov",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/64"
+}

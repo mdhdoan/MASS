@@ -1,0 +1,25 @@
+{
+  "background": "Harmful algal blooms (HABs) are becoming more prevalent in lower Snake River reservoirs. HABs typically occur in late summer and early autumn and are composed of blue-green algae that can produce neurotoxins (cyanotoxins) that are harmful to birds, animals, and humans. The effects of these cyanotoxins on fishes has received little study but may affect juvenile salmon directly by impairing physiological functions and behavior or indirectly by impacting prey resources that juvenile salmon feed on. Many ESA-listed juvenile Snake River fall Chinook salmon migrate through, or delay migration, in the four lower Snake River Reservoirs potentially exposing them to toxins produced by HABs. This study will examine whether juvenile salmon take up cyanotoxins in their body tissues and to what extent,and how toxin uptake varies seasonally. Initial sampling will focus on analyzing the livers from juvenile fall Chinook salmon mortalities collected at Lower Granite Dam. The reason for examining liver tissue is that it is more metabolically active than other tissues and thus more likely to take up toxins. The reasons for initially examining mortalities are two-fold. First, a mortality at Lower Granite Dam died of something and there may be a higher likelihood that it died from cyanotoxin. Second, because the Snake River fall Chinook population is ESA-listed, sampling mortalities is a way to reduce lethal take.The temporal and spatial distribution of blue-green algae will be described along with toxin levels in the water that fish are exposed to. Two approaches wil be used to accomplish this. First, toxins present in the water column in Lower Granite Reservoir will be concentrated using SPATT (Solid-phase adsorption toxin tracking) samplers. The reason for using this particular sampler is that toxins can be collected over a longer time period (days or weeks) thus minimizing that a toxin spike might be missed as if a single grab sample was collected at single point in time. Second, the relative surface distribution of algae will be mapped during mobile surveys of Lower Granite Reservoir. The reason for this is to describe the spatial and temporal variability in algae distribution that will complement the SPATT sampling.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/3744",
+  "title": "Harmful Algal Blooms in the Snake River",
+  "id": 3744,
+  "assumptions": null,
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/1734",
+    "http://www.monitoringresources.org/api/v1/methods/4041",
+    "http://www.monitoringresources.org/api/v1/methods/5298",
+    "http://www.monitoringresources.org/api/v1/methods/7181",
+    "http://www.monitoringresources.org/api/v1/methods/7182",
+    "http://www.monitoringresources.org/api/v1/methods/7183",
+    "http://www.monitoringresources.org/api/v1/methods/7184",
+    "http://www.monitoringresources.org/api/v1/methods/7185"
+  ],
+  "objectives": [
+    "Describe the temporal and spatial distribution of blue-green algae in reservoirs.",
+    "Quantify the amount of cyanotoxins in reservoir water both spatially and temporally",
+    "Quantify the amount of cyanotoxin taken up by tissues of juvenile fall Chinook salmon."
+  ],
+  "ownerName": "Kenneth Tiffan",
+  "ownerEmail": "ktiffan@usgs.gov",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40"
+}

@@ -1,0 +1,9 @@
+{
+  "abstractText": "Accurately estimating wild and hatchery adult salmonid escapement is necessary for the assessment and refinement of production goals for most research, monitoring, and evaluation programs.With the increased use of PIT tags in hatchery and wild salmonid smolts to estimate tributary production and survival, more programs are utilizing these same tagged fish as they return as adults to populate mark-recapture models to estimate adult escapement. Generally speaking, assessing fish stocks without the benefit of an impassable counting station remains one of the more challenging objectives in fisheries science. Moving away from dam count datato model estimates can impose an unwelcomed layer of skepticism on fishery management decision making processes. Data evaluation and analysis methods must be supportable and accurate.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/5371",
+  "title": "Adult salmonid escapement estimation v1.0",
+  "id": 5371,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Philip Simpson",
+  "ownerEmail": "philip.c.simpson@state.or.us"
+}

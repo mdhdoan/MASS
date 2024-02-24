@@ -1,0 +1,17 @@
+{
+  "background": "Establishing new photo monitoring surveys that will replace fixed wing waterfowl surveys.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/3665",
+  "title": "Monitoring Waterfowl Abundance with Camera Traps",
+  "id": 3665,
+  "assumptions": "<p>Waterfowl will positively respond to moist soil management activities and management with associated uplands.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/6920",
+    "http://www.monitoringresources.org/api/v1/methods/6922"
+  ],
+  "objectives": [
+    "To effectively monitor waterfowl use using camera traps throughout late winter and spring migration."
+  ],
+  "ownerName": "Chattan McPherson",
+  "ownerEmail": "Chattan.Mcpherson@dfw.wa.gov",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/64"
+}

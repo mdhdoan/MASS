@@ -1,0 +1,9 @@
+{
+  "abstractText": "Groundwater temperature and conductivity can be important parameters to collect when developing an groundwater network.  Tracking temperature and conductivity levels can help determine areas of groundwater-surface water interaction.  Conductivity can also give some indication as to the age and origin of groundwater.  This method specifically describes taking temperature and conductivity measurements of groundwater from wells.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1450",
+  "title": "Measuring Groundwater Temperature and Specific Conductance v1.0",
+  "id": 1450,
+  "type": "Data Collection",
+  "ownerName": "Troy Baker",
+  "ownerEmail": "troy.baker@wwbwc.org"
+}

@@ -1,0 +1,18 @@
+{
+  "background": "The Wind River has a TMDL for temperature, a limiting factor for steelhead spawning, rearing, and migration. To help assess changes in this parameter, continuous temperature monitoring is essential. UCD will work with partnering agencies to continue to monitor temperature throughout the watershed, utilizing UCD's standard operating procedures and water quality database. UCD supports operation and maintenance of 7 thermographs in the Wind River watershed. USGS has managed an additional 11 sites as well, and both agencies coordinate placement of thermographs to best capture watershed conditions while avoiding duplication. Data from this effort will inform and guide habitat restoration work.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/778",
+  "title": "Continuous Temperature Monitoring",
+  "id": 778,
+  "assumptions": "<div>Continuous in-stream monitoring of water temperature allows for the analysis of daily and</div>\r\n\r\n<div>seasonal temperature fluctuations. By placing thermographs throughout a river system, it allows</div>\r\n\r\n<div>for spatial analysis of temperature differences.</div>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/716",
+    "http://www.monitoringresources.org/api/v1/methods/1685",
+    "http://www.monitoringresources.org/api/v1/methods/1687"
+  ],
+  "objectives": [
+    " By placing thermographs throughout a river system, it allows\r\nfor spatial analysis of temperature differences."
+  ],
+  "ownerName": "Tova Tillinghast",
+  "ownerEmail": "tova@ucdwa.org",
+  "programUrl": ""
+}

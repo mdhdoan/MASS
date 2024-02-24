@@ -1,0 +1,19 @@
+{
+  "background": "The Pacific Anadromous Fish Strategy (PACFISH) and Inland Fish Strategy (INFISH) Biological Opinion Effectiveness Monitoring Program (PIBO - EM) for aquatic and riparian resources was developed in 1998 in response to monitoring needs addressed in the Biological Opinions for bull trout (U.S. Department of the Interior, Fish and Wildlife Service 1998) and steelhead (U.S. Department of Commerce, National Marine Fisheries Service 1995). An interagency team representing the U.S. Department of Agriculture, Forest Service, the U.S. Department of Interior, Bureau of Land Management and U.S. Fish and Wildlife Service, and the U.S. Department of Commerce, National Marine Fisheries Service was convened to develop a large-scale monitoring program with the primary objective of determining whether PACFISH/INFISH management practices are maintaining, degrading, or improving biological and physical attributes, processes, and functions of riparian and aquatic habitats throughout the upper Columbia River Basin.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/10",
+  "title": "PIBO - Sampling Protocol for Vegetation Parameters",
+  "id": 10,
+  "assumptions": null,
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/51",
+    "http://www.monitoringresources.org/api/v1/methods/52",
+    "http://www.monitoringresources.org/api/v1/methods/53",
+    "http://www.monitoringresources.org/api/v1/methods/54"
+  ],
+  "objectives": [
+    "Determine whether PACFISH/INFISH management practices are maintaining, degrading, or improving biological and physical attributes, processes, and functions of riparian andaquatic habitats through UCRB"
+  ],
+  "ownerName": "Jacque Schei",
+  "ownerEmail": "jschei@usgs.gov",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/5"
+}

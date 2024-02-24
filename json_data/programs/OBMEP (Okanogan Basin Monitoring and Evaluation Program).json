@@ -1,0 +1,103 @@
+{
+  "url": "http://www.monitoringresources.org/api/v1/programs/4",
+  "title": "OBMEP (Okanogan Basin Monitoring and Evaluation Program)",
+  "id": 4,
+  "primaryContactName": "John Arterburn",
+  "primaryContactEmail": "john.arterburn@colvilletribes.com",
+  "organizations": [
+    "Confederated Tribes of the Colville Reservation"
+  ],
+  "protocols": [
+    {
+      "id": 5,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/5",
+      "title": "Okanogan Basin Monitoring & Evaluation Program - Water Quality Sampling",
+      "lastUpdated": "2015-03-03T18:19:34-08:00"
+    },
+    {
+      "id": 6,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/6",
+      "title": "Okanogan Basin Monitoring & Evaluation Program - Adult Abundance - Adult Weir & Video Array",
+      "lastUpdated": "2016-04-23T22:32:22-07:00"
+    },
+    {
+      "id": 7,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/7",
+      "title": "Okanogan Basin Monitoring & Evaluation Program - Juvenile Abundance - Snorkel Surveys",
+      "lastUpdated": "2016-04-22T05:23:52-07:00"
+    },
+    {
+      "id": 8,
+      "status": "Revising",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/8",
+      "title": "Okanogan Basin Monitoring & Evaluation Program - Rapid Habitat Assessment",
+      "lastUpdated": "2016-05-24T21:13:38-07:00"
+    },
+    {
+      "id": 9,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/9",
+      "title": "Okanogan Basin Monitoring & Evaluation Program -  Habitat Monitoring",
+      "lastUpdated": "2016-07-01T05:40:22-07:00"
+    },
+    {
+      "id": 192,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/192",
+      "title": "Okanogan Basin Monitoring & Evaluation Program - Steelhead Spawner Abundance",
+      "lastUpdated": "2021-04-17T03:19:38-07:00"
+    },
+    {
+      "id": 193,
+      "status": "Expired",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/193",
+      "title": "Okanogan Basin Monitoring & Evaluation Program-Rotary Screw Trap",
+      "lastUpdated": "2016-06-16T01:07:08-07:00"
+    },
+    {
+      "id": 194,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/194",
+      "title": "Okanogan Basin Monitoring & Evaluation Program - Juvenile Abundance - Mark-Recapture",
+      "lastUpdated": "2016-07-05T22:12:51-07:00"
+    },
+    {
+      "id": 500,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/500",
+      "title": "OBMEP - Field Manual Redd Survey Methodology Copy",
+      "lastUpdated": null
+    },
+    {
+      "id": 2125,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2125",
+      "title": "Okanogan Basin Monitoring & Evaluation Program - Adult Abundance  - Analysis",
+      "lastUpdated": "2021-03-18T00:24:28-07:00"
+    },
+    {
+      "id": 3366,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3366",
+      "title": "Okanogan Basin Monitoring & Evaluation Program -  Habitat Status and Trend",
+      "lastUpdated": "2021-04-19T21:54:49-07:00"
+    },
+    {
+      "id": 3599,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3599",
+      "title": "Okanogan Basin Monitoring & Evaluation Program -  Habitat Monitoring Copy2",
+      "lastUpdated": "2020-12-01T08:09:34-08:00"
+    },
+    {
+      "id": 3658,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3658",
+      "title": "Okanogan Basin Monitoring & Evaluation Program - Juvenile Abundance - Mark-Recapture 2022",
+      "lastUpdated": "2021-10-22T00:15:39-07:00"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "url": "http://www.monitoringresources.org/api/v1/programs/102",
+  "title": "California Department of Water Resources -DELVE",
+  "id": 102,
+  "primaryContactName": "",
+  "primaryContactEmail": "",
+  "organizations": [],
+  "protocols": [
+    {
+      "id": 3705,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3705",
+      "title": "DWR Real time water quality data collection",
+      "lastUpdated": "2023-05-20T05:46:30-07:00"
+    }
+  ]
+}

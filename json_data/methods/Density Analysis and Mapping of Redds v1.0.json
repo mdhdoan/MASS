@@ -1,0 +1,9 @@
+{
+  "abstractText": "Utilize ArcMap toanalyze andrepresent spatial density of redds in a raster dataset.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/6600",
+  "title": "Density Analysis and Mapping of Redds v1.0",
+  "id": 6600,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Kaylyn Costi",
+  "ownerEmail": "kaylyncosti@ctuir.org"
+}

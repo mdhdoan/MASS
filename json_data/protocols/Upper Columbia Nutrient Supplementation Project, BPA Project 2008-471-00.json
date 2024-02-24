@@ -1,0 +1,38 @@
+{
+  "background": "As a fishery co-manager the Yakama Nation is obligated to examine and apply management tools that improve the status of its resources for the benefit of present and future tribal members. The Yakama Nation remains extremely concerned that low levels of natural production by ESA-listed fish species throughout the Columbia Basin constrain Treaty-reserved tribal fisheries at usual and accustomed fishing areas. Naturally reproducing salmonid populations within the Upper Columbia River ESU/DPS remain among the least productive and at greatest risk of extinction (NOAA 2009, 2014) despite considerable past and ongoing recovery efforts (NPCC 2009).Chronically low numbers of returning adult salmon and steelhead can be traced to well documented factors in the Columbia Basin. One factor, documented by the Independent Scientific Advisory Board (ISAB), is density dependence (ISAB 2015). Salmonid densities are limited by dramatically reduced marine derived nutrients (MDN), caused by the decline in returning adult salmonids over the past century. Gresh et al. (2000) reported current MDN loading rates of 6 to 7% of historic levels across the Columbia basin. The implications of these studies suggest that a food web perspective is needed to provide a broader and more ecologically informed context for restoration efforts (ISAB 2011; Naiman, Alldredge et al. 2012; Bellmore, Fremier et al. 2014).Marine subsidies have been documented to stimulate aquatic productivity, particularly in low-nutrient, headwater streams (Schindler, Scheuerell et al. 2003; Moore and Schindler 2004). Numerous studies in the Upper Columbia River Basin have confirmed the benefits of nutrient addition for biological production (Greshet al. 2000, Stockner 2003; Kohler and Taki 2010; Kohler et al. 2012; Marcarelli et al. 2014). Fewer studies have directly measured responses of nutrient supplementation on natural production of ESA-listed anadromous salmonids, and on the required supporting food webs and energy flows.Considering the recent ISAB report on density dependence, the Yakama Nation believes that the direct, controlled addition of MDN into streams (nutrient supplementation) in juvenile rearing habitats must be examined as a viable action to restore natural production of anadromous salmonids. This project proposes a multiyear experimental MDN addition to a Methow basin stream, Hancock Springs, to clarify the empirical effects, benefits, and potential risks of MDN addition to juvenile salmonid food webs. The proposed study design, along with a robust 3-year pre-treatment will allow us to isolate fine-scale effects and trophic cascading energy patterns from annual nutrient treatments. We will also assess the risk that MDN addition could produce deleterious effects by disrupting or altering food web dynamics to for invasive, non-native species such as brook trout.Research Questions and Hypotheses:How does MDN replacement (carcass analogue addition) affect the productivity and dynamics of salmonid food webs, natural production, and the growth, condition, and survival of juvenile salmonids in the freshwater rearing environment?Can MDN replacement disrupt the trophic ecology of salmonid food webs to preferentially benefit non-target competitor or predator fish species?",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/2193",
+  "title": "Upper Columbia Nutrient Supplementation Project, BPA Project 2008-471-00",
+  "id": 2193,
+  "assumptions": "<ul>\r\n\t<li>General: (1) Equipment is functioning properly and in the same fashion during each sampling event. &nbsp;(2) Sampling events occurring from March-December accurately capture annual changes.&nbsp; (3) Sites selected for sampling are representative of the sample reach.</li>\r\n\t<li>Electrofishing: (1) Catchability of focal species is the same across all individuals at large and during all sample events, or within designated size classes. (2) Sufficient numbers of fish (of each species) can be PIT tagged and recaptured to estimate production.&nbsp; (3) Growth of PIT tagged fish is the same as non-tagged fish.</li>\r\n\t<li>Fish Diets: (1) The diets of collected species are representative of the population at large.&nbsp; (2) Isotopes from fin clips are representative of fish trophic position.</li>\r\n</ul>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/309",
+    "http://www.monitoringresources.org/api/v1/methods/311",
+    "http://www.monitoringresources.org/api/v1/methods/312",
+    "http://www.monitoringresources.org/api/v1/methods/316",
+    "http://www.monitoringresources.org/api/v1/methods/317",
+    "http://www.monitoringresources.org/api/v1/methods/327",
+    "http://www.monitoringresources.org/api/v1/methods/780",
+    "http://www.monitoringresources.org/api/v1/methods/1712",
+    "http://www.monitoringresources.org/api/v1/methods/1734",
+    "http://www.monitoringresources.org/api/v1/methods/1736",
+    "http://www.monitoringresources.org/api/v1/methods/3790",
+    "http://www.monitoringresources.org/api/v1/methods/3793",
+    "http://www.monitoringresources.org/api/v1/methods/3834",
+    "http://www.monitoringresources.org/api/v1/methods/4041",
+    "http://www.monitoringresources.org/api/v1/methods/4131",
+    "http://www.monitoringresources.org/api/v1/methods/5248",
+    "http://www.monitoringresources.org/api/v1/methods/5298",
+    "http://www.monitoringresources.org/api/v1/methods/5299",
+    "http://www.monitoringresources.org/api/v1/methods/5356",
+    "http://www.monitoringresources.org/api/v1/methods/5468",
+    "http://www.monitoringresources.org/api/v1/methods/5469",
+    "http://www.monitoringresources.org/api/v1/methods/5470"
+  ],
+  "objectives": [
+    "Determine if MDN replacement will disrupt the trophic ecology of salmonid food webs to preferentially benefit non-target competitor or predator fish species.",
+    "Evaluate how MDN replacement affects productivity and dynamics of salmonid food webs, natural production, and the growth and condition of juvenile salmonids in the freshwater rearing environment."
+  ],
+  "ownerName": "Teresa Fish",
+  "ownerEmail": "fishtm@gmail.com",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/58"
+}

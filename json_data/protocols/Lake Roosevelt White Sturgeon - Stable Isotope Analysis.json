@@ -1,0 +1,20 @@
+{
+  "background": "White Sturgeon diet in the impounded Upper Columbia River has seen less studycompared to other sturgeon populationsin the Pacific Northwest. Some moderate research regarding larval and juvenile life stages has been done (Crossman; Hildebrand et al 2016), but little data is availableon adult diet composition. A better understanding of adult sturgeon diet in the Upper Columbia is essential in determining carrying capacity and designing bioenergetics models as repatriation continues.The largest hurdle in studying adult diet composition is thatWhite Sturgeon areclassified as Critically Endangered (CE) by the IUCN and listed as endangered under the Canadian Species At Risk Act (SARA) due to persistent recruitment failure, whichmakes the sacrifice of adults for stomach samples not a viable option unless deceased adults are recovered from the river, which is rare and does not provide enough data for study. However, other options for exploring White Sturgeon diet are available. Using isotope analysis for the studythe diet of White Sturgeon in the Upper Columbia River is a non-lethal, low impact method andhas beenproven aneffective option(Smith et al 2016).",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/3518",
+  "title": "Lake Roosevelt White Sturgeon - Stable Isotope Analysis",
+  "id": 3518,
+  "assumptions": null,
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/700",
+    "http://www.monitoringresources.org/api/v1/methods/5298",
+    "http://www.monitoringresources.org/api/v1/methods/5299",
+    "http://www.monitoringresources.org/api/v1/methods/5352"
+  ],
+  "objectives": [
+    "To determine proportions of prey items contributing to White Sturgeon diet",
+    "To examine intra-specific diet variability and size related shifts in diet"
+  ],
+  "ownerName": "Joseph Cronrath",
+  "ownerEmail": "joseph.cronrath@spokanetribe.com",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/26"
+}

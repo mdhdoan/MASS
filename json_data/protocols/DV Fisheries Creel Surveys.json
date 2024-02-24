@@ -1,0 +1,17 @@
+{
+  "background": "Duck Valley Fisheries O&M operates a tribal and non-tribal fishery on three reservoirs located within the boundary of Duck Valley Indian Reservation. Tribal members use the reservoirs for substance fishing to offset the loss of anadromous fish. Non-tribal members pay a fee to fish. The revenue from non-tribal member fees are put into the tribal general fund and used to help the Shoshone-Paiute Fish, Wildlife and parks Department as well as other Tribal agencies.The fisheries in the three Duck Valley Reservation reservoirs are put-and-take-fisheries. As a put and take fisheries it is important to understand the exploitation rate in order to make sound management decisions. The creel surveys will be used to estimate the satisfaction and exploitation rates by tribal and non-tribal anglers.The non tribal angler fees add income to the economy of Duck Valley Indian Reservation. The campgrounds are used by tribal members for a variety of personal and community functions. These two reasons make it important to understand how satisfied the anglers are with the facilities around the reservoirs. The creel surveys will give DV Fisheries Managers information on improvements that may need to be completed at the campgrounds at the reservoirs.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/701",
+  "title": "DV Fisheries Creel Surveys",
+  "id": 701,
+  "assumptions": "<p>The first Key assumption is that people being surveyed are giving honest answers to the number of fish caught, kept, or released. The second assumption is closely related to the first. That people are being honest and fair about their experience and the facilities. The third assumption is the anglers being surveyed are a random sample.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/1154",
+    "http://www.monitoringresources.org/api/v1/methods/3940"
+  ],
+  "objectives": [
+    "Estimate satisfaction of the tribal and non-tribal anglers\r\nEstimate the exploitation rate of the reservoirs.\r\nBring attention to any problems with our facilities"
+  ],
+  "ownerName": "Dennis Daw",
+  "ownerEmail": "daw.dennis@shopai.org",
+  "programUrl": ""
+}

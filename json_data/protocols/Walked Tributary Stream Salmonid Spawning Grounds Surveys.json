@@ -1,0 +1,29 @@
+{
+  "background": "Spring Chinook occupied the Okanogan river basin until becoming functionally extirpatedin the mid-20th century. In 2015, under Section 10(j) of the Endangered Species Act, hatchery-origin spring Chinook were released into the Okanogan River near Riverside, Washington. As these fish return as adults, monitoring the status of the Okanogan spring chinook population through spawning grounds surveys becomes an important component in evaluatingthe success of the reintroduction and the status of spring Chinook in the Okanogan River. Although at the beginning of implementation of this protocol it is expected that the majority of observed Chinook will be part of the 10(j) program, ALLspawning salmonidsencountered during spawning grounds surveys, (hatchery and wild, 10(j) fish and otherwise, etc.) will be examined.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/3455",
+  "title": "Walked Tributary Stream Salmonid Spawning Grounds Surveys",
+  "id": 3455,
+  "assumptions": "<p>Surveyed stream reaches are representative such that extrapolation to portions of streams that are not able to be surveyed (due to access permission through private lands, etc.) are valid.</p>\r\n\r\n<p>Carcasses located in surveyed stretches have equal probabilities of&nbsp;detection and persistence to the next sampling occasion</p>\r\n\r\n<p>Fish per redd ratios remain constant throughout the Okaogan river basin</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/131",
+    "http://www.monitoringresources.org/api/v1/methods/285",
+    "http://www.monitoringresources.org/api/v1/methods/372",
+    "http://www.monitoringresources.org/api/v1/methods/508",
+    "http://www.monitoringresources.org/api/v1/methods/1433",
+    "http://www.monitoringresources.org/api/v1/methods/1443",
+    "http://www.monitoringresources.org/api/v1/methods/1460",
+    "http://www.monitoringresources.org/api/v1/methods/6600",
+    "http://www.monitoringresources.org/api/v1/methods/6641",
+    "http://www.monitoringresources.org/api/v1/methods/6643",
+    "http://www.monitoringresources.org/api/v1/methods/6644",
+    "http://www.monitoringresources.org/api/v1/methods/6652",
+    "http://www.monitoringresources.org/api/v1/methods/6653"
+  ],
+  "objectives": [
+    "Recover spring Chinook carcasses in the Okanogan river basin, and compile data associated with carcass recoveries (age, length, sex, origin, tag history [PIT, cwt, radio tag, etc.], and spawn status).",
+    "Document and quantify spring Chinook spawning in the U.S. portion of the Okanogan river basin"
+  ],
+  "ownerName": "John Rohrback",
+  "ownerEmail": "john.rohrback@colvilletribes.com",
+  "programUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "background": "Gill and trap nets are set in Lake Pend Oreille (LPO), Idaho in an effort to reduce lake trout abundance. In addition, ESA listed adfluvial bull trout are incidentally captured during these gill netting efforts, including some mortalities, and we are interested in the origin of these bull trout. A genetic data baseline was already available for assigning bull trout captured below Cabinet Gorge Dam to populations in upstream tributaries in the drainage or tributaries to Lake Pend Oreille (Bernall 2007). These data increase our understanding of bull trout behavior and life history characteristics in the drainage. In addition, we are able to use these data to determine whether netting in certain areas has a disproportionate effect on bull trout stocks of particular concern. Additionally, we evaluate how effectively the gill nets are capturing lake trout and avoiding bull trout. These analyses allow us to make changes to the nets (e.g., mesh size) to most effectively remove lake trout and reduce incidental catch of bull trout.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/584",
+  "title": "LPO Evaluate the Influence of Incidental Netting Bycatch on Bull Trout (1994-047-00)",
+  "id": 584,
+  "assumptions": "<p>The overall Bull Trout population will benefit from Lake Trout removal,&nbsp;even though direct Buill Trout mortality as bycatch&nbsp;from the commercial netting occurs at variable rates. &nbsp; &nbsp; &nbsp;</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/1030",
+    "http://www.monitoringresources.org/api/v1/methods/1035",
+    "http://www.monitoringresources.org/api/v1/methods/1042",
+    "http://www.monitoringresources.org/api/v1/methods/1044",
+    "http://www.monitoringresources.org/api/v1/methods/1045",
+    "http://www.monitoringresources.org/api/v1/methods/1074"
+  ],
+  "objectives": [
+    "Assess whether contract netting efforts are having disproportionate effects on stocks of bull trout that are of particular concern.",
+    "Analyze the effectiveness of gill net characteristics (e.g., mesh size) in catching lake trout and avoiding bull trout."
+  ],
+  "ownerName": "Pete Rust",
+  "ownerEmail": "Pete.Rust@idfg.idaho.gov",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/65"
+}

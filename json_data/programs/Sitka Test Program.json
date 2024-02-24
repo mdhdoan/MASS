@@ -1,0 +1,19 @@
+{
+  "url": "http://www.monitoringresources.org/api/v1/programs/43",
+  "title": "Sitka Test Program",
+  "id": 43,
+  "primaryContactName": "Matt Deniston",
+  "primaryContactEmail": "matt@sitkatech.com",
+  "organizations": [
+    "ESA Sitka"
+  ],
+  "protocols": [
+    {
+      "id": 3723,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3723",
+      "title": "dan test protocol",
+      "lastUpdated": "2023-03-31T07:51:17-07:00"
+    }
+  ]
+}

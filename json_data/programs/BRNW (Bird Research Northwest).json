@@ -1,0 +1,35 @@
+{
+  "url": "http://www.monitoringresources.org/api/v1/programs/9",
+  "title": "BRNW (Bird Research Northwest)",
+  "id": 9,
+  "primaryContactName": "Allen Evans",
+  "primaryContactEmail": "allen@realtimeresearch.com",
+  "organizations": [
+    "Oregon State University",
+    "U.S. Geological Survey",
+    "Real Time Research"
+  ],
+  "protocols": [
+    {
+      "id": 41,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/41",
+      "title": "Avian Predation on Juvenile Salmonids in the Columbia River Estuary",
+      "lastUpdated": "2015-09-24T22:07:27-07:00"
+    },
+    {
+      "id": 3519,
+      "status": "Revising",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3519",
+      "title": "Avian Predation on Juvenile Salmonids in the Columbia River Basin",
+      "lastUpdated": "2020-01-10T07:21:40-08:00"
+    },
+    {
+      "id": 3576,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3576",
+      "title": "Avian Predation on Juvenile Salmonids in the Columbia River Estuary Tag Recovery",
+      "lastUpdated": "2020-10-09T04:02:28-07:00"
+    }
+  ]
+}

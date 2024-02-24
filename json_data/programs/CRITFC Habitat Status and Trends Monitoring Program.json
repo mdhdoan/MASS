@@ -1,0 +1,54 @@
+{
+  "url": "http://www.monitoringresources.org/api/v1/programs/34",
+  "title": "CRITFC Habitat Status and Trends Monitoring Program",
+  "id": 34,
+  "primaryContactName": "Casey Justice",
+  "primaryContactEmail": "jusc@critfc.org",
+  "organizations": [
+    "Columbia River Inter-Tribal Fish Commission"
+  ],
+  "protocols": [
+    {
+      "id": 499,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/499",
+      "title": "Protocol for Snorkel Surveys of Fish Densities",
+      "lastUpdated": "2013-11-21T19:52:33-08:00"
+    },
+    {
+      "id": 723,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/723",
+      "title": "Spawning Gravel Composition Protocol (CRITFC)",
+      "lastUpdated": "2012-11-06T23:31:45-08:00"
+    },
+    {
+      "id": 805,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/805",
+      "title": "Potential Natural and Current Riparian Vegetation Mapping",
+      "lastUpdated": "2013-03-27T21:25:28-07:00"
+    },
+    {
+      "id": 2075,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2075",
+      "title": "Monitor fish abundance",
+      "lastUpdated": "2014-12-12T21:58:26-08:00"
+    },
+    {
+      "id": 3554,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3554",
+      "title": "Tributary Habitat Assessment Protocol",
+      "lastUpdated": "2023-04-25T01:21:59-07:00"
+    },
+    {
+      "id": 3713,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3713",
+      "title": "Evaluation of IGF1 as a Tool for Assessing Growth in Juvenile Salmonids",
+      "lastUpdated": "2023-03-15T05:55:10-07:00"
+    }
+  ]
+}

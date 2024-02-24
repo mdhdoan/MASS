@@ -1,0 +1,9 @@
+{
+  "abstractText": "Redd count aerial surveys are conducted with a helicopter and three people (a pilot and two surveyors). The aerial surveys allow observers to enumerate redds in large and/or remote river systems more efficiently and with less man hours than ground counts. Typically multiple surveys are completed for each stream transect (i.e., multiple pass) which occur on a weekly or bi-weekly basis. During each survey, all redds are enumerated within a distinct spawning area (e.g., river kilometer), geo-referenced as a group, photographed and recorded on a standardized dataheet. Surveys are conducted from mid-morning to mid-day to take advantage of the best lighting conditions.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/6642",
+  "title": "Redd Count Aerial Surveys v1.0",
+  "id": 6642,
+  "type": "Data Collection",
+  "ownerName": "Ryan Kinzer",
+  "ownerEmail": "ryank@nezperce.org"
+}

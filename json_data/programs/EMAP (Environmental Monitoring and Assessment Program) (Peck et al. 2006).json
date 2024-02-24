@@ -1,0 +1,26 @@
+{
+  "url": "http://www.monitoringresources.org/api/v1/programs/2",
+  "title": "EMAP (Environmental Monitoring and Assessment Program) (Peck et al. 2006)",
+  "id": 2,
+  "primaryContactName": "",
+  "primaryContactEmail": "",
+  "organizations": [
+    "U.S. Environmental Protection Agency"
+  ],
+  "protocols": [
+    {
+      "id": 4,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/4",
+      "title": "Surface Waters Western Pilot Study: Field Operations Manual for Wadeable Streams",
+      "lastUpdated": "2013-05-06T14:37:20-07:00"
+    },
+    {
+      "id": 811,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/811",
+      "title": "Environmental Monitoring and Assessment Program: Great River Ecosystems",
+      "lastUpdated": "2012-10-09T15:41:08-07:00"
+    }
+  ]
+}

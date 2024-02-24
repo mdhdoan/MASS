@@ -1,0 +1,9 @@
+{
+  "abstractText": "Hyporheic flow is the exchange between subsurface and surface waters through the streambed sediment. This interaction of groundwater and stream water play a vital role in the transport and retention of nutrients and organic matter in the subsurface zone (Benjankar et al 2014). It also appears to be important in the selection of redd sites for salmonids. Fall chinook salmon in the Hanford Reach of the Columbia River preferred spawning in upwelling areas (Geist 2000) and another study found that bull trout preferred spawning at sites with localized downwelling (C.V. Baxter and Hauer 2000). This method will give you an estimate of the vertical hydraulic gradient (VHG) using a simple and cost effective technique developed in a previous study (Baxter, Hauer, and Woessner 2003). VHG is a dimensionless metric indicating relative strength of upwelling (positive values) or downwelling (negative values) of subsurface flows.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/5478",
+  "title": "Measuring Subsurface Flow using Minipiezometers v1.0",
+  "id": 5478,
+  "type": "Data Collection",
+  "ownerName": "Doug Hatch",
+  "ownerEmail": "hatd@critfc.org"
+}

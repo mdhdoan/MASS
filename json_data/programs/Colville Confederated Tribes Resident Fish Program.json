@@ -1,0 +1,404 @@
+{
+  "url": "http://www.monitoringresources.org/api/v1/programs/21",
+  "title": "Colville Confederated Tribes Resident Fish Program",
+  "id": 21,
+  "primaryContactName": "",
+  "primaryContactEmail": "",
+  "organizations": [
+    "Confederated Tribes of the Colville Reservation"
+  ],
+  "protocols": [
+    {
+      "id": 436,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/436",
+      "title": "Sanpoil River escapement, origin, and sex ratios of salmonids and trout",
+      "lastUpdated": "2020-01-25T00:14:48-08:00"
+    },
+    {
+      "id": 438,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/438",
+      "title": "Non Native Predator Fish Reduction",
+      "lastUpdated": "2020-01-31T04:02:47-08:00"
+    },
+    {
+      "id": 441,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/441",
+      "title": "Deep Water Shoreline Spawning Surveys",
+      "lastUpdated": "2020-01-22T05:17:11-08:00"
+    },
+    {
+      "id": 442,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/442",
+      "title": "Survival to emergence and out-migration timing (1995-011-00)",
+      "lastUpdated": "2020-01-31T05:53:50-08:00"
+    },
+    {
+      "id": 479,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/479",
+      "title": "Lake Roosevelt Sediment Facies Mapping",
+      "lastUpdated": "2015-07-14T16:31:16-07:00"
+    },
+    {
+      "id": 518,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/518",
+      "title": "LRHIP - Sanpoil and Upper Columbia Subbasin Stream Temperature Monitoring",
+      "lastUpdated": "2015-02-04T23:55:32-08:00"
+    },
+    {
+      "id": 519,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/519",
+      "title": "LRHIP-EDT species rules for redband trout",
+      "lastUpdated": "2015-03-30T21:42:06-07:00"
+    },
+    {
+      "id": 636,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/636",
+      "title": "Evaluate the effectiveness of hypolimnetic oxygenation",
+      "lastUpdated": "2019-04-17T03:52:14-07:00"
+    },
+    {
+      "id": 649,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/649",
+      "title": "Whole Lake Monitoring",
+      "lastUpdated": "2015-02-06T21:28:58-08:00"
+    },
+    {
+      "id": 654,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/654",
+      "title": "Resident Fish Stream Monitoring on CCT Reservation",
+      "lastUpdated": "2019-04-17T03:47:53-07:00"
+    },
+    {
+      "id": 670,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/670",
+      "title": "Rufus Woods Creel Survey",
+      "lastUpdated": "2020-06-04T03:58:09-07:00"
+    },
+    {
+      "id": 685,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/685",
+      "title": "LRHIP - Sanpoil and Upper Columbia Subbasin Stream Ecosystem Diagnosis and Treatment Modeling",
+      "lastUpdated": "2015-01-30T23:21:35-08:00"
+    },
+    {
+      "id": 693,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/693",
+      "title": "Supplemental Burbot Sampling to Evaluate Lake Roosevelt FWIN Gill Net Length/Age Bias",
+      "lastUpdated": "2017-04-11T22:41:34-07:00"
+    },
+    {
+      "id": 709,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/709",
+      "title": "Redband trout overwinter habitat use (2008-109-00)",
+      "lastUpdated": "2020-01-22T05:18:05-08:00"
+    },
+    {
+      "id": 725,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/725",
+      "title": "Spawning and overwintering movements and habitats of rainbow trout in the Sanpoil subbasin",
+      "lastUpdated": "2012-02-07T18:55:55-08:00"
+    },
+    {
+      "id": 1980,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/1980",
+      "title": "LRHIP - Sanpoil and Upper Columbia Subbasin Stream Fish Monitoring",
+      "lastUpdated": "2015-03-03T19:26:43-08:00"
+    },
+    {
+      "id": 1982,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/1982",
+      "title": "LRHIP- Sanpoil and Upper Columbia Subbasin Stream Habitat Inventory",
+      "lastUpdated": "2015-04-20T23:22:40-07:00"
+    },
+    {
+      "id": 2050,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2050",
+      "title": "Rufus Woods Lake Creel Survey",
+      "lastUpdated": "2019-04-17T03:49:06-07:00"
+    },
+    {
+      "id": 2100,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2100",
+      "title": "LRHIP - Sanpoil and Upper Columbia Subbasin Benthic Macroinvertebrate Monitoring",
+      "lastUpdated": "2017-05-18T02:26:25-07:00"
+    },
+    {
+      "id": 2101,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2101",
+      "title": "LRHIP - Sanpoil and Upper Columbia Subbasin Stream Water Chemistry Monitoring",
+      "lastUpdated": "2015-07-10T15:24:35-07:00"
+    },
+    {
+      "id": 2102,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2102",
+      "title": "LRHIP- Sanpoil and Upper Columbia Subbasin Discharge Point Monitoring",
+      "lastUpdated": "2015-06-16T18:20:52-07:00"
+    },
+    {
+      "id": 2109,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2109",
+      "title": "LRHIP - Sanpoil and Upper Columbia Stream Temperature and Water Chemistry Monitoring Interim",
+      "lastUpdated": "2015-06-12T21:56:07-07:00"
+    },
+    {
+      "id": 2121,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2121",
+      "title": "LRHIP - Sanpoil and Upper Columbia Subbasin Stream Water Chemistry and Point Discharge Monitoring",
+      "lastUpdated": "2016-12-17T00:43:33-08:00"
+    },
+    {
+      "id": 2122,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2122",
+      "title": "CCT Resident Fish _ RM&E Temperature Monitoring",
+      "lastUpdated": "2015-03-13T14:28:47-07:00"
+    },
+    {
+      "id": 2132,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2132",
+      "title": "Lake Roosevelt Burbot Maturity Assessment",
+      "lastUpdated": "2017-12-21T02:47:50-08:00"
+    },
+    {
+      "id": 2134,
+      "status": "Expired",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2134",
+      "title": "LRHIP - Sanpoil and Upper Columbia Stream Temperature, Water Chemistry, and Discharge Monitoring Interim",
+      "lastUpdated": "2017-04-13T02:06:48-07:00"
+    },
+    {
+      "id": 2135,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2135",
+      "title": "LRHIP - Sanpoil and Upper Columbia Stream Water Chemistry and Discharge Monitoring Interim",
+      "lastUpdated": "2015-06-16T16:47:36-07:00"
+    },
+    {
+      "id": 2136,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2136",
+      "title": "LRHIP - Sanpoil and Upper Columbia Subbasin Stream Temperature and Sanpoil River Discharge Monitoring Interim",
+      "lastUpdated": "2015-06-12T19:37:39-07:00"
+    },
+    {
+      "id": 2139,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2139",
+      "title": "CCT_ Redband Trout Escapement in the Sanpoil River (2008-109-00)",
+      "lastUpdated": "2017-10-17T05:36:59-07:00"
+    },
+    {
+      "id": 2140,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2140",
+      "title": "Redband Trout Recruitment in the Sanpoil River",
+      "lastUpdated": "2019-12-22T00:05:12-08:00"
+    },
+    {
+      "id": 2141,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2141",
+      "title": "Redband Trout Genetic Study",
+      "lastUpdated": "2019-02-01T05:36:33-08:00"
+    },
+    {
+      "id": 2160,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2160",
+      "title": "Use fin ray laser ablation techniques to identify habitat use during White Sturgeon early life history.",
+      "lastUpdated": "2015-07-30T22:37:16-07:00"
+    },
+    {
+      "id": 2167,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2167",
+      "title": "Kokanee Genetic Study",
+      "lastUpdated": "2020-02-03T23:25:19-08:00"
+    },
+    {
+      "id": 2168,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2168",
+      "title": "Kokanee Otolith Microchemistry",
+      "lastUpdated": "2020-01-15T07:06:55-08:00"
+    },
+    {
+      "id": 2170,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2170",
+      "title": "Lake Roosvelt Burbot - FWIN Data Analysis",
+      "lastUpdated": "2015-09-03T19:54:28-07:00"
+    },
+    {
+      "id": 2201,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2201",
+      "title": "White Sturgeon Enhancement - Sex and Maturity Assessment of Hatchery Origin Fish",
+      "lastUpdated": "2016-02-10T06:44:52-08:00"
+    },
+    {
+      "id": 2221,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2221",
+      "title": "Creel Survey of Colville Reservation Lakes",
+      "lastUpdated": "2019-04-19T00:53:32-07:00"
+    },
+    {
+      "id": 2222,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2222",
+      "title": "Monitoring and Evaluation of Stocked Trout Populations on the Colville Reservation",
+      "lastUpdated": "2019-04-19T00:54:43-07:00"
+    },
+    {
+      "id": 2224,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2224",
+      "title": "Twin Lakes Dissolved Oxygen Monitoring",
+      "lastUpdated": "2019-04-19T00:55:30-07:00"
+    },
+    {
+      "id": 2225,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2225",
+      "title": "Monitoring Physical and Biological Effects of Oxygenation in Twin Lakes",
+      "lastUpdated": "2019-04-19T00:56:18-07:00"
+    },
+    {
+      "id": 3282,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3282",
+      "title": "Otolith Microchemistry",
+      "lastUpdated": "2020-01-30T01:20:54-08:00"
+    },
+    {
+      "id": 3315,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3315",
+      "title": "Lahontan Cutthroat Trout Feed Study Data Collection and Analysis",
+      "lastUpdated": "2019-04-19T00:56:50-07:00"
+    },
+    {
+      "id": 3332,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3332",
+      "title": "Triploid Rainbow Trout Movement Evaluation",
+      "lastUpdated": "2019-04-19T00:57:15-07:00"
+    },
+    {
+      "id": 3338,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3338",
+      "title": "Kokanee Acoustic Tracking",
+      "lastUpdated": "2020-01-23T23:46:02-08:00"
+    },
+    {
+      "id": 3353,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3353",
+      "title": "Northern Pike eDNA Monitoring",
+      "lastUpdated": "2020-01-31T08:53:18-08:00"
+    },
+    {
+      "id": 3356,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3356",
+      "title": "Northern Pike Angler Reward Program",
+      "lastUpdated": "2017-10-20T00:01:50-07:00"
+    },
+    {
+      "id": 3372,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3372",
+      "title": "CCT Lake Roosevelt Burbot DNA Sampling eDNA",
+      "lastUpdated": "2017-12-20T06:39:07-08:00"
+    },
+    {
+      "id": 3401,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3401",
+      "title": "Redband Trout Utilization of a Rufus Woods Tributary",
+      "lastUpdated": "2020-06-04T08:02:37-07:00"
+    },
+    {
+      "id": 3486,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3486",
+      "title": "CCT Lake Roosevelt Burbot acoustic telemetry",
+      "lastUpdated": "2019-10-11T04:59:32-07:00"
+    },
+    {
+      "id": 3493,
+      "status": "Revising",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3493",
+      "title": "Resident Fish Stream Monitoring on CCT Reservation",
+      "lastUpdated": "2019-10-29T03:10:48-07:00"
+    },
+    {
+      "id": 3500,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3500",
+      "title": "CCT Lake Roosevelt White Sturgeon Larvae Drift",
+      "lastUpdated": "2019-11-28T04:41:20-08:00"
+    },
+    {
+      "id": 3513,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3513",
+      "title": "Redband Trout Genetic Study",
+      "lastUpdated": "2020-01-25T00:28:31-08:00"
+    },
+    {
+      "id": 3662,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3662",
+      "title": "White Sturgeon Ploidy Screening",
+      "lastUpdated": "2022-01-05T03:43:25-08:00"
+    },
+    {
+      "id": 3703,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3703",
+      "title": "Burbot Fecundity Estimation",
+      "lastUpdated": "2022-11-15T03:48:20-08:00"
+    },
+    {
+      "id": 3704,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3704",
+      "title": "Evaluate gears for sampling juvenile Burbot",
+      "lastUpdated": "2022-12-03T04:28:59-08:00"
+    },
+    {
+      "id": 3739,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3739",
+      "title": "Kokanee Streamside Incubation",
+      "lastUpdated": "2023-09-26T02:42:32-07:00"
+    }
+  ]
+}

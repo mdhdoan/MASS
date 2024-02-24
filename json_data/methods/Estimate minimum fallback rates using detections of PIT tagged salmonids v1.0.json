@@ -1,0 +1,9 @@
+{
+  "abstractText": "Fallback is defined as a fish that is determined by a PIT tag detection to have moved upstream of a dam and then is later detected downstream of the dam in question. There are many routes the fish could have taken to end up below dams it has already migrated passed  spillway, navigation locks, juvenile bypass systems, or turbines. Fallback behavior by salmon and steelhead has been found to cause migration delays (Keefer et al. 2004), and decreased escapement to the spawning grounds (Boggs et al. 2004, Keefer et al. 2005).Thismethod will underestimate fallback as it does not include fish that fall back over a dam and are not subsequently detected. Fish moving downstream through a fish ladder are not used in this analysis.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/6772",
+  "title": "Estimate minimum fallback rates using detections of PIT tagged salmonids v1.0",
+  "id": 6772,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Jeffrey Fryer",
+  "ownerEmail": "fryj@critfc.org"
+}

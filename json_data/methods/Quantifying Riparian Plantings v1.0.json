@@ -1,0 +1,9 @@
+{
+  "abstractText": "This protocol is to be implemented after a habitat restoration project funded by the SRFB has placed vegetative plantings along the riparian corridor.  The intent is to trace the survival, condition, growth, and cover provided by the riparian plantings.  Riparian restoration plantings may be a mixture of evergreen and deciduous tree and shrub species tolerant to riparian areas.  In reforestation areas, tree densities of 400-700 trees per acre are commonly used at the time of planting.  It is normally anticipated that tree loss will occur and that after 3-5 years 50% or more will have succumbed to competition, browsing or some other effect.  Normal timberlands in the Pacific Northwest thinned for wood production will contain 30 trees/acre for Douglas fir and up to 60 trees per acre for planted hemlock and alder.  For the purposes of testing effectiveness over a relatively short period of ten years, there could be expected to be approximately 200 trees per acre at the end of the study.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/263",
+  "title": "Quantifying Riparian Plantings v1.0",
+  "id": 263,
+  "type": "Data Collection",
+  "ownerName": "Jennifer O'Neal",
+  "ownerEmail": "jen@naturaldes.com"
+}

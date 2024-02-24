@@ -1,0 +1,9 @@
+{
+  "abstractText": "This metric is the calculation of a ratio of floodplain area to main channel area. This ratio has been shown to reflect the level of capacity for floodplain reconnection within a system, and can be used to determine if a project is a good candidate for additional floodplain reconnection restoration efforts.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1762",
+  "title": "Ratio of Floodplain Area to Channel Area v1.0",
+  "id": 1762,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Jennifer O'Neal",
+  "ownerEmail": "jen@naturaldes.com"
+}

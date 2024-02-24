@@ -1,0 +1,9 @@
+{
+  "abstractText": "There are many types of DNA extraction kits and protocols.  One that has proven to yield high quality/quantity DNA extract for SNP genotyping is the nexttecTM Clean Plates 96 fish protocol.As opposed to most other kits/protocols, no DNA is retained by the column resin. Instead proteins, detergents and low molecular weight compounds are retained. DNA passes through the column during a short, one-step purification procedure.The obtained DNA is suitable for common enzymatic reactions (restriction digests, real-time PCR, PCR, SNP genotyping etc.).",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1339",
+  "title": "Nexttec 96-Well Tray DNA Extraction Kit Protocol v1.0",
+  "id": 1339,
+  "type": "Data Collection",
+  "ownerName": "Matthew Campbell",
+  "ownerEmail": "matthew.campbell@idfg.idaho.gov"
+}

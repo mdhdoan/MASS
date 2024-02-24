@@ -1,0 +1,9 @@
+{
+  "abstractText": "This method describes the process of extracting DNA from filtered eDNA samples, using a phenol-chloroform approach.This method was modified by Kim Parsons (NWFSC) from the following: Renshaw M. A. et al. (2015). The room temperature preservation of filtered environmental DNA samples and assimilation into a phenol-chloroform-isoamyl alcohol DNA extraction. Mol. Ecol. Resources 15:168-176.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/6778",
+  "title": "Extraction of filtered eDNA using phenol-chloroform method v1.0",
+  "id": 6778,
+  "type": "Data Collection",
+  "ownerName": "Ewann Berntson",
+  "ownerEmail": "ewann.berntson@noaa.gov"
+}

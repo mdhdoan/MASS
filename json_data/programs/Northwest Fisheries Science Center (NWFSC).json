@@ -1,0 +1,38 @@
+{
+  "url": "http://www.monitoringresources.org/api/v1/programs/81",
+  "title": "Northwest Fisheries Science Center (NWFSC)",
+  "id": 81,
+  "primaryContactName": "Ewann Berntson",
+  "primaryContactEmail": "ewann.berntson@noaa.gov",
+  "organizations": [],
+  "protocols": [
+    {
+      "id": 363,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/363",
+      "title": "Monitor and evaluate the genetic characteristics of supplemented salmon and steelhead in the Snake River Basin--conventional population monitoring (1989-096-00)",
+      "lastUpdated": "2017-12-19T23:43:21-08:00"
+    },
+    {
+      "id": 364,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/364",
+      "title": "Genetic Monitoring of relative reproductive success of supplemented Chinook and steelhead in the Snake River Basin (1989-096-00)",
+      "lastUpdated": "2017-12-16T05:08:07-08:00"
+    },
+    {
+      "id": 3370,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3370",
+      "title": "Monitor and evaluate the genetic characteristics of supplemented salmon and steelhead in the Snake River Basin--conventional population monitoring (1989-096-00)",
+      "lastUpdated": "2017-12-20T04:47:33-08:00"
+    },
+    {
+      "id": 3471,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3471",
+      "title": "Environmental DNA Sampling eDNA for Chinook salmon and steelhead allele frequencies in the Snake River Basin",
+      "lastUpdated": "2019-03-19T03:58:34-07:00"
+    }
+  ]
+}

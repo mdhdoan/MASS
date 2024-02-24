@@ -1,0 +1,9 @@
+{
+  "abstractText": "We used an open capture, single-release, Cormack (1964), Jolly (1965), Seber (1965) (CJS) model to estimate survival and its variance from release of steelhead out-migrants to the PIT-array, from the PIT-array to the trap, from the trap to Bonneville Dam, and from Bonneville Dam to the Columbia River estuary.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/4057",
+  "title": "Single Release Survival Estimation from Release of PIT-Tagged Smolt to Each Detection Point Downstream v1.0",
+  "id": 4057,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Derrek Faber",
+  "ownerEmail": "derrek.m.faber@state.or.us"
+}

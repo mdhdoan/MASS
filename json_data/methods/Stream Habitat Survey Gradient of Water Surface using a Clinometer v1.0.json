@@ -1,0 +1,9 @@
+{
+  "abstractText": "Establishing monitoring programs and gathering quantitative information on aquatic habitat conditions of streams can provide basic information to biologists and land managers that allow them to direct or focus habitat restoration efforts. Compatibility with other inventories and classification systems is achieved by systematically identifying and quantifying valley and stream geomorphic features. Information is both collected and analyzed based on a hierarchical system of regions, basins, streams, reaches, and habitat units. One such habitat unit characteristic is gradient of water surface or slope. Channel bed form and flow characteristics are the primary determinant of unit classification, however, characteristic water surface slopes can be used to help determine habitat unit type when the other characteristics are ambiguous. This measurement shows the percent change in elevation over the length of the unit.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/3878",
+  "title": "Stream Habitat Survey: Gradient of Water Surface using a Clinometer v1.0",
+  "id": 3878,
+  "type": "Data Collection",
+  "ownerName": "PNAMP Support",
+  "ownerEmail": "pnamp.mm@gmail.com"
+}

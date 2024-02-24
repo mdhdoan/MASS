@@ -1,0 +1,9 @@
+{
+  "abstractText": "High-density genome-wide DNA sequencing increases the likelihood of discovering genetic markers useful for Parentage Based Tagging and Genetic Stock Identification projects. In addition, this sequencing can be used to identify genes under selection. For example, Narum et al (2013) identified genes in Oncorhynchus mykiss under selection for thermal stress, which could be used to predict the potential for adaptation under scenarios of climate change. While there is an increasing availability of reference genomes across broad taxa, the greatest limitation to whole-genome sequencing of multiple individuals continues to be the costs associated with sequencing. Recently, methods have developed that involve the pooling of multiple individuals and sequencing the homogenized DNA (e.g. Pool-Seq), which provides a representation of allele frequencies for populations at a fraction of the cost of sequencing individuals.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/6754",
+  "title": "Whole Genome Resequencing: Poolseq Individual Barcode v1.0",
+  "id": 6754,
+  "type": "Data Collection",
+  "ownerName": "Matthew Campbell",
+  "ownerEmail": "matthew.campbell@idfg.idaho.gov"
+}

@@ -1,0 +1,19 @@
+{
+  "background": "The Banks Lake creel protocol was formulated from those described in Pollock et al. (1994), and Malvestuto (1983) as a monitoring and evaluation tool to estimate harvest rates of Kokanee stocked into the lake from the Ford State (project 2001-029-00) and Spokane Tribal hatcheries (project 1991-46-00). The creel also lended a means to monitor and evaluate the populations of Kokanee competitors including Lake Whitefish, Walleye, and Smallmouth Bass.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/553",
+  "title": "Creel Monitoring for the Banks Lake Fishery",
+  "id": 553,
+  "assumptions": "<p>A key assumption is that a representative sample of anglers is intercepted so that the entire fishery is represented.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/155",
+    "http://www.monitoringresources.org/api/v1/methods/1127",
+    "http://www.monitoringresources.org/api/v1/methods/1154"
+  ],
+  "objectives": [
+    "Quantify spatial and temporal catch and harvest of Kokanee \r\nCompare harvest rates to baseline collected since 2002.",
+    "Quantify spatial and temporal catch of Kokanee, Lake Whitefish, Walleye, Smallmouth Bass, and other pertinent sport fish targeted by anglers. \r\n"
+  ],
+  "ownerName": "Matt Polacek",
+  "ownerEmail": "polacmcp@dfw.wa.gov",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/64"
+}

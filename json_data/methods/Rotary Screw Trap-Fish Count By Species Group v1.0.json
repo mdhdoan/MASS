@@ -1,0 +1,9 @@
+{
+  "abstractText": "Daily fish handling procedures include the identification and enumeration of fish, the recording of marks and tags and water temperatures and should follow the protocols outlined in A Field Manual of Scientific Protocols for the Capture, Handling, and Tagging of Wild Salmonids in the Upper Columbia River Basin using Passive Integrated Transponder (PIT) Tags within the Upper Columbia Monitoring Strategy (Terraqua 2008).Method for sampling smolts using group counts of fish rather than measurement of individuals. Daily fish handling procedures include the identification and enumeration of fish, and the recording of marks, tags, and mortalities.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/272",
+  "title": "Rotary Screw Trap-Fish Count By Species Group v1.0",
+  "id": 272,
+  "type": "Data Collection",
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org"
+}

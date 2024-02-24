@@ -1,0 +1,307 @@
+{
+  "url": "http://www.monitoringresources.org/api/v1/programs/10",
+  "title": "ISEMP (Integrated Status & Effectiveness Monitoring Program)",
+  "id": 10,
+  "primaryContactName": "Chris Jordan",
+  "primaryContactEmail": "chris.jordan@noaa.gov",
+  "organizations": [
+    "Bonneville Power Administration",
+    "National Oceanic and Atmospheric Administration"
+  ],
+  "protocols": [
+    {
+      "id": 46,
+      "status": "Revising",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/46",
+      "title": "Electrofishing Protocol of the Upper Columbia Monitoring Strategy",
+      "lastUpdated": "2017-08-03T06:45:38-07:00"
+    },
+    {
+      "id": 47,
+      "status": "Revising",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/47",
+      "title": "Bridge Creek Discharge Protocol 2008",
+      "lastUpdated": "2013-09-06T16:32:02-07:00"
+    },
+    {
+      "id": 48,
+      "status": "Revising",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/48",
+      "title": "ISEMP Bridge Creek Remote Location Fish Capture (2007-2009)",
+      "lastUpdated": "2013-09-17T19:27:39-07:00"
+    },
+    {
+      "id": 49,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/49",
+      "title": "A Field Manual of Scientific Protocols for Capture, Handling, and Tagging of Wild Salmonids in the Upper Columbia River Basin using Passive Integrated",
+      "lastUpdated": "2016-04-28T04:38:43-07:00"
+    },
+    {
+      "id": 50,
+      "status": "Revising",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/50",
+      "title": "ISEMP Field Manual of Scientific Protocols for Downstream Migrant Trapping within the Upper Columbia Monitoring Strategy",
+      "lastUpdated": "2017-10-11T02:05:42-07:00"
+    },
+    {
+      "id": 51,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/51",
+      "title": "Field Manual of Methods for Fine Sediment Sampling within the Upper Columbia Monitoring Strategy",
+      "lastUpdated": "2016-09-23T04:13:28-07:00"
+    },
+    {
+      "id": 52,
+      "status": "Revising",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/52",
+      "title": "ISEMP Field Manual of Scientific Protocols for Habitat Surveys within the Upper Columbia Monitoring Strategy",
+      "lastUpdated": "2013-04-26T17:02:31-07:00"
+    },
+    {
+      "id": 53,
+      "status": "Revising",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/53",
+      "title": "ISEMP Field Manual of Scientific Protocols for Steelhead Redd Surveys within the Upper Columbia Monitoring Strategy",
+      "lastUpdated": "2013-03-22T23:55:53-07:00"
+    },
+    {
+      "id": 54,
+      "status": "Revising",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/54",
+      "title": "ISEMP Field Manual of Scientific Protocols for Underwater Observations within the Upper Columbia Monitoring Strategy",
+      "lastUpdated": "2016-08-04T23:50:32-07:00"
+    },
+    {
+      "id": 55,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/55",
+      "title": "ISEMP Field Manual of Scientific Protocols for Water Quality Surveys within the Upper Columbia Monitoring Strategy",
+      "lastUpdated": "2016-10-31T23:57:45-07:00"
+    },
+    {
+      "id": 56,
+      "status": "Revising",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/56",
+      "title": "Field Sampling and Laboratory Processing Protocol for Stream Macroinvertebrates: Bridge Creek Intensively Monitored Watershed 2007 & 2008",
+      "lastUpdated": "2016-11-15T03:59:10-08:00"
+    },
+    {
+      "id": 57,
+      "status": "Revising",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/57",
+      "title": "ISEMP Fish Habitat Sampling Protocol, Lemhi Pilot Study 2009",
+      "lastUpdated": "2013-09-17T18:32:56-07:00"
+    },
+    {
+      "id": 58,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/58",
+      "title": "Riparian Stake Planting and Monitoring Protocol for Bridge Creek (2010)",
+      "lastUpdated": "2016-05-10T03:43:24-07:00"
+    },
+    {
+      "id": 59,
+      "status": "Revising",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/59",
+      "title": "Sampling Protocol for Stream Channel Attributes: Bridge Creek Intensively Monitored Watershed 2009",
+      "lastUpdated": "2013-09-17T16:24:05-07:00"
+    },
+    {
+      "id": 288,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/288",
+      "title": "Upper Columbia Status and Trend Fish Monitoring Study (2003-017-00)",
+      "lastUpdated": "2011-06-27T18:58:23-07:00"
+    },
+    {
+      "id": 322,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/322",
+      "title": "Salmon Subbasin watershed model implementation in the South Fork Salmon River and Lemhi River (2003-017-00)",
+      "lastUpdated": "2011-06-27T18:57:14-07:00"
+    },
+    {
+      "id": 333,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/333",
+      "title": "Entiat Intensively Monitored Watershed (2003-017-00)",
+      "lastUpdated": "2011-06-27T18:52:51-07:00"
+    },
+    {
+      "id": 345,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/345",
+      "title": "John Day Status and Trend Fish and Habitat Monitoring (2003-017-00)",
+      "lastUpdated": "2011-06-27T18:56:01-07:00"
+    },
+    {
+      "id": 346,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/346",
+      "title": "John Day ODFW Effectiness Monitoring Program (2003-017-00)",
+      "lastUpdated": "2011-06-27T18:54:36-07:00"
+    },
+    {
+      "id": 347,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/347",
+      "title": "Bridge Creek Intensively Monitored Watershed Study (2003-017-00)",
+      "lastUpdated": "2012-05-22T22:36:07-07:00"
+    },
+    {
+      "id": 501,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/501",
+      "title": "ISEMP Field Manual of Scientific Protocols for Capture, Handling, and Tagging of Wild Salmonids in the Salmon River Sub-Basin using PIT Tags",
+      "lastUpdated": "2011-11-01T16:49:58-07:00"
+    },
+    {
+      "id": 502,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/502",
+      "title": "ISEMP Cooperator Field Manual for Rotary Screw Traps in the South Fork Salmon River Sub-Basin",
+      "lastUpdated": "2011-11-01T16:30:34-07:00"
+    },
+    {
+      "id": 504,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/504",
+      "title": "ISEMP Snake River Adult Salmon Steelhead Tributary Escapement Estimation Protocol",
+      "lastUpdated": "2011-11-01T16:31:55-07:00"
+    },
+    {
+      "id": 534,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/534",
+      "title": "ISEMP Cooperator Field Manual for Rotary Screw Traps in the Lemhi River Sub-Basin",
+      "lastUpdated": "2011-11-01T16:36:40-07:00"
+    },
+    {
+      "id": 535,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/535",
+      "title": "ISEMP Data Analyst Protocol",
+      "lastUpdated": "2012-05-22T18:44:15-07:00"
+    },
+    {
+      "id": 1917,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/1917",
+      "title": "ISEMP Discharge Download Protocol 2012",
+      "lastUpdated": "2013-08-28T21:08:43-07:00"
+    },
+    {
+      "id": 1967,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/1967",
+      "title": "United States Fish and Wildlife Service Smolt Trap 2013",
+      "lastUpdated": "2017-10-11T01:25:29-07:00"
+    },
+    {
+      "id": 1969,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/1969",
+      "title": "ISEMP Field Manual of Scientific Protocols for Steelhead Redd Surveys within the Upper Columbia Monitoring Strategy Copy",
+      "lastUpdated": "2017-08-16T02:27:28-07:00"
+    },
+    {
+      "id": 1977,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/1977",
+      "title": "Fish habitat capacity estimation methods along stream networks",
+      "lastUpdated": "2016-10-31T22:25:55-07:00"
+    },
+    {
+      "id": 2131,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2131",
+      "title": "Modified ISEMP Field Manual of Scientific Protocols for Downstream Migrant Trapping, with DNA sampling",
+      "lastUpdated": "2015-03-24T21:10:20-07:00"
+    },
+    {
+      "id": 2185,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2185",
+      "title": "Monitoring groundwater fluctuations using data loggers deployed in shallow groundwater wells",
+      "lastUpdated": "2016-11-04T05:15:23-07:00"
+    },
+    {
+      "id": 2187,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2187",
+      "title": "PIT tag Based Escapement Estimation Above Lower Granite Dam",
+      "lastUpdated": "2016-08-30T02:41:55-07:00"
+    },
+    {
+      "id": 2211,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2211",
+      "title": "A Field Manual of Scientific Protocols for Monitoring the Status and Trend of Wild Salmonids in the Entiat River Subbasin",
+      "lastUpdated": "2017-08-03T06:46:45-07:00"
+    },
+    {
+      "id": 2214,
+      "status": "Expired",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2214",
+      "title": "Ageing Juvenile Steelhead in the Entiat River WA - expired 2017-10-10",
+      "lastUpdated": "2017-10-11T02:39:36-07:00"
+    },
+    {
+      "id": 2234,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2234",
+      "title": "ISEMP Life Cycle Models",
+      "lastUpdated": "2017-12-15T03:50:06-08:00"
+    },
+    {
+      "id": 2237,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2237",
+      "title": "Determining Winter Habitat Requirements of Spring Chinook and Steelhead in the Entiat River, Washington",
+      "lastUpdated": "2018-12-15T06:51:46-08:00"
+    },
+    {
+      "id": 2265,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2265",
+      "title": "In-Stream PIT tag Detection System (IPTDS) Data Standards",
+      "lastUpdated": "2017-03-14T23:30:24-07:00"
+    },
+    {
+      "id": 2267,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2267",
+      "title": "ISEMP Cooperator Rotary Screw Trap Operation",
+      "lastUpdated": "2016-10-22T01:06:21-07:00"
+    },
+    {
+      "id": 2271,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2271",
+      "title": "Estimating solar insolation and electrical conductivity for inputs in a salmonid gross primary production model",
+      "lastUpdated": "2018-03-08T03:49:11-08:00"
+    },
+    {
+      "id": 3275,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3275",
+      "title": "NREI",
+      "lastUpdated": "2016-11-14T01:58:15-08:00"
+    },
+    {
+      "id": 3301,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3301",
+      "title": "Effectiveness Monitoring of Floodplain Vegetation in Response to Beaver Dam Analogs",
+      "lastUpdated": "2017-12-12T03:14:39-08:00"
+    },
+    {
+      "id": 3587,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3587",
+      "title": "PIT tag Based Escapement Estimation Above Lower Granite Dam Copy",
+      "lastUpdated": "2020-11-14T06:15:38-08:00"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "background": "Burbot stock limitations become an increasing factor to restoration with each passing season. Because the Kootenai River burbot stock is so limited (Paragamian and Laude 2008), the introduction of a genetically similar donor stock was found to be a useful approach to enhance the population.In the past few years, intensive culture techniques developed by the Kootenai Tribe of Idaho, BC Ministry of Environment, the UIARI, and Idaho Department of Fish and Game (IDFG) have become an important restoration measure for burbot on the Kootenai River. The management goal of this study is to restore the burbot population in the Idaho reach of the Kootenai River in order to provide an annual sustainable harvest of burbot.To evaluate burbot early growth and survival in a natural environment, larvae wereraised in two extensive rearing ponds.Burbot that are initially hatched at the University of Idaho Aquatic Research Institute (ARI) are reared in extensive ponds on Boundary Creek Wildlife Management Area to determine if survival and growth of juvenile burbot in a natural setting is higher than a hatchery setting. Two ponds currently exist for treatment studies. For hypothesis testing, additional ponds may be constructed to test concurrent treatment effects. Once these fish are released into the Kootenai River, survival of these pond reared burbot can be assessed. An example of test hypothesis are as follows: Null Hypothesis (Ho) tested: pond reared burbot survive at a higher rate than burbot reared in a hatchery through their juvenile life stage.Aside from this protocol which deals directly with the pond rearing of these fish, the mainKootenaiRiver will be sampled to determine if fish from these releases are surviving and recruiting to the adult population. Sampling and survival estimates will be accomplished using Protocol # 548:KRRFM-BurbotAdult and Juvenile Stock Assessment (1988-065-00) v1.0.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/2002",
+  "title": "KRRFM - Burbot Early Life Studies: WMA Ponds (1988-065-00)",
+  "id": 2002,
+  "assumptions": "<p>Fish have an equal chance of being sampled once they are recruited to gear in the Kootenai River.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/746",
+    "http://www.monitoringresources.org/api/v1/methods/889",
+    "http://www.monitoringresources.org/api/v1/methods/1551",
+    "http://www.monitoringresources.org/api/v1/methods/1736",
+    "http://www.monitoringresources.org/api/v1/methods/3791",
+    "http://www.monitoringresources.org/api/v1/methods/3793",
+    "http://www.monitoringresources.org/api/v1/methods/3931",
+    "http://www.monitoringresources.org/api/v1/methods/4042",
+    "http://www.monitoringresources.org/api/v1/methods/4043"
+  ],
+  "objectives": [
+    "Determine if pond raised burbot grow and survive better than those reared in a hatchery and stocked into the main Kootenai River.",
+    "Determine differences in growth and survival between ponds."
+  ],
+  "ownerName": "T.J. Ross",
+  "ownerEmail": "tj.ross@idfg.idaho.gov",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/28"
+}

@@ -1,0 +1,37 @@
+{
+  "background": "The Northwest Forest Plan, hereafter referred to as the Plan, was approved in 1994. The Plan includes an Aquatic Conservation Strategy that requires the protection, rehabilitation, and monitoring of aquatic ecosystems under the Plans jurisdiction (USDA-USDI 1994). The Aquatic and Riparian Effectiveness Monitoring Program (AREMP or the monitoring plan) was developed to fulfill these monitoring requirements. The primary purpose of AREMP is to determine the current condition of 6th-field watersheds and track changes in watershed condition over time. A total of 250 watersheds will be monitored under AREMP. One of the most important aspects of the program is the collection of consistent data throughout the Northwest Forest Plan area to provide comparative data used to assess watershed condition.The field data collected is combined with upslope and riparian information to determine watershed condition. Condition is determined using a decision support model that evaluates individual indicators and then aggregates the evaluation scores. The stream data collected in the field represent about 2/3 of the data included in the decision support model. As natural variance both within and between the watersheds is quite high, it is imperative that errors due to sampling and observer bias are minimized. The data collected will be used as the basis for management decisions throughout the Pacific Northwest. These data comprise one of the largest data sets that exist in the Pacific Northwest, both spatially and temporally. Therefore, it is of the utmost importance to make the effort to produce the highest quality data possible. This document is addressed in section 11.1 Standard Operating Procedures of the Quality System Management Plan (Palmer, in prep).The goal is to efficiently and safely collect the best data possible within a watershed.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/1953",
+  "title": "AREMP 2013 Field Season -  Regional Interagency Monitoring for the Northwest Forest Plan",
+  "id": 1953,
+  "assumptions": "<p>Errors due to sampling and observer bias are minimized.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/3806",
+    "http://www.monitoringresources.org/api/v1/methods/3807",
+    "http://www.monitoringresources.org/api/v1/methods/3809",
+    "http://www.monitoringresources.org/api/v1/methods/3810",
+    "http://www.monitoringresources.org/api/v1/methods/3811",
+    "http://www.monitoringresources.org/api/v1/methods/3818",
+    "http://www.monitoringresources.org/api/v1/methods/3819",
+    "http://www.monitoringresources.org/api/v1/methods/3850",
+    "http://www.monitoringresources.org/api/v1/methods/3851",
+    "http://www.monitoringresources.org/api/v1/methods/3852",
+    "http://www.monitoringresources.org/api/v1/methods/3853",
+    "http://www.monitoringresources.org/api/v1/methods/3854",
+    "http://www.monitoringresources.org/api/v1/methods/3855",
+    "http://www.monitoringresources.org/api/v1/methods/3856",
+    "http://www.monitoringresources.org/api/v1/methods/3857",
+    "http://www.monitoringresources.org/api/v1/methods/3858",
+    "http://www.monitoringresources.org/api/v1/methods/5537"
+  ],
+  "objectives": [
+    "Is the Northwest Forest Plan (NWFP) maintaining or restoring aquatic and riparian ecosystems to desired conditions on federal lands in the Forest Plan area?",
+    "Provide information for adaptive management by analyzing trends in watershed condition and identifying causes of unsuitable or unacceptable conditions.",
+    "Provide a framework for adaptive monitoring at the regional scale.",
+    "Develop predictive models to improve use of monitoring data, potentially reducing the number of attributes measured and long-term monitoring costs.",
+    "Develop and validate decision support models that are used to evaluate the data collected and assess the condition of the watersheds that have been sampled.",
+    "Assess the condition of 250 watersheds within the Northwest Forest Plan area by collecting information on upslope, riparian, and in-channel attributes within each watershed."
+  ],
+  "ownerName": "Mark Raggon",
+  "ownerEmail": "mraggon@fs.fed.us",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/1"
+}

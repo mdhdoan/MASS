@@ -1,0 +1,18 @@
+{
+  "background": "Coded wire tags (cwt) can be an excellent way to monitor the life history and behavior ofhatchery population. Summer/fall Chinook released in the OkanoganRiver Basin (through the Similkameen Program operated by WDFW and the Chief Joseph Hatchery Program operated by the ConfederatedTribes of the Colville Indian Reservation) are fitted with coded wire tags that can be extracted, read, and uploaded to the Regional Mark Processing Center (RMPC) cwt database for later analysis and interpretation of data.Three things the Chief Joseph Hatchery Monitoring and Evaluation Program monitors areThe estimated genetic contribution of hatchery-originOkanogan-released Chinook to other, nontarget basin spawning populations for a given brood yearThe estimated genetic contribution of hatchery-origin non-Okanogan-released Chinook to the Okanogan River Basin spawning population for a given brood yearThe overall stray rate of hatchery-origin, Okanogan-released Chinook for a given brood year.Monitoring these helps to monitor the flow of hatchery-origin genes throughout the Upper Columbia Basin and inform hatchery management decisions.Carcasses are collected within theOkangaonRiver Basin from September through November annually (see Method 5490), and coded wire tags are extracted, read, and submitted toRMISfrom November through February. Once coded wire tag data for all Upper Columbia River Basins has been made publicly available onRMIS, the queries for retrieving and analyzing coded wire tag data are carried out, typically annually in April.Calculating the estimated genetic contribution ofOkanoganRiver Basin hatchery-origin summer/fall Chinook to out-of-basinspwaningpopulaitonsand calculating the rate ofOkanoganRiver in-to-basin summer/fall hatchery-origin stray Chinook are queries that are run annually. Calculating the brood year out-of-basin stray rate is performed after the cycle for a given brood year is complete - for example, all of the returns from brood year 2010 should be complete by 2016, so that is the year in which the estimate is calculated. Queries are repeated and these calculations are updated annually to include any revisions or additions the theRMISdata set (i.e. more coded wire tags are submitted and added to theRMISdatabase).",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/2264",
+  "title": "Retrieve and Analyze CWT Information for for Okanogan Summer/Fall Chinook",
+  "id": 2264,
+  "assumptions": "<p>All hatchery-origin summer/fall Chinook on a spawning ground have an equal chance of recovery</p>\r\n\r\n<p>All deciphered tags are read correctly</p>\r\n\r\n<p>RMPC&nbsp;provided estimates of fish numbers are correct</p>\r\n\r\n<p>Spawning escapement estimates for a given basin are correct</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/5540",
+    "http://www.monitoringresources.org/api/v1/methods/5541",
+    "http://www.monitoringresources.org/api/v1/methods/5542"
+  ],
+  "objectives": [
+    "Examine, through analysis of cwt data, life history patterns of hatchery-origin summer/fall Chinook Salmon, specifically homing and stray rates to and from the Okanogan River Basin."
+  ],
+  "ownerName": "John Rohrback",
+  "ownerEmail": "john.rohrback@colvilletribes.com",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/61"
+}

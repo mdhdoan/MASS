@@ -1,0 +1,9 @@
+{
+  "abstractText": "The CHaMP - Particle Size Distribution and Particle Embeddedness Method provides background on identification of the channel units that are analyzed for this calculation. See - http://www.monitoringmethods.org/Method/Details/840",
+  "url": "http://www.monitoringresources.org/api/v1/methods/865",
+  "title": "D16, D50, and D84 Particle Size in Riffles Calculation v1.0",
+  "id": 865,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Steve Rentmeester",
+  "ownerEmail": "steve@sitkatech.com"
+}

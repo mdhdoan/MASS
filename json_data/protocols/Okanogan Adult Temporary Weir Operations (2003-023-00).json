@@ -1,0 +1,40 @@
+{
+  "background": "Colville Confederated Tribes (CCT) staff will install and operate the weir as a live capture facility for summer/fall Chinook salmon to collect natural-origin broodstock(NOB) and reduce the proportion of hatchery-origin spawners(pHOS). We anticipate using a similar configuration as previous years with some modifications to the design based on past experience with this structure from 2012-2015. Monitoring will be conducted to evaluate weir effects and effectiveness, with metrics dependent on terms and conditions of the permit. Past metrics included water quality, head differential, velocity, tower observations, downstream fish observations, trap counts, and underwater video. Field crew completes the data sheets for daily review by staff biologists. Weekly weir reports include fish injury, mortality, water quality and trapping information. The Monitoring & Evaluation (M&E) Lead will be immediately informed of any observations that indicate a potential negative impact to fish health. Critical situations and observations will then be relayed to the CCT representative of the Technical Oversight Group (TOG)the same day, for communication to other TOG members.The purpose of the weir is to assess the feasibility of safe and effective fish capture, handling, release, and by-pass, and to assess the structural integrity and efficiency of the trap and guidance system. Hence, there are several specific questions that need to be investigated relative to the operation. These questions are partitioned into three topic areas: 1. Structural design 2. Operational design 3. Fish behavior and passage. The goal is to collect data that will answer these questions, confirm adequate performance, or indicate inadequate performance. Specific data sheets will be completed for each type of activity conducted by the weir project.The temporary picket weir will be installed when flows allow (less than 2500 cfs, generally early to mid July) and operated at least through the end of September. The trap will not be operated at warmer than 22.5 C (at the Malott gauge). Once temperature drops and trapping begins, the weir will be operated 24/7 until after the thermal barrier breaks down and the abundance of Chinook passing the weir decreases (generally early September). Subsequently, the weir may be operated on a reduced schedule (e.g., 5 days per week). Trapping consists of hourly checks for presence/absence of adult fish. If adult fish are present, staff will net and remove all non-target species (Sockeye and Steelhead) for release upstream of the weir. Hatchery Chinook are netted and transferred to totes for subsistence and ceremonial purposes until our pHOS biological target is met. Natural origin Chinook are netted and transferred to an adult holding tank for hatchery broodstock. Once the weekly broodstock goal is met, all natural origin Chinook are released upstream.A more detailed description of the Okanogan Adult Fish Weir can be found on our website athttp://www.colvilletribes.com/2015_okanogan_pilot_weir_operational_plan.php",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/219",
+  "title": "Okanogan Adult Temporary Weir Operations (2003-023-00)",
+  "id": 219,
+  "assumptions": "<p>Weir trap and panels are working properly.&nbsp; All measuring devices are calibrated properly before use.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/342",
+    "http://www.monitoringresources.org/api/v1/methods/515",
+    "http://www.monitoringresources.org/api/v1/methods/1443",
+    "http://www.monitoringresources.org/api/v1/methods/1548",
+    "http://www.monitoringresources.org/api/v1/methods/4041",
+    "http://www.monitoringresources.org/api/v1/methods/5498",
+    "http://www.monitoringresources.org/api/v1/methods/5499",
+    "http://www.monitoringresources.org/api/v1/methods/5507",
+    "http://www.monitoringresources.org/api/v1/methods/5508",
+    "http://www.monitoringresources.org/api/v1/methods/5509",
+    "http://www.monitoringresources.org/api/v1/methods/5511",
+    "http://www.monitoringresources.org/api/v1/methods/5516",
+    "http://www.monitoringresources.org/api/v1/methods/5517",
+    "http://www.monitoringresources.org/api/v1/methods/5520",
+    "http://www.monitoringresources.org/api/v1/methods/5522",
+    "http://www.monitoringresources.org/api/v1/methods/5523",
+    "http://www.monitoringresources.org/api/v1/methods/5527"
+  ],
+  "objectives": [
+    "Continued testing of weir configurations, fish removal and handling methods, and data collection methods.",
+    "Non-native species will be killed, all other non-target species shall be released unharmed",
+    "Natural-origin Chinook will be; (a) released upstream of the weir for continued migration to the spawning grounds; or (b) retained for use in Chief Joseph Hatchery integrated program broodstock.",
+    "Hatchery-origin Chinook that are trapped will be released upstream of the weir for continued migration to the spawning grounds if overall run size is relatively low (<5,000) and pHOS is also low (<20%",
+    "Hatchery-origin Chinook that are trapped will be retained for use in Chief Joseph Hatchery segregated program broodstock, if needed.",
+    "Hatchery-origin Chinook that are trapped will be retained to reduce escapement of hatchery fish and reduce pHOS and increase the proportion of natural influence (PNI) to achieve populatino goals.",
+    "Collect data to assess weir effects on the immediate environment and on target and non-target species",
+    "Test the weir as an adult Summer/Fall Chinook Salmon management tool, to meet broodstock needs of the CJHP, and to meet pHOS and PNI targets for the population.",
+    "Analyze and summarize mortality, trapping, fish behavior (observations), hydrology at the weir to evaluate weir effects and effectiveness."
+  ],
+  "ownerName": "Andrea Pearl",
+  "ownerEmail": "andrea.pearl@colvilletribes.com",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/61"
+}

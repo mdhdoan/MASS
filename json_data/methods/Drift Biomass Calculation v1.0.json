@@ -1,0 +1,9 @@
+{
+  "abstractText": "Sum of the total dry weight of drift invertebrates per sample dry mass perm3of water (2 nets). To do this, calculate sample biomass as sample dry weight divided by portion of sample weighed. Sum sample biomass across sample replicates (nets). Calculate volume sampled as the product of sample depth, net width, average velocity, and sample duration and sum area sampled across sample replicates (both nets). Calculate drift density as sample biomass divided by sample volumeThe CHaMP - Macroinvertebrate Drift Method provides background on collection of the measurement data that are analyzed for this calculation. See - http://www.monitoringmethods.org/Method/Details/849 Total drift biomass will be calculated by grams per square meter and samples will be collected in two drift nets.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/887",
+  "title": "Drift Biomass Calculation v1.0",
+  "id": 887,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Steve Rentmeester",
+  "ownerEmail": "steve@sitkatech.com"
+}

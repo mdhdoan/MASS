@@ -1,0 +1,9 @@
+{
+  "abstractText": "At the Columbia River, a somewhat different bar crossing count is used.  As two states boats cross at the rivers mouth and the distance across the river, there is no way to effectively conduct a count of vessels crossing the bar from Oregon ports.  In other ports, counts may be hampered by summer fog.  For these situations, a count of boats heading downstream from a different location with better visibility is made.  On the Columbia River, the count definition is downstream from a North/South line from the Hammond Boat Basin to the Washington shore.  At other ports when fog hampers counting, the new locations are selected where both an accurate count can be made and where anglers/boaters will be aware they have passed that specific location when interviewed dockside.    The count uses the same forms as in the standard bar crossing, and the count is entered under the header of private ocean boat trips.   The count is later adjusted based on the proportion of boats interviewed that went downstream from the count location but did not enter the ocean, and the proportion of boats interviewed that departed outside of the effort count period.  This is a three stage process that involves (1) adjusting for effort outside the exit count period, (2) adjusting for boats that fish both inside the estuary and outside in the ocean, and (3) making the final adjustment to estimate the number of boats that fished in the ocean.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/184",
+  "title": "Effort Estimation - Private Vessel Bar Crossing Count Method \u2013 Foggy days and Columbia River Estuary v1.0",
+  "id": 184,
+  "type": "Data Collection",
+  "ownerName": "Eric Schindler",
+  "ownerEmail": "eric.d.schindler@state.or.us"
+}

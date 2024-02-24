@@ -1,0 +1,18 @@
+{
+  "background": "124 acres of rolling benches were under cultivation for wheat and hay production by the previous owner. These fields were replanted with native grasses and forbs to promote wildlife value. Monitoring plots were established on both a control field (natural bunchgrass community) and a treatment field. Plots were monitored for three years to establish baseline data, and then subsequently every five years.While monitoring was initially used to evaluate the baseline condition of the project area, long-term monitoring will continue to help document trends in plant community health, weedy encroachment, limiting factors for wildlife, and identify/monitor areas of habitat degradation.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/2055",
+  "title": "Grassland Restoration Monitoring on the Precious Lands Wildlife Management Area",
+  "id": 2055,
+  "assumptions": "<p>1.Personnel are trained in the identification of the local flora as well as familiar with the sampling design.</p>\r\n\r\n<p>2.Plots will be monitored at height of growing season (middle of summer) to limit year to year variability.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/4245",
+    "http://www.monitoringresources.org/api/v1/methods/5281",
+    "http://www.monitoringresources.org/api/v1/methods/5317"
+  ],
+  "objectives": [
+    "Reclamation of the natural floral components native to the area."
+  ],
+  "ownerName": "Blair McClarin",
+  "ownerEmail": "blairm@nezperce.org",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/50"
+}

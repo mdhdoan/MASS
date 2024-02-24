@@ -1,0 +1,9 @@
+{
+  "abstractText": "The Columbia Habitat and Monitoring Program (CHaMP) measures key habitat metrics at a series of sites selected using a Generalized Random Tessellation Stratified (GRTS) [1] survey design within each CHaMP watershed. Temporally, individual sites are revisited either yearly or every third year.For each CHaMP metric included, estimates for population mean, median, population standard deviation, and three year trend are included, along with standard error and 95% confidence bounds for the mean and trend estimates. Estimates are made for the entire CHaMP population, as well as within each CHaMP watershed.In addition to status and trend, model based estimates for the components of variance within each watershed for each key CHaMP metric are made. This provides insight into the relative magnitude of measurement noise, year-year variation, watershed-watershed variation, stratum-stratum variation, and site-site variation within each stratum / watershed combination.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/5465",
+  "title": "Design based estimation of status and trend of Columbia Habitat and Monitoring Program metrics v1.0",
+  "id": 5465,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Matt Nahorniak",
+  "ownerEmail": "matt@southforkresearch.org"
+}

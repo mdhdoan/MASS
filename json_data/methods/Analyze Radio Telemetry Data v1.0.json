@@ -1,0 +1,9 @@
+{
+  "abstractText": "We analyze radio telemetry data to document adult steelhead migrations, passage impediments and barriers, prespawning holding areas, spawning areas and the final disposition of radio tagged fish. We also document rate of movement, fall back and kelting movements. Passage impediments and spawning areas are mapped in ARCGIS for a visual representation of their locations. The location, description and details of passage impediments and barriers are provided to habitat enhancement teams and managers for consideration and remedial action.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/6900",
+  "title": "Analyze Radio Telemetry Data v1.0",
+  "id": 6900,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Craig Contor",
+  "ownerEmail": "craigcontor@ctuir.org"
+}

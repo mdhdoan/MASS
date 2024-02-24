@@ -1,0 +1,22 @@
+{
+  "background": "The goal of the CTUIR Biomonitoring program is to assess the effectiveness of CTUIR sponsored habitat restoration actions on spring Chinook salmon (Oncorhynchus tshawystscha), summer steelhead (Oncorhynchus mykiss), and bull trout (Salvenlinus confluenctus) populations. Benthic macroinvertebrates are considered an excellent indicator of water quality and overall stream health. Their quantified response to in-stream restoration actions makes them a valuable tool for monitoring restoration effectiveness (Miller et al. 2010). Due to their limited mobility macroinvertebrates are directly affected by their immediate surroundings making them an important indicator at a smaller reach monitoring scale (Platts et al. 1983).",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/3451",
+  "title": "Benthic MacroInvertebrates Sampling for CTUIR Biological Monitoring of Fish Habitat Action Effectiveness",
+  "id": 3451,
+  "assumptions": "<p>Access to impact and suitable control reaches will be provided.</p>\r\n\r\n<p>Correct identification of macroinvertebrates by processing laboratory.&nbsp;</p>\r\n\r\n<p>Macroinvertebrate species captured in a particular habitat type are indicative of the actual species living in that habitat.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/89",
+    "http://www.monitoringresources.org/api/v1/methods/4073",
+    "http://www.monitoringresources.org/api/v1/methods/4084",
+    "http://www.monitoringresources.org/api/v1/methods/4085",
+    "http://www.monitoringresources.org/api/v1/methods/4114",
+    "http://www.monitoringresources.org/api/v1/methods/4120",
+    "http://www.monitoringresources.org/api/v1/methods/4237"
+  ],
+  "objectives": [
+    "Determine how benthic macroinvertebrate communities have changed as a result of in stream and floodplain habitat restoration."
+  ],
+  "ownerName": "Kaylyn Costi",
+  "ownerEmail": "kaylyncosti@ctuir.org",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/19"
+}

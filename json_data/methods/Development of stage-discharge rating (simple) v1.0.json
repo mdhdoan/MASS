@@ -1,0 +1,9 @@
+{
+  "abstractText": "Stage-discharge relations (or a discharge rating) are developed by using a flow meter to measure the flow of the river at a wide range of stages; for each measurement of discharge there is a corresponding measurement of stage. The discharge rating depends upon the shape, size, slope, and roughness of the channel at the streamgage and is different for every streamgage.The development of an accurate discharge rating requires numerous discharge measurements at all ranges of stage and streamflow. In addition, these relations must be continually checked against on-going discharge measurements because stream channels are constantly changing. Changes in stream channels are often caused by erosion or deposition of streambed materials, seasonal vegetation growth, debris, or ice. The relationship between stage and discharge is often controlled by a station control downstream of the gage that eliminates any effects of downstream conditions on the flow. Station controls can be natural or constructed (Kennedy 1984).",
+  "url": "http://www.monitoringresources.org/api/v1/methods/4150",
+  "title": "Development of stage-discharge rating (simple) v1.0",
+  "id": 4150,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "PNAMP Support",
+  "ownerEmail": "pnamp.mm@gmail.com"
+}

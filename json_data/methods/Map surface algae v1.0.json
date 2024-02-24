@@ -1,0 +1,9 @@
+{
+  "abstractText": "The purpose of this method is to describe the spatial and temporal variability in algae blooms on water bodies. It will provide qualitative information on the amount of blue-green algae that is present that could result in elevated toxin levels. Although coarse in its resolution on algae type, it provides a big picture view of an algae bloom.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/7182",
+  "title": "Map surface algae v1.0",
+  "id": 7182,
+  "type": "Data Collection",
+  "ownerName": "Kenneth Tiffan",
+  "ownerEmail": "ktiffan@usgs.gov"
+}

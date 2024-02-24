@@ -1,0 +1,40 @@
+{
+  "url": "http://www.monitoringresources.org/api/v1/programs/1",
+  "title": "AREMP (USFS Aquatic and Riparian Effectiveness Monitoring Program)",
+  "id": 1,
+  "primaryContactName": "Marcia Snyder",
+  "primaryContactEmail": "marcia.snyder@usda.gov",
+  "organizations": [
+    "U.S. Forest Service"
+  ],
+  "protocols": [
+    {
+      "id": 2,
+      "status": "Expired",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2",
+      "title": "AREMP 2009 Field Season -  Regional Interagency Monitoring for the Northwest Forest Plan",
+      "lastUpdated": "2020-07-30T06:43:28-07:00"
+    },
+    {
+      "id": 1953,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/1953",
+      "title": "AREMP 2013 Field Season -  Regional Interagency Monitoring for the Northwest Forest Plan",
+      "lastUpdated": "2017-12-06T06:57:06-08:00"
+    },
+    {
+      "id": 1965,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/1965",
+      "title": "R1/R4 (Northern/Intermountain Regions) Fish and Fish Habitat Standard Inventory Procedures",
+      "lastUpdated": "2018-03-27T03:07:22-07:00"
+    },
+    {
+      "id": 3542,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3542",
+      "title": "AREMP 2019 Field Manual -  Regional Interagency Monitoring for the Northwest Forest Plan",
+      "lastUpdated": "2023-03-29T01:15:09-07:00"
+    }
+  ]
+}

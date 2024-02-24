@@ -1,0 +1,25 @@
+{
+  "background": "To address impacts to native Westslope Cutthroat Trout populations by non-native fish such as Brook Trout,actions have been implemented to reduce theirabundance in select streams within Pend Oreille River . Mechanical, chemical or alternative removal methods have been applied, that decreaseor eliminate Brook Trout,allowing Westslope Cutthroat Trout to naturally or by assisted means (i.e., reintroduction, augmentation), re-occupyhistoric habitat.Following project management actions (e.g., non-native fish removal, native fish reintroduction), periodic assessments are required to evaluate the status of the standing or reintroducedWestslope Cutthroat Trout population in designated tributaries. This can also be conducted prior to management actions as a baseline for action effectiveness monitoring or in allopatric populations as a natural condition reference. Using multiple-pass depletion electrofishing techniques, data collectedcan be used to calculate abundance estimates and describe biological metrics(e.g., relative weight, cohort distribution) that can be compared to baseline or natural conditions, as a method of evaluating the populationstatus.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/3711",
+  "title": "Westslope Cutthroat Trout Assessment - Resident Tributary Populations",
+  "id": 3711,
+  "assumptions": null,
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/116",
+    "http://www.monitoringresources.org/api/v1/methods/117",
+    "http://www.monitoringresources.org/api/v1/methods/1551",
+    "http://www.monitoringresources.org/api/v1/methods/1712",
+    "http://www.monitoringresources.org/api/v1/methods/4038",
+    "http://www.monitoringresources.org/api/v1/methods/4174",
+    "http://www.monitoringresources.org/api/v1/methods/5370",
+    "http://www.monitoringresources.org/api/v1/methods/6569"
+  ],
+  "objectives": [
+    "Estimate abundance of Westslope Cutthroat Trout.",
+    "Determine spatial extent of Westslope Cutthroat Trout.\r\n",
+    "Summarize age (length) class structure of Westslope Cutthroat Trout"
+  ],
+  "ownerName": "Nick Bean",
+  "ownerEmail": "nbean@knrd.org",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/89"
+}

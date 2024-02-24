@@ -1,0 +1,9 @@
+{
+  "abstractText": "Macroinvertebrate biomass can be estimated by measuring a subsample of organisms in the sample and extrapolating values for the remaining sample. Both Ash-free dry mass and length measurements can be used for this assessment, in conjunction with published values.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/4236",
+  "title": "Estimating Benthic Macroinvertebrate Biomass using Length-Mass Relationships v1.0",
+  "id": 4236,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Rachael Katz",
+  "ownerEmail": "rachael.katz@tetratech.com"
+}

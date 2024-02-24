@@ -1,0 +1,59 @@
+{
+  "url": "http://www.monitoringresources.org/api/v1/programs/89",
+  "title": "Kalispel Tribe fisheries Program",
+  "id": 89,
+  "primaryContactName": "Todd Andersen",
+  "primaryContactEmail": "tandersen@knrd.org",
+  "organizations": [],
+  "protocols": [
+    {
+      "id": 3373,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3373",
+      "title": "Environmental DNA (eDNA) Sampling for the Pend Oreille River Basin",
+      "lastUpdated": "2020-02-01T06:03:02-08:00"
+    },
+    {
+      "id": 3481,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3481",
+      "title": "Generating demographic information for Westslope Cutthroat Trout populations using data collected at an inclined-plane trap and PIT tag arrays",
+      "lastUpdated": "2020-01-25T00:19:38-08:00"
+    },
+    {
+      "id": 3482,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3482",
+      "title": "Pend Oreille River Spring Pike Index Netting (SPIN) Survey",
+      "lastUpdated": "2019-10-09T00:32:52-07:00"
+    },
+    {
+      "id": 3534,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3534",
+      "title": "Kalispel Tribe genetic evaluation of Mill Creek Myy Brook Trout reproductive success",
+      "lastUpdated": "2020-02-01T06:01:17-08:00"
+    },
+    {
+      "id": 3590,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3590",
+      "title": "Environmental DNA (eDNA) Sampling for the Pend Oreille River Basin Copy",
+      "lastUpdated": "2020-11-20T04:58:48-08:00"
+    },
+    {
+      "id": 3711,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3711",
+      "title": "Westslope Cutthroat Trout Assessment - Resident Tributary Populations",
+      "lastUpdated": "2023-02-15T07:33:15-08:00"
+    },
+    {
+      "id": 3740,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3740",
+      "title": "Hydraulic Egg Collection from Salmonid Redds",
+      "lastUpdated": "2023-11-30T05:58:26-08:00"
+    }
+  ]
+}

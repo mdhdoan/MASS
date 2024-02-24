@@ -1,0 +1,21 @@
+{
+  "background": "Stream flow (discharge) monitoring provides critical information for restoration efforts. Knowing how much water is in a stream is extremely important for fish restoration. Many communities rely upon stream water for irrigating their crops and livestock. By having a robust stream flow monitoring program information is collected to inform water management, restoration and other decisions.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/1853",
+  "title": "Stream Discharge Monitoring",
+  "id": 1853,
+  "assumptions": "<p>1 - Cross-sectional measurements are an accurate estimate of actual stream discharge. 2 - Equipment is calibrated to manufacturer&#39;s specifications.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/1451",
+    "http://www.monitoringresources.org/api/v1/methods/1672",
+    "http://www.monitoringresources.org/api/v1/methods/1673",
+    "http://www.monitoringresources.org/api/v1/methods/1674",
+    "http://www.monitoringresources.org/api/v1/methods/1676"
+  ],
+  "objectives": [
+    "Provide stream flow information to partners for use in decision making.",
+    "Quantify stream flow, especially with the use of data loggers for analysis of stream trends and status."
+  ],
+  "ownerName": "Troy Baker",
+  "ownerEmail": "troy.baker@wwbwc.org",
+  "programUrl": ""
+}

@@ -1,0 +1,17 @@
+{
+  "background": "This protocol is specific to the phased approach necessary to determine what operational scenarios will produce the water movement characteristics expected to reduce recruitment success of non-native fish predators in the Yakima River Delta and McNary Reservoir areas.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/3360",
+  "title": "Hydrodynamic Modeling - Yakima River Delta",
+  "id": 3360,
+  "assumptions": "<p>Constraints of the hydroelectric system and related factors associated with water surface elevation changes are well understood (these have been discussed and researched in detail through the actions of the Predator Recruitment Reduction Team).</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/814",
+    "http://www.monitoringresources.org/api/v1/methods/6659"
+  ],
+  "objectives": [
+    "Determine operations necessary to displace larval non-native predators"
+  ],
+  "ownerName": "Geoff McMichael",
+  "ownerEmail": "geoff@mainstemfish.com",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40"
+}

@@ -1,0 +1,9 @@
+{
+  "abstractText": "The RBT is a suite of GIS tools that work within the ESRI ArcGIS Desktop software. The RBT allows users to describe and measure river channels using high resolution digital elevation models (DEM). The DEMs can be derived from airborne remote sensing, such as LiDAR, or from ground based topographic surveys. With the RBT you can: - Detrend a DEM to remove the longitudinal valley slope. - Cut user-defined cross sections through the DEM. - Define the hydraulic geometry in each cross section, e.g. the bankfull width/depth. - Compute stream gradient and sinuosity. - Cut long profiles down the length of a channel and map longitudinal variations in any of the channel geometry metrics. - Vary the water level in a detrended DEM to investigate the distribution of water depths inside a stream and the extent of off-channel habitat still hydraulically connected to the main stem flow. - Locate residual pools, which may be used to identify fish habitat.The RBT is an ArcGIS extension and as such you have to have ArcGIS installed before you can use any of the tools in the toolkit. For additional information see: http://essa.com/tools/RBT/highlight/The CHaMP - Topographic Point Collection Methods provides background on collection of the measurement data that are analyzed for this calculation. http://www.monitoringmethods.org/Method/Details/836In RBT, the thalweg is generated as described by the following method:https://www.monitoringmethods.org/Method/Details/2767",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1257",
+  "title": "RBT - Site Gradient Calculation v1.0",
+  "id": 1257,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org"
+}

@@ -1,0 +1,19 @@
+{
+  "background": "High summer water temperature limits steelhead production in many reaches of the Columbia River tributaries. We monitor water temperature using dataloggers to identify the lower bounds of steelhead rearing habitat. Stream flow is also a primary limiting factor for steelhead production.  Stream discharge measurements are collected for managing instream flows, stream gaging, and planning and implementing restoration projects. Temperature information is often requested by restoration contractors for design of stream restoration projects, for drafting reach assessments, and it is requested by other agencies and programs.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/695",
+  "title": "Assessing limiting factors for steelhead production",
+  "id": 695,
+  "assumptions": "<p>Water temperature and stream discharge are important limiting factors for steelhead population growth.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/319",
+    "http://www.monitoringresources.org/api/v1/methods/1451",
+    "http://www.monitoringresources.org/api/v1/methods/6575"
+  ],
+  "objectives": [
+    "Our objective is to produce a water temperature and stream discharge record to evaluate salmonid spawning and rearing habitat.",
+    "Our objective is to collect stream discharge and water temperature information to manage stream flows for salmonids and design effective stream restoration projects."
+  ],
+  "ownerName": "Tim Resseguie ",
+  "ownerEmail": "rest@yakamafish-nsn.gov",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/77"
+}

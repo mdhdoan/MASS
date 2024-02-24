@@ -1,0 +1,9 @@
+{
+  "abstractText": "We are comparing whole-genome patterns of gene expression between fish of hatchery and wild origin, raised in a common environment (see method 607).  The goal is to determine what genes may have responded to selection during adaptation to captivity.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/5315",
+  "title": "compare RNAseq results between two groups of fish v1.0",
+  "id": 5315,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Michael Blouin",
+  "ownerEmail": "blouinm@science.oregonstate.edu"
+}

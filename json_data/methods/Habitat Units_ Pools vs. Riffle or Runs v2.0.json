@@ -1,0 +1,9 @@
+{
+  "abstractText": "Objective: Classify all habitat units within the main channel of a reach as either pools or riffles. Measure habitat units as sections of thalweg length. Habitat units dont overlap.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/6872",
+  "title": "Habitat Units: Pools vs. Riffle/Runs v2.0",
+  "id": 6872,
+  "type": "Data Collection",
+  "ownerName": "PNAMP Support",
+  "ownerEmail": "pnamp.mm@gmail.com"
+}

@@ -1,0 +1,19 @@
+{
+  "background": "Chief Joseph Hatchery Science Program (CJHP) collaborates with USGS to conduct Environmental DNA (eDNA) sampling and analysis in an effort to monitor status and trends in spring-Chinook spatial distribution throughout the Okanogan basin in response to the reintroduction of the experimental population. Monitoring began prior to the reintroduction in an attempt to assess the pre-management action spatial distribution of spring-Chinook, allowing CJHP to assess the status and progress of the reintroduction efforts. Analysis of eDNA data revealed that while spring-Chinook were listed as extirpated within the Okanogan ESU, the basin likely does have a limited distribution of spring-Chinook. Additionally, PIT tag detections confirm the presence of occasional strays from out of basin.As a proof of concept, sampling was initiated in 2012 with 5 mainstem Okanogan River sites and 11 Okanogan tributary sites as well as 32 sites throughout the Methow basin (See Laramie et al 2015a and CJHP 2013Annual Report). Sampling was conducted in June and August 2012 at all sites. In 2013, sampling was conducted only in the Okanogan basin, at 8 additional tributary sites not visited during the proof of concept study. These sites were sampled in June and were located in tributary streams with potential for spring-Chinook recolonization. In 2014, all previously sampled sites in the Okanogan basin were re-visited and sampled (US sites on 12-13 July, 2014, and Canada sites on 2 October 2014). See CJHP 2014 Annual Report (appendix C) for results from 2012 thru 2014 eDNA analyses. Several tributaries have produced consistent annual detection of Chinook eDNA, including Shingle Creek, Vaseux Creek, Salmon Creek and Omak Creek. Monitoring eDNA will serve as a resource prioritization tool, indicating which streams may warrant additional, more intensive survey efforts (e.g. electrofishing mark/recapture, snorkle surveys) to obtain density/abundance information, and which stream are not likely utilized by spring-Chinook. Results may also inform habitat rehabilitation/restoration efforts (e.g. removal of barriers to anadromy, habitat improvements).",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/2227",
+  "title": "Environmental DNA (eDNA) monitoring for spring-Chinook in the Okanogan Basin",
+  "id": 2227,
+  "assumptions": "<p>The presence of Chinook DNA at a stream site is the result of the recent presence of Chinook at the site (i.e. not from alternative, less likely sources such as site contamination from birds, etc.)</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/5476",
+    "http://www.monitoringresources.org/api/v1/methods/5480",
+    "http://www.monitoringresources.org/api/v1/methods/5494"
+  ],
+  "objectives": [
+    "Determine which Okanogan Basin tributaries are utilized by spring-Chinook, as indicated by the presence of Chinook eDNA.",
+    "Monitor the status and trends of spring-Chinook distribution throughout the Okanogan Basin (USA & Canada) using environmental DNA (eDNA) analysis."
+  ],
+  "ownerName": "Matthew Laramie",
+  "ownerEmail": "mlaramie@usgs.gov",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/61"
+}

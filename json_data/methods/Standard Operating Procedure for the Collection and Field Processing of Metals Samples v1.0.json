@@ -1,0 +1,9 @@
+{
+  "abstractText": "This document is the Environmental Assessment Program (EAP), Environmental Monitoring and Trends Section, Freshwater Monitoring Unit, Standard Operating Procedure (SOP) for collecting freshwater metals samples for laboratory analysis. The sample collection and field processing methods generally follow those under Method 1669 (EPA, 1996).This SOP is intended for the collection of freshwater metals samples to be analyzed by one or more of the following methods:Dissolved Metals Method  Modified version of EPA Method 200.8 (Using inductively coupled plasma - mass spectrometry (ICP-MS))Total Recoverable Metals Method  Method EPA 202.2 (Hotplate Assisted Digestion) and a modified version of EPA 200.7 Method (ICP).Total Mercury Method  Method EPA 245.7 (Free Bromide Digestion) and EPA Method 245.1 (Cold Vapor Absorbance)",
+  "url": "http://www.monitoringresources.org/api/v1/methods/3799",
+  "title": "Standard Operating Procedure for the Collection and Field Processing of Metals Samples v1.0",
+  "id": 3799,
+  "type": "Data Collection",
+  "ownerName": "Steve Rentmeester",
+  "ownerEmail": "steve@sitkatech.com"
+}

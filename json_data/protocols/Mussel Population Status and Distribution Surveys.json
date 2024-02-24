@@ -1,0 +1,17 @@
+{
+  "background": "Freshwater mussels are among the most imperiled freshwaterfauna worldwide. Native freshwater mussel species present in the Pacific Northwest have been reported to have range declines of 43-17%by watershed area (Blevins et al. 2017). The CTUIR's Freshwater Mussel project has been conducting baseline surveys and research to understand mussel status and distribution across the ceded territory since 2003, with goal of understanding factors that underlythe distribution and population health and statusof mussel populations.Conservation of existing mussel fauna and restoration of damaged populationsrelies onthe baselinesurvey information and trends shown through ongoing monitoring of mussel populations. General procedures outlined under thisprotocol generally follow methods fromBox et al. 2006.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/492",
+  "title": "Mussel Population Status and Distribution Surveys",
+  "id": 492,
+  "assumptions": "<p>1. Monitoring efforts will give an accurate assessment of underlying mussel presence or abundances per site. 2. Monitoring will be timely and complete in order to detect underlying trends in abundance.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/6619",
+    "http://www.monitoringresources.org/api/v1/methods/6713"
+  ],
+  "objectives": [
+    "To determine distribution of freshwater mussel populations by sub-basin, and to evaluate population health and status through mussel specific surveys.  "
+  ],
+  "ownerName": "Alexa Maine",
+  "ownerEmail": "alexamaine@ctuir.org",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/19"
+}

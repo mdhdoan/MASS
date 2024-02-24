@@ -1,0 +1,367 @@
+{
+  "url": "http://www.monitoringresources.org/api/v1/programs/64",
+  "title": "Washington Department of Fish and Wildlife (WDFW)",
+  "id": 64,
+  "primaryContactName": "Dan Rawding",
+  "primaryContactEmail": "rawdidr@dfw.wa.gov",
+  "organizations": [],
+  "protocols": [
+    {
+      "id": 103,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/103",
+      "title": "Steelhead Redd Surveys (WDFW) SE Washington",
+      "lastUpdated": "2021-04-24T00:56:19-07:00"
+    },
+    {
+      "id": 105,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/105",
+      "title": "Estimate Adult Steelhead Abundance Using Weirs in Small Streams Associated with Tucannon & Asotin Populations (2010-028-00)",
+      "lastUpdated": "2018-01-03T00:52:48-08:00"
+    },
+    {
+      "id": 121,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/121",
+      "title": "Reproductive Success of Hatchery and Natural Origin Steelhead (2010-033-00)",
+      "lastUpdated": "2019-02-15T03:24:59-08:00"
+    },
+    {
+      "id": 282,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/282",
+      "title": "Chinook status and trend monitoring (1999-003-01)",
+      "lastUpdated": "2019-01-09T01:37:26-08:00"
+    },
+    {
+      "id": 295,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/295",
+      "title": "Asotin Adult Sampling and Analysis(2002-053-00)",
+      "lastUpdated": "2018-03-13T04:41:48-07:00"
+    },
+    {
+      "id": 397,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/397",
+      "title": "Tributary VSP monitoring and CWT recovery (2010-036-00)",
+      "lastUpdated": "2019-02-01T03:07:19-08:00"
+    },
+    {
+      "id": 542,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/542",
+      "title": "Kokanee Abundance Estimates Using Mobile Hydroacoustics",
+      "lastUpdated": "2019-01-08T05:47:22-08:00"
+    },
+    {
+      "id": 553,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/553",
+      "title": "Creel Monitoring for the Banks Lake Fishery",
+      "lastUpdated": "2018-12-13T02:46:34-08:00"
+    },
+    {
+      "id": 559,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/559",
+      "title": "Water Quality and Zooplankton Monitoring",
+      "lastUpdated": "2019-01-08T05:00:32-08:00"
+    },
+    {
+      "id": 587,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/587",
+      "title": "Limnetic and Littoral Gill Netting Surveys at Banks Lake",
+      "lastUpdated": "2018-12-18T06:40:32-08:00"
+    },
+    {
+      "id": 598,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/598",
+      "title": "Upper Spokane Redband Trout Assessment (1997-004-00) - OLD",
+      "lastUpdated": "2022-12-06T02:20:38-08:00"
+    },
+    {
+      "id": 606,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/606",
+      "title": "Piscivore Diet Collection and Analysis",
+      "lastUpdated": "2022-06-23T04:55:38-07:00"
+    },
+    {
+      "id": 791,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/791",
+      "title": "Asotin Creek Juvenile Salmonid Sampling and Analysis (2002-053-00)",
+      "lastUpdated": "2018-03-13T04:28:41-07:00"
+    },
+    {
+      "id": 792,
+      "status": "Revising",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/792",
+      "title": "Asotin Data Analysis(2002-053-00)",
+      "lastUpdated": "2018-03-12T20:28:15-07:00"
+    },
+    {
+      "id": 2165,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2165",
+      "title": "Upper Yakima Steelhead Resident/Anadromous Life History Studies (2010-030-00)",
+      "lastUpdated": "2017-02-02T06:47:21-08:00"
+    },
+    {
+      "id": 2219,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2219",
+      "title": "Tucannon Steelhead Hatchery Monitoring and Evaluation (2010-050-00)",
+      "lastUpdated": "2016-05-11T04:42:39-07:00"
+    },
+    {
+      "id": 3287,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3287",
+      "title": "WDFW_Upper Columbia River_ Redband Trout Genetic Study",
+      "lastUpdated": "2016-12-09T06:34:41-08:00"
+    },
+    {
+      "id": 3328,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3328",
+      "title": "SE Washington Hatchery Monitoring and Evaluation",
+      "lastUpdated": "2017-11-14T00:42:31-08:00"
+    },
+    {
+      "id": 3330,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3330",
+      "title": "Tucannon River Steelhead Abundance, Survival, and Spatial Distribution Analysis",
+      "lastUpdated": "2017-11-14T00:53:54-08:00"
+    },
+    {
+      "id": 3331,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3331",
+      "title": "Baseline Habitat Assessment",
+      "lastUpdated": "2022-07-20T22:10:36-07:00"
+    },
+    {
+      "id": 3340,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3340",
+      "title": "Walla Walla Salmonid Monitoring and Evaluation Project Copy3",
+      "lastUpdated": "2021-03-06T01:31:27-08:00"
+    },
+    {
+      "id": 3359,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3359",
+      "title": "Northern Pike Status and Trend Monitoring",
+      "lastUpdated": "2020-02-14T00:50:21-08:00"
+    },
+    {
+      "id": 3381,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3381",
+      "title": "Asotin Creek Salmonid Juvenile and Smolt to Adult Return (SAR) Analysis (2002-053-00)",
+      "lastUpdated": "2018-03-13T04:29:10-07:00"
+    },
+    {
+      "id": 3392,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3392",
+      "title": "Monitoring Waterfowl Abundance with Camera Traps",
+      "lastUpdated": "2019-12-06T02:25:19-08:00"
+    },
+    {
+      "id": 3469,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3469",
+      "title": "Upper Columbia River Redband Trout Genetic Study",
+      "lastUpdated": "2019-03-01T02:10:52-08:00"
+    },
+    {
+      "id": 3470,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3470",
+      "title": "Naturally established wetland basins versus manipulated wetland basins seed biomass",
+      "lastUpdated": "2019-12-06T07:03:43-08:00"
+    },
+    {
+      "id": 3472,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3472",
+      "title": "Monitoring effectiveness of elevated and floating hen houses in the TD-2 project",
+      "lastUpdated": "2019-03-26T23:21:37-07:00"
+    },
+    {
+      "id": 3483,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3483",
+      "title": "Temperature and water surface elevation monitoring (1999-003-01) V2 2019",
+      "lastUpdated": "2019-09-21T04:42:16-07:00"
+    },
+    {
+      "id": 3508,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3508",
+      "title": "Piscivorous Fish Status and Trend Monitoring in the Columbia River Upstream of McNary Dam",
+      "lastUpdated": "2019-12-18T04:48:47-08:00"
+    },
+    {
+      "id": 3540,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3540",
+      "title": "Sampling invertebrate biomass and diversity in wetlands",
+      "lastUpdated": "2020-05-05T04:35:11-07:00"
+    },
+    {
+      "id": 3541,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3541",
+      "title": "Monitoring Waterfowl Abundance with Camera Traps",
+      "lastUpdated": "2020-04-14T05:22:17-07:00"
+    },
+    {
+      "id": 3546,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3546",
+      "title": "South East Washington Weir Operation (WDFW)",
+      "lastUpdated": "2021-05-06T04:55:58-07:00"
+    },
+    {
+      "id": 3556,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3556",
+      "title": "Upper Columbia River Redband Trout Redd Surveys",
+      "lastUpdated": "2020-06-17T05:26:06-07:00"
+    },
+    {
+      "id": 3574,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3574",
+      "title": "Piscivorous Fish Habitat Delineation in the Columbia River Upstream of McNary Dam",
+      "lastUpdated": "2022-06-23T04:57:26-07:00"
+    },
+    {
+      "id": 3616,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3616",
+      "title": "Monitoring Waterfowl Abundance with Camera Traps",
+      "lastUpdated": "2021-03-12T00:38:20-08:00"
+    },
+    {
+      "id": 3617,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3617",
+      "title": "Naturally established wetland basins versus manipulated wetland basins seed biomass",
+      "lastUpdated": "2021-03-19T22:59:33-07:00"
+    },
+    {
+      "id": 3622,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3622",
+      "title": "WDFW Entiat: ISEMP Field Manual of Scientific Protocols for Downstream Migrant Trapping plus Genetics",
+      "lastUpdated": "2021-05-20T01:03:45-07:00"
+    },
+    {
+      "id": 3627,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3627",
+      "title": "Upper Columbia River ESU Spring Chinook Salmon Stock Assessment (2010-034-00)",
+      "lastUpdated": "2021-04-17T03:22:16-07:00"
+    },
+    {
+      "id": 3628,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3628",
+      "title": "PIT tag-based Escapement Estimation Above Priest Rapids Dam",
+      "lastUpdated": "2021-04-02T06:00:06-07:00"
+    },
+    {
+      "id": 3632,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3632",
+      "title": "WDFW In-Hatchery Data Collection",
+      "lastUpdated": "2021-04-20T04:29:33-07:00"
+    },
+    {
+      "id": 3665,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3665",
+      "title": "Monitoring Waterfowl Abundance with Camera Traps",
+      "lastUpdated": "2022-02-18T07:34:02-08:00"
+    },
+    {
+      "id": 3674,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3674",
+      "title": "Naturally established wetland basins versus manipulated wetland basins seed biomass",
+      "lastUpdated": "2022-04-09T03:51:38-07:00"
+    },
+    {
+      "id": 3675,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3675",
+      "title": "Upper Columbia River Redband Trout Assessment in Big Sheep and Onion Creeks (1997-004-00)",
+      "lastUpdated": "2022-04-28T04:05:21-07:00"
+    },
+    {
+      "id": 3681,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3681",
+      "title": "WDFW Steelhead Residualism Surveys",
+      "lastUpdated": "2022-05-04T23:36:17-07:00"
+    },
+    {
+      "id": 3691,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3691",
+      "title": "Piscivore Diet Collection and Analysis on the Columbia River",
+      "lastUpdated": "2022-06-22T05:10:54-07:00"
+    },
+    {
+      "id": 3692,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3692",
+      "title": "Estimating the annual abundance of Smallmouth Bass, Northern Pikeminnow, and Walleye between McNary and Priest Rapids Dams.",
+      "lastUpdated": "2022-06-22T05:57:04-07:00"
+    },
+    {
+      "id": 3696,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3696",
+      "title": "Evaluating the Status and Trends of Piscivores in the McNary Pool",
+      "lastUpdated": "2022-06-24T21:19:51-07:00"
+    },
+    {
+      "id": 3706,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3706",
+      "title": "Upper Spokane River Redband Trout Assessment (1997-004-00)",
+      "lastUpdated": "2022-12-29T04:05:42-08:00"
+    },
+    {
+      "id": 3707,
+      "status": "Revising",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3707",
+      "title": "Monitoring Waterfowl Abundance with Camera Traps",
+      "lastUpdated": "2023-02-24T04:42:30-08:00"
+    },
+    {
+      "id": 3708,
+      "status": "Revising",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3708",
+      "title": "Naturally established wetland basins versus manipulated wetland basins seed biomass",
+      "lastUpdated": "2023-02-24T04:27:57-08:00"
+    },
+    {
+      "id": 3732,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3732",
+      "title": "Wetland Restoration Salmonid Capacity Study at Shillapoo Wildlife Area",
+      "lastUpdated": "2023-06-29T04:47:43-07:00"
+    }
+  ]
+}

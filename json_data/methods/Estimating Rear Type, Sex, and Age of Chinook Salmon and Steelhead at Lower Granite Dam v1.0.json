@@ -1,0 +1,9 @@
+{
+  "abstractText": "Anadromous fish management programs in the Snake River basin include large-scale hatchery programs  intended to mitigate for the impacts of hydroelectric dam construction and operation in the basin  and recovery planning and implementation efforts aimed at recovering ESA-listed wild steelhead and salmon stocks. A general goal, consistent with basinwide mitigation and recovery programs, is to preserve salmon and steelhead runs and recover them to provide benefit to all users. Management to achieve these goals requires an understanding of how salmonid populations function as well as regular status assessments (McElhany et al. 2000). However, specific data on steelhead and Chinook salmon populations are lacking, particularly key parameters such as population abundance, age composition, genetic diversity, recruits per spawner, and survival rates (ICBTRT 2003). The key metrics to assessing viability of salmonid populations are abundance, productivity, spatial structure, and diversity (McElhany et al. 2000).Information on Snake River steelhead and Chinook salmon are collected at Lower Granite Dam (LGR) to estimate key parameters of those populations at the Snake River basin scale, with the exception of the Tucannon River, Washington, population. Steelhead and Chinook salmon were sampled from the run at large using a systematic random sample with a pre-determined overall sample rate goal. The aggregate escapement of Snake River steelhead and Chinook salmon is measured at LGR and further decomposed by sex, age, and genetic stock.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1577",
+  "title": "Estimating Rear Type, Sex, and Age of Chinook Salmon and Steelhead at Lower Granite Dam v1.0",
+  "id": 1577,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Marika Dobos",
+  "ownerEmail": "marika.dobos@idfg.idaho.gov"
+}

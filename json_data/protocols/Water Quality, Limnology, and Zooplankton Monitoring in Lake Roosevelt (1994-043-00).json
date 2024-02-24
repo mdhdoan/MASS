@@ -1,0 +1,22 @@
+{
+  "background": "This protocol was designed as a methodology for monitoring surface hydrology, water quality, limnology, and zooplankton in Lake Roosevelt under the Lake Roosevelt Fisheries Evaluation Program (LRFEP). Reservoir characteristics examined under this protocol will include surface hydrology (inflow, outflow, spill, water retention time, lake elevation), physical properties and macronutrient water quality parameters (turbidity, total suspended solids, chloride, fluoride, total alkalinity, nitrate, nitrite, ammonia, total Kjeldahl nitrogen, total nitrogen phosphorus, orthophosphate, and sulfate), limnological properties (temperature, dissolved oxygen, conductivity, pH, oxidation-reduction potential, total dissolved solids, and total dissolved gas), chlorophyll a concentrations, and relative zooplankton densities and biomass. Data collected under this protocol will be used to identify spatial and temporal trends in water quality and lower trophic level organisms throughout the reservoir. Trends will be compared with fish data collected by the LRFEPto identify effects of hydro-operations on resident fish communities and the ecology of Lake Roosevelt.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/533",
+  "title": "Water Quality, Limnology, and Zooplankton Monitoring in Lake Roosevelt (1994-043-00)",
+  "id": 533,
+  "assumptions": "<p>Spatial and temporal design accurately characterize the reaches within the reservoir.&nbsp;Metrics respond predictably to hydro-operations.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/980",
+    "http://www.monitoringresources.org/api/v1/methods/3931",
+    "http://www.monitoringresources.org/api/v1/methods/5486",
+    "http://www.monitoringresources.org/api/v1/methods/5487",
+    "http://www.monitoringresources.org/api/v1/methods/5488",
+    "http://www.monitoringresources.org/api/v1/methods/5489",
+    "http://www.monitoringresources.org/api/v1/methods/6581"
+  ],
+  "objectives": [
+    "Complete annual limnological assesment of Lake Roosevelt."
+  ],
+  "ownerName": "Tamara Knudson",
+  "ownerEmail": "tamarak@spokanetribe.com",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/27"
+}

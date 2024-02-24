@@ -1,0 +1,20 @@
+{
+  "background": "The Nez Perce Tribe's Department of Fisheries Resources Management utilizes in-stream adult picket weirsas a tool forcapturing, marking, and collecting biological data on returning adult runs of anadromous salmon and steelhead (e.g., Chinook and Coho salmon). Weirs also enable the implementation of management sliding scales. Collected data are utilized in estimating abundance, survival and life history characteristics, and evaluating hatchery effectiveness and population status and trends. Population status and trend monitoring of natural and hatchery origin fish is critical to effective population management, assessing effectiveness of conservation actions and population viability, and evaluating recovery metrics.Please see protocols #2246 and #2249 for data analysis methods describing the calculation of metrics and indicators.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/2247",
+  "title": "Nez Perce Tribe Adult Weir Data Collection",
+  "id": 2247,
+  "assumptions": "<p>Captured individuals represent the un-caught population.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/6639",
+    "http://www.monitoringresources.org/api/v1/methods/6640"
+  ],
+  "objectives": [
+    "Trap entire returning adult runs of anadromous salmonids. ",
+    "Calculate Chinook salmon and steelhead natural and hatchery adult abundance, survival and life history characteristics.",
+    "Determine natural, hatchery, and stray composition, obtain broodstock, mark fish for mark-recapture abundance methods or assess movement and distribution via radio telemetry.",
+    "Manage returns with an agreed upon sliding scale to implement pass/keep scenarios "
+  ],
+  "ownerName": "Jason Vogel",
+  "ownerEmail": "jasonv@nezperce.org",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/12"
+}

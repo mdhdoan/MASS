@@ -1,0 +1,9 @@
+{
+  "abstractText": "Assessing the genetic population structure of ESA listed salmon and steelhead is essential for viability status monitoring and is necessary for determining appropriate conservation or management units for genetic stock identification purposes.  There are a number of tools and techniques that geneticists use to infer genetic population structure for GSI purposes. Two widely used software programs that use Bayesian clustering methods for this purpose are BAPS  and STRUCTURE.  The methods in these programs operate by creating population clusters in which the assumptions of HardyWeinberg and linkage equilibrium are met, and simultaneously each individual is assigned to a cluster based on probabilistic modeling. BAPS and STRUCTURE each have slightly different underlying assumptions and methodologies.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1351",
+  "title": "Assessing genetic population structure using Bayesian clustering methods v1.0",
+  "id": 1351,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Matthew Campbell",
+  "ownerEmail": "matthew.campbell@idfg.idaho.gov"
+}

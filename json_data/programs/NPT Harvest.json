@@ -1,0 +1,40 @@
+{
+  "url": "http://www.monitoringresources.org/api/v1/programs/54",
+  "title": "NPT Harvest",
+  "id": 54,
+  "primaryContactName": "David Statler",
+  "primaryContactEmail": "daves@nezperce.org",
+  "organizations": [
+    "Nez Perce Tribe"
+  ],
+  "protocols": [
+    {
+      "id": 1948,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/1948",
+      "title": "Nez Perce Creel Survey",
+      "lastUpdated": "2018-07-27T04:28:16-07:00"
+    },
+    {
+      "id": 2011,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2011",
+      "title": "Nez Perce Inseason Interview Harvest Survey",
+      "lastUpdated": "2015-01-23T21:36:47-08:00"
+    },
+    {
+      "id": 2014,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2014",
+      "title": "Nez Perce Gill Net Harvest Survey",
+      "lastUpdated": "2015-01-23T21:39:22-08:00"
+    },
+    {
+      "id": 2015,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2015",
+      "title": "Nez Perce Post-Season Interview Harvest Survey",
+      "lastUpdated": "2015-01-23T21:38:40-08:00"
+    }
+  ]
+}

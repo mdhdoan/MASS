@@ -1,0 +1,412 @@
+{
+  "url": "http://www.monitoringresources.org/api/v1/programs/40",
+  "title": "Bonneville Power Administration Fish & Wildlife Program",
+  "id": 40,
+  "primaryContactName": "Russell Scranton",
+  "primaryContactEmail": "rwscranton@bpa.gov",
+  "organizations": [
+    "Bonneville Power Administration",
+    "Northwest Power and Conservation Council"
+  ],
+  "protocols": [
+    {
+      "id": 96,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/96",
+      "title": "Smolt Monitoring Program (1987-127-00)",
+      "lastUpdated": "2017-03-04T02:27:50-08:00"
+    },
+    {
+      "id": 305,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/305",
+      "title": "Spring Chinook Minijack Monitoring (2002-031-00)",
+      "lastUpdated": "2013-06-12T21:22:58-07:00"
+    },
+    {
+      "id": 318,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/318",
+      "title": "Otolith collection (2002-032-00)",
+      "lastUpdated": "2016-03-01T04:48:31-08:00"
+    },
+    {
+      "id": 409,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/409",
+      "title": "Panther Creek Chinook Salmon Project - Monitoring, Research, and Evaluation (2008-905-00)",
+      "lastUpdated": "2021-02-02T02:49:58-08:00"
+    },
+    {
+      "id": 426,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/426",
+      "title": "DART - Data Analysis",
+      "lastUpdated": "2019-01-26T04:41:17-08:00"
+    },
+    {
+      "id": 447,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/447",
+      "title": "Evaluating Fish Screening Diversion Facilities",
+      "lastUpdated": "2013-10-21T18:00:21-07:00"
+    },
+    {
+      "id": 463,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/463",
+      "title": "1989-108-00: Real time juvenile salmon passage model",
+      "lastUpdated": "2013-08-07T21:34:16-07:00"
+    },
+    {
+      "id": 1836,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/1836",
+      "title": "Active acoustic data analysis",
+      "lastUpdated": "2012-11-12T20:10:17-08:00"
+    },
+    {
+      "id": 1838,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/1838",
+      "title": "Hyporheic temperature monitoring",
+      "lastUpdated": "2017-02-15T07:51:06-08:00"
+    },
+    {
+      "id": 1869,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/1869",
+      "title": "BPA - EPT Monitoring Effectiveness of Complete Fish Passage Barriers Projects",
+      "lastUpdated": "2017-04-08T00:19:50-07:00"
+    },
+    {
+      "id": 1871,
+      "status": "Expired",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/1871",
+      "title": "BPA - EPT Monitoring Effectiveness of Instream Habitat Projects (Engineered Logjams/LWD/Boulders/Pool & Complexity)",
+      "lastUpdated": "2017-04-04T02:03:36-07:00"
+    },
+    {
+      "id": 1876,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/1876",
+      "title": "BPA - EPT Monitoring Effectiveness of Riparian Planting and Invasive Plant Removal Projects",
+      "lastUpdated": "2019-01-29T22:59:53-08:00"
+    },
+    {
+      "id": 1960,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/1960",
+      "title": "Abundance and distribution of hatchery and natural origin precociously mature spring Chinook salmon on and away from the spawning grounds",
+      "lastUpdated": "2018-05-15T23:31:54-07:00"
+    },
+    {
+      "id": 1995,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/1995",
+      "title": "Pair Trawling for Passive Integrated Transponder Tags in Columbia River estuary",
+      "lastUpdated": "2014-01-28T23:19:35-08:00"
+    },
+    {
+      "id": 2038,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2038",
+      "title": "BPA \u2013 MBACI Protocol for Estimating Instream Juvenile Salmonid Abundance",
+      "lastUpdated": "2016-06-08T22:58:30-07:00"
+    },
+    {
+      "id": 2042,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2042",
+      "title": "Habitat Evaluation Procedures (HEP)",
+      "lastUpdated": "2014-10-06T21:54:26-07:00"
+    },
+    {
+      "id": 2044,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2044",
+      "title": "Coordinated MBACI Protocol for Estimating Instream Juvenile Salmonid Abundance_AEM",
+      "lastUpdated": "2017-04-14T00:06:24-07:00"
+    },
+    {
+      "id": 2045,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2045",
+      "title": "Determining valid radio telemetry detections",
+      "lastUpdated": "2015-10-02T15:22:06-07:00"
+    },
+    {
+      "id": 2046,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2046",
+      "title": "WDFW / YKFP: Ecological Interactions: Non-Target Taxa of Concern Monitoring",
+      "lastUpdated": "2016-12-17T00:42:05-08:00"
+    },
+    {
+      "id": 2048,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2048",
+      "title": "Commercial Ocean Troll Salmon Fishery Samplling and Monitoring including Coded Wire Tag Recovery",
+      "lastUpdated": "2014-10-31T21:24:56-07:00"
+    },
+    {
+      "id": 2067,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2067",
+      "title": "Fish Passage Center Database",
+      "lastUpdated": "2015-09-22T23:38:47-07:00"
+    },
+    {
+      "id": 2104,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2104",
+      "title": "Discharge Measurement",
+      "lastUpdated": "2020-11-24T00:27:12-08:00"
+    },
+    {
+      "id": 2128,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2128",
+      "title": "WDFW Wind River Steelhead Life Cycle Monitoring Protocol",
+      "lastUpdated": "2015-03-13T02:17:20-07:00"
+    },
+    {
+      "id": 2169,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2169",
+      "title": "Grande Ronde Basin Stream Flow Gauging - Grande Ronde Model Watershed",
+      "lastUpdated": "2016-12-17T00:43:52-08:00"
+    },
+    {
+      "id": 2174,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2174",
+      "title": "Modelling upstream migration of Chinook salmon and steelhead trout",
+      "lastUpdated": "2015-10-21T23:30:52-07:00"
+    },
+    {
+      "id": 2262,
+      "status": "Revising",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2262",
+      "title": "Maintain & Operate PIT Tag Array",
+      "lastUpdated": "2021-08-19T02:16:05-07:00"
+    },
+    {
+      "id": 3297,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3297",
+      "title": "YKFP- Monitoring and Evaluation- Domestication Selection Research",
+      "lastUpdated": "2017-04-05T05:46:42-07:00"
+    },
+    {
+      "id": 3299,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3299",
+      "title": "Yakima/Klickitat Fisheries Project (YKFP) - Monitoring and Evaluation: Genetic Studies",
+      "lastUpdated": "2017-02-04T02:12:00-08:00"
+    },
+    {
+      "id": 3300,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3300",
+      "title": "Using stationary PIT interrogation antenna arrays to monitor movements of salmonids in the Yakima Basin",
+      "lastUpdated": "2017-04-22T02:19:51-07:00"
+    },
+    {
+      "id": 3317,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3317",
+      "title": "Juvenile Spring Chinook Habitat Saturation and Limiting Factors",
+      "lastUpdated": "2018-03-08T03:42:14-08:00"
+    },
+    {
+      "id": 3360,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3360",
+      "title": "Hydrodynamic Modeling - Yakima River Delta",
+      "lastUpdated": "2017-12-05T03:28:54-08:00"
+    },
+    {
+      "id": 3361,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3361",
+      "title": "Experimental Design and Statistical Plan - Predator Recruitment Reduction",
+      "lastUpdated": "2017-10-20T00:16:00-07:00"
+    },
+    {
+      "id": 3362,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3362",
+      "title": "Predator Fish Productivity Vulnerability Determination",
+      "lastUpdated": "2017-10-20T00:14:58-07:00"
+    },
+    {
+      "id": 3364,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3364",
+      "title": "BPA Fish and Wildelife Program (Pre-2012)",
+      "lastUpdated": "2017-11-04T00:39:06-07:00"
+    },
+    {
+      "id": 3365,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3365",
+      "title": "Collection and PIT tagging of wild Chinook salmon parr in Salmon River Basin",
+      "lastUpdated": "2018-02-14T07:01:49-08:00"
+    },
+    {
+      "id": 3374,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3374",
+      "title": "Spring Chinook Fry Growth and Distribution",
+      "lastUpdated": "2018-03-08T07:05:38-08:00"
+    },
+    {
+      "id": 3377,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3377",
+      "title": "Juvenile Spring Chinook Feeding Observations and Territorial Responce",
+      "lastUpdated": "2018-03-27T23:12:29-07:00"
+    },
+    {
+      "id": 3417,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3417",
+      "title": "Understanding the relationship between minijack and jack rates in spring Chinook salmon",
+      "lastUpdated": "2018-06-23T03:01:52-07:00"
+    },
+    {
+      "id": 3431,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3431",
+      "title": "Crystal Springs Fish Hatchery Water Chemistry, Fish Growth, Smolting Physiology, and Fish Survival (2008-905-00)",
+      "lastUpdated": "2019-09-27T00:12:13-07:00"
+    },
+    {
+      "id": 3438,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3438",
+      "title": "Reproductive Success of Chinook Salmon (2008-905-00)",
+      "lastUpdated": "2019-09-27T00:12:44-07:00"
+    },
+    {
+      "id": 3441,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3441",
+      "title": "Genetic Evaluation of Chinook Salmon Supplementation Using Remote Site Incubators  (2008-905-00)",
+      "lastUpdated": "2019-09-27T00:11:29-07:00"
+    },
+    {
+      "id": 3468,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3468",
+      "title": "Develop and evaluate fish-tracking technologies (1983-319-00) v2.0",
+      "lastUpdated": "2019-02-21T04:35:13-08:00"
+    },
+    {
+      "id": 3475,
+      "status": "Revising",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3475",
+      "title": "Understanding the relationship between minijack and jack rates in spring Chinook salmon",
+      "lastUpdated": "2019-03-29T05:56:15-07:00"
+    },
+    {
+      "id": 3538,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3538",
+      "title": "Juvenile Spring Chinook Feeding Observations and Territorial Responce Copy",
+      "lastUpdated": "2020-02-12T03:26:14-08:00"
+    },
+    {
+      "id": 3547,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3547",
+      "title": "Survival of larval lamprey collected with different salvage techniques following dewatering",
+      "lastUpdated": "2020-04-28T23:22:07-07:00"
+    },
+    {
+      "id": 3564,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3564",
+      "title": "Test feasiblity for night aerial infra-red photography estimates of drift net fishing effort",
+      "lastUpdated": "2023-02-18T06:55:12-08:00"
+    },
+    {
+      "id": 3614,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3614",
+      "title": "Underwood Conservation District Continuous Temperature Monitoring 2021 update",
+      "lastUpdated": "2021-03-16T03:10:55-07:00"
+    },
+    {
+      "id": 3620,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3620",
+      "title": "Assess Trends of Umatilla National Wildlife Refuge Waterfowl and Their Habitat",
+      "lastUpdated": "2021-02-26T07:06:21-08:00"
+    },
+    {
+      "id": 3631,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3631",
+      "title": "Evaluation of Lamprey Use of Salmonid Restoration Projects",
+      "lastUpdated": "2021-05-20T01:43:34-07:00"
+    },
+    {
+      "id": 3645,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3645",
+      "title": "Evaluate gas bubble trauma signs and mortality in lamprey",
+      "lastUpdated": "2021-07-02T22:46:26-07:00"
+    },
+    {
+      "id": 3648,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3648",
+      "title": "Long-term Monitoring of Wetland Accretion Rates in the Lower Columbia River Estuary and Tidal River",
+      "lastUpdated": "2022-02-18T07:36:43-08:00"
+    },
+    {
+      "id": 3664,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3664",
+      "title": "Assessment of larval lamprey use in areas of salmonid habitat restoration vs non-restoration",
+      "lastUpdated": "2022-03-18T02:19:50-07:00"
+    },
+    {
+      "id": 3672,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3672",
+      "title": "Lamprey-specific electrofishing techniques",
+      "lastUpdated": "2022-03-17T05:06:48-07:00"
+    },
+    {
+      "id": 3673,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3673",
+      "title": "Expose larval lamprey to elevated air temperatures under shaded and unshaded conditions",
+      "lastUpdated": "2022-03-17T06:29:26-07:00"
+    },
+    {
+      "id": 3701,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3701",
+      "title": "Maintain & Operate PIT Tag Array Copy",
+      "lastUpdated": "2022-09-07T05:53:15-07:00"
+    },
+    {
+      "id": 3741,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3741",
+      "title": "Snake River reservior invertebrate prey availability for juvenile salmon",
+      "lastUpdated": "2023-12-07T05:14:59-08:00"
+    },
+    {
+      "id": 3744,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3744",
+      "title": "Harmful Algal Blooms in the Snake River",
+      "lastUpdated": "2023-12-30T00:47:50-08:00"
+    }
+  ]
+}

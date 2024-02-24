@@ -1,0 +1,34 @@
+{
+  "background": "The status of migratory salmonidpopulations are monitored by generating annual estimates of the number of adult spawnersat either the tributary orwatershed scale. It is imperative to generate reliable estimates ofspawners given that one of the primary objectives of recovery efforts is to augment sub-populations of migratory adults that wouldsupport a persistent meta-population structure at the watershed scale andultimately provide a sustainable fishery. Survival rates of salmonidsduring their residence time outside their spawning and early life-history rearing environment, a key vital rate in influencing population trajectories(Stapp and Hayward 2002), are also estimated to understand whether processes in adult rearing environments (e.g., larger streams or lakes)are limiting adult production. Inclined-plane traps and weirshave been employed as a technique to sample juvenile and adult Westslope Cutthroat Trout in four tributaries to Priest River. The sampled tributaries to Priest River are Big, Quartz, Sadler, and Sanborn creeks.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/3481",
+  "title": "Generating demographic information for Westslope Cutthroat Trout populations using data collected at an inclined-plane trap and PIT tag arrays",
+  "id": 3481,
+  "assumptions": "<p>Individual fish sampled at the migrant trap represent the population of interest at the tributary or watershed scale.&nbsp;</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/132",
+    "http://www.monitoringresources.org/api/v1/methods/342",
+    "http://www.monitoringresources.org/api/v1/methods/380",
+    "http://www.monitoringresources.org/api/v1/methods/395",
+    "http://www.monitoringresources.org/api/v1/methods/454",
+    "http://www.monitoringresources.org/api/v1/methods/1551",
+    "http://www.monitoringresources.org/api/v1/methods/1734",
+    "http://www.monitoringresources.org/api/v1/methods/1736",
+    "http://www.monitoringresources.org/api/v1/methods/4051",
+    "http://www.monitoringresources.org/api/v1/methods/5334",
+    "http://www.monitoringresources.org/api/v1/methods/5498",
+    "http://www.monitoringresources.org/api/v1/methods/5519",
+    "http://www.monitoringresources.org/api/v1/methods/6572",
+    "http://www.monitoringresources.org/api/v1/methods/6573",
+    "http://www.monitoringresources.org/api/v1/methods/6786"
+  ],
+  "objectives": [
+    "Generate annual abundance estimates for migratory adult Westslope Cutthroat Trout at the tributary scale.",
+    "Generate annual estimates of juvenile to adult return rates for migratory Westslope Cutthroat Trout at the tributary scale.",
+    "Annually examine life-history attributes of migratory Westslope Cutthroat Trout (e.g. migration timing, sex ratio, mean size of fish).",
+    "Create interrogation histories for individual PIT tagged Westslope Cutthroat Trout to evaluate seasonal movements within watersheds.",
+    "Use interrogation data from stationary PIT arrays to describe the spatial distribution of the migratory life-history of Westslope Cutthroat Trout within watersheds."
+  ],
+  "ownerName": "Todd Andersen",
+  "ownerEmail": "tandersen@knrd.org",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/89"
+}

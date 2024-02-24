@@ -1,0 +1,26 @@
+{
+  "background": "The Colville Confederated Tribes (CCT) Resident Fish Division operates the Colville Resident Fish Hatchery Programto address a host of resident fish management goals on the CCT Reservation in northeast Washington State. Due to the development and operation of the Federal hydroelectric system in the Columbia River, CCT tribal member access to anadromous fish resources was largely eliminated with the completion of Chief Joseph Dam, which did not provide upstream passage facilities for fishes. Mitigation for lost access to fish resources upstream of Chief Joseph Dam includes use of hatchery-origin Rainbow Trout Oncorhynchus mykiss, Brook Trout Salvelinus fontinalis, and Lahontan Cutthroat Trout O. clarkii henshawi in waterbodies on and bordering the CCT Reservation.The hatchery monitoring and evaluation program is tasked with assessingthe fisheries in stocked lakes, with the main goal of providing guidance and feedback for stocking and management actions to enhance or maintain subsistence and sport-fishing opportunities.In order to determine angler success and satisfaction on stocked lakes, roving and voluntary creel surveys will be conducted.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/2221",
+  "title": "Creel Survey of Colville Reservation Lakes",
+  "id": 2221,
+  "assumptions": "<p>Responses of surveyed anglers are representative of overall angler experience.&nbsp;</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/1154",
+    "http://www.monitoringresources.org/api/v1/methods/1551",
+    "http://www.monitoringresources.org/api/v1/methods/1734",
+    "http://www.monitoringresources.org/api/v1/methods/3940",
+    "http://www.monitoringresources.org/api/v1/methods/4056",
+    "http://www.monitoringresources.org/api/v1/methods/4231"
+  ],
+  "objectives": [
+    "Estimate total fishing effort (angler-hours) for shore and boat anglers for all strata (i.e., lake, weekday/weekend, and month).",
+    "Monitor angler satisfaction.",
+    "Estimate harvested fish size statistics (length) for each fish species and stocking class by month.",
+    "Estimate monthly and annual stocking class return-to-creel (portion of each stocking class harvested).",
+    "Estimate total catch by species and stocking class, when possible, for all strata (i.e., lake, weekday/weekend, morning/evening, and month).",
+    "Estimate average harvest and total caught per angler-hour by species and stocking class (when possible) for all strata (i.e., lake, weekday/weekend, and month)."
+  ],
+  "ownerName": "Bryan Jones",
+  "ownerEmail": "bryan.jones@colvilletribes.com",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/21"
+}

@@ -1,0 +1,27 @@
+{
+  "background": "The Fifteenmile Creek watershed in North Central Oregon hosts a native population of steelhead (Oncorhynchus mykiss) that is without influence of previous hatchery augmentation (Newton and Nelson 2000). The Fifteenmile Creek steelhead are a subpopulation within the Distinct Population Segment (DPS) of the Middle Columbia River steelhead, which consists of all historical populations of steelhead in tributaries to the Columbia River upstream of the Hood River and Wind River systems, up to and including the Yakima River. This steelhead DPS was listed as threatened by the National Marine Fisheries Service (NMFS) first on March 25, 1999 and relisted as a DPS on January 5, 2006.Subsequently, a conservation and recovery management plan was developed for the Middle Columbia River steelhead DPS within Oregon state borders. The goal of the plan is to recover Middle Columbia River steelhead to a level that would allow the removal of threatened status, in addition to providing a long-term goal to recover the population sufficiently to provide sustainable fisheries and other ecological, cultural, social and economic benefits for future generations (Carmichael and Taylor 2010). The DPS-level recovery plan sets specific recovery goals for the areas within the DPS, which designates Fifteenmile Creek explicitly.The Fifteenmile Creek steelhead population is considered the most inland winter race of steelhead in the Columbia River Basin, as designated by NOAA fisheries. However review of this designation maybe necessary at the next BiOp status-review in 2015 because the run-timing of adult steelhead passing Bonneville Dam has been inconsistent with known winter-run steelhead in the area. The population was identified as must have viable by the Interior Columbia Technical Recovery Team (ICTRT) reaching viable status is essential for achieving DPS delisting. The ICTRT, Recovery Plan, and the Federal Columbia River Power System (FCRPS) Biological Opinion (BiOp) have all identified this population as high priority for improving precision and accuracy of abundance, productivity, diversity, and spatial structure information. This status and trend monitoring by ODFW is designed to establish a comprehensive monitoring and evaluation program for abundance, productivity, and life history of steelhead in the Fifteenmile Creek population. This work is critical to gaining a better understanding of the status of the population and DPS, monitoring and adapting recovery actions, and improving the knowledge of steelhead critical habitat.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/2177",
+  "title": "Fifteenmile Creek Steelhead Spawning Surveys (2010-035-00)",
+  "id": 2177,
+  "assumptions": null,
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/107",
+    "http://www.monitoringresources.org/api/v1/methods/108",
+    "http://www.monitoringresources.org/api/v1/methods/112",
+    "http://www.monitoringresources.org/api/v1/methods/131",
+    "http://www.monitoringresources.org/api/v1/methods/402",
+    "http://www.monitoringresources.org/api/v1/methods/1366",
+    "http://www.monitoringresources.org/api/v1/methods/1433",
+    "http://www.monitoringresources.org/api/v1/methods/4041",
+    "http://www.monitoringresources.org/api/v1/methods/4223",
+    "http://www.monitoringresources.org/api/v1/methods/5334",
+    "http://www.monitoringresources.org/api/v1/methods/5447"
+  ],
+  "objectives": [
+    "Improve accuracy and precision of estimates of spawner abundance",
+    "Determine population dynamics for Fifteenmile Creek steelhead"
+  ],
+  "ownerName": "Katie  Pierson",
+  "ownerEmail": "katherine.j.pierson@state.or.us",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/20"
+}

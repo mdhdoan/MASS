@@ -1,0 +1,27 @@
+{
+  "background": "This protocol supports other work elements such as Sturgeon spawning evaluations and movement analysis. This protocol has been in place since this investigation began in 1988. Sampling for adult sturgeon using these standardized methods has been an important component of this program providing information on growth, survival, andabundance. This sampling protocol has additionally provides test specimens for telemetry studies and helps provide broodstock for KTOI hatchery production.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/1998",
+  "title": "KRRFM - Adult White Sturgeon Evaluation",
+  "id": 1998,
+  "assumptions": "<p>One assumption of our sampling program is that our methods are unbiased, and the data we collect is representative of the true status of the population.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/485",
+    "http://www.monitoringresources.org/api/v1/methods/902",
+    "http://www.monitoringresources.org/api/v1/methods/952",
+    "http://www.monitoringresources.org/api/v1/methods/992",
+    "http://www.monitoringresources.org/api/v1/methods/1020",
+    "http://www.monitoringresources.org/api/v1/methods/1442",
+    "http://www.monitoringresources.org/api/v1/methods/1551",
+    "http://www.monitoringresources.org/api/v1/methods/1734",
+    "http://www.monitoringresources.org/api/v1/methods/1736",
+    "http://www.monitoringresources.org/api/v1/methods/4041"
+  ],
+  "objectives": [
+    "Determine adult Kootenai River White Sturgeon growth, survival, and abundance\r\n",
+    "Provide adults for hatchery production\r\n",
+    "Provide adults for telemetry studies"
+  ],
+  "ownerName": "Ryan Hardy",
+  "ownerEmail": "ryan.hardy@idfg.idaho.gov",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/28"
+}

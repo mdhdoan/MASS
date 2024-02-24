@@ -1,0 +1,33 @@
+{
+  "background": "~~The Yakima/Klickitat Fisheries Project (YKFP) is, perhaps, the largest and most complex fisheries project in the Columbia Basin (Fast et al. 2015). The YKFP was designed to test the assumption that artificial production of targeted fish populations (initially spring Chinook salmon) could be used to increase natural production while maintaining the long term genetic fitness of the population and keeping adverse genetic and ecological interactions with non-target fish populations within acceptable limits (RASP 1992; BPA 1996; Fast et al. 2015). This YKFP domestication selection research is intended to monitor the phenotypic divergence associated with three genetic lines maintained by the hatchery that are subjected to varying levels of hatchery exposure, and therefore subject to varying levels of domestication selection. Genotypic change is monitored under a separate protocol (3299). Raising fish in hatcheries can cause unintended behavioral, physiological, life history, and morphological changes. Such changes are often defined as domestication selection, whereas there is a change in genotype and/or phenotypic traits resulting exposure to the hatchery environment. Releasing fish that have altered genotypic or phenotypic traits that may be maladapted to the natural environment may result in reduced population productivity and fitness for naturally spawning fish with hatchery ancestry and also has the potential to reduce the fitness of natural origin spawners. The Domestication Monitoring Plan for the YKFP was developed to evaluate the effect hatchery exposure has on spring Chinook in the Yakima basin, and to separate genetic effects from phenotypic plasticity that has been difficult for other studies to demonstrate (Busack et al. 2003).",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/3297",
+  "title": "YKFP- Monitoring and Evaluation- Domestication Selection Research",
+  "id": 3297,
+  "assumptions": "<p>The Domestication research was designed to test the hypothesis that supplementation hatchery rearing does not reduce the fitness of hatchery fish spawning in the wild, or of&nbsp;the natural population.&nbsp; The three lines of fish used for comparisons include fish that have not had hatchery exposure (Wild Control Line), fish with minimal hatchery exposure (maximum of one generation; Supplementation Hatchery/Supplementation Natural&nbsp; sub-lines), or fish with repeated hatchery exposure for many generations&nbsp;(Hatchery Control Line).&nbsp; Differences in any of the traits monitored are assumed to be the result of Domestication Selection.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/107",
+    "http://www.monitoringresources.org/api/v1/methods/110",
+    "http://www.monitoringresources.org/api/v1/methods/380",
+    "http://www.monitoringresources.org/api/v1/methods/1090",
+    "http://www.monitoringresources.org/api/v1/methods/1366",
+    "http://www.monitoringresources.org/api/v1/methods/1457",
+    "http://www.monitoringresources.org/api/v1/methods/1472",
+    "http://www.monitoringresources.org/api/v1/methods/1548",
+    "http://www.monitoringresources.org/api/v1/methods/1549",
+    "http://www.monitoringresources.org/api/v1/methods/1551",
+    "http://www.monitoringresources.org/api/v1/methods/4041",
+    "http://www.monitoringresources.org/api/v1/methods/6585",
+    "http://www.monitoringresources.org/api/v1/methods/6586"
+  ],
+  "objectives": [
+    "Compare developmental abnormalities for three genetic lines of Yakima spring Chinook (Hatchery Control, Supplementation Hatchery and Supplementation Natural origin sublines, and a Wild Control)",
+    "Compare egg-to-fry survival for three genetic lines of Yakima spring Chinook (Hatchery Control, Supplementation Hatchery and Supplementation Natural origin sublines, and a Wild Control)",
+    "Determine developmental condition at emergence for three genetic lines of Yakima spring Chinook (Hatchery Control, Supplementation Hatchery, and Supplementation Natural)",
+    "Determine emergence timing for three genetic lines of Yakima spring Chinook (Hatchery Control, Supplementation Hatchery and Supplementation Natural origin sublines, and a Wild Control)",
+    "Determine fertility for three genetic lines of Yakima spring Chinook (Hatchery Control, Supplementation Hatchery and Supplementation Natural origin sublines, and a Wild Control)",
+    "Determine Reproductive effort for three genetic lines of Yakima spring Chinook (Hatchery Control, Supplementation Hatchery and Supplementation Natural origin sublines, and a Wild Control)"
+  ],
+  "ownerName": "Gabriel Temple",
+  "ownerEmail": "gabriel.temple@dfw.wa.gov",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40"
+}

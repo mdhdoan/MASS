@@ -1,0 +1,11 @@
+{
+  "url": "http://www.monitoringresources.org/api/v1/programs/63",
+  "title": "GeoOptix",
+  "id": 63,
+  "primaryContactName": "Keith Steele",
+  "primaryContactEmail": "keith@sitkatech.com",
+  "organizations": [
+    "ESA Sitka"
+  ],
+  "protocols": []
+}

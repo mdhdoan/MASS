@@ -1,0 +1,12 @@
+{
+  "url": "http://www.monitoringresources.org/api/v1/programs/60",
+  "title": "Regional Stormwater Monitoring Program (RSMP)",
+  "id": 60,
+  "primaryContactName": "Brandi Lubliner",
+  "primaryContactEmail": "brwa461@ecy.wa.gov",
+  "organizations": [
+    "Washington Department of Fish and Wildlife",
+    "Washington State Department of Ecology"
+  ],
+  "protocols": []
+}

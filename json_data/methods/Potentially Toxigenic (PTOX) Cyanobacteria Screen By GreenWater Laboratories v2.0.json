@@ -1,0 +1,9 @@
+{
+  "abstractText": "Cyanobacteria can produce a suite of toxins (commonly calledcyanotoxins) and other compounds thatcan be harmful to humans, pets, wildlife and other organisms,cause detrimental effects on the ecosystem, and impact drinking water sources.Not all cyanobacteria produce toxins,and those that do canproduce one or more types of toxins. cyanobacterial blooms may contain a mix of toxic and non-toxic species. Therefore, it is important to screen samples for presenceof potentially toxigenic cyanobacteria(PTOX) to know whether testing for toxins is necessary and to provide recommendations on what toxins to analyze.Samples collected according to Method 7178are screened using this method to determine if the sample warrants analysisfor cyanotoxin concentration.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/7186",
+  "title": "Potentially Toxigenic (PTOX) Cyanobacteria Screen By GreenWater Laboratories v2.0",
+  "id": 7186,
+  "type": "Data Collection",
+  "ownerName": "John Franco Saraceno",
+  "ownerEmail": "JOHNFRANCO.SARACENO@WATER.CA.GOV"
+}

@@ -1,0 +1,9 @@
+{
+  "abstractText": "A streamgage is a structure installed beside a stream or river that contains equipment that measures and records the water level (called gage height or stage) of the stream. Streamflow (also called discharge) is computed from measured water levels using a site-specific relation (called a stage-discharge rating curve) developed from onsite water level and streamflow measurements made by USGS hydrographers. The water level and streamflow data are quality assured and made available online.The basics of USGS streamgage is described inLurry (2011)",
+  "url": "http://www.monitoringresources.org/api/v1/methods/6805",
+  "title": "Surface-Water Streamgaging Techniques and Methods v1.0",
+  "id": 6805,
+  "type": "Data Collection",
+  "ownerName": "Ryan Fosness",
+  "ownerEmail": "rfosness@usgs.gov"
+}

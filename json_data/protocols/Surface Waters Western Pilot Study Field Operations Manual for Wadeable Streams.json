@@ -1,0 +1,38 @@
+{
+  "background": "This document describes field procedures that were used during the Environmental Monitoring and Assessment Program (EMAP) Western Pilot Study, conducted from 1999 through 2004.  Objectives for EMAP involve developing appropriate scientific and technical tools for evaluating ecological condition on regional and national scales.  The procedures in this document are based on previously published EMAP procedures, modified to adapt them to the specific requirements of the Western Pilot Study.  Procedures are described for collecting field measurement data and/or acceptable samples for several response and stressor indicators, including aquatic vertebrate assemblages, water chemistry, physical habitat, invasive riparian plants, and fish tissue contaminants.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/4",
+  "title": "Surface Waters Western Pilot Study: Field Operations Manual for Wadeable Streams",
+  "id": 4,
+  "assumptions": "The survey design allows results for a comprehensive suite of ecological indicators to be extrapolated from the sites sampled to the entire target population, or to selected subpopulations (e.g., States, ecoregions, drainage basins) having an adequate sample size. The target population of interest for EMAP-W was all perennial streams and rivers as represented in the EPA&rsquo;s River Reach File (RF3) and the U.S. Geological Survey (USGS) Pacific Northwest River Reach file, with the exception of the Columbia River, the mainstem Missouri River, and the lower portions of the Snake and Colorado Rivers. \r\n\r\nAn important characteristic of the survey design is that not all sites initially identified for\r\nsampling turn out to be sampled; some do not meet the criteria for inclusion in the target\r\npopulation, and some target sites cannot be sampled for various reasons (e.g., physically\r\ninaccessible or access permission is not obtained). The survey design allows for estimation\r\nof these various types of errors, resulting in a more accurate and robust determination of\r\nthe resource population that can be confidently assessed.",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/71",
+    "http://www.monitoringresources.org/api/v1/methods/72",
+    "http://www.monitoringresources.org/api/v1/methods/73",
+    "http://www.monitoringresources.org/api/v1/methods/74",
+    "http://www.monitoringresources.org/api/v1/methods/75",
+    "http://www.monitoringresources.org/api/v1/methods/76",
+    "http://www.monitoringresources.org/api/v1/methods/77",
+    "http://www.monitoringresources.org/api/v1/methods/78",
+    "http://www.monitoringresources.org/api/v1/methods/79",
+    "http://www.monitoringresources.org/api/v1/methods/80",
+    "http://www.monitoringresources.org/api/v1/methods/81",
+    "http://www.monitoringresources.org/api/v1/methods/82",
+    "http://www.monitoringresources.org/api/v1/methods/83",
+    "http://www.monitoringresources.org/api/v1/methods/84",
+    "http://www.monitoringresources.org/api/v1/methods/85",
+    "http://www.monitoringresources.org/api/v1/methods/86",
+    "http://www.monitoringresources.org/api/v1/methods/87",
+    "http://www.monitoringresources.org/api/v1/methods/88",
+    "http://www.monitoringresources.org/api/v1/methods/89",
+    "http://www.monitoringresources.org/api/v1/methods/90",
+    "http://www.monitoringresources.org/api/v1/methods/91",
+    "http://www.monitoringresources.org/api/v1/methods/92"
+  ],
+  "objectives": [
+    "Monitor (ecological indicators, stream survey design, estimates of reference condition) to produce unbiased estimates of ecological condition of surface waters across a large geographic area",
+    "Demonstrate monitoring in a large-scale assessment of the status and extent of ecological condition."
+  ],
+  "ownerName": "Jacque Schei",
+  "ownerEmail": "jschei@usgs.gov",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/2"
+}

@@ -1,0 +1,236 @@
+{
+  "url": "http://www.monitoringresources.org/api/v1/programs/20",
+  "title": "ERFR (ODFW East Region Fish Research)",
+  "id": 20,
+  "primaryContactName": "Jim Ruzycki",
+  "primaryContactEmail": "james.r.ruzycki@state.or.us",
+  "organizations": [
+    "Oregon Department of Fish and Wildlife"
+  ],
+  "protocols": [
+    {
+      "id": 150,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/150",
+      "title": "Umatilla Hatchery Monitoring and Evaluation (1990-005-00)",
+      "lastUpdated": "2016-08-12T23:05:54-07:00"
+    },
+    {
+      "id": 217,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/217",
+      "title": "Life history of spring Chinook salmon and summer steelhead (1992-026-04)",
+      "lastUpdated": "2022-12-10T06:20:27-08:00"
+    },
+    {
+      "id": 280,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/280",
+      "title": "Umatilla Steelhead Redd Surveys (1989-024-01)",
+      "lastUpdated": "2012-11-13T18:59:36-08:00"
+    },
+    {
+      "id": 284,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/284",
+      "title": "Summer Steelhead Life-Cycle Monitoring",
+      "lastUpdated": "2021-05-05T05:20:44-07:00"
+    },
+    {
+      "id": 370,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/370",
+      "title": "Juvenile Salmonid Density & Distribution in Northeast Oregon Watersheds",
+      "lastUpdated": "2018-02-01T02:50:20-08:00"
+    },
+    {
+      "id": 372,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/372",
+      "title": "Anadromous Analytics (Project 1998-016-00)",
+      "lastUpdated": "2018-02-01T03:01:22-08:00"
+    },
+    {
+      "id": 427,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/427",
+      "title": "Estimating Abundance of Adult Summer Steelhead in Northeast Oregon Streams without Weirs",
+      "lastUpdated": "2021-02-09T06:08:27-08:00"
+    },
+    {
+      "id": 444,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/444",
+      "title": "Determine genetic structure of John Day subbasin steelhead populations",
+      "lastUpdated": "2016-04-28T00:54:53-07:00"
+    },
+    {
+      "id": 457,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/457",
+      "title": "John Day River Spring Chinook Smolt Seining to Estimate Abundance, Condition, Migration Timing and Survival-ODFW",
+      "lastUpdated": "2021-02-09T06:08:47-08:00"
+    },
+    {
+      "id": 702,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/702",
+      "title": "Estimating abundance of steelhead outmigrants from Little Sheep Creek (1989-096-00)",
+      "lastUpdated": "2022-12-10T06:20:58-08:00"
+    },
+    {
+      "id": 757,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/757",
+      "title": "Estimating Adult Summer Steelhead Escapement in North East Oregon using GRTS-based Surveys",
+      "lastUpdated": "2018-11-06T05:30:41-08:00"
+    },
+    {
+      "id": 1996,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/1996",
+      "title": "Smolt-to-Adult-Ratio (2010-035-00)",
+      "lastUpdated": "2014-01-15T19:21:56-08:00"
+    },
+    {
+      "id": 2010,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2010",
+      "title": "Estimating Salmonid Population VSP performance criteria (Natural Origin Spawner Abundance and Recruits Per Spawner) for Fifteenmile Winter Steelhead",
+      "lastUpdated": "2017-09-14T05:21:34-07:00"
+    },
+    {
+      "id": 2047,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2047",
+      "title": "ODFW Rotary Screw Trap_Template",
+      "lastUpdated": "2014-07-17T19:20:15-07:00"
+    },
+    {
+      "id": 2151,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2151",
+      "title": "ODFW Grande Ronde Upper Mainstem Summer Steelhead Population NOSA",
+      "lastUpdated": "2017-09-07T01:12:01-07:00"
+    },
+    {
+      "id": 2176,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2176",
+      "title": "Interim Protocol- Fifteenmile Creek Adult and Juvenile Steelhead Abundance and Distribution 2010-035-00",
+      "lastUpdated": "2017-04-04T00:12:28-07:00"
+    },
+    {
+      "id": 2177,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2177",
+      "title": "Fifteenmile Creek Steelhead Spawning Surveys (2010-035-00)",
+      "lastUpdated": "2017-04-21T01:26:31-07:00"
+    },
+    {
+      "id": 2180,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2180",
+      "title": "ODFW Joseph Creek Summer Steelhead Population NOSA",
+      "lastUpdated": "2017-09-14T05:14:18-07:00"
+    },
+    {
+      "id": 2189,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2189",
+      "title": "ODFW John Day River Upper Mainstem Summer Steelhead Population NOSA",
+      "lastUpdated": "2015-12-30T02:15:53-08:00"
+    },
+    {
+      "id": 2197,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2197",
+      "title": "Deschutes Bakeoven and Buck Hollow Spawning Surveys (2007-299-00)",
+      "lastUpdated": "2017-04-22T02:32:32-07:00"
+    },
+    {
+      "id": 2198,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2198",
+      "title": "Interim Protocol- Deschutes Bakeoven and Buck Hollow Adult and Juvenile Steelhead Abundance and Distribution 2007-299-00",
+      "lastUpdated": "2017-04-22T02:11:42-07:00"
+    },
+    {
+      "id": 3290,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3290",
+      "title": "ODFW Seining Sampling and Data Collection Activities for Chinook Salmon Parr in Summer",
+      "lastUpdated": "2022-12-10T06:21:41-08:00"
+    },
+    {
+      "id": 3291,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3291",
+      "title": "ODFW Snorkel & Dip Net Sampling & Data Collection Activities for Chinook Salmon Parr in Winter",
+      "lastUpdated": "2022-12-10T06:22:19-08:00"
+    },
+    {
+      "id": 3292,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3292",
+      "title": "Egg to Migrant Survival Relative to the Stream Health & Life History Patterns of Chinook Salmon",
+      "lastUpdated": "2022-12-10T06:23:14-08:00"
+    },
+    {
+      "id": 3294,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3294",
+      "title": "Juvenile Salmonid Density & Distribution in Northeast Oregon Watersheds (Channel Units)",
+      "lastUpdated": "2022-12-10T06:23:46-08:00"
+    },
+    {
+      "id": 3380,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3380",
+      "title": "Estimating Survival, Dispersal, and Migratory Timing of John Day River Salmonids with PIT Arrays",
+      "lastUpdated": "2021-02-09T06:08:55-08:00"
+    },
+    {
+      "id": 3448,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3448",
+      "title": "Estimating Adult Summer Steelhead Escapement in North East Oregon Version 2",
+      "lastUpdated": "2018-10-11T23:54:06-07:00"
+    },
+    {
+      "id": 3456,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3456",
+      "title": "Fifteenmile Creek Steelhead Spawning Surveys (2010-035-00) Copy2",
+      "lastUpdated": "2018-12-15T06:37:21-08:00"
+    },
+    {
+      "id": 3480,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3480",
+      "title": "Monitoring the proportion of natural spawners composed of hatchery-origin recruits",
+      "lastUpdated": "2019-08-12T08:37:22-07:00"
+    },
+    {
+      "id": 3488,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3488",
+      "title": "Umatilla Hatchery Monitoring and Evaluation (1990-005-00) Smolt Production",
+      "lastUpdated": "2021-07-09T05:50:35-07:00"
+    },
+    {
+      "id": 3489,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3489",
+      "title": "Umatilla Hatchery Monitoring and Evaluation (1990-005-00) Adult Returns Assessments",
+      "lastUpdated": "2019-10-24T05:08:53-07:00"
+    },
+    {
+      "id": 3683,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3683",
+      "title": "Juvenile Salmonid Density & Distribution in Wallowa Lostine River (ODFW)",
+      "lastUpdated": "2022-12-10T06:25:02-08:00"
+    }
+  ]
+}

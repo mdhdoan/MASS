@@ -1,0 +1,9 @@
+{
+  "abstractText": "Surveys methods are very similar to OBMEP Redd Survey Methodology with the following exceptions: 1) WDFW does measure redd life. 2) WDFW will use GPS to determine the location of redds, but will not record coordinate on flag, and will not enter data into Trimble data loggers. 3) WDFW will not use separate flagging color for each survey, and will flag test digs. 4) WDFW does not always conduct surveys upstream (e.g. depends on sediment/turbidity). 5) WDFW does not check gonad condition on every fish or remove otoliths from carcasses, but will evaluate proportion of eggs retained.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/365",
+  "title": "South East WA Redd Surveys v1.0",
+  "id": 365,
+  "type": "Data Collection",
+  "ownerName": "Jeremy Trump",
+  "ownerEmail": "jeremy.trump@dfw.wa.gov"
+}

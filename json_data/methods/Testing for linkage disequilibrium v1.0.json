@@ -1,0 +1,9 @@
+{
+  "abstractText": "Linkage disequilibrium (LD) is the non-random association of alleles at two or more loci.  Geneticists are interested in estimating the level of linkage disequilibrium because it can tell information about both the genetic markers that are being used and the populations being studied.  This includes information about the genetic linkage of markers, selection, the rate of recombination, the rate of mutation, genetic drift, non-random mating, and population structure.When genetic linkage is suspected (a pair of loci exhibit strong LD across multiple populations) often only the one with the highest allele frequency is retained.  If LD is observed between many pairs of loci within the same population, the population may be dropped since many statistical tests assume equilibrium within populations.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1349",
+  "title": "Testing for linkage disequilibrium v1.0",
+  "id": 1349,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Matthew Campbell",
+  "ownerEmail": "matthew.campbell@idfg.idaho.gov"
+}

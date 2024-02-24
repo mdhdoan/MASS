@@ -1,0 +1,22 @@
+{
+  "background": "Within the Okanogan River subbasin, the Okanogan Basin Monitoring and Evaluation Program (OBMEP) monitorssummer steelhead (Oncorhynchus mykiss) spawner abundance and spatial distribution. Monitoring is conducted through a combination of redd surveysand Passive Integrated Transponder (PIT) tag detections.The redd data are combined with a 'fish per redd'and percent wild valueto estimate total spawning abundane inunique subwatersheds and mainstem reaches throughout the subbasin. The sex ratio can change year to year and is used to expand the number of redds observed into the likely number of fish per redd on an annual basis. For example, assuming each female will only produce one redd, an observed sex ratio of 1.5:1.0 males to females would be expanded to 2.5 fish per redd. Applying the sex ratio multiplier to the total number of redds allows us to estimate total spawning escapement.Redd surveys provide valuable information on an annual basis pertaining to spatial distribution of spawners, but data can also be used to calculate spawner abundance in a tributary ormainstem reach. PIT tag data is used to determine abundance of spawners and todetermine percent wild in unique analysis bins.See Method #6927 -Natural Spawner Abundance 2 v1.0 and Protocol #235 - Upper Columbia River ESU Steelhead Stock Assessment (2010-034-00) v1.0 for more details regarding how steelhead abundance estimates are derived.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/192",
+  "title": "Okanogan Basin Monitoring & Evaluation Program - Steelhead Spawner Abundance",
+  "id": 192,
+  "assumptions": "<p>One redd per female. Sex and percent wild ratios at Wells Dam are representative of the Okanogan River mainstem habitats. Tributary habitats where a weir exists are representative of sex and percent wild ratios returning to other tributary habitats. This is a census study design so we assume we are observing all redds across available habitats across the entire spawning period.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/131",
+    "http://www.monitoringresources.org/api/v1/methods/402",
+    "http://www.monitoringresources.org/api/v1/methods/1429",
+    "http://www.monitoringresources.org/api/v1/methods/4000",
+    "http://www.monitoringresources.org/api/v1/methods/6927"
+  ],
+  "objectives": [
+    "To determine if the number of adult salmon and steelhead in the Okanogan River subbasin is trending towards recovery over time.",
+    "To estimate the proportion of hatchery and natural origin spawners in the Okanogan subbasin.",
+    "To determine if the spatial distribution of salmon and steelhead is moving toward inclusion of all historically available habitat in the Okanogan River subbasin over time."
+  ],
+  "ownerName": "John Arterburn",
+  "ownerEmail": "john.arterburn@colvilletribes.com",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/4"
+}

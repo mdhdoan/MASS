@@ -1,0 +1,19 @@
+{
+  "url": "http://www.monitoringresources.org/api/v1/programs/33",
+  "title": "NPT Resident Fish",
+  "id": 33,
+  "primaryContactName": "Tod Sween",
+  "primaryContactEmail": "tods@nezperce.org",
+  "organizations": [
+    "Nez Perce Tribe"
+  ],
+  "protocols": [
+    {
+      "id": 710,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/710",
+      "title": "NPT Resident Fish Substitution Data Collection Activities",
+      "lastUpdated": "2015-01-14T02:54:18-08:00"
+    }
+  ]
+}

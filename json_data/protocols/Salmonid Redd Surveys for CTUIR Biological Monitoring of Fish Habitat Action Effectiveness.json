@@ -1,0 +1,19 @@
+{
+  "background": "The goal of this biomonitoring program is to assess the effectiveness of CTUIR sponsored habitat restoration actions on spring Chinook salmon (Oncorhynchus tshawytscha), summer steelhead (Oncorhynchus mykiss), and bull trout (Salvelinus confluentus) populations. Monitoring of the biological and geo-fluvial responses to habitat restoration actions is fundamental to informing future management actions.Multiple pass spawning surveys document the temporal and spatial distribution and abundance of salmon and steelhead redds. Adult abundance and distribution is estimated based on redd and carcass counts conducted in treatment and control reaches. Sampling occurs annually commencing at the onset of the spawning season and continues approximately every 1014 days until spawning is complete. Analysis under this protocol is related to habitat data collected with CTUIRs Habitat Monitoring Protocol (https://www.monitoringresources.org/Document/Protocol/Details/1955) to correlate habitat restoration actions with redd distribution and abundance over time.Datafor this protocol is usually collected by cooperative agencies and projects that have long term status and trend RM&E efforts in the CTUIR Sub basins of interest.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/3322",
+  "title": "Salmonid Redd Surveys for CTUIR Biological Monitoring of Fish Habitat Action Effectiveness",
+  "id": 3322,
+  "assumptions": "<p>Assumptions of multiple pass spawning surveys include: 1) reasonably consistent observations within and between surveyors, passes, and years; 2) flagging redds minimizes double counting; 3) surveyors on subsequent passes track previous redds sufficiently to reduce double counting in cases where flagging loss occurs between surveys; 4) spring Chinook census spawning survey reaches bracket all spawning activities&nbsp;in time and space; 5) sites are accessible during steelhead spawning surveys to allow for redd visibility and documentation.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/131",
+    "http://www.monitoringresources.org/api/v1/methods/4112",
+    "http://www.monitoringresources.org/api/v1/methods/6600"
+  ],
+  "objectives": [
+    "Map and compare spatial distribution and density of redds in treatment and control reaches related to fish habitat data over time.",
+    "Correlate the biological effects of habitat restoration actions on redd abundance and distribution over time between treatment and control reaches."
+  ],
+  "ownerName": "Kaylyn Costi",
+  "ownerEmail": "kaylyncosti@ctuir.org",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/19"
+}

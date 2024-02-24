@@ -1,0 +1,9 @@
+{
+  "abstractText": "Identify the vertical distance (height) from the observed water surface up to the bankfull elevation on one side of the channel. This measurement is taken at each of the 11 main transects along the channeland can be used to measure floodplain connectivity.See Appendix C in the AIM protocol for guidance on measuring bankfull height at dry transects and Appendix D in the AIM protocol for photos illustrating bankfull height.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/7013",
+  "title": "Floodplain Connectivity - Bankfull Height v1.0",
+  "id": 7013,
+  "type": "Data Collection",
+  "ownerName": "PNAMP Support",
+  "ownerEmail": "pnamp.mm@gmail.com"
+}

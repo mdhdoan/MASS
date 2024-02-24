@@ -1,0 +1,9 @@
+{
+  "abstractText": "Measure conductivity and alkalinity at the upstream end of each site above the last transect flag to ensure that sediment has not been disturbed. Take each measurement in flowing water near the center of the channel. If a beaver dam pool exists at the top of site, measure water chemistry downstream of dam, even if it is within the site.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/848",
+  "title": "Water Chemistry - Conductivity and Alkalinity v1.0",
+  "id": 848,
+  "type": "Data Collection",
+  "ownerName": "Boyd Bouwes",
+  "ownerEmail": "boydbouwes@gmail.com"
+}

@@ -1,0 +1,9 @@
+{
+  "abstractText": "Common methods for sampling and evaluating macroinvertebrate abundance, composition, and community structure include the use of Surber, Hess, and D-frame kick net samplers. Macroinvertebrate metrics are commonly used to assess the health and productivity of lotic systems. Aquatic macroinvertebrates represent a fundamental link in the food web between organic matter resources and fishes (Hauer and Resh (2006) Macroinvertebrates chapter in Hauer and Lamberti (2006) (Methods in Stream Ecology)).The particular method described here utilizes a customized Hess sampler and a localized field of direct current using a backpack electrofisher unit to collect benthc macroinvertebrates that are induced into the drift by exposure to electricity. This method provides density and diversity estimates comparable to traditional methods, and the resulting sample is much cleaner with greatly reduced amounts organic and inorganic debris that is typically associated with techniques that require physical disturbance of the substrate.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/552",
+  "title": "Macroinvertebrate sampling using electroshocking techniques v1.0",
+  "id": 552,
+  "type": "Data Collection",
+  "ownerName": "David Richardson",
+  "ownerEmail": "drichardson@sbtribes.com"
+}

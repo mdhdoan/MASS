@@ -1,0 +1,9 @@
+{
+  "abstractText": "Percent of wetted area that has cover for fish (FC). Cover is estimated for each channel unit, then a weighted average (based on channel unit area) is calculated for either the entire site or for each tier within a site.Percent fish cover is calculated for each type of cover: Large Woody Debris (LWD), Vegetation, Undercut Banks, Aquatic Vegetation, or Artificial. The total percent cover, as well as the area with no cover, are also calculated.The CHaMP - Fish Cover Elements Method provides background on collection of the measurement data that are analyzed for this calculation. See - http://www.monitoringmethods.org/Method/Details/838",
+  "url": "http://www.monitoringresources.org/api/v1/methods/873",
+  "title": "Percent Fish Cover Calculation v1.0",
+  "id": 873,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org"
+}

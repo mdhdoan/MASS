@@ -1,0 +1,20 @@
+{
+  "background": "This report describes a protocol for monitoring fish densities and fish assemblage structure using snorkel surveys. The Columbia River Inter-Tribal Fish Commission (CRITFC), Oregon Department of Fish & Wildlife (ODFW), and Confederated Tribes of the Umatilla Indian Reservation (CTUIR) have recognized the need to use a common snorkel survey so that information collected by individual entities can help managers determine whether aggregate habitat restoration actions will yield a net improvement in basin-wide habitat quality for ESA listed fish species (NOAA 2007). To this end, we developed a snorkeling protocol drawing heavily from the protocols of Thurow (1994) and ONeal (2007), intended for use among all agencies responsible for data collection in the upper Grande Ronde, Catherine Creek, Minam River, and potentially other nearby basins.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/499",
+  "title": "Protocol for Snorkel Surveys of Fish Densities",
+  "id": 499,
+  "assumptions": "<p>The key assumption of this protocol is that snorkeling provides a consistent measure of relative fish abundance and assemblage structure.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/136",
+    "http://www.monitoringresources.org/api/v1/methods/834",
+    "http://www.monitoringresources.org/api/v1/methods/1746",
+    "http://www.monitoringresources.org/api/v1/methods/1747"
+  ],
+  "objectives": [
+    "Document the relative abundance of juvenile salmonids at the habitat unit and reach scales.",
+    "Document fish assemblage structure at the habitat unit and reach scales."
+  ],
+  "ownerName": "Seth White",
+  "ownerEmail": "whis@critfc.org",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/34"
+}

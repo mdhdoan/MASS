@@ -1,0 +1,25 @@
+{
+  "background": "Steelhead (Oncorhynchus mykiss)are currently listed as threatened in the Upper Columbia basin. Monitoring the status and trends of tributary populations in the Upper Columbia allow researchers to track progress towards recovery goals, as outlined in the Monitoring Strategy for the Upper Columbia Basin (Hillman 2006). However, estimating the population size of naturally produced juvenile steelhead in the Okanogan basin continues to be a challenging task. Life history strategies and residence time of juvenile steelhead can be highly variable. The timing of outmigration can vary widely, even among the same brood year and between sexes (Peven et al. 1994). Consequently, interpreting migrational movements (i.e. resident vs. anadromous) can be challenging.This study is designed to assess utilization of tributaries to the Okanogan River by juvenile steelhead and to determine population estimates and emigration rates from streams, while conforming to existing monitoring frameworks in the basin. This task is accomplished with the use of electrofishing, remote PIT tagging, mark-recapture events, and in-stream PIT tag antennas.See Protocol #7 - OBMEP - Juvenile Abundance - Snorkel Surveys for more details regarding how juvenile abundance estimates are derived.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/194",
+  "title": "Okanogan Basin Monitoring & Evaluation Program - Juvenile Abundance - Mark-Recapture",
+  "id": 194,
+  "assumptions": "<p>Block nets are effective at keeping fish within the study area. Marked fish are representative of unmarked fish. Marks are retained and all marks are detected upon recapture. Marking of fish does not affect the likelihood of recapture. Marked fish are randomly distributed with unmarked fish. An equal effort is used in both fish capture passes. Fish can be identified correctly. Observed numbers of fish accurately represents total population within the reach. Each study site is representative of the reach in which it is located and that fish are evenly distributed throughout the reach.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/117",
+    "http://www.monitoringresources.org/api/v1/methods/118",
+    "http://www.monitoringresources.org/api/v1/methods/119",
+    "http://www.monitoringresources.org/api/v1/methods/254",
+    "http://www.monitoringresources.org/api/v1/methods/1076",
+    "http://www.monitoringresources.org/api/v1/methods/1736",
+    "http://www.monitoringresources.org/api/v1/methods/3971",
+    "http://www.monitoringresources.org/api/v1/methods/3972"
+  ],
+  "objectives": [
+    "To determine the status and trend of juvenile salmonid abundance in the Okanogan River Basin.",
+    "To calculate an independent, stream-based population emigration estimate from PIT tags.",
+    "To determine an estimate of abundance of juvenile O. mykiss in small streams."
+  ],
+  "ownerName": "John Arterburn",
+  "ownerEmail": "john.arterburn@colvilletribes.com",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/4"
+}

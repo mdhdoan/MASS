@@ -1,0 +1,18 @@
+{
+  "background": "Examining the diversity of seasonal and life-history behaviors of salmonidsin monitored watersheds will improve the understanding of in-stream habitat use and production of the migratory life-history variant. Monitoring in-stream movement patterns will provide data on seasonal habitats used (e.g., overwintering), and could aid in evaluating the response to restorative actions implemented to improve the quality of seasonal habitats. Monitoring the propensity of juvenilesalmonids to move out of natal, stream habitats and into larger bodies of water (e.g., larger rivers, lake) and monitoring the spatial distribution of spawning adults returning from these larger bodies of water will identify tributaries within watersheds that support the migratory life-history strategy. Understanding the current spatial distribution of the migratorylife-history variant may aid in prioritizing future restoration efforts. Half-duplex (i.e.,HDX) passive integrated transponder (i.e., PIT) technology is being implemented across projects of the Coeur d'Alene Tribe's fisheries program to monitor seasonal and life-history movements of targeted salmonids. In the upper Hangman Creek watershed, stationary PIT arrays have been installed to monitor movements of migratory redband trout. In the Coeur d'Alene basin,stationary PIT arrays have been installed in the upper Benewah and Lake creek watersheds to monitor movements of migratorywestslope cutthroat trout. This protocol is intended to be used for each of these two projects.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/3279",
+  "title": "Using stationary PIT interrogation antenna arrays to monitor movements of salmonids within watersheds",
+  "id": 3279,
+  "assumptions": "<p>1. &nbsp;PIT tagged fish and their patterns of movement represent the population from which they were sampled and tagged.</p>\r\n\r\n<p>2 &nbsp;Series of stationary PIT antenna arrays within watersheds operate at sufficient efficiency to confidently generate conclusions regarding seasonal and life-history movements within watersheds.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/6572",
+    "http://www.monitoringresources.org/api/v1/methods/6573"
+  ],
+  "objectives": [
+    "Use interrogation data from stationary PIT arrays to describe the spatial distribution of the migratory life-history variant within watersheds.",
+    "Create interrogation histories for individual PIT tagged fish to evaluate seasonal movements within watersheds."
+  ],
+  "ownerName": "Jon Firehammer",
+  "ownerEmail": "jfirehammer@cdatribe-nsn.gov",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/70"
+}

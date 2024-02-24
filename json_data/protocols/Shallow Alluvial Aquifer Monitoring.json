@@ -1,0 +1,22 @@
+{
+  "background": "In an alluvial aquifer system that often in direct communication with surface water, groundwater monitoring is essential to understanding how the hydrologic system functions. Correlating groundwater levels to reaches of high seepage loss in rivers help to understand where and what kind of projects can help restore historic groundwater levels and increase stream flows.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/788",
+  "title": "Shallow Alluvial Aquifer Monitoring",
+  "id": 788,
+  "assumptions": "<p>- Water levels measured in wells represent the overall water table elevation (not all wells are constructed to accomplish this). - Historic data is accurate</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/1447",
+    "http://www.monitoringresources.org/api/v1/methods/1448",
+    "http://www.monitoringresources.org/api/v1/methods/1449",
+    "http://www.monitoringresources.org/api/v1/methods/1450",
+    "http://www.monitoringresources.org/api/v1/methods/1670",
+    "http://www.monitoringresources.org/api/v1/methods/1671"
+  ],
+  "objectives": [
+    "Prepare groundwater data for use in other studies, including model development, watershed planning, groundwater/surface water interactions and others",
+    "Collect groundwater data at wells with both continuous data loggers and quarterly manual water level measurements."
+  ],
+  "ownerName": "Troy Baker",
+  "ownerEmail": "troy.baker@wwbwc.org",
+  "programUrl": ""
+}

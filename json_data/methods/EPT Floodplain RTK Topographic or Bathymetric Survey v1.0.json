@@ -1,0 +1,9 @@
+{
+  "abstractText": "To map extensive post-treatment (EPT) floodplain and instream habitat at treatment and control reaches, we used a combination of Real-Time Kinematic (RTK) Global Navigation Satellite Systems (GNSS) and unmanned aerial vehicle (UAV) LiDAR surveys.We used RTK GNSS base station/receiversto collect in- and near-channel data points at 5 cm accuracyas well as ground control checkpoints for LiDAR post-processing and error assessment.We used RTK GNSS to collect all stream bathymetry because traditional UAV LiDAR sensors do not penetrate water and therefore do not allow for bathymetric data collection. In addition, we used RTK locations to delineate fish habitat and bankfull measurements using on-the ground RTK surveys better than we could using orthomosaic aerial imagery and LiDAR.In GPS-denied areas, we resorted to collecting topographic positions with aTotal Station set-up with an identical feautre definition library to the RTK survey.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/7153",
+  "title": "EPT Floodplain RTK Topographic/Bathymetric Survey v1.0",
+  "id": 7153,
+  "type": "Data Collection",
+  "ownerName": "Alex Arams",
+  "ownerEmail": "alex.arams@fishsciences.net"
+}

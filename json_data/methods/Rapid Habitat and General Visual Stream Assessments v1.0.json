@@ -1,0 +1,9 @@
+{
+  "abstractText": "After other samples and field data have been collected, field team conducts a visual-based rapid habitat assessment of the support reach, makes a general visual assessment of the stream and adjacent area, and makes a final check of the data forms and samples before leaving the stream site. This habitat assessment is similar to, but not redundant with, the overall channel and habitat assessment associated with the targeted habitat periphyton sample. The rapid habitat assessment is separated into two basic approachesone designed for high-gradient streams (riffle/run prevalent) and one designed for low-gradient streams (glide/pool prevalent).  Choose the prevalent habitat type based on which habitat type occupies most of the length of the support reach.  For each type of stream, 10 parameters of the physical habitat are considered and evaluated.  The entire support reach is evaluated for each parameter.  For each of the parameters, rate the overall quality of the support reach on a scale of 0 to 20.  For the general visual stream assessment, take into account all observations the sampling team has made while at the site.  The assessment includes the following components: watershed activities and observed distrubances, site characteristics, weather during sampling, and a general assesment.  The visual assessment form is used in place of a more detailed field journal.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/92",
+  "title": "Rapid Habitat and General Visual Stream Assessments v1.0",
+  "id": 92,
+  "type": "Data Collection",
+  "ownerName": "Jacque Schei",
+  "ownerEmail": "jschei@usgs.gov"
+}

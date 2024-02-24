@@ -1,0 +1,61 @@
+{
+  "url": "http://www.monitoringresources.org/api/v1/programs/37",
+  "title": "CTUIR Fisheries Habitat Program",
+  "id": 37,
+  "primaryContactName": "Keith Karoglanian",
+  "primaryContactEmail": "keithkaroglanian@ctuir.org",
+  "organizations": [
+    "Confederated Tribes of the Umatilla Indian Reservation"
+  ],
+  "protocols": [
+    {
+      "id": 681,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/681",
+      "title": "Umatilla Subbasin Fish Habitat Restoration Monitoring Plan",
+      "lastUpdated": "2014-02-05T18:19:56-08:00"
+    },
+    {
+      "id": 687,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/687",
+      "title": "Columbia Conservation District (CCD) ISCO Sediment Sampling",
+      "lastUpdated": "2017-06-01T00:12:13-07:00"
+    },
+    {
+      "id": 775,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/775",
+      "title": "Washington State Road Surface Erosion Model",
+      "lastUpdated": "2012-07-11T19:49:09-07:00"
+    },
+    {
+      "id": 1906,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/1906",
+      "title": "Umatilla Subbasin Fish Habitat Restoration Monitoring Plan Copy2",
+      "lastUpdated": "2014-02-10T17:32:32-08:00"
+    },
+    {
+      "id": 1911,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/1911",
+      "title": "CTUIR Walla Walla Habitat Monitoring",
+      "lastUpdated": "2022-01-27T07:41:37-08:00"
+    },
+    {
+      "id": 2273,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2273",
+      "title": "CTUIR NFJD Genetic Sampling Protocol",
+      "lastUpdated": "2016-11-09T00:41:51-08:00"
+    },
+    {
+      "id": 3289,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3289",
+      "title": "North Fork John Day Fisheries Enhancement Project - Photopoint Monitoring",
+      "lastUpdated": "2016-12-20T04:48:25-08:00"
+    }
+  ]
+}

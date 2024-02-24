@@ -1,0 +1,19 @@
+{
+  "url": "http://www.monitoringresources.org/api/v1/programs/87",
+  "title": "CTWS John Day Basin Habitat Restoration Monitoring Program",
+  "id": 87,
+  "primaryContactName": "Joe Lemanski",
+  "primaryContactEmail": "joe.lemanski@ctwsbnr.org",
+  "organizations": [
+    "Confederated Tribes Of Warm Springs"
+  ],
+  "protocols": [
+    {
+      "id": 3625,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3625",
+      "title": "CTWS Conservation Areas Planting Efficacy",
+      "lastUpdated": "2021-03-19T09:47:29-07:00"
+    }
+  ]
+}

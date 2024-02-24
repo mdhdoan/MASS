@@ -1,0 +1,236 @@
+{
+  "url": "http://www.monitoringresources.org/api/v1/programs/35",
+  "title": "Confederated Tribes of the Warm Springs RO RM&E",
+  "id": 35,
+  "primaryContactName": "Jen Graham",
+  "primaryContactEmail": "jgraham@wstribes.org",
+  "organizations": [
+    "Confederated Tribes Of Warm Springs"
+  ],
+  "protocols": [
+    {
+      "id": 148,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/148",
+      "title": "CTWS RM&E - Pacific lamprey - Willamette Falls - Abundance Estimate",
+      "lastUpdated": "2021-02-25T05:20:01-08:00"
+    },
+    {
+      "id": 201,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/201",
+      "title": "CTWS RM&E - Multiple Species - Multiple Subbasins - Water Temperature Monitoring",
+      "lastUpdated": "2021-02-25T07:19:00-08:00"
+    },
+    {
+      "id": 202,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/202",
+      "title": "CTWS RM&E - Multiple Species - Multiple Subbasin - Monitoring using PIT tag Arrays",
+      "lastUpdated": "2021-02-25T05:28:18-08:00"
+    },
+    {
+      "id": 214,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/214",
+      "title": "CTWS RM&E - Estimate abundance of Pacific lamprey in Fifteenmile Creek (2007-007-00)",
+      "lastUpdated": "2021-02-25T05:39:52-08:00"
+    },
+    {
+      "id": 384,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/384",
+      "title": "CTWS - RM&E - Steelhead Redd Survey (Data Collection)",
+      "lastUpdated": "2012-03-13T18:53:21-07:00"
+    },
+    {
+      "id": 451,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/451",
+      "title": "CTWS RM&E - Pacific Lamprey Larval Lamprey Surveys",
+      "lastUpdated": "2021-02-25T06:09:58-08:00"
+    },
+    {
+      "id": 505,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/505",
+      "title": "CTWS RM&E - Bull & Brook Trout - Deschutes River Basin - Juvenile Density Monitoring",
+      "lastUpdated": "2021-02-25T07:33:20-08:00"
+    },
+    {
+      "id": 506,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/506",
+      "title": "CTWS RM&E - Multiple Species - Lower Deschutes River Subbasin - Immigration Monitoring",
+      "lastUpdated": "2021-02-25T07:44:58-08:00"
+    },
+    {
+      "id": 507,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/507",
+      "title": "CTWS RM&E - Multiple Species - Deschutes River Subbasin - Redd Counts",
+      "lastUpdated": "2021-02-25T07:46:57-08:00"
+    },
+    {
+      "id": 671,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/671",
+      "title": "CTWS RM&E - Bull Trout - Mill Creek - Bull Trout Re-introduction Plan",
+      "lastUpdated": "2021-02-25T07:48:33-08:00"
+    },
+    {
+      "id": 672,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/672",
+      "title": "CTWS RM&E - Multiple Species - Deschutes River Subbasin - Distribution Surveys",
+      "lastUpdated": "2021-02-25T07:49:58-08:00"
+    },
+    {
+      "id": 739,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/739",
+      "title": "CTWS RM&E - Multiple Species - lower Deschutes River Subbasin - Emigration Monitoring",
+      "lastUpdated": "2021-02-25T06:11:56-08:00"
+    },
+    {
+      "id": 1841,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/1841",
+      "title": "CTWS Conservation Areas Monitoring John Day",
+      "lastUpdated": "2022-02-24T02:06:22-08:00"
+    },
+    {
+      "id": 2120,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2120",
+      "title": "CTWS Conservation Areas Monitoring John Day Analysis",
+      "lastUpdated": "2015-02-19T16:00:15-08:00"
+    },
+    {
+      "id": 2147,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2147",
+      "title": "CTWS RM&E- Maintain and operate PIT tag Array (2008-311-00)",
+      "lastUpdated": "2021-02-25T07:58:55-08:00"
+    },
+    {
+      "id": 2148,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2148",
+      "title": "CTWS RM&E - Salmonids  - Deschutes River Subbasin - Redd Counts",
+      "lastUpdated": "2021-02-25T06:15:33-08:00"
+    },
+    {
+      "id": 2149,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2149",
+      "title": "CTWS RM&E - Chinook and Steelhead - Warm Springs River Tributaries and Shitike Creek Snorkel Surveys",
+      "lastUpdated": "2021-02-25T08:00:57-08:00"
+    },
+    {
+      "id": 2150,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2150",
+      "title": "CTWS RM&E - Chinook and Steelhead - Lower Warm Springs River Fish Assemblage",
+      "lastUpdated": "2021-02-25T08:03:19-08:00"
+    },
+    {
+      "id": 2154,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2154",
+      "title": "CTWS RM&E - Feasibility mark-recapture lamprey in Warm Springs River using LPS",
+      "lastUpdated": "2021-02-25T08:04:46-08:00"
+    },
+    {
+      "id": 2158,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2158",
+      "title": "CTWS RM&E - Bull trout capture methods for sampling and tagging",
+      "lastUpdated": "2021-02-25T08:07:10-08:00"
+    },
+    {
+      "id": 2159,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2159",
+      "title": "CTWS RM&E - Demographic and genetic analysis of bull trout samples",
+      "lastUpdated": "2021-02-25T08:08:35-08:00"
+    },
+    {
+      "id": 3313,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3313",
+      "title": "CTWS RM&E Water sampling for Ceratonova shasta",
+      "lastUpdated": "2021-02-25T08:11:17-08:00"
+    },
+    {
+      "id": 3314,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3314",
+      "title": "CTWS RM&E - Radio telemetry survey to determine migration patterns of wild adult spring Chinook to Warm Springs River",
+      "lastUpdated": "2021-02-25T06:21:33-08:00"
+    },
+    {
+      "id": 3379,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3379",
+      "title": "CTWS RM&E - Determine fate of O. nerka in lower Lake Creek by snorkel observation and sampling using fyke nets and electrofishing",
+      "lastUpdated": "2021-02-25T06:24:41-08:00"
+    },
+    {
+      "id": 3402,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3402",
+      "title": "Capture and tag fall Chinook and summer steelhead at Sherars Falls - CTWS RM&E",
+      "lastUpdated": "2021-02-25T06:26:44-08:00"
+    },
+    {
+      "id": 3406,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3406",
+      "title": "CTWS RM&E - Parentage based tagging of wild Chinook and steelhead in the lower Deschutes Subbasin",
+      "lastUpdated": "2021-02-25T06:28:09-08:00"
+    },
+    {
+      "id": 3411,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3411",
+      "title": "CTWS RM&E -  Install and operate PIT antenna arrays",
+      "lastUpdated": "2021-02-25T06:29:36-08:00"
+    },
+    {
+      "id": 3412,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3412",
+      "title": "CTWS RM&E - Monitor spring Chinook redds for survival, sedimentation, and validate species",
+      "lastUpdated": "2021-02-25T06:44:52-08:00"
+    },
+    {
+      "id": 3434,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3434",
+      "title": "CTWS RM&E - Monitoring Contaminants in Warm Springs River and Shitike Creek Basins",
+      "lastUpdated": "2021-02-25T06:47:08-08:00"
+    },
+    {
+      "id": 3435,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3435",
+      "title": "CTWS RM&E - Radio telemetry survey to determine Pacific lamprey passage at WSNFH",
+      "lastUpdated": "2018-07-27T05:29:44-07:00"
+    },
+    {
+      "id": 3437,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3437",
+      "title": "CTWS RM&E - Radio telemetry survey to monitor habitat use and migration patterns of returning Pacific lamprey to Fifteenmile Creek Basin",
+      "lastUpdated": "2021-02-25T06:48:38-08:00"
+    },
+    {
+      "id": 3477,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3477",
+      "title": "Genetic monitoring of Hood River winter-run steelhead and resident rainbow trout",
+      "lastUpdated": "2019-07-19T23:12:40-07:00"
+    }
+  ]
+}

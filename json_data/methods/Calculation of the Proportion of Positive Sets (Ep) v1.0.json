@@ -1,0 +1,9 @@
+{
+  "abstractText": "Catch per unit effort (CPUE; see method ID 4040 for example) and the proportion of positive efforts (Ep; proportion of all sets that capture at least one individual, e.g., age-0 white sturgeon)can be useful descriptors of the relative density of fish populations;Uphoff1993;Counihanet al. 1999). In sparsely populated, widely distributed populations,Epmay provide a less biased measure of relative density thanCPUE(Counihanet al. 1999).",
+  "url": "http://www.monitoringresources.org/api/v1/methods/3783",
+  "title": "Calculation of the Proportion of Positive Sets (Ep) v1.0",
+  "id": 3783,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Tucker Jones",
+  "ownerEmail": "tucker.a.jones@state.or.us"
+}

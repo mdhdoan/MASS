@@ -1,0 +1,9 @@
+{
+  "abstractText": "Tree canopy cover measurements are recorded at five foot intervals (point intercept) with a densitometer (Geographic Resource Solutions; http://www.grsgis.com) . The densitometer is a tool that uses a mirror to project a view of the sample location point in the tree canopy above the individual holding the densitometer on the ground.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/250",
+  "title": "Tree Measurements - Percent Canopy Cover v1.0",
+  "id": 250,
+  "type": "Data Collection",
+  "ownerName": "Paul Ashley",
+  "ownerEmail": "lonepinebutte@comcast.net"
+}

@@ -1,0 +1,29 @@
+{
+  "background": "OBMEP is a long term status and trends monitoring program that collects data on habitat conditions for salmonids in their freshwater life stages. OBMEP Habitat Monitoring Protocols were developed according to the Monitoring Strategy for the Upper Columbia Basin (2004) by Tracy Hillman, and aligned with the methods of the Collaborative Systemwide Monitoring & Evaluation Program (CSMEP), the Pacific Northwest Aquatic Monitoring Partnership (PNAMP) and implemented following the Environmental Monitoring and Assessment Program (EMAP). To ensure compatibility with other regional and basin wide projects currently underway, OBMEP coordinates with multiple disciplines and agencies throughout the Okanogan River Basin, Columbia Cascade Province, and Columbia River Basin.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/9",
+  "title": "Okanogan Basin Monitoring & Evaluation Program -  Habitat Monitoring",
+  "id": 9,
+  "assumptions": "<p>Sites selected with the GRTS approach can be used to measure changes in the status and trends of habitat, water quality, and biota over time if taken in a scientifically rigorous manner per specific protocols.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/43",
+    "http://www.monitoringresources.org/api/v1/methods/44",
+    "http://www.monitoringresources.org/api/v1/methods/45",
+    "http://www.monitoringresources.org/api/v1/methods/48",
+    "http://www.monitoringresources.org/api/v1/methods/49",
+    "http://www.monitoringresources.org/api/v1/methods/82",
+    "http://www.monitoringresources.org/api/v1/methods/89",
+    "http://www.monitoringresources.org/api/v1/methods/156",
+    "http://www.monitoringresources.org/api/v1/methods/175",
+    "http://www.monitoringresources.org/api/v1/methods/233",
+    "http://www.monitoringresources.org/api/v1/methods/240",
+    "http://www.monitoringresources.org/api/v1/methods/242",
+    "http://www.monitoringresources.org/api/v1/methods/3793",
+    "http://www.monitoringresources.org/api/v1/methods/3973"
+  ],
+  "objectives": [
+    "Monitor status and change of physical habitat of salmonids below anadromous barriers. "
+  ],
+  "ownerName": "John Arterburn",
+  "ownerEmail": "john.arterburn@colvilletribes.com",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/4"
+}

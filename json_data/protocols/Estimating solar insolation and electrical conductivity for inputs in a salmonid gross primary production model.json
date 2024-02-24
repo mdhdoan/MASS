@@ -1,0 +1,20 @@
+{
+  "background": "Netprimary productionis a fundamental ecological process that reflects the amount of carbon synthesized within an ecosystem which is ultimately available to consumers (Davies,Bunn, and Hamilton 2008). By selecting the appropriate environmental variables in a watershed system, gross primary production (GPP) may be calculated in stream ecosystems, predicting food consumption by a variety of aquatic species. Used as an input in a bioenergetics model, it can aid in making spatially-explicit predictions regarding habitat needs and capacity. PreliminaryGPPmodel development work by Eco Logical Research, Inc. (ELR) has shown promising results using temperature, solar insolation, and electrical conductivity as model inputs for GPP predictions for steelhead populations. This protocol describes the methods for operating the ArcGIS toolsets to calculate solar insolation and electrical conductivity within a watersheds stream network.Solar insolation directly affects stream temperature (Sinokrotand Stefan, 1993) and the primary productivity of streams (Fisher and Likens, 1973; Hill et al., 1995).Work to date has explored using area solar insolation for the solar input parameter.ELRhasdeveloped a preliminary workflow for predicting solar insolation for a stream network, summarizing the average upstream solar insolation values (watt hours per square meter,WH/m) per 200-meter stream segments. South Fork Research, Inc. (SFR) is improving this method and automating the solar insolation modeling process through the development ofArcGISPython tools. Accuracy of solar results were validated using field data collected usingSunEye, described in the Solar Input v2.0 Methods associated with this protocol (Bouweset al. 2011).Electrical conductivity has been shown to be a potential indicator of aquaticmacroinvertebratespecies richness (SpielesandMitsch2000, Brown, Hannah et al. 2007) and also can influence faunal life stages (TarnandCano2000). By incorporating a previously developed electrical conductivity predictive model (Olson and Hawkins 2012), we built an automated workflow for predicting conductivity for a stream network, summarizing predicted upstream conductivity values (Scm-1) per 1000-meter stream segments.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/2271",
+  "title": "Estimating solar insolation and electrical conductivity for inputs in a salmonid gross primary production model",
+  "id": 2271,
+  "assumptions": null,
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/4052",
+    "http://www.monitoringresources.org/api/v1/methods/6555",
+    "http://www.monitoringresources.org/api/v1/methods/6556"
+  ],
+  "objectives": [
+    "Summarize predicted upstream conductivity values (\u00b5S cm-1) per 1000-meter stream segments for HUC4 watersheds.",
+    "Summarize the average upstream solar insolation values (watt hours per square meter, WH/m2) per 200-meter stream segments for HUC4 watersheds.",
+    "Generate and compile solar insolation and electrical conductivity outputs for use in a gross primary production (GPP) model."
+  ],
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/10"
+}

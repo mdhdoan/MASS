@@ -1,0 +1,40 @@
+{
+  "background": "Decreased levels of wood volume in Pacific Northwest streams resultant of anthropogenic activities has reduced channel complexity, isolated main stem habitats from side-channels andfloodplains, reduced cover for aquatic species, and altered channel morphology. Placement ofinstreamstructures to improve channel complexity, pool number and area, cover and improve and create spawning and rearing habitat for salmon and other fish is one of the oldest and most common habitat improvement techniques (Roniet al. 2002; 2008). Commoninstreamhabitat improvement techniques include placement of large woody debris (single or multiple logs), constructed or engineered logjams (ELJS), boulder or boulder weirs, and bank stabilization.Despite the long history of placement ofLWDand other structures in streams to improve fish habitat, they remain controversial and little data exists on their effectiveness for species such as Chinook or interior Columbia River steelhead (Roniet al. 2008;Roniet al. 2013). This controversy likely stems fromthe lack of evaluation,and lack of documentation of effects on factors directly limiting habitat quality (Roniet al. 2005). Calls to better evaluate habitat improvement projects began in the early1980s(Reeves andRoelofs1982), and continued throughout the1990s(Reeves et al. 1991; Chapman 1996; Kauffman et al. 1997). The need for additional effectiveness monitoring and evaluation is widely apparent in the Pacific Northwest.More than 600instreamhabitat improvement projects have been funded and implemented since 2004 through the Northwest Power and Conservation Councils (NWPCC) Fish and Wildlife (F&W) Program implemented by theBonnevillePower Administration (Roniet al. 2014). In addition, many more actions are being planned for implementation from 2016 to 2018 as part of the Biological Opinion. To evaluate the success of these and other habitat improvement actions under the F&W Program, BPA developed a programmatic approach to evaluate each of the five major habitat improvement categories (fish passage,instreamstructures, off-channel/floodplain, riparian, sediment reduction/addition/ and acquisition/protection) (Roniet al. 2014).In this document, we outline the detailed monitoring plan for programmatic action effectiveness monitoring (AEM) ofinstreamhabitat improvement projects. This includes the monitoring goals and questions, the study design, sample size (spatial and temporal replication), parameters (metrics), protocols for data collection, data analysis, and the expected results (Roniet al. 2005). We focus onAEMof three categories ofinstreamhabitat improvement 1)LWDand boulders designed to improve habitat complexity, 2)ELJs, and 3) bank stabilization.LWDand boulder placement typically occur together so they are included as one action type. Bank stabilization monitoring is outlined in a separate protocol (ID: 2232).This protocol is based on the Washington Salmon Recovery Funding Board (SRFB) protocol,SRFB- Monitoring Effectiveness ofInstreamHabitat Projects (ID: 35)(https://www.monitoringmethods.org/Protocol/Details/35); however, variations in the design and metrics collected required modification of the protocol.This document details the monitoring design and procedures necessary to document and report reach scale effectiveness of projects treating:SalmonidRearing CapacityStream Complexity Log and Rock Control weirs Channel Reconfiguration Woody DebrisThis protocol replaces protocol #1871.",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/2235",
+  "title": "BPA EPT Monitoring Effectiveness of Instream Habitat Projects (ELJs/LWD/Boulders)",
+  "id": 2235,
+  "assumptions": "<p>Access will be provided to impact and suitable control reaches.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/74",
+    "http://www.monitoringresources.org/api/v1/methods/197",
+    "http://www.monitoringresources.org/api/v1/methods/240",
+    "http://www.monitoringresources.org/api/v1/methods/839",
+    "http://www.monitoringresources.org/api/v1/methods/847",
+    "http://www.monitoringresources.org/api/v1/methods/1579",
+    "http://www.monitoringresources.org/api/v1/methods/1763",
+    "http://www.monitoringresources.org/api/v1/methods/4069",
+    "http://www.monitoringresources.org/api/v1/methods/4070",
+    "http://www.monitoringresources.org/api/v1/methods/4075",
+    "http://www.monitoringresources.org/api/v1/methods/4153",
+    "http://www.monitoringresources.org/api/v1/methods/4154",
+    "http://www.monitoringresources.org/api/v1/methods/4168",
+    "http://www.monitoringresources.org/api/v1/methods/4171",
+    "http://www.monitoringresources.org/api/v1/methods/5273",
+    "http://www.monitoringresources.org/api/v1/methods/5291",
+    "http://www.monitoringresources.org/api/v1/methods/5326",
+    "http://www.monitoringresources.org/api/v1/methods/5327",
+    "http://www.monitoringresources.org/api/v1/methods/5328"
+  ],
+  "objectives": [
+    "Determine if local juvenile fish density is different between treatment and control reaches.",
+    "LWD and ELJ - Determine if the complexity of the channel is different between treatment and control reaches. ",
+    "LWD and ELJ - Determine if there is a difference in the volume of functional wood between treatment and control reaches",
+    "LWD and ELJ - Determine if pool frequency, area and depth and pool/riffle ratio differ between treatment and control reaches.",
+    "Determine distribution of habitat types within the reach.",
+    "Is fish response to LWD placement related to difference in habitat quality (e.g., functional LWD, pool frequency, variation in depth, stream channel slope) among sites?",
+    "Are there differences among regions (Chinook salmon evolutionary significant units or ESUs) in physical and biological response to LWD placement?"
+  ],
+  "ownerName": "Christopher Clark",
+  "ownerEmail": "christopher.clark@fishsciences.net",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/58"
+}

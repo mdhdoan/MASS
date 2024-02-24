@@ -1,0 +1,23 @@
+{
+  "background": "The Kootenai River basin has been impacted by many anthropogenic activities (e.g., agriculture, mining, land use practices, and the construction and operation of Libby Dam), all of which have affected the ecosystem and led to declines in resident fish populations. Libby Dam has significantly altered the flow regimes and channel morphology of the Kootenai River since it was constructed in the early 1970s, and it has depleted nutrients and caused a decline in primary productivity in the Idaho portion of the river (Woods 1982; Snyder and Minshall 1996). By the 1990s, this reduction in productivity translated to a two- to four-fold decrease in the number of mountain whitefish, compared to numbers present in 1980-81 (Partridge 1983; Paragamian 1990); this was one noticeable effect, among many.In order to document potential changes in abundance of mountain whitefish,rainbow trout, and largescale suckers a population estimatein a threekm reach of the Kootenai River has been conducted since the early 1980s. The survey has been conducted intermittently since the 1980s; however, since the mid-2000s, attempts have been made to conduct the survey every two years. The river reach in which thesurvey is conducted is located within aportion of theriver that is directly affected by nutrient-additions. Therefore, these data are used for historical documentation of population trends as well as evaluation of the ecosystem restoration project [detailed in Protocol ID: 554].",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/555",
+  "title": "KRRFM \u2013 Native Species Population Monitoring and Evaluation",
+  "id": 555,
+  "assumptions": "<p>The sampling reach is representative&nbsp;and inclusive of all habitat types in the upper reaches of the Kootenai River.&nbsp;&nbsp;Key assumptions for mark-recapture population estimates include:&nbsp;&nbsp;(1) Between the mark and recapture periods, nothing has happened to upset the proportions of marked to unmarked animals (i.e., no new individuals enter or leave&nbsp;the study area. &nbsp;(2) The chances for each individual in the population to be caught are equal and constant for both the initial marking period and the recapture period.&nbsp; (3) A sufficient period of time has transpired between the initial marking period and the recapture period for all marked individuals to be randomly dispersed throughout the population.&nbsp; (4) Marks do not affect survival, catchability, ability to migrate, reproduce etc. (5) Fish do not lose their marks, and all marks are detected when encountered.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/120",
+    "http://www.monitoringresources.org/api/v1/methods/121",
+    "http://www.monitoringresources.org/api/v1/methods/137",
+    "http://www.monitoringresources.org/api/v1/methods/1013",
+    "http://www.monitoringresources.org/api/v1/methods/1551",
+    "http://www.monitoringresources.org/api/v1/methods/3991",
+    "http://www.monitoringresources.org/api/v1/methods/4184"
+  ],
+  "objectives": [
+    "Estimate the abundance of mountain whitefish, rainbow trout, and largescale suckers in order to better inform management decisions.",
+    "Evaluate population trends through time to gauge the status of respective species populations relative to induced and naturally occurring changes in the Kootenai River."
+  ],
+  "ownerName": "T.J. Ross",
+  "ownerEmail": "tj.ross@idfg.idaho.gov",
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/28"
+}

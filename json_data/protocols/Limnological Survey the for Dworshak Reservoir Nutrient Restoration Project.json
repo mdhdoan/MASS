@@ -1,0 +1,30 @@
+{
+  "background": "Dworshak Reservoir was impounded in 1972 with the construction of Dworshak Dam. Since this time, the reservoir has undergone a process of 'oligitropphication' due to a combination of natural processes and dam operations. The most notable of these is the loss of marine derived nutrients due to the extirpation of anadromous salmonids. In 2007, the US Army Corps of Engineers began supplementing the reservoir with liquid ammonium nitrate fertilizer to improve the N:P ratio and promote a more efficient foodweb. The Idaho Department of Fish and Game has been conducting limnological surveys to monitor the effects of this project on the limnological conditions inthe reservoir. A detailed description of this monitoring program can be found in the project Standard Analysis Plan (SAP) and Quality Assurance Project Plan (QAPP).",
+  "url": "http://www.monitoringresources.org/api/v1/protocols/550",
+  "title": "Limnological Survey the for Dworshak Reservoir Nutrient Restoration Project",
+  "id": 550,
+  "assumptions": "<p>Samples and measurements are representative of the reservoir conditions as a whole.</p>\r\n",
+  "methods": [
+    "http://www.monitoringresources.org/api/v1/methods/1177",
+    "http://www.monitoringresources.org/api/v1/methods/1418",
+    "http://www.monitoringresources.org/api/v1/methods/1420",
+    "http://www.monitoringresources.org/api/v1/methods/1421",
+    "http://www.monitoringresources.org/api/v1/methods/1654",
+    "http://www.monitoringresources.org/api/v1/methods/3812",
+    "http://www.monitoringresources.org/api/v1/methods/3813",
+    "http://www.monitoringresources.org/api/v1/methods/3928",
+    "http://www.monitoringresources.org/api/v1/methods/3929",
+    "http://www.monitoringresources.org/api/v1/methods/3930",
+    "http://www.monitoringresources.org/api/v1/methods/3931",
+    "http://www.monitoringresources.org/api/v1/methods/3933",
+    "http://www.monitoringresources.org/api/v1/methods/3937"
+  ],
+  "objectives": [
+    "Provide an assessment of the effects of nutrient restoration on the productivity, food web and limnological characteristics of Dworshak Reservoir.",
+    "Provide data for the adaptive management of nutrient applications in season.",
+    "Provide data to evaluate water quality standards set forth in the project NPDES permit issued by EPA and certified by IDEQ."
+  ],
+  "ownerName": "Sean Wilson",
+  "ownerEmail": "sean.wilson@idfg.idaho.gov",
+  "programUrl": ""
+}

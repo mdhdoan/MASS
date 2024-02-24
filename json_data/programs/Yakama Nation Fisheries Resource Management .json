@@ -1,0 +1,66 @@
+{
+  "url": "http://www.monitoringresources.org/api/v1/programs/77",
+  "title": "Yakama Nation Fisheries Resource Management ",
+  "id": 77,
+  "primaryContactName": "",
+  "primaryContactEmail": "",
+  "organizations": [],
+  "protocols": [
+    {
+      "id": 110,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/110",
+      "title": "YRWP Adult steelhead abundance (1996-035-01)",
+      "lastUpdated": "2018-02-01T03:52:13-08:00"
+    },
+    {
+      "id": 111,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/111",
+      "title": "YRWP Juvenile steelhead outmigration (1996-035-01)",
+      "lastUpdated": "2018-02-01T03:50:16-08:00"
+    },
+    {
+      "id": 695,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/695",
+      "title": "Assessing limiting factors for steelhead production",
+      "lastUpdated": "2018-04-03T05:00:39-07:00"
+    },
+    {
+      "id": 699,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/699",
+      "title": "Stream discharge measurements (1996-035-01)",
+      "lastUpdated": "2018-03-22T04:35:10-07:00"
+    },
+    {
+      "id": 3385,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3385",
+      "title": "Yakima River Steelhead spawner escapement estimates",
+      "lastUpdated": "2018-02-14T01:43:03-08:00"
+    },
+    {
+      "id": 3462,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3462",
+      "title": "Yakama Nation Upper Columbia Monitoring Project",
+      "lastUpdated": "2019-01-23T08:24:00-08:00"
+    },
+    {
+      "id": 3467,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3467",
+      "title": "Larval/Juvenile Lamprey Electrofishing Surveys",
+      "lastUpdated": "2019-02-16T02:08:43-08:00"
+    },
+    {
+      "id": 3543,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3543",
+      "title": "protocol test3",
+      "lastUpdated": "2022-09-21T03:48:30-07:00"
+    }
+  ]
+}

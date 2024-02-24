@@ -1,0 +1,9 @@
+{
+  "abstractText": "After samples have been collected for stable isotope analysis (see method ID: 5298), they need to be processed before they are sent to a laboratory for analysis. This method will be generally applicable to most animal and plant tissue that will be analyzed for N15 and C13 isotopes.However, it is important to follow the guidelines supplied by the laboratory conducting the sample analysis. How samples will be process partly depends on study objectives and what is sought in the analyses. Generally, it is not desirable to include parts of the intestinal tract of stomach as part of the processed sample, but for some organisms such as macroinvertebrates, this may be unavoidable. Also, for invertebrates containing a lot of chitin such as crayfish and shrimp, this material is not included but rather just the abdominal muscle from the tail.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/5299",
+  "title": "Stable isotope sample processing v1.0",
+  "id": 5299,
+  "type": "Data Collection",
+  "ownerName": "Kenneth Tiffan",
+  "ownerEmail": "ktiffan@usgs.gov"
+}

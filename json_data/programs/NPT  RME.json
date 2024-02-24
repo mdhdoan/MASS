@@ -1,0 +1,376 @@
+{
+  "url": "http://www.monitoringresources.org/api/v1/programs/12",
+  "title": "NPT  RME",
+  "id": 12,
+  "primaryContactName": "Jay Hesse",
+  "primaryContactEmail": "jayh@nezperce.org",
+  "organizations": [
+    "Nez Perce Tribe"
+  ],
+  "protocols": [
+    {
+      "id": 40,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/40",
+      "title": "NPT - Fisheries Research Data Collection Activities (Metadata Documentation)",
+      "lastUpdated": "2011-01-05T23:20:07-08:00"
+    },
+    {
+      "id": 70,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/70",
+      "title": "Survival-Productivity Spring Chinook Salmon:  (1983-350-03)",
+      "lastUpdated": "2018-02-15T05:01:15-08:00"
+    },
+    {
+      "id": 71,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/71",
+      "title": "Distribution: Adult spawners (1983-350-03)",
+      "lastUpdated": "2018-02-15T05:01:37-08:00"
+    },
+    {
+      "id": 72,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/72",
+      "title": "Collection of Genetic Samples (1983-350-03)",
+      "lastUpdated": "2018-02-15T05:02:03-08:00"
+    },
+    {
+      "id": 74,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/74",
+      "title": "Physical Habitat: Flow and Water Temperature (1983-350-03)",
+      "lastUpdated": "2018-02-15T05:53:22-08:00"
+    },
+    {
+      "id": 78,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/78",
+      "title": "Genetics: Parentage (1983-350-03)",
+      "lastUpdated": "2018-02-15T05:02:38-08:00"
+    },
+    {
+      "id": 79,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/79",
+      "title": "Juvenile Sampling (1996-043-00)",
+      "lastUpdated": "2018-02-15T05:02:48-08:00"
+    },
+    {
+      "id": 80,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/80",
+      "title": "Adult Redd/Carcass Surveys (1996-043-00)",
+      "lastUpdated": "2018-02-15T05:03:05-08:00"
+    },
+    {
+      "id": 100,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/100",
+      "title": "Northeast Oregon Monitoring and Evaluation",
+      "lastUpdated": "2018-02-15T05:58:51-08:00"
+    },
+    {
+      "id": 102,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/102",
+      "title": "Chinook Salmon Adult Abundance Monitoring (1997-030-00)",
+      "lastUpdated": "2018-02-15T06:00:34-08:00"
+    },
+    {
+      "id": 119,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/119",
+      "title": "Adult Spring Chinook Salmon: Performance Measures  (1983-350-03)",
+      "lastUpdated": "2018-02-15T06:09:04-08:00"
+    },
+    {
+      "id": 120,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/120",
+      "title": "Juvenile Spring Chinook Salmon; Performance Measures (1983-350-03)",
+      "lastUpdated": "2018-02-15T06:12:01-08:00"
+    },
+    {
+      "id": 146,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/146",
+      "title": "Adult Steelhead Escapement Monitoring in Joseph Creek (1997-030-00)",
+      "lastUpdated": "2018-02-15T06:13:38-08:00"
+    },
+    {
+      "id": 313,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/313",
+      "title": "Lolo Creek weir (2010-038-00)",
+      "lastUpdated": "2018-02-15T07:23:24-08:00"
+    },
+    {
+      "id": 362,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/362",
+      "title": "Inseason Interview Survey Method (2002-060-00)",
+      "lastUpdated": "2018-02-15T07:21:02-08:00"
+    },
+    {
+      "id": 373,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/373",
+      "title": "Post-Season Survey (2002-060-00)",
+      "lastUpdated": "2018-02-15T07:19:59-08:00"
+    },
+    {
+      "id": 374,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/374",
+      "title": "Gillnet Inseason Interview Survey (2002-060-00)",
+      "lastUpdated": "2018-02-15T07:19:04-08:00"
+    },
+    {
+      "id": 430,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/430",
+      "title": "Monitor Adult Escapement and Estimate Adult Production",
+      "lastUpdated": "2018-02-15T07:18:01-08:00"
+    },
+    {
+      "id": 443,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/443",
+      "title": "Estimate Steelhead Abundance at Weirs Using Kelts as Recaptures",
+      "lastUpdated": "2018-02-15T07:17:01-08:00"
+    },
+    {
+      "id": 450,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/450",
+      "title": "Use probabilistic sampling to determine redd distribution in the South Fork Salmon River subbasin",
+      "lastUpdated": "2018-02-15T07:14:00-08:00"
+    },
+    {
+      "id": 763,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/763",
+      "title": "Nez Perce Tribe Juvenile Rotary Screw Trapping 2012",
+      "lastUpdated": "2018-02-15T07:06:18-08:00"
+    },
+    {
+      "id": 764,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/764",
+      "title": "NPT Weirs & Spawning Ground Surveys",
+      "lastUpdated": "2018-02-15T07:05:29-08:00"
+    },
+    {
+      "id": 765,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/765",
+      "title": "Underwater Video Weir Operation and Analysis",
+      "lastUpdated": "2018-02-15T07:03:26-08:00"
+    },
+    {
+      "id": 789,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/789",
+      "title": "NPT NEOH Hatchery Effectiveness",
+      "lastUpdated": "2018-02-15T07:01:59-08:00"
+    },
+    {
+      "id": 801,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/801",
+      "title": "Operate Juvenile PIT Tag Antennas at Acclimation Facilities",
+      "lastUpdated": "2018-02-15T06:59:58-08:00"
+    },
+    {
+      "id": 802,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/802",
+      "title": "Determine Juvenile Life History Characteristics and Downstream Survival",
+      "lastUpdated": "2018-02-15T06:56:59-08:00"
+    },
+    {
+      "id": 818,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/818",
+      "title": "Estimate Steelhead Escapement Above Weirs",
+      "lastUpdated": "2018-02-15T06:56:04-08:00"
+    },
+    {
+      "id": 2012,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2012",
+      "title": "Nez Perce Tribe Monitoring and Evaulation Salmon and Steelhead",
+      "lastUpdated": "2018-02-15T05:07:26-08:00"
+    },
+    {
+      "id": 2034,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2034",
+      "title": "Snake River Fall Chinook Salmon Fidelity and Fallback Study",
+      "lastUpdated": "2018-02-15T05:07:01-08:00"
+    },
+    {
+      "id": 2049,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2049",
+      "title": "Conduct Redd Counts, Prespawning, and Carcass Surveys",
+      "lastUpdated": "2018-02-15T05:06:43-08:00"
+    },
+    {
+      "id": 2242,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2242",
+      "title": "Nez Perce Tribe Juvenile Rotary Screw Trap Data Collection",
+      "lastUpdated": "2017-09-20T04:41:45-07:00"
+    },
+    {
+      "id": 2243,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2243",
+      "title": "Nez Perce Tribe Juvenile Seining Data Collection",
+      "lastUpdated": "2017-10-17T04:06:05-07:00"
+    },
+    {
+      "id": 2244,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2244",
+      "title": "Nez Perce Tribe Juvenile Snorkel Survey Data Collection",
+      "lastUpdated": "2018-02-15T05:05:57-08:00"
+    },
+    {
+      "id": 2245,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2245",
+      "title": "Nez Perce Tribe Passive Weir Data Collection",
+      "lastUpdated": "2017-10-14T00:25:17-07:00"
+    },
+    {
+      "id": 2246,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2246",
+      "title": "Nez Perce Tribe Adult Abundance and Life History Data Analysis",
+      "lastUpdated": "2023-01-18T02:05:36-08:00"
+    },
+    {
+      "id": 2247,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2247",
+      "title": "Nez Perce Tribe Adult Weir Data Collection",
+      "lastUpdated": "2017-10-17T06:19:58-07:00"
+    },
+    {
+      "id": 2248,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2248",
+      "title": "Nez Perce Tribe Juvenile Abundance and Life History Data Analysis",
+      "lastUpdated": "2023-01-11T04:40:08-08:00"
+    },
+    {
+      "id": 2249,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2249",
+      "title": "Nez Perce Tribe Survival and Productivity Data Analysis",
+      "lastUpdated": "2020-11-17T00:47:49-08:00"
+    },
+    {
+      "id": 2250,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2250",
+      "title": "Nez Perce Tribe Distribution Data Analysis",
+      "lastUpdated": "2016-07-27T03:55:38-07:00"
+    },
+    {
+      "id": 2251,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2251",
+      "title": "Nez Perce Tribe Genetic Data Analysis",
+      "lastUpdated": "2020-11-17T00:23:54-08:00"
+    },
+    {
+      "id": 2252,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2252",
+      "title": "Nez Perce Tribe Habitat Data Analysis",
+      "lastUpdated": "2016-07-27T03:57:46-07:00"
+    },
+    {
+      "id": 2253,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2253",
+      "title": "Nez Perce Tribe In-Hatchery Data Analysis",
+      "lastUpdated": "2016-07-27T04:14:39-07:00"
+    },
+    {
+      "id": 2254,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2254",
+      "title": "Nez Perce Tribe Hatchery Effectiveness Data Analysis",
+      "lastUpdated": "2016-07-27T04:11:15-07:00"
+    },
+    {
+      "id": 2255,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2255",
+      "title": "Nez Perce Tribe Spawning Ground Survey Data Collection",
+      "lastUpdated": "2017-10-05T04:14:21-07:00"
+    },
+    {
+      "id": 2257,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2257",
+      "title": "Nez Perce Tribe Stream Temperature Data Collection",
+      "lastUpdated": "2016-08-23T02:43:21-07:00"
+    },
+    {
+      "id": 2258,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2258",
+      "title": "Nez Perce Tribe Radio Telemetry Data Collection",
+      "lastUpdated": "2017-08-30T22:21:30-07:00"
+    },
+    {
+      "id": 2263,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2263",
+      "title": "Nez Perce Tribe Stream Flow Data Collection",
+      "lastUpdated": "2018-02-15T05:05:32-08:00"
+    },
+    {
+      "id": 3378,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3378",
+      "title": "Nez Perce Tribe Spawning Ground Survey Data Collection SFSR Subbasin",
+      "lastUpdated": "2018-01-30T04:28:45-08:00"
+    },
+    {
+      "id": 3394,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3394",
+      "title": "Nez Perce Tribe Juvenile Rotary Screw Trap Data Collection Copy",
+      "lastUpdated": "2018-02-28T05:52:58-08:00"
+    },
+    {
+      "id": 3505,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3505",
+      "title": "Joseph Creek Single Pass Steelhead Spawner Survey (Nez Perce Tribe)",
+      "lastUpdated": "2019-12-11T14:10:28-08:00"
+    },
+    {
+      "id": 3588,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3588",
+      "title": "PIT Tag Based Escapement Estimation Above Lower Granite Dam DABOM",
+      "lastUpdated": "2020-11-14T07:20:33-08:00"
+    },
+    {
+      "id": 3709,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3709",
+      "title": "Monitoring the relative abundance and distribution of larval and juvenile Pacific lamprey in the Columbia River basin (Nez Perce 2021-23)",
+      "lastUpdated": "2023-02-01T03:06:32-08:00"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "abstractText": "The correlation between catch-per-unit-effort (CPUE) and variables such as the median time of downstream dispersal from rearing areas can be used to evaluate the evidence for a density-dependent response (Conor et al. 2013).It has beenconcluded that timing of downstream dispersal became later in the season as relative abundance along the shorelines increased (Conor et al. 2013). Thisbaseline information will be important to consider when assessing the status of the population when future levels of abundance are higher than presently observed (Conor et al. 2013).The principal attribute of interest within the stratified random samplingdesign for long term resource monitoring of fish is mean catch-per-unit-effort (CPUE). Design-based estimates of CPUE are used as an index of population density (Ney 1999) within long term resource monitoring programs. Units of effort are specific to particular methods and equipment (Ratcliffet al. 2014).",
+  "url": "http://www.monitoringresources.org/api/v1/methods/5550",
+  "title": "Catch-Per-Unit-Effort (CPUE) of Stratified Random Samples v1.0",
+  "id": 5550,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Sam Cimino",
+  "ownerEmail": "scimino@usgs.gov"
+}

@@ -1,0 +1,9 @@
+{
+  "abstractText": "This method uses a convex spherical densiometer to collect a measure of canopy cover above a location. The method has been widely used in stream habitat monitoring protocols, and this approach is modified protocol from Kaufmann et al. (1999) and Peck et al. (2001). It is a quantifiable approach to measuring canopy cover, although it can be sensitive to judgment and measurement angle. Multiple measurements should be taken along a stream corridor to determine an 'average' canopy cover, and locations should be pre-determined at random or stratified locations for best, unbiased results.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/224",
+  "title": "Habitat-Riparian Assessment-Densiometer Readings v1.0",
+  "id": 224,
+  "type": "Data Collection",
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org"
+}

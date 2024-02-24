@@ -1,0 +1,173 @@
+{
+  "url": "http://www.monitoringresources.org/api/v1/programs/58",
+  "title": "BPA's Action Effectiveness Monitoring (AEM) Program ",
+  "id": 58,
+  "primaryContactName": "Jennifer O'Neal",
+  "primaryContactEmail": "jen@naturaldes.com",
+  "organizations": [
+    "Bonneville Power Administration"
+  ],
+  "protocols": [
+    {
+      "id": 1868,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/1868",
+      "title": "BPA MBACI Monitoring Effectiveness of Habitat Protection Projects",
+      "lastUpdated": "2016-12-17T00:41:45-08:00"
+    },
+    {
+      "id": 1870,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/1870",
+      "title": "BPA \u2013 MBACI Protocol for Monitoring the Effectiveness of Partial Barrier Projects",
+      "lastUpdated": "2016-12-17T00:42:50-08:00"
+    },
+    {
+      "id": 1875,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/1875",
+      "title": "BPA MBACI Monitoring Effectiveness of Instream Habitat Projects (Bank Stabilization)",
+      "lastUpdated": "2015-12-24T03:41:31-08:00"
+    },
+    {
+      "id": 1877,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/1877",
+      "title": "BPA MBACI Protocol for Monitoring the Effectiveness of Livestock Fencing Projects",
+      "lastUpdated": "2016-12-17T00:41:09-08:00"
+    },
+    {
+      "id": 1880,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/1880",
+      "title": "BPA MBACI Protocol for Monitoring the Effectiveness of Off-Channel Habitat / Floodplain Enhancement Projects",
+      "lastUpdated": "2015-11-25T00:34:31-08:00"
+    },
+    {
+      "id": 1894,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/1894",
+      "title": "Columbia Estuary Ecosystem Restoration Program (CEERP) Level 3 Standard Monitoring Indicators",
+      "lastUpdated": "2017-04-11T23:39:20-07:00"
+    },
+    {
+      "id": 1970,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/1970",
+      "title": "Benthic MacroInvertebrates Targeted Riffle Sample for Support of Floodplain Action Effectiveness Monitoring",
+      "lastUpdated": "2017-03-11T01:13:08-08:00"
+    },
+    {
+      "id": 2030,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2030",
+      "title": "BPA MBACI Protocol for Monitoring the Effectiveness of Off-Channel Habitat / Floodplain Enhancement Projects Plus CHaMP 2014 Methods",
+      "lastUpdated": "2017-04-13T23:58:17-07:00"
+    },
+    {
+      "id": 2031,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2031",
+      "title": "BPA MBACI Protocol for Monitoring the Combined Effectiveness of Off-Channel Habitat, Floodplain Enhancement, Bank Stablization, and Livestock Exclusion Projects",
+      "lastUpdated": "2017-04-14T00:00:00-07:00"
+    },
+    {
+      "id": 2074,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2074",
+      "title": "BPA MBACI Protocol for Monitoring the Effectiveness of Off-Channel Habitat / Floodplain Enhancement Projects (Mill Creek)",
+      "lastUpdated": "2017-04-14T00:02:45-07:00"
+    },
+    {
+      "id": 2191,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2191",
+      "title": "BPA MBACI Monitoring Effectiveness of Instream Habitat Projects (Bank Stabilization)",
+      "lastUpdated": "2016-01-26T07:55:41-08:00"
+    },
+    {
+      "id": 2192,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2192",
+      "title": "BPA MBACI Protocol for Monitoring the Effectiveness of Off-Channel Habitat / Floodplain Enhancement Projects",
+      "lastUpdated": "2016-01-26T07:58:18-08:00"
+    },
+    {
+      "id": 2193,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2193",
+      "title": "Upper Columbia Nutrient Supplementation Project, BPA Project 2008-471-00",
+      "lastUpdated": "2017-05-24T22:57:38-07:00"
+    },
+    {
+      "id": 2231,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2231",
+      "title": "BPA MBACI Protocol for Monitoring the Effectiveness of Off-Channel Habitat / Floodplain Enhancement Projects",
+      "lastUpdated": "2017-04-22T02:32:53-07:00"
+    },
+    {
+      "id": 2232,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2232",
+      "title": "BPA MBACI Monitoring Effectiveness of Instream Habitat Projects (Bank Stabilization)",
+      "lastUpdated": "2017-01-21T01:38:27-08:00"
+    },
+    {
+      "id": 2235,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2235",
+      "title": "BPA EPT Monitoring Effectiveness of Instream Habitat Projects (ELJs/LWD/Boulders)",
+      "lastUpdated": "2017-04-11T04:58:14-07:00"
+    },
+    {
+      "id": 2236,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/2236",
+      "title": "BPA MBACI Protocol for Monitoring the Effectiveness of Off-Channel Habitat / Floodplain Enhancement and Bank Stabilization Projects",
+      "lastUpdated": "2017-01-21T01:37:54-08:00"
+    },
+    {
+      "id": 3439,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3439",
+      "title": "Columbia Estuary Ecosystem Restoration Program (CEERP) Level 3 Standard Monitoring Indicators Copy",
+      "lastUpdated": "2018-07-31T23:37:09-07:00"
+    },
+    {
+      "id": 3440,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3440",
+      "title": "Columbia Estuary Ecosystem Restoration Program (CEERP) Level 3 Standard Monitoring Indicators Copy2",
+      "lastUpdated": "2018-07-31T23:37:12-07:00"
+    },
+    {
+      "id": 3613,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3613",
+      "title": "Gas Bubble Trauma Monitoring in Resident Fish",
+      "lastUpdated": "2021-01-09T02:10:51-08:00"
+    },
+    {
+      "id": 3660,
+      "status": "Revising",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3660",
+      "title": "Gas Bubble Trauma Monitoring in Resident Fish",
+      "lastUpdated": "2021-12-16T02:06:32-08:00"
+    },
+    {
+      "id": 3693,
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3693",
+      "title": "Gas Bubble Trauma for Resident Fish",
+      "lastUpdated": "2022-06-23T01:16:07-07:00"
+    },
+    {
+      "id": 3725,
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/protocols/3725",
+      "title": "BPA EPT Monitoring Effectiveness of Floodplain Enhancement Projects",
+      "lastUpdated": "2023-06-02T04:10:23-07:00"
+    }
+  ]
+}

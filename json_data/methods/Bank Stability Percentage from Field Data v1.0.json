@@ -1,9 +1,0 @@
-{
-  "abstractText": "Objective: To calculate bank stability as a percentage based on field measurements.The recommended data collection method for bank stabilitymeasurements isMethod 7026.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/7010",
-  "title": "Bank Stability Percentage from Field Data v1.0",
-  "id": 7010,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "PNAMP Support",
-  "ownerEmail": "pnamp.mm@gmail.com"
-}

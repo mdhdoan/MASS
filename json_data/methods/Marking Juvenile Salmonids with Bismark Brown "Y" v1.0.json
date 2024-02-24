@@ -1,9 +1,0 @@
-{
-  "abstractText": "To estimate juvenile salmonid migration, a different technique than marking with PIT tags is necessary, because fry arebelow theminimum size criteria for PIT tagging with standard 12 mm tags for mark-recapture migration estimates.For example, Chinook salmon fry <60 mm FL represent a large fraction of the total juvenile migration collected in rotary screw traps in some study streams. Bismarck Brown stain can be used on juvenile fish that have a mucus layer to conduct a complementary mark-recapture migration estimate. Every 3-4 d, we select a subsample of 10% of the total trap catch (up to a maximum of 300 individuals) for staining. Apply the mark by holding fish in the dye (0.4g/16 L solution) for 1 h. We use four battery-powered aerators to maintain oxygen saturation and ice packs to maintain an appropriate (within 1-2C of river) temperature in the baths. When properly stained, the mark lasts 3-4 d, but changing the dye concentration and/or exposure time provides some ability to adjust the marks effective lifespan.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/1378",
-  "title": "Marking Juvenile Salmonids with Bismark Brown \"Y\" v1.0",
-  "id": 1378,
-  "type": "Data Collection",
-  "ownerName": "Aaron  Borisenko",
-  "ownerEmail": "borisenko.aaron@deq.state.or.us"
-}

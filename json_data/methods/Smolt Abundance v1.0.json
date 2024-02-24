@@ -1,9 +1,0 @@
-{
-  "abstractText": "Abundance of smolts is an estimate of the total number of smolts produced within a watershed or basin. Investigators will use floating screw traps (or other appropriate traps depending on stream conditions) to collect downstream migrating smolts. Traps will operate for at least the entire period of the smolt migration. Trapping efficiency, based on mark/recapture will be estimated throughout the trapping period. Methods for operating the trap, estimating efficiency, and the frequency at which efficiency tests are conducted are described in Murdoch et al. (2000).",
-  "url": "http://www.monitoringresources.org/api/v1/methods/32",
-  "title": "Smolt Abundance v1.0",
-  "id": 32,
-  "type": "Data Collection",
-  "ownerName": "PNAMP USER",
-  "ownerEmail": "gs-monitoringresources@usgs.gov"
-}

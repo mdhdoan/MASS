@@ -1,9 +1,0 @@
-{
-  "abstractText": "Turbidity is a measurement of particles suspended in water that attenuate light, thus reducing water clarity. Turbidity is often used as an indicator of water quality, as it can indicate conditions such as increased sediment loads, which can adversely affect fish populations, or excessive algal blooms, which can affect water uses and lake ecology. This method describes EPA 180.1, a nephelometricmethod of measuring turbidity. With the proper instrumentation, this method is simple to perform in the field and provides rapid results.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/3937",
-  "title": "Determination of turbidity by nephelometry v1.0",
-  "id": 3937,
-  "type": "Data Collection",
-  "ownerName": "Sean Wilson",
-  "ownerEmail": "sean.wilson@idfg.idaho.gov"
-}

@@ -1,9 +1,0 @@
-{
-  "abstractText": "Method for sampling photo points. Photos are important for relocating survey reaches, documenting reach condition, and detecting change through time. Detailed information about the camera location relative to the item of interest is recorded, making it possible to return to the exact position to repeat the photo. Monuments and top and bottom of reach transects are carefully documented with photos as reference material for returning to the site.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/221",
-  "title": "Habitat-Photo Points v1.0",
-  "id": 221,
-  "type": "Data Collection",
-  "ownerName": "Carol Volk",
-  "ownerEmail": "carol@southforkresearch.org"
-}

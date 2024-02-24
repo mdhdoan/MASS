@@ -1,9 +1,0 @@
-{
-  "abstractText": "This Standard Operating Procedure (SOP) details the methodsto collect continuous temperature monitoring results from Ecologys statewide ambient stream sampling network.The intended purpose of the continuous temperature monitoring program is to collect diel stream temperature data that may be used to expand the interpretation of a stations ambient monitoring results and to determine its compliance with state water quality standards. The continuous temperature results are assessed using Ecologys policy for identifying impairments under the federal Clean Water Act (Section 303(d)), which requires stream temperature to be measured on consecutive days in order to apply the criterion.The Standard Operating Procedures (SOP) will be followed for the installation and maintenance of continuous temperature ambient monitoring stations. These protocols reflect in part those outlined in the TFW Stream Temperature Survey Manual (Schuett-Hames et al, 1999), Continuous Temperature Sampling Protocols for the Environmental Monitoring and Trends Section (http://www.ecy.wa.gov/biblio/0103036.html) (Ward, 2003), Measuring Stream Temperature with Digital Data Loggers (USFS, 2005), and Standard Operating Procedures for continuous temperature monitoring of fresh water rivers and streams conducted in a Total Maximum.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/3793",
-  "title": "Standard Operating Procedures for Continuous Temperature Monitoring of Fresh Water Rivers and Streams. v1.0",
-  "id": 3793,
-  "type": "Data Collection",
-  "ownerName": "Steve Rentmeester",
-  "ownerEmail": "steve@sitkatech.com"
-}

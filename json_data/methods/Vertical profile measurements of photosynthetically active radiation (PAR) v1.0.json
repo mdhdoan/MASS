@@ -1,9 +1,0 @@
-{
-  "abstractText": "Photosyntheicallyactive radiation (PAR) refers to solar radiation between 400 and 700 nanometers in wave length, the spectrum which can be used by plants for photosynthesis. Vertical profiles of PAR can be used to calculate the compensation depth (CD), or maximum depth at which photosynthesis is possible. This information is crucial for assessing the effects of management actions on primary productivity in lakes and reservoirs. This information is crucial for understanding where primary productivity occurs in the water column, and thus, designing monitoring programs or studies to understand changes in primary production or phytoplankton communities. This protocol describes standard procedures used for the collection of field data used to construct vertical profiles of PAR.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/3933",
-  "title": "Vertical profile measurements of photosynthetically active radiation (PAR) v1.0",
-  "id": 3933,
-  "type": "Data Collection",
-  "ownerName": "Sean Wilson",
-  "ownerEmail": "sean.wilson@idfg.idaho.gov"
-}

@@ -1,9 +1,0 @@
-{
-  "abstractText": "This method is based off of Site Layout v2.0 (Method 1579) but does not include benchmarks or monuments. The number of transects is reduced to 11 from 21. This site layout method covers locating the site, establishing site markers, determiningbankfullelevation and site width category, lay out the site and determine channel units. This method assumes you've already Located the Site - see Method 831:http://www.monitoringmethods.org/Method/Details/831.Changes made for 2012: - Deleted the table of reasons for rejecting a site. - While laying out transects, changed from stretching the tape in the middle of thebankfullchannel to the middle of the wetted channel. - Deleted bearing readings from benchmarks to other benchmark locations.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/5395",
-  "title": "AEM Site Layout v2.0",
-  "id": 5395,
-  "type": "Data Collection",
-  "ownerName": "Jennifer O'Neal",
-  "ownerEmail": "jen@naturaldes.com"
-}

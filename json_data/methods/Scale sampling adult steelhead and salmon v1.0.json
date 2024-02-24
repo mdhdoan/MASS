@@ -1,9 +1,0 @@
-{
-  "abstractText": "Scale samples are collected from a sample of natural and hatchery origin adult salmon and steelhead to estimate age composition. This data is used for run reconstruction and forecasting as well as for estimating age-at-length composition and length at upstream locations.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/3916",
-  "title": "Scale sampling adult steelhead and salmon v1.0",
-  "id": 3916,
-  "type": "Data Collection",
-  "ownerName": "Jeffrey Fryer",
-  "ownerEmail": "fryj@critfc.org"
-}

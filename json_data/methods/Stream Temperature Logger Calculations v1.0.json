@@ -1,9 +1,0 @@
-{
-  "abstractText": "Stream temperature is measured year round in using temperature loggers. A temperature sensor is placed in-stream (generally epoxied to a boulder or attached to a wire cable) and remains in place throughout the year. Temperature data is recorded on the logger hourly. Data is downloaded and summary statistics are calculated for daily, monthly and 8-day running temperatures.Metrics groups are listed here and defined in the Step by Step.Monthly: count, min, max, meanDaily: count, min, max, mean8-Day Running: count, average daily min, average daily max, average daily mean7d running metrics: count, min, max, meansummer temperature metrics, including 7 day running metrics for the July 15-August 31 window:count, min, max, mean",
-  "url": "http://www.monitoringresources.org/api/v1/methods/4142",
-  "title": "Stream Temperature Logger Calculations v1.0",
-  "id": 4142,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Boyd Bouwes",
-  "ownerEmail": "boydbouwes@gmail.com"
-}

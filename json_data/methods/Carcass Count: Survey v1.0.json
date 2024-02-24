@@ -1,9 +1,0 @@
-{
-  "abstractText": "Most adult anadromous salmon die shortly after returning from the sea to spawn in their natal streams. Salmon carcasses provide important information to scientists, including scales, tissue samples, length measurements, and population sex composition data. With marked fish, carcass recoveries offer a mechanism to support markrecapture population assessments. Carcasses are also a means to assess the relative number of wild versus hatchery-based fish in the system. By estimating the numbers of spawning fish in a total redd count, one may determine the number of carcasses that need to be recovered (sampled) to evaluate key demographic and genetic aspects of hatchery and supplementation programs. Carcass counts are often done in conjunction with foot-based visual counts of spawning fish and with redd counts. Objectives of carcass surveys include: *Determine the length, sex, age, phenotypes, and genotypes of spawning fish by collecting a representative sample of the target species carcasses. *Determine ratios of hatchery origin and wild fish contributing to spawning populations. *Recover carcasses in support of markrecapture and other demographic studies. *Determine contribution of nutrient amounts to ecosystem.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/107",
-  "title": "Carcass Count: Survey v1.0",
-  "id": 107,
-  "type": "Data Collection",
-  "ownerName": "Jacque Schei",
-  "ownerEmail": "jschei@usgs.gov"
-}

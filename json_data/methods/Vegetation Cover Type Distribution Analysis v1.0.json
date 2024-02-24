@@ -1,9 +1,0 @@
-{
-  "abstractText": "Vegetation cover type mapping is performed to evaluate the composition and distribution of cover types within the restoration project area. Floodplain vegetation cover types are modified from Hauer and others (2002).Data collection methods are described in Vegetation Cover Type Mapping Method #1182 [https://www.monitoringresources.org/Document/Method/Details/1182] and generally include field surveys and aerial imagery interpretation to develop digital spatial data representing the extents of distinct floodplain cover types within the restoration project area.As part of designing a restoration project, the desired vegetation cover type distribution will be described to fit the specific ecological setting for the project. For example, desired cover types for streambank restoration projects may include: mature cottonwood, pole cottonwood, cottonwood/willow seedling, and exposed alluvial surfaces. A percent abundance, or range of expected percentages, for each cover type would be established to match the specific restoration location.Comparing the post-project cover type distribution collected over multiple years, versus the desired distribution can be used to evaluate trends toward achieving project objectives and also inform maintenance and/or adaptive management measures that may be needed for a restoration project.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/6825",
-  "title": "Vegetation Cover Type Distribution Analysis v1.0",
-  "id": 6825,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Sarah Flynn",
-  "ownerEmail": "sflynn@geumconsulting.com"
-}

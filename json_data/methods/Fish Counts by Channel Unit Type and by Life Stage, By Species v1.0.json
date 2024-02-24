@@ -1,9 +1,0 @@
-{
-  "abstractText": "This calculates the number of juvenile salmonidspresent in each stream channel unit type utilizing data from snorkel surveys and topographic surveys of streamscollected using the following methods:Estimating Instream Juvenile Salmonid Abundance Using Snorkeling v1.0(ID: 197)Topographic Point Collection v2.0(ID: 1582)Channel Unit Classification v2.0(ID: 1581)RBT - Channel Unit Calculation v1.0(ID: 1258)",
-  "url": "http://www.monitoringresources.org/api/v1/methods/4238",
-  "title": "Fish Counts by Channel Unit Type and by Life Stage, By Species v1.0",
-  "id": 4238,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Rachael Katz",
-  "ownerEmail": "rachael.katz@tetratech.com"
-}

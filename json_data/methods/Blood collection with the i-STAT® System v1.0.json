@@ -1,9 +1,0 @@
-{
-  "abstractText": "This method describes the procedure for collecting blood samples from fish for analysisusingthei-STAT System,a portable clinical analyser of blood parameters. The iSTAT system can analyze a range of parameters, such as pH, haematocrit (Hct), haemoglobin (Hb), HCO3, partial pressure of CO2(PCO2), partial pressure of O2(PO2), Hb saturation (sO2) and Na+concentration. This method summarizes the step-by-step instructions of theProcedure Manual for the i-STAT System, published by Abbott Point of Care. These instructions should be customized for site-specific policies and procedures.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/6719",
-  "title": "Blood collection with the i-STAT\u00ae System v1.0",
-  "id": 6719,
-  "type": "Data Collection",
-  "ownerName": "Lytle Denny",
-  "ownerEmail": "ldenny@sbtribes.com"
-}

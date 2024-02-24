@@ -1,9 +1,0 @@
-{
-  "abstractText": "Data collected during fisheries sampling informs fisheries managers, in real time, so that timely decisions can be made to regulate mixed-stock fisheries when ESA-listed stocks maybe impacted. To determine what stock is represented in a fishery, samplers use a combination of indicators including fin marks, coded-wire tags (CWT) implanted in salmon snouts when juveniles, PIT tags implanted in body cavities as juveniles, and visual stock identification, which is based on physical characteristics of salmon harvested. In a mixed-stock fishery, such as spring Chinook in the lower Columbia River, stocks can reliably be distinguished using key physical features such as face pigmentation (light vs. dark), belly pigmentation, snout and body shape, spots/silver color on tail, and pectoral fin color and transparency (see attachment Spring Chinook VSI Trainer.pdf).",
-  "url": "http://www.monitoringresources.org/api/v1/methods/6894",
-  "title": "Visual Stock Identification for Harvested Salmon v1.0",
-  "id": 6894,
-  "type": "Data Collection",
-  "ownerName": "Cyndi Baker",
-  "ownerEmail": "cynthia.f.baker@state.or.us"
-}

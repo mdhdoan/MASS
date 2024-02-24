@@ -1,9 +1,0 @@
-{
-  "abstractText": "Transect data is measured in precise locations so that it can be revisited annually or, in the case of panel sites, every four years. This data is used to map stream sinuosity and channel movement. Transect data collected: Bankfull height, Bankfull depth, Wetted Width, Compass Bearing, and Mid-Channel bars/Islands.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/44",
-  "title": "Measuring Transect Data v1.0",
-  "id": 44,
-  "type": "Data Collection",
-  "ownerName": "Ryan Klett",
-  "ownerEmail": "ryan.klett@colvilletribes.com"
-}

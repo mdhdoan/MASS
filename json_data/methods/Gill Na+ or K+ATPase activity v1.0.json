@@ -1,9 +1,0 @@
-{
-  "abstractText": "Juvenile salmonid migration is preceded by the initiation of the parr-smolt transformation, called smoltification (Folmar and Dickhoff 1980), which occurs when juveniles in freshwater environments undergo a series of morphological, behavioral, and physiological changes that enable them to survive in the ocean (Hoar 1988). Among the physiological changes that fish undergo, increased activity of gill Na+, K+ ATPase (NKA) enzyme that aids in maintaining osmotic balance by facilitating the extrusion of NaCl across the gills (Hoar 1988; Evans et al. 2005), hereby allowing for increased salinity tolerance and survival in the ocean environment (Hoar 1988). Multiple studies have used the measurement of NKA activity to determine differences in osmoregulatory preparedness for saltwater entry between hatchery and natural origin salmonids. For example, hatchery fish commonly have lower gill NKA activity than wild fish (Shrimpton et al. 1994), which is inversely related to the mortality associated with saltwater stress (Flagg and Smith 1982), indicating that hatchery fish are not as well prepared for saltwater emigration as wild conspecifics.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/653",
-  "title": "Gill Na+/K+ATPase activity v1.0",
-  "id": 653,
-  "type": "Data Collection",
-  "ownerName": "Patricia Crandell",
-  "ownerEmail": "patricia_crandell@fws.gov"
-}

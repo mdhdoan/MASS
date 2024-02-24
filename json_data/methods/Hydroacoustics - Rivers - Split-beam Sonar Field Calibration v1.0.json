@@ -1,9 +1,0 @@
-{
-  "abstractText": "Hydroacoustic methods are typically used to assess abundance in migrating fish populations when other methods are not feasible (i.e., the river is too wide for weirs or too turbid for observation towers). In many instances, hydroacoustic systems may be preferable to more intrusive devices such as nets or traps. This method  addresses field calibration for split-beam transducers.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/129",
-  "title": "Hydroacoustics - Rivers - Split-beam Sonar Field Calibration v1.0",
-  "id": 129,
-  "type": "Data Collection",
-  "ownerName": "Jacque Schei",
-  "ownerEmail": "jschei@usgs.gov"
-}

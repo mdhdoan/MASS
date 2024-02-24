@@ -1,9 +1,0 @@
-{
-  "abstractText": "Thermographs are installed at the upstream and downstream ends of treated stream reaches to monitor changes over time. The expected outcome is that summer temperatures will gradually decline as riparian canopy increases, stream width/depth ratios decrease and/or hyporheic interaction improves. Whenever possible, thermographs are installed prior to project implementation to collect 1-2 years of pre-project data (McGowan and Morton 2008). Unidata Starlogger thermographs are deployed 365 days/year to record changes in both summer and winter temperatures. Instruments are set to record an entry every 5 seconds and an average value computed every hour. A second thermistor probe records ambient air temperature in the same manner. Data are downloaded onto laptop computers every 6 months in May and October of each year. Any maintenance required is done at this time, and probes are checked for accuracy (+/- 0.2 Co) against NIST registered thermometers. Instruments and wiring are checked frequently during the summer months to ensure proper operation or that the probes are not dewatered during summer base flow. Hobo Temp thermographs are occasionally deployed as backup instruments but not used on a regular basis since they are more limited for data storage (McGowan and Morton 2008).",
-  "url": "http://www.monitoringresources.org/api/v1/methods/1721",
-  "title": "Continual Water and Air Temperature Data Collection v1.0",
-  "id": 1721,
-  "type": "Data Collection",
-  "ownerName": "Winston Morton",
-  "ownerEmail": "winston.h.morton@state.or.us"
-}

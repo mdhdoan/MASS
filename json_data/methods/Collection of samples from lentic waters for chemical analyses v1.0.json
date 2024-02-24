@@ -1,9 +1,0 @@
-{
-  "abstractText": "The chemical makeup of lakes, ponds and reservoirs plays an important role in the ecology of these systems. Chemical properties that are often of interest include dissolved atmospheric gasses, inorganic nutrients, and organic compounds. The concentration of nutrients, including phosphorus (P) and nitrogen (N), that are available to plants for growth, can have a strong effect on the phytoplankton communities in a body of water. Monitoring changes in these metrics is often a critical component of monitoring programs designed to assess the effects of management actions or other practices on the ecology of aquatic systems.This method describes the field collection of water samples to be sent to an outside analytical lab to determine the concentration of chemical constituents of interest to the investigator. Metrics may include total phosphorus, total dissolved phosphorus, total persulfate nitrogen, nitrate plus nitrite, ammonia nitrogen, total dissolved solids and dissolved organic carbon.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/1418",
-  "title": "Collection of samples from lentic waters for chemical analyses v1.0",
-  "id": 1418,
-  "type": "Data Collection",
-  "ownerName": "Sean Wilson",
-  "ownerEmail": "sean.wilson@idfg.idaho.gov"
-}

@@ -1,9 +1,0 @@
-{
-  "abstractText": "In this protocol, DNA extracted from anterior kidney tissue (see associated DNA extraction protocol) is analyzed via Polymerase Chain Reaction (PCR) to detect the presence of Renibacterium salmoninarum DNA. The PCR involves two reaction steps, with the PCR product of the first reaction serving as template in the second (nested) reaction. All steps must be done wearing gloves to prevent contaminating the samples. Sample preparation and DNA extraction are explained in separate protocols. The primers for this PCR protocol are found in the original version of the protocol in Pascho et al. (1998).",
-  "url": "http://www.monitoringresources.org/api/v1/methods/1379",
-  "title": "Northwest Fisheries Science Center Ocean Salmon Survey Nested Polymerase Chain Reaction (PCR) to detect Renibacterium salmoninarum v1.0",
-  "id": 1379,
-  "type": "Data Collection",
-  "ownerName": "Cheryl Morgan",
-  "ownerEmail": "cheryl.morgan@oregonstate.edu"
-}

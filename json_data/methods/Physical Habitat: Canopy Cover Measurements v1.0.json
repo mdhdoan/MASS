@@ -1,9 +1,0 @@
-{
-  "abstractText": "This method is derived from an Environmental Monitoring and Assessment Program (EMAP) protocol developed for monitoring and measuring the ecological conditions of western wadable streams. Included in this method are instructions for measuring riparian canopy cover. Riparian canopy cover over a stream is important not only for its role in moderating stream temperatures through shading, but also as an indicator of conditions that control bank stability and the potential for inputs of coarse and fine particulate organic material. Organic inputs from riparian vegetation become food for stream organisms and structure to create and maintain complex channel habitat.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/79",
-  "title": "Physical Habitat: Canopy Cover Measurements v1.0",
-  "id": 79,
-  "type": "Data Collection",
-  "ownerName": "Jacque Schei",
-  "ownerEmail": "jschei@usgs.gov"
-}

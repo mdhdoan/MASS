@@ -1,9 +1,0 @@
-{
-  "abstractText": "Environmental DNA (eDNA) has become increasingly used as a surveillance tool to monitor for the genetic presence of aquatic invasive species or threatened and endangered species (Jerde 2011). Environmental samples generally have low levels of the target species DNA (Dejean et al. 2011), thus it iscritical to have minimal loss of DNA during processing in the lab.Once an eDNA water sample is collected, the organic matter is typically concentrated by filtering or centrifugation. Extraction of total DNA from filters or pellet is the first step in workflow. Detection of target DNA in the sample depends on the quantity and quality of DNA which is extracted from the field sample. Commercially available extraction kits may vary in the quantity and quality of target DNA copiesavailable at the end of extraction, so it is critical to be able to maximize both aspects of extraction.Extraction is a time-consuming step in the lab, especially when there are thousands of eDNA samples tobe processed, and this step is often the bottleneck in processing. In addition to labor time, otherconsiderations in choice of extraction kits are the cost and the ability to purchase individual reagents orpieces of each kit as needed to avoid waste of kit components (Amberg et al., 2015)",
-  "url": "http://www.monitoringresources.org/api/v1/methods/5497",
-  "title": "Environmental DNA (eDNA) Extraction for Centrifuged Samples Using the Qiagen DNeasy Kit v1.0",
-  "id": 5497,
-  "type": "Data Collection",
-  "ownerName": "PNAMP USER",
-  "ownerEmail": "gs-monitoringresources@usgs.gov"
-}

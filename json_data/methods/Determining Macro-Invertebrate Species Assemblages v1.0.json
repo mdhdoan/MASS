@@ -1,9 +1,0 @@
-{
-  "abstractText": "The health of a stream can be determined from the species of macroinvertebrates present.  Some species of aquatic insects are very sensitive to water quality problems and others are affected by sedimentation or temperature.  The purpose of this protocol is to provide for a standard method of measuring changes in the macroinvertebrate assemblages of streams acquired by the SRFB.  A macroinvertebrate index (MMI) is calculated based upon previous studies and used to compare results against future measures at the same site and other sites.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/171",
-  "title": "Determining Macro-Invertebrate Species Assemblages v1.0",
-  "id": 171,
-  "type": "Data Collection",
-  "ownerName": "Jennifer O'Neal",
-  "ownerEmail": "jen@naturaldes.com"
-}

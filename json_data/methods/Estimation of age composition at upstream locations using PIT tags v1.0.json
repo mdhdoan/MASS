@@ -1,9 +1,0 @@
-{
-  "abstractText": "Fish are PIT taggedusing method 6583. Ages estimated by scales are used to estimate detections at upstream locations where these fish are detectedbased on PIT tag detections at those locations.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/3924",
-  "title": "Estimation of age composition at upstream locations using PIT tags v1.0",
-  "id": 3924,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Jeffrey Fryer",
-  "ownerEmail": "fryj@critfc.org"
-}

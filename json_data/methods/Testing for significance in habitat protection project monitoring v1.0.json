@@ -1,9 +1,0 @@
-{
-  "abstractText": "A random sample will be drawn without replacement from completed SRFB habitat protection projects and monitored for the above response indicators to test the null hypotheses. We must be sure that the sample size is large enough to detect significant changes in the response indicators over a relatively short period of time. The number of projects that must be sampled is dependent upon the amount of variation from year to year and among projects, the signal to noise ratio, and the power of the test. Existing data from EMAP sampling conducted by the USEPA and Oregon Department of Fish and Wildlife were used to estimate minimum sample sizes needed to detect change.  A simple linear regression model was used to estimate the number of sites needed to determine whether stream locations improve or decline in condition through time. For this model, each habitat variable would be regressed against year. A slope significantly different from zero would indicate a change in resource condition, with improvement indicated by a positive slope and decline by a negative slope. The linear model assumes that the response variable is normally distributed.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/301",
-  "title": "Testing for significance in habitat protection project monitoring v1.0",
-  "id": 301,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Jennifer O'Neal",
-  "ownerEmail": "jen@naturaldes.com"
-}

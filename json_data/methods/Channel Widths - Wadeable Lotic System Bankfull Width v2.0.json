@@ -1,9 +1,0 @@
-{
-  "abstractText": "Measure the width between the bankfull elevation on one side of the channel to the bankfull elevation on the opposite side of the channel. Measurements should be taken perpendicular to the thalweg at all 11 main transects.Bankfull width is used to determine reach length, and both bankfull width and height are used to compute floodplain connectivity and channel dimensions. Bankfull is important because it corresponds to the discharge associated with channel formation, maintenance, and thus observed channel dimensions under current climatic conditions.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/7041",
-  "title": "Channel Widths - Wadeable Lotic System Bankfull Width v2.0",
-  "id": 7041,
-  "type": "Data Collection",
-  "ownerName": "PNAMP Support",
-  "ownerEmail": "pnamp.mm@gmail.com"
-}

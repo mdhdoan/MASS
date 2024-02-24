@@ -1,9 +1,0 @@
-{
-  "abstractText": "This method explains how to verify (on-site) that a candidate wadeable sample site is suitable forsampling. It also describes how to establish the boundaries and stations within the site. Once asite is deemed suitable for sampling, a Data Collection Event (DCE) can be established touniquely identify the sampling event.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/3826",
-  "title": "Verifying a Habitat Sampling Location - For Wadeable Streams v1.0",
-  "id": 3826,
-  "type": "Data Collection",
-  "ownerName": "Glenn Merritt",
-  "ownerEmail": "glenn.merritt@ecy.wa.gov"
-}

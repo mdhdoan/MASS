@@ -1,9 +1,0 @@
-{
-  "abstractText": "NewHybrids is a program for computing the posterior distribution that individuals in a sample fall into one of six different hybrid categories. It applies specifically to studies that involve hybridization due to recent contact, or ongoing, but limited hybridization. The details of the algorithm are published in Anderson and Thompson (2002). The six categories are: Pure Population 1, Pure Population 2, F1, F2, Back-cross to population 1, and Backcross to population 2. NewHybrids does not require that the allele frequencies of the two populations be known a priori, and as such, pure samples of the two populations need not be available to identify hybrids.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/7050",
-  "title": "Identifying Hybrids Using NewHybrids v1.0",
-  "id": 7050,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Matthew Campbell",
-  "ownerEmail": "matthew.campbell@idfg.idaho.gov"
-}

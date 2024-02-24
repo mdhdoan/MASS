@@ -1,9 +1,0 @@
-{
-  "abstractText": "Calculate mainstem channel centerline length (LengthCenter) using unmanned aircraft systems (UAS) imagery (primary method) or ground-based surveys (secondary method;used if aerial visibility to stream is limited).",
-  "url": "http://www.monitoringresources.org/api/v1/methods/6954",
-  "title": "Channel centerline length v1.0",
-  "id": 6954,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Casey Justice",
-  "ownerEmail": "jusc@critfc.org"
-}

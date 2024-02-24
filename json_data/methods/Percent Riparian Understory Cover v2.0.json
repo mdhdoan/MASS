@@ -1,9 +1,0 @@
-{
-  "abstractText": "NOTE: This is version 2.0 ofMethod #1246most recently revisedbyCarol Volk. Versioned on12-19-2018 by Sheryn Olson for updating by current user organization CTUIR.Estimate the percentage of the riparian understory that is covered with vegetation.Estimates of the percent cover are taken at 5 transects (1, 6, 11, 16, 21) on the right and left bankwithin a10mx10mplot beginning atbankfull. Percent of the areal coverage ofthe understory (0.5-5m) is visually estimated for each plot.Average Percent Understory Cover is an average of the estimates from each of these 10 plots.The CHaMP - Riparian Structure Method provides background on the measurements that are analyzed for this calculation. See - http://www.monitoringmethods.org/Method/Details/845 CHaMP method follows the Peck et al. (2001) methods used by the EMAP.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/6752",
-  "title": "Percent Riparian Understory Cover v2.0",
-  "id": 6752,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Kaylyn Costi",
-  "ownerEmail": "kaylyncosti@ctuir.org"
-}

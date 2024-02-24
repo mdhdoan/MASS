@@ -1,9 +1,0 @@
-{
-  "abstractText": "A measure of the solar radiation available at a site. Solar accessis summed across all days in a month to provide monthly solar accessvalues. The average of July, Aug and Sept monthly solar accessis reported.A Solar Pathfinder device is used to capture images at the center of the wettedchannel at all odd numbered transects (1, 3, 5, 7,21).",
-  "url": "http://www.monitoringresources.org/api/v1/methods/4048",
-  "title": "Solar Access Calculation v1.0",
-  "id": 4048,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Steve Rentmeester",
-  "ownerEmail": "steve@sitkatech.com"
-}

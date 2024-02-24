@@ -1,9 +1,0 @@
-{
-  "abstractText": "Riparian structure: describes the type and amount of various types of vegetation within the riparian zone (within 10 m). Information on riparian structure can be used to evaluate the health and level of disturbance of the stream corridor. In addition, it provides an indication of the present and future potential for various types of organic inputs and shading.Riparian disturbance: refers to the presence and proximity of various types of human land-use activities within the riparian area (within 30 m from the edge of the channel). Activities include such things as walls, dikes, riprap, dams, buildings, pavement, paved roads and trails, unpaved roads and trails, railroads, pipes, trash, parks, lawns, mining, agriculture, pastures, and logging. All these activities have an effect on the riparian vegetation, which in turn affects the quantity and quality of aquatic habitat for listed fish species.Canopy cover: Riparian canopy cover over a stream is important not only in its role in moderating stream temperatures through shading, but it also serves to control bank stability and provides inputs of coarse and fine particulate organic materials. Organics from riparian vegetation become food for stream organisms and structure to create and maintain complex channel habitat.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/38",
-  "title": "Riparian Condition v1.0",
-  "id": 38,
-  "type": "Data Collection",
-  "ownerName": "Tracy Hillman",
-  "ownerEmail": "tracy.hillman@bioanalysts.net"
-}

@@ -1,9 +1,0 @@
-{
-  "abstractText": "METHODS OF SENSING STAGE FOR AUTOMATIC RECORDINGStage is sensed for automatic recording by a float in a stilling well, or by a gas-purge system that transmits the pressure head of water in a stream to a manometer. The latter system, which does not require a stilling well, is known as a bubble gage.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/5429",
-  "title": "Measurement of a Stage: Recording Stream-Gaging Stations v1.0",
-  "id": 5429,
-  "type": "Data Collection",
-  "ownerName": "PNAMP Support",
-  "ownerEmail": "pnamp.mm@gmail.com"
-}

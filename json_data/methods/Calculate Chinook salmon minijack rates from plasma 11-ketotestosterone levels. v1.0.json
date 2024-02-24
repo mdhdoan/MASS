@@ -1,9 +1,0 @@
-{
-  "abstractText": "This method is used for analyzing data for determining if a male Chinook salmon has initiated the maturation process. It is used to conduct prerelease monitoring of hatchery populations for rates of precocious male maturation (i.e. minijack production). The method involves collecting plasma from fish and analyzing it by enzyme linked immunosorbant assay (ELISA) for the reproductive androgen 11-ketotestosterone (11-KT). 11-KT is instrumental in initiating the process of spermatogenesis. 11-KT levels can then be examined via a frequency distribution of log transformed levels. Levels above and below a predetermined threshold is used to determine which fish have or have not initiated maturation and are destined to mature the following fall. This threshold has been confirmed through measurement of gonadosomatic index (testes size relative to body size) and most importantly histological analysis of cellular differentiation of testicular material. Furthermore, once fish initiate the maturation process the it is essentially irreversible. Data were analyzed by logistic regression comparing weight versus minijack proportion using the R statistical package",
-  "url": "http://www.monitoringresources.org/api/v1/methods/3785",
-  "title": "Calculate Chinook salmon minijack rates from plasma 11-ketotestosterone levels. v1.0",
-  "id": 3785,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Donald Larsen",
-  "ownerEmail": "don.larsen@noaa.gov"
-}

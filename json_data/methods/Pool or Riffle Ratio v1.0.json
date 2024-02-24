@@ -1,9 +1,0 @@
-{
-  "abstractText": "Determine changes in fish habitat by assessing the pool to riffle ratio. The total area of pool habitat and total area of riffle habitat in a study reach are used to calculate the ratio. This ratio can be calculated using the channel unit output from the River Bathymetry Toolkit (ID: 1258).",
-  "url": "http://www.monitoringresources.org/api/v1/methods/4118",
-  "title": "Pool/Riffle Ratio v1.0",
-  "id": 4118,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Colin Riordan",
-  "ownerEmail": "colin@naturaldes.com"
-}

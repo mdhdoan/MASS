@@ -1,9 +1,0 @@
-{
-  "abstractText": "Fyke traps and/or Rotary Screw Traps were used to estimate juvenile steelhead outmigrant abundance in small tributaries, in combination with randomized automated releases of marked fish upstream of the traps. The ratio's of marked to recaptured fish were used to estimate trapping efficiency, and outmigrant population size. If trap avoidance was evident using forklength, release timing, or flow (as covariates) a Huggins closed capture model was used to estimate trap efficiency and population size to remove biases therein. Releases were randomized by hour of day to negate diel biases in trap efficiency estimates.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/4050",
-  "title": "Estimating Fyke or Rotary Screw Trap Efficiency by Using an Automated Release Device v1.0",
-  "id": 4050,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Derrek Faber",
-  "ownerEmail": "derrek.m.faber@state.or.us"
-}

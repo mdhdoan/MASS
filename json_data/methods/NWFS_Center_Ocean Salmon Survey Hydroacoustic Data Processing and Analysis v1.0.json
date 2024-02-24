@@ -1,9 +1,0 @@
-{
-  "abstractText": "This method describes how we analyze the hydroacoustics data to estimate fish density.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/1704",
-  "title": "NWFS_Center_Ocean Salmon Survey Hydroacoustic Data Processing and Analysis v1.0",
-  "id": 1704,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Cheryl Morgan",
-  "ownerEmail": "cheryl.morgan@oregonstate.edu"
-}

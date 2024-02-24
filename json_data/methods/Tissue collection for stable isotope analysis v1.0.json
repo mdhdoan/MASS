@@ -1,9 +1,0 @@
-{
-  "abstractText": "Stable isotopes are commonly used to infer trophic position, linkages between organisms within food webs, and to trace energy sources and flow through food webs. They have the advantage of offering a time integrated look at trophic relationships rather than just the snap-shot view that is commonly offered by diet data. Stable isotopes are enrichedwithin the tissues of organisms, both plants and animals, and it is tissue that is commonly collected and analyzed. This method applies to plants, animals, and other organic material such as detritus.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/5298",
-  "title": "Tissue collection for stable isotope analysis v1.0",
-  "id": 5298,
-  "type": "Data Collection",
-  "ownerName": "Kenneth Tiffan",
-  "ownerEmail": "ktiffan@usgs.gov"
-}

@@ -1,9 +1,0 @@
-{
-  "abstractText": "This method explains how to measure substrate characteristics at each of 11 equidistant transects at each site. Measurements in this procedure will be restrictedto one main channel. This method must be preceded by setting up the reach using method ID 3828. This method specifically explainsembeddedness.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/3840",
-  "title": "Estimating particles Embeddedness - For Wadable Streams v1.0",
-  "id": 3840,
-  "type": "Data Collection",
-  "ownerName": "Glenn Merritt",
-  "ownerEmail": "glenn.merritt@ecy.wa.gov"
-}

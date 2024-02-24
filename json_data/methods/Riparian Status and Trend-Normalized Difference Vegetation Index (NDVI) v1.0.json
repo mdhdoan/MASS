@@ -1,9 +1,0 @@
-{
-  "abstractText": "Vegetation intensity mapping using the Normalized Difference Vegetation Index is used to develop a basic assessmentof the areal coverage of riparian vegetation intensities in the floodplain at the river segment scale (10^3-10^5 m). The assessment is generally performed using widely available NAIP imagery collected biennially by the USDA. NDVI is calculated in accordance with the formula: NDVI = NIR-RED/NIR+RED (Deering and Haas 1980) where:NIR  reflection in the near-infrared spectrumRED  reflection in the red range of the spectrumThis assessment is paired with a digitization of agricultural or residential alterations to the floodplain that may result in a false positive signal for vibrant, actively growning vegetation (e.g. orchards, lawns etc...).This method was implemented using ArcGIS 10.4 for Desktop.All analysis utilityfeatures referenced in Stepwise Procedures are included in ArcGIS 10.4 for Desktop. Other ArcGIS versions or GIS software packages may have different names or processes for similar functions.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/6928",
-  "title": "Riparian Status and Trend-Normalized Difference Vegetation Index (NDVI) v1.0",
-  "id": 6928,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Ryan Klett",
-  "ownerEmail": "ryan.klett@colvilletribes.com"
-}

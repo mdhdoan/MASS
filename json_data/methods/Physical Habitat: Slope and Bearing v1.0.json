@@ -1,9 +1,0 @@
-{
-  "abstractText": "The slope, or gradient, of the stream reach is useful in four different ways. First, the overall stream gradient is one of the major stream classification variables, giving an indication of potential water velocities and stream power, which are in turn important controls on aquatic habitat and sediment transport within the reach. Second, the spatial variability of stream gradient is a measure of habitat complexity, as reflected in the diversity of water velocities and sediment sizes within the stream reach. Third, using methods described by Stack (1989) and Robison and Kaufmann (1994), the water surface slope, in conjunction with the multiple depth and width measurements taken in the thalweg profile, is used to compute residual pool depths, volumes, and numbers. Finally, slope, in combination with measurements of channel dimensions, wood, and substrate particle size, is necessary for calculating relative bed stability (Kaufmann et al. 1999). Compass bearing between cross-section transects, along with the distance between transects, is used to estimate the sinuosity of the channel (ratio of the length of the reach divided by the straight line distance between the two reach ends).",
-  "url": "http://www.monitoringresources.org/api/v1/methods/76",
-  "title": "Physical Habitat: Slope and Bearing v1.0",
-  "id": 76,
-  "type": "Data Collection",
-  "ownerName": "Jacque Schei",
-  "ownerEmail": "jschei@usgs.gov"
-}

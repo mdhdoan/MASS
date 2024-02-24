@@ -1,9 +1,0 @@
-{
-  "abstractText": "Multi-state models are an extension of the live recapture model developed by Cormack-Jolly-Seber (CJS) (Cormack 1964, Jolly 1965, Seber 1965). They extend the live re-capture model to multiple areas or life stage states. A multi-state model with live and dead encounters can be fitted in MARK. For a detailed explanation of the model see (White 2014)A multi-state model (MSM) is a model for a continuous time stochastic process allowing individuals to move among a finite number of states. ... The simplest form of an MSM is the mortality model for survival analysis with states alive and dead and only one possible transition.Multi-state models are models for a process, for example describing a life history of an individual, which at any time occupies one of a few possible states. This can describe several possible events for a single individual, or the dependence between several individuals. The events are the transitions between the states. This class of models allows for an extremely flexible approach that can model almost any kind of longitudinal failure time data.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/6616",
-  "title": "Multistate Model for Live Recaptures to estimate daily survival, capture and movement probability of White Sturgeon v1.0",
-  "id": 6616,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Ryan Hardy",
-  "ownerEmail": "ryan.hardy@idfg.idaho.gov"
-}

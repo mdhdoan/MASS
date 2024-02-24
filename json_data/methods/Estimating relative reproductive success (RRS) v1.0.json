@@ -1,9 +1,0 @@
-{
-  "abstractText": "The use of integrated-broodstocks to minimize genetic risks and contribute to the recovery of a population depends on maintaining the genetic integrity of the hatchery component and successful reproduction of HOR fish in the wild. Most recent studies of integrated broodstock programs in steelhead and Pacific salmon provide evidence for decreased fitness in hatchery-origin fish compared to wild-type fish.Below is a method for estimating relative reproductive success (RRS)of naturally spawning hatchery origin (HOR) and NOR steelhead. By monitoring the success of HOR individuals in the wild over multiple generations we can gain an understanding of the effects of hatchery supplementation on the production and fitness of the natural populations.This method was implemented usingdata which were generated following DNA extraction (DNeasy; Method 1353), and genotyping of standardized microsatelliteloci in steelhead(SPAN loci; Method 4002).",
-  "url": "http://www.monitoringresources.org/api/v1/methods/696",
-  "title": "Estimating relative reproductive success (RRS) v1.0",
-  "id": 696,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Patricia Crandell",
-  "ownerEmail": "patricia_crandell@fws.gov"
-}

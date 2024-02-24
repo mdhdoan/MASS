@@ -1,9 +1,0 @@
-{
-  "abstractText": "SNPPIT is a software program for performing fast and accurate, likelihood-based, parentage inference with single nucleotide polymorphisms (SNPs). The software is tailored for inference of mother-father parent pairs, not for single parents. It takes a simple input file that includes the genotypes of the possible parents and of the offspring whose parentage is to be inferred. Parents in the parent database may come from multiple populations. This program was developed for massive-scale parentage inference of hatchery produced salmon and can accommodate hundreds of thousands of parents in the parent database. There is also the option to include metadata for each individual that might be available with hatchery salmon, like spawning date, spawning year, age range of offspring, etc.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/1341",
-  "title": "Parentage assignments using SNPPIT software v1.0",
-  "id": 1341,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Matthew Campbell",
-  "ownerEmail": "matthew.campbell@idfg.idaho.gov"
-}

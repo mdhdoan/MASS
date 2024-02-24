@@ -1,9 +1,0 @@
-{
-  "abstractText": "Quantifying spawner escapement of select stocks of steelhead and salmon can lead to greater comprehension of population dynamics and is necessary for the proper management of the fisheries. Several methods have been used to quantify escapement of salmonids, including redd counts, weirs, visual observation and PIT tag detection arrays. In recent years, researchers have incorporated the use of PIT tag detection arrays to monitor movement of salmonids with a high degree of efficiency (Zydlewski et al. 2006; Horton et al. 2007; Connolly et al. 2008; Homel and Budy 2008). PIT tagged adults are detected by a radio transceiver when passing in close proximity to an antennae installed in the tributary. The PIT tag identification number, time, and date are recorded to a data logger and downloaded to a computer at regular intervals. After initial setup, maintenance can be conducted with minimal effort to ensure the array functions properly. The initial investment in equipment is offset by the low cost of maintenance and operation. PIT tagged spawners are identified with no interference of natural migration. A weir may be used exclusively or in concert with a PIT tag detection array to quantify total spawner escapement. PIT tag detection arrays will be maintained throughout the year. Both temporary and permanent PIT tag detection array types will be employed, depending upon site characteristics and data collection needs.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/1076",
-  "title": "Instream PIT tag detection array v1.0",
-  "id": 1076,
-  "type": "Data Collection",
-  "ownerName": "John Arterburn",
-  "ownerEmail": "john.arterburn@colvilletribes.com"
-}

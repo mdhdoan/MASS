@@ -1,9 +1,0 @@
-{
-  "abstractText": "Spawning ground surveys are conducted three to ten times per year to bracket spawning timing, increase redd count accuracy, and maximize adult carcass collections on each stream.   Surveys are conducted weekly or biweekly on discrete survey sections that encompass index and expanded sections.  July surveys focus on obtaining estimates of pre-spawn mortality; females are considered a pre-spawning mortality if <25% of their gametes have been expelled, pre-spawn males are defined as male mortalities found prior to the onset of the first completed redd.  Procedures for spawning ground surveys are based on standardized protocol developed by the NPT Department of Fisheries Resources Management (unpublished). NPT provides annual on-the-ground training for all staff involved in spawning ground surveys.  Initiate spawning ground surveys at mid-day to ensure adequate light conditions.  Chinook salmon redds are enumerated and marked with flagging and with a GPS unit, so that the number of new redds can be determined with each additional survey.  Marks on flagging include redd number (chronologically-based), observers initials, agency initials, and date observed.  Conservative counts are made in areas with multiple redds.  Redds are directly enumerated and summarized as a total number per stream with no estimate of variation.  Number of redds are evaluated temporally and/or spatially (supports index area time series data). Flagging is removed during the final survey.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/211",
-  "title": "Ground Surveys/Carcass Surveys v1.0",
-  "id": 211,
-  "type": "Data Collection",
-  "ownerName": "Jacque Schei",
-  "ownerEmail": "jschei@usgs.gov"
-}

@@ -1,9 +1,0 @@
-{
-  "abstractText": "Use the following guidance when sampling a reach with a side channel. Data should be collected on side channels regardless of size or presence of water. However, data should only be collected on a single side channel per transect. If multiple side channels are present, select and sample the one with the widest bankfull width.A side channel is defined as:A channel separated from the main channel by an island (not a mid-channel bar)A continuous channel that diverges from and reconnets to the main channel. Both the diverging and reconnecting of a side channel does not need to occur within the sample reach.A channel that has a geomorphic features ofperennial or intermittent stream. For example, a clear definable channel, identifiable bankfull features, point bars, and other depositional/erosional features may exist. Perennial vegetation should not be growing within and dominate the bed of the channel.Types of side channels:Major side channel: Meets all side channel criteria and contains 16-49% of the total flowMinor side channel: Meets all side channel criteria and contains less than or equal to 15% of the total flowDry side channel: Meets all side channel criteria and does not have any flowing water. It may be completely dry or contain isolated nonflowing pools.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/7036",
-  "title": "Transects and Measurements in Side Channels v2.0",
-  "id": 7036,
-  "type": "Data Collection",
-  "ownerName": "PNAMP Support",
-  "ownerEmail": "pnamp.mm@gmail.com"
-}

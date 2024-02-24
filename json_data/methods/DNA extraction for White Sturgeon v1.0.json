@@ -1,9 +1,0 @@
-{
-  "abstractText": "This is a general protocol employed by Columbia River Inter-Tribal Fish Commission (CRITFC) for white sturgeon. Genomic DNA is extracted using Qiagen DNeasy protocols in conjunction with a Qiagen 3000 BioRobot, and was arrayed in 96-well plates for high-throughput genotyping.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/918",
-  "title": "DNA extraction for White Sturgeon v1.0",
-  "id": 918,
-  "type": "Data Collection",
-  "ownerName": "Andrew Matala",
-  "ownerEmail": "mata@critfc.org"
-}

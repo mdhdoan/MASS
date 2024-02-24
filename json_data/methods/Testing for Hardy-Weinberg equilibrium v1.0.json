@@ -1,9 +1,0 @@
-{
-  "abstractText": "One of the first tests that geneticists perform on a dataset is to measure whether the genotypes in the sample are present in the expected proportions given the observed allele frequencies.  They can estimate the expected proportions because of a mathematical concept called the Hardy-Weinberg principle, named after the two scientists who simultaneously discovered it in 1908. The Hardy-Weinberg principle states that under the assumptions of a large randomly breeding population, with no mutation, gene migration, selection or genetic drift, that both allele and genotype frequencies will remain constant from generation to generation. Under conditions of Hardy-Weinberg equilibrium (HWE), expected genotype frequencies may be derived from population allele frequencies using the equation p2+2pq+q2 = 1, Where p and q represent the frequencies of alleles.  Deviations from HWE can indicate inbreeding, population stratification, and even problems in genotyping.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/1357",
-  "title": "Testing for Hardy-Weinberg equilibrium v1.0",
-  "id": 1357,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Matthew Campbell",
-  "ownerEmail": "matthew.campbell@idfg.idaho.gov"
-}

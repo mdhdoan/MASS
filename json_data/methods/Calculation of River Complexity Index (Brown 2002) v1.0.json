@@ -1,9 +1,0 @@
-{
-  "abstractText": "Based on Brown (2002), this method outlines the calculation for the River Complexity Index (RCI).Sinuosity (S) is used as a measure of habitat area and heterogeneity. Junctions (J) are used as ameasure of connectivity in the reach.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/1760",
-  "title": "Calculation of River Complexity Index (Brown 2002) v1.0",
-  "id": 1760,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Jennifer O'Neal",
-  "ownerEmail": "jen@naturaldes.com"
-}

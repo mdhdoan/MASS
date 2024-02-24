@@ -1,9 +1,0 @@
-{
-  "abstractText": "Ldne (Waples and Do 2008) is a program with a Visual Basic interface that implements a recently developed bias correction for estimates of effective population size (N(e) based on linkage disequilibrium data (Waples and Do 2010; Waples 2006). The program reads genotypic data in standard formats and can accommodate an arbitrary number of samples, individuals, loci, and alleles, as well as two mating systems: random and lifetime monogamy. ldne calculates separate estimates using different criteria for excluding rare alleles, which facilitates evaluation of data for highly polymorphic markers such as microsatellites. The program also introduces a jackknife method for obtaining confidence intervals that appears to perform better than parametric methods currently in use.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/1347",
-  "title": "Contemporary effective population size estimated using the software program LDNe v1.0",
-  "id": 1347,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Matthew Campbell",
-  "ownerEmail": "matthew.campbell@idfg.idaho.gov"
-}

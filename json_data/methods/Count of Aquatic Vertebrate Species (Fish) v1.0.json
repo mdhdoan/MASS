@@ -1,9 +1,0 @@
-{
-  "abstractText": "This method describes how to count and collect aquatic vertebrate species.Thismethod can be used in together withID 1390 Backpack Electrofisher Fish CollectionID 115 Electrofishing- Determine ElectrofishersettingID 1551 Measuring Fish Length: Total LengthID 3824 Count of Aquatic Vertebrate SpeciesID 3835 Collection of Voucher specimensTogether theres methods method describes how to use a backpack electrofisher to detect the presence and relativeabundance of aquatic vertebrate species at each site for Washingtons Status and TrendsProgram. It applies to waded streams. This method requires measurement of the associatedphysical and chemical environmental variables described in other methods within this protocol.Three persons perform this activity: an electrofisher operator, a dip netter, and third person whomonitors and processes the animals collected. The netter should always be limited to 1 personfor consistency. Field supervisors and crew members must be trained prior to electrofishing. For fishing inwaters containing listed salmon or steelhead, the federal government (NOAA, 2000) hasspecialrequirements for field supervisors and crew members.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/3834",
-  "title": "Count of Aquatic Vertebrate Species (Fish) v1.0",
-  "id": 3834,
-  "type": "Data Collection",
-  "ownerName": "Glenn Merritt",
-  "ownerEmail": "glenn.merritt@ecy.wa.gov"
-}

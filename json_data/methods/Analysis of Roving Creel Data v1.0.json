@@ -1,9 +1,0 @@
-{
-  "abstractText": "In order to provide information on a fishery for optimal management, managers often implement creel surveys to assess the condition of a fishery. Creel surveys rely on data from interviews of anglers to determine metrics indicative of the quality or popularity of the fishery, such as angler effort or catch per unit effort (CPUE). In one type of creel survey, a roving creel survey, creel technicians survey anglers along a predetermined route.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/4231",
-  "title": "Analysis of Roving Creel Data v1.0",
-  "id": 4231,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Benjamin Cross",
-  "ownerEmail": "ben.cross@colvilletribes.com"
-}

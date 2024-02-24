@@ -1,9 +1,0 @@
-{
-  "abstractText": "Using Remote Sensing Imagery and ARC GIS software create a GIS layer Shapefile or Geodatabase for classification of river habitat for non native species use.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/6890",
-  "title": "Riverine Habitat Classification and Criteria. v1.0",
-  "id": 6890,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Russell Scranton",
-  "ownerEmail": "rwscranton@bpa.gov"
-}

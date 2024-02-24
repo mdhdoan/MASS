@@ -1,9 +1,0 @@
-{
-  "abstractText": "Because velocity and depth typically vary greatly across a stream, accuracy in field measurements is achieved by measuring the mean velocity and flow cross-sectional area of many increments across a channel (Figure 22). Each increment gives a subtotal of the stream discharge, and the whole is calculated as the sum of these parts. Discharge measurements are made at only one carefully chosen channel cross-section. It is important to choose a channel cross-section that is as much like a canal as possible. A glide area with a U-shaped channel cross-section that is free of obstructions provides the best conditions for measuring discharge. You may remove rocks and other obstructions to improve the cross-section before any measurements are made.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/847",
-  "title": "Stream Discharge v1.0",
-  "id": 847,
-  "type": "Data Collection",
-  "ownerName": "Boyd Bouwes",
-  "ownerEmail": "boydbouwes@gmail.com"
-}

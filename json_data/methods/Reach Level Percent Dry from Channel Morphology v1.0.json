@@ -1,9 +1,0 @@
-{
-  "abstractText": "To calculate reach level percent dry based onchannel morphology data. Reach level indicates a single value summary of numerous attributes of each stream reach.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/7018",
-  "title": "Reach Level Percent Dry from Channel Morphology v1.0",
-  "id": 7018,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "PNAMP Support",
-  "ownerEmail": "pnamp.mm@gmail.com"
-}

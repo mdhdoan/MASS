@@ -1,9 +1,0 @@
-{
-  "abstractText": "Smoltification is the process where a freshwater dwelling parrsalmonidprogresses through a series of physiologiclal, morphological and behavioral changes to become a seawater adapted smolt (Folmar and Dickhoff, 1980). A key test of smolt development is survival during the seawater challenge test. This test is adapted for different species and life-history types (Clarke and Blackburn, 1977). But the most commonly used protocol involves testing a set number of fish from a test group (i.e. 15-25 fish) and immersing them in a static bath of artificial seawater at 30-37ppt with air provided. Mortality is recorded after 24, 48 and/or 72 hours. The test is then repeated monthly to document change in the proportion of fish in a population or treatment group that are seawater adapted (smolted).",
-  "url": "http://www.monitoringresources.org/api/v1/methods/3815",
-  "title": "Juvenile salmon 24-72 hour seawater challenge v1.0",
-  "id": 3815,
-  "type": "Data Collection",
-  "ownerName": "Donald Larsen",
-  "ownerEmail": "don.larsen@noaa.gov"
-}

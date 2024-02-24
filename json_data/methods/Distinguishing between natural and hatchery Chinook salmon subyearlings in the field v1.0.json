@@ -1,9 +1,0 @@
-{
-  "abstractText": "Body morphology has been used extensively to distinguish closely related groups of salmonids (e.g., Taylor 1986; Swain et al. 1991; Tiffan et al. 2000; Busack et al. 2007). However, this typically requires extensive laboratory and statistical analyses that are usually not practical for field applications. Distinguishing between groups of fish in the field is facilitated by differences in coloration and spotting patterns (Bachman 1984; Behnke 1992) but can still result in low classification accuracy. For example, Weigel et al. (2002) separated westslope cutthroat troutOncorhynchus clarkii lewisiifrom cutthroat trout  rainbow trout O. mykiss hybrids with only 61% accuracy using coloration and spotting patterns. Similarly, Kennedy et al. (2009) reported theywere able to distinguish coastal cutthroatO. clarkii clarkiifrom steelhead (anadromous rainbow trout) with 47% accuracy using primarily coloration and spotting characteristics. Using body morphology to differentiate fish in the field is less common, but may be more practical in separating groups of fish, such as juvenile Chinook salmonO. tshawytscha, that vary more in size and shape than in coloration or spotting patterns. Tiffan and Connor (2011) evaluated the use of morphology as a field technique to rapidly and accurately distinguish natural and hatchery subyearling fall Chinook salmon (hereafter subyearlings) in the Snake River. Field personnel, using the methods of Tiffan and Connor (2011) correctly classified 89.9100% of natural subyearlings (N= 626) and 90.0100% of hatchery subyearlings (N= 867) in rearing areas from 2001 to 2008. Those methods are described here.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/5250",
-  "title": "Distinguishing between natural and hatchery Chinook salmon subyearlings in the field v1.0",
-  "id": 5250,
-  "type": "Data Collection",
-  "ownerName": "Kenneth Tiffan",
-  "ownerEmail": "ktiffan@usgs.gov"
-}

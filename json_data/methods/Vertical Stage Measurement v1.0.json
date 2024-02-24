@@ -1,9 +1,0 @@
-{
-  "abstractText": "Vertical stage measurements are obtained from mounted staff gauges. Most staff gauges are graduated in 0.01 feet increments. Staff gauges should be referenced to a known elevation so that stage measurements can be converted to an elevation (this allows for replacement of any damaged or destroyed staff gauges). See photo of a typical staff gauge.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/1672",
-  "title": "Vertical Stage Measurement v1.0",
-  "id": 1672,
-  "type": "Data Collection",
-  "ownerName": "Troy Baker",
-  "ownerEmail": "troy.baker@wwbwc.org"
-}

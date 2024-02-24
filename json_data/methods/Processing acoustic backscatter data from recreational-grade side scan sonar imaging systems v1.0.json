@@ -1,9 +1,0 @@
-{
-  "abstractText": "Raw acoustic backscatter data collected from recreational-grade side scan sonar imaging systems are stored in a file format unique to the brand of system being used. Processing of the raw data is required to produce imagery that can be interpreted by the human eye. Propreitary software exists that can read and produce georeferenced imagery (echograms) from backscatter data collectedfrom Garmin, Lowrance, and Humminbird systems.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/6819",
-  "title": "Processing acoustic backscatter data from recreational-grade side scan sonar imaging systems v1.0",
-  "id": 6819,
-  "type": "Data Collection",
-  "ownerName": "Reuben Smit",
-  "ownerEmail": "reuben.smit@spokanetribe.com"
-}

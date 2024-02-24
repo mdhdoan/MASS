@@ -1,9 +1,0 @@
-{
-  "abstractText": "Organisms have varying tolerances to water quality parameters such as temperature, salinity, turbidity, pH, and dissolved oxygen (OWEB 1999). Measuring variations in pre- and post-restoration water quality conditions are a direct measure of changes in habitat opportunity (Callaway et al. 2004), and are important for explaining floral and faunal changes that may accompany hydrologic reconnection. Increased circulation due to tidal reconnection may reduce excessive temperature and help maintain suitable DO levels. Increased salinity intrusion on a restored site can also determine vegetation community structure. As with water elevation (Protocol 1: Hydrology), we advocate the use of autonomous data logging equipment to measure water quality parameters. Some water level loggers also record temperature and/or salinity. While DO is an important metric, data collection is often problematic, therefore the minimum recommended core metric is temperature in tidal freshwater regimes, and temperature and salinity in estuarine habitats. Objective: To measure time series of water quality parameters at reference and restoration sites and relate to biotic changes",
-  "url": "http://www.monitoringresources.org/api/v1/methods/816",
-  "title": "Water Quality (temperature and salinity) Data Collection - Roegner et al. 2009 v1.0",
-  "id": 816,
-  "type": "Data Collection",
-  "ownerName": "Aaron  Borisenko",
-  "ownerEmail": "borisenko.aaron@deq.state.or.us"
-}

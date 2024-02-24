@@ -1,9 +1,0 @@
-{
-  "abstractText": "Microsatellite markers are short, tandem repeats of 2-6 basepairs in length. Many are evolutionarily neutral, and can be used to infer population genetic relationships among groups of conspecific organisms. Here we describe the methods used in our lab for genotypingOncorhynchus mykiss(steelhead and rainbow trout) with 13-15 microsatellite loci, 13 of which have been standardized among several labs (the SPAN loci)and used to create a Columbia River Basin genetic baseline.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/4002",
-  "title": "Microsatellite genotyping of Oncorhynchus mykiss using standardized SPAN loci v1.0",
-  "id": 4002,
-  "type": "Data Collection",
-  "ownerName": "Ewann Berntson",
-  "ownerEmail": "ewann.berntson@noaa.gov"
-}

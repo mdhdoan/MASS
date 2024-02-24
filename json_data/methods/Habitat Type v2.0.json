@@ -1,9 +1,0 @@
-{
-  "abstractText": "Habitat types are measurable physical characteristics about the environment relevant to a salmonid view of the stream (Lestelle et al., 2004). Because of the abundant heterogeneity of habitat types encountered in an aquatic system, the initial data collection effort for this parameter is labor intensive. Field practitioners must physically walk each reach, using a GPS to geo-reference each habitat type, and afterwards post-process the GPS data to create a map of the reach. See method 6919 Habitat Type - Post Processing for ArcGIS procedures.Habitat types are recorded in one of two formats, either as a polyline or a polygon and classified into channel pattern and type. The appropriate format is based upon the wetted/bankfull channel size and data collection precision and effort. The format chosen should be whichever of the two options will provide the most accurate representation of the relative habitat abundances for a stream section. In general, a polyline format is used on channels less than 20m bankfullwidth and a polygon format is used on larger channels. In some instances it may be appropriate to employ both formats during a single survey effort.All months are rated the same for this attribute, although it is recognized that the relative amount of this habitat type can change over a wide range of flow levels. When rating this attribute, a moderate flow level should be assumed. Habitat types are entered as a point estimate of the percentage of the stream reach wetted width for the particular habitat type.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/6910",
-  "title": "Habitat Type v2.0",
-  "id": 6910,
-  "type": "Data Collection",
-  "ownerName": "Sonya Schaller",
-  "ownerEmail": "sonya.schaller@colvilletribes.com"
-}

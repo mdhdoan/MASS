@@ -1,9 +1,0 @@
-{
-  "abstractText": "Road density: The plan includes road density and the riparian-road index (RRI) as indicators of roads within watersheds. Using remote sensing, investigators will measure the road density and riparian-road index within each watershed in which monitoring activities occur. Road density will be calculated with GIS as the total length (km) of roads within a watershed divided by the area (km^2) of the watershed. The riparian-road index will be calculated with GIS as the total kilometers of roads within riparian areas divided by the total number of stream kilometers within the watershed. WFC (1998) provides an example of calculating the riparian-road index in the Umpqua Basin. Both road density and the riparian-road index will be updated once every five years.Watershed disturbance: The plan includes both land ownership and land use as the two indicators of watershed disturbance. Using remote sensing techniques and available GIS layers, the investigator will map the spatial extent of land ownership and land uses within each watershed that includes monitoring reaches or sites. These indicators will be updated once every five years.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/40",
-  "title": "Watershed Condition v1.0",
-  "id": 40,
-  "type": "Data Collection",
-  "ownerName": "Tracy Hillman",
-  "ownerEmail": "tracy.hillman@bioanalysts.net"
-}

@@ -1,9 +1,0 @@
-{
-  "abstractText": "Channel types are used to differentiate the main channel from side channels. Unique channel type numbers within each segment are assigned to the main channel and all qualifying side channels in the sequential order in which they are encountered while working upstream (Figure 2).",
-  "url": "http://www.monitoringresources.org/api/v1/methods/6943",
-  "title": "Channel type classification v1.0",
-  "id": 6943,
-  "type": "Data Collection",
-  "ownerName": "Casey Justice",
-  "ownerEmail": "jusc@critfc.org"
-}

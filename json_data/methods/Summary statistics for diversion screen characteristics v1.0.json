@@ -1,9 +1,0 @@
-{
-  "abstractText": "While summary statistics are not performed for Diversion Screening Projects, these projects are evaluated based on a set of NOAAF compliance criteria. The following diversion screen characteristics are surveyed for Diversion Screening Projects:   Parallel Flow, Approach Velocity, Uniform Flow, Sweeping Velocity vs. Approach Velocity, Sweeping Velocity Decrease, Screen Mesh Size, Circular Screens, Slotted Screens, Square Screens: Square screen face openings must not exceed 3/32 inch on a diagonal, Corrosion Resistant, Gaps,   Maximum Withdrawal, Debris Accumulation, and Clearance.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/296",
-  "title": "Summary statistics for diversion screen characteristics v1.0",
-  "id": 296,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Jennifer O'Neal",
-  "ownerEmail": "jen@naturaldes.com"
-}

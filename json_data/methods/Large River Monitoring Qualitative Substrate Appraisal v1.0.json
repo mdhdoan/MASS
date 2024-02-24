@@ -1,9 +1,0 @@
-{
-  "abstractText": "Standardizing sampling effort, techniques, and gear is critical to allow for comparisons of data among field stations.A suite of environmental measurements are recorded at every site immediately before sampling for fishes. Measurements or observations are taken at the anticipated midpoint of a run (electrofishing, trawling) or at the net location for sampling locations with stationary gear (fyke netting, hoop netting).Identifying substrate, even with qualitative appraisal, can be useful in understanding the local food web as well as potential changes in the food web over time. The structure and composition of benthic macroinvertebrate communities, an important element of the food web,are often determined greatly by physical traits of the substrate (Simpson et al. 1986). Substrate appraisal is essential duringlong term monitoring as rivers' structurallychange either naturally or anthropogenically (channelization). Physical structure changes of the channel for flood mitigation or similar purposes often homogenizesubstrates and almost withoutfail have led to changes in the composition of the biotic community inhabiting the river, usually with areduction in the biological diversity (Maddock 1999).",
-  "url": "http://www.monitoringresources.org/api/v1/methods/5534",
-  "title": "Large River Monitoring Qualitative Substrate Appraisal v1.0",
-  "id": 5534,
-  "type": "Data Collection",
-  "ownerName": "Sam Cimino",
-  "ownerEmail": "scimino@usgs.gov"
-}

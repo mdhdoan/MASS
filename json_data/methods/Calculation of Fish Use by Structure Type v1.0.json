@@ -1,9 +1,0 @@
-{
-  "abstractText": "Fish utilizing structures within the stream are documented during fish sampling. The number fish observed using each structure type are summed, and reported as (number of fish / structure type). The total number of fish using each type of structure provides information on the preference of different structures by fish. The use of structures installed as part of restoration can help report fish utilization of restoration. Structure types include: natural wood, placed wood, natural bolder, placed bolder, natural off-channel, created off-channelFish sampling methods follow:Estimating Instream Juvenile Salmonid Abundance Using Snorkeling v1.0(ID: 197) https://www.monitoringmethods.org/Method/Details/197orEstimating Instream Juvenile Salmonid Abundance Using Electrofishing v1.0 (ID 196)https://www.monitoringmethods.org/Method/Details/196",
-  "url": "http://www.monitoringresources.org/api/v1/methods/4166",
-  "title": "Calculation of Fish Use by Structure Type v1.0",
-  "id": 4166,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Colin Riordan",
-  "ownerEmail": "colin@naturaldes.com"
-}

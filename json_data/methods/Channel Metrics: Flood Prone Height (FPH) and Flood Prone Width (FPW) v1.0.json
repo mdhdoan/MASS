@@ -1,9 +1,0 @@
-{
-  "abstractText": "Based on historic gage station readings, flood prone height (FPH) and flood pronewidth (FPW) provide a clear representation of the big event (approximately onceevery fifty years) flooding potential of a stream in a particular reach. Landformalso provides clues to this potential, but without the numerical designations",
-  "url": "http://www.monitoringresources.org/api/v1/methods/3864",
-  "title": "Channel Metrics: Flood Prone Height (FPH) and Flood Prone Width (FPW) v1.0",
-  "id": 3864,
-  "type": "Data Collection",
-  "ownerName": "Charlie Stein",
-  "ownerEmail": "charlie.stein@oregonstate.edu"
-}

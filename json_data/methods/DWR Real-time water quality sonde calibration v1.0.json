@@ -1,9 +1,0 @@
-{
-  "abstractText": "The Department of Water Resources is mandated to collect real-time (e.g. 15-min interval) water quality data at key sites in the the San Francisco Bay Delta in compliance with Water Resources Decision D-1641. This method details the procedure for calibrating water quality sondesprior to deployment for real time monitoring.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/7100",
-  "title": "DWR Real-time water quality sonde calibration v1.0",
-  "id": 7100,
-  "type": "Data Collection",
-  "ownerName": "John Franco Saraceno",
-  "ownerEmail": "JOHNFRANCO.SARACENO@WATER.CA.GOV"
-}

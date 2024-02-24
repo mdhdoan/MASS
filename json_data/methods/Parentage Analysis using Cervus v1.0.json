@@ -1,9 +1,0 @@
-{
-  "abstractText": "This method describes the use of Cervus software to do genetic parentage analysis. Cervus is a computer program for assignment of parents to their offspring using genetic markers. Cervus uses likelihood, a well-established statistical method for parentage analysis, to assign parentage. Cervus analyses genetic data from co-dominant genetic markers such as microsatellites (STRs), SNPs and allozymes.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/1430",
-  "title": "Parentage Analysis using Cervus v1.0",
-  "id": 1430,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Christine Kozfkay",
-  "ownerEmail": "christine.kozfkay@idfg.idaho.gov"
-}

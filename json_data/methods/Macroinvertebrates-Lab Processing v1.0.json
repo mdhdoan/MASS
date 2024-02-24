@@ -1,9 +1,0 @@
-{
-  "abstractText": "This method describes the laboratory processing of macroinvertebrate samples and was originally written to describe benthic sample processing for both sample biomass and taxonomic identification. This method is appropriate for both benthic and drift macroinvertebrate lab processing.Macroinvertebrate assemblages integrate stressor effects over the course of the year, and their seasonal cycles of abundance and taxa composition are fairly predictable within the limits of interannual variability.Sampling methods have primarily been designed to quantify abundances of drifting and benthic macroinvertebrates based on their importance as a food resource for lotic salmonids.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/5316",
-  "title": "Macroinvertebrates-Lab Processing v1.0",
-  "id": 5316,
-  "type": "Data Collection",
-  "ownerName": "Carol Volk",
-  "ownerEmail": "carol@southforkresearch.org"
-}

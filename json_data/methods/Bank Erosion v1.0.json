@@ -1,9 +1,0 @@
-{
-  "abstractText": "Bank erosion is a measure of the proportion of the reach containing actively eroding stream banks. As part of restoration or conservation efforts, control and reduction of bank erosion may be desired, such as part of Livestock Fencing projects.At each transect we measure the lineal extent of erosion in meters along the left and right banks, as described in Method ID: 4100.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/5279",
-  "title": "Bank Erosion v1.0",
-  "id": 5279,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Rachael Katz",
-  "ownerEmail": "rachael.katz@tetratech.com"
-}

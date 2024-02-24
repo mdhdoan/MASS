@@ -1,9 +1,0 @@
-{
-  "abstractText": "A three-dimensional digital elevation model (DEM) representing the topographic surface of the stream channel is created by connecting a series of points and lines that have X, Y, and Z coordinates. During the survey of a site, the job of the person operating the rod is to effectively and efficiently survey points and lines that will collectively represent the channel topography. The points selected by this person determine the ultimate utility of the site survey and should be done carefully. Lines are used to represent visible contours in the stream channel topography, and offer an efficient way to capture features including the thalwag, bankfull, toe of bank, and top of bank. Lines are also used to represent the water?s edge and the survey extent. Topographic points are used to capture additional changes in relief that are not captured by lines. Use the following descriptions of point and line types to conduct an efficient survey of the stream?s topography throughout the site. The codes for each of the point and line types described are listed in Table 13.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/836",
-  "title": "Topographic Point Collection v1.0",
-  "id": 836,
-  "type": "Data Collection",
-  "ownerName": "Steve Rentmeester",
-  "ownerEmail": "steve@sitkatech.com"
-}

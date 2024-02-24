@@ -1,9 +1,0 @@
-{
-  "abstractText": "Drift samples will be taken in riffle (fast-water) habitat at the upstream end of the sampling reach. Two nets are deployed at each site. Drift nets become difficult to maintain at extremely high flow and inefficient at extremely low flow. Velocities ranging between 0.3 and 0.6 m/s are ideal for drift sample collections. 2. Drift sampling should begin in the early afternoon. Sampling should end prior to low-light periods around dusk, as drift rates are highly dependent on light intensity. Strive for a sampling duration of roughly 3 hours and watch for net clogging. Invertebrates and organic matter are decanted, stored in ethanol and sorted in the lab. It is essential to record start times, end times, and velocities of each net.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/235",
-  "title": "Macroinvertebrates-Drift Field Sampling v1.0",
-  "id": 235,
-  "type": "Data Collection",
-  "ownerName": "Carol Volk",
-  "ownerEmail": "carol@southforkresearch.org"
-}

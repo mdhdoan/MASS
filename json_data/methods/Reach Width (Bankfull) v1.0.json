@@ -1,9 +1,0 @@
-{
-  "abstractText": "Reach width is calculated as the average bankfull width of the reach. Five bankfull measurements of bankfull widths (in meters) are taken during site layout to determine the reach length. Bankfullwidth measurement methdologyis described in:AEM Site Layout #1 v1.0(ID:4073) .",
-  "url": "http://www.monitoringresources.org/api/v1/methods/4103",
-  "title": "Reach Width (Bankfull) v1.0",
-  "id": 4103,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Colin Riordan",
-  "ownerEmail": "colin@naturaldes.com"
-}

@@ -1,9 +1,0 @@
-{
-  "abstractText": "Method describing the establishment of a non-monumented site. Non monumented sites have coordinate information but do not have permanent marker information associated with the site (e.g. rebar, bearing trees, reference locations, etc). Sites should have established site names, latitudes and longitudes, watersheds, subbasin and streamnames associated with them. Start and stop coordinates of sites or site lengths are also required if data is colllected in multiple places within a site.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/323",
-  "title": "Site Establishment-Not Monumented v1.0",
-  "id": 323,
-  "type": "Data Collection",
-  "ownerName": "Carol Volk",
-  "ownerEmail": "carol@southforkresearch.org"
-}

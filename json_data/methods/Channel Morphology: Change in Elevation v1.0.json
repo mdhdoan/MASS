@@ -1,9 +1,0 @@
-{
-  "abstractText": "Stream gradient is the average slope of the waters surface measured from the start of the site to the end of the site. To obtain gradient we use the change in elevation measured between left wetted at Transect A and left wetted at Transect K.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/3810",
-  "title": "Channel Morphology: Change in Elevation v1.0",
-  "id": 3810,
-  "type": "Data Collection",
-  "ownerName": "Stephanie Miller",
-  "ownerEmail": "stephaniemiller@fs.fed.us"
-}

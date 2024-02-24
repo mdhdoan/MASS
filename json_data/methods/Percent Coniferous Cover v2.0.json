@@ -1,9 +1,0 @@
-{
-  "abstractText": "Estimate of the percent coniferous cover.Estimates taken at 5 transects (1, 6, 11, 16, 21) on the right and left bank (RB and LB) within a10mx10mplot beginning atbankfull. Percent of the understory and canopy covered by woody conifers visually estimated for each plot. Site estimate ofconifer coverage is an average of the estimates from each of these 10 plots.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/1731",
-  "title": "Percent Coniferous Cover v2.0",
-  "id": 1731,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Carol Volk",
-  "ownerEmail": "carol@southforkresearch.org"
-}

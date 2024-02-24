@@ -1,9 +1,0 @@
-{
-  "abstractText": "This survey method describes information related to spawning ground survey events.  Important characteristics that are captured during the survey event include the date and time of the survey, GPS unit, crew members, and general environmental conditions, notably water temperature at the start of the survey, water visibility, and cloud cover.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/287",
-  "title": "Spawning Survey-Survey Event v1.0",
-  "id": 287,
-  "type": "Data Collection",
-  "ownerName": "Josh McCormick",
-  "ownerEmail": "Josh.L.Mccormick@state.or.us"
-}

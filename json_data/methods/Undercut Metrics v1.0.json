@@ -1,9 +1,0 @@
-{
-  "abstractText": "The total area or volume of undercut banks across a site.Undercut banks aresections where the perennial vegetation forms a denseroot mat. Feel up beneath this root mat and estimate the upper extentof the undercut. This is usually slightly belowbankfullstage. Bankundercuts are best used as indicators in steep channels lackingfloodplains.Qualifying undercut banks are continuous cave like features that must have an averagewidth10cm, and a length1m.Undercut width is measured as the horizontal distancefrom the top of the overhanging bank to the back wall of the undercut.Undercut length is measured along the edge of water. Widths and depths are measured at three equidistant locations.Undercut area is calculated as the length*width of each undercut, then summed across the site.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/1732",
-  "title": "Undercut Metrics v1.0",
-  "id": 1732,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Carol Volk",
-  "ownerEmail": "carol@southforkresearch.org"
-}

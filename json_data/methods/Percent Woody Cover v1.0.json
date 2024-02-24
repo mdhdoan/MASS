@@ -1,9 +1,0 @@
-{
-  "abstractText": "Estimate of the percent woody cover.Estimates of woody cover are taken at 5 transects (1, 6, 11, 16, 21) on the right and left bankwithin a10mx10mplot beginning atbankfull. Estimates are made of the percent of woody cover forthegroundstory (woody shrubs), understory (woody shrubs) and canopy cover (big trees + small trees). These estimates are summed togetherand, therefore, values range from 0-300. A site-wide estimate is made by averaging the scores from each of the ten plots.The CHaMP - Riparian Structure Method provides background on the measurements that are analyzed for this calculation. See - http://www.monitoringmethods.org/Method/Details/845 CHaMP method follows the Peck et al. (2001) methods used by the EMAP.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/1247",
-  "title": "Percent Woody Cover v1.0",
-  "id": 1247,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Carol Volk",
-  "ownerEmail": "carol@southforkresearch.org"
-}

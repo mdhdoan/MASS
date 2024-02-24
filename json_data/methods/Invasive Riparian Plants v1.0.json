@@ -1,9 +1,0 @@
-{
-  "abstractText": "This method is derived from an Environmental Monitoring and Assessment Program (EMAP) protocol developed for monitoring western wadable streams. Included in this method are instructions for setting up vegetation plots to examine riparian areas for the prescence of invasive plant species.A trend of increasing concern along streams in many parts of the Western U.S. is the invasion of alien (nonnative) tree, shrub, and grass species. The plant assemblages that result from such invasions can substantially alter stream ecosystems and/or negatively influence the economic value of the land they occupy (Pimentel et al. 2000, 2005). Riparian areas are particularly susceptible to invasions because of both natural and human-induced disturbance regimes, and the connectivity of the stream network (Nilsson and Svedmark 2002, Brown and Peet 2003). Determining the extent and severity of invasions provides some perspective on how different least disturbed (best of what is left) and minimally disturbed (unaltered) aquatic systems are in the western U.S.Twelve species were selected as target species for this method including:Canada thistle, giant reed, Himalayan blackberry, leafy spurge, musk thistle, English ivy, reed canarygrass, Russian-olive, salt cedar, cheatgrass, teasel, and common burdock.  Different combinations of the twelve species were developed for each individual State (Table 8-1).",
-  "url": "http://www.monitoringresources.org/api/v1/methods/87",
-  "title": "Invasive Riparian Plants v1.0",
-  "id": 87,
-  "type": "Data Collection",
-  "ownerName": "Jacque Schei",
-  "ownerEmail": "jschei@usgs.gov"
-}

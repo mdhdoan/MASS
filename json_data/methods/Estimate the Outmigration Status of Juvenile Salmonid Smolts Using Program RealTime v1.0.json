@@ -1,9 +1,0 @@
-{
-  "abstractText": "Program RealTime is a statistical software program developed by the University of Washington and funded by the Bonneville Power Administration to predict run timing of individual stocks of outmigrating juvenile salmonid smolts through the Snake and Columbia River hydrosystem. Since the 1994, Program RealTime has provided inseason predictions of smolt outmigration timing for individual and aggregates of threatened and endangered Snake River salmon stocks, and, since 2000, of listed Mid-Columbia River stocks. These predictions are publicly available to the fisheries community through the internet to assist inseason river management in real time throughout the course of the smolt outmigration.Program RealTime usesPIT-tagdata to forecast arrival distributions, historical timing, transport, and survival for Snake River yearling Chinook, steelhead, subyearling Chinook, sockeye, and coho salmon at Lower Granite, Little Goose, Lower Monumental, Ice Harbor, and McNary dams. Forecasts are based on PIT-tag detections at Lower Granite Dam. Program RealTime also usespassage indicesfor runs-at-large to provide arrival distributions and historical timing for combined stocks of yearling Chinook salmon, steelhead, subyearling Chinook, sockeye, and coho salmon at Rock Island, Lower Granite, McNary, John Day, and Bonneville dams. Forecasts are based on FPC passage indices at each dam.End-of-season evaluations for our inseason predictions are reported annually in the BPA technical report series, Monitoring and Evaluation of Smolt Migration in the Columbia Basin, available through Pisces (Townsend et al. 2011).",
-  "url": "http://www.monitoringresources.org/api/v1/methods/684",
-  "title": "Estimate the Outmigration Status of Juvenile Salmonid Smolts Using Program RealTime v1.0",
-  "id": 684,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "John Skalski",
-  "ownerEmail": "skalski@uw.edu"
-}

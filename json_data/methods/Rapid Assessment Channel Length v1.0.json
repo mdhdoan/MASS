@@ -1,9 +1,0 @@
-{
-  "abstractText": "Channel length is the length of the primary channel contained with the stream reach along the thalweg. Mapping of the location of the channel along its length is also used to determine the geographic locations of each reach and to ground-truth the boundaries of the reach. Length of channel is given for the main channel only multiple channels do not add length. Length is measured to the 0.1 ft (0.03m).",
-  "url": "http://www.monitoringresources.org/api/v1/methods/3958",
-  "title": "Rapid Assessment Channel Length v1.0",
-  "id": 3958,
-  "type": "Data Collection",
-  "ownerName": "Sonya Schaller",
-  "ownerEmail": "sonya.schaller@colvilletribes.com"
-}

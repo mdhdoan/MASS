@@ -1,9 +1,0 @@
-{
-  "abstractText": "Obstructions to fish passage are the physical barriers that prevent passage of salmonids at their different life stages. Obstructions referred to in this method do not include dewatering or water quality factors. Potential obstructions include culverts, non-culvert road crossings, natural barriers and fishways. Obstructions are rated as a 0 (complete impediment) or a 1 (no impediment) for each salmonid life stage. The obstructions are mapped along the reach, resulting in a cumulative rating for the reach.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/3967",
-  "title": "Obstructions to Fish Migration v1.0",
-  "id": 3967,
-  "type": "Data Collection",
-  "ownerName": "Sonya Schaller",
-  "ownerEmail": "sonya.schaller@colvilletribes.com"
-}

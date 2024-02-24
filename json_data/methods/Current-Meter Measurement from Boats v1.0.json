@@ -1,9 +1,0 @@
-{
-  "abstractText": "Streamflow, or discharge, is defined as the volume rate of flow of water, including any substances suspended or dissolved in the water. Discharge is usually expressed in cubic feet per second or cubic meters per second. Discharge measurements are made at each gaging station to determine the discharge rating for the site. The discharge rating may be a simple relation between stage and discharge or a more complex relation in which discharge is a function of stage, slope, rate of change of stage, or other factors. Initially the discharge measurements are made with the frequency necessary to define the station rating, as early as possible, over a wide range of stage. Measurements are then made at periodic intervals, usually monthly, to verify the rating or to define any changes in the rating caused by changes in streamchannel conditions. The conventional current-meter method is most commonly used in gaging streams. When using this method, observations of width, depth, and velocity are taken at intervals in a cross section of the stream, while the hydrographer is wading or supported by a cableway, bridge, ice cover, or boat. A current meter is used to measure velocity.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/5436",
-  "title": "Current-Meter Measurement from Boats v1.0",
-  "id": 5436,
-  "type": "Data Collection",
-  "ownerName": "PNAMP Support",
-  "ownerEmail": "pnamp.mm@gmail.com"
-}

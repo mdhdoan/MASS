@@ -1,9 +1,0 @@
-{
-  "abstractText": "Calculate the total surface area (m) of fast water channel units within the survey reach (FastArea)as a measure of fast water habitat quantity.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/6980",
-  "title": "Fast water area v1.0",
-  "id": 6980,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Casey Justice",
-  "ownerEmail": "jusc@critfc.org"
-}

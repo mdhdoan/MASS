@@ -1,9 +1,0 @@
-{
-  "abstractText": "We used Cormack-Jolly-Seber (CJS) methods to estimate survival rates through reaches based on detections at dams (Cormack 1964, Jolly 1965, Seber 1965, Burnham et al. 1987). We developed an approach for estimating instantaneous mortality rates for juvenile salmonids (Schaller et al. 2007, Tuomikoski et al. 2009). Ricker (1975) provides a numerical characterization of survival, also known as the exponential law of population decline (Quinn and Deriso 1999):",
-  "url": "http://www.monitoringresources.org/api/v1/methods/1678",
-  "title": "PIT based Juvenile Mortality Estimates v1.0",
-  "id": 1678,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Erin Cooper",
-  "ownerEmail": "ecooper@fpc.org"
-}

@@ -1,9 +1,0 @@
-{
-  "abstractText": "Scale samples are collected from a sample of natural origin adult salmon and steelhead trout to estimate age composition. NOAA recommends that to demonstrate ESU/DPS viability, annual documentation of a variety of biological parameters (including adult abundance, age distribution, sex ratio, length, and run timing) is needed at the population, major population grouping, and ESU/DPS level for each listed species (Crawford and Rumsey 2011). Detailed instructions for this method are provided below.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/1366",
-  "title": "Obtaining scale samples from adult steelhead and salmon v1.0",
-  "id": 1366,
-  "type": "Data Collection",
-  "ownerName": "Matthew Campbell",
-  "ownerEmail": "matthew.campbell@idfg.idaho.gov"
-}

@@ -1,9 +1,0 @@
-{
-  "abstractText": "We used two multivariate methods to summarize and analyze the relationship between ocean indicators and adult salmon returns. First, we used a standard statistical method called PrincipalComponent Analysis (PCA) to condense the numerous indicators into one metric and regressed this metric against adult returns. Second, we used a similar approach called Maximum Covariance Analysis (MCA), again using the resulting summary metric in a regression against adult returns.The strength of this approach is that biological indicators are directly linked to the success of salmon during their first year at sea through foodchain processes. These biological indicators, coupled with physical oceanographic data, offer new insight into the mechanisms that lead to success or failure for salmon runs.In addition to forecasting salmon returns, the indicators may be of use to those trying to understand how variations in ocean conditions might affect recruitment of fish stocks, seabirds, and other marine animals.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/4110",
-  "title": "NWFS_Center_Ocean Multivariate Analyses of Indicator Data v1.0",
-  "id": 4110,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Cheryl Morgan",
-  "ownerEmail": "cheryl.morgan@oregonstate.edu"
-}

@@ -1,9 +1,0 @@
-{
-  "abstractText": "This method of drawing meaningful conclusions fromdata collected by a rotary screw trap involves using a mark-recapture procedure and extrapolating the results through a Lincoln-Peterson estimator with a Chapman modifier.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/5519",
-  "title": "Rotary Screw Trap Mark-Recapture Salmonid Outmigration Abundance Estimate v1.0",
-  "id": 5519,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "John Rohrback",
-  "ownerEmail": "john.rohrback@colvilletribes.com"
-}

@@ -1,9 +1,0 @@
-{
-  "abstractText": "Chlorophyll is the photosynthetic pigment in found in plants, including phytoplankton. There are three major forms of chlorophyll:a,b, andc. While all three forms are able to capture light, only chlorophylla(chla) is able convert this energy to chemical energy via photosynthesis(Horne and Goldman 1994). Chlaconcentrations are often used by researchers or lake managers as an index of the standing stock of phytoplankton. High levels ofchlacan be considered indicators of reduced water quality due to nuisancealgal blooms. Chlaconcentrations have also been used as an index of lake productivity (Rieman and Myers 1992).This methods describes a field technique for collecting chlasamples to be analyzed by a contracting lab. Samples can then be analyzedusing eitherspectrophotometric,fluorometricorhigh performance liquid chromatography methods.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/3930",
-  "title": "Limnological survey- Collecting Chlorophyll v1.0",
-  "id": 3930,
-  "type": "Data Collection",
-  "ownerName": "Sean Wilson",
-  "ownerEmail": "sean.wilson@idfg.idaho.gov"
-}

@@ -1,9 +1,0 @@
-{
-  "abstractText": "Channel units are relatively homogeneous lengths of stream channel with similar water surface gradient, substrate composition, flow characteristics, and bedform profile. The identification of channel units provides the context for the survey of fish habitat attributes and channel topography. Channel units are delineated according to a two-tiered hierarchical classification schema (Fig 11). The following criteria should be used when considering sections of channel for delineation as unique channel units: 1. In general, channel units are at least as long as the wetted channel width. 2. Slow water units separated by a small gradient drop should have a unit between them even if it is not as long as it is wide. 3. In large streams (> width category 10) slow water unit types (scour pools and off-channel units) that provide significant fish habitat that are not as long as the wetted channel is wide should also be considered for unit delineation. 4. Falls, steps, and plunge pools are rarely as long as the wetted channel width, but should be delineated as separate channel units due to their importance as fish habitat and areas of topographic complexity.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/834",
-  "title": "Channel Unit Classification v1.0",
-  "id": 834,
-  "type": "Data Collection",
-  "ownerName": "Boyd Bouwes",
-  "ownerEmail": "boydbouwes@gmail.com"
-}

@@ -1,9 +1,0 @@
-{
-  "abstractText": "Residence time is the amount of time a fish spends in a particular study area and can be measured using telemetry data or PIT tag detections.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/5333",
-  "title": "Calculate residence time v1.0",
-  "id": 5333,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Ryan Hardy",
-  "ownerEmail": "ryan.hardy@idfg.idaho.gov"
-}

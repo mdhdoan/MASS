@@ -1,9 +1,0 @@
-{
-  "abstractText": "The purpose of this method is to describe theanalysis of prey fishconsumed by fish predators.The information produced by this method could be used to derive descriptive summary statistics of prey fish consumed by predators as well as more involved analyses of estimating the loss of particular prey fish due to predation. This method would apply when analyzing the diets of piscine predators such as smallmouth bass, northern pikeminnow, and channel catfish. This method assumes that stomach samples have been collected and stored in sample containers with a preservative or frozen. The method described is for smallmouth bass stomach samples, but can be customized for other species.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/3822",
-  "title": "Analysis of fish prey from predator diets v1.0",
-  "id": 3822,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Kenneth Tiffan",
-  "ownerEmail": "ktiffan@usgs.gov"
-}

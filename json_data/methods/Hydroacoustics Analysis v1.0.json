@@ -1,9 +1,0 @@
-{
-  "abstractText": "This method describes how we analyze data collected during hydroacoustics surveys to estimate fish abundance. We use these abundances for many of the other calculations completed annually for fish.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/1079",
-  "title": "Hydroacoustics Analysis v1.0",
-  "id": 1079,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Pete Rust",
-  "ownerEmail": "Pete.Rust@idfg.idaho.gov"
-}

@@ -1,9 +1,0 @@
-{
-  "abstractText": "This method is used to obtain a wet weight on live fish. It can be applied to many different fish species. Measurement error is minimized by gently removing excess water from fish prior to measurement.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/1734",
-  "title": "Fish wet weight v1.0",
-  "id": 1734,
-  "type": "Data Collection",
-  "ownerName": "Chris Tatara",
-  "ownerEmail": "chris.p.tatara@noaa.gov"
-}

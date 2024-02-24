@@ -1,9 +1,0 @@
-{
-  "abstractText": "To measure water depth along the thalweg for the entire sample reach. The spacing between thalweg depth measurements is determined as a function of stream width.Note thalweg measurements should not be taken on side channels or in pools on the side of the main channel that the thalweg does not flow through.Guidance for determining where to measure thalweg depths:Once the thalweg is identified, the distance between thalweg measurements is determined by the width of the stream. Follow these rules to determine the appropriate distance between measurements:For bankfull widths  2 m, measure thalweg depth every 0.5 m (30 measurements between main transects).For bankfull widths > 2 and  5 m, measure thalweg depth every 1 m (15 measurements between main transects)For bankfull widths > 5 m, measure thalweg depth at increments equal to 1/10 of the distance between transects (10 measurements between main transects). For example, a 400-m reach would have 40 m between each main transect, and therefore, thalweg measurements should be taken every 4 m.Note that thalweg depths are only measured along the main channel even if a side channel exists.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/7008",
-  "title": "Thalweg Depth Profile v1.0",
-  "id": 7008,
-  "type": "Data Collection",
-  "ownerName": "PNAMP Support",
-  "ownerEmail": "pnamp.mm@gmail.com"
-}

@@ -1,9 +1,0 @@
-{
-  "abstractText": "Calculate channel sinuosityas needed for calculation of river complexity index (RCI).",
-  "url": "http://www.monitoringresources.org/api/v1/methods/6958",
-  "title": "Sinuosity v1.0",
-  "id": 6958,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Casey Justice",
-  "ownerEmail": "jusc@critfc.org"
-}

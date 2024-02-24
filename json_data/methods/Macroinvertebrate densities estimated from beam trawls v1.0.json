@@ -1,9 +1,0 @@
-{
-  "abstractText": "This applies to macroinvertebrates collected with a 2-m beam trawl, which is towed along the river bottom for some specified distance. This method is useful for calculating the density of benthic organismsbased on the number of organisms collected and the area sampled. Density information can be used to identify suitable habitat and monitor trends in population abundance over time.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/3820",
-  "title": "Macroinvertebrate densities estimated from beam trawls v1.0",
-  "id": 3820,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Kenneth Tiffan",
-  "ownerEmail": "ktiffan@usgs.gov"
-}

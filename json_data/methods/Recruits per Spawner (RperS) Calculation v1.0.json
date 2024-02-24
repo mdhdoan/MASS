@@ -1,9 +1,0 @@
-{
-  "abstractText": "Recruits per Spawner or RperSis a ViableSalmonidPopulation (VSP) indicator that is used to inform NOAA in making management decisions for ESA listed salmonids.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/5411",
-  "title": "Recruits per Spawner (RperS) Calculation v1.0",
-  "id": 5411,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "PNAMP Support",
-  "ownerEmail": "pnamp.mm@gmail.com"
-}

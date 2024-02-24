@@ -1,9 +1,0 @@
-{
-  "abstractText": "Spawning habitat is important for the reproduction of salmon species, and monitoring the amount of spawning habitat is desired for monitoring stream restoration projects where the goal is to increase the amount of spawning habitat, or to ensure restoration actions are not negatively affecting the amount of spawning habitat.Total area of spawning habitat for targetsalmonidspecies. The area of spawning habitat is calculated using predetermined spawning habitat preference curves and velocity and depth outputs from a hydraulic model. The hydraulic model is set to flow at the time of the survey, and the resulting data is mapped areas suitable for spawning habitat.Forhydraulic modeling method information, see Hydraulic Modeling for Analysis of Floodplain Habitat v1.0 (https://www.monitoringmethods.org/Method/Details/1764).Spawningsuitability curves for depth andvelocity have been developed for the Washington State Department of Ecology (Ecology) and Washington Department of Fish and Wildlife (WDFW) Instream Flow Study Guidelines (Ecology and WDFW 2004). Basin specific suitability curves may also be used were they have been developed.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/5278",
-  "title": "Calculating Amount of Spawning Habitat v1.0",
-  "id": 5278,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Rachael Katz",
-  "ownerEmail": "rachael.katz@tetratech.com"
-}

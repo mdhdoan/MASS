@@ -1,9 +1,0 @@
-{
-  "abstractText": "This method describes the process of filtering raw radio telemetry detection data to create valid telemetry detection events of animals. Specifically, this method is for filtering of radio telemetry data collected using Lotek SRX400 and SRX600 radio telemetry receivers.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/4229",
-  "title": "Validating telemetry detections v1.0",
-  "id": 4229,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Brian Bellgraph",
-  "ownerEmail": "brian.bellgraph@pnnl.gov"
-}

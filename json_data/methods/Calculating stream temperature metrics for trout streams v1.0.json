@@ -1,9 +1,0 @@
-{
-  "abstractText": "Continuous stream temperatures can be summarized using generalized metrics (e.g., mean and maximum values) that facilitate comparisons across stream reaches and over time. These comparisons can permit examination of stream reaches where sub-optimal water quality exists for salmonids, or can permit evaluations of whether implemented restorative actions are improving thermal conditions for rearing salmonids. The metrics that are used for these comparisons are mean temperature, mean of daily maximum temperature, and the percent time stream temperatures exceed a threshold limit. For example, in streams that support westslope cutthroat trout populations, we chose to use a threshold limit of 17C, which has been considered an upper limit for optimal cutthroat trout growth (Bear et al. 2007). These metrics are computed over the months of July and August given that these two months are consistently the warmest months and thus yield insight into how thermal conditions are declining or improving in rearing habitats for salmonidsin monitored streams.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/6575",
-  "title": "Calculating stream temperature metrics for trout streams v1.0",
-  "id": 6575,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Jon Firehammer",
-  "ownerEmail": "jfirehammer@cdatribe-nsn.gov"
-}

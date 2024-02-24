@@ -1,9 +1,0 @@
-{
-  "abstractText": "Several different equations exist for conducting mark-recapture population estimates with the simplest being the Peterson index. However, this estimate can be biased if few fish are sampled. Therefore, we use the Chapman modification which is used when sampling is done without replacement (i.e., fish are removed after being examine for marks). This method describes how we use the Chapman estimator to analyze data collected from mark-recapture population estimates and calculate population and exploitation estimates in Lake Pend Oreille.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/1077",
-  "title": "Population Estimate Analysis-Chapman Modification of Petersen Index v1.0",
-  "id": 1077,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Pete Rust",
-  "ownerEmail": "Pete.Rust@idfg.idaho.gov"
-}

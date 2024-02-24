@@ -1,9 +1,0 @@
-{
-  "abstractText": "To take a single grab sample from streams that will be analyzed for total nitrogen and phosphorous, and stabilize the sample with concentrated sulfuric acid. Duplicate and blank samples should be collected for 10% of reaches where total nitrogen and total phosphorous samples are collected. Samples are frozen upon return to the office.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/7023",
-  "title": "Total Nitrogen and Total Phosphorous using grab samples v1.0",
-  "id": 7023,
-  "type": "Data Collection",
-  "ownerName": "PNAMP Support",
-  "ownerEmail": "pnamp.mm@gmail.com"
-}

@@ -1,9 +1,0 @@
-{
-  "abstractText": "PIT tag antennas are commonly located at multiple sites providing detection data that can be used to estimate travel times and migration rates. An estimate of travel time between sites can be obtained by subtracting the first detection time at an upstream site by the last detection at a previously passed site. The distance between the sites in question can be divided by the travel time to estimate a migration rate.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/3927",
-  "title": "Estimate migration rate between PIT tag sites v1.0",
-  "id": 3927,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Jeffrey Fryer",
-  "ownerEmail": "fryj@critfc.org"
-}

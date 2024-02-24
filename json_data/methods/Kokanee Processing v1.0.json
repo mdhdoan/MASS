@@ -1,9 +1,0 @@
-{
-  "abstractText": "Kokanee captured during trawling events are used for several different calculations including hatchery and wild components, age structure, maturity, and size structure. This method describes how we collect samples and data from kokanee caught during trawling that are needed for these calculations.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/1620",
-  "title": "Kokanee Processing v1.0",
-  "id": 1620,
-  "type": "Data Collection",
-  "ownerName": "Pete Rust",
-  "ownerEmail": "Pete.Rust@idfg.idaho.gov"
-}

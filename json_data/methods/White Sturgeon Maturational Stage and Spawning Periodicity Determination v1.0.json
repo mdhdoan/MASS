@@ -1,9 +1,0 @@
-{
-  "abstractText": "White sturgeon can be characterized as periodic reproductive strategists (Winemiller and Dailey 2002). Periodic strategist species typically live for long periods of time, and experience low mortality after the juvenile stages. These fish typically mature late in life, are iteroparous, that is spawn many times over the course of their life, and produce many offspring. The periodic strategy is believed to have evolved in response to highly variable environments, in which mortality of young may be variable and very high. In these environments, successful reproduction may depend on specific cues or conditions, which may be relatively rare events (Jones et al. 2011). Furthermore, modeling white sturgeon population dynamics is complicated. Models used to predict population responses to management actions areare highly sensitive toa variety of inputs including sex ratios, age at first maturity, and spawning periodicity (Jones et al. 2011), and informing these inputs is important for successful management (Webb et al. 2002; Jones et al. 2011) . However, it is not currently feasible to assign gender or maturational stage to white sturgeon without a histological examination(Webb et al. 2002). By examining gonads from adult (i.e., sexually mature) white sturgeon, the maturational stage and reproductive structure can bedetermined.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/3786",
-  "title": "White Sturgeon Maturational Stage and Spawning Periodicity Determination v1.0",
-  "id": 3786,
-  "type": "Data Collection",
-  "ownerName": "Tucker Jones",
-  "ownerEmail": "tucker.a.jones@state.or.us"
-}

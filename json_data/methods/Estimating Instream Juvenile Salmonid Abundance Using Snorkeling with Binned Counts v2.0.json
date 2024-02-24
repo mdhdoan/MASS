@@ -1,9 +1,0 @@
-{
-  "abstractText": "Version 2.0 changes: This version uses binned size classes for juvenile salmonid lengths, instead of estimating lengths to nearest 10 mm increments.Background:Estimating the density of juvenile salmonids at the project allows the investigator to obtain a sample over time of the change in abundance of rearing juvenile salmonids produced in the stream reach examined. Instead of a randomly selected stream reach, the stream reach impacted by the project is sampled. These impact reaches have been matched with control reaches of the same length and size on the same stream whenever possible in order to produce a before-after control-impact (BACI) experimental design.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/4228",
-  "title": "Estimating Instream Juvenile Salmonid Abundance Using Snorkeling with Binned Counts v2.0",
-  "id": 4228,
-  "type": "Data Collection",
-  "ownerName": "Jennifer O'Neal",
-  "ownerEmail": "jen@naturaldes.com"
-}

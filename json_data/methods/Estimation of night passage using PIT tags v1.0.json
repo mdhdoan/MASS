@@ -1,9 +1,0 @@
-{
-  "abstractText": "Salmon traditionally have been counted at fish viewing windows at Columbia and Snake river dams between 4 AM and 8 PM PST, although most dams now count fish 24 hours per day. PIT tags provide a way to estimate what proportion of the run may be missed where there is not 24H counting.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/3925",
-  "title": "Estimation of night passage using PIT tags v1.0",
-  "id": 3925,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Jeffrey Fryer",
-  "ownerEmail": "fryj@critfc.org"
-}

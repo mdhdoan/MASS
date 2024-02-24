@@ -1,9 +1,0 @@
-{
-  "abstractText": "Record the stream, date, species, sex, fork and meps length, and UTM coordinates on a scale card. To remove otoliths, use the saw to make a vertical cut behind the eyes and then a horizontal cut above the eyes. Watch for two oval pockets with white tissue. Use the forceps to remove both otoliths. Rub the tissue off them and place dry in the small plastic vial. Place the vial inside the labeled scale envelope and seal.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/304",
-  "title": "Tissue Sampling - Otoliths v1.0",
-  "id": 304,
-  "type": "Data Collection",
-  "ownerName": "Russell Thurow",
-  "ownerEmail": "rthurow@fs.fed.us"
-}

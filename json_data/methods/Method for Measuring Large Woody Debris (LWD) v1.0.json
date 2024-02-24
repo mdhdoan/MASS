@@ -1,9 +1,0 @@
-{
-  "abstractText": "Tally all large woody debris (LWD) pieces within the reach that are within the baseflow channel (the active channel) or that span the active channel but are outside the bankfull channel (active channel is defined as the area that is wetted under ordinary baseflow, and is denoted by the boundary of terrestrial vegetation). LWD is tallied over the entire length of the reach.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/47",
-  "title": "Method for Measuring Large Woody Debris (LWD) v1.0",
-  "id": 47,
-  "type": "Data Collection",
-  "ownerName": "John Arterburn",
-  "ownerEmail": "john.arterburn@colvilletribes.com"
-}

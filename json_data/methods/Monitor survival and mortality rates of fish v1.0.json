@@ -1,9 +1,0 @@
-{
-  "abstractText": "Knowing the survival rate of fish grown at hatcheries allows hatchery managers and biologist to evaluate performance of culture practices and make necessary changes to culture practices to improve survival. An estimate of survival rate is also important knowledge that can be used to estimate the number of eggs needed at spawning to achieve the desired number of fish to be released. For example, if survival rate is 90%, a hatchery manager would want to collect 10% more eggs at the time of spawning to achieve the desired number of smolts at release. This methods shows how to calculate survival and mortality rates. The mortality rate is simply 1 minus the survival rate.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/3992",
-  "title": "Monitor survival and mortality rates of fish v1.0",
-  "id": 3992,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Chris Tatara",
-  "ownerEmail": "chris.p.tatara@noaa.gov"
-}

@@ -1,9 +1,0 @@
-{
-  "abstractText": "An application called Tower is used with the 3DR Solo UAS to fly preestablished flight paths. This method assumes you have the app on an android tablet that is used to fly the UAS.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/6732",
-  "title": "UAS Tower Application v1.0",
-  "id": 6732,
-  "type": "Data Collection",
-  "ownerName": "Kenneth Tiffan",
-  "ownerEmail": "ktiffan@usgs.gov"
-}

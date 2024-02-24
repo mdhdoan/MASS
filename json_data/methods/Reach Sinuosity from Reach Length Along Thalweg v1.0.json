@@ -1,9 +1,0 @@
-{
-  "abstractText": "Sinuosity is a key descriptive characteristic of stream type that is correlated with sediment size and slope. Sinuosity can also be a form of habitat complexity, creating features such as backwaters and oxbows. This method describes how to calculate sinuosity as a function of reach length and straight line distance between bottom of reach and top of reach.The recommended data collection method to use in the field for reach length isMethod 7017.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/7007",
-  "title": "Reach Sinuosity from Reach Length Along Thalweg v1.0",
-  "id": 7007,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "PNAMP Support",
-  "ownerEmail": "pnamp.mm@gmail.com"
-}

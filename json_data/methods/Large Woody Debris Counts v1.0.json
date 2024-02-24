@@ -1,9 +1,0 @@
-{
-  "abstractText": "Tally of Large Woody Debris (LWD) pieces in a reach, number of pieces by channel location, number of pool forming wood pieces, number of pieces that are part of a log jam, and the number of key pieces. LWD data collection methodology follows a customized approach of Method ID: 4069, described in Protocol ID: 1875 and Protocol ID: 1880.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/5275",
-  "title": "Large Woody Debris Counts v1.0",
-  "id": 5275,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Rachael Katz",
-  "ownerEmail": "rachael.katz@tetratech.com"
-}

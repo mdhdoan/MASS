@@ -1,9 +1,0 @@
-{
-  "abstractText": "Water chemistry samples are collected to characterize macronutrient, chlorophyll, alkalinity, turbidity and total suspended solid concentrationsthroughout a water body. In large reservoirs, discrete samplers may be used to collect composite samples representative of the photic zone.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/5486",
-  "title": "Water Chemistry Sampling in Large Reservoirs v1.0",
-  "id": 5486,
-  "type": "Data Collection",
-  "ownerName": "Alex Kain",
-  "ownerEmail": "alexander.kain@spokanetribe.com"
-}

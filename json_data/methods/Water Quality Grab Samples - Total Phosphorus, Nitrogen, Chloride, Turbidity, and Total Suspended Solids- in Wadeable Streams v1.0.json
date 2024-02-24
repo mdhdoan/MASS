@@ -1,9 +1,0 @@
-{
-  "abstractText": "This method explains how to collect water samples at wadeable streams. Grab-water samples are collected for these 5 parameters:Total Phosphorus (by colorimetric analysis)Total Nitrogen (by persulfate method)ChlorideTurbidityTotal Suspended SolidsThis method is performed by 1 or more persons. This method is applied at every data collection event,at thestart of the sampling event. Staff performing this method must have been trained. Staffperforming this method should refrain from the use of sun screen or insect repellent.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/3832",
-  "title": "Water Quality Grab Samples - Total Phosphorus, Nitrogen, Chloride, Turbidity, and Total Suspended Solids- in Wadeable Streams v1.0",
-  "id": 3832,
-  "type": "Data Collection",
-  "ownerName": "Glenn Merritt",
-  "ownerEmail": "glenn.merritt@ecy.wa.gov"
-}

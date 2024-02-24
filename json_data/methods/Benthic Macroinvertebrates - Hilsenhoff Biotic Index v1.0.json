@@ -1,9 +1,0 @@
-{
-  "abstractText": "The Hilsenhoff Biotic index (Hilsenhoff 1988) is based on pollution tolerance values for benthic macroinvertebrate families and is used to help determine environmental quality at a site. Each taxa is assigned a value between 0 and 10; the higher the proportion of pollution-tolerant organisms present, the more likely it is that the site is impacted by pollution. This index was originally developed using samples from riffle habitats.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/4121",
-  "title": "Benthic Macroinvertebrates - Hilsenhoff Biotic Index v1.0",
-  "id": 4121,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Colin Riordan",
-  "ownerEmail": "colin@naturaldes.com"
-}

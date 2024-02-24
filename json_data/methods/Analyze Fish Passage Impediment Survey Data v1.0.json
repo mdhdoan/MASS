@@ -1,9 +1,0 @@
-{
-  "abstractText": "We analyze fish passage survey data to determine if the potential passage impediments that exceed ODFW Fish Passage Standards in regard to jump height, gradient and velocity. Potential impediments are mapped in ArcGIS for a visual representation of their numbers and locations. The location, description and details of passage impediments and barriers are provided to habitat enhancement teams and managers forremedial action",
-  "url": "http://www.monitoringresources.org/api/v1/methods/6899",
-  "title": "Analyze Fish Passage Impediment Survey Data v1.0",
-  "id": 6899,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Craig Contor",
-  "ownerEmail": "craigcontor@ctuir.org"
-}

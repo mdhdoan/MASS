@@ -1,9 +1,0 @@
-{
-  "abstractText": "Environmental DNA (eDNA) assays are generally designed to amplify the DNA of a single target organism, in this case Chinook salmon (Oncorynchustshawytscha). Often, assays are also specific to certain populations or geographic regions, in this case the Okanogan Basin (though the assay likely has more widespread use - it should be verified in each application). Quantitative polymerase chain reaction (qPCR) analysis allows researchers to determine both the presence/absence of Chinook DNA within a water sample, and also the amount or quantity of Chinook DNA present. Quantity of eDNA may correlate with organism abundance, though the complicated relationship and affects of uncontrolled/unmeasured variables make interpretation difficult and confidence of estimates low.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/5494",
-  "title": "Quantitative polymerase chain reaction (qPCR) analysis of environmental DNA (eDNA) samples using the Chinook (Ots) assay from Laramie et al 2015 v1.0",
-  "id": 5494,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Matthew Laramie",
-  "ownerEmail": "mlaramie@usgs.gov"
-}

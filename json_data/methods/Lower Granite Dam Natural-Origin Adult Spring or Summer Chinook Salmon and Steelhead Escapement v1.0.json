@@ -1,9 +1,0 @@
-{
-  "abstractText": "Our goal is to estimate the unknown number of wild steelhead and Chinook that cross Lower Granite dam each day. We have several pieces of information related to this, all from Columbia Basin Research Data Access in Real Time (DART).Estimating natural-origin adult spring/summer Chinook salmon and steelhead escapement at Lower Granite Dam (LGR) is complicated by a number of factors; including:1) window counts are not conducted at night, and daytime window counts must be expanded to account for break periods;2) fall-back over the dam, with potential for individuals to be counted numerous times and/or counted but lost downstream;3) passage through the locks where no estimation potential exists;4) a trap rate, that estimates capture probability as a function of the time that the trap is open;5) potential movement up and downstream through the ladder below the trap; and6) non-externally-marked hatchery-origin fish.This estimation method jointly utilizes information from previously tagged fish, window counts, trap rate, and hatchery/natural information from the trap to estimate total natural-origin adult escapement.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/5532",
-  "title": "Lower Granite Dam Natural-Origin Adult Spring/Summer Chinook Salmon and Steelhead Escapement v1.0",
-  "id": 5532,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Christopher A. Beasley",
-  "ownerEmail": "chris@qcinc.org"
-}

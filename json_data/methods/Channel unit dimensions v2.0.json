@@ -1,9 +1,0 @@
-{
-  "abstractText": "Measurements of channel unit dimensions (length, width, and depth) provide the foundational information needed to quantify fish habitat. Unit length and surface area are primarily measured from UAS imagery and associated GNSS points delineating the channel unit boundaries and edge of water locations (see section 1.4.2). However, ground-based measurements are used secondarily to measure length and width of channel units in cases where the aerial view of the stream is obstructed by dense riparian vegetation (i.e., > 50% channel overhanging canopy cover).",
-  "url": "http://www.monitoringresources.org/api/v1/methods/7143",
-  "title": "Channel unit dimensions v2.0",
-  "id": 7143,
-  "type": "Data Collection",
-  "ownerName": "Casey Justice",
-  "ownerEmail": "jusc@critfc.org"
-}

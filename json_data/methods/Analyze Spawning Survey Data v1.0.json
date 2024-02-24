@@ -1,9 +1,0 @@
-{
-  "abstractText": "We analyze redd survey data to determine the number of redds and their spatial and temporal distribution throughout the watershedfor each season. Multiple years of redd survey analyses generates an index of populations status and trends. Analysis can demonstrate if spawning areas are decreasing, changing,or expanding. Documented changes in spawning areas are often of specific interest regarding habitat restoration efforts and other management activities. Mapping redd locations in combination with habitat suitability informationcan identifyunused spawning areas of qualitythat managers can target with restoration and reintroduction actions",
-  "url": "http://www.monitoringresources.org/api/v1/methods/6898",
-  "title": "Analyze Spawning Survey Data v1.0",
-  "id": 6898,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Craig Contor",
-  "ownerEmail": "craigcontor@ctuir.org"
-}

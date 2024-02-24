@@ -1,9 +1,0 @@
-{
-  "abstractText": "Annual monitoring of biomass may help identifythe health of the environment (Scott et al. 1986). High temperatures, limited food resources, and pollutantscan slow the growth of fish speciesand reduce biomass (Scott et al. 1986), thus, biomass can be an important indicator of population trends in an area over long-term monitoring.Biomass of fish is a better measure of population productivity and community structure than numbers of fish (Schneider et al. 2000). On the population level, a length-biomass table (see Fish Collection form and the Population Estimate form) indicates at which size a species has accumulated its greatest net production; after that size the population loses more biomass to mortality than it gains from growth (Schneider et al. 2000). On the community level, expressing species composition as a percentage by weight compensates for the large differences in average lengths/weights of species and provides a better measure of trophicstructure (Schneider et al. 2000).",
-  "url": "http://www.monitoringresources.org/api/v1/methods/5554",
-  "title": "Length-Biomass Comparison Analyses of Fish v1.0",
-  "id": 5554,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Sam Cimino",
-  "ownerEmail": "scimino@usgs.gov"
-}

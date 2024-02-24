@@ -1,9 +1,0 @@
-{
-  "abstractText": "Cover type and HSI models determine the variables used in HEP (Habitat Evaluation Procedures) transects. While HSI models were initially used to evaluate the baseline condition of the Precious Lands Area, long-term monitoring will be conducted based on HEP data collection procedures, but not limited to particular wildlife variables. Surveys will be used to assess long-term trends in plant community health, weedy encroachment, limiting factors for wildlife and identify/monitor areas of habitat degradation.We used four distance variables in grassland and shrub cover types; Distance to Roost Cover, Distance to Escape Cover, Distance to Perch, and Distance to Exposed Rock.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/5304",
-  "title": "Distance Variables as they Relate to HSI Models v1.0",
-  "id": 5304,
-  "type": "Data Collection",
-  "ownerName": "Blair McClarin",
-  "ownerEmail": "blairm@nezperce.org"
-}

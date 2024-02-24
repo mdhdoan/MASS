@@ -1,9 +1,0 @@
-{
-  "abstractText": "A Distell Fish Fatmeter (model 692) is used to estimate the energetic potential of fish. This device was developed as a non-invasive alternative to fish quality grading in the commercial sector. The fatmeter passes low energy microwaves through fish tissues to determine the percentage of water in fish tissues, which provides a measure of tissue lipid content due to the inverse relationship between water content and lipid content in fish tissues.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/4215",
-  "title": "Estimating lipid content in muscle tissue of adult salmonids v1.0",
-  "id": 4215,
-  "type": "Data Collection",
-  "ownerName": "Ben Goodman",
-  "ownerEmail": "benjamin.goodman@dfw.wa.gov"
-}

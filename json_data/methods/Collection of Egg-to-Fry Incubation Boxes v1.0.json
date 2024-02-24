@@ -1,9 +1,0 @@
-{
-  "abstractText": "Many techniques to assess egg-to-fry survival involve a multitude of sub-estimators that can confound any direct effects by compounding the variances of each individual sub-estimate. Therefore, a direct measurement from egg to pre-emergent or emergent fry stage is often a better estimator. In this case egg boxes are used to estimate egg incubation success.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/1115",
-  "title": "Collection of Egg-to-Fry Incubation Boxes v1.0",
-  "id": 1115,
-  "type": "Data Collection",
-  "ownerName": "Pete Rust",
-  "ownerEmail": "Pete.Rust@idfg.idaho.gov"
-}

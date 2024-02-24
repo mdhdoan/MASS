@@ -1,9 +1,0 @@
-{
-  "abstractText": "There is a correlation between redd counts and adult escapement (Gallagher et al. 2007). When direct observations of fish are not practical, indirect observations, such as redd counts, can be used to estimate abundance (Galbreath et al. 2008). To do this, a correction factor (fish per redd) must be developed. This is done by getting an unbiased abundance estimate of spawners downstream of a spawning reach (typically via a weir or instreamPIT detector tag array or other collection techniques that will allow you to enumerate adults)and getting a count ofreddsin the spawning reach.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/904",
-  "title": "Calculating the number of females per redd v1.0",
-  "id": 904,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "PNAMP Support",
-  "ownerEmail": "pnamp.mm@gmail.com"
-}

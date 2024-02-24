@@ -1,9 +1,0 @@
-{
-  "abstractText": "Orthomosaic images are loaded into a proprietary GIS platform developed by Real Time Research, where an analyst will manually digitize (count) birds of the target species.For species for which we count breeding pairs (double-crested cormorants and Caspian terns), the analyst will classify the status of each digitized bird as either Individual, (a bird not on a nest) or Nest, a bird on a nest. For species that we cannot differentiate between a bird on or off a nest (ring-billed gulls, California gulls, and American white pelicans), all adults on colony are digitized. For cormorantsand terns, each nest serves as a proxy for a breeding pair. For gullsand pelicans, each adult serves as a proxy for a breeding pair. Status classification is determined by a combination of bird shape and posture, distribution, and ancillary oblique imagery when available. Bird enumerations and classifications are conducted by analysts with intimate knowledge of each species. To calculate 95% confidence intervals (CI) around our estimates of colony size, this process will be repeated three different times by three different analysts, with the point estimate of colony size being the average of these three counts (see Turecek et al. 2018 for further details). The result will be an estimate of colony size (i.e. number of breeding pairs) for all piscivorous waterbird colonies within the study area with 95% confidence intervals around each estimate.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/6809",
-  "title": "Estimate size of piscivorous waterbird colonies in the Columbia River basin (analysis) v1.0",
-  "id": 6809,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Ken Collis",
-  "ownerEmail": "ken@realtimeresearch.com"
-}

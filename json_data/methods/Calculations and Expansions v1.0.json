@@ -1,9 +1,0 @@
-{
-  "abstractText": "With the two components of effort and interviews in hand, estimates can now be generated for each of the parameters from the interviews.  There are three layers to this process.  The first layer involves expansions at the port level to the portion of the year when sampling occurred.  The second layer involves an expansion for late fishing trips and minor ports that are not sampled.  The third and final layer is an expansion for ports when no sampling occurred.  Expansion charter boats:  The expansion for all sampling parameters for charter fishing boats is made by applying the inverse of the sampling rate for each trip type to each  parameter sampled by trip type and stratified to catch area and season type  Expansion private boats:  The expansion of catch and effort sampling parameters for the private and guide boats is very similar to the expansion for the charter vessels.  The primary difference is that the trip type stratification must be included within the estimation equation.  This calculation is made for all trip types and catch areas sampled within each season type.  Then catch and effort are summed across pertinent strata to generate the final estimate.  For example, total of salmon angler trips is the sum of anglers on salmon trips and anglers on combination trips for all season types during the week; while the total of coho salmon catch for a port and week is the sum of coho caught on each of the trip types.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/155",
-  "title": "Calculations and Expansions v1.0",
-  "id": 155,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Eric Schindler",
-  "ownerEmail": "eric.d.schindler@state.or.us"
-}

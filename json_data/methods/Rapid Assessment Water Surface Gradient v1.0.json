@@ -1,9 +1,0 @@
-{
-  "abstractText": "Channel gradient (also known as slope or grade) is the ratio of elevation drop to horizontal distance along the stream. Gradient influences flow velocity, sediment transport, channel morphology and habitat stability within a reach. Water surface gradient is measured to the 0.1 %.Depending upon the availability of accurate elevation data, such as Digital Elevation Models (DEMs), office measurements are the preferred method to obtain gradient because minimal effort is required for a large landscape. When precise map data are unavailable, field methods are the only way to obtain valid gradient measurements.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/3964",
-  "title": "Rapid Assessment Water Surface Gradient v1.0",
-  "id": 3964,
-  "type": "Data Collection",
-  "ownerName": "Sonya Schaller",
-  "ownerEmail": "sonya.schaller@colvilletribes.com"
-}

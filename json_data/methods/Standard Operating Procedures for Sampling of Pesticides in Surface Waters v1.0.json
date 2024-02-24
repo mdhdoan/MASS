@@ -1,9 +1,0 @@
-{
-  "abstractText": "This document is the Environmental Assessment Program (EAP) Standard Operating Procedure (SOP) for collecting samples to monitor pesticides in surface waters.Monitoring pesticides in surface waters can and often does cover a wide range of objectives. Some studies are designed to look for a few specific chemicals and others are designed to look for a wide range of compounds. The term pesticide is used as a general term to group together many different use classes (herbicides, insecticides, and fungicides) of chemicals. For hydrophobic compounds a relationship between Total Suspended Solids (TSS) and pesticides may exist. This leads many monitoring projects to collect TSS samples alongside pesticide samples.It is recommended this procedure be usedwhen sampling surface waters to determine the presence and concentration of pesticides.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/3801",
-  "title": "Standard Operating Procedures for Sampling of Pesticides in Surface Waters v1.0",
-  "id": 3801,
-  "type": "Data Collection",
-  "ownerName": "Steve Rentmeester",
-  "ownerEmail": "steve@sitkatech.com"
-}

@@ -1,9 +1,0 @@
-{
-  "abstractText": "Fisheries managers and researchers often need to measure the performance of a particular fishery, including catch and angler effort, in order to assess the affects of a management action. Creel surveys have long been a useful tool in measuring these and other performance indicators. However, the appropriate survey methodmust be performed in the correct manner in order to achieve unbiased survey results. This method describes data collection for an access-access creel survey for lakes and reservoirs. This type of survey was designed to estimate fishing effort and catch from lakes and reservoirs with a limited number of access points. In addition, these surveys may be used to facilitate the collection of fish size, tags or other biological data.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/1127",
-  "title": "Access-Access Creel Survey for Lakes and Reservoirs v1.0",
-  "id": 1127,
-  "type": "Data Collection",
-  "ownerName": "Sean Wilson",
-  "ownerEmail": "sean.wilson@idfg.idaho.gov"
-}

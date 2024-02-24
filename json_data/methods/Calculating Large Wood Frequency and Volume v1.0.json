@@ -1,9 +1,0 @@
-{
-  "abstractText": "To calculate large wood frequency and large wood volume in a reach.The relative role of large wood as habitat and in structuring channel morphology varies geographically as a function of climate and the capacity of an ecosystem to support tree growth. Despite such limitations, even small wood, live trees, shrub, or roots can create geomorphic heterogeneity and provide habitat for a diversity of aquatic organisms. Human activities such as timber harvest, grazing, and channelization can limit the production, recruitment, and storage of large wood within a stream or river system.Large wood can serve as both an indicator and a covariate since it can provide critical habitat for aquatic organisms and influence geomorphic conditions. Regardless of the application, Large wood computations are the same.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/7085",
-  "title": "Calculating Large Wood Frequency and Volume v1.0",
-  "id": 7085,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "PNAMP Support",
-  "ownerEmail": "pnamp.mm@gmail.com"
-}

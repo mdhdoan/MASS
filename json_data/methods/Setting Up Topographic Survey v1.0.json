@@ -1,9 +1,0 @@
-{
-  "abstractText": "This covers the first part of section 7 of the CHaMP Protocol, Channel Topographic Survey. These survey procedures are used to create a continuous surface of channel topography using a total station. Features such as edge of water, the spatial arrangement and perimeter of channel units, top and bottom of banks, and topographic points are used to capture the shape and gradient breaks during the survey. In order to successfully complete a total station survey, the machine must acquire 2 pieces of information: 1) a known location, and 2) a known orientation.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/835",
-  "title": "Setting Up Topographic Survey v1.0",
-  "id": 835,
-  "type": "Data Collection",
-  "ownerName": "Boyd Bouwes",
-  "ownerEmail": "boydbouwes@gmail.com"
-}

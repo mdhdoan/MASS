@@ -1,9 +1,0 @@
-{
-  "abstractText": "We propose to use a statistical based mark-recapture model consistent with our study design to estimate population abundance of predatory fish species within the sample frame.Our initial model is a Hierarchical Bayesian Model (HBM), which extends the previous HBM modeling framework to account for multiple strata within a year (Wyatt 2002, Wyatt 2003, Rivot et al. 2008, and Korman et al. 2016).Our HBM results in partial pooling, which may provide robust estimates and is a compromise between the extremes of complete pooling across sites and independent estimates for each site.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/7069",
-  "title": "Develop Bayesian Hierarchical Abundance Model v1.0",
-  "id": 7069,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Matt Polacek",
-  "ownerEmail": "polacmcp@dfw.wa.gov"
-}

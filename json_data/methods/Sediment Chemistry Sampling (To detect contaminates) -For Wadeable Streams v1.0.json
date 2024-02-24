@@ -1,9 +1,0 @@
-{
-  "abstractText": "This method explains how to collect a site-composite sediment sample. Stream sites are sampled within day-long data collection events (DCEs). Eachcomposite sample will be composed of scoops taken from 3 separately-located shallow-waterstations in the site. To detect the presence of select contaminants at the site, the sample will beanalyzed for metals (copper, lead, zinc, arsenic) and a standard list of polynuclear aromatichydrocarbon (PAH) compounds. To help interpret the results, the sample will also be analyzedfor total organic carbonand grain size composition.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/3833",
-  "title": "Sediment Chemistry Sampling (To detect contaminates) -For Wadeable Streams v1.0",
-  "id": 3833,
-  "type": "Data Collection",
-  "ownerName": "Glenn Merritt",
-  "ownerEmail": "glenn.merritt@ecy.wa.gov"
-}

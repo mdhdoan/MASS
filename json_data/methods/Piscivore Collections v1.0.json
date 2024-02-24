@@ -1,9 +1,0 @@
-{
-  "abstractText": "WDFW will use a certified electrofishing boat operator and experienced staff to sample fish along the shoreline (< 2.0 m deep) in the sites listed above. Electrofisher settings will be pulsed direct current (DC) at 60 pulses per second, 40% power, and low voltage range (50-500 V) which are withing the range established by the National Marine Fisheries Service (NMFS 2000) (Table 3). McMichael (2018) conducted electrofishing in the McNary Pool in 2017 and found that the most efficient and fish safe electrofisher power output was between 2-4 amperes. Output will be adjusted to the minimum amperes to achieve fish galvanotaxis (narcosis). Effective sampling depth is about 2 meters and will occur at night.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/7076",
-  "title": "Piscivore Collections v1.0",
-  "id": 7076,
-  "type": "Data Collection",
-  "ownerName": "Matt Polacek",
-  "ownerEmail": "polacmcp@dfw.wa.gov"
-}

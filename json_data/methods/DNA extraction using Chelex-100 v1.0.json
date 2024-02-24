@@ -1,9 +1,0 @@
-{
-  "abstractText": "Chelex-100 is a chelating resin that has proven effective in extracting DNA from tissue samples for genetic analyses. During the digestion of the tissue sample to extract DNA molecules, the Chelex prevents DNA degradation by preferentially binding to metal ions that might otherwise breakdown DNA at high temperatures (Singer-Sam, Tanguay & Riggs, 1989). Unlike other DNA extraction methods, Chelex does not require purification or washing steps, which reduces the chance for cross-contamination between containers and/or samples (Walsh, Metzger & Higuchi, 2018). However, while the lack of purification steps does expedite and simplify the extraction process, Chelex extractions often producer lower concentrations of DNA in solution than methods that employ these techniques (Singh, Kumari & Iyengar, 2018). Nonetheless, for many studies this trade-off is tolerable, especially within high-throughput laboratories that really benefit from the efficiency and adaptability of Chelex-100 extraction methods.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/6889",
-  "title": "DNA extraction using Chelex-100 v1.0",
-  "id": 6889,
-  "type": "Data Collection",
-  "ownerName": "Hayley Nuetzel",
-  "ownerEmail": "hnuetzel@critfc.org"
-}

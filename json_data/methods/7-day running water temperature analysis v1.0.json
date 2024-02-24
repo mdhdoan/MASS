@@ -1,9 +1,0 @@
-{
-  "abstractText": "A workflow is created in AQUARIUS time-series sorftware to produce the 7-day running average for Min/Max/Median water temperature for the project. Analysis outputs are postedon the internet for distribution",
-  "url": "http://www.monitoringresources.org/api/v1/methods/4192",
-  "title": "7-day running water temperature analysis v1.0",
-  "id": 4192,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Troy Baker",
-  "ownerEmail": "troy.baker@wwbwc.org"
-}

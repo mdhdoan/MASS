@@ -1,9 +1,0 @@
-{
-  "abstractText": "Air temperature housing and sensors will be placed at annual sites within each CHaMP watershed. Sensors at each site will be placed using a consistent method to ensure data quality.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/4072",
-  "title": "Air Temperature Sensor Installation v1.0",
-  "id": 4072,
-  "type": "Data Collection",
-  "ownerName": "Boyd Bouwes",
-  "ownerEmail": "boydbouwes@gmail.com"
-}

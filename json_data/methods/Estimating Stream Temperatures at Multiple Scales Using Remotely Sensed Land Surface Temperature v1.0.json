@@ -1,9 +1,0 @@
-{
-  "abstractText": "Although water temperature is important to stream biota, its difficult to collect in a spatially and temporally continuous fashion. We used remotely-sensed Land Surface Temperature [LST] data to estimate mean daily stream temperature for every confluence-to-confluence reach in the John Day River, OR, USA for a ten year period. Models were built at 3 spatial scales: site-specific, subwatershed, and basin-wide. Model quality was assessed using jackknife and cross-validation. Model metrics for linear regressions of the predicted vs. observed data across all sites and years: site-specific r2 = 0.95, RMSE = 1.25 C; subwatershed r2 = 0.88, RMSE = 2.02 C; basin-wide r2 = 0.87, RMSE = 2.12 C. Similar analyses were conducted using 2012 8-day composite LST and 8-day mean stream temperature in 5 watersheds in the interior Columbia River basin. Mean model metrics across all basins: r2 = 0.91, RMSE = 1.29 C.Sensitivity analyses indicated accurate basin-wide models can be parameterized using data from as few as 4 temperature logger sites. This approach generates robust estimates of stream temperature through time for broad spatial regions for which there is only spatially and temporally patchy observational data, and may be useful for managers and researchers interested in stream biota.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/5485",
-  "title": "Estimating Stream Temperatures at Multiple Scales Using Remotely Sensed Land Surface Temperature v1.0",
-  "id": 5485,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Carol Volk",
-  "ownerEmail": "carol@southforkresearch.org"
-}

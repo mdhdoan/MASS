@@ -1,9 +1,0 @@
-{
-  "abstractText": "In monitoring the Okanogan River Basinhatchery program, it is important to monitor strays from that hatchery to other non-target basins, and their estimate. Relying on data stored in the RMIS database, this method estimates the genetic contribution of Okanogan Basin released summer/fall Chinook to non-target basin populations.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/5542",
-  "title": "Calculating the Estimated Genetic Contribution of Okanogan River Basin Hatchery-Origin Summer/Fall Chinook to Out-of-Basin Spawning Populations v1.0",
-  "id": 5542,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "John Rohrback",
-  "ownerEmail": "john.rohrback@colvilletribes.com"
-}

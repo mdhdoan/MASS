@@ -1,9 +1,0 @@
-{
-  "abstractText": "The effect of environmental variables on the downstream movement and migratory behavior of juvenile fishes has been an area of intense research for a number of species in a variety of river systems. Variables such as river flow, temperature, and light are some of the factors believed to control downstream migration of juvenile anadromous fish (OLeary and Kynard 1986; Greenstreet 1992; Berggren and Filardo 1993; Muir et al. 1994). Anthropogenic changes to natural rivers have altered the timing and duration of downstream migration, thereby reducing juvenile fish survival and disrupting the synchronization between physiological readiness and time of ocean entry (Hoar 1976). To attempt to counter and understand the consequences of anthropogenic change, research has often focused on understanding fish responses to migratory impediments such as dams (Odeh 2000; Plumb et al. 2006) or thermal blocks (Coutant 1985; Goniea et al. 2006), and how fish migrate through modified habitats (Venditti et al. 2000). The method of calculating downstream movement rate used for PIT-tagged, Snake River fall Chinook salmonOncorhynchus tshawytschaby Connor et al. (2003) and is described here.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/5258",
-  "title": "Calculating rate of downstream movement for individually identifiable tagged fish v1.0",
-  "id": 5258,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Kenneth Tiffan",
-  "ownerEmail": "ktiffan@usgs.gov"
-}

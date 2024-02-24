@@ -1,9 +1,0 @@
-{
-  "abstractText": "The use of hatcheries is considered a critical tool for the recovery and conservation of steelhead and salmon in the Pacific Northwest. However, the conservation benefit of these facilities has not been clearly demonstrated due to pervasive use of traditional hatchery practices, management policies that ignore conservation concerns, and nonexistent or inconsistent monitoring.Protocols appropriate for rearing a native-origin (NOR)/hatchery-origin (HOR) integratedbroodstock (Campton 1995, Brannon et al. 2004) in a conservation hatchery are developed and followedwith the aim of using artificial production to contribute to recoveryof a small steelhead population. Rearing protocols are designed to minimize effects of hatchery domestication. Artificially produced (HOR) smolts are released each spring during the period whenmost NOR smolts emmigrate.The number of fish within the hatchery is tracked throughout rearing to have accurate estimates for feeding and release protocols. Typically, a complete count of all fish in the program is obtained during the mass marking process prior to release. After marking/tagging, all mortalities found in the raceways are hand counted and subtracted from the total inventory each day. Therefore, at smolt release, there is a very accurate count on the number of smolts.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/446",
-  "title": "Number of Hatchery Smolts v1.0",
-  "id": 446,
-  "type": "Data Collection",
-  "ownerName": "Patricia Crandell",
-  "ownerEmail": "patricia_crandell@fws.gov"
-}

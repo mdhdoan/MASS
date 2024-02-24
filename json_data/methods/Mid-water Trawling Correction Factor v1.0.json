@@ -1,9 +1,0 @@
-{
-  "abstractText": "This method briefly describes how we will analyze thefish data collected from pairedtrawl and gill net samplesand build a correction factor for midwater trawl gear.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/1130",
-  "title": "Mid-water Trawling Correction Factor v1.0",
-  "id": 1130,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Pete Rust",
-  "ownerEmail": "Pete.Rust@idfg.idaho.gov"
-}

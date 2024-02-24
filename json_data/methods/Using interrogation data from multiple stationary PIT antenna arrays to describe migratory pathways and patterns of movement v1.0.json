@@ -1,9 +1,0 @@
-{
-  "abstractText": "Data collected at multiple stationary interrogation PIT arrays within a watershed can generate histories for individual fish that identify their movement patterns or migratory pathways. These interrogation histories can yield insight into where migratory adult fish spawn within a watershed, or which tributaries within a watershed support juveniles that exhibit migratory behavior. Furthermore, multiple interrogation stations that bound specific reaches within watersheds can permit the identification of temporary seasonal rearing habitats for migratory salmonids. Data collected at multiple interrogation stations can easily be appended into a master database from which queries can be generated to yield these migratory histories.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/6573",
-  "title": "Using interrogation data from multiple stationary PIT antenna arrays to describe migratory pathways and patterns of movement v1.0",
-  "id": 6573,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Jon Firehammer",
-  "ownerEmail": "jfirehammer@cdatribe-nsn.gov"
-}

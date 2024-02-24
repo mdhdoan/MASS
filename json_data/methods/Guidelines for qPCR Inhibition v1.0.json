@@ -1,9 +1,0 @@
-{
-  "abstractText": "Inhibition occurs when substances present in a water sample interfere with PCR amplification. The consequences of partial or complete inhibition are decreases in assay sensitivity, decreases in the accuracy of template quantification, and increased potential for false negatives (Janeet al.2015;McKee, Spear & Pierson 2015). It is therefore critical that PCR inhibition be detected and circumvented. Upon observing evidence for PCR inhibition, multiple approaches can be used but the potential solutions for reducing inhibition can be dependent on the inhibitors present (McKee, Spear & Pierson 2015).",
-  "url": "http://www.monitoringresources.org/api/v1/methods/6624",
-  "title": "Guidelines for qPCR Inhibition v1.0",
-  "id": 6624,
-  "type": "Data Collection",
-  "ownerName": "Adam Sepulveda",
-  "ownerEmail": "asepulveda@usgs.gov"
-}

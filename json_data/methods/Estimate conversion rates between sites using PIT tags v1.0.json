@@ -1,9 +1,0 @@
-{
-  "abstractText": "To calculate the conversion/survival rates of fish between PIT tag detection sites. This method calculates conversion between sites where the first site can be the location of trapping and PIT tagging of the fish or trapping of previously tagged fish, such as at Bonneville Dam, and a second site on the migration route (upstream or downstream) of the first location. The method requires data on the number of fish estimated to pass various sites with PIT tag antennas and where all migrating fish pass detection sites and those sites sufficiently detect tags. Conversion rates provide an index of survival between sites for migratory species of fish, both intra- and inter-annually.Given that the percentage of PIT tagged fish missed passing dam fish ladders is typically very small, this provides a good approximation of survival to, for example, upstream dams. However, at terminal in-stream weir antennas (such as OKC in the Okanagan and LWN and WTL in the Wenatchee) where the percentage of PIT tagged fish missed is much higher, estimation using these techniques cannot be considered a survival rate. The nomenclature in the Columbia Basin is to call this a conversion rate. If the percentage of fish missing detection can be estimated by detection at upstream sites, a survival rate can be estimated by dividing the conversion rate by the percentage of tagged fish detected at this site if that detection rate is reasonably consistent through the entire run.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/3920",
-  "title": "Estimate conversion rates between sites using PIT tags v1.0",
-  "id": 3920,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Jeffrey Fryer",
-  "ownerEmail": "fryj@critfc.org"
-}

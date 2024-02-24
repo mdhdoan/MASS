@@ -1,9 +1,0 @@
-{
-  "abstractText": "This metric feeds into calculations for Total Spawner Abundance (TSA) - using GRTS surveys.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/5445",
-  "title": "Expanded steelhead at each site v1.0",
-  "id": 5445,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Nadine Craft",
-  "ownerEmail": "nadine.m.craft@odfw.oregon.gov"
-}

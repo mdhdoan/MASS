@@ -1,9 +1,0 @@
-{
-  "abstractText": "Marks can be used in mark-recapture abundance models for fish if they satisfy several assumptions: (1)They are recognizable upon recapture; (2) They are not lost prior to the recapture event; and (3) They do not affect the behavior or survivability of the individual fish. An opercle punch was chosen as an appropriate mark in our studies whereby we were estimating abundance of spring spawning salmonids. During the spring, water temperatures are cold enough so that the hole created by the punch would not heal over quickly during the time period prior to recapture (i.e., 2-4 weeks). Thus, the mark would not be lost and it would be recognizable upon recapture. Furthermore, the tool used to create the punch was small so that it was not an intrusive procedure for the fish and the hole it created was not unusually large for the size of trout marked. Therefore, we felt it would not unduly affect the behavior or survivability of the fish.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/6577",
-  "title": "Marking a fish with an opercle punch v1.0",
-  "id": 6577,
-  "type": "Data Collection",
-  "ownerName": "Jon Firehammer",
-  "ownerEmail": "jfirehammer@cdatribe-nsn.gov"
-}

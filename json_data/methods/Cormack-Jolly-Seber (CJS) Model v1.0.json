@@ -1,9 +1,0 @@
-{
-  "abstractText": "The Cormack-Jolly-Seber (CJS) model is a type of open population model that use encounter histories from capture-recapture events to isolate the apparent survival and detection probabilities for groups of fish from return rates. During an initial sampling event, fish are captured, enumerated, marked, and released. During subsequent capture events, both marked and unmarked fish are captured in varying proportions which are used to determine marked fish survival and capture probabilities.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/485",
-  "title": "Cormack-Jolly-Seber (CJS) Model v1.0",
-  "id": 485,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Patricia Crandell",
-  "ownerEmail": "patricia_crandell@fws.gov"
-}

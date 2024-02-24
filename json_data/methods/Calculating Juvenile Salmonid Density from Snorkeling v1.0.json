@@ -1,9 +1,0 @@
-{
-  "abstractText": "Juvenile salmonid density provides a standardized measure of juvenile salmonidabundance, since the number of observed salmonids is divided by the area sampled. This allows the comparison of datasets from sampling reaches of differing area. The response variables for juvenile fish are calculated in the same way for Chinook, coho, and steelhead par. The metric used is number of fish per square meter within each reach. The number of fish is found by querying the snorkel survey results for fish of each species that are less than 250 mm in length. Water surface area can bereported from the River BathymetryToolkit (RBT) (Method ID: 1261) as the area of the wetted polygon if a topographic survey (Method ID: 5328) is conducted at the same time as the snorkel survey, or calculated by field measurements of the length of stream sampled and several wetted width measurements as described in Method ID: 293.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/5273",
-  "title": "Calculating Juvenile Salmonid Density from Snorkeling v1.0",
-  "id": 5273,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Rachael Katz",
-  "ownerEmail": "rachael.katz@tetratech.com"
-}

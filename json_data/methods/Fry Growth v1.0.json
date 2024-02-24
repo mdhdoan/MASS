@@ -1,9 +1,0 @@
-{
-  "abstractText": "The two primary metrics for analyzing fry growth are weight and length. Fry growth is often calculated in hatchery or laboratory research. Growth can be tracked over a period of weeks or months. For large populations of fish, weight can be measured as an entire group. A sub-sample of fish can be measured to determine the average change in length.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/5285",
-  "title": "Fry Growth v1.0",
-  "id": 5285,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Doug Hatch",
-  "ownerEmail": "hatd@critfc.org"
-}

@@ -1,9 +1,0 @@
-{
-  "abstractText": "Gender is typically determined by visual observation of external secondary sex characteristics, such as the developed kype in males; enlarged and softened belly or extrusion of the urogenital pore indicative of gravid females versus the thinness in the abdomen of males. Alternatively, ultrasound imaging has more recently been a preferred method for distinguishing gender of fish because it is non-invasive and been found to be more accurate then visual methods. The ultrasound (e.g., Honda Electronics Hs-101V Ultrasonic scanner with HLV-155 5.0MHz Linear Rectal Transducer) produces a cross sectional image of the fishs body cavity whereby the presence of either egg masses in females or testes in males can be confirmed.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/4001",
-  "title": "Adult Sampling: Fish Gender Identification Via Ultrasound Imaging v1.0",
-  "id": 4001,
-  "type": "Data Collection",
-  "ownerName": "Mike Hughes",
-  "ownerEmail": "michael.hughes@dfw.wa.gov"
-}

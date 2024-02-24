@@ -1,9 +1,0 @@
-{
-  "abstractText": "Floodplain vegetation species composition and percent cover are collected along with counts of woody seedling and saplings individuals within 0.25 square meter plots (0.5 meters by 0.5 meters) located along transects that are oriented perpendicular to the channel with the restoration project area. These data are used to evaluate the progression of restoration cover types toward the desired condition and to inform potential maintenance such as weed management. Ground cover data are also collected in the plots to inform observations of overall vegetation cover and community development.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/1310",
-  "title": "Floodplain Vegetation Composition, Cover, and Woody Species Natural Recruitment v1.0",
-  "id": 1310,
-  "type": "Data Collection",
-  "ownerName": "Tom Parker",
-  "ownerEmail": "tparker@geumconsulting.com"
-}

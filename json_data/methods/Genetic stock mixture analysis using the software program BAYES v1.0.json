@@ -1,9 +1,0 @@
-{
-  "abstractText": "BAYES is a computer program for stock-mixture analysis based on Bayesian methods. The methodology is described in Pella and Masuda (2001). BAYES is a Fortran 90 program with a windows-like interface written for an IBM-compatible personal computer. The Fortran code was compiled with the Lahey Fortran 90 compiler, release 4.50h (Lahey 1997).",
-  "url": "http://www.monitoringresources.org/api/v1/methods/488",
-  "title": "Genetic stock mixture analysis using the software program BAYES v1.0",
-  "id": 488,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Matthew Campbell",
-  "ownerEmail": "matthew.campbell@idfg.idaho.gov"
-}

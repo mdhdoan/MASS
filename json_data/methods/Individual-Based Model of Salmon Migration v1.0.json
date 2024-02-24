@@ -1,9 +1,0 @@
-{
-  "abstractText": "To study the complex coastal migrations patterns exhibited by juvenile Columbia River Chinook salmon as they enter and move through the marine environment, we created an individual-based model in a coupled Eulerian-Lagrangian framework. We modeled five distinct migration strategies and compared the resulting spatial distributions to catch data collected during May and June in three years.",
-  "url": "http://www.monitoringresources.org/api/v1/methods/4090",
-  "title": "Individual-Based Model of Salmon Migration v1.0",
-  "id": 4090,
-  "type": "Data Analysis/Interpretation",
-  "ownerName": "Cheryl Morgan",
-  "ownerEmail": "cheryl.morgan@oregonstate.edu"
-}

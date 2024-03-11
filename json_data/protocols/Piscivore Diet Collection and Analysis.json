@@ -10,6 +10,29 @@
     "http://www.monitoringresources.org/api/v1/methods/1456",
     "http://www.monitoringresources.org/api/v1/methods/5405"
   ],
+  "metrics": [
+    {
+      "id": 81,
+      "title": "Piscivore Impacts on Juvenile Salmonids",
+      "category": "Fish",
+      "subcategory": "Predation Rate: Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 298,
+      "title": "6 years of walleye and smallmouth bass diets",
+      "category": "Fish",
+      "subcategory": "Diet: Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 298,
+      "title": "Fish Predator Diet Collections",
+      "category": "Fish",
+      "subcategory": "Diet: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Determine annual consumption rates of Northern Pikeminnow, Smallmouth Bass, and Walleye on juvenile salmonids between McNary and Priest Rapids dams.",
     "Collect the diets of Northern Pikeminnow, Smallmouth Bass, and Walleye for consumption analysis."

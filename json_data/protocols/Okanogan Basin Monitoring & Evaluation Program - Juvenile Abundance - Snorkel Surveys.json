@@ -8,6 +8,99 @@
     "http://www.monitoringresources.org/api/v1/methods/136",
     "http://www.monitoringresources.org/api/v1/methods/1425"
   ],
+  "metrics": [
+    {
+      "id": 36,
+      "title": "Area",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Length/Width/Area",
+      "isIndicator": true
+    },
+    {
+      "id": 46,
+      "title": "Abundance of Fish",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 46,
+      "title": "Abundance of Fish",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 59,
+      "title": "Density of Fish Species",
+      "category": "Fish",
+      "subcategory": "Density of Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 59,
+      "title": "Density of Fish Species",
+      "category": "Fish",
+      "subcategory": "Density of Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Length Categories",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Length Categories",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 82,
+      "title": "Presence/Absence",
+      "category": "Fish",
+      "subcategory": "Presence/Absence: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 82,
+      "title": "Presence/Absence",
+      "category": "Fish",
+      "subcategory": "Presence/Absence: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 101,
+      "title": "Life Stage",
+      "category": "Fish",
+      "subcategory": "Timing of Life Stage: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 116,
+      "title": "Date",
+      "category": "Time",
+      "subcategory": "Date",
+      "isIndicator": false
+    },
+    {
+      "id": 162,
+      "title": "Water Temperature",
+      "category": "Water Quality",
+      "subcategory": "Water Temperature",
+      "isIndicator": false
+    },
+    {
+      "id": 202,
+      "title": "Origin",
+      "category": "Fish",
+      "subcategory": "Origin",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "To determine the status and trend of juvenile salmonid abundance in the Okanogan River Basin."
   ],

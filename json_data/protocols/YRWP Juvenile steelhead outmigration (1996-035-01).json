@@ -13,6 +13,43 @@
     "http://www.monitoringresources.org/api/v1/methods/4041",
     "http://www.monitoringresources.org/api/v1/methods/5519"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Rotary screw trap juvenile steelhead daily catch",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 46,
+      "title": "Estimate of juvenile steelhead outmigrant abundance",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 75,
+      "title": "Fish length",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 97,
+      "title": "Downstream survival of steelhead outmigrants",
+      "category": "Fish",
+      "subcategory": "Survival: Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 206,
+      "title": "Fish weight",
+      "category": "Fish",
+      "subcategory": "Weight: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Monitor steelhead population status and trends in Lower Yakima River Tributaries (Satus Creek, Toppenish Creek, and Ahtanum Creek) to estimate yearly juvenile steelhead outmigrant production."
   ],

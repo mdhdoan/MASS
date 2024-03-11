@@ -8,6 +8,99 @@
     "http://www.monitoringresources.org/api/v1/methods/1295",
     "http://www.monitoringresources.org/api/v1/methods/5363"
   ],
+  "metrics": [
+    {
+      "id": 2,
+      "title": "Breeding Bird Abundance",
+      "category": "Birds",
+      "subcategory": "Abundance of Birds",
+      "isIndicator": false
+    },
+    {
+      "id": 2,
+      "title": "Average # across sites",
+      "category": "Birds",
+      "subcategory": "Abundance of Birds",
+      "isIndicator": false
+    },
+    {
+      "id": 2,
+      "title": "Average #/site",
+      "category": "Birds",
+      "subcategory": "Abundance of Birds",
+      "isIndicator": false
+    },
+    {
+      "id": 2,
+      "title": "Frequency across sites",
+      "category": "Birds",
+      "subcategory": "Abundance of Birds",
+      "isIndicator": false
+    },
+    {
+      "id": 2,
+      "title": "Frequency/site",
+      "category": "Birds",
+      "subcategory": "Abundance of Birds",
+      "isIndicator": false
+    },
+    {
+      "id": 2,
+      "title": "Relative abundance across sites",
+      "category": "Birds",
+      "subcategory": "Abundance of Birds",
+      "isIndicator": false
+    },
+    {
+      "id": 2,
+      "title": "Relative abundance/site",
+      "category": "Birds",
+      "subcategory": "Abundance of Birds",
+      "isIndicator": false
+    },
+    {
+      "id": 2,
+      "title": "Total individuals across sites",
+      "category": "Birds",
+      "subcategory": "Abundance of Birds",
+      "isIndicator": false
+    },
+    {
+      "id": 2,
+      "title": "Total individuals/site",
+      "category": "Birds",
+      "subcategory": "Abundance of Birds",
+      "isIndicator": false
+    },
+    {
+      "id": 2,
+      "title": "Total point count across sites",
+      "category": "Birds",
+      "subcategory": "Abundance of Birds",
+      "isIndicator": false
+    },
+    {
+      "id": 2,
+      "title": "Total point count/ site",
+      "category": "Birds",
+      "subcategory": "Abundance of Birds",
+      "isIndicator": false
+    },
+    {
+      "id": 166,
+      "title": "Bird Habitat Preference",
+      "category": "Birds",
+      "subcategory": "Habitat Use",
+      "isIndicator": false
+    },
+    {
+      "id": 278,
+      "title": "Bird Species Composition",
+      "category": "Birds",
+      "subcategory": "Composition: Bird Species Assemblage",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Develop habitat management guidelines to maintain, restore, and enhance bird populations.",
     "Identify how management activities influence distribution and abundance of species.",

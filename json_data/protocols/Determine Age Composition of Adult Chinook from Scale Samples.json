@@ -9,6 +9,22 @@
     "http://www.monitoringresources.org/api/v1/methods/4220",
     "http://www.monitoringresources.org/api/v1/methods/5413"
   ],
+  "metrics": [
+    {
+      "id": 48,
+      "title": "Fish Age",
+      "category": "Fish",
+      "subcategory": "Age:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 49,
+      "title": "Jack Composition",
+      "category": "Fish",
+      "subcategory": "Age Structure:  Fish",
+      "isIndicator": true
+    }
+  ],
   "objectives": [
     "Determine natural-origin broodstock by marks and tags ",
     " Send scale samples to the WDFW lab for analysis",

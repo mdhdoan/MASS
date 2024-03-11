@@ -15,6 +15,78 @@
     "http://www.monitoringresources.org/api/v1/methods/4057",
     "http://www.monitoringresources.org/api/v1/methods/4220"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Subbasin production",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 72,
+      "title": "Genetic sampling",
+      "category": "Fish",
+      "subcategory": "Genetics: Fish Diversity, Fitness or Variation",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Fork length",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 77,
+      "title": "Migration timing",
+      "category": "Fish",
+      "subcategory": "Migration Pathways: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 162,
+      "title": "Water temperature--tagging",
+      "category": "Water Quality",
+      "subcategory": "Water Temperature",
+      "isIndicator": false
+    },
+    {
+      "id": 201,
+      "title": "PIT tagging",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Application",
+      "isIndicator": false
+    },
+    {
+      "id": 203,
+      "title": "Scale collection and analysis",
+      "category": "Fish",
+      "subcategory": "Scales",
+      "isIndicator": false
+    },
+    {
+      "id": 206,
+      "title": "Weight",
+      "category": "Fish",
+      "subcategory": "Weight: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 282,
+      "title": "Condition factor",
+      "category": "Fish",
+      "subcategory": "Condition Factor",
+      "isIndicator": false
+    },
+    {
+      "id": 381,
+      "title": "PIT tag abundance/survival modeling",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Recovery or Detection",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Estimate steelhead and spring Chinook smolt production\r\n",
     "Monitor juvenile rainbow-steelhead abundance status and trends \r\n",

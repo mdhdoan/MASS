@@ -8,6 +8,36 @@
     "http://www.monitoringresources.org/api/v1/methods/814",
     "http://www.monitoringresources.org/api/v1/methods/6659"
   ],
+  "metrics": [
+    {
+      "id": 104,
+      "title": "2D Model validation",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Flow",
+      "isIndicator": false
+    },
+    {
+      "id": 104,
+      "title": "2D Modeling of operational scenarios",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Flow",
+      "isIndicator": false
+    },
+    {
+      "id": 104,
+      "title": "Discharge Threshold",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Flow",
+      "isIndicator": false
+    },
+    {
+      "id": 104,
+      "title": "Stranding/Entrapment Risk",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Flow",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Determine operations necessary to displace larval non-native predators"
   ],

@@ -8,6 +8,29 @@
     "http://www.monitoringresources.org/api/v1/methods/6707",
     "http://www.monitoringresources.org/api/v1/methods/6777"
   ],
+  "metrics": [
+    {
+      "id": 245,
+      "title": "Seed biomass in 0.25 meter squared frame",
+      "category": "Vegetation/Plants",
+      "subcategory": "Weight:  Plants",
+      "isIndicator": false
+    },
+    {
+      "id": 245,
+      "title": "Total seed biomass extrapolated in wetland basin",
+      "category": "Vegetation/Plants",
+      "subcategory": "Weight:  Plants",
+      "isIndicator": true
+    },
+    {
+      "id": 245,
+      "title": "Weight of seed in 1 meter squared frame",
+      "category": "Vegetation/Plants",
+      "subcategory": "Weight:  Plants",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "To evaluate different moist soil management practices and compare effectiveness in producing high yields of seed for wildlife forage."
   ],

@@ -8,6 +8,15 @@
     "http://www.monitoringresources.org/api/v1/methods/631",
     "http://www.monitoringresources.org/api/v1/methods/3981"
   ],
+  "metrics": [
+    {
+      "id": 62,
+      "title": "Spatial distribution of spawners",
+      "category": "Fish",
+      "subcategory": "Distribution of Fish Species",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "(1)Count redds in shallow water ",
     "(2)Count redds in deep water"

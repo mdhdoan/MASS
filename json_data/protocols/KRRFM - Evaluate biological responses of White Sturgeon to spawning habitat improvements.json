@@ -12,6 +12,29 @@
     "http://www.monitoringresources.org/api/v1/methods/4185",
     "http://www.monitoringresources.org/api/v1/methods/5550"
   ],
+  "metrics": [
+    {
+      "id": 82,
+      "title": "Relative abundance of sturgeon at enhanced spawning site",
+      "category": "Fish",
+      "subcategory": "Presence/Absence: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 88,
+      "title": "Relative abunance of larval Sturgeon",
+      "category": "Fish",
+      "subcategory": "Relative Reproductive Success (RRS)",
+      "isIndicator": false
+    },
+    {
+      "id": 507,
+      "title": "CPUE of eggs to document spawning",
+      "category": "Fish",
+      "subcategory": "Spawning/Nesting",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Determine Sturgeon spawning use of habitat enhancement",
     "Determine change in hatching success ",

@@ -12,6 +12,29 @@
     "http://www.monitoringresources.org/api/v1/methods/729",
     "http://www.monitoringresources.org/api/v1/methods/933"
   ],
+  "metrics": [
+    {
+      "id": 71,
+      "title": "Smolt genetic stock partitioning",
+      "category": "Fish",
+      "subcategory": "Fraction: Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 72,
+      "title": "Juvenile Smolt Genetic Sampling",
+      "category": "Fish",
+      "subcategory": "Genetics: Fish Diversity, Fitness or Variation",
+      "isIndicator": false
+    },
+    {
+      "id": 72,
+      "title": "Adult Genetic Samping",
+      "category": "Fish",
+      "subcategory": "Genetics: Fish Diversity, Fitness or Variation",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Collect and Process juvenile spring Chinook smolt samples using single nucleotide polymorphisms (SNP) panels to partition mixed stock migrants into population of origin. ",
     "Collect and Process spring Chinook adult genetic samples using SNP panels to contribute to a whole river pedigree analysis."

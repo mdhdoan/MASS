@@ -14,6 +14,50 @@
     "http://www.monitoringresources.org/api/v1/methods/1551",
     "http://www.monitoringresources.org/api/v1/methods/1734"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Potential egg deposition",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 68,
+      "title": "Fecundity",
+      "category": "Fish",
+      "subcategory": "Fecundity:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Mean length",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 99,
+      "title": "Egg to fry survival",
+      "category": "Fish",
+      "subcategory": "Survival Rate: Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 206,
+      "title": "Mean weight",
+      "category": "Fish",
+      "subcategory": "Weight: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 507,
+      "title": "Kokanee Spawner Counts",
+      "category": "Fish",
+      "subcategory": "Spawning/Nesting",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Conduct spawner counts as an index of mature kokanee abundance.",
     "Estimate mean length and weight of spawning Kokanee.",

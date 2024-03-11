@@ -32,6 +32,218 @@
     "http://www.monitoringresources.org/api/v1/methods/6930",
     "http://www.monitoringresources.org/api/v1/methods/6932"
   ],
+  "metrics": [
+    {
+      "id": 20,
+      "title": "Canopy Cover",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Cover",
+      "isIndicator": false
+    },
+    {
+      "id": 25,
+      "title": "Physical Habitat: Wood Distribution",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Distribution of Instream Wood",
+      "isIndicator": false
+    },
+    {
+      "id": 29,
+      "title": "Physical Habitat \"Sinuosity\"",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Edge/Density/Sinuosity",
+      "isIndicator": false
+    },
+    {
+      "id": 30,
+      "title": "Physical Habitat \"Elevation\"",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Elevation",
+      "isIndicator": false
+    },
+    {
+      "id": 32,
+      "title": "Physical Habitat \"Gradient\"",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Gradient",
+      "isIndicator": false
+    },
+    {
+      "id": 33,
+      "title": "CPOM Retention",
+      "category": "Classification of Ecological or Geological Attribute ",
+      "subcategory": "Habitat Quality",
+      "isIndicator": false
+    },
+    {
+      "id": 33,
+      "title": "Leaf Litter Decomposition",
+      "category": "Classification of Ecological or Geological Attribute ",
+      "subcategory": "Habitat Quality",
+      "isIndicator": true
+    },
+    {
+      "id": 36,
+      "title": "Physical Habitat \"Unit Area\"",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Length/Width/Area",
+      "isIndicator": false
+    },
+    {
+      "id": 44,
+      "title": "Physical Habitat \"Bankfull Width\"",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Width: Bankfull ",
+      "isIndicator": false
+    },
+    {
+      "id": 45,
+      "title": "Physical Habitat \"Wetted Width\"",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Width: Wetted",
+      "isIndicator": false
+    },
+    {
+      "id": 46,
+      "title": "Fish Abundance",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 73,
+      "title": "Fish Growth",
+      "category": "Fish",
+      "subcategory": "Growth Rate:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 104,
+      "title": "Hydrology \"Flow\"",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Flow",
+      "isIndicator": false
+    },
+    {
+      "id": 110,
+      "title": "PAR",
+      "category": "Light",
+      "subcategory": "Light Concentration",
+      "isIndicator": false
+    },
+    {
+      "id": 112,
+      "title": "Benthic Macroinvertebrate \"Abundance\"",
+      "category": "Macroinvertebrates",
+      "subcategory": "Abundance of Macroinvertebrates",
+      "isIndicator": false
+    },
+    {
+      "id": 113,
+      "title": "Benthic Macroinvertebrate \"Composition\"",
+      "category": "Macroinvertebrates",
+      "subcategory": "Composition: Macroinvertebrate Species Assemblage",
+      "isIndicator": false
+    },
+    {
+      "id": 132,
+      "title": "Physical Habitat: Substrate Size",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Composition: Substrate/Soil-Dominant Size",
+      "isIndicator": false
+    },
+    {
+      "id": 133,
+      "title": "Physical Habitat: Substrate Type",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Composition: Substrate/Soil-Dominant Type",
+      "isIndicator": false
+    },
+    {
+      "id": 154,
+      "title": "Water Quality: Conductivity",
+      "category": "Water Quality",
+      "subcategory": "Conductivity",
+      "isIndicator": false
+    },
+    {
+      "id": 157,
+      "title": "Water Quality: Nitrogen",
+      "category": "Water Quality",
+      "subcategory": "Nitrogen",
+      "isIndicator": false
+    },
+    {
+      "id": 158,
+      "title": "Water Quality: pH",
+      "category": "Water Quality",
+      "subcategory": "pH",
+      "isIndicator": false
+    },
+    {
+      "id": 159,
+      "title": "Water Quality: Phosphorus",
+      "category": "Water Quality",
+      "subcategory": "Phosphorus",
+      "isIndicator": false
+    },
+    {
+      "id": 162,
+      "title": "Water Quality: Temperature",
+      "category": "Water Quality",
+      "subcategory": "Water Temperature",
+      "isIndicator": false
+    },
+    {
+      "id": 195,
+      "title": "Physical Habitat \"Wood Dimension\"",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Size: Wood Structure",
+      "isIndicator": false
+    },
+    {
+      "id": 196,
+      "title": "Physical Habitat \"Water Level\"",
+      "category": "Other",
+      "subcategory": "Static Water Level",
+      "isIndicator": false
+    },
+    {
+      "id": 241,
+      "title": "Water Quality: Chlorophyll",
+      "category": "Water Quality",
+      "subcategory": "Chlorophyll Concentration",
+      "isIndicator": false
+    },
+    {
+      "id": 244,
+      "title": "Macroinvertebrate \"Drift Density\"",
+      "category": "Macroinvertebrates",
+      "subcategory": "Drift Density",
+      "isIndicator": false
+    },
+    {
+      "id": 246,
+      "title": "C & N Stable Isotope Signatures of Aquatic Food Web",
+      "category": "Other",
+      "subcategory": "Stable Isotope Analysis",
+      "isIndicator": false
+    },
+    {
+      "id": 247,
+      "title": "Water Quality: Nutrient Limitation",
+      "category": "Water Quality",
+      "subcategory": "Nutrient Limitation",
+      "isIndicator": false
+    },
+    {
+      "id": 374,
+      "title": "Physical Habitat \"Wood Density\"",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Density of Instream Wood",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Objective 1: Identify nutrient limited streams within the upper Salmon River subbasin.",
     "Objective 2:  Increase freshwater productivity by adding supplemental nutrients (SCA) to selected streams in the upper Salmon River subbasin.",

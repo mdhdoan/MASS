@@ -10,6 +10,22 @@
     "http://www.monitoringresources.org/api/v1/methods/1671",
     "http://www.monitoringresources.org/api/v1/methods/5419"
   ],
+  "metrics": [
+    {
+      "id": 105,
+      "title": "groundwater elevation",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Ground Water Level Change",
+      "isIndicator": false
+    },
+    {
+      "id": 109,
+      "title": "groundwater temperature",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Hyporheic Flow",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Monitor hourly changes in water table elevation during base flow summer periods in well fields adjacent to restored stream reaches in target watersheds.",
     "Determine whether trends in water table elevation over years support the hypothesis that restoration actions have improved hydrologic connectivity."

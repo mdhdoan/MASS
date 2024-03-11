@@ -9,6 +9,36 @@
     "http://www.monitoringresources.org/api/v1/methods/6624",
     "http://www.monitoringresources.org/api/v1/methods/6629"
   ],
+  "metrics": [
+    {
+      "id": 82,
+      "title": "Presence of Eastern Brook Trout",
+      "category": "Fish",
+      "subcategory": "Presence/Absence: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 82,
+      "title": "Presence of Other Target Species",
+      "category": "Fish",
+      "subcategory": "Presence/Absence: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 82,
+      "title": "Presence of Westslope Cutthroat Trout",
+      "category": "Fish",
+      "subcategory": "Presence/Absence: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 82,
+      "title": "Presence or Absence of Target Species",
+      "category": "Fish",
+      "subcategory": "Presence/Absence: Fish",
+      "isIndicator": true
+    }
+  ],
   "objectives": [
     "Use Environmental DNA (eDNA) sampling to determine the presence or absence of target non-native fish in tributary streams within the Pend Oreille River basin.",
     "Use Environmental DNA (eDNA) sampling to determine the presence or absence of target non-native fish in lakes or rivers within the Pend Oreille River basin.",

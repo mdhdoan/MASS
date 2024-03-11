@@ -13,6 +13,15 @@
     "http://www.monitoringresources.org/api/v1/methods/3991",
     "http://www.monitoringresources.org/api/v1/methods/4184"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Population estimates",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Estimate the abundance of mountain whitefish, rainbow trout, and largescale suckers in order to better inform management decisions.",
     "Evaluate population trends through time to gauge the status of respective species populations relative to induced and naturally occurring changes in the Kootenai River."

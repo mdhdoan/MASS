@@ -27,6 +27,85 @@
     "http://www.monitoringresources.org/api/v1/methods/5548",
     "http://www.monitoringresources.org/api/v1/methods/5550"
   ],
+  "metrics": [
+    {
+      "id": 54,
+      "title": "CPUE of fish for Stratified Random Sampling",
+      "category": "Fish",
+      "subcategory": "Catch Per Unit Effort",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "TFS Fish Length",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 133,
+      "title": "Substrate Assessment",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Composition: Substrate/Soil-Dominant Type",
+      "isIndicator": false
+    },
+    {
+      "id": 149,
+      "title": "Vegetation coverage qualitative valuation",
+      "category": "Vegetation/Plants",
+      "subcategory": "Composition: Vegetative Species Assemblage",
+      "isIndicator": false
+    },
+    {
+      "id": 192,
+      "title": "Landscape and Location",
+      "category": "Classification of Ecological or Geological Attribute ",
+      "subcategory": "Habitat Type",
+      "isIndicator": false
+    },
+    {
+      "id": 232,
+      "title": "Vegetation density qualitative valuation",
+      "category": "Vegetation/Plants",
+      "subcategory": "Density of Vegetation",
+      "isIndicator": false
+    },
+    {
+      "id": 350,
+      "title": "Velocity",
+      "category": "Water Quality",
+      "subcategory": "Water Quality Index",
+      "isIndicator": false
+    },
+    {
+      "id": 350,
+      "title": "Water Quality",
+      "category": "Water Quality",
+      "subcategory": "Water Quality Index",
+      "isIndicator": false
+    },
+    {
+      "id": 358,
+      "title": "Turtle Length",
+      "category": "Reptiles",
+      "subcategory": "Length:  Reptile Species",
+      "isIndicator": false
+    },
+    {
+      "id": 417,
+      "title": "Fish Identification",
+      "category": "Fish",
+      "subcategory": "Species Type: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 489,
+      "title": "Turtle Identification and Sex",
+      "category": "Reptiles",
+      "subcategory": "Sex Type: Reptiles",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "To coordinate and standardize methods, procedures, and field behaviors in the execution of long-term monitoring.",
     "Aims toward gaining data that is scientifically valid, comparable over time, and comparable over space."

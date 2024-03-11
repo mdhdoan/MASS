@@ -9,6 +9,484 @@
     "http://www.monitoringresources.org/api/v1/methods/7100",
     "http://www.monitoringresources.org/api/v1/methods/7101"
   ],
+  "metrics": [
+    {
+      "id": 116,
+      "title": "4 pH Std. Expiration Date",
+      "category": "Time",
+      "subcategory": "Date",
+      "isIndicator": false
+    },
+    {
+      "id": 116,
+      "title": "7 pH Std. Expiration Date",
+      "category": "Time",
+      "subcategory": "Date",
+      "isIndicator": false
+    },
+    {
+      "id": 116,
+      "title": "Barometer Cal. Due Date",
+      "category": "Time",
+      "subcategory": "Date",
+      "isIndicator": false
+    },
+    {
+      "id": 116,
+      "title": "Date of Calibration",
+      "category": "Time",
+      "subcategory": "Date",
+      "isIndicator": false
+    },
+    {
+      "id": 116,
+      "title": "Date of Deployment (RTM) / First Measurement (Discrete)",
+      "category": "Time",
+      "subcategory": "Date",
+      "isIndicator": false
+    },
+    {
+      "id": 116,
+      "title": "Date Removed",
+      "category": "Time",
+      "subcategory": "Date",
+      "isIndicator": false
+    },
+    {
+      "id": 116,
+      "title": "Specific Conductance Standard Expiration Date",
+      "category": "Time",
+      "subcategory": "Date",
+      "isIndicator": false
+    },
+    {
+      "id": 116,
+      "title": "Turbidimeter Calibration Due Date",
+      "category": "Time",
+      "subcategory": "Date",
+      "isIndicator": false
+    },
+    {
+      "id": 116,
+      "title": "Turbidity Standard Expiration Date",
+      "category": "Time",
+      "subcategory": "Date",
+      "isIndicator": false
+    },
+    {
+      "id": 120,
+      "title": "Time (PST) of Deployment (RTM) / First Measurement (Discrete)",
+      "category": "Time",
+      "subcategory": "Time: Actual",
+      "isIndicator": false
+    },
+    {
+      "id": 120,
+      "title": "Time of Calibration (PST)",
+      "category": "Time",
+      "subcategory": "Time: Actual",
+      "isIndicator": false
+    },
+    {
+      "id": 120,
+      "title": "Time Removed (PST)",
+      "category": "Time",
+      "subcategory": "Time: Actual",
+      "isIndicator": false
+    },
+    {
+      "id": 154,
+      "title": "Specific Conductance (\u00b5S/cm) in air",
+      "category": "Water Quality",
+      "subcategory": "Conductivity",
+      "isIndicator": false
+    },
+    {
+      "id": 154,
+      "title": "Specific Conductance (\u00b5S/cm) in Std Post-cal",
+      "category": "Water Quality",
+      "subcategory": "Conductivity",
+      "isIndicator": false
+    },
+    {
+      "id": 154,
+      "title": "Specific Conductance (\u00b5S/cm) in Std Pre-cal",
+      "category": "Water Quality",
+      "subcategory": "Conductivity",
+      "isIndicator": false
+    },
+    {
+      "id": 154,
+      "title": "Specific Conductance (\u00b5S/cm) in Std Standard",
+      "category": "Water Quality",
+      "subcategory": "Conductivity",
+      "isIndicator": false
+    },
+    {
+      "id": 154,
+      "title": "Specific Conductance in Std Pre-cal",
+      "category": "Water Quality",
+      "subcategory": "Conductivity",
+      "isIndicator": false
+    },
+    {
+      "id": 155,
+      "title": "Dissolved Oxygen (%sat) Post-Cal",
+      "category": "Water Quality",
+      "subcategory": "Dissolved Gas Concentration (By Gas)",
+      "isIndicator": false
+    },
+    {
+      "id": 155,
+      "title": "Dissolved Oxygen (%sat) Pre-Cal",
+      "category": "Water Quality",
+      "subcategory": "Dissolved Gas Concentration (By Gas)",
+      "isIndicator": false
+    },
+    {
+      "id": 155,
+      "title": "Dissolved Oxygen (%sat) Standard",
+      "category": "Water Quality",
+      "subcategory": "Dissolved Gas Concentration (By Gas)",
+      "isIndicator": false
+    },
+    {
+      "id": 155,
+      "title": "Dissolved Oxygen (mg/L)",
+      "category": "Water Quality",
+      "subcategory": "Dissolved Gas Concentration (By Gas)",
+      "isIndicator": false
+    },
+    {
+      "id": 155,
+      "title": "Dissolved Oxygen (mg/L) Post-Cal",
+      "category": "Water Quality",
+      "subcategory": "Dissolved Gas Concentration (By Gas)",
+      "isIndicator": false
+    },
+    {
+      "id": 155,
+      "title": "Dissolved Oxygen (mg/L) Pre-Cal",
+      "category": "Water Quality",
+      "subcategory": "Dissolved Gas Concentration (By Gas)",
+      "isIndicator": false
+    },
+    {
+      "id": 155,
+      "title": "Dissolved Oxygen (mg/L) Standard",
+      "category": "Water Quality",
+      "subcategory": "Dissolved Gas Concentration (By Gas)",
+      "isIndicator": false
+    },
+    {
+      "id": 158,
+      "title": "4 pH (units)",
+      "category": "Water Quality",
+      "subcategory": "pH",
+      "isIndicator": false
+    },
+    {
+      "id": 158,
+      "title": "4 pH (units) Post-Cal",
+      "category": "Water Quality",
+      "subcategory": "pH",
+      "isIndicator": false
+    },
+    {
+      "id": 158,
+      "title": "4 pH (units) Pre-Cal",
+      "category": "Water Quality",
+      "subcategory": "pH",
+      "isIndicator": false
+    },
+    {
+      "id": 158,
+      "title": "4 pH (units) Standard",
+      "category": "Water Quality",
+      "subcategory": "pH",
+      "isIndicator": false
+    },
+    {
+      "id": 158,
+      "title": "7 pH (units)",
+      "category": "Water Quality",
+      "subcategory": "pH",
+      "isIndicator": false
+    },
+    {
+      "id": 158,
+      "title": "7 pH (units) Post-Cal",
+      "category": "Water Quality",
+      "subcategory": "pH",
+      "isIndicator": false
+    },
+    {
+      "id": 158,
+      "title": "7 pH (units) Pre-Cal",
+      "category": "Water Quality",
+      "subcategory": "pH",
+      "isIndicator": false
+    },
+    {
+      "id": 158,
+      "title": "7 pH (units) Standard",
+      "category": "Water Quality",
+      "subcategory": "pH",
+      "isIndicator": false
+    },
+    {
+      "id": 161,
+      "title": "Turbidity (FNU) in DIW - Low Post-Cal",
+      "category": "Water Quality",
+      "subcategory": "Turbidity",
+      "isIndicator": false
+    },
+    {
+      "id": 161,
+      "title": "Turbidity (FNU) in DIW - Low Pre-Cal",
+      "category": "Water Quality",
+      "subcategory": "Turbidity",
+      "isIndicator": false
+    },
+    {
+      "id": 161,
+      "title": "Turbidity (FNU) in DIW - Low Standard",
+      "category": "Water Quality",
+      "subcategory": "Turbidity",
+      "isIndicator": false
+    },
+    {
+      "id": 161,
+      "title": "Turbidity (FNU) in Std - High Post-Cal",
+      "category": "Water Quality",
+      "subcategory": "Turbidity",
+      "isIndicator": false
+    },
+    {
+      "id": 161,
+      "title": "Turbidity (FNU) in Std - High Pre-Cal",
+      "category": "Water Quality",
+      "subcategory": "Turbidity",
+      "isIndicator": false
+    },
+    {
+      "id": 161,
+      "title": "Turbidity (FNU) in Std - High Standard",
+      "category": "Water Quality",
+      "subcategory": "Turbidity",
+      "isIndicator": false
+    },
+    {
+      "id": 162,
+      "title": "NIST Thermometer Standard Temperature",
+      "category": "Water Quality",
+      "subcategory": "Water Temperature",
+      "isIndicator": false
+    },
+    {
+      "id": 162,
+      "title": "Temp. (\u00b0C) in bucket",
+      "category": "Water Quality",
+      "subcategory": "Water Temperature",
+      "isIndicator": false
+    },
+    {
+      "id": 162,
+      "title": "Temperature Post-cal",
+      "category": "Water Quality",
+      "subcategory": "Water Temperature",
+      "isIndicator": false
+    },
+    {
+      "id": 162,
+      "title": "Temperature Pre-cal",
+      "category": "Water Quality",
+      "subcategory": "Water Temperature",
+      "isIndicator": false
+    },
+    {
+      "id": 218,
+      "title": "Site Removed From / Run Used On",
+      "category": "Other",
+      "subcategory": "Location",
+      "isIndicator": false
+    },
+    {
+      "id": 218,
+      "title": "Site/Run to be used on",
+      "category": "Other",
+      "subcategory": "Location",
+      "isIndicator": false
+    },
+    {
+      "id": 241,
+      "title": "Blue Green Algae (\u00b5g/L) in DIW Post-Cal",
+      "category": "Water Quality",
+      "subcategory": "Chlorophyll Concentration",
+      "isIndicator": false
+    },
+    {
+      "id": 241,
+      "title": "Blue Green Algae (\u00b5g/L) in DIW Pre-Cal",
+      "category": "Water Quality",
+      "subcategory": "Chlorophyll Concentration",
+      "isIndicator": false
+    },
+    {
+      "id": 241,
+      "title": "Blue Green Algae (\u00b5g/L) in DIW Standard",
+      "category": "Water Quality",
+      "subcategory": "Chlorophyll Concentration",
+      "isIndicator": false
+    },
+    {
+      "id": 241,
+      "title": "Blue Green Algae (RFU) in DIW Post-Cal",
+      "category": "Water Quality",
+      "subcategory": "Chlorophyll Concentration",
+      "isIndicator": false
+    },
+    {
+      "id": 241,
+      "title": "Blue Green Algae (RFU) in DIW Pre-Cal",
+      "category": "Water Quality",
+      "subcategory": "Chlorophyll Concentration",
+      "isIndicator": false
+    },
+    {
+      "id": 241,
+      "title": "Blue Green Algae (RFU) in DIW Standard",
+      "category": "Water Quality",
+      "subcategory": "Chlorophyll Concentration",
+      "isIndicator": false
+    },
+    {
+      "id": 241,
+      "title": "Chlorophyll (\u00b5g/L) in DIW - Standard",
+      "category": "Water Quality",
+      "subcategory": "Chlorophyll Concentration",
+      "isIndicator": false
+    },
+    {
+      "id": 241,
+      "title": "Chlorophyll (\u00b5g/L) in DIW Post-Cal",
+      "category": "Water Quality",
+      "subcategory": "Chlorophyll Concentration",
+      "isIndicator": false
+    },
+    {
+      "id": 241,
+      "title": "Chlorophyll (\u00b5g/L) in DIW Pre-Cal",
+      "category": "Water Quality",
+      "subcategory": "Chlorophyll Concentration",
+      "isIndicator": false
+    },
+    {
+      "id": 241,
+      "title": "Chlorophyll (RFU) in DIW Post-Cal",
+      "category": "Water Quality",
+      "subcategory": "Chlorophyll Concentration",
+      "isIndicator": false
+    },
+    {
+      "id": 241,
+      "title": "Chlorophyll (RFU) in DIW Pre-Cal",
+      "category": "Water Quality",
+      "subcategory": "Chlorophyll Concentration",
+      "isIndicator": false
+    },
+    {
+      "id": 241,
+      "title": "Chlorophyll (RFU) in DIW Standard",
+      "category": "Water Quality",
+      "subcategory": "Chlorophyll Concentration",
+      "isIndicator": false
+    },
+    {
+      "id": 336,
+      "title": "Depth Post-Cal",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Gauge",
+      "isIndicator": false
+    },
+    {
+      "id": 336,
+      "title": "Depth Pre-Cal",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Gauge",
+      "isIndicator": false
+    },
+    {
+      "id": 336,
+      "title": "Depth Standard",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Gauge",
+      "isIndicator": false
+    },
+    {
+      "id": 512,
+      "title": "4 pH Std. Lot #",
+      "category": "Equipment ",
+      "subcategory": "Identification ",
+      "isIndicator": false
+    },
+    {
+      "id": 512,
+      "title": "7 pH Std. Lot #",
+      "category": "Equipment ",
+      "subcategory": "Identification ",
+      "isIndicator": false
+    },
+    {
+      "id": 512,
+      "title": "Barometer S/N",
+      "category": "Equipment ",
+      "subcategory": "Identification ",
+      "isIndicator": false
+    },
+    {
+      "id": 512,
+      "title": "Instrument ID",
+      "category": "Equipment ",
+      "subcategory": "Identification ",
+      "isIndicator": false
+    },
+    {
+      "id": 512,
+      "title": "NIST Thermometer Calibration Due Date",
+      "category": "Equipment ",
+      "subcategory": "Identification ",
+      "isIndicator": false
+    },
+    {
+      "id": 512,
+      "title": "NIST Thermometer S/N",
+      "category": "Equipment ",
+      "subcategory": "Identification ",
+      "isIndicator": false
+    },
+    {
+      "id": 512,
+      "title": "Specific Conductance Standard Lot #",
+      "category": "Equipment ",
+      "subcategory": "Identification ",
+      "isIndicator": false
+    },
+    {
+      "id": 512,
+      "title": "Turbidimeter S/N",
+      "category": "Equipment ",
+      "subcategory": "Identification ",
+      "isIndicator": false
+    },
+    {
+      "id": 512,
+      "title": "Turbidity Standard Lot #",
+      "category": "Equipment ",
+      "subcategory": "Identification ",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Calibrate, deploy, retrieve, quality assure, and report real time water quality data."
   ],

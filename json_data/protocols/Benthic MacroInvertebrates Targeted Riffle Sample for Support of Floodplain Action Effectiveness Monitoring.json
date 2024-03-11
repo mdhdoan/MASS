@@ -8,6 +8,22 @@
     "http://www.monitoringresources.org/api/v1/methods/89",
     "http://www.monitoringresources.org/api/v1/methods/4073"
   ],
+  "metrics": [
+    {
+      "id": 116,
+      "title": "Sample Date",
+      "category": "Time",
+      "subcategory": "Date",
+      "isIndicator": false
+    },
+    {
+      "id": 218,
+      "title": "GPS Coordinates",
+      "category": "Other",
+      "subcategory": "Location",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Determine secondary production (macroinvertebrates) by habitat type (Years -2, -1, 1, 3, and 5)"
   ],

@@ -25,6 +25,7 @@
     "http://www.monitoringresources.org/api/v1/methods/305",
     "http://www.monitoringresources.org/api/v1/methods/308"
   ],
+  "metrics": [],
   "objectives": [
     "Provide consistency with how habitat variable data is collected throughout the Columbia Basin Region in support of the Columbia River Wildlife Mitigation Program funded by BPA."
   ],

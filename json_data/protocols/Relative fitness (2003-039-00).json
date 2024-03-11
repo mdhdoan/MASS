@@ -24,6 +24,113 @@
     "http://www.monitoringresources.org/api/v1/methods/4000",
     "http://www.monitoringresources.org/api/v1/methods/4001"
   ],
+  "metrics": [
+    {
+      "id": 31,
+      "title": "Redd Dimesnsions",
+      "category": "Classification of Ecological or Geological Attribute ",
+      "subcategory": "Form/Morphology",
+      "isIndicator": false
+    },
+    {
+      "id": 39,
+      "title": "Spawning Site: Cover Types",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Species Cover",
+      "isIndicator": false
+    },
+    {
+      "id": 45,
+      "title": "Redd: Stream Width",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Width: Wetted",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Tumwater: Fish Length",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 86,
+      "title": "RRS: Recruits Per Spawner",
+      "category": "Fish",
+      "subcategory": "Progeny-per-Parent Ratio (P:P) (Productivity)",
+      "isIndicator": true
+    },
+    {
+      "id": 88,
+      "title": "Relative Reproductive Success",
+      "category": "Fish",
+      "subcategory": "Relative Reproductive Success (RRS)",
+      "isIndicator": true
+    },
+    {
+      "id": 93,
+      "title": "Tumwater:Gender",
+      "category": "Fish",
+      "subcategory": "Sex Type: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 104,
+      "title": "Redds Velocity",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Flow",
+      "isIndicator": false
+    },
+    {
+      "id": 133,
+      "title": "Redd Substrate Composition",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Composition: Substrate/Soil-Dominant Type",
+      "isIndicator": false
+    },
+    {
+      "id": 201,
+      "title": "PIT Tags Detections",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Application",
+      "isIndicator": false
+    },
+    {
+      "id": 202,
+      "title": "Returner and Spawner Origin",
+      "category": "Fish",
+      "subcategory": "Origin",
+      "isIndicator": false
+    },
+    {
+      "id": 203,
+      "title": "Age Estimation",
+      "category": "Fish",
+      "subcategory": "Scales",
+      "isIndicator": false
+    },
+    {
+      "id": 206,
+      "title": "Tumwater: Fish Weight",
+      "category": "Fish",
+      "subcategory": "Weight: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 381,
+      "title": "Tumwater and In-stream PIT Tag Recapture",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Recovery or Detection",
+      "isIndicator": false
+    },
+    {
+      "id": 436,
+      "title": "Genetic Tissue Sample",
+      "category": "Fish",
+      "subcategory": "Tissue Sample: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Determine the degree to which differences in fitness can be explained by measurable biological traits that differ between hatchery and wild fish",
     "Estimate the relative fitness of hatchery-lineage Chinook salmon after they have experienced an entire generation in the natural environment.  ",

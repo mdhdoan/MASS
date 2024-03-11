@@ -19,6 +19,57 @@
     "http://www.monitoringresources.org/api/v1/methods/6652",
     "http://www.monitoringresources.org/api/v1/methods/6653"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Tributary based adult spawn escapement",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 46,
+      "title": "Spawn Escapement",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 49,
+      "title": "Age at return",
+      "category": "Fish",
+      "subcategory": "Age Structure:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 62,
+      "title": "Tributary Occupancy",
+      "category": "Fish",
+      "subcategory": "Distribution of Fish Species",
+      "isIndicator": true
+    },
+    {
+      "id": 75,
+      "title": "Adult length at return",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 96,
+      "title": "Hatchery-origin Stray Rate",
+      "category": "Fish",
+      "subcategory": "Stray Rate",
+      "isIndicator": false
+    },
+    {
+      "id": 507,
+      "title": "Spawn Timing",
+      "category": "Fish",
+      "subcategory": "Spawning/Nesting",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Recover spring Chinook carcasses in the Okanogan river basin, and compile data associated with carcass recoveries (age, length, sex, origin, tag history [PIT, cwt, radio tag, etc.], and spawn status).",
     "Document and quantify spring Chinook spawning in the U.S. portion of the Okanogan river basin"

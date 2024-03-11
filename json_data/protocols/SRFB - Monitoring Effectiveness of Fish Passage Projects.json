@@ -13,6 +13,64 @@
     "http://www.monitoringresources.org/api/v1/methods/913",
     "http://www.monitoringresources.org/api/v1/methods/914"
   ],
+  "metrics": [
+    {
+      "id": 36,
+      "title": "Reach Length",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Length/Width/Area",
+      "isIndicator": false
+    },
+    {
+      "id": 36,
+      "title": "Reach Width",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Length/Width/Area",
+      "isIndicator": false
+    },
+    {
+      "id": 59,
+      "title": "Juvenile Fish Density",
+      "category": "Fish",
+      "subcategory": "Density of Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 59,
+      "title": "Spawner Density",
+      "category": "Fish",
+      "subcategory": "Density of Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 116,
+      "title": "Sample Date",
+      "category": "Time",
+      "subcategory": "Date",
+      "isIndicator": false
+    },
+    {
+      "id": 218,
+      "title": "GPS Coordinates",
+      "category": "Other",
+      "subcategory": "Location",
+      "isIndicator": false
+    },
+    {
+      "id": 407,
+      "title": "Fish Passage Design",
+      "category": "Disturbance/Restoration",
+      "subcategory": "Restoration Action",
+      "isIndicator": false
+    },
+    {
+      "id": 507,
+      "title": "Redd Density",
+      "category": "Fish",
+      "subcategory": "Spawning/Nesting",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Determine salmon abundance both in the downstream control reach and impact reach upstream of the fish blockage for each project. (Years 1, 2, and 5)",
     "Determine whether fish passage design criteria are being met at each project monitored. (Years 1, 2, and 5)",

@@ -14,6 +14,50 @@
     "http://www.monitoringresources.org/api/v1/methods/6583",
     "http://www.monitoringresources.org/api/v1/methods/6678"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Sanpoil River kokanee salmon escapement",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 46,
+      "title": "Sanpoil River redband trout Escapement",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 73,
+      "title": "Growth rates of adult kokanee",
+      "category": "Fish",
+      "subcategory": "Growth Rate:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 92,
+      "title": "Sanpoil River adult kokanee sex ratio",
+      "category": "Fish",
+      "subcategory": "Sex Ratio: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 202,
+      "title": "Sanpoil River adult kokanee origin",
+      "category": "Fish",
+      "subcategory": "Origin",
+      "isIndicator": false
+    },
+    {
+      "id": 202,
+      "title": "Sanpoil River adult redband trout origin",
+      "category": "Fish",
+      "subcategory": "Origin",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Quantify escapement and population structure of wild redband trout in the Sanpoil River",
     "Quantify escapement and population structure of wild kokanee salmon in the Sanpoil River"

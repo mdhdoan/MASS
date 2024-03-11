@@ -11,6 +11,57 @@
     "http://www.monitoringresources.org/api/v1/methods/6834",
     "http://www.monitoringresources.org/api/v1/methods/6841"
   ],
+  "metrics": [
+    {
+      "id": 73,
+      "title": "Net Pen: Growth of Hatchery Origin Fish",
+      "category": "Fish",
+      "subcategory": "Growth Rate:  Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 75,
+      "title": "Net Pen: Fish Length",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 76,
+      "title": "Net Pen: Adipose Fin Clip",
+      "category": "Fish",
+      "subcategory": "Mark Retention",
+      "isIndicator": false
+    },
+    {
+      "id": 78,
+      "title": "Net Pen- Rearing Survival",
+      "category": "Fish",
+      "subcategory": "Mortality: Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 206,
+      "title": "Net Pen: Fish Weight",
+      "category": "Fish",
+      "subcategory": "Weight: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 282,
+      "title": "Net Pen- Fish Condition",
+      "category": "Fish",
+      "subcategory": "Condition Factor",
+      "isIndicator": true
+    },
+    {
+      "id": 381,
+      "title": "Hatchery Adipose Fin Clip Percentage",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Recovery or Detection",
+      "isIndicator": true
+    }
+  ],
   "objectives": [
     "Conduct annual net pen Quality Assurance (QA) surveys assessing triploid Rainbow Trout fin clip performance, condition, and enumerations of net pens to characterize rearing survival."
   ],

@@ -32,6 +32,148 @@
     "http://www.monitoringresources.org/api/v1/methods/7055",
     "http://www.monitoringresources.org/api/v1/methods/7132"
   ],
+  "metrics": [
+    {
+      "id": 15,
+      "title": "Pool Frequency",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Abundance of Habitat Types",
+      "isIndicator": false
+    },
+    {
+      "id": 32,
+      "title": "Reach Gradient",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Gradient",
+      "isIndicator": false
+    },
+    {
+      "id": 37,
+      "title": "Pool Depth",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Depth: Pool",
+      "isIndicator": false
+    },
+    {
+      "id": 43,
+      "title": "Bankful Width to Depth Ratio",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Width to Depth Ratio",
+      "isIndicator": false
+    },
+    {
+      "id": 44,
+      "title": "Bankfull width",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Width: Bankfull ",
+      "isIndicator": false
+    },
+    {
+      "id": 45,
+      "title": "Wet Width",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Width: Wetted",
+      "isIndicator": false
+    },
+    {
+      "id": 113,
+      "title": "Community Composition Index",
+      "category": "Macroinvertebrates",
+      "subcategory": "Composition: Macroinvertebrate Species Assemblage",
+      "isIndicator": false
+    },
+    {
+      "id": 115,
+      "title": "Abundance of invasive species",
+      "category": "Multi-Species",
+      "subcategory": "Abundance of Invasive Species",
+      "isIndicator": false
+    },
+    {
+      "id": 154,
+      "title": "Conductivity measurement",
+      "category": "Water Quality",
+      "subcategory": "Conductivity",
+      "isIndicator": false
+    },
+    {
+      "id": 155,
+      "title": "% DO",
+      "category": "Water Quality",
+      "subcategory": "Dissolved Gas Concentration (By Gas)",
+      "isIndicator": false
+    },
+    {
+      "id": 157,
+      "title": "Total nitrogen",
+      "category": "Water Quality",
+      "subcategory": "Nitrogen",
+      "isIndicator": false
+    },
+    {
+      "id": 158,
+      "title": "pH",
+      "category": "Water Quality",
+      "subcategory": "pH",
+      "isIndicator": false
+    },
+    {
+      "id": 159,
+      "title": "Total phosphorous",
+      "category": "Water Quality",
+      "subcategory": "Phosphorus",
+      "isIndicator": false
+    },
+    {
+      "id": 162,
+      "title": "Water temperature",
+      "category": "Water Quality",
+      "subcategory": "Water Temperature",
+      "isIndicator": false
+    },
+    {
+      "id": 188,
+      "title": "Bankfull height",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Depth/Height: Bankfull ",
+      "isIndicator": false
+    },
+    {
+      "id": 225,
+      "title": "Percentage of fine Sediments",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Distribution of Sediment",
+      "isIndicator": false
+    },
+    {
+      "id": 225,
+      "title": "Substrate D50 (Median Particle Size)",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Distribution of Sediment",
+      "isIndicator": false
+    },
+    {
+      "id": 369,
+      "title": "Flood-Plain Connectivity",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Aquatic or Floodplain Geomorphology:  Area",
+      "isIndicator": false
+    },
+    {
+      "id": 374,
+      "title": "Wood Frequency",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Density of Instream Wood",
+      "isIndicator": false
+    },
+    {
+      "id": 394,
+      "title": "Beaver presence in the reach",
+      "category": "Mammals",
+      "subcategory": "Presence/Absence: Mammals",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Is the Northwest Forest Plan (NWFP) maintaining or restoring aquatic and riparian ecosystems to desired conditions on federal lands in the Forest Plan area?",
     "Provide information for adaptive management by analyzing trends in watershed condition and identifying causes of unsuitable or unacceptable conditions.",

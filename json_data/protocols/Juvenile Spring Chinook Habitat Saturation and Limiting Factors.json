@@ -12,6 +12,78 @@
     "http://www.monitoringresources.org/api/v1/methods/6685",
     "http://www.monitoringresources.org/api/v1/methods/6695"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Fish",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 49,
+      "title": "Age Class",
+      "category": "Fish",
+      "subcategory": "Age Structure:  Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 51,
+      "title": "Snorkeling",
+      "category": "Fish",
+      "subcategory": "Carrying Capacity: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 104,
+      "title": "Flow Measurment",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Flow",
+      "isIndicator": false
+    },
+    {
+      "id": 104,
+      "title": "transect",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Flow",
+      "isIndicator": true
+    },
+    {
+      "id": 133,
+      "title": "Substrate Composition",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Composition: Substrate/Soil-Dominant Type",
+      "isIndicator": false
+    },
+    {
+      "id": 162,
+      "title": "Temperature",
+      "category": "Water Quality",
+      "subcategory": "Water Temperature",
+      "isIndicator": true
+    },
+    {
+      "id": 232,
+      "title": "Cover",
+      "category": "Vegetation/Plants",
+      "subcategory": "Density of Vegetation",
+      "isIndicator": false
+    },
+    {
+      "id": 249,
+      "title": "Competition",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish Competitors",
+      "isIndicator": true
+    },
+    {
+      "id": 460,
+      "title": "Transect",
+      "category": "Classification of Ecological or Geological Attribute ",
+      "subcategory": "Hydraulic Code",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Annually assess the limiting factors of carrying capacity for Spring Chinook Salmon."
   ],

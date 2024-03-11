@@ -10,6 +10,50 @@
     "http://www.monitoringresources.org/api/v1/methods/1432",
     "http://www.monitoringresources.org/api/v1/methods/5446"
   ],
+  "metrics": [
+    {
+      "id": 72,
+      "title": "Lamprey species identification",
+      "category": "Fish",
+      "subcategory": "Genetics: Fish Diversity, Fitness or Variation",
+      "isIndicator": false
+    },
+    {
+      "id": 77,
+      "title": "Patterns of juvenile dispersal from the spawning site within the tributary",
+      "category": "Fish",
+      "subcategory": "Migration Pathways: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 77,
+      "title": "Size, age and transformation status of juveniles upon out-migration from the tributary",
+      "category": "Fish",
+      "subcategory": "Migration Pathways: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 77,
+      "title": "Physiology and life history of returning adults",
+      "category": "Fish",
+      "subcategory": "Migration Pathways: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 88,
+      "title": "Effective number of tributary spawners",
+      "category": "Fish",
+      "subcategory": "Relative Reproductive Success (RRS)",
+      "isIndicator": false
+    },
+    {
+      "id": 507,
+      "title": "Mating strategies during natural spawning",
+      "category": "Fish",
+      "subcategory": "Spawning/Nesting",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Collect tissue samples from all adult lamprey collected for regional restoration efforts (e.g. translocation and artificial propagation) from mainstem Columbia River dams.",
     "Strategically collect tissue samples from larval/juvenile lampreys during regional research/monitoring efforts (e.g. electrofishing and screw trap monitoring) in CRB study/control streams.",

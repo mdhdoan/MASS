@@ -16,6 +16,50 @@
     "http://www.monitoringresources.org/api/v1/methods/4041",
     "http://www.monitoringresources.org/api/v1/methods/5400"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Oncorhynchus nerka age specific abundance",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 51,
+      "title": "Sawtooth Basin Lakes carrying capacity",
+      "category": "Fish",
+      "subcategory": "Carrying Capacity: Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 59,
+      "title": "Oncorhynchus nerka densities",
+      "category": "Fish",
+      "subcategory": "Density of Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Length of Oncorhynchus nerka",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 95,
+      "title": "Stock proportions of Oncorhynchus nerka",
+      "category": "Fish",
+      "subcategory": "Stock Identity",
+      "isIndicator": true
+    },
+    {
+      "id": 206,
+      "title": "Oncorhynchus nerka biomass",
+      "category": "Fish",
+      "subcategory": "Weight: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Describe O. nerka population characteristics for Sawtooth basin lakes in relation to carrying capacity and broodstock program supplementation efforts."
   ],

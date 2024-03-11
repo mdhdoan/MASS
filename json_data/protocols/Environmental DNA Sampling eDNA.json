@@ -14,6 +14,7 @@
     "http://www.monitoringresources.org/api/v1/methods/5497",
     "http://www.monitoringresources.org/api/v1/methods/5501"
   ],
+  "metrics": [],
   "objectives": [
     "The objectives of eDNA monitoring are to identify the presence of DNA fragments in environmental samples that are diagnostic of the recent proximity of individuals of a species or set of species."
   ],

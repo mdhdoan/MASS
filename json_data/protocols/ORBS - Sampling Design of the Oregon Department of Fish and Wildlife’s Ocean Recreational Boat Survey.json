@@ -19,6 +19,7 @@
     "http://www.monitoringresources.org/api/v1/methods/249",
     "http://www.monitoringresources.org/api/v1/methods/264"
   ],
+  "metrics": [],
   "objectives": [
     "To estimate catch and effort are made for the marine recreational fishery by the Ocean Recreational Boat Survey."
   ],

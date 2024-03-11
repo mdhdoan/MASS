@@ -13,6 +13,57 @@
     "http://www.monitoringresources.org/api/v1/methods/3785",
     "http://www.monitoringresources.org/api/v1/methods/3814"
   ],
+  "metrics": [
+    {
+      "id": 57,
+      "title": "Smoltification development of Umatilla Fall Chinook salmon",
+      "category": "Fish",
+      "subcategory": "Condition of Life Stage:  Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 73,
+      "title": "Growth in length, weight, and condition factor of experimental Umatilla Fall Chinook",
+      "category": "Fish",
+      "subcategory": "Growth Rate:  Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 75,
+      "title": "fish fork length (mm)",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 80,
+      "title": "Precocious male maturation of experimental Umatilla Fall Chinook (minijack rates)",
+      "category": "Fish",
+      "subcategory": "Precociousness",
+      "isIndicator": true
+    },
+    {
+      "id": 93,
+      "title": "Sex of fish",
+      "category": "Fish",
+      "subcategory": "Sex Type: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 206,
+      "title": "fish wet weight (g)",
+      "category": "Fish",
+      "subcategory": "Weight: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 436,
+      "title": "blood/plasma sample",
+      "category": "Fish",
+      "subcategory": "Tissue Sample: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Assess seasonal physiological status of fish in a feeding study to help determine how  changes in growth rate and adiposity may affect the propensity of male URB fall Chinook salmon to mature.",
     "Determine the proportion of male Umatilla URB fall Chinook salmon undergoing early male maturation at age-1 and 2 in a 2x2 factorial size x dietary ration study."

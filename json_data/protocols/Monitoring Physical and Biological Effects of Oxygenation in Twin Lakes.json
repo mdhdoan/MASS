@@ -9,6 +9,57 @@
     "http://www.monitoringresources.org/api/v1/methods/980",
     "http://www.monitoringresources.org/api/v1/methods/3931"
   ],
+  "metrics": [
+    {
+      "id": 112,
+      "title": "Copepod Biomass",
+      "category": "Macroinvertebrates",
+      "subcategory": "Abundance of Macroinvertebrates",
+      "isIndicator": false
+    },
+    {
+      "id": 112,
+      "title": "Daphnia Biomass",
+      "category": "Macroinvertebrates",
+      "subcategory": "Abundance of Macroinvertebrates",
+      "isIndicator": false
+    },
+    {
+      "id": 157,
+      "title": "Ammonia Concentration",
+      "category": "Water Quality",
+      "subcategory": "Nitrogen",
+      "isIndicator": false
+    },
+    {
+      "id": 157,
+      "title": "Nitrate/nitrite concentration",
+      "category": "Water Quality",
+      "subcategory": "Nitrogen",
+      "isIndicator": false
+    },
+    {
+      "id": 159,
+      "title": "Orthophosphate Concentration",
+      "category": "Water Quality",
+      "subcategory": "Phosphorus",
+      "isIndicator": false
+    },
+    {
+      "id": 159,
+      "title": "Phosphorus Concentration",
+      "category": "Water Quality",
+      "subcategory": "Phosphorus",
+      "isIndicator": false
+    },
+    {
+      "id": 161,
+      "title": "Turbidity",
+      "category": "Water Quality",
+      "subcategory": "Turbidity",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Determine if oxygenation in North Twin Lake has resulted in physical or biological changes relative to unoxygenated South Twin Lake. ",
     "Determine daphnia and copepod abundance and distribution in Twin Lakes.",

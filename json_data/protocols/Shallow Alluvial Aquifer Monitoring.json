@@ -12,6 +12,22 @@
     "http://www.monitoringresources.org/api/v1/methods/1670",
     "http://www.monitoringresources.org/api/v1/methods/1671"
   ],
+  "metrics": [
+    {
+      "id": 105,
+      "title": "Groundwater levels",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Ground Water Level Change",
+      "isIndicator": false
+    },
+    {
+      "id": 162,
+      "title": "Groundwater temperature",
+      "category": "Water Quality",
+      "subcategory": "Water Temperature",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Prepare groundwater data for use in other studies, including model development, watershed planning, groundwater/surface water interactions and others",
     "Collect groundwater data at wells with both continuous data loggers and quarterly manual water level measurements."

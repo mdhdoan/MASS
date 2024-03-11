@@ -10,6 +10,106 @@
     "http://www.monitoringresources.org/api/v1/methods/6648",
     "http://www.monitoringresources.org/api/v1/methods/6649"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Hatchery Production Abundance",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 61,
+      "title": "In-Hatchery Juvenile Disease Monitoring",
+      "category": "Fish",
+      "subcategory": "Disease/Parasite Concentration: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 66,
+      "title": "Female Spawner ELISA Values",
+      "category": "Fish",
+      "subcategory": "ELISA Values: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 68,
+      "title": "Fecundity by Age",
+      "category": "Fish",
+      "subcategory": "Fecundity:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Size at Release",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Length of Broodstock Spawner",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 76,
+      "title": "Pre-release Mark Retention",
+      "category": "Fish",
+      "subcategory": "Mark Retention",
+      "isIndicator": false
+    },
+    {
+      "id": 76,
+      "title": "Pre-release Tag Retention",
+      "category": "Fish",
+      "subcategory": "Mark Retention",
+      "isIndicator": false
+    },
+    {
+      "id": 79,
+      "title": "Hatchery Broodstock Pre-spawn Mortality",
+      "category": "Fish",
+      "subcategory": "Mortality Rate",
+      "isIndicator": false
+    },
+    {
+      "id": 99,
+      "title": "In-hatchery Life Stage Survival",
+      "category": "Fish",
+      "subcategory": "Survival Rate: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 101,
+      "title": "Hatchery Release Timing",
+      "category": "Fish",
+      "subcategory": "Timing of Life Stage: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 101,
+      "title": "Spawning Timing",
+      "category": "Fish",
+      "subcategory": "Timing of Life Stage: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 202,
+      "title": "Hatchery Broodstock Fraction",
+      "category": "Fish",
+      "subcategory": "Origin",
+      "isIndicator": false
+    },
+    {
+      "id": 282,
+      "title": "Juvenile Condition Factor",
+      "category": "Fish",
+      "subcategory": "Condition Factor",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Provide support and perform hatchery effectiveness monitoring and evaluation to adaptively manage Nez Perce Tribe hatchery programs.",
     "Provide support and perform critical uncertainty analysis research for action effectiveness."

@@ -13,6 +13,36 @@
     "http://www.monitoringresources.org/api/v1/methods/3785",
     "http://www.monitoringresources.org/api/v1/methods/3814"
   ],
+  "metrics": [
+    {
+      "id": 57,
+      "title": "Precociousness (minijack rate) of Hood River Sp. Chinook salmon",
+      "category": "Fish",
+      "subcategory": "Condition of Life Stage:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 57,
+      "title": "Smolt Development of Hood River Sp. Chinook salmon",
+      "category": "Fish",
+      "subcategory": "Condition of Life Stage:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 73,
+      "title": "Growth of Hood River Sp. Chinook salmon",
+      "category": "Fish",
+      "subcategory": "Growth Rate:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 93,
+      "title": "Sex of Hood River spring Chinook salmon",
+      "category": "Fish",
+      "subcategory": "Sex Type: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "The objective of this evaluation is to conduct a multi-year (2008-2018) comparative study of Hood River spring Chinook reared at three different hatchery facilities."
   ],

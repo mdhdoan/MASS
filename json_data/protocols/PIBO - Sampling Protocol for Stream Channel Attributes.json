@@ -39,6 +39,169 @@
     "http://www.monitoringresources.org/api/v1/methods/7077",
     "http://www.monitoringresources.org/api/v1/methods/7084"
   ],
+  "metrics": [
+    {
+      "id": 15,
+      "title": "Pool Frequency",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Abundance of Habitat Types",
+      "isIndicator": false
+    },
+    {
+      "id": 15,
+      "title": "Stream flow",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Abundance of Habitat Types",
+      "isIndicator": false
+    },
+    {
+      "id": 19,
+      "title": "Bank Type",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Composition/Structure of Habitat Types",
+      "isIndicator": false
+    },
+    {
+      "id": 25,
+      "title": "Large wood",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Distribution of Instream Wood",
+      "isIndicator": false
+    },
+    {
+      "id": 28,
+      "title": "Disturbances",
+      "category": "Disturbance/Restoration",
+      "subcategory": "Disturbance Presence",
+      "isIndicator": false
+    },
+    {
+      "id": 29,
+      "title": "Edge/Density/Sinuosity",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Edge/Density/Sinuosity",
+      "isIndicator": false
+    },
+    {
+      "id": 32,
+      "title": "Reach Gradient",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Gradient",
+      "isIndicator": false
+    },
+    {
+      "id": 37,
+      "title": "Pool Depth",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Depth: Pool",
+      "isIndicator": false
+    },
+    {
+      "id": 44,
+      "title": "Bankfull Width",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Width: Bankfull ",
+      "isIndicator": false
+    },
+    {
+      "id": 112,
+      "title": "Macroinvertebrate abundances",
+      "category": "Macroinvertebrates",
+      "subcategory": "Abundance of Macroinvertebrates",
+      "isIndicator": false
+    },
+    {
+      "id": 132,
+      "title": "Substrate D50 (Median Particle Size)",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Composition: Substrate/Soil-Dominant Size",
+      "isIndicator": false
+    },
+    {
+      "id": 154,
+      "title": "Conductivity",
+      "category": "Water Quality",
+      "subcategory": "Conductivity",
+      "isIndicator": false
+    },
+    {
+      "id": 188,
+      "title": "Depth/Height Bankfull",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Depth/Height: Bankfull ",
+      "isIndicator": false
+    },
+    {
+      "id": 197,
+      "title": "Bank Angle (Structural Stability)",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Structural Stability",
+      "isIndicator": false
+    },
+    {
+      "id": 208,
+      "title": "Side channel",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Presence of Stream Types",
+      "isIndicator": false
+    },
+    {
+      "id": 218,
+      "title": "Site location",
+      "category": "Other",
+      "subcategory": "Location",
+      "isIndicator": false
+    },
+    {
+      "id": 219,
+      "title": "Site photos",
+      "category": "Other",
+      "subcategory": "Photo Documentation",
+      "isIndicator": false
+    },
+    {
+      "id": 225,
+      "title": "Pool Tail Fines < 2mm",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Distribution of Sediment",
+      "isIndicator": false
+    },
+    {
+      "id": 225,
+      "title": "Pool Tail Fines < 6mm",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Distribution of Sediment",
+      "isIndicator": false
+    },
+    {
+      "id": 228,
+      "title": "Bank material",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Type of Substrate",
+      "isIndicator": false
+    },
+    {
+      "id": 242,
+      "title": "Alkalinity",
+      "category": "Water Quality",
+      "subcategory": "Alkalinity",
+      "isIndicator": false
+    },
+    {
+      "id": 369,
+      "title": "Pool Characteristics and Qualifications",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Aquatic or Floodplain Geomorphology:  Area",
+      "isIndicator": false
+    },
+    {
+      "id": 394,
+      "title": "Beaver Presence",
+      "category": "Mammals",
+      "subcategory": "Presence/Absence: Mammals",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Determine if specific Designated Management Area practices related to livestock grazing are maintaining or restoring riparian vegetation structure and function.",
     "Determine the direction and rate of change in riparian and aquatic habitats over time as a function of management practices.",

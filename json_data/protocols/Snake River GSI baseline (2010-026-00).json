@@ -16,6 +16,71 @@
     "http://www.monitoringresources.org/api/v1/methods/1351",
     "http://www.monitoringresources.org/api/v1/methods/1352"
   ],
+  "metrics": [
+    {
+      "id": 65,
+      "title": "Effective population size of baseline collections",
+      "category": "Fish",
+      "subcategory": "Effective Population Size",
+      "isIndicator": false
+    },
+    {
+      "id": 65,
+      "title": "Effective population size of baseline populations",
+      "category": "Fish",
+      "subcategory": "Effective Population Size",
+      "isIndicator": true
+    },
+    {
+      "id": 72,
+      "title": "Evaluate resolution of baseline for GSI",
+      "category": "Fish",
+      "subcategory": "Genetics: Fish Diversity, Fitness or Variation",
+      "isIndicator": false
+    },
+    {
+      "id": 72,
+      "title": "Genetic diversity of baseline collections",
+      "category": "Fish",
+      "subcategory": "Genetics: Fish Diversity, Fitness or Variation",
+      "isIndicator": false
+    },
+    {
+      "id": 72,
+      "title": "Genetic diversity of baseline populations",
+      "category": "Fish",
+      "subcategory": "Genetics: Fish Diversity, Fitness or Variation",
+      "isIndicator": true
+    },
+    {
+      "id": 72,
+      "title": "Genetic structure of baseline collections",
+      "category": "Fish",
+      "subcategory": "Genetics: Fish Diversity, Fitness or Variation",
+      "isIndicator": false
+    },
+    {
+      "id": 72,
+      "title": "Evaluate informativeness of SNPs",
+      "category": "Fish",
+      "subcategory": "Genetics: Fish Diversity, Fitness or Variation",
+      "isIndicator": false
+    },
+    {
+      "id": 72,
+      "title": "Genetic structure of baseline populations",
+      "category": "Fish",
+      "subcategory": "Genetics: Fish Diversity, Fitness or Variation",
+      "isIndicator": true
+    },
+    {
+      "id": 92,
+      "title": "Evaluate sex ratio of baseline collections",
+      "category": "Fish",
+      "subcategory": "Sex Ratio: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Describe how data are to be collected, managed, analyzed, and reported for the project that maintains annual GSI baselines for Snake River steelhead and Chinook salmon stocks."
   ],

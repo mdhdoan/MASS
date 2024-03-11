@@ -17,6 +17,57 @@
     "http://www.monitoringresources.org/api/v1/methods/5543",
     "http://www.monitoringresources.org/api/v1/methods/6633"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Abundance",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 54,
+      "title": "Catch Per Unit Effort",
+      "category": "Fish",
+      "subcategory": "Catch Per Unit Effort",
+      "isIndicator": true
+    },
+    {
+      "id": 75,
+      "title": "Anesthetizing Fish",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Fish lenght",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 104,
+      "title": "Flow",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Flow",
+      "isIndicator": false
+    },
+    {
+      "id": 154,
+      "title": "Conductivity",
+      "category": "Water Quality",
+      "subcategory": "Conductivity",
+      "isIndicator": false
+    },
+    {
+      "id": 162,
+      "title": "Water Quality",
+      "category": "Water Quality",
+      "subcategory": "Water Temperature",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Annually access the growth and distribution of Spring Chinook fry across reach specific productivity. \r\n"
   ],

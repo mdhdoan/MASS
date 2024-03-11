@@ -12,6 +12,22 @@
     "http://www.monitoringresources.org/api/v1/methods/4044",
     "http://www.monitoringresources.org/api/v1/methods/5405"
   ],
+  "metrics": [
+    {
+      "id": 362,
+      "title": "Piscivore Abundance",
+      "category": "Fish",
+      "subcategory": "Abundance of Invasive Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 362,
+      "title": "Piscivore Consumption",
+      "category": "Fish",
+      "subcategory": "Abundance of Invasive Fish Species",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Estimate predator fish density and abundance by habitat class in the mainstem Columbia River upstream of McNary Dam.",
     "Estimate predatory fish consumption rates by species and size class on juvenile salmon and steelhead."

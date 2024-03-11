@@ -8,6 +8,22 @@
     "http://www.monitoringresources.org/api/v1/methods/1070",
     "http://www.monitoringresources.org/api/v1/methods/1144"
   ],
+  "metrics": [
+    {
+      "id": 73,
+      "title": "Kokanee growth",
+      "category": "Fish",
+      "subcategory": "Growth Rate:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 97,
+      "title": "Kokanee egg survival to outmigration",
+      "category": "Fish",
+      "subcategory": "Survival: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Estimate egg to emergence survival and timing of out-migration"
   ],

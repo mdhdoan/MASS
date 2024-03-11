@@ -17,6 +17,78 @@
     "http://www.monitoringresources.org/api/v1/methods/4041",
     "http://www.monitoringresources.org/api/v1/methods/5411"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "O.mykiss abundance",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 48,
+      "title": "O. mykiss age structure",
+      "category": "Fish",
+      "subcategory": "Age:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 48,
+      "title": "O. mykiss Scale Collection",
+      "category": "Fish",
+      "subcategory": "Age:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 62,
+      "title": "O. mykiss location",
+      "category": "Fish",
+      "subcategory": "Distribution of Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 72,
+      "title": "Genetic Parentage",
+      "category": "Fish",
+      "subcategory": "Genetics: Fish Diversity, Fitness or Variation",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "O. mykiss length (fork length)",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 86,
+      "title": "Juvenile Productivity",
+      "category": "Fish",
+      "subcategory": "Progeny-per-Parent Ratio (P:P) (Productivity)",
+      "isIndicator": false
+    },
+    {
+      "id": 201,
+      "title": "PIT tagging",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Application",
+      "isIndicator": false
+    },
+    {
+      "id": 206,
+      "title": "O. mykiss weight",
+      "category": "Fish",
+      "subcategory": "Weight: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 436,
+      "title": "O. mykiss genetic sample collection",
+      "category": "Fish",
+      "subcategory": "Tissue Sample: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Determine viable salmonid population (VSP) metrics for sympatric resident and anadromous O. mykiss life history types in pre selected locations."
   ],

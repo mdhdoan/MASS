@@ -20,6 +20,120 @@
     "http://www.monitoringresources.org/api/v1/methods/1366",
     "http://www.monitoringresources.org/api/v1/methods/1550"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Stock proportions of juveniles",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 46,
+      "title": "Annual abundance of juvenile stocks migrating downstream of LGD",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 46,
+      "title": "Annual abundance of adult stocks returning over LGD",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 46,
+      "title": "Stock proportions of adults",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 65,
+      "title": "Ne of adults PIT-tagged at LGD, detected upstream",
+      "category": "Fish",
+      "subcategory": "Effective Population Size",
+      "isIndicator": false
+    },
+    {
+      "id": 72,
+      "title": "Genetic diversity of adults PIT tagged at LGD, detected upstream",
+      "category": "Fish",
+      "subcategory": "Genetics: Fish Diversity, Fitness or Variation",
+      "isIndicator": false
+    },
+    {
+      "id": 72,
+      "title": "Genetic diversity of Snake River stocks passing LGD",
+      "category": "Fish",
+      "subcategory": "Genetics: Fish Diversity, Fitness or Variation",
+      "isIndicator": false
+    },
+    {
+      "id": 72,
+      "title": "Temporal estimates of genetic diversity of Snake River stocks",
+      "category": "Fish",
+      "subcategory": "Genetics: Fish Diversity, Fitness or Variation",
+      "isIndicator": true
+    },
+    {
+      "id": 92,
+      "title": "Sex ratio of juvenile stocks migrating downstream at LGD",
+      "category": "Fish",
+      "subcategory": "Sex Ratio: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 92,
+      "title": "Sex ratio of adult stocks returning above LGD",
+      "category": "Fish",
+      "subcategory": "Sex Ratio: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 92,
+      "title": "Sex ratio of adults PIT tagged at LGD, detected upstream",
+      "category": "Fish",
+      "subcategory": "Sex Ratio: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 95,
+      "title": "Stock origin of individual juveniles migrating downstream at LGD",
+      "category": "Fish",
+      "subcategory": "Stock Identity",
+      "isIndicator": false
+    },
+    {
+      "id": 95,
+      "title": "Stock origin of individual adults migrating upstream of LGD",
+      "category": "Fish",
+      "subcategory": "Stock Identity",
+      "isIndicator": false
+    },
+    {
+      "id": 95,
+      "title": "Stock origin of adults PIT tagged at LGD, detected upstream",
+      "category": "Fish",
+      "subcategory": "Stock Identity",
+      "isIndicator": false
+    },
+    {
+      "id": 163,
+      "title": "Adult to adult productivity of Snake River stocks",
+      "category": "Fish",
+      "subcategory": "Productivity:  Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 163,
+      "title": "Adult to juvenile productivity of Snake River stocks",
+      "category": "Fish",
+      "subcategory": "Productivity:  Fish",
+      "isIndicator": true
+    }
+  ],
   "objectives": [
     "This protocol outlines how data is collected, managed, analyzed, and reported for GSI for steelhead and Chinook salmon returning to the Snake River basin.  "
   ],

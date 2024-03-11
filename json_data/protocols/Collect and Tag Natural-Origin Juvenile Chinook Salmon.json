@@ -10,6 +10,36 @@
     "http://www.monitoringresources.org/api/v1/methods/1736",
     "http://www.monitoringresources.org/api/v1/methods/4041"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Bycatch",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Juvenile Chinook Size at Emigration",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 201,
+      "title": "Juvenile Chinook PIT tagging",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Application",
+      "isIndicator": false
+    },
+    {
+      "id": 282,
+      "title": "Condition of Juveniles at Emigration",
+      "category": "Fish",
+      "subcategory": "Condition Factor",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "PIT tag up to 25,000 juvenile summer/fall Chinook emigrants and release them back into the system.",
     "Operate a large beach seine on the Columbia River, near the confluence with the Okanogan River, to collect juvenile natural-origin summer/fall Chinook emigrants.",

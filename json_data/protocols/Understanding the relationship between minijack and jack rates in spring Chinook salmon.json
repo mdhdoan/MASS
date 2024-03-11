@@ -12,6 +12,43 @@
     "http://www.monitoringresources.org/api/v1/methods/4041",
     "http://www.monitoringresources.org/api/v1/methods/6583"
   ],
+  "metrics": [
+    {
+      "id": 73,
+      "title": "Seasonal growth rate of fish",
+      "category": "Fish",
+      "subcategory": "Growth Rate:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Fork length",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 80,
+      "title": "Minijack and jack rates of fish using 11-ketotestosterone levels",
+      "category": "Fish",
+      "subcategory": "Precociousness",
+      "isIndicator": false
+    },
+    {
+      "id": 93,
+      "title": "Sex of fish",
+      "category": "Fish",
+      "subcategory": "Sex Type: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 201,
+      "title": "PIT-tag experimental fish",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Application",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Assess minijack and jack rates of high and low growth rearing groups of hatchery spring Chinook salmon\r\n"
   ],

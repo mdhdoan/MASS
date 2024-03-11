@@ -19,6 +19,43 @@
     "http://www.monitoringresources.org/api/v1/methods/5493",
     "http://www.monitoringresources.org/api/v1/methods/6643"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Spawner Escapement Estimates By Hatchery or Wild Origin",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 62,
+      "title": "Spawner Distribution",
+      "category": "Fish",
+      "subcategory": "Distribution of Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 64,
+      "title": "Proportion of Hatchery Origin Strays (PHOS)",
+      "category": "Fish",
+      "subcategory": "Diversity of Fish: Change",
+      "isIndicator": false
+    },
+    {
+      "id": 507,
+      "title": "Redd Count",
+      "category": "Fish",
+      "subcategory": "Spawning/Nesting",
+      "isIndicator": false
+    },
+    {
+      "id": 507,
+      "title": "Spawner per Redd",
+      "category": "Fish",
+      "subcategory": "Spawning/Nesting",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Estimate the population-scale escapement of summer steelhead ",
     "Estimate the distribution of summer steelhead redds and spawners across watersheds.",

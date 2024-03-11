@@ -10,6 +10,36 @@
     "http://www.monitoringresources.org/api/v1/methods/832",
     "http://www.monitoringresources.org/api/v1/methods/1580"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Rainbow Trout Abundance",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 56,
+      "title": "Fish Species Composition",
+      "category": "Fish",
+      "subcategory": "Composition: Fish Species Assemblage",
+      "isIndicator": false
+    },
+    {
+      "id": 62,
+      "title": "Fish Species Distribution",
+      "category": "Fish",
+      "subcategory": "Distribution of Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 249,
+      "title": "Eastern Brook Trout Abundance",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish Competitors",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Describe stream fish communities for use in habitat restoration and protection prioritization.",
     "Provide a standardized protocol for future status and trend monitoring of fish populations.",

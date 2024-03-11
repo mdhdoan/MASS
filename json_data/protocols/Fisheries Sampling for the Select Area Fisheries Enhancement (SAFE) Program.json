@@ -16,6 +16,64 @@
     "http://www.monitoringresources.org/api/v1/methods/6894",
     "http://www.monitoringresources.org/api/v1/methods/6896"
   ],
+  "metrics": [
+    {
+      "id": 48,
+      "title": "Age composition of salmon caught in SAFE fisheries",
+      "category": "Fish",
+      "subcategory": "Age:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 52,
+      "title": "Enumerate salmon harvested in SAFE fisheries",
+      "category": "Fish",
+      "subcategory": "Harvest Abundance",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Length of salmon landed in Select Area fisheries",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Measuring Fish Length",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 95,
+      "title": "Identify stock composition of commercial fish landed in Select Area Fisheries",
+      "category": "Fish",
+      "subcategory": "Stock Identity",
+      "isIndicator": false
+    },
+    {
+      "id": 206,
+      "title": "Weights of salmon landed in Select Area fisheries",
+      "category": "Fish",
+      "subcategory": "Weight: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 381,
+      "title": "Detect and/or recover tags and identify fin marks in Select Areas fisheries sampling",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Recovery or Detection",
+      "isIndicator": false
+    },
+    {
+      "id": 436,
+      "title": "Tissue samples collected for genetic analysis during Select Area fisheries sampling",
+      "category": "Fish",
+      "subcategory": "Tissue Sample: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Perform in-season monitoring of commercial landings in Select Area fisheries",
     "Deliver feedback to fisheries managers for review and decision making"

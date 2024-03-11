@@ -14,6 +14,78 @@
     "http://www.monitoringresources.org/api/v1/methods/1366",
     "http://www.monitoringresources.org/api/v1/methods/4041"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Adult returns",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 49,
+      "title": "Age Structure",
+      "category": "Fish",
+      "subcategory": "Age Structure:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 72,
+      "title": "Genetic DIversity",
+      "category": "Fish",
+      "subcategory": "Genetics: Fish Diversity, Fitness or Variation",
+      "isIndicator": false
+    },
+    {
+      "id": 73,
+      "title": "Growth of returning adults",
+      "category": "Fish",
+      "subcategory": "Growth Rate:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Fork lengths of returning adults",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 92,
+      "title": "Sex ratio of returning wild fish",
+      "category": "Fish",
+      "subcategory": "Sex Ratio: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 101,
+      "title": "Arrival timing at trap",
+      "category": "Fish",
+      "subcategory": "Timing of Life Stage: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 202,
+      "title": "Origin of Returns",
+      "category": "Fish",
+      "subcategory": "Origin",
+      "isIndicator": false
+    },
+    {
+      "id": 381,
+      "title": "PIT tag recovery for returning adults",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Recovery or Detection",
+      "isIndicator": false
+    },
+    {
+      "id": 507,
+      "title": "Migration status (prespawn, postspawn) of adults trapped",
+      "category": "Fish",
+      "subcategory": "Spawning/Nesting",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Describe wild adult summer steelhead life history and abundance for Lookingglass Creek."
   ],

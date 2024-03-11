@@ -7,6 +7,22 @@
   "methods": [
     "http://www.monitoringresources.org/api/v1/methods/136"
   ],
+  "metrics": [
+    {
+      "id": 62,
+      "title": "Fish species distribution in the Hood River Basin",
+      "category": "Fish",
+      "subcategory": "Distribution of Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 82,
+      "title": "Fish community composition in Hood River tributaries",
+      "category": "Fish",
+      "subcategory": "Presence/Absence: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Determine distribution of juvenile anadromous salmonids through the Hood River basin. ",
     "Determine fish community composition in Hood River basin streams"

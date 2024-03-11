@@ -1,6 +1,8 @@
 import json
 import numpy
 import os
+import pandas as pd
+import random
 import sklearn
 import sys
 
@@ -17,6 +19,8 @@ from langchain.chains.llm import LLMChain
 from langchain_community.llms import Ollama
 from langchain.prompts import PromptTemplate
 from langchain.schema import Document
+
+random.seed(2024)
 
 HEADERS = [
     "abstractText"
@@ -43,7 +47,7 @@ if __name__ == '__main__':
                 print(f"\n{file_name}")
             count = increase_count(count, '.')
     print(f"\nRead {count} documents.\n")
-    
+
     # Step 1 - Extract embeddings
     embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
     embeddings = embedding_model.encode(documents, show_progress_bar=True)
@@ -76,6 +80,11 @@ if __name__ == '__main__':
     
     topics, probs = topic_model.fit_transform(documents, embeddings)
 
+    labels = ['Anadromous fish telemetry using PIT tags', 'Columbia River Salmonid Ecology and Monitoring', 'eDNA extraction and Purification', 'Fish Age Estimation in Fisheries',
+              'Fish Passage Criteria Evaluation', 'Fish Seining Techniqies', 'Fishing: Gill Nets and Tangle Nets in Fisheries','Genetic Population Structure and Heterozygosity Analysis',
+              'Riparian Vegetaion monitoring in Watersheds', 'Salmon Research in Columbia River Plume', 'Salmonid Tagging Procedures', 'Streamflow Measurement in Streams',
+              'Topographic RBT tools for ArcGIS', 'Vegetaion Estimates: Woody and Non-Woody coverage', 'Wetland Habitat and Waterfowl Management', 'Woody Debris Tallying']
+
     # System prompt describes information given to all conversations
     prompt_template = """
     You are a helpful, respectful and honest assistant for labeling topics.
@@ -86,16 +95,23 @@ if __name__ == '__main__':
     The topic is described by the following keywords delimited by triple backquotes (```):
     ```{keywords}```
 
-    The words used here should also use the following ontology delimtied by triple backquotes (```):
-    ```{ontology}```
+    Previous attempt at labeling the work contains these topic labels that I would like to be try before generating new label. 
+    The labels are delimtied by triple backquotes (```):
+    ```{labels}```
 
     Return ONLY a the topic label, which should not contain more than 5 words.
     If your answer has any code in it, generate again. 
     If the amount of words in your answer is more than 5, generate again.
+    If your answer include a clarification or explanation, only return the topic label
+    If the label includes any character such as [ and ] and ' and " remove those characters
+
+    For example, I want something look like these: 
+    Streamflow Measurement in Streams
+    Wetland Habitat and Waterfowl Management
     """
 
     llm = Ollama(model="mistral")
-    prompt = PromptTemplate(input_variables=["documents", "keywords"], template=prompt_template)
+    prompt = PromptTemplate(input_variables=["documents", "keywords", "labels"], template=prompt_template)
     llm_chain = LLMChain(llm=llm, prompt=prompt)
     
     print(topic_model.get_topic_info())
@@ -106,9 +122,12 @@ if __name__ == '__main__':
         else:
             keywords = topic_model.topic_labels_[i].split('_')[1:]
             docs = topic_model.representative_docs_[i]
-            result = llm_chain.invoke({'documents': docs, 'keywords': keywords})
+            result = llm_chain.invoke({'documents': docs, 'keywords': keywords, 'labels': labels})
             label = result['text']
             print(f"[{i}] --- {topic_model.topic_labels_[i]} --- {label}")
+            bad_string_list = ['[',']','"','\n']
+            for bad_string in bad_string_list:
+                label = label.replace(bad_string, '')
             label_dict[i] = label
     
     topic_model.set_topic_labels(label_dict)

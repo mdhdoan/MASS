@@ -25,6 +25,127 @@
     "http://www.monitoringresources.org/api/v1/methods/308",
     "http://www.monitoringresources.org/api/v1/methods/4225"
   ],
+  "metrics": [
+    {
+      "id": 149,
+      "title": "Herbaceous percent cover",
+      "category": "Vegetation/Plants",
+      "subcategory": "Composition: Vegetative Species Assemblage",
+      "isIndicator": false
+    },
+    {
+      "id": 149,
+      "title": "Percent canopy cover",
+      "category": "Vegetation/Plants",
+      "subcategory": "Composition: Vegetative Species Assemblage",
+      "isIndicator": false
+    },
+    {
+      "id": 149,
+      "title": "Percent cover for shrubs",
+      "category": "Vegetation/Plants",
+      "subcategory": "Composition: Vegetative Species Assemblage",
+      "isIndicator": false
+    },
+    {
+      "id": 149,
+      "title": "Screening/hiding cover estimation",
+      "category": "Vegetation/Plants",
+      "subcategory": "Composition: Vegetative Species Assemblage",
+      "isIndicator": false
+    },
+    {
+      "id": 149,
+      "title": "Shrub demographics",
+      "category": "Vegetation/Plants",
+      "subcategory": "Composition: Vegetative Species Assemblage",
+      "isIndicator": false
+    },
+    {
+      "id": 218,
+      "title": "Site establishment",
+      "category": "Other",
+      "subcategory": "Location",
+      "isIndicator": false
+    },
+    {
+      "id": 219,
+      "title": "Photo points",
+      "category": "Other",
+      "subcategory": "Photo Documentation",
+      "isIndicator": false
+    },
+    {
+      "id": 230,
+      "title": "Down woody debris",
+      "category": "Vegetation/Plants",
+      "subcategory": "Abundance of Vegetative Species",
+      "isIndicator": false
+    },
+    {
+      "id": 230,
+      "title": "Snags",
+      "category": "Vegetation/Plants",
+      "subcategory": "Abundance of Vegetative Species",
+      "isIndicator": false
+    },
+    {
+      "id": 230,
+      "title": "Stumps",
+      "category": "Vegetation/Plants",
+      "subcategory": "Abundance of Vegetative Species",
+      "isIndicator": false
+    },
+    {
+      "id": 231,
+      "title": "Basal area",
+      "category": "Vegetation/Plants",
+      "subcategory": "Basal Area",
+      "isIndicator": false
+    },
+    {
+      "id": 232,
+      "title": "Density of trees and shrubs",
+      "category": "Vegetation/Plants",
+      "subcategory": "Density of Vegetation",
+      "isIndicator": false
+    },
+    {
+      "id": 232,
+      "title": "Visual obstruction readings (VOR)",
+      "category": "Vegetation/Plants",
+      "subcategory": "Density of Vegetation",
+      "isIndicator": false
+    },
+    {
+      "id": 348,
+      "title": "Diameter breast height",
+      "category": "Vegetation/Plants",
+      "subcategory": "Height of Vegetation/Plant Species",
+      "isIndicator": false
+    },
+    {
+      "id": 348,
+      "title": "Herbaceous vegetation height",
+      "category": "Vegetation/Plants",
+      "subcategory": "Height of Vegetation/Plant Species",
+      "isIndicator": false
+    },
+    {
+      "id": 348,
+      "title": "Shrub height",
+      "category": "Vegetation/Plants",
+      "subcategory": "Height of Vegetation/Plant Species",
+      "isIndicator": false
+    },
+    {
+      "id": 348,
+      "title": "Tree height",
+      "category": "Vegetation/Plants",
+      "subcategory": "Height of Vegetation/Plant Species",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Provide consistency with how habitat variable data is collected throughout the Columbia Basin Region in support of the Columbia River Wildlife Mitigation Program funded by BPA."
   ],

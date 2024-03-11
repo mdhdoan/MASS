@@ -10,6 +10,22 @@
     "http://www.monitoringresources.org/api/v1/methods/5457",
     "http://www.monitoringresources.org/api/v1/methods/5459"
   ],
+  "metrics": [
+    {
+      "id": 105,
+      "title": "groundwater elevation",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Ground Water Level Change",
+      "isIndicator": false
+    },
+    {
+      "id": 109,
+      "title": "groundwater temperature",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Hyporheic Flow",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Monitor hourly changes in water table elevation and groundwater temperature in well fields adjacent to a restored stream reach (treatment) and a nearby unrestored, reference stream reach (control)",
     "Determine whether trends in water table elevation and groundwater temperature support the hypothesis that restoration actions have improved hydrologic connectivity and mitigated effects of incision"

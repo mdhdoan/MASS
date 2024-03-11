@@ -22,6 +22,204 @@
     "http://www.monitoringresources.org/api/v1/methods/1586",
     "http://www.monitoringresources.org/api/v1/methods/1763"
   ],
+  "metrics": [
+    {
+      "id": 23,
+      "title": "Habitat Type Area Dist- Fast, slow, edge/backh2o vs. tot. chan",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Distance Between Habitat Types",
+      "isIndicator": false
+    },
+    {
+      "id": 31,
+      "title": "Percent Fines",
+      "category": "Classification of Ecological or Geological Attribute ",
+      "subcategory": "Form/Morphology",
+      "isIndicator": false
+    },
+    {
+      "id": 32,
+      "title": "Variation in Thalweg profile",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Gradient",
+      "isIndicator": true
+    },
+    {
+      "id": 36,
+      "title": "Reach Length",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Length/Width/Area",
+      "isIndicator": false
+    },
+    {
+      "id": 36,
+      "title": "Reach Width",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Length/Width/Area",
+      "isIndicator": false
+    },
+    {
+      "id": 37,
+      "title": "Mean Residual Pool Area",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Depth: Pool",
+      "isIndicator": false
+    },
+    {
+      "id": 37,
+      "title": "Mean Residual Pool Vertical Profile Area",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Depth: Pool",
+      "isIndicator": false
+    },
+    {
+      "id": 46,
+      "title": "Seasonal Fish Abundance by Habitat Type",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 46,
+      "title": "Fish Species Assemblage Index",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 56,
+      "title": "Fish Species Assemblage Index",
+      "category": "Fish",
+      "subcategory": "Composition: Fish Species Assemblage",
+      "isIndicator": false
+    },
+    {
+      "id": 57,
+      "title": "Growth and Survival of fish using restored",
+      "category": "Fish",
+      "subcategory": "Condition of Life Stage:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 113,
+      "title": "Macroinvertebrate Multimetric Index",
+      "category": "Macroinvertebrates",
+      "subcategory": "Composition: Macroinvertebrate Species Assemblage",
+      "isIndicator": false
+    },
+    {
+      "id": 116,
+      "title": "Sample Date",
+      "category": "Time",
+      "subcategory": "Date",
+      "isIndicator": false
+    },
+    {
+      "id": 130,
+      "title": "Bank Erosion",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Bank Stability",
+      "isIndicator": false
+    },
+    {
+      "id": 135,
+      "title": "Percent Embeddedness",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Embeddedness",
+      "isIndicator": false
+    },
+    {
+      "id": 193,
+      "title": "Area of Edge Habitat <0.15 ft/sec, <0.61 m, >25m BFW",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Ordinary High Water Mark",
+      "isIndicator": true
+    },
+    {
+      "id": 212,
+      "title": "Macroinvertebrate Multimetric Index",
+      "category": "Macroinvertebrates",
+      "subcategory": "Index of Biotic Integrity:  Macroinvertebrate Species",
+      "isIndicator": true
+    },
+    {
+      "id": 218,
+      "title": "GPS Coordinates",
+      "category": "Other",
+      "subcategory": "Location",
+      "isIndicator": false
+    },
+    {
+      "id": 231,
+      "title": "Coniferous Basal Area",
+      "category": "Vegetation/Plants",
+      "subcategory": "Basal Area",
+      "isIndicator": false
+    },
+    {
+      "id": 231,
+      "title": "Deciduous Basal Area",
+      "category": "Vegetation/Plants",
+      "subcategory": "Basal Area",
+      "isIndicator": false
+    },
+    {
+      "id": 232,
+      "title": "Canopy Cover",
+      "category": "Vegetation/Plants",
+      "subcategory": "Density of Vegetation",
+      "isIndicator": false
+    },
+    {
+      "id": 232,
+      "title": "Coniferous Density",
+      "category": "Vegetation/Plants",
+      "subcategory": "Density of Vegetation",
+      "isIndicator": false
+    },
+    {
+      "id": 232,
+      "title": "Deciduous Density",
+      "category": "Vegetation/Plants",
+      "subcategory": "Density of Vegetation",
+      "isIndicator": false
+    },
+    {
+      "id": 311,
+      "title": "Species Composition - benthic macroinvertebrates",
+      "category": "Macroinvertebrates",
+      "subcategory": "Diversity of Macroinvertebrates:  Change",
+      "isIndicator": true
+    },
+    {
+      "id": 348,
+      "title": "Riparian Vegetation Structure",
+      "category": "Vegetation/Plants",
+      "subcategory": "Height of Vegetation/Plant Species",
+      "isIndicator": false
+    },
+    {
+      "id": 367,
+      "title": "Non-native Shrub Cover",
+      "category": "Vegetation/Plants",
+      "subcategory": "Abundance of Invasive Plant Species",
+      "isIndicator": false
+    },
+    {
+      "id": 369,
+      "title": "erosion return interval- change in veg type area (Beechie 2006",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Aquatic or Floodplain Geomorphology:  Area",
+      "isIndicator": true
+    },
+    {
+      "id": 374,
+      "title": "Log10Volume of LWD",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Density of Instream Wood",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Determine the biological condition of macroinvertebrate and fish species assemblages using a multi-metric index for each randomly selected parcel (Years 1 3, 6, 9, and 12)",
     "Determine status and trends of instream, riparian, and upland habitat within each randomly selected parcel (Years 1 3, 6, 9, and 12)"

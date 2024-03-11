@@ -10,6 +10,15 @@
     "http://www.monitoringresources.org/api/v1/methods/5494",
     "http://www.monitoringresources.org/api/v1/methods/5501"
   ],
+  "metrics": [
+    {
+      "id": 82,
+      "title": "Absence or Presence of Northern Pike eDNA",
+      "category": "Fish",
+      "subcategory": "Presence/Absence: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Use eDNA as an early detection tool for monitoring the distribution and expansion of Northern Pike in the Upper Columbia River watershed."
   ],

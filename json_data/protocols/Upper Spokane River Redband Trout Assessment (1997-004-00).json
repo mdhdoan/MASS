@@ -23,6 +23,43 @@
     "http://www.monitoringresources.org/api/v1/methods/6583",
     "http://www.monitoringresources.org/api/v1/methods/6931"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Redband Trout Abundance",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 49,
+      "title": "Age Structure of Redband Trout Abundance",
+      "category": "Fish",
+      "subcategory": "Age Structure:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 73,
+      "title": "Growth Rate",
+      "category": "Fish",
+      "subcategory": "Growth Rate:  Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 75,
+      "title": "Fish Length",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 206,
+      "title": "Fish Weight",
+      "category": "Fish",
+      "subcategory": "Weight: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Estimate abundance and age structure of Redband Trout in an index area of the Spokane River, Spokane County, WA between the Washington/Idaho stateline (rkm 154.8) and Harvard Road (rkm 149.2). "
   ],

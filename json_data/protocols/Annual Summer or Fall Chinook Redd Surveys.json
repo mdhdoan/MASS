@@ -12,6 +12,57 @@
     "http://www.monitoringresources.org/api/v1/methods/5408",
     "http://www.monitoringresources.org/api/v1/methods/6749"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Redd count by reach and by week",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 46,
+      "title": "Spawning population size",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 62,
+      "title": "Spatial distribution of redds by reach",
+      "category": "Fish",
+      "subcategory": "Distribution of Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 62,
+      "title": "Spatial distribution of spawners (i.e. habitat use, natal site fidelity)",
+      "category": "Fish",
+      "subcategory": "Distribution of Fish Species",
+      "isIndicator": true
+    },
+    {
+      "id": 92,
+      "title": "Sex-ratio of Chinook at Wells Dam",
+      "category": "Fish",
+      "subcategory": "Sex Ratio: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 101,
+      "title": "Spawn timing",
+      "category": "Fish",
+      "subcategory": "Timing of Life Stage: Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 101,
+      "title": "Temporal distribution of redds by week",
+      "category": "Fish",
+      "subcategory": "Timing of Life Stage: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Monitor status and trends in spatial distribution of redds (habitat use)",
     "Monitor status and trends in spawn timing",

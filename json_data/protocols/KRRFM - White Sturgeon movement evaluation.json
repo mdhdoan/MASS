@@ -13,6 +13,36 @@
     "http://www.monitoringresources.org/api/v1/methods/3889",
     "http://www.monitoringresources.org/api/v1/methods/6616"
   ],
+  "metrics": [
+    {
+      "id": 77,
+      "title": "Change in numbers of spawning Sturgeon into proper spawning habitat",
+      "category": "Fish",
+      "subcategory": "Migration Pathways: Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 77,
+      "title": "Effects of dam operations on fish movements",
+      "category": "Fish",
+      "subcategory": "Migration Pathways: Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 77,
+      "title": "Extent of upstream movements",
+      "category": "Fish",
+      "subcategory": "Migration Pathways: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 77,
+      "title": "Numbers of spawning adult Sturgeon",
+      "category": "Fish",
+      "subcategory": "Migration Pathways: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Determine specific environmental parameters that influence adult spawning movements into proper spawning habitat above Bonners Ferry, Idaho."
   ],

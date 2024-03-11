@@ -7,6 +7,71 @@
   "methods": [
     "http://www.monitoringresources.org/api/v1/methods/6837"
   ],
+  "metrics": [
+    {
+      "id": 77,
+      "title": "Range of movement by white sturgeon",
+      "category": "Fish",
+      "subcategory": "Migration Pathways: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 82,
+      "title": "Seasonal habitat use by white sturgeon",
+      "category": "Fish",
+      "subcategory": "Presence/Absence: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 99,
+      "title": "10 yr survival rate of adult white sturgeon",
+      "category": "Fish",
+      "subcategory": "Survival Rate: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 116,
+      "title": "Date of detection by telemetry station",
+      "category": "Time",
+      "subcategory": "Date",
+      "isIndicator": false
+    },
+    {
+      "id": 117,
+      "title": "White sturgeon spawning periodicity",
+      "category": "Time",
+      "subcategory": "Frequency",
+      "isIndicator": false
+    },
+    {
+      "id": 120,
+      "title": "Time of detection by telemetry station",
+      "category": "Time",
+      "subcategory": "Time: Actual",
+      "isIndicator": false
+    },
+    {
+      "id": 121,
+      "title": "Overwintering behavior by white sturgeon",
+      "category": "Time",
+      "subcategory": "Time: Duration",
+      "isIndicator": false
+    },
+    {
+      "id": 507,
+      "title": "Annual number of spawners",
+      "category": "Fish",
+      "subcategory": "Spawning/Nesting",
+      "isIndicator": false
+    },
+    {
+      "id": 507,
+      "title": "Spawning site fidelity",
+      "category": "Fish",
+      "subcategory": "Spawning/Nesting",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Monitor general movements and habitat use of telemetered sturgeon in the Roosevelt Reach",
     "Maintain, monitor and download data from receiver array 4 times annually for addition to data bank"

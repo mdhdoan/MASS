@@ -18,6 +18,78 @@
     "http://www.monitoringresources.org/api/v1/methods/1736",
     "http://www.monitoringresources.org/api/v1/methods/4220"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Adult Hatchery Escapement Estimate",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 46,
+      "title": "Mean Adult Abundance",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 46,
+      "title": "Natural Adult Escapement Estimate",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 49,
+      "title": "Adult Age Structure",
+      "category": "Fish",
+      "subcategory": "Age Structure:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 62,
+      "title": "Redd/Spawner Distribution",
+      "category": "Fish",
+      "subcategory": "Distribution of Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 72,
+      "title": "Genetic Sampling at Weirs",
+      "category": "Fish",
+      "subcategory": "Genetics: Fish Diversity, Fitness or Variation",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Length Frequency of Spawners",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 92,
+      "title": "Sex Ratio of Spawners",
+      "category": "Fish",
+      "subcategory": "Sex Ratio: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 163,
+      "title": "Adult to Adult Return Rate",
+      "category": "Fish",
+      "subcategory": "Productivity:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 507,
+      "title": "Redd Estimates",
+      "category": "Fish",
+      "subcategory": "Spawning/Nesting",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Estimate spawner abundance and escapement of wild and hatchery steelhead in the Asotin Creek salmon population.",
     "Estimate adults per redd in the Asotin Creek mainstem.",

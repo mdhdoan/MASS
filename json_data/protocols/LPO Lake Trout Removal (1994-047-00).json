@@ -11,6 +11,29 @@
     "http://www.monitoringresources.org/api/v1/methods/1044",
     "http://www.monitoringresources.org/api/v1/methods/1045"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Number of lake trout over 406 mm",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 46,
+      "title": "Total lake trout catch",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 54,
+      "title": "Lake trout catch rate",
+      "category": "Fish",
+      "subcategory": "Catch Per Unit Effort",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Reduce the lake trout population to pre-1999 abundance (about 1,800) for fish over 406 mm to minimize predation and competition risks to bull trout and westslope cutthroat trout."
   ],

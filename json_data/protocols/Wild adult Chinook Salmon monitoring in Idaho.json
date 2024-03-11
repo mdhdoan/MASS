@@ -12,6 +12,36 @@
     "http://www.monitoringresources.org/api/v1/methods/1429",
     "http://www.monitoringresources.org/api/v1/methods/6643"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Spawner Abundance",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 46,
+      "title": "Adult Escapement to Tributary",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 92,
+      "title": "Percent Females",
+      "category": "Fish",
+      "subcategory": "Sex Ratio: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 202,
+      "title": "Hatchery Fraction",
+      "category": "Fish",
+      "subcategory": "Origin",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Estimate Chinook salmon spawner abundance above hatchery weirs",
     "Estimate hatchery fraction of Chinook salmon passed above hatchery weirs"

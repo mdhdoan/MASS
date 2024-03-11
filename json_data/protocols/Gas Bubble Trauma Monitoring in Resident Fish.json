@@ -14,6 +14,36 @@
     "http://www.monitoringresources.org/api/v1/methods/5543",
     "http://www.monitoringresources.org/api/v1/methods/6785"
   ],
+  "metrics": [
+    {
+      "id": 57,
+      "title": "GBT Incidence",
+      "category": "Fish",
+      "subcategory": "Condition of Life Stage:  Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 57,
+      "title": "GBT rank - Fish condition",
+      "category": "Fish",
+      "subcategory": "Condition of Life Stage:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "GBT rank - Fish length",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 417,
+      "title": "Species Identification",
+      "category": "Fish",
+      "subcategory": "Species Type: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Measure the incidence and severity of GBT in native, resident fishes rearing immediately downstream of mainstem Columbia and Snake River dams during the spring spill period."
   ],

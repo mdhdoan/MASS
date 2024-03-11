@@ -13,6 +13,239 @@
     "http://www.monitoringresources.org/api/v1/methods/5489",
     "http://www.monitoringresources.org/api/v1/methods/6581"
   ],
+  "metrics": [
+    {
+      "id": 154,
+      "title": "Conductivity",
+      "category": "Water Quality",
+      "subcategory": "Conductivity",
+      "isIndicator": false
+    },
+    {
+      "id": 154,
+      "title": "Total Dissolved Solids",
+      "category": "Water Quality",
+      "subcategory": "Conductivity",
+      "isIndicator": false
+    },
+    {
+      "id": 155,
+      "title": "Dissolved Oxygen",
+      "category": "Water Quality",
+      "subcategory": "Dissolved Gas Concentration (By Gas)",
+      "isIndicator": false
+    },
+    {
+      "id": 155,
+      "title": "Total Dissolved Gas",
+      "category": "Water Quality",
+      "subcategory": "Dissolved Gas Concentration (By Gas)",
+      "isIndicator": false
+    },
+    {
+      "id": 157,
+      "title": "Ammonia",
+      "category": "Water Quality",
+      "subcategory": "Nitrogen",
+      "isIndicator": false
+    },
+    {
+      "id": 157,
+      "title": "Nitrate",
+      "category": "Water Quality",
+      "subcategory": "Nitrogen",
+      "isIndicator": false
+    },
+    {
+      "id": 157,
+      "title": "Nitrite",
+      "category": "Water Quality",
+      "subcategory": "Nitrogen",
+      "isIndicator": false
+    },
+    {
+      "id": 157,
+      "title": "Total Kjeldahl Nitrogen",
+      "category": "Water Quality",
+      "subcategory": "Nitrogen",
+      "isIndicator": true
+    },
+    {
+      "id": 157,
+      "title": "Total Nitrogen",
+      "category": "Water Quality",
+      "subcategory": "Nitrogen",
+      "isIndicator": false
+    },
+    {
+      "id": 158,
+      "title": "pH",
+      "category": "Water Quality",
+      "subcategory": "pH",
+      "isIndicator": false
+    },
+    {
+      "id": 159,
+      "title": "Orthophosphate",
+      "category": "Water Quality",
+      "subcategory": "Phosphorus",
+      "isIndicator": false
+    },
+    {
+      "id": 159,
+      "title": "Phosphorus Loading Estimate",
+      "category": "Water Quality",
+      "subcategory": "Phosphorus",
+      "isIndicator": true
+    },
+    {
+      "id": 159,
+      "title": "Total Phosphorus",
+      "category": "Water Quality",
+      "subcategory": "Phosphorus",
+      "isIndicator": false
+    },
+    {
+      "id": 161,
+      "title": "Secchi depth",
+      "category": "Water Quality",
+      "subcategory": "Turbidity",
+      "isIndicator": false
+    },
+    {
+      "id": 161,
+      "title": "Total Suspended Solids",
+      "category": "Water Quality",
+      "subcategory": "Turbidity",
+      "isIndicator": false
+    },
+    {
+      "id": 161,
+      "title": "Turbidity",
+      "category": "Water Quality",
+      "subcategory": "Turbidity",
+      "isIndicator": false
+    },
+    {
+      "id": 162,
+      "title": "Temperature (profile)",
+      "category": "Water Quality",
+      "subcategory": "Water Temperature",
+      "isIndicator": false
+    },
+    {
+      "id": 241,
+      "title": "Chlorophyll concentrations",
+      "category": "Water Quality",
+      "subcategory": "Chlorophyll Concentration",
+      "isIndicator": false
+    },
+    {
+      "id": 242,
+      "title": "Alkalinity",
+      "category": "Water Quality",
+      "subcategory": "Alkalinity",
+      "isIndicator": false
+    },
+    {
+      "id": 295,
+      "title": "Zooplankton Biomass",
+      "category": "Plankton",
+      "subcategory": "Density of Plankton Species",
+      "isIndicator": true
+    },
+    {
+      "id": 295,
+      "title": "Zooplankton Density",
+      "category": "Plankton",
+      "subcategory": "Density of Plankton Species",
+      "isIndicator": true
+    },
+    {
+      "id": 313,
+      "title": "Shannon Diversity Index",
+      "category": "Plankton",
+      "subcategory": "Diversity of Plankton:  Change",
+      "isIndicator": true
+    },
+    {
+      "id": 336,
+      "title": "Inflow and outflow",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Gauge",
+      "isIndicator": false
+    },
+    {
+      "id": 336,
+      "title": "Reservoir elevation",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Gauge",
+      "isIndicator": false
+    },
+    {
+      "id": 336,
+      "title": "Reservoir storage",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Gauge",
+      "isIndicator": true
+    },
+    {
+      "id": 336,
+      "title": "Spill",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Gauge",
+      "isIndicator": false
+    },
+    {
+      "id": 336,
+      "title": "Water residence time",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Gauge",
+      "isIndicator": true
+    },
+    {
+      "id": 349,
+      "title": "Trophic Status Index (Carlson)",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Water Quantity Index",
+      "isIndicator": true
+    },
+    {
+      "id": 350,
+      "title": "Ratio of Dissolved Inorganic Nitrogen: Dissolved Organic Phosphorus",
+      "category": "Water Quality",
+      "subcategory": "Water Quality Index",
+      "isIndicator": true
+    },
+    {
+      "id": 350,
+      "title": "Ratio of Total Nitrogen: Total Phosphorus ratio",
+      "category": "Water Quality",
+      "subcategory": "Water Quality Index",
+      "isIndicator": true
+    },
+    {
+      "id": 350,
+      "title": "Reduction Potential",
+      "category": "Water Quality",
+      "subcategory": "Water Quality Index",
+      "isIndicator": false
+    },
+    {
+      "id": 415,
+      "title": "Zooplankton Measurement",
+      "category": "Plankton",
+      "subcategory": "Length: Plankton Species",
+      "isIndicator": false
+    },
+    {
+      "id": 420,
+      "title": "Zooplankton Identification",
+      "category": "Plankton",
+      "subcategory": "Species Type: Plankton",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Complete annual limnological assesment of Lake Roosevelt."
   ],

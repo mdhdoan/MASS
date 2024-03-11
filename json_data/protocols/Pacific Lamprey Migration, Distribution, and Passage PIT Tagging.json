@@ -14,6 +14,50 @@
     "http://www.monitoringresources.org/api/v1/methods/7135",
     "http://www.monitoringresources.org/api/v1/methods/7136"
   ],
+  "metrics": [
+    {
+      "id": 62,
+      "title": "Adult Spawner Spatial Distribution",
+      "category": "Fish",
+      "subcategory": "Distribution of Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 62,
+      "title": "Adult Spawner Spatial Distribution",
+      "category": "Fish",
+      "subcategory": "Distribution of Fish Species",
+      "isIndicator": true
+    },
+    {
+      "id": 77,
+      "title": "Final Fates of Pacific Lamprey",
+      "category": "Fish",
+      "subcategory": "Migration Pathways: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 77,
+      "title": "Final Fates of Pacific Lamprey",
+      "category": "Fish",
+      "subcategory": "Migration Pathways: Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 248,
+      "title": "Passage Rate",
+      "category": "Fish",
+      "subcategory": "Passage Efficiency",
+      "isIndicator": false
+    },
+    {
+      "id": 248,
+      "title": "Passage Rate",
+      "category": "Fish",
+      "subcategory": "Passage Efficiency",
+      "isIndicator": true
+    }
+  ],
   "objectives": [
     "Evaluate the relative passage performance of Pacific Lamprey at mainstem and tributary barriers.",
     "Evaluate behavior and distribution patterns of migrating Pacific Lamprey at mainstem and tributary barriers.",

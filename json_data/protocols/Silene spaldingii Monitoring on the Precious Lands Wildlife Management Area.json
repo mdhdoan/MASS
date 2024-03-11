@@ -8,6 +8,36 @@
     "http://www.monitoringresources.org/api/v1/methods/4245",
     "http://www.monitoringresources.org/api/v1/methods/5318"
   ],
+  "metrics": [
+    {
+      "id": 230,
+      "title": "Number of Multi-stemmed Reproductive Plants",
+      "category": "Vegetation/Plants",
+      "subcategory": "Abundance of Vegetative Species",
+      "isIndicator": false
+    },
+    {
+      "id": 230,
+      "title": "Number of Rosettes",
+      "category": "Vegetation/Plants",
+      "subcategory": "Abundance of Vegetative Species",
+      "isIndicator": false
+    },
+    {
+      "id": 230,
+      "title": "Number of Single-stemmed Reproductive Plants",
+      "category": "Vegetation/Plants",
+      "subcategory": "Abundance of Vegetative Species",
+      "isIndicator": false
+    },
+    {
+      "id": 230,
+      "title": "Number of Vegetative Plants",
+      "category": "Vegetation/Plants",
+      "subcategory": "Abundance of Vegetative Species",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "To collect seeds for cryopreservation.",
     "Continuous monitoring to learn more about reproduction, dormancy and pollination of this plant."

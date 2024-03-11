@@ -10,6 +10,15 @@
     "http://www.monitoringresources.org/api/v1/methods/5501",
     "http://www.monitoringresources.org/api/v1/methods/6778"
   ],
+  "metrics": [
+    {
+      "id": 72,
+      "title": "SNP allele frequencies for Chinook and steelhead",
+      "category": "Fish",
+      "subcategory": "Genetics: Fish Diversity, Fitness or Variation",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "The objective of this protocol is to determine the feasibility of generating allele frequency information from eDNA sampling."
   ],

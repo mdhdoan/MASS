@@ -10,6 +10,36 @@
     "http://www.monitoringresources.org/api/v1/methods/1687",
     "http://www.monitoringresources.org/api/v1/methods/6575"
   ],
+  "metrics": [
+    {
+      "id": 162,
+      "title": "daily maximum temperature",
+      "category": "Water Quality",
+      "subcategory": "Water Temperature",
+      "isIndicator": false
+    },
+    {
+      "id": 162,
+      "title": "daily mean temperature",
+      "category": "Water Quality",
+      "subcategory": "Water Temperature",
+      "isIndicator": false
+    },
+    {
+      "id": 162,
+      "title": "mean of daily maximum temperature",
+      "category": "Water Quality",
+      "subcategory": "Water Temperature",
+      "isIndicator": true
+    },
+    {
+      "id": 162,
+      "title": "percent of July-September period mean daily maximum temperature exceeded steelhead threshold limit",
+      "category": "Water Quality",
+      "subcategory": "Water Temperature",
+      "isIndicator": true
+    }
+  ],
   "objectives": [
     "Conduct extensive stream temperature monitoring in select steelhead streams.",
     "Analyze stream temperature data to compare and contrast spatial and temporal trends in stream temperature metrics within the context of juvenile steelhead habitat quality and availability."

@@ -24,6 +24,64 @@
     "http://www.monitoringresources.org/api/v1/methods/3992",
     "http://www.monitoringresources.org/api/v1/methods/4002"
   ],
+  "metrics": [
+    {
+      "id": 57,
+      "title": "Maturation of 1- and 2-year hatchery steelhead",
+      "category": "Fish",
+      "subcategory": "Condition of Life Stage:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 57,
+      "title": "Smoltification of 1- and 2-year hatchery steelhead",
+      "category": "Fish",
+      "subcategory": "Condition of Life Stage:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 57,
+      "title": "Seawater maturation of 1- and 2-year steelhead",
+      "category": "Fish",
+      "subcategory": "Condition of Life Stage:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 73,
+      "title": "Seawater growth of 1- and 2-year steelhead after smoltification",
+      "category": "Fish",
+      "subcategory": "Growth Rate:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 73,
+      "title": "Measure growth rates of 1- and 2-year steelhead at Manchester",
+      "category": "Fish",
+      "subcategory": "Growth Rate:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 87,
+      "title": "Behavior of juvenile hatchery steelhead",
+      "category": "Fish",
+      "subcategory": "Hatchery Practices: Propagation",
+      "isIndicator": false
+    },
+    {
+      "id": 97,
+      "title": "Seawater survival of 1- and 2-year steelhead smolts",
+      "category": "Fish",
+      "subcategory": "Survival: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 97,
+      "title": "Survival of 1- and 2-year steelhead in hatchery culture",
+      "category": "Fish",
+      "subcategory": "Survival: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Monitor seawater growth and maturation of 1- and 2-year old hatchery steelhead.",
     "Assess smoltification of 1-and 2-year old hatchery steelhead with seawater challenge and swimming assay.",

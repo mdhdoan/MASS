@@ -14,6 +14,50 @@
     "http://www.monitoringresources.org/api/v1/methods/4041",
     "http://www.monitoringresources.org/api/v1/methods/5519"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Juvenile Outmigration Abundance Estimate",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Juvenile Outmigrant Size Scoping",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 82,
+      "title": "Monitoring presence/absence of fish species in the Okanogan River",
+      "category": "Fish",
+      "subcategory": "Presence/Absence: Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 99,
+      "title": "PIT Tag Deployment",
+      "category": "Fish",
+      "subcategory": "Survival Rate: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 101,
+      "title": "Juvenile Outmigration Timing",
+      "category": "Fish",
+      "subcategory": "Timing of Life Stage: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 163,
+      "title": "Estimate productivity of summer Chinook salmon in the Okanogan River basin",
+      "category": "Fish",
+      "subcategory": "Productivity:  Fish",
+      "isIndicator": true
+    }
+  ],
   "objectives": [
     "To estimate natural summer/fall Chinook production in the Okanogan River Basin",
     "To monitor presence/absence of other fish species in the Okanogan River Basin",

@@ -11,6 +11,78 @@
     "http://www.monitoringresources.org/api/v1/methods/6588",
     "http://www.monitoringresources.org/api/v1/methods/6771"
   ],
+  "metrics": [
+    {
+      "id": 52,
+      "title": "Enumerate number of salmon harvested",
+      "category": "Fish",
+      "subcategory": "Harvest Abundance",
+      "isIndicator": false
+    },
+    {
+      "id": 52,
+      "title": "Fish Density",
+      "category": "Fish",
+      "subcategory": "Harvest Abundance",
+      "isIndicator": false
+    },
+    {
+      "id": 52,
+      "title": "Reduce pHOS of summer/fall Chinook in spawning areas",
+      "category": "Fish",
+      "subcategory": "Harvest Abundance",
+      "isIndicator": true
+    },
+    {
+      "id": 54,
+      "title": "Catch per Unit Effort",
+      "category": "Fish",
+      "subcategory": "Catch Per Unit Effort",
+      "isIndicator": false
+    },
+    {
+      "id": 67,
+      "title": "Selective harvest of HOR summer/fall Chinook",
+      "category": "Fish",
+      "subcategory": "Exclusion:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 78,
+      "title": "Immediate Release Mortality of NOR summer/fall Chinook",
+      "category": "Fish",
+      "subcategory": "Mortality: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 87,
+      "title": "Collect summer/fall Chinook broodstock",
+      "category": "Fish",
+      "subcategory": "Hatchery Practices: Propagation",
+      "isIndicator": false
+    },
+    {
+      "id": 202,
+      "title": "Identify natural-origin v hatchery-origin",
+      "category": "Fish",
+      "subcategory": "Origin",
+      "isIndicator": false
+    },
+    {
+      "id": 381,
+      "title": "Identify marked/tagged fish (CWT)",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Recovery or Detection",
+      "isIndicator": false
+    },
+    {
+      "id": 381,
+      "title": "Identify marked/tagged fish (PIT tag)",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Recovery or Detection",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Collect natural-origin and hatchery-origin summer/fall Chinook broodstock for the Chief Joseph Hatchery Program using purse seine, tangle nets and other selective fishing gears  and techniques",
     "Reduce pHOS of summer/fall Chinook in the Upper Columbia and Okanogan river basins by harvesting HOR summer Chinook for subsistence and ceremonial uses and releasing NOR Chinook at point of capture",

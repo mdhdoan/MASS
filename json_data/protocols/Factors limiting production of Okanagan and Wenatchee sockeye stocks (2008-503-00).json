@@ -19,6 +19,29 @@
     "http://www.monitoringresources.org/api/v1/methods/4095",
     "http://www.monitoringresources.org/api/v1/methods/6794"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Sockeye smolt abundance estimates from Acoustic trawl surveys",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 99,
+      "title": "Juvenile Okanagan sockeye survival estimates",
+      "category": "Fish",
+      "subcategory": "Survival Rate: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 99,
+      "title": "Survival estimates between mainstem dams as well as well as to sites in the Okanagan Basin",
+      "category": "Fish",
+      "subcategory": "Survival Rate: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Estimate survival from Wells Dam to site OKC in the Okanagan River using PIT tags",
     "Standardize smolt estimates between Osoyoos Lake and Lake Wenatchee",

@@ -9,6 +9,29 @@
     "http://www.monitoringresources.org/api/v1/methods/384",
     "http://www.monitoringresources.org/api/v1/methods/395"
   ],
+  "metrics": [
+    {
+      "id": 86,
+      "title": "Juvenile Outmigrant Production",
+      "category": "Fish",
+      "subcategory": "Progeny-per-Parent Ratio (P:P) (Productivity)",
+      "isIndicator": true
+    },
+    {
+      "id": 97,
+      "title": "Smolt to Adult Return Rate",
+      "category": "Fish",
+      "subcategory": "Survival: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 163,
+      "title": "Tributary to Tributary SARs",
+      "category": "Fish",
+      "subcategory": "Productivity:  Fish",
+      "isIndicator": true
+    }
+  ],
   "objectives": [
     "Conduct steelhead juvenile productivity (juveniles per adult spawner) assessment.",
     "Conduct steelhead Smolt to Adult Survival SARs assessment."

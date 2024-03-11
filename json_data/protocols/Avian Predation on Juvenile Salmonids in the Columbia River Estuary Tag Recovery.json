@@ -8,6 +8,22 @@
     "http://www.monitoringresources.org/api/v1/methods/255",
     "http://www.monitoringresources.org/api/v1/methods/6893"
   ],
+  "metrics": [
+    {
+      "id": 381,
+      "title": "PIT Tag Recovery",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Recovery or Detection",
+      "isIndicator": false
+    },
+    {
+      "id": 462,
+      "title": "Dispersion, Inter-colony Movement, and Survival",
+      "category": "Birds",
+      "subcategory": "Mark/Tag Recovery: Birds",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "We will use detections of juvenile salmonid Passive Integrated Transponder (PIT) tags in the Columbia River estuary to generate more accurate and precise estimates of smolt survival to Bonneville Dam"
   ],

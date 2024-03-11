@@ -20,6 +20,43 @@
     "http://www.monitoringresources.org/api/v1/methods/5258",
     "http://www.monitoringresources.org/api/v1/methods/6583"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Juvenile passage abundance",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 62,
+      "title": "Geographic distribution of juveniles",
+      "category": "Fish",
+      "subcategory": "Distribution of Fish Species",
+      "isIndicator": true
+    },
+    {
+      "id": 64,
+      "title": "Juvenile life history diversity",
+      "category": "Fish",
+      "subcategory": "Diversity of Fish: Change",
+      "isIndicator": true
+    },
+    {
+      "id": 201,
+      "title": "PIT-tag tagging data",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Application",
+      "isIndicator": true
+    },
+    {
+      "id": 381,
+      "title": "PIT-tag detection data",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Recovery or Detection",
+      "isIndicator": true
+    }
+  ],
   "objectives": [
     "Estimate passage abundance of natural-origin fall Chinook salmon subyearlings.",
     "Increase the understanding of how the numerical trends in passage abundance were associated with anthropogenic, biological, and environmental change."

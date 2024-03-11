@@ -19,6 +19,29 @@
     "http://www.monitoringresources.org/api/v1/methods/6583",
     "http://www.monitoringresources.org/api/v1/methods/6878"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Estimate of sockeye smolts leaving the basin lakes",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 97,
+      "title": "Juvenile Snake River Sockeye Survival to Lower Granite Dam",
+      "category": "Fish",
+      "subcategory": "Survival: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 101,
+      "title": "Snake River sockeye smolt travel time",
+      "category": "Fish",
+      "subcategory": "Timing of Life Stage: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Estimate the survival and travel time of each release strategy  and rearing location of juveniles emigrating from Sawtooth Basin lakes to Lower Granite Dam.",
     "Estimate the total outmigration of sockeye salmon smolts from three lakes in the Sawtooth Basin."

@@ -13,6 +13,22 @@
     "http://www.monitoringresources.org/api/v1/methods/5399",
     "http://www.monitoringresources.org/api/v1/methods/5400"
   ],
+  "metrics": [
+    {
+      "id": 49,
+      "title": "Burbot age structure by gear",
+      "category": "Fish",
+      "subcategory": "Age Structure:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Burbot size structure by gear",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Collect Burbot using trammel nets and modified cod traps to evaluate length and age bias in Fall Walleye Index Netting Burbot catch."
   ],

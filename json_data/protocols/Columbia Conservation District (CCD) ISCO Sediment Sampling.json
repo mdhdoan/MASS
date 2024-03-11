@@ -8,6 +8,29 @@
     "http://www.monitoringresources.org/api/v1/methods/1285",
     "http://www.monitoringresources.org/api/v1/methods/1335"
   ],
+  "metrics": [
+    {
+      "id": 161,
+      "title": "Total Suspended Solids",
+      "category": "Water Quality",
+      "subcategory": "Turbidity",
+      "isIndicator": false
+    },
+    {
+      "id": 161,
+      "title": "Turbidity",
+      "category": "Water Quality",
+      "subcategory": "Turbidity",
+      "isIndicator": false
+    },
+    {
+      "id": 161,
+      "title": "Water Sample",
+      "category": "Water Quality",
+      "subcategory": "Turbidity",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Determine project effectiveness in addressing and reducing sediment loading in spawning gravels."
   ],

@@ -8,6 +8,29 @@
     "http://www.monitoringresources.org/api/v1/methods/271",
     "http://www.monitoringresources.org/api/v1/methods/1615"
   ],
+  "metrics": [
+    {
+      "id": 199,
+      "title": "Entrainment",
+      "category": "Fish",
+      "subcategory": "Entrainment",
+      "isIndicator": true
+    },
+    {
+      "id": 199,
+      "title": "Rotary screw trap efficiency",
+      "category": "Fish",
+      "subcategory": "Entrainment",
+      "isIndicator": false
+    },
+    {
+      "id": 199,
+      "title": "Species count",
+      "category": "Fish",
+      "subcategory": "Entrainment",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Quantification of the entrainment of juvenile trout and non-game fish in three South Fork Snake River canals during the summer irrigation season."
   ],

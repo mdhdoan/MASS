@@ -17,6 +17,71 @@
     "http://www.monitoringresources.org/api/v1/methods/3796",
     "http://www.monitoringresources.org/api/v1/methods/4106"
   ],
+  "metrics": [
+    {
+      "id": 104,
+      "title": "Discharge",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Flow",
+      "isIndicator": false
+    },
+    {
+      "id": 154,
+      "title": "Condiuctivity",
+      "category": "Water Quality",
+      "subcategory": "Conductivity",
+      "isIndicator": false
+    },
+    {
+      "id": 155,
+      "title": "DO",
+      "category": "Water Quality",
+      "subcategory": "Dissolved Gas Concentration (By Gas)",
+      "isIndicator": false
+    },
+    {
+      "id": 157,
+      "title": "Total Nitrogen",
+      "category": "Water Quality",
+      "subcategory": "Nitrogen",
+      "isIndicator": false
+    },
+    {
+      "id": 158,
+      "title": "pH",
+      "category": "Water Quality",
+      "subcategory": "pH",
+      "isIndicator": false
+    },
+    {
+      "id": 159,
+      "title": "Total Phosphorus",
+      "category": "Water Quality",
+      "subcategory": "Phosphorus",
+      "isIndicator": false
+    },
+    {
+      "id": 161,
+      "title": "Turbidity",
+      "category": "Water Quality",
+      "subcategory": "Turbidity",
+      "isIndicator": false
+    },
+    {
+      "id": 162,
+      "title": "Temperature",
+      "category": "Water Quality",
+      "subcategory": "Water Temperature",
+      "isIndicator": false
+    },
+    {
+      "id": 242,
+      "title": "Alkalinity",
+      "category": "Water Quality",
+      "subcategory": "Alkalinity",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Describe stream water chemistry and discharge for use in habitat restoration and protection prioritization.",
     "Provide baseline water chemistry and stream discharge data sets for use in EDT model development.",

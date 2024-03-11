@@ -14,6 +14,22 @@
     "http://www.monitoringresources.org/api/v1/methods/1736",
     "http://www.monitoringresources.org/api/v1/methods/5519"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Sanpoil River Redband Trout Recruitment",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 49,
+      "title": "Sanpoil River Redband Trout Emigration Age Structure",
+      "category": "Fish",
+      "subcategory": "Age Structure:  Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "The objective of this protocol is to estimate juvenile Redband Trout recruitment from the Sanpoil River into Lake Roosevelt."
   ],

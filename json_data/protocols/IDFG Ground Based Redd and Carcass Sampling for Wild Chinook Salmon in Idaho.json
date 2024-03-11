@@ -16,6 +16,141 @@
     "http://www.monitoringresources.org/api/v1/methods/6643",
     "http://www.monitoringresources.org/api/v1/methods/6965"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Live Chinook Count",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 49,
+      "title": "Age Composition (Ocean Age 1-3)",
+      "category": "Fish",
+      "subcategory": "Age Structure:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 49,
+      "title": "Fin Ray Sample",
+      "category": "Fish",
+      "subcategory": "Age Structure:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 62,
+      "title": "Chinook Carcass Waypoint",
+      "category": "Fish",
+      "subcategory": "Distribution of Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Chinook Fork Length (FL)",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 93,
+      "title": "Sex",
+      "category": "Fish",
+      "subcategory": "Sex Type: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 116,
+      "title": "Date",
+      "category": "Time",
+      "subcategory": "Date",
+      "isIndicator": false
+    },
+    {
+      "id": 161,
+      "title": "Visibility",
+      "category": "Water Quality",
+      "subcategory": "Turbidity",
+      "isIndicator": false
+    },
+    {
+      "id": 202,
+      "title": "Origin",
+      "category": "Fish",
+      "subcategory": "Origin",
+      "isIndicator": false
+    },
+    {
+      "id": 218,
+      "title": "Datum",
+      "category": "Other",
+      "subcategory": "Location",
+      "isIndicator": false
+    },
+    {
+      "id": 218,
+      "title": "Stream (Site Name)",
+      "category": "Other",
+      "subcategory": "Location",
+      "isIndicator": false
+    },
+    {
+      "id": 243,
+      "title": "Collector",
+      "category": "Other",
+      "subcategory": "Not Applicable",
+      "isIndicator": false
+    },
+    {
+      "id": 381,
+      "title": "Hatchery Mark Detection (Fin Clip and/or CWT?)",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Recovery or Detection",
+      "isIndicator": false
+    },
+    {
+      "id": 381,
+      "title": "PIT Tag",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Recovery or Detection",
+      "isIndicator": false
+    },
+    {
+      "id": 381,
+      "title": "Snout (CWT)",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Recovery or Detection",
+      "isIndicator": false
+    },
+    {
+      "id": 436,
+      "title": "DNA Sample (DNA Fin)",
+      "category": "Fish",
+      "subcategory": "Tissue Sample: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 436,
+      "title": "Otolith Sample",
+      "category": "Fish",
+      "subcategory": "Tissue Sample: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 507,
+      "title": "Chinook Redd Waypoint (WPT)",
+      "category": "Fish",
+      "subcategory": "Spawning/Nesting",
+      "isIndicator": false
+    },
+    {
+      "id": 507,
+      "title": "Percent Spawn",
+      "category": "Fish",
+      "subcategory": "Spawning/Nesting",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Survey for Chinook Salmon redds at long-term index transects representing important production areas in Idaho.",
     "Survey for Chinook Salmon carcasses at long-term index transects in order to estimate age composition  and quantify hatchery fraction of spawning populations.",

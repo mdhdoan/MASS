@@ -9,6 +9,22 @@
     "http://www.monitoringresources.org/api/v1/methods/1100",
     "http://www.monitoringresources.org/api/v1/methods/1101"
   ],
+  "metrics": [
+    {
+      "id": 304,
+      "title": "Spatial and Temporal Distribution of Mysids",
+      "category": "Macroinvertebrates",
+      "subcategory": "Distribution of Macroinvertebrate Species",
+      "isIndicator": false
+    },
+    {
+      "id": 306,
+      "title": "Spatial and Temporal Distribution of Zooplankton",
+      "category": "Plankton",
+      "subcategory": "Distribution of Plankton Species",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Identify locations within Lake Pend Oreille with high abundance of cladocerans, especially during kokanee fry emergence/stocking.",
     "Determine the spatial and temporal distribution of mysids."

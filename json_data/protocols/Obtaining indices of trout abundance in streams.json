@@ -13,6 +13,57 @@
     "http://www.monitoringresources.org/api/v1/methods/1736",
     "http://www.monitoringresources.org/api/v1/methods/3991"
   ],
+  "metrics": [
+    {
+      "id": 59,
+      "title": "Single-pass density index",
+      "category": "Fish",
+      "subcategory": "Density of Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Total number of measured fish",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 121,
+      "title": "Total amount of time electrofishing",
+      "category": "Time",
+      "subcategory": "Time: Duration",
+      "isIndicator": false
+    },
+    {
+      "id": 201,
+      "title": "Total number of adipose clipped fish",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Application",
+      "isIndicator": false
+    },
+    {
+      "id": 201,
+      "title": "Total number of PIT-tagged fish",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Application",
+      "isIndicator": false
+    },
+    {
+      "id": 206,
+      "title": "Total number of weighed fish",
+      "category": "Fish",
+      "subcategory": "Weight: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 381,
+      "title": "Total number of fish with recognized adipose clips",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Recovery or Detection",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Obtain reach-scale indices of trout abundance that can be used in prospective trend analyses"
   ],

@@ -9,6 +9,22 @@
     "http://www.monitoringresources.org/api/v1/methods/1685",
     "http://www.monitoringresources.org/api/v1/methods/1687"
   ],
+  "metrics": [
+    {
+      "id": 162,
+      "title": "daily maximum and minimum",
+      "category": "Water Quality",
+      "subcategory": "Water Temperature",
+      "isIndicator": false
+    },
+    {
+      "id": 243,
+      "title": "Temperature",
+      "category": "Other",
+      "subcategory": "Not Applicable",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     " By placing thermographs throughout a river system, it allows\r\nfor spatial analysis of temperature differences."
   ],

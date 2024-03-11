@@ -12,6 +12,43 @@
     "http://www.monitoringresources.org/api/v1/methods/4226",
     "http://www.monitoringresources.org/api/v1/methods/6706"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Relative abundance of precociously mature spring Chinook away from active redds",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 46,
+      "title": "Relative abundance of precociously mature spring Chinook salmon on active redds",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 80,
+      "title": "Identifying Precociousness",
+      "category": "Fish",
+      "subcategory": "Precociousness",
+      "isIndicator": true
+    },
+    {
+      "id": 202,
+      "title": "Identifying Origin",
+      "category": "Fish",
+      "subcategory": "Origin",
+      "isIndicator": true
+    },
+    {
+      "id": 507,
+      "title": "Redd Identification",
+      "category": "Fish",
+      "subcategory": "Spawning/Nesting",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Monitor the relative abundance and distribution of precociously mature, hatchery and natural origin, spring Chinook salmon (minijacks) present on active redds",
     "Determine the period of peak spawning activity"

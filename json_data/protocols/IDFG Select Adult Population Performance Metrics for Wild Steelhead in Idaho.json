@@ -35,6 +35,106 @@
     "http://www.monitoringresources.org/api/v1/methods/6855",
     "http://www.monitoringresources.org/api/v1/methods/6929"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Abundance estimates of wild adult steelhead for select intensively monitored populations in Idaho.",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 48,
+      "title": "Age Composition of wild adult steelhead for select intensively monitored populations in Idaho.",
+      "category": "Fish",
+      "subcategory": "Age:  Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 75,
+      "title": "Fork Length (wild adult steelhead)",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Size structure of wild adult steelhead for select intensively monitored populations in Idaho.",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": true
+    },
+    {
+      "id": 92,
+      "title": "Sex ratio of wild adult steelhead for select intensively monitored populations in Idaho.",
+      "category": "Fish",
+      "subcategory": "Sex Ratio: Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 93,
+      "title": "Phenotypic Sex (wild adult steelhead)",
+      "category": "Fish",
+      "subcategory": "Sex Type: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 99,
+      "title": "Smolt-to-Adult Return (SAR) estimates of wild adult steelhead for select intensively monitored populations in Idaho.",
+      "category": "Fish",
+      "subcategory": "Survival Rate: Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 101,
+      "title": "Date Captured",
+      "category": "Fish",
+      "subcategory": "Timing of Life Stage: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 101,
+      "title": "Run/Return Timing of wild adult steelhead for select intensively monitored populations in Idaho.",
+      "category": "Fish",
+      "subcategory": "Timing of Life Stage: Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 163,
+      "title": "Productivity (adult-to-adult) estimates of wild adult steelhead for select intensively monitored populations in Idaho.",
+      "category": "Fish",
+      "subcategory": "Productivity:  Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 203,
+      "title": "Scale Sample (wild adult steelhead)",
+      "category": "Fish",
+      "subcategory": "Scales",
+      "isIndicator": false
+    },
+    {
+      "id": 381,
+      "title": "Operculum Punch (wild adult steelhead)",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Recovery or Detection",
+      "isIndicator": false
+    },
+    {
+      "id": 381,
+      "title": "PIT Tag Detected (wild adult steelhead)",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Recovery or Detection",
+      "isIndicator": false
+    },
+    {
+      "id": 436,
+      "title": "Fin Clip collected for Genetic Analyses",
+      "category": "Fish",
+      "subcategory": "Tissue Sample: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Summarize IDFG\u2019s intensive, high-precision monitoring of adult wild steelhead in the following twelve locations and ten populations of the Clearwater River and Salmon River MPGs (see table 1).",
     "Estimate adult wild steelhead adult abundance and productivity at all twelve locations.",

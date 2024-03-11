@@ -13,6 +13,50 @@
     "http://www.monitoringresources.org/api/v1/methods/3937",
     "http://www.monitoringresources.org/api/v1/methods/4099"
   ],
+  "metrics": [
+    {
+      "id": 104,
+      "title": "Stream Discharge",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Flow",
+      "isIndicator": false
+    },
+    {
+      "id": 154,
+      "title": "Stream Conductivity",
+      "category": "Water Quality",
+      "subcategory": "Conductivity",
+      "isIndicator": false
+    },
+    {
+      "id": 155,
+      "title": "Dissolved Oxygen",
+      "category": "Water Quality",
+      "subcategory": "Dissolved Gas Concentration (By Gas)",
+      "isIndicator": false
+    },
+    {
+      "id": 158,
+      "title": "Stream pH",
+      "category": "Water Quality",
+      "subcategory": "pH",
+      "isIndicator": false
+    },
+    {
+      "id": 161,
+      "title": "Stream Turbidity",
+      "category": "Water Quality",
+      "subcategory": "Turbidity",
+      "isIndicator": false
+    },
+    {
+      "id": 162,
+      "title": "Stream Temperature",
+      "category": "Water Quality",
+      "subcategory": "Water Temperature",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "To obtain water quality metrics within a watershed to assess current conditions or monitor trends over time for a represented stream reach.",
     "Obtain water quality metrics (dissolved oxygen and temperature) throughout the vertical profile of pool(s) created by beaver."

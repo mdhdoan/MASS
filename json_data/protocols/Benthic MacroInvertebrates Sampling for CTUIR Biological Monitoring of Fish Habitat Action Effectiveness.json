@@ -13,6 +13,15 @@
     "http://www.monitoringresources.org/api/v1/methods/4120",
     "http://www.monitoringresources.org/api/v1/methods/4237"
   ],
+  "metrics": [
+    {
+      "id": 112,
+      "title": "Benthic Macroinvertebrate Abundance",
+      "category": "Macroinvertebrates",
+      "subcategory": "Abundance of Macroinvertebrates",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Determine how benthic macroinvertebrate communities have changed as a result of in stream and floodplain habitat restoration."
   ],

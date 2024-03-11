@@ -7,6 +7,22 @@
   "methods": [
     "http://www.monitoringresources.org/api/v1/methods/1088"
   ],
+  "metrics": [
+    {
+      "id": 225,
+      "title": "Location of Kokanee Spawning Gravels",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Distribution of Sediment",
+      "isIndicator": false
+    },
+    {
+      "id": 228,
+      "title": "Proportion of substrate classes",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Type of Substrate",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Evaluate how kokanee spawning substrate changes with respect to winter lake level management."
   ],

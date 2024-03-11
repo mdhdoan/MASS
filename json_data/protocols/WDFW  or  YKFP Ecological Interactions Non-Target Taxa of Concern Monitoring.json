@@ -15,6 +15,22 @@
     "http://www.monitoringresources.org/api/v1/methods/120",
     "http://www.monitoringresources.org/api/v1/methods/121"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "backpack electrofishing",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 46,
+      "title": "Fish",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Assess and contain risks to abundance, size structure, biomass, and distribution for 15 NTTOC associated with hatchery salmon supplementation in the Yakima."
   ],

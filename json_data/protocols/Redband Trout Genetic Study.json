@@ -14,6 +14,22 @@
     "http://www.monitoringresources.org/api/v1/methods/1355",
     "http://www.monitoringresources.org/api/v1/methods/3817"
   ],
+  "metrics": [
+    {
+      "id": 72,
+      "title": "Creel and weir population population assignment",
+      "category": "Fish",
+      "subcategory": "Genetics: Fish Diversity, Fitness or Variation",
+      "isIndicator": false
+    },
+    {
+      "id": 72,
+      "title": "Generic population structure of wild redband trout",
+      "category": "Fish",
+      "subcategory": "Genetics: Fish Diversity, Fitness or Variation",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Determine the genetic status (pure, introgressed, or naturalized non-native) of wild trout populations within the Lake Roosevelt watershed."
   ],

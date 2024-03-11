@@ -17,6 +17,64 @@
     "http://www.monitoringresources.org/api/v1/methods/5339",
     "http://www.monitoringresources.org/api/v1/methods/5340"
   ],
+  "metrics": [
+    {
+      "id": 32,
+      "title": "Slope",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Gradient",
+      "isIndicator": false
+    },
+    {
+      "id": 36,
+      "title": "Reach Length",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Length/Width/Area",
+      "isIndicator": false
+    },
+    {
+      "id": 36,
+      "title": "Reach Width",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Length/Width/Area",
+      "isIndicator": false
+    },
+    {
+      "id": 59,
+      "title": "Changes in Fish Density",
+      "category": "Fish",
+      "subcategory": "Density of Fish Species",
+      "isIndicator": true
+    },
+    {
+      "id": 59,
+      "title": "Juvenile Fish Density",
+      "category": "Fish",
+      "subcategory": "Density of Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 116,
+      "title": "Sample Date",
+      "category": "Time",
+      "subcategory": "Date",
+      "isIndicator": false
+    },
+    {
+      "id": 218,
+      "title": "GPS Coordinates",
+      "category": "Other",
+      "subcategory": "Location",
+      "isIndicator": false
+    },
+    {
+      "id": 407,
+      "title": "Passage Design",
+      "category": "Disturbance/Restoration",
+      "subcategory": "Restoration Action",
+      "isIndicator": true
+    }
+  ],
   "objectives": [
     "Determine whether the design and information in the permit and/or funding application for fish passage are being met post-implementation (Years 1, 2, and 5)",
     "Determine whether adult and juvenile salmonid density both in aimpact reach upstream of the fish barrier is increasing relative to the desenties in the downstream control reach.  year -1 to 2 and 5",

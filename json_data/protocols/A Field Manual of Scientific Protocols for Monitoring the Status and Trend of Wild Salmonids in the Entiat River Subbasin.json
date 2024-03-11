@@ -11,6 +11,43 @@
     "http://www.monitoringresources.org/api/v1/methods/5356",
     "http://www.monitoringresources.org/api/v1/methods/5465"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Abundance of stream-type Chinook and steelhead",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 73,
+      "title": "Growth rate of juvenile stream-type Chinook and steelhead",
+      "category": "Fish",
+      "subcategory": "Growth Rate:  Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 75,
+      "title": "Fork length",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 99,
+      "title": "Survival probability of juvenile stream-type Chinook and steelhead",
+      "category": "Fish",
+      "subcategory": "Survival Rate: Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 206,
+      "title": "Fish weight",
+      "category": "Fish",
+      "subcategory": "Weight: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Evaluate status and trends of juvenile spring Chinook and steelhead in the Entiat River subbasin in wadeable, perennial streams below natural impassible barriers within TRT population boundaries."
   ],

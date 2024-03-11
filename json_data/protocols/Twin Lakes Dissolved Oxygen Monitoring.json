@@ -7,6 +7,36 @@
   "methods": [
     "http://www.monitoringresources.org/api/v1/methods/309"
   ],
+  "metrics": [
+    {
+      "id": 155,
+      "title": "Dissolved Oxygen",
+      "category": "Water Quality",
+      "subcategory": "Dissolved Gas Concentration (By Gas)",
+      "isIndicator": false
+    },
+    {
+      "id": 155,
+      "title": "Oxygen addition rates",
+      "category": "Water Quality",
+      "subcategory": "Dissolved Gas Concentration (By Gas)",
+      "isIndicator": true
+    },
+    {
+      "id": 155,
+      "title": "Oxygen depletion rates",
+      "category": "Water Quality",
+      "subcategory": "Dissolved Gas Concentration (By Gas)",
+      "isIndicator": true
+    },
+    {
+      "id": 162,
+      "title": "Water Temperature",
+      "category": "Water Quality",
+      "subcategory": "Water Temperature",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Monitor dissolved oxygen levels in North Twin Lake.",
     "Assess effectiveness of oxygen addition to North Twin Lake. "

@@ -11,6 +11,36 @@
     "http://www.monitoringresources.org/api/v1/methods/3785",
     "http://www.monitoringresources.org/api/v1/methods/3814"
   ],
+  "metrics": [
+    {
+      "id": 75,
+      "title": "Release length",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 80,
+      "title": "Minijack rate",
+      "category": "Fish",
+      "subcategory": "Precociousness",
+      "isIndicator": false
+    },
+    {
+      "id": 92,
+      "title": "Sex ratio of release population",
+      "category": "Fish",
+      "subcategory": "Sex Ratio: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 206,
+      "title": "Release weight",
+      "category": "Fish",
+      "subcategory": "Weight: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Minijack rate estimate using plasma 11-KT",
     "Measure body weight of individual spring Chinook prior to release",

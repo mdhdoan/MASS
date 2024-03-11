@@ -28,6 +28,246 @@
     "http://www.monitoringresources.org/api/v1/methods/6918",
     "http://www.monitoringresources.org/api/v1/methods/6919"
   ],
+  "metrics": [
+    {
+      "id": 17,
+      "title": "Thalweg Profile",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Depth: Bathymetry",
+      "isIndicator": false
+    },
+    {
+      "id": 17,
+      "title": "Transect Stream Depth",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Depth: Bathymetry",
+      "isIndicator": false
+    },
+    {
+      "id": 21,
+      "title": "Thalweg Profile",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Density of Habitat Type",
+      "isIndicator": true
+    },
+    {
+      "id": 21,
+      "title": "Distribution of Pools",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Density of Habitat Type",
+      "isIndicator": true
+    },
+    {
+      "id": 25,
+      "title": "Distribution of LWS",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Distribution of Instream Wood",
+      "isIndicator": true
+    },
+    {
+      "id": 28,
+      "title": "Human Influence",
+      "category": "Disturbance/Restoration",
+      "subcategory": "Disturbance Presence",
+      "isIndicator": false
+    },
+    {
+      "id": 31,
+      "title": "Form/Morphology",
+      "category": "Classification of Ecological or Geological Attribute ",
+      "subcategory": "Form/Morphology",
+      "isIndicator": false
+    },
+    {
+      "id": 32,
+      "title": "Gradient",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Gradient",
+      "isIndicator": false
+    },
+    {
+      "id": 33,
+      "title": "Habitat Quality",
+      "category": "Classification of Ecological or Geological Attribute ",
+      "subcategory": "Habitat Quality",
+      "isIndicator": false
+    },
+    {
+      "id": 35,
+      "title": "Human Influence",
+      "category": "Classification of Ecological or Geological Attribute ",
+      "subcategory": "Land Use",
+      "isIndicator": false
+    },
+    {
+      "id": 37,
+      "title": "Thalweg Profile",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Depth: Pool",
+      "isIndicator": false
+    },
+    {
+      "id": 40,
+      "title": "Pool Surface Area",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Surface Water Cover",
+      "isIndicator": true
+    },
+    {
+      "id": 43,
+      "title": "Transect Data",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Width to Depth Ratio",
+      "isIndicator": false
+    },
+    {
+      "id": 44,
+      "title": "Bankfull Width",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Width: Bankfull ",
+      "isIndicator": false
+    },
+    {
+      "id": 45,
+      "title": "Wetted Width",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Width: Wetted",
+      "isIndicator": false
+    },
+    {
+      "id": 51,
+      "title": "Reach Carrying Capacity",
+      "category": "Fish",
+      "subcategory": "Carrying Capacity: Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 104,
+      "title": "Discharge (Q)",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Flow",
+      "isIndicator": false
+    },
+    {
+      "id": 112,
+      "title": "Abundance of Macroinvertebrates",
+      "category": "Macroinvertebrates",
+      "subcategory": "Abundance of Macroinvertebrates",
+      "isIndicator": false
+    },
+    {
+      "id": 113,
+      "title": "Macroinvertebrate Species Assemblage",
+      "category": "Macroinvertebrates",
+      "subcategory": "Composition: Macroinvertebrate Species Assemblage",
+      "isIndicator": false
+    },
+    {
+      "id": 116,
+      "title": "Date",
+      "category": "Time",
+      "subcategory": "Date",
+      "isIndicator": false
+    },
+    {
+      "id": 120,
+      "title": "Time",
+      "category": "Time",
+      "subcategory": "Time: Actual",
+      "isIndicator": false
+    },
+    {
+      "id": 132,
+      "title": "Substrate Size Class",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Composition: Substrate/Soil-Dominant Size",
+      "isIndicator": false
+    },
+    {
+      "id": 135,
+      "title": "Embeddedness",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Embeddedness",
+      "isIndicator": false
+    },
+    {
+      "id": 162,
+      "title": "Temperature",
+      "category": "Water Quality",
+      "subcategory": "Water Temperature",
+      "isIndicator": false
+    },
+    {
+      "id": 163,
+      "title": "Reach Productivity",
+      "category": "Fish",
+      "subcategory": "Productivity:  Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 188,
+      "title": "Bankfull Height",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Depth/Height: Bankfull ",
+      "isIndicator": false
+    },
+    {
+      "id": 192,
+      "title": "Presence of Side Channel and Backwater",
+      "category": "Classification of Ecological or Geological Attribute ",
+      "subcategory": "Habitat Type",
+      "isIndicator": false
+    },
+    {
+      "id": 192,
+      "title": "Thalweg Profile",
+      "category": "Classification of Ecological or Geological Attribute ",
+      "subcategory": "Habitat Type",
+      "isIndicator": false
+    },
+    {
+      "id": 212,
+      "title": "IBI",
+      "category": "Macroinvertebrates",
+      "subcategory": "Index of Biotic Integrity:  Macroinvertebrate Species",
+      "isIndicator": false
+    },
+    {
+      "id": 225,
+      "title": "Percent Fines",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Distribution of Sediment",
+      "isIndicator": false
+    },
+    {
+      "id": 308,
+      "title": "Diverson Structures",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Diversion Type",
+      "isIndicator": false
+    },
+    {
+      "id": 374,
+      "title": "Density of Instream Wood",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Density of Instream Wood",
+      "isIndicator": true
+    },
+    {
+      "id": 418,
+      "title": "Species Type",
+      "category": "Macroinvertebrates",
+      "subcategory": "Species Type: Macroinvertebrates",
+      "isIndicator": false
+    },
+    {
+      "id": 504,
+      "title": "Measuring LWD",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Abundance of Instream Wood Structures",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Monitor status and trend of physical habitat of salmonids below anadromous barriers. "
   ],

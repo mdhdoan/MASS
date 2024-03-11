@@ -15,6 +15,43 @@
     "http://www.monitoringresources.org/api/v1/methods/5411",
     "http://www.monitoringresources.org/api/v1/methods/6996"
   ],
+  "metrics": [
+    {
+      "id": 71,
+      "title": "Percent Hatchery Origin Spawners (pHOS)",
+      "category": "Fish",
+      "subcategory": "Fraction: Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 99,
+      "title": "Egg-to-Smolt Survival (ESS)",
+      "category": "Fish",
+      "subcategory": "Survival Rate: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 99,
+      "title": "Smolt-to-Adult Return Rate (SAR)",
+      "category": "Fish",
+      "subcategory": "Survival Rate: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 163,
+      "title": "Smolts-per-Female (SpF)",
+      "category": "Fish",
+      "subcategory": "Productivity:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 514,
+      "title": "Adult Overshoot Rate",
+      "category": "Fish",
+      "subcategory": "Behavior/Activity",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Provide long-term time series of consistently derived metrics to inform managers on population response to recovery strategies and environmental stressors (i.e., climate change, water diversion, etc.)",
     "Report population status and trends at regular intervals.",

@@ -23,6 +23,176 @@
     "http://www.monitoringresources.org/api/v1/methods/5523",
     "http://www.monitoringresources.org/api/v1/methods/5527"
   ],
+  "metrics": [
+    {
+      "id": 37,
+      "title": "Trap Depth",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Depth: Pool",
+      "isIndicator": false
+    },
+    {
+      "id": 46,
+      "title": "Behavior of Fish Approaching Weir",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 46,
+      "title": "Downstream Boat Surveys",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 52,
+      "title": "Fate of Weir Trapped Fish",
+      "category": "Fish",
+      "subcategory": "Harvest Abundance",
+      "isIndicator": false
+    },
+    {
+      "id": 59,
+      "title": "Downstream Bank Observations",
+      "category": "Fish",
+      "subcategory": "Density of Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Carcass Biosampling- Length",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 78,
+      "title": "Weir Effects (Mortality)",
+      "category": "Fish",
+      "subcategory": "Mortality: Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 93,
+      "title": "Carcass Biosampling- Sex",
+      "category": "Fish",
+      "subcategory": "Sex Type: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 97,
+      "title": "Adult Fish Mortality",
+      "category": "Fish",
+      "subcategory": "Survival: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 104,
+      "title": "River Discharge",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Flow",
+      "isIndicator": false
+    },
+    {
+      "id": 104,
+      "title": "Water Velocity",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Flow",
+      "isIndicator": false
+    },
+    {
+      "id": 155,
+      "title": "Water Quality- Dissolved Oxygen",
+      "category": "Water Quality",
+      "subcategory": "Dissolved Gas Concentration (By Gas)",
+      "isIndicator": false
+    },
+    {
+      "id": 161,
+      "title": "Water Quality- Total Dissolved Solids",
+      "category": "Water Quality",
+      "subcategory": "Turbidity",
+      "isIndicator": false
+    },
+    {
+      "id": 161,
+      "title": "Water Quality- Turbidity",
+      "category": "Water Quality",
+      "subcategory": "Turbidity",
+      "isIndicator": false
+    },
+    {
+      "id": 162,
+      "title": "Water Quality-Temperature",
+      "category": "Water Quality",
+      "subcategory": "Water Temperature",
+      "isIndicator": false
+    },
+    {
+      "id": 197,
+      "title": "Weir Head Differential",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Structural Stability",
+      "isIndicator": false
+    },
+    {
+      "id": 199,
+      "title": "Weir Effects (Entrainment)",
+      "category": "Fish",
+      "subcategory": "Entrainment",
+      "isIndicator": true
+    },
+    {
+      "id": 201,
+      "title": "Mark/Tag of Natural Origin Chinook",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Application",
+      "isIndicator": false
+    },
+    {
+      "id": 202,
+      "title": "Carcass Biosampling- Origin of Fish",
+      "category": "Fish",
+      "subcategory": "Origin",
+      "isIndicator": false
+    },
+    {
+      "id": 248,
+      "title": "Weir Effectiveness",
+      "category": "Fish",
+      "subcategory": "Passage Efficiency",
+      "isIndicator": true
+    },
+    {
+      "id": 248,
+      "title": "Weir Efficiency",
+      "category": "Fish",
+      "subcategory": "Passage Efficiency",
+      "isIndicator": true
+    },
+    {
+      "id": 381,
+      "title": "Carcass Biosampling- Marks/Tags",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Recovery or Detection",
+      "isIndicator": false
+    },
+    {
+      "id": 381,
+      "title": "PIT Tag Interrogation- Weir Trap/Downstream Array",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Recovery or Detection",
+      "isIndicator": false
+    },
+    {
+      "id": 436,
+      "title": "Coded Wire Tag Snout Sampling",
+      "category": "Fish",
+      "subcategory": "Tissue Sample: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Continued testing of weir configurations, fish removal and handling methods, and data collection methods.",
     "Non-native species will be killed, all other non-target species shall be released unharmed",

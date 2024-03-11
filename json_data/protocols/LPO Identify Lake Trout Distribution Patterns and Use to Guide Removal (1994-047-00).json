@@ -11,6 +11,36 @@
     "http://www.monitoringresources.org/api/v1/methods/1044",
     "http://www.monitoringresources.org/api/v1/methods/1071"
   ],
+  "metrics": [
+    {
+      "id": 62,
+      "title": "Mature Lake Trout Distribution",
+      "category": "Fish",
+      "subcategory": "Distribution of Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 82,
+      "title": "Lake Trout Spawning Site Use",
+      "category": "Fish",
+      "subcategory": "Presence/Absence: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 381,
+      "title": "Mature lake trout exploitation",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Recovery or Detection",
+      "isIndicator": false
+    },
+    {
+      "id": 507,
+      "title": "Lake Trout Spawning Site Evaluations",
+      "category": "Fish",
+      "subcategory": "Spawning/Nesting",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Identify areas of high concentration of lake trout at each spawning site, and use this information to guide the placement of gill nets."
   ],

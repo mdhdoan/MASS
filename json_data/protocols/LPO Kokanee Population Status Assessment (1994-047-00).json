@@ -19,6 +19,57 @@
     "http://www.monitoringresources.org/api/v1/methods/1620",
     "http://www.monitoringresources.org/api/v1/methods/1734"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Kokanee Age-Specific Abundance",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 48,
+      "title": "Kokanee Ageing",
+      "category": "Fish",
+      "subcategory": "Age:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Kokanee Length",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 99,
+      "title": "Kokanee Survival",
+      "category": "Fish",
+      "subcategory": "Survival Rate: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 163,
+      "title": "Kokanee Biomass, Production, and Mortality by Weight",
+      "category": "Fish",
+      "subcategory": "Productivity:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 202,
+      "title": "Hatchery and wild proportions of kokanee",
+      "category": "Fish",
+      "subcategory": "Origin",
+      "isIndicator": false
+    },
+    {
+      "id": 206,
+      "title": "Kokanee Weight",
+      "category": "Fish",
+      "subcategory": "Weight: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Estimate the proportion of hatchery and wild kokanee in each age class.",
     "Estimate kokanee biomass, production, and mortality by weight.",

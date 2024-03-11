@@ -10,6 +10,29 @@
     "http://www.monitoringresources.org/api/v1/methods/4042",
     "http://www.monitoringresources.org/api/v1/methods/6614"
   ],
+  "metrics": [
+    {
+      "id": 75,
+      "title": "Fish Length",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 99,
+      "title": "Daily Survival Rate",
+      "category": "Fish",
+      "subcategory": "Survival Rate: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 206,
+      "title": "Fish Weight",
+      "category": "Fish",
+      "subcategory": "Weight: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Identify the transition feed treatment period with maximum post-stocking survival.",
     "Assess post-stocking daily survival rate for different transition feed treatment periods."

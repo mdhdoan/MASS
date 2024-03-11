@@ -11,6 +11,57 @@
     "http://www.monitoringresources.org/api/v1/methods/1356",
     "http://www.monitoringresources.org/api/v1/methods/5446"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Stock proportions of trawl captured Oncorhynchus nerka.",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 46,
+      "title": "Stock proportions of harvested Oncorhynchus nerka in Redfish Lake",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 95,
+      "title": "Stock origin of juveniles emigrating from Alturas, Pettit and Redfish lakes",
+      "category": "Fish",
+      "subcategory": "Stock Identity",
+      "isIndicator": false
+    },
+    {
+      "id": 95,
+      "title": "Stock origin of adults returning to Alturas, Pettit and Redfish lakes",
+      "category": "Fish",
+      "subcategory": "Stock Identity",
+      "isIndicator": false
+    },
+    {
+      "id": 99,
+      "title": "Smolt to adult survival of Snake River sockeye salmon",
+      "category": "Fish",
+      "subcategory": "Survival Rate: Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 163,
+      "title": "Adult to adult productivity of Snake River sockeye salmon",
+      "category": "Fish",
+      "subcategory": "Productivity:  Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 163,
+      "title": "Adult to juvenile productivity of Snake River sockeye salmon releases into Redfish Lake",
+      "category": "Fish",
+      "subcategory": "Productivity:  Fish",
+      "isIndicator": true
+    }
+  ],
   "objectives": [
     "This protocol outlines how individual assignments (PBT and GSI) are completed for Snake River sockeye salmon."
   ],

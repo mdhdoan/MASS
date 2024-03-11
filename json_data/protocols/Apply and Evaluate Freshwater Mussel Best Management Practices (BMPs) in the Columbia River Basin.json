@@ -9,6 +9,29 @@
     "http://www.monitoringresources.org/api/v1/methods/6713",
     "http://www.monitoringresources.org/api/v1/methods/6714"
   ],
+  "metrics": [
+    {
+      "id": 293,
+      "title": "Freshwater Mussel density",
+      "category": "Macroinvertebrates",
+      "subcategory": "Density of Macroinvertebrate Species",
+      "isIndicator": false
+    },
+    {
+      "id": 393,
+      "title": "Freshwater Mussel Presence",
+      "category": "Macroinvertebrates",
+      "subcategory": "Presence/Absence: Macroinvertebrates",
+      "isIndicator": false
+    },
+    {
+      "id": 493,
+      "title": "Freshwater Mussel Survivorship",
+      "category": "Macroinvertebrates",
+      "subcategory": "Survival: Macroinvertebrates",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Apply and evaluate efficacy of Best Management Practices outlined in \"Conserving the Gems of Our Waters\" - freshwater mussel BMPs published by the Xerces Society by Blevins et al. 2017."
   ],

@@ -15,6 +15,92 @@
     "http://www.monitoringresources.org/api/v1/methods/6931",
     "http://www.monitoringresources.org/api/v1/methods/6941"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Wild adult abundance",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 49,
+      "title": "Wild adult age composition",
+      "category": "Fish",
+      "subcategory": "Age Structure:  Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 49,
+      "title": "Wild adult scale sample",
+      "category": "Fish",
+      "subcategory": "Age Structure:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 72,
+      "title": "Genetics: Population Identification",
+      "category": "Fish",
+      "subcategory": "Genetics: Fish Diversity, Fitness or Variation",
+      "isIndicator": true
+    },
+    {
+      "id": 75,
+      "title": "Fish Fork Length",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 86,
+      "title": "Adult-to-adult productivity",
+      "category": "Fish",
+      "subcategory": "Progeny-per-Parent Ratio (P:P) (Productivity)",
+      "isIndicator": true
+    },
+    {
+      "id": 88,
+      "title": "Smolt-to-adult return rate using estimated abundances",
+      "category": "Fish",
+      "subcategory": "Relative Reproductive Success (RRS)",
+      "isIndicator": true
+    },
+    {
+      "id": 93,
+      "title": "Sex",
+      "category": "Fish",
+      "subcategory": "Sex Type: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 201,
+      "title": "PIT Tag",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Application",
+      "isIndicator": false
+    },
+    {
+      "id": 202,
+      "title": "Origin",
+      "category": "Fish",
+      "subcategory": "Origin",
+      "isIndicator": false
+    },
+    {
+      "id": 381,
+      "title": "Hatchery Mark Detection (Fin Clip, PIT Tag, or CWT)",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Recovery or Detection",
+      "isIndicator": false
+    },
+    {
+      "id": 436,
+      "title": "DNA Sample",
+      "category": "Fish",
+      "subcategory": "Tissue Sample: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Sample representative portion of natural/wild adult Snake River steelhead and spring-summer Chinook Salmon runs at Lower Granite Dam.",
     "Estimate and monitor abundance, productivity, survival, and composition (age structure, sex ratios, and genetic stock) of adult natural/wild Snake River steelhead and spring-summer Chinook Salmon ESUs"

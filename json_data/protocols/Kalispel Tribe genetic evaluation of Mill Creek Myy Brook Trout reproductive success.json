@@ -16,6 +16,29 @@
     "http://www.monitoringresources.org/api/v1/methods/5446",
     "http://www.monitoringresources.org/api/v1/methods/6569"
   ],
+  "metrics": [
+    {
+      "id": 92,
+      "title": "Ratio of Male:Female Brook Trout",
+      "category": "Fish",
+      "subcategory": "Sex Ratio: Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 202,
+      "title": "Myy Brook Trout Parentage and Sex Assignment",
+      "category": "Fish",
+      "subcategory": "Origin",
+      "isIndicator": false
+    },
+    {
+      "id": 202,
+      "title": "Wild Brook Trout Parentage and Sex Assignment",
+      "category": "Fish",
+      "subcategory": "Origin",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Conduct annual genetic parentage analyses to determine if Myy Brook Trout have successfully spawned with the extant population.",
     "Conduct annual genetic evaluation to estimate the sex ratio and determine if male Brook Trout abundance is increasing as a result of successive Myy Brook Trout spawning with the extant population."

@@ -10,6 +10,64 @@
     "http://www.monitoringresources.org/api/v1/methods/6636",
     "http://www.monitoringresources.org/api/v1/methods/6639"
   ],
+  "metrics": [
+    {
+      "id": 49,
+      "title": "Age at Emigration",
+      "category": "Fish",
+      "subcategory": "Age Structure:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 62,
+      "title": "Juvenile Rearing Distribution",
+      "category": "Fish",
+      "subcategory": "Distribution of Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 72,
+      "title": "Genetic Diversity",
+      "category": "Fish",
+      "subcategory": "Genetics: Fish Diversity, Fitness or Variation",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Size at Emigration",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 99,
+      "title": "Juvenile Survival to First Mainstem Dam",
+      "category": "Fish",
+      "subcategory": "Survival Rate: Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 101,
+      "title": "Juvenile Emigration Timing",
+      "category": "Fish",
+      "subcategory": "Timing of Life Stage: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 101,
+      "title": "Mainstem Arrival Timing",
+      "category": "Fish",
+      "subcategory": "Timing of Life Stage: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 282,
+      "title": "Condition of Juveniles at Emigration",
+      "category": "Fish",
+      "subcategory": "Condition Factor",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Collect juvenile salmonid data, from seining (boat and shore) with a capture and marking program for determination of survival, growth and life history characteristics. ",
     "Provide a means to calculate natural Chinook salmon emigration timing and survival to Snake and Columbia river dams. ",

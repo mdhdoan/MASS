@@ -7,6 +7,22 @@
   "methods": [
     "http://www.monitoringresources.org/api/v1/methods/5481"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Population Growth Rate",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 163,
+      "title": "Freshwater Productivity",
+      "category": "Fish",
+      "subcategory": "Productivity:  Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Develop Life Cycle Models that can be used to support decision making for management actions targeting ESA listed salmonids in the Columbia River Basin."
   ],

@@ -15,6 +15,78 @@
     "http://www.monitoringresources.org/api/v1/methods/255",
     "http://www.monitoringresources.org/api/v1/methods/258"
   ],
+  "metrics": [
+    {
+      "id": 2,
+      "title": "Reductions in colony size due to habitat restriction",
+      "category": "Birds",
+      "subcategory": "Abundance of Birds",
+      "isIndicator": true
+    },
+    {
+      "id": 2,
+      "title": "Colony Size",
+      "category": "Birds",
+      "subcategory": "Abundance of Birds",
+      "isIndicator": false
+    },
+    {
+      "id": 81,
+      "title": "Number of Fish Consumed by Avian Predators",
+      "category": "Fish",
+      "subcategory": "Predation Rate: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 81,
+      "title": "Predation Rates of Fish Consumbed by Avian Predators",
+      "category": "Fish",
+      "subcategory": "Predation Rate: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 82,
+      "title": "Species of Fish Consumed by Avian Predators",
+      "category": "Fish",
+      "subcategory": "Presence/Absence: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 97,
+      "title": "Reductions in fish consumption due to a reduction in colony size",
+      "category": "Fish",
+      "subcategory": "Survival: Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 297,
+      "title": "Diet Composition",
+      "category": "Birds",
+      "subcategory": "Diet: Birds",
+      "isIndicator": false
+    },
+    {
+      "id": 303,
+      "title": "Colony Location and Habitat Use",
+      "category": "Birds",
+      "subcategory": "Distribution of Bird Species",
+      "isIndicator": false
+    },
+    {
+      "id": 322,
+      "title": "Nesting Success",
+      "category": "Birds",
+      "subcategory": "Fecundity:  Birds",
+      "isIndicator": false
+    },
+    {
+      "id": 462,
+      "title": "Dispersion, Inter-colony Movement, and Survival",
+      "category": "Birds",
+      "subcategory": "Mark/Tag Recovery: Birds",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Determine the diet (prey types, consumption and predation rates) of Caspian terns and double-crested cormorants nesting on East Sand Island to evaluate the efficacy of management actions",
     "Determine the abundance, nesting success, and habitat use of Caspian terns and double-crested cormorants nesting on East Sand Island to evaluate the efficacy of management actions",

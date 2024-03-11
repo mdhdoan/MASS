@@ -89,6 +89,1807 @@
     "http://www.monitoringresources.org/api/v1/methods/6752",
     "http://www.monitoringresources.org/api/v1/methods/6753"
   ],
+  "metrics": [
+    {
+      "id": 15,
+      "title": "Area - Channel Unit Summary",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Abundance of Habitat Types",
+      "isIndicator": false
+    },
+    {
+      "id": 15,
+      "title": "Area - Channel Unit Summary Tier 2",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Abundance of Habitat Types",
+      "isIndicator": false
+    },
+    {
+      "id": 15,
+      "title": "Area - Channel Unit Tier 1 Summary",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Abundance of Habitat Types",
+      "isIndicator": false
+    },
+    {
+      "id": 15,
+      "title": "Channel Units",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Abundance of Habitat Types",
+      "isIndicator": false
+    },
+    {
+      "id": 15,
+      "title": "Count - Channel Unit Summary Tier 2",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Abundance of Habitat Types",
+      "isIndicator": false
+    },
+    {
+      "id": 15,
+      "title": "Count - Channel Unit Tier 1 Summary",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Abundance of Habitat Types",
+      "isIndicator": false
+    },
+    {
+      "id": 15,
+      "title": "Volume - Channel Unit Summary",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Abundance of Habitat Types",
+      "isIndicator": false
+    },
+    {
+      "id": 15,
+      "title": "Volume - Channel Unit Summary Tier 2",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Abundance of Habitat Types",
+      "isIndicator": false
+    },
+    {
+      "id": 15,
+      "title": "Volume - Channel Unit Tier 1 Summary",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Abundance of Habitat Types",
+      "isIndicator": false
+    },
+    {
+      "id": 15,
+      "title": "Channel Unit Volume",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Abundance of Habitat Types",
+      "isIndicator": false
+    },
+    {
+      "id": 15,
+      "title": "Slow/Pool Count",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Abundance of Habitat Types",
+      "isIndicator": false
+    },
+    {
+      "id": 15,
+      "title": "Slow/Pool Percent",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Abundance of Habitat Types",
+      "isIndicator": false
+    },
+    {
+      "id": 15,
+      "title": "Fast-Turbulent Count",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Abundance of Habitat Types",
+      "isIndicator": false
+    },
+    {
+      "id": 15,
+      "title": "Amount of Spawning Habitat",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Abundance of Habitat Types",
+      "isIndicator": false
+    },
+    {
+      "id": 15,
+      "title": "Fast-NonTurbulent Area",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Abundance of Habitat Types",
+      "isIndicator": false
+    },
+    {
+      "id": 17,
+      "title": "Average Depth Thalweg Exit",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Depth: Bathymetry",
+      "isIndicator": false
+    },
+    {
+      "id": 17,
+      "title": "Average Depth Thalweg Exit - Channel Unit Tier 1 Summary",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Depth: Bathymetry",
+      "isIndicator": false
+    },
+    {
+      "id": 17,
+      "title": "Average Max Depth - Channel Unit Summary Tier 2",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Depth: Bathymetry",
+      "isIndicator": false
+    },
+    {
+      "id": 17,
+      "title": "Average Max Depth - Channel Unit Tier 1 Summary",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Depth: Bathymetry",
+      "isIndicator": false
+    },
+    {
+      "id": 17,
+      "title": "Average Residual Depth",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Depth: Bathymetry",
+      "isIndicator": false
+    },
+    {
+      "id": 17,
+      "title": "Average Residual Depth - Channel Unit Tier 1 Summary",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Depth: Bathymetry",
+      "isIndicator": false
+    },
+    {
+      "id": 17,
+      "title": "Centerline Depth Profile Filtered CV",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Depth: Bathymetry",
+      "isIndicator": false
+    },
+    {
+      "id": 17,
+      "title": "Centerline Depth Profile Filtered Mean",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Depth: Bathymetry",
+      "isIndicator": false
+    },
+    {
+      "id": 17,
+      "title": "Depth Thalweg Exit - Channel Unit Summary",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Depth: Bathymetry",
+      "isIndicator": false
+    },
+    {
+      "id": 17,
+      "title": "Residual Depth - Channel Unit Summary",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Depth: Bathymetry",
+      "isIndicator": false
+    },
+    {
+      "id": 17,
+      "title": "Thalweg Depth Profile Filtered Mean",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Depth: Bathymetry",
+      "isIndicator": false
+    },
+    {
+      "id": 17,
+      "title": "Water Depth StdDev",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Depth: Bathymetry",
+      "isIndicator": false
+    },
+    {
+      "id": 19,
+      "title": "Channel Unit Area",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Composition/Structure of Habitat Types",
+      "isIndicator": false
+    },
+    {
+      "id": 19,
+      "title": "Channel Unit Percent",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Composition/Structure of Habitat Types",
+      "isIndicator": false
+    },
+    {
+      "id": 19,
+      "title": "\"Slow/Pool Average Residual Depth",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Composition/Structure of Habitat Types",
+      "isIndicator": false
+    },
+    {
+      "id": 19,
+      "title": "Slow/Pool Volume",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Composition/Structure of Habitat Types",
+      "isIndicator": false
+    },
+    {
+      "id": 19,
+      "title": "Fast-Turbulent Volume",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Composition/Structure of Habitat Types",
+      "isIndicator": false
+    },
+    {
+      "id": 19,
+      "title": "Fast-NonTurbulent Volume",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Composition/Structure of Habitat Types",
+      "isIndicator": false
+    },
+    {
+      "id": 21,
+      "title": "Frequency - Channel Unit Summary Tier 2",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Density of Habitat Type",
+      "isIndicator": false
+    },
+    {
+      "id": 21,
+      "title": "Frequency - Channel Unit Tier 1 Summary",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Density of Habitat Type",
+      "isIndicator": false
+    },
+    {
+      "id": 21,
+      "title": "Percent - Channel Unit Summary",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Density of Habitat Type",
+      "isIndicator": false
+    },
+    {
+      "id": 21,
+      "title": "Percent - Channel Unit Tier 1 Summary",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Density of Habitat Type",
+      "isIndicator": false
+    },
+    {
+      "id": 21,
+      "title": "Slow/Pool Area",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Density of Habitat Type",
+      "isIndicator": false
+    },
+    {
+      "id": 21,
+      "title": "Slow/Pool Frequency",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Density of Habitat Type",
+      "isIndicator": false
+    },
+    {
+      "id": 21,
+      "title": "Fast-Turbulent Area",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Density of Habitat Type",
+      "isIndicator": false
+    },
+    {
+      "id": 21,
+      "title": "Fast-Turbulent Frequency",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Density of Habitat Type",
+      "isIndicator": false
+    },
+    {
+      "id": 21,
+      "title": "Fast-Turbulent Percent",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Density of Habitat Type",
+      "isIndicator": false
+    },
+    {
+      "id": 21,
+      "title": "Fast-Turbulent Spacing",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Density of Habitat Type",
+      "isIndicator": false
+    },
+    {
+      "id": 21,
+      "title": "Fast-NonTurbulent Cont\"",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Density of Habitat Type",
+      "isIndicator": false
+    },
+    {
+      "id": 21,
+      "title": "Fast-NonTurbulent Frequency",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Density of Habitat Type",
+      "isIndicator": false
+    },
+    {
+      "id": 21,
+      "title": "Fast-NonTurbulent Percent",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Density of Habitat Type",
+      "isIndicator": false
+    },
+    {
+      "id": 29,
+      "title": "Sinuosity Via Centerline",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Edge/Density/Sinuosity",
+      "isIndicator": false
+    },
+    {
+      "id": 29,
+      "title": "Site Sinuosity",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Edge/Density/Sinuosity",
+      "isIndicator": false
+    },
+    {
+      "id": 29,
+      "title": "Braid Channel Ratio",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Edge/Density/Sinuosity",
+      "isIndicator": true
+    },
+    {
+      "id": 29,
+      "title": "River Complexity Index - Brown 2002",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Edge/Density/Sinuosity",
+      "isIndicator": true
+    },
+    {
+      "id": 29,
+      "title": "Sinuosity Changes",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Edge/Density/Sinuosity",
+      "isIndicator": true
+    },
+    {
+      "id": 30,
+      "title": "Height of Constraining Feature",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Elevation",
+      "isIndicator": false
+    },
+    {
+      "id": 30,
+      "title": "Standard Deviation of the Detrended DEM",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Elevation",
+      "isIndicator": false
+    },
+    {
+      "id": 31,
+      "title": "Constraining Feature Type",
+      "category": "Classification of Ecological or Geological Attribute ",
+      "subcategory": "Form/Morphology",
+      "isIndicator": false
+    },
+    {
+      "id": 31,
+      "title": "Channel Type",
+      "category": "Classification of Ecological or Geological Attribute ",
+      "subcategory": "Form/Morphology",
+      "isIndicator": false
+    },
+    {
+      "id": 31,
+      "title": "Channel Capacity",
+      "category": "Classification of Ecological or Geological Attribute ",
+      "subcategory": "Form/Morphology",
+      "isIndicator": false
+    },
+    {
+      "id": 31,
+      "title": "Valley Type",
+      "category": "Classification of Ecological or Geological Attribute ",
+      "subcategory": "Form/Morphology",
+      "isIndicator": false
+    },
+    {
+      "id": 32,
+      "title": "Site Water Surface Gradient",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Gradient",
+      "isIndicator": false
+    },
+    {
+      "id": 32,
+      "title": "Thalweg Depth Profile Filtered CV",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Gradient",
+      "isIndicator": false
+    },
+    {
+      "id": 32,
+      "title": "Water Surface Gradient Profile Filtered CV",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Gradient",
+      "isIndicator": false
+    },
+    {
+      "id": 32,
+      "title": "Water Surface Gradient Profile Filtered Mean",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Gradient",
+      "isIndicator": false
+    },
+    {
+      "id": 33,
+      "title": "In-stream Fish Cover",
+      "category": "Classification of Ecological or Geological Attribute ",
+      "subcategory": "Habitat Quality",
+      "isIndicator": false
+    },
+    {
+      "id": 36,
+      "title": "Bankfull Volume",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Length/Width/Area",
+      "isIndicator": false
+    },
+    {
+      "id": 36,
+      "title": "Site Bankfull Area",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Length/Width/Area",
+      "isIndicator": false
+    },
+    {
+      "id": 36,
+      "title": "Site Length Bankfull",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Length/Width/Area",
+      "isIndicator": false
+    },
+    {
+      "id": 36,
+      "title": "Site Length Thalweg",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Length/Width/Area",
+      "isIndicator": false
+    },
+    {
+      "id": 36,
+      "title": "Site Length Wetted",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Length/Width/Area",
+      "isIndicator": false
+    },
+    {
+      "id": 36,
+      "title": "SIte Wetted Area",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Length/Width/Area",
+      "isIndicator": false
+    },
+    {
+      "id": 36,
+      "title": "Thalweg to Centerline Length Ratio",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Length/Width/Area",
+      "isIndicator": false
+    },
+    {
+      "id": 36,
+      "title": "Floodplain Inundation Index-Floodplain Area/Channel Length",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Length/Width/Area",
+      "isIndicator": true
+    },
+    {
+      "id": 36,
+      "title": "Ratio of Floodplain Area to Channel Area",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Length/Width/Area",
+      "isIndicator": true
+    },
+    {
+      "id": 36,
+      "title": "Bankfull Width to Depth Ratio",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Length/Width/Area",
+      "isIndicator": false
+    },
+    {
+      "id": 36,
+      "title": "Mean Residual Pool Vertical Profile Area",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Length/Width/Area",
+      "isIndicator": false
+    },
+    {
+      "id": 36,
+      "title": "Reach Length",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Length/Width/Area",
+      "isIndicator": false
+    },
+    {
+      "id": 36,
+      "title": "Reach Width",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Length/Width/Area",
+      "isIndicator": false
+    },
+    {
+      "id": 36,
+      "title": "Valley Width",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Length/Width/Area",
+      "isIndicator": false
+    },
+    {
+      "id": 37,
+      "title": "Average Maximum Pool Depth",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Depth: Pool",
+      "isIndicator": false
+    },
+    {
+      "id": 37,
+      "title": "Average Pool Tail Crest Depth",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Depth: Pool",
+      "isIndicator": false
+    },
+    {
+      "id": 37,
+      "title": "Max Depth - Channel Unit Summary",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Depth: Pool",
+      "isIndicator": false
+    },
+    {
+      "id": 37,
+      "title": "Mean Residual Pool Depth",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Depth: Pool",
+      "isIndicator": false
+    },
+    {
+      "id": 39,
+      "title": "Fish Cover Composition Artificial",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Species Cover",
+      "isIndicator": false
+    },
+    {
+      "id": 39,
+      "title": "Fish Cover Composition Artificial- Channel Unit Tier 1Summary",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Species Cover",
+      "isIndicator": false
+    },
+    {
+      "id": 39,
+      "title": "Fish Cover Composition LWD",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Species Cover",
+      "isIndicator": false
+    },
+    {
+      "id": 39,
+      "title": "Fish Cover Composition LWD-Channel Unit Tier 1 Summary",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Species Cover",
+      "isIndicator": false
+    },
+    {
+      "id": 39,
+      "title": "Fish Cover Composition None",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Species Cover",
+      "isIndicator": false
+    },
+    {
+      "id": 39,
+      "title": "Fish Cover Composition None- Channel Unit Tier 1 Summary",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Species Cover",
+      "isIndicator": false
+    },
+    {
+      "id": 39,
+      "title": "Fish Cover Composition Total",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Species Cover",
+      "isIndicator": false
+    },
+    {
+      "id": 39,
+      "title": "Fish Cover Composition Total-Channel Unit Tier 1 Summary",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Species Cover",
+      "isIndicator": false
+    },
+    {
+      "id": 39,
+      "title": "Fish Cover Composition Undercut",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Species Cover",
+      "isIndicator": false
+    },
+    {
+      "id": 39,
+      "title": "Fish Cover Composition Undercut - Channel Unit Tier 1Summary",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Species Cover",
+      "isIndicator": false
+    },
+    {
+      "id": 39,
+      "title": "Fish Cover Composition Vegetation",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Species Cover",
+      "isIndicator": false
+    },
+    {
+      "id": 39,
+      "title": "Fish Cover Composition Vegetation-Channel Unit Tier 1Summary",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Species Cover",
+      "isIndicator": false
+    },
+    {
+      "id": 43,
+      "title": "Bankfull Width to Depth Ratio Profile Filtered CV",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Width to Depth Ratio",
+      "isIndicator": false
+    },
+    {
+      "id": 43,
+      "title": "Bankfull Width to Depth Ratio Profile Filtered Mean",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Width to Depth Ratio",
+      "isIndicator": false
+    },
+    {
+      "id": 43,
+      "title": "Wetted Width to Depth Ratio Profile Filtered CV",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Width to Depth Ratio",
+      "isIndicator": false
+    },
+    {
+      "id": 43,
+      "title": "Wetted Width to Depth Ratio Profile Filtered Mean",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Width to Depth Ratio",
+      "isIndicator": false
+    },
+    {
+      "id": 44,
+      "title": "Bankfull Width (RBT)",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Width: Bankfull ",
+      "isIndicator": false
+    },
+    {
+      "id": 44,
+      "title": "Bankfull Width (XbfWidth)",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Width: Bankfull ",
+      "isIndicator": false
+    },
+    {
+      "id": 44,
+      "title": "Bankfull Width Constriction Profile Filtered CV",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Width: Bankfull ",
+      "isIndicator": false
+    },
+    {
+      "id": 44,
+      "title": "Bankfull Width Construction Profile Filtered Mean",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Width: Bankfull ",
+      "isIndicator": false
+    },
+    {
+      "id": 44,
+      "title": "Bankfull Width Profiile Filtered Mean",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Width: Bankfull ",
+      "isIndicator": false
+    },
+    {
+      "id": 44,
+      "title": "Bankfull Width Profile Filtered CV",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Width: Bankfull ",
+      "isIndicator": false
+    },
+    {
+      "id": 44,
+      "title": "Integrated Bankfull Width",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Width: Bankfull ",
+      "isIndicator": false
+    },
+    {
+      "id": 45,
+      "title": "Integrated Wetted Width",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Width: Wetted",
+      "isIndicator": false
+    },
+    {
+      "id": 45,
+      "title": "Variation in Thalweg Profile and Channel Width",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Width: Wetted",
+      "isIndicator": false
+    },
+    {
+      "id": 45,
+      "title": "Wetted Width Constriction Profile Filtered CV",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Width: Wetted",
+      "isIndicator": false
+    },
+    {
+      "id": 45,
+      "title": "Wetted Width Constriction Profile Filtered Mean",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Width: Wetted",
+      "isIndicator": false
+    },
+    {
+      "id": 45,
+      "title": "Wetted Width Profile Filtered CV",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Width: Wetted",
+      "isIndicator": false
+    },
+    {
+      "id": 45,
+      "title": "Wetted Width Profile Filtered Mean",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Width: Wetted",
+      "isIndicator": false
+    },
+    {
+      "id": 104,
+      "title": "Stream Discharge",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Flow",
+      "isIndicator": false
+    },
+    {
+      "id": 110,
+      "title": "Average Summer Solar Access",
+      "category": "Light",
+      "subcategory": "Light Concentration",
+      "isIndicator": false
+    },
+    {
+      "id": 110,
+      "title": "Canopy No Cover",
+      "category": "Light",
+      "subcategory": "Light Concentration",
+      "isIndicator": false
+    },
+    {
+      "id": 110,
+      "title": "Groundcover No Cover",
+      "category": "Light",
+      "subcategory": "Light Concentration",
+      "isIndicator": false
+    },
+    {
+      "id": 110,
+      "title": "Understory No Cover",
+      "category": "Light",
+      "subcategory": "Light Concentration",
+      "isIndicator": false
+    },
+    {
+      "id": 116,
+      "title": "Sample Date",
+      "category": "Time",
+      "subcategory": "Date",
+      "isIndicator": false
+    },
+    {
+      "id": 129,
+      "title": "Area of Deposition By Channel Area T-1",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Accretion Rates/ Aggradation",
+      "isIndicator": false
+    },
+    {
+      "id": 129,
+      "title": "Area of Deposition By Channel Area T0",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Accretion Rates/ Aggradation",
+      "isIndicator": false
+    },
+    {
+      "id": 129,
+      "title": "Area of Deposition By Tier 1 T-1",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Accretion Rates/ Aggradation",
+      "isIndicator": false
+    },
+    {
+      "id": 129,
+      "title": "Area of Deposition By Tier 1 T0",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Accretion Rates/ Aggradation",
+      "isIndicator": false
+    },
+    {
+      "id": 129,
+      "title": "Area of Deposition by Tier T-1",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Accretion Rates/ Aggradation",
+      "isIndicator": false
+    },
+    {
+      "id": 129,
+      "title": "Area of Deposition For Site T-1",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Accretion Rates/ Aggradation",
+      "isIndicator": false
+    },
+    {
+      "id": 129,
+      "title": "Area of Deposition For Site T0",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Accretion Rates/ Aggradation",
+      "isIndicator": false
+    },
+    {
+      "id": 129,
+      "title": "Net Volume of Difference By Channel Area T-1",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Accretion Rates/ Aggradation",
+      "isIndicator": false
+    },
+    {
+      "id": 129,
+      "title": "Net Volume of Difference By Channel Area T0",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Accretion Rates/ Aggradation",
+      "isIndicator": false
+    },
+    {
+      "id": 129,
+      "title": "Net Volume of Difference By Channel Area T1",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Accretion Rates/ Aggradation",
+      "isIndicator": false
+    },
+    {
+      "id": 129,
+      "title": "Net Volume of Difference By Tier 1 T-1",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Accretion Rates/ Aggradation",
+      "isIndicator": false
+    },
+    {
+      "id": 129,
+      "title": "Net Volume of Difference By Tier 1 T0",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Accretion Rates/ Aggradation",
+      "isIndicator": false
+    },
+    {
+      "id": 129,
+      "title": "Net Volume of Difference For Site T-1",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Accretion Rates/ Aggradation",
+      "isIndicator": false
+    },
+    {
+      "id": 129,
+      "title": "Net Volume of Difference For Site T0",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Accretion Rates/ Aggradation",
+      "isIndicator": false
+    },
+    {
+      "id": 129,
+      "title": "Percent Deposition By Channel Area T-1",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Accretion Rates/ Aggradation",
+      "isIndicator": false
+    },
+    {
+      "id": 129,
+      "title": "Percent Deposition By Channel Area T0",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Accretion Rates/ Aggradation",
+      "isIndicator": false
+    },
+    {
+      "id": 129,
+      "title": "Percent Deposition By Tier 1 T-1",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Accretion Rates/ Aggradation",
+      "isIndicator": false
+    },
+    {
+      "id": 129,
+      "title": "Percent Deposition By Tier 1 T0",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Accretion Rates/ Aggradation",
+      "isIndicator": false
+    },
+    {
+      "id": 129,
+      "title": "Percent Deposition For Site T-1",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Accretion Rates/ Aggradation",
+      "isIndicator": false
+    },
+    {
+      "id": 129,
+      "title": "Percent Deposition For Site T0",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Accretion Rates/ Aggradation",
+      "isIndicator": false
+    },
+    {
+      "id": 129,
+      "title": "Volume of Deposition By Channel Area T-1",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Accretion Rates/ Aggradation",
+      "isIndicator": false
+    },
+    {
+      "id": 129,
+      "title": "Volume of Deposition By Channel Area T0",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Accretion Rates/ Aggradation",
+      "isIndicator": false
+    },
+    {
+      "id": 129,
+      "title": "Volume of Deposition By Tier 1 T-1",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Accretion Rates/ Aggradation",
+      "isIndicator": false
+    },
+    {
+      "id": 129,
+      "title": "Volume of Deposition By Tier 1 T0",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Accretion Rates/ Aggradation",
+      "isIndicator": false
+    },
+    {
+      "id": 129,
+      "title": "Volume of Deposition For Fast Non-Turbulent T-1",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Accretion Rates/ Aggradation",
+      "isIndicator": false
+    },
+    {
+      "id": 129,
+      "title": "Volume of Deposition For Fast Non-Turbulent T0",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Accretion Rates/ Aggradation",
+      "isIndicator": false
+    },
+    {
+      "id": 129,
+      "title": "Volume of Deposition For Fast Turbulent T-1",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Accretion Rates/ Aggradation",
+      "isIndicator": false
+    },
+    {
+      "id": 129,
+      "title": "Volume of Deposition For Fast Turbulent T0",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Accretion Rates/ Aggradation",
+      "isIndicator": false
+    },
+    {
+      "id": 129,
+      "title": "Volume of Deposition For Site T-1",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Accretion Rates/ Aggradation",
+      "isIndicator": false
+    },
+    {
+      "id": 129,
+      "title": "Volume of Deposition For Site T0",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Accretion Rates/ Aggradation",
+      "isIndicator": false
+    },
+    {
+      "id": 129,
+      "title": "Volume of Deposition For Slow/Pools T-1",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Accretion Rates/ Aggradation",
+      "isIndicator": false
+    },
+    {
+      "id": 129,
+      "title": "Volume of Deposition For Slow/Pools T0",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Accretion Rates/ Aggradation",
+      "isIndicator": false
+    },
+    {
+      "id": 129,
+      "title": "Volume of Difference By Channel Area T-1",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Accretion Rates/ Aggradation",
+      "isIndicator": false
+    },
+    {
+      "id": 129,
+      "title": "Volume of Difference By Channel Area T0",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Accretion Rates/ Aggradation",
+      "isIndicator": false
+    },
+    {
+      "id": 129,
+      "title": "Volume of Difference By Tier 1 T-1",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Accretion Rates/ Aggradation",
+      "isIndicator": false
+    },
+    {
+      "id": 129,
+      "title": "Volume of Difference By Tier 1 T0",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Accretion Rates/ Aggradation",
+      "isIndicator": false
+    },
+    {
+      "id": 129,
+      "title": "Volume of Difference For Site T-1",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Accretion Rates/ Aggradation",
+      "isIndicator": false
+    },
+    {
+      "id": 129,
+      "title": "Volume of Difference For Site T0",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Accretion Rates/ Aggradation",
+      "isIndicator": false
+    },
+    {
+      "id": 130,
+      "title": "Bank Erosion",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Bank Stability",
+      "isIndicator": false
+    },
+    {
+      "id": 130,
+      "title": "Change in Bank Stability",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Bank Stability",
+      "isIndicator": true
+    },
+    {
+      "id": 130,
+      "title": "Proportion of Reach Containing Actively Eroding Banks",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Bank Stability",
+      "isIndicator": false
+    },
+    {
+      "id": 131,
+      "title": "Area of Erosion By Channel Area T-1",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Bed Scour/Erosion Rate",
+      "isIndicator": false
+    },
+    {
+      "id": 131,
+      "title": "Area of Erosion By Channel Area T0",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Bed Scour/Erosion Rate",
+      "isIndicator": false
+    },
+    {
+      "id": 131,
+      "title": "Area of Erosion By Tier 1 T-1",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Bed Scour/Erosion Rate",
+      "isIndicator": false
+    },
+    {
+      "id": 131,
+      "title": "Area of Erosion By Tier 1 T0",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Bed Scour/Erosion Rate",
+      "isIndicator": false
+    },
+    {
+      "id": 131,
+      "title": "Area of Erosion For Site T-1",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Bed Scour/Erosion Rate",
+      "isIndicator": false
+    },
+    {
+      "id": 131,
+      "title": "Area of Erosion For Site T0",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Bed Scour/Erosion Rate",
+      "isIndicator": false
+    },
+    {
+      "id": 131,
+      "title": "Percent Erosion By Channel Area T-1",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Bed Scour/Erosion Rate",
+      "isIndicator": false
+    },
+    {
+      "id": 131,
+      "title": "Percent Erosion By Channel Area T0",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Bed Scour/Erosion Rate",
+      "isIndicator": false
+    },
+    {
+      "id": 131,
+      "title": "Percent Erosion By Tier 1 T-1",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Bed Scour/Erosion Rate",
+      "isIndicator": false
+    },
+    {
+      "id": 131,
+      "title": "Percent Erosion By Tier 1 T0",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Bed Scour/Erosion Rate",
+      "isIndicator": false
+    },
+    {
+      "id": 131,
+      "title": "Percent Erosion For Site T-1",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Bed Scour/Erosion Rate",
+      "isIndicator": false
+    },
+    {
+      "id": 131,
+      "title": "Percent Erosion For Site T0",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Bed Scour/Erosion Rate",
+      "isIndicator": false
+    },
+    {
+      "id": 131,
+      "title": "Volume of Erosion By Channel Area T-1",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Bed Scour/Erosion Rate",
+      "isIndicator": false
+    },
+    {
+      "id": 131,
+      "title": "Volume of Erosion By Channel Area T0",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Bed Scour/Erosion Rate",
+      "isIndicator": false
+    },
+    {
+      "id": 131,
+      "title": "Volume of Erosion By Tier 1 T-1",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Bed Scour/Erosion Rate",
+      "isIndicator": false
+    },
+    {
+      "id": 131,
+      "title": "Volume of Erosion By Tier 1 T0",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Bed Scour/Erosion Rate",
+      "isIndicator": false
+    },
+    {
+      "id": 131,
+      "title": "Volume of Erosion For Fast Non-Turbulent T-1",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Bed Scour/Erosion Rate",
+      "isIndicator": false
+    },
+    {
+      "id": 131,
+      "title": "Volume of Erosion For Fast Non-Turbulent T0",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Bed Scour/Erosion Rate",
+      "isIndicator": false
+    },
+    {
+      "id": 131,
+      "title": "Volume of Erosion For Fast Turbulent T-1",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Bed Scour/Erosion Rate",
+      "isIndicator": false
+    },
+    {
+      "id": 131,
+      "title": "Volume of Erosion For Fast Turbulent T0",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Bed Scour/Erosion Rate",
+      "isIndicator": false
+    },
+    {
+      "id": 131,
+      "title": "Volume of Erosion For Site T-1",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Bed Scour/Erosion Rate",
+      "isIndicator": false
+    },
+    {
+      "id": 131,
+      "title": "Volume of Erosion For Site T0",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Bed Scour/Erosion Rate",
+      "isIndicator": false
+    },
+    {
+      "id": 131,
+      "title": "Volume of Erosion For Slow/Pools T-1",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Bed Scour/Erosion Rate",
+      "isIndicator": false
+    },
+    {
+      "id": 131,
+      "title": "Volume of Erosion For Slow/Pools T0",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Bed Scour/Erosion Rate",
+      "isIndicator": false
+    },
+    {
+      "id": 132,
+      "title": "Boulder and Cobbles",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Composition: Substrate/Soil-Dominant Size",
+      "isIndicator": false
+    },
+    {
+      "id": 132,
+      "title": "Boulder and Cobbles - Channel Unit Tier 1 Summary",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Composition: Substrate/Soil-Dominant Size",
+      "isIndicator": false
+    },
+    {
+      "id": 132,
+      "title": "Boulders",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Composition: Substrate/Soil-Dominant Size",
+      "isIndicator": false
+    },
+    {
+      "id": 132,
+      "title": "Boulders - Channel Unit Tier 1 Summary",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Composition: Substrate/Soil-Dominant Size",
+      "isIndicator": false
+    },
+    {
+      "id": 132,
+      "title": "Coarse and Fine Gravel",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Composition: Substrate/Soil-Dominant Size",
+      "isIndicator": false
+    },
+    {
+      "id": 132,
+      "title": "Coarse and Fine Gravel - Channel Unit Tier 1 Summary",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Composition: Substrate/Soil-Dominant Size",
+      "isIndicator": false
+    },
+    {
+      "id": 132,
+      "title": "Cobbles",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Composition: Substrate/Soil-Dominant Size",
+      "isIndicator": false
+    },
+    {
+      "id": 132,
+      "title": "Cobbles - Channel Unit Tier 1 Summary",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Composition: Substrate/Soil-Dominant Size",
+      "isIndicator": false
+    },
+    {
+      "id": 132,
+      "title": "D16",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Composition: Substrate/Soil-Dominant Size",
+      "isIndicator": false
+    },
+    {
+      "id": 132,
+      "title": "D16, D50, D84 Particle Size",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Composition: Substrate/Soil-Dominant Size",
+      "isIndicator": false
+    },
+    {
+      "id": 132,
+      "title": "D50",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Composition: Substrate/Soil-Dominant Size",
+      "isIndicator": false
+    },
+    {
+      "id": 132,
+      "title": "D84",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Composition: Substrate/Soil-Dominant Size",
+      "isIndicator": false
+    },
+    {
+      "id": 132,
+      "title": "Particles Less Than 2mm",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Composition: Substrate/Soil-Dominant Size",
+      "isIndicator": false
+    },
+    {
+      "id": 132,
+      "title": "Particles Less Than 6mm",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Composition: Substrate/Soil-Dominant Size",
+      "isIndicator": false
+    },
+    {
+      "id": 132,
+      "title": "Sand and Fines",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Composition: Substrate/Soil-Dominant Size",
+      "isIndicator": false
+    },
+    {
+      "id": 132,
+      "title": "Sand and Fines - Channel Unit Tier 1 Summary",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Composition: Substrate/Soil-Dominant Size",
+      "isIndicator": false
+    },
+    {
+      "id": 133,
+      "title": "Substrate Composition",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Composition: Substrate/Soil-Dominant Type",
+      "isIndicator": false
+    },
+    {
+      "id": 135,
+      "title": "Avg Fast Water Cobble Embeddedness",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Embeddedness",
+      "isIndicator": false
+    },
+    {
+      "id": 135,
+      "title": "Cobble Embeddedness",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Embeddedness",
+      "isIndicator": false
+    },
+    {
+      "id": 135,
+      "title": "Std Deviation of Fast Water Cobble Embeddedness",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Embeddedness",
+      "isIndicator": false
+    },
+    {
+      "id": 149,
+      "title": "Big Tree Cover",
+      "category": "Vegetation/Plants",
+      "subcategory": "Composition: Vegetative Species Assemblage",
+      "isIndicator": false
+    },
+    {
+      "id": 149,
+      "title": "Coniferous Cover",
+      "category": "Vegetation/Plants",
+      "subcategory": "Composition: Vegetative Species Assemblage",
+      "isIndicator": false
+    },
+    {
+      "id": 149,
+      "title": "Ground Cover",
+      "category": "Vegetation/Plants",
+      "subcategory": "Composition: Vegetative Species Assemblage",
+      "isIndicator": false
+    },
+    {
+      "id": 149,
+      "title": "Non-Woody Cover",
+      "category": "Vegetation/Plants",
+      "subcategory": "Composition: Vegetative Species Assemblage",
+      "isIndicator": false
+    },
+    {
+      "id": 149,
+      "title": "Understory Cover",
+      "category": "Vegetation/Plants",
+      "subcategory": "Composition: Vegetative Species Assemblage",
+      "isIndicator": false
+    },
+    {
+      "id": 149,
+      "title": "Woody Cover",
+      "category": "Vegetation/Plants",
+      "subcategory": "Composition: Vegetative Species Assemblage",
+      "isIndicator": false
+    },
+    {
+      "id": 154,
+      "title": "Conductivity",
+      "category": "Water Quality",
+      "subcategory": "Conductivity",
+      "isIndicator": false
+    },
+    {
+      "id": 162,
+      "title": "Stream Temperature-Hourly",
+      "category": "Water Quality",
+      "subcategory": "Water Temperature",
+      "isIndicator": false
+    },
+    {
+      "id": 188,
+      "title": "Bankfull Height",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Depth/Height: Bankfull ",
+      "isIndicator": false
+    },
+    {
+      "id": 191,
+      "title": "Average Flood Prone Width",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Width: Flood Prone",
+      "isIndicator": false
+    },
+    {
+      "id": 192,
+      "title": "Channel Area Type - Channel Unit Summary Tier 2",
+      "category": "Classification of Ecological or Geological Attribute ",
+      "subcategory": "Habitat Type",
+      "isIndicator": false
+    },
+    {
+      "id": 192,
+      "title": "Tier1 - Channel Unit Summary",
+      "category": "Classification of Ecological or Geological Attribute ",
+      "subcategory": "Habitat Type",
+      "isIndicator": false
+    },
+    {
+      "id": 192,
+      "title": "Tier1 - Channel Unit Tier 1 Summary",
+      "category": "Classification of Ecological or Geological Attribute ",
+      "subcategory": "Habitat Type",
+      "isIndicator": false
+    },
+    {
+      "id": 192,
+      "title": "Tier2 - Channel Unit Summary",
+      "category": "Classification of Ecological or Geological Attribute ",
+      "subcategory": "Habitat Type",
+      "isIndicator": false
+    },
+    {
+      "id": 192,
+      "title": "Tier2 - Channel Unit Summary Tier 2",
+      "category": "Classification of Ecological or Geological Attribute ",
+      "subcategory": "Habitat Type",
+      "isIndicator": false
+    },
+    {
+      "id": 195,
+      "title": "Bankfull Large Wood Volume",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Size: Wood Structure",
+      "isIndicator": false
+    },
+    {
+      "id": 195,
+      "title": "Bankfull Large Wood Volume by Tear 1",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Size: Wood Structure",
+      "isIndicator": false
+    },
+    {
+      "id": 195,
+      "title": "Bankfull Large Wood Volume in Fast-Non Turbulent",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Size: Wood Structure",
+      "isIndicator": false
+    },
+    {
+      "id": 195,
+      "title": "Bankfull Large Wood Volume in Fast-Turbulent",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Size: Wood Structure",
+      "isIndicator": false
+    },
+    {
+      "id": 195,
+      "title": "Bankfull Large Wood Volume in Slow/Pools",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Size: Wood Structure",
+      "isIndicator": false
+    },
+    {
+      "id": 195,
+      "title": "Log10 of Volume of LWD",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Size: Wood Structure",
+      "isIndicator": false
+    },
+    {
+      "id": 195,
+      "title": "Wetted Large Wood Volume by Site",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Size: Wood Structure",
+      "isIndicator": false
+    },
+    {
+      "id": 195,
+      "title": "Wetted Large Wood Volume by Tier 1",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Size: Wood Structure",
+      "isIndicator": false
+    },
+    {
+      "id": 195,
+      "title": "Wetted Large Wood Volume in Fast-Non Turbulent",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Size: Wood Structure",
+      "isIndicator": false
+    },
+    {
+      "id": 195,
+      "title": "Wetted Large Wood Volume in Fast-Turbulent",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Size: Wood Structure",
+      "isIndicator": false
+    },
+    {
+      "id": 195,
+      "title": "Wetted Large Wood Volume in Slow/Pools",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Size: Wood Structure",
+      "isIndicator": false
+    },
+    {
+      "id": 218,
+      "title": "GPS Coordinates",
+      "category": "Other",
+      "subcategory": "Location",
+      "isIndicator": false
+    },
+    {
+      "id": 225,
+      "title": "Pool Tail Fines < 2 mm",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Distribution of Sediment",
+      "isIndicator": false
+    },
+    {
+      "id": 225,
+      "title": "Pool Tail Fines < 6 mm",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Distribution of Sediment",
+      "isIndicator": false
+    },
+    {
+      "id": 242,
+      "title": "Alkalinity",
+      "category": "Water Quality",
+      "subcategory": "Alkalinity",
+      "isIndicator": false
+    },
+    {
+      "id": 243,
+      "title": "Change Detection Results",
+      "category": "Other",
+      "subcategory": "Not Applicable",
+      "isIndicator": false
+    },
+    {
+      "id": 243,
+      "title": "Channel Unit Number - Channel Unit Summary",
+      "category": "Other",
+      "subcategory": "Not Applicable",
+      "isIndicator": false
+    },
+    {
+      "id": 243,
+      "title": "Channel UnitID - Channel Unit Summary",
+      "category": "Other",
+      "subcategory": "Not Applicable",
+      "isIndicator": false
+    },
+    {
+      "id": 243,
+      "title": "Geo Database",
+      "category": "Other",
+      "subcategory": "Not Applicable",
+      "isIndicator": false
+    },
+    {
+      "id": 243,
+      "title": "Log File",
+      "category": "Other",
+      "subcategory": "Not Applicable",
+      "isIndicator": false
+    },
+    {
+      "id": 243,
+      "title": "Results File",
+      "category": "Other",
+      "subcategory": "Not Applicable",
+      "isIndicator": false
+    },
+    {
+      "id": 369,
+      "title": "Site Map",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Aquatic or Floodplain Geomorphology:  Area",
+      "isIndicator": false
+    },
+    {
+      "id": 369,
+      "title": "Pool/Riffle Ratio",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Aquatic or Floodplain Geomorphology:  Area",
+      "isIndicator": false
+    },
+    {
+      "id": 374,
+      "title": "Bankfull Large Wood Frequency per 100m",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Density of Instream Wood",
+      "isIndicator": false
+    },
+    {
+      "id": 374,
+      "title": "LWD Frequency",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Density of Instream Wood",
+      "isIndicator": false
+    },
+    {
+      "id": 374,
+      "title": "LWD Volume",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Density of Instream Wood",
+      "isIndicator": false
+    },
+    {
+      "id": 374,
+      "title": "Wetted Large Wood Frequency per 100m",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Density of Instream Wood",
+      "isIndicator": false
+    },
+    {
+      "id": 407,
+      "title": "Area of New Habitat Created",
+      "category": "Disturbance/Restoration",
+      "subcategory": "Restoration Action",
+      "isIndicator": true
+    },
+    {
+      "id": 407,
+      "title": "Volume of New Habitat Created",
+      "category": "Disturbance/Restoration",
+      "subcategory": "Restoration Action",
+      "isIndicator": true
+    },
+    {
+      "id": 440,
+      "title": "Spacing - Channel Unit Summary Tier 2",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Distribution of Habitat Type",
+      "isIndicator": false
+    },
+    {
+      "id": 440,
+      "title": "Spacing - Channel Unit Tier 1 Summary",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Distribution of Habitat Type",
+      "isIndicator": false
+    },
+    {
+      "id": 440,
+      "title": "Channel Unit Frequency",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Distribution of Habitat Type",
+      "isIndicator": false
+    },
+    {
+      "id": 440,
+      "title": "Slow/Pool Spacing",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Distribution of Habitat Type",
+      "isIndicator": false
+    },
+    {
+      "id": 440,
+      "title": "Fast-Non Turbulent Spacing",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Distribution of Habitat Type",
+      "isIndicator": false
+    },
+    {
+      "id": 458,
+      "title": "Constraint Removed",
+      "category": "Disturbance/Restoration",
+      "subcategory": "Length or Width of Disturbance or Restoration",
+      "isIndicator": false
+    },
+    {
+      "id": 459,
+      "title": "Number of AIS",
+      "category": "Disturbance/Restoration",
+      "subcategory": "Abundance of Disturbance or Restoration ",
+      "isIndicator": false
+    },
+    {
+      "id": 459,
+      "title": "Percent Constrained",
+      "category": "Disturbance/Restoration",
+      "subcategory": "Abundance of Disturbance or Restoration ",
+      "isIndicator": false
+    },
+    {
+      "id": 504,
+      "title": "Number of Key Pieces",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Abundance of Instream Wood Structures",
+      "isIndicator": false
+    },
+    {
+      "id": 504,
+      "title": "Number of Pieces by Channel Location",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Abundance of Instream Wood Structures",
+      "isIndicator": false
+    },
+    {
+      "id": 504,
+      "title": "Number of Pieces of Large Woody Debris",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Abundance of Instream Wood Structures",
+      "isIndicator": false
+    },
+    {
+      "id": 504,
+      "title": "Number of Pieces Part of a Log Jam",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Abundance of Instream Wood Structures",
+      "isIndicator": false
+    },
+    {
+      "id": 504,
+      "title": "Number of Pool Forming Wood Pieces",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Abundance of Instream Wood Structures",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "What are the physical effects of habitat restoration actions at a site level on key floodplain health indicators."
   ],

@@ -17,6 +17,50 @@
     "http://www.monitoringresources.org/api/v1/methods/1617",
     "http://www.monitoringresources.org/api/v1/methods/1618"
   ],
+  "metrics": [
+    {
+      "id": 48,
+      "title": "Lake Trout Age Determination",
+      "category": "Fish",
+      "subcategory": "Age:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 54,
+      "title": "Lake trout catch rate",
+      "category": "Fish",
+      "subcategory": "Catch Per Unit Effort",
+      "isIndicator": false
+    },
+    {
+      "id": 68,
+      "title": "Lake Trout Fecundity",
+      "category": "Fish",
+      "subcategory": "Fecundity:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 73,
+      "title": "Lake Trout Growth Rate",
+      "category": "Fish",
+      "subcategory": "Growth Rate:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Lake Trout Size Structure",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 93,
+      "title": "Identification of Female Lake Trout",
+      "category": "Fish",
+      "subcategory": "Sex Type: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Estimate lake trout fecundity",
     "Calculate lake trout growth rate",

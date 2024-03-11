@@ -26,6 +26,92 @@
     "http://www.monitoringresources.org/api/v1/methods/5511",
     "http://www.monitoringresources.org/api/v1/methods/6640"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Abundance (wild adult steelhead)",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 49,
+      "title": "Age Composition (wild adult steelhead)",
+      "category": "Fish",
+      "subcategory": "Age Structure:  Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 75,
+      "title": "Fork Length (wild adult steelhead)",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 92,
+      "title": "Percent Females (wild adult steelhead)",
+      "category": "Fish",
+      "subcategory": "Sex Ratio: Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 93,
+      "title": "Sex (wild adult steelhead)",
+      "category": "Fish",
+      "subcategory": "Sex Type: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 101,
+      "title": "Date Trapped",
+      "category": "Fish",
+      "subcategory": "Timing of Life Stage: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 101,
+      "title": "Run/Return Timing (wild adult steelhead)",
+      "category": "Fish",
+      "subcategory": "Timing of Life Stage: Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 202,
+      "title": "Origin (exclusion of unclipped hatchery steelhead via PBT analyses)",
+      "category": "Fish",
+      "subcategory": "Origin",
+      "isIndicator": true
+    },
+    {
+      "id": 203,
+      "title": "Scale Sample (wild adult steelhead)",
+      "category": "Fish",
+      "subcategory": "Scales",
+      "isIndicator": false
+    },
+    {
+      "id": 381,
+      "title": "Operculum Punch Present (wild adult steelhead)",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Recovery or Detection",
+      "isIndicator": false
+    },
+    {
+      "id": 381,
+      "title": "PIT Tag Detected (wild adult steelhead)",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Recovery or Detection",
+      "isIndicator": false
+    },
+    {
+      "id": 436,
+      "title": "Fin Clip collected for Genetic Analyses",
+      "category": "Fish",
+      "subcategory": "Tissue Sample: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Capture and sample wild adult Chinook salmon and Steelhead at IDFG-operated temporary weirs and hatchery traps.",
     "Collect critical data from weir and trap sampled wild adult Chinook Salmon and steelhead including return timing, fork length, phenotypic sex, and tissue samples for genetic analyses."

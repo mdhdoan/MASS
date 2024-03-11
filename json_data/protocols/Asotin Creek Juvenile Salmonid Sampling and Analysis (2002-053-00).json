@@ -17,6 +17,71 @@
     "http://www.monitoringresources.org/api/v1/methods/1360",
     "http://www.monitoringresources.org/api/v1/methods/1736"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Juvenile Emigrant Estimate",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 49,
+      "title": "Juvenile Age Structure",
+      "category": "Fish",
+      "subcategory": "Age Structure:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Fork Length",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Length Frequency of Emigrants",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 86,
+      "title": "Juvenile Outmigrant Production",
+      "category": "Fish",
+      "subcategory": "Progeny-per-Parent Ratio (P:P) (Productivity)",
+      "isIndicator": true
+    },
+    {
+      "id": 116,
+      "title": "Date",
+      "category": "Time",
+      "subcategory": "Date",
+      "isIndicator": false
+    },
+    {
+      "id": 201,
+      "title": "PIT Tag Marking",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Application",
+      "isIndicator": false
+    },
+    {
+      "id": 206,
+      "title": "Weight",
+      "category": "Fish",
+      "subcategory": "Weight: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 417,
+      "title": "Species",
+      "category": "Fish",
+      "subcategory": "Species Type: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Document juvenile steelhead and Chinook salmon life history patterns, survival rates, and estimate emigrant production in the Asotin Creek mainstem. ",
     "Provide an Annual Report and disseminate data from the Asotin Creek Salmon Population Assessment project"

@@ -11,6 +11,50 @@
     "http://www.monitoringresources.org/api/v1/methods/853",
     "http://www.monitoringresources.org/api/v1/methods/1451"
   ],
+  "metrics": [
+    {
+      "id": 104,
+      "title": "Instream Flow",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Flow",
+      "isIndicator": true
+    },
+    {
+      "id": 104,
+      "title": "Instream Flow  - Velocity",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Flow",
+      "isIndicator": false
+    },
+    {
+      "id": 104,
+      "title": "Instream Flow - AF",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Flow",
+      "isIndicator": false
+    },
+    {
+      "id": 104,
+      "title": "Instream Flow - CFS",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Flow",
+      "isIndicator": false
+    },
+    {
+      "id": 104,
+      "title": "Wetted Width and Depth",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Flow",
+      "isIndicator": false
+    },
+    {
+      "id": 162,
+      "title": "Instream Flow - Temperature",
+      "category": "Water Quality",
+      "subcategory": "Water Temperature",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "This programmatic monitoring protocol is designed to guide the CBWTP and our partners to validate, track and verify project compliance and effectiveness of our flow restoration program."
   ],

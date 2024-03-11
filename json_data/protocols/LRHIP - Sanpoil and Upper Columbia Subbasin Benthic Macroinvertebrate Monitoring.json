@@ -12,6 +12,29 @@
     "http://www.monitoringresources.org/api/v1/methods/4054",
     "http://www.monitoringresources.org/api/v1/methods/4083"
   ],
+  "metrics": [
+    {
+      "id": 113,
+      "title": "Benthic Macroinvertebrate Diversity",
+      "category": "Macroinvertebrates",
+      "subcategory": "Composition: Macroinvertebrate Species Assemblage",
+      "isIndicator": false
+    },
+    {
+      "id": 212,
+      "title": "Benthic Macroinvertebrate IBI",
+      "category": "Macroinvertebrates",
+      "subcategory": "Index of Biotic Integrity:  Macroinvertebrate Species",
+      "isIndicator": true
+    },
+    {
+      "id": 244,
+      "title": "Benthic Macroinvertebrate Drift",
+      "category": "Macroinvertebrates",
+      "subcategory": "Drift Density",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Describe benthic macroinvertebrate communities for use in EDT model development that will aid in habitat restoration and protection prioritization.",
     "Provide a standardized protocol for future status and trend monitoring of benthic macroinvertebrate communities.",

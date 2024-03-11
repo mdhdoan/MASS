@@ -8,6 +8,43 @@
     "http://www.monitoringresources.org/api/v1/methods/316",
     "http://www.monitoringresources.org/api/v1/methods/3789"
   ],
+  "metrics": [
+    {
+      "id": 127,
+      "title": "Phytoplankton ID to division level",
+      "category": "Plankton",
+      "subcategory": "Composition: Plankton Assemblage",
+      "isIndicator": false
+    },
+    {
+      "id": 127,
+      "title": "Zooplankton ID to Gen/SSp",
+      "category": "Plankton",
+      "subcategory": "Composition: Plankton Assemblage",
+      "isIndicator": false
+    },
+    {
+      "id": 157,
+      "title": "Total Nitrogen, NH4, NO23",
+      "category": "Water Quality",
+      "subcategory": "Nitrogen",
+      "isIndicator": false
+    },
+    {
+      "id": 159,
+      "title": "Total Phosphorus, SRP, TDP",
+      "category": "Water Quality",
+      "subcategory": "Phosphorus",
+      "isIndicator": false
+    },
+    {
+      "id": 241,
+      "title": "Total chlorophyll and CHL a",
+      "category": "Water Quality",
+      "subcategory": "Chlorophyll Concentration",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Evaluate potential changes in water quality and nutrients as a result of wetland contributions to the Kootenai River"
   ],

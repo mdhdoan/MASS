@@ -16,6 +16,57 @@
     "http://www.monitoringresources.org/api/v1/methods/6855",
     "http://www.monitoringresources.org/api/v1/methods/6856"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Steelhead parr abundance at headwater sites",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 46,
+      "title": "Abundance of migratory Steelhead parr",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 56,
+      "title": "Species composition",
+      "category": "Fish",
+      "subcategory": "Composition: Fish Species Assemblage",
+      "isIndicator": false
+    },
+    {
+      "id": 73,
+      "title": "Growth of Steelhead parr",
+      "category": "Fish",
+      "subcategory": "Growth Rate:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 77,
+      "title": "Interrogation history of juvenile Steelhead",
+      "category": "Fish",
+      "subcategory": "Migration Pathways: Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 77,
+      "title": "Interrogation history of adult Steelhead",
+      "category": "Fish",
+      "subcategory": "Migration Pathways: Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 99,
+      "title": "Steelhead parr survival and migration to downstream rearing or smolt stage",
+      "category": "Fish",
+      "subcategory": "Survival Rate: Fish",
+      "isIndicator": true
+    }
+  ],
   "objectives": [
     "Assess survival and age at migration of age-0 and age-1 Steelhead parr from their headwater rearing habitat to downstream sample sites.",
     "Describe population attributes (size, growth, distribution, and abundance) and data trends of age-0 and age-1 Steelhead parr in headwaters areas of the Wind River, WA.\r\n\r\n",

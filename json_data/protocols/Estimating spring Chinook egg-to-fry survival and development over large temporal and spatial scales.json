@@ -9,6 +9,22 @@
     "http://www.monitoringresources.org/api/v1/methods/4042",
     "http://www.monitoringresources.org/api/v1/methods/4043"
   ],
+  "metrics": [
+    {
+      "id": 97,
+      "title": "Alevin survival",
+      "category": "Fish",
+      "subcategory": "Survival: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 101,
+      "title": "Alevin devleopmental stage",
+      "category": "Fish",
+      "subcategory": "Timing of Life Stage: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Investigate the extent to which environmental factors such as scour, redd superimposition, fines sediment infiltration, and temperature may influence survival and development spatially and temporally.",
     "Estimate relative developmental stage at recovery among and within primary spawning locations of the target watershed, within and among years, while controlling for parental effects.",

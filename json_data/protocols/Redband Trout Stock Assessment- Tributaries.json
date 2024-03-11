@@ -31,6 +31,99 @@
     "http://www.monitoringresources.org/api/v1/methods/5258",
     "http://www.monitoringresources.org/api/v1/methods/6583"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Redband Trout annual spawner escapement",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 46,
+      "title": "Redband Trout Abundance in Tributaries",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 48,
+      "title": "Redband Trout age at maturity",
+      "category": "Fish",
+      "subcategory": "Age:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 49,
+      "title": "Age class structure of Redband Trout in tributaries",
+      "category": "Fish",
+      "subcategory": "Age Structure:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 62,
+      "title": "Afluvial Redband Trout movement",
+      "category": "Fish",
+      "subcategory": "Distribution of Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 65,
+      "title": "Redband Trout Population Estimate in Tributaries",
+      "category": "Fish",
+      "subcategory": "Effective Population Size",
+      "isIndicator": false
+    },
+    {
+      "id": 73,
+      "title": "Fluvial and adfluvial Redband Trout growth rate",
+      "category": "Fish",
+      "subcategory": "Growth Rate:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 77,
+      "title": "Redband Trout movement in tributaries",
+      "category": "Fish",
+      "subcategory": "Migration Pathways: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 78,
+      "title": "Redband Trout mortality rate",
+      "category": "Fish",
+      "subcategory": "Mortality: Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 91,
+      "title": "Recruitment of Redband Trout",
+      "category": "Fish",
+      "subcategory": "Residualism Rates",
+      "isIndicator": true
+    },
+    {
+      "id": 99,
+      "title": "Redband Trout outmigrant to adult survival",
+      "category": "Fish",
+      "subcategory": "Survival Rate: Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 101,
+      "title": "Age of recruitment of Redband Trout",
+      "category": "Fish",
+      "subcategory": "Timing of Life Stage: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 199,
+      "title": "Entrainment of Redband Trout",
+      "category": "Fish",
+      "subcategory": "Entrainment",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Understand movement and entrainment of Redband Trout.",
     "Estimate annual spawner escapement of Redband Trout.",

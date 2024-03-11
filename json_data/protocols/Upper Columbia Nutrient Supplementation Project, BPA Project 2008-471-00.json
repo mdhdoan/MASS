@@ -28,6 +28,253 @@
     "http://www.monitoringresources.org/api/v1/methods/5469",
     "http://www.monitoringresources.org/api/v1/methods/5470"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Fish population abundances",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 69,
+      "title": "Fish food web interaction",
+      "category": "Fish",
+      "subcategory": "Food Web Interaction: Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 73,
+      "title": "Fish growth rate",
+      "category": "Fish",
+      "subcategory": "Growth Rate:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Fish length",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 112,
+      "title": "BMI abundance",
+      "category": "Macroinvertebrates",
+      "subcategory": "Abundance of Macroinvertebrates",
+      "isIndicator": false
+    },
+    {
+      "id": 113,
+      "title": "BMI composition",
+      "category": "Macroinvertebrates",
+      "subcategory": "Composition: Macroinvertebrate Species Assemblage",
+      "isIndicator": false
+    },
+    {
+      "id": 116,
+      "title": "Date",
+      "category": "Time",
+      "subcategory": "Date",
+      "isIndicator": false
+    },
+    {
+      "id": 144,
+      "title": "Multi-species food web interaction",
+      "category": "Multi-Species",
+      "subcategory": "Food Web Interaction:  Multi-Species",
+      "isIndicator": false
+    },
+    {
+      "id": 155,
+      "title": "H2O DO",
+      "category": "Water Quality",
+      "subcategory": "Dissolved Gas Concentration (By Gas)",
+      "isIndicator": false
+    },
+    {
+      "id": 157,
+      "title": "H2O nitrogen",
+      "category": "Water Quality",
+      "subcategory": "Nitrogen",
+      "isIndicator": false
+    },
+    {
+      "id": 159,
+      "title": "H2O phosphorus",
+      "category": "Water Quality",
+      "subcategory": "Phosphorus",
+      "isIndicator": false
+    },
+    {
+      "id": 162,
+      "title": "H2O temperature",
+      "category": "Water Quality",
+      "subcategory": "Water Temperature",
+      "isIndicator": false
+    },
+    {
+      "id": 163,
+      "title": "Fish productivity",
+      "category": "Fish",
+      "subcategory": "Productivity:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 201,
+      "title": "Fish tagging",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Application",
+      "isIndicator": false
+    },
+    {
+      "id": 206,
+      "title": "Fish weight",
+      "category": "Fish",
+      "subcategory": "Weight: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 246,
+      "title": "Stable isotope analysis",
+      "category": "Other",
+      "subcategory": "Stable Isotope Analysis",
+      "isIndicator": false
+    },
+    {
+      "id": 250,
+      "title": "Algae abundance",
+      "category": "Plankton",
+      "subcategory": "Abundance of Plankton",
+      "isIndicator": false
+    },
+    {
+      "id": 253,
+      "title": "BMI age",
+      "category": "Macroinvertebrates",
+      "subcategory": "Age:  Macroinvertebrates",
+      "isIndicator": false
+    },
+    {
+      "id": 259,
+      "title": "BMI age structure",
+      "category": "Macroinvertebrates",
+      "subcategory": "Age Structure:  Macroinvertebrate",
+      "isIndicator": false
+    },
+    {
+      "id": 282,
+      "title": "Condition factor",
+      "category": "Fish",
+      "subcategory": "Condition Factor",
+      "isIndicator": true
+    },
+    {
+      "id": 293,
+      "title": "BMI density",
+      "category": "Macroinvertebrates",
+      "subcategory": "Density of Macroinvertebrate Species",
+      "isIndicator": false
+    },
+    {
+      "id": 298,
+      "title": "Fish diet",
+      "category": "Fish",
+      "subcategory": "Diet: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 328,
+      "title": "BMI food web interaction",
+      "category": "Macroinvertebrates",
+      "subcategory": "Food Web Interaction:  Macroinvertebrates",
+      "isIndicator": false
+    },
+    {
+      "id": 356,
+      "title": "BMI length",
+      "category": "Macroinvertebrates",
+      "subcategory": "Length:  Macroinvertebrate Species",
+      "isIndicator": false
+    },
+    {
+      "id": 375,
+      "title": "Algae food web interaction",
+      "category": "Plankton",
+      "subcategory": "Food Web Interaction:  Plankton",
+      "isIndicator": true
+    },
+    {
+      "id": 381,
+      "title": "Fish tag detection",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Recovery or Detection",
+      "isIndicator": false
+    },
+    {
+      "id": 417,
+      "title": "Fish species",
+      "category": "Fish",
+      "subcategory": "Species Type: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 418,
+      "title": "BMI species",
+      "category": "Macroinvertebrates",
+      "subcategory": "Species Type: Macroinvertebrates",
+      "isIndicator": false
+    },
+    {
+      "id": 420,
+      "title": "Algae species",
+      "category": "Plankton",
+      "subcategory": "Species Type: Plankton",
+      "isIndicator": false
+    },
+    {
+      "id": 425,
+      "title": "BMI productivity",
+      "category": "Macroinvertebrates",
+      "subcategory": "Productivity: Macroinvertebrates",
+      "isIndicator": true
+    },
+    {
+      "id": 436,
+      "title": "Fish tissue sample",
+      "category": "Fish",
+      "subcategory": "Tissue Sample: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 437,
+      "title": "BMI tissue sample",
+      "category": "Macroinvertebrates",
+      "subcategory": "Tissue Sample: Macroinvertebrates",
+      "isIndicator": false
+    },
+    {
+      "id": 448,
+      "title": "Algae tissue sample",
+      "category": "Plankton",
+      "subcategory": "Tissue Sample: Plankton",
+      "isIndicator": false
+    },
+    {
+      "id": 453,
+      "title": "BMI weight",
+      "category": "Macroinvertebrates",
+      "subcategory": "Weight: Macroinvertebrates",
+      "isIndicator": false
+    },
+    {
+      "id": 455,
+      "title": "Algae weight AFDM",
+      "category": "Plankton",
+      "subcategory": "Weight: Plankton",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Determine if MDN replacement will disrupt the trophic ecology of salmonid food webs to preferentially benefit non-target competitor or predator fish species.",
     "Evaluate how MDN replacement affects productivity and dynamics of salmonid food webs, natural production, and the growth and condition of juvenile salmonids in the freshwater rearing environment."

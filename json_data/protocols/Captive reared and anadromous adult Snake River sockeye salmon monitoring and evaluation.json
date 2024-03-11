@@ -19,6 +19,78 @@
     "http://www.monitoringresources.org/api/v1/methods/4223",
     "http://www.monitoringresources.org/api/v1/methods/5356"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Number of anadromous returns",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 49,
+      "title": "Age Structure of anadromous adult returns",
+      "category": "Fish",
+      "subcategory": "Age Structure:  Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 75,
+      "title": "Average length",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 92,
+      "title": "Sex Ratio of spawning adults",
+      "category": "Fish",
+      "subcategory": "Sex Ratio: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 99,
+      "title": "Smolt-to-adult return ratios of Snake River sockeye salmon",
+      "category": "Fish",
+      "subcategory": "Survival Rate: Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 101,
+      "title": "Adult run timing of Snake River sockeye salmon",
+      "category": "Fish",
+      "subcategory": "Timing of Life Stage: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 201,
+      "title": "Radio tagging adult sockeye",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Application",
+      "isIndicator": false
+    },
+    {
+      "id": 203,
+      "title": "Age structure from scale processing",
+      "category": "Fish",
+      "subcategory": "Scales",
+      "isIndicator": false
+    },
+    {
+      "id": 206,
+      "title": "Average weight of adults",
+      "category": "Fish",
+      "subcategory": "Weight: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 507,
+      "title": "Redds produced",
+      "category": "Fish",
+      "subcategory": "Spawning/Nesting",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Collect biological data from anadromous returning adult Snake River sockeye salmon.\r\n",
     "Describe the spawning behavior and distribution of Snake River sockeye adults released to volitionally spawn."

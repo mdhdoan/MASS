@@ -13,6 +13,43 @@
     "http://www.monitoringresources.org/api/v1/methods/6795",
     "http://www.monitoringresources.org/api/v1/methods/7076"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Piscivore Abundance",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 75,
+      "title": "Fork Length",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 201,
+      "title": "PIT Tag",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Application",
+      "isIndicator": false
+    },
+    {
+      "id": 206,
+      "title": "Weight",
+      "category": "Fish",
+      "subcategory": "Weight: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 298,
+      "title": "Diet",
+      "category": "Fish",
+      "subcategory": "Diet: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Monitor the status and population trends of Northern Pikeminnow, Smallmouth Bass, and Walleye between McNary and Priest Rapids dams.",
     "Estimate the abundance of Northern Pikeminnow, Smallmouth Bass, and Walleye between McNary and Priest Rapids dams."

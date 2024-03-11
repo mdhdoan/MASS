@@ -19,6 +19,78 @@
     "http://www.monitoringresources.org/api/v1/methods/6612",
     "http://www.monitoringresources.org/api/v1/methods/6613"
   ],
+  "metrics": [
+    {
+      "id": 77,
+      "title": "Age-at-outmigration of adult Rainbow Trout",
+      "category": "Fish",
+      "subcategory": "Migration Pathways: Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 77,
+      "title": "Dispersal from natal tributary",
+      "category": "Fish",
+      "subcategory": "Migration Pathways: Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 95,
+      "title": "Sr 87/86 signature of Age-0 Rainbow Trout",
+      "category": "Fish",
+      "subcategory": "Stock Identity",
+      "isIndicator": false
+    },
+    {
+      "id": 95,
+      "title": "Sr 87/86 tributary signature",
+      "category": "Fish",
+      "subcategory": "Stock Identity",
+      "isIndicator": true
+    },
+    {
+      "id": 95,
+      "title": "Assignment to tributary of origin",
+      "category": "Fish",
+      "subcategory": "Stock Identity",
+      "isIndicator": true
+    },
+    {
+      "id": 95,
+      "title": "Kootenay Lake Sr 87/86 signature",
+      "category": "Fish",
+      "subcategory": "Stock Identity",
+      "isIndicator": false
+    },
+    {
+      "id": 95,
+      "title": "Relative contribution of fluvial versus adfluvial Rainbow Trout",
+      "category": "Fish",
+      "subcategory": "Stock Identity",
+      "isIndicator": false
+    },
+    {
+      "id": 95,
+      "title": "Relative contribution of natal tributaries",
+      "category": "Fish",
+      "subcategory": "Stock Identity",
+      "isIndicator": false
+    },
+    {
+      "id": 95,
+      "title": "Sr 87/86 signature of adult Kokanee from Kootenay Lake",
+      "category": "Fish",
+      "subcategory": "Stock Identity",
+      "isIndicator": false
+    },
+    {
+      "id": 95,
+      "title": "Sr 87/86 signature of adult Rainbow Trout",
+      "category": "Fish",
+      "subcategory": "Stock Identity",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Derive strontium isotope signatures for all major tributaries to the Kootenai River from Libby Dam, Montana to Boundary Creek, Idaho.",
     "Estimate the percent contribution of each tributary to the mainstem adult rainbow trout population (both in Idaho and Montana).",

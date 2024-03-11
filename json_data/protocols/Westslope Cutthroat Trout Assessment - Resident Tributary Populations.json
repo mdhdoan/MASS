@@ -14,6 +14,50 @@
     "http://www.monitoringresources.org/api/v1/methods/5370",
     "http://www.monitoringresources.org/api/v1/methods/6569"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Westslope Cutthroat Trout Abundance",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 59,
+      "title": "Westslope Cutthroat Trout Recruitment",
+      "category": "Fish",
+      "subcategory": "Density of Fish Species",
+      "isIndicator": true
+    },
+    {
+      "id": 62,
+      "title": "Westslope Cutthroat Trout Distribution",
+      "category": "Fish",
+      "subcategory": "Distribution of Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Westslope Cutthroat Trout Length Frequency",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 163,
+      "title": "Westslope Cutthroat Trout Length Distribution",
+      "category": "Fish",
+      "subcategory": "Productivity:  Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 282,
+      "title": "Westslope Cutthroat Trout Relative Weight",
+      "category": "Fish",
+      "subcategory": "Condition Factor",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Estimate abundance of Westslope Cutthroat Trout.",
     "Determine spatial extent of Westslope Cutthroat Trout.\r\n",

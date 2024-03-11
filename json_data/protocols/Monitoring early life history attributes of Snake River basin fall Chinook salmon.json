@@ -18,6 +18,43 @@
     "http://www.monitoringresources.org/api/v1/methods/5257",
     "http://www.monitoringresources.org/api/v1/methods/5258"
   ],
+  "metrics": [
+    {
+      "id": 54,
+      "title": "Catch per unit effort",
+      "category": "Fish",
+      "subcategory": "Catch Per Unit Effort",
+      "isIndicator": false
+    },
+    {
+      "id": 73,
+      "title": "Parr growth in length and weight",
+      "category": "Fish",
+      "subcategory": "Growth Rate:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 101,
+      "title": "Timing of fry and parr presence",
+      "category": "Fish",
+      "subcategory": "Timing of Life Stage: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 101,
+      "title": "Daily passage at Lower Granite Dam",
+      "category": "Fish",
+      "subcategory": "Timing of Life Stage: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 101,
+      "title": "Rate of downstream movement",
+      "category": "Fish",
+      "subcategory": "Timing of Life Stage: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "(5) Document trends in rate of downstream movement of natural juveniles measured between time of riverine rearing and passage at Lower Granite Dam.",
     "(4) Document trends in passage timing of natural juveniles at Lower Granite Dam.",

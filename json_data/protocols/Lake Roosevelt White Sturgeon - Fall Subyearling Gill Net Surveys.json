@@ -15,6 +15,43 @@
     "http://www.monitoringresources.org/api/v1/methods/5352",
     "http://www.monitoringresources.org/api/v1/methods/5398"
   ],
+  "metrics": [
+    {
+      "id": 49,
+      "title": "Wild White Sturgeon fin section for aging",
+      "category": "Fish",
+      "subcategory": "Age Structure:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "White sturgeon fork length",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 201,
+      "title": "Wild White Sturgeon tagging/marking",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Application",
+      "isIndicator": false
+    },
+    {
+      "id": 206,
+      "title": "White sturgeon weight",
+      "category": "Fish",
+      "subcategory": "Weight: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 436,
+      "title": "Wild White Sturgeon fin tissue sample",
+      "category": "Fish",
+      "subcategory": "Tissue Sample: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "To monitor annual natural recruitment of White Sturgeon in Lake Roosevelt."
   ],

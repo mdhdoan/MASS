@@ -32,6 +32,85 @@
     "http://www.monitoringresources.org/api/v1/methods/6878",
     "http://www.monitoringresources.org/api/v1/methods/6898"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Estimate outmigrant abundance for steelhead and spring Chinook",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 46,
+      "title": "Estimating Instream Juvenile Salmonid Abundance Using Electrofishing",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 46,
+      "title": "Steelhead, Spring Chinook, and Bull Trout Adult Return",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 46,
+      "title": "Steelhead, Spring Chinook, and Bull Trout Spawners",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 78,
+      "title": "Steelhead, Salmon and Bull Trout Carcass Surveys",
+      "category": "Fish",
+      "subcategory": "Mortality: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 82,
+      "title": "Fish Salvage: Remove fish from perilous passage conditions",
+      "category": "Fish",
+      "subcategory": "Presence/Absence: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 86,
+      "title": "Steelhead and Spring Chinook Adult to Adult Return (AAR)",
+      "category": "Fish",
+      "subcategory": "Progeny-per-Parent Ratio (P:P) (Productivity)",
+      "isIndicator": true
+    },
+    {
+      "id": 86,
+      "title": "Steelhead and Spring Chinook Smolt to Adult Return (SAR)",
+      "category": "Fish",
+      "subcategory": "Progeny-per-Parent Ratio (P:P) (Productivity)",
+      "isIndicator": true
+    },
+    {
+      "id": 96,
+      "title": "Steelhead and Spring Chinook Stray Rate",
+      "category": "Fish",
+      "subcategory": "Stray Rate",
+      "isIndicator": true
+    },
+    {
+      "id": 99,
+      "title": "CJS Survival Estimate for Outmigrant steelhead & Spring Chinook",
+      "category": "Fish",
+      "subcategory": "Survival Rate: Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 104,
+      "title": "Monitor Stream Discharge",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Flow",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Estimate natural-origin steelhead and spring Chinook smolt abundances from mark-recapture efforts at rotary screw traps located at upper-Mill Creek and upper-Walla Walla River.",
     "Estimate smolt migration survival from release to downstream locations for hatchery- and natural-origin Chinook and natural-origin steelhead PIT-tagged from Mill Creek and upper Walla Walla River.",

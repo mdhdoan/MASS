@@ -14,6 +14,29 @@
     "http://www.monitoringresources.org/api/v1/methods/6632",
     "http://www.monitoringresources.org/api/v1/methods/6981"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Juvenile Fish Production",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 99,
+      "title": "Smolt Survival",
+      "category": "Fish",
+      "subcategory": "Survival Rate: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 101,
+      "title": "Smolt Migration Timing",
+      "category": "Fish",
+      "subcategory": "Timing of Life Stage: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Monitor the status and trends of annual natural juvenile salmonid production from Meacham Creek and the upper Umatilla River.",
     "Assess annual survival of natural juvenile steelhead migrating through the lower Umatilla river and the lower Columbia River in an integrated program with the Oregon Department of Fish and Wildlife.",

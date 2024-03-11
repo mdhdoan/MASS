@@ -19,6 +19,85 @@
     "http://www.monitoringresources.org/api/v1/methods/5291",
     "http://www.monitoringresources.org/api/v1/methods/5395"
   ],
+  "metrics": [
+    {
+      "id": 32,
+      "title": "Slope",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Gradient",
+      "isIndicator": false
+    },
+    {
+      "id": 36,
+      "title": "Reach Length",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Length/Width/Area",
+      "isIndicator": false
+    },
+    {
+      "id": 36,
+      "title": "Reach Width",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Length/Width/Area",
+      "isIndicator": false
+    },
+    {
+      "id": 37,
+      "title": "residual pool depth",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Depth: Pool",
+      "isIndicator": true
+    },
+    {
+      "id": 45,
+      "title": "Variation in thalweg profile and channel width",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Width: Wetted",
+      "isIndicator": true
+    },
+    {
+      "id": 46,
+      "title": "Juvenile Fish Density",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 72,
+      "title": "Genetics Tissue Sample",
+      "category": "Fish",
+      "subcategory": "Genetics: Fish Diversity, Fitness or Variation",
+      "isIndicator": false
+    },
+    {
+      "id": 116,
+      "title": "Sample Date",
+      "category": "Time",
+      "subcategory": "Date",
+      "isIndicator": false
+    },
+    {
+      "id": 132,
+      "title": "Substrate composition",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Composition: Substrate/Soil-Dominant Size",
+      "isIndicator": false
+    },
+    {
+      "id": 218,
+      "title": "GPS Coordinates",
+      "category": "Other",
+      "subcategory": "Location",
+      "isIndicator": false
+    },
+    {
+      "id": 369,
+      "title": "Pool/Riffle Ratio",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Aquatic or Floodplain Geomorphology:  Area",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Determine: Are the post-barrier juvenile salmon and steelhead numbers similar above and below the barrier?  ",
     "Determine: Is there a relationship between the number of salmon and steelhead above the barrier relative to below and the time since barrier removal?",

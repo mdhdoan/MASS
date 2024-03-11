@@ -7,6 +7,15 @@
   "methods": [
     "http://www.monitoringresources.org/api/v1/methods/1095"
   ],
+  "metrics": [
+    {
+      "id": 507,
+      "title": "Kokanee Spawner Counts",
+      "category": "Fish",
+      "subcategory": "Spawning/Nesting",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Conduct spawner counts as an index of mature kokanee abundance"
   ],

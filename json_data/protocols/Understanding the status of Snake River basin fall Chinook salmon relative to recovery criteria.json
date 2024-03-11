@@ -16,6 +16,22 @@
     "http://www.monitoringresources.org/api/v1/methods/6738",
     "http://www.monitoringresources.org/api/v1/methods/6739"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Natural adult abundance",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 46,
+      "title": "Geographic spawning distribution",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": true
+    }
+  ],
   "objectives": [
     "Increase the understanding of how the numerical trends in the estimated counts of natural-origin adults from 1983 onward were influenced by anthropogenic, biological, and environmental change.",
     "Predict the status of escapement of natural-origin adults to the spawning areas relative to the explicit population level spatial structure criteria.",

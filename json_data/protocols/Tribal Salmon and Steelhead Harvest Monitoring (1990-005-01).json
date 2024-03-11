@@ -8,6 +8,15 @@
     "http://www.monitoringresources.org/api/v1/methods/1127",
     "http://www.monitoringresources.org/api/v1/methods/1154"
   ],
+  "metrics": [
+    {
+      "id": 52,
+      "title": "Harvest Estimate",
+      "category": "Fish",
+      "subcategory": "Harvest Abundance",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Conduct surveys during steelhead and Chinook fisheries according to the stratified-random roving creel design. Record the number of angers, catch information, and angling effort by survey reach.",
     "Enter and review data. Use automated algorithms to summarize data and estimate tribal harvest of salmon and steelhead.",

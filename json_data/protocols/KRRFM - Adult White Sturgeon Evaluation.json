@@ -16,6 +16,36 @@
     "http://www.monitoringresources.org/api/v1/methods/1736",
     "http://www.monitoringresources.org/api/v1/methods/4041"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Relative abundance",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 57,
+      "title": "Condition factor",
+      "category": "Fish",
+      "subcategory": "Condition of Life Stage:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 73,
+      "title": "Growth rates",
+      "category": "Fish",
+      "subcategory": "Growth Rate:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 97,
+      "title": "Adult sturgeon survival",
+      "category": "Fish",
+      "subcategory": "Survival: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Determine adult Kootenai River White Sturgeon growth, survival, and abundance\r\n",
     "Provide adults for hatchery production\r\n",

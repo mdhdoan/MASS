@@ -11,6 +11,57 @@
     "http://www.monitoringresources.org/api/v1/methods/4041",
     "http://www.monitoringresources.org/api/v1/methods/6785"
   ],
+  "metrics": [
+    {
+      "id": 54,
+      "title": "Single-pass electrofishing CPUE",
+      "category": "Fish",
+      "subcategory": "Catch Per Unit Effort",
+      "isIndicator": false
+    },
+    {
+      "id": 61,
+      "title": "Disease / Parasite presence",
+      "category": "Fish",
+      "subcategory": "Disease/Parasite Concentration: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 62,
+      "title": "Parr Distribution",
+      "category": "Fish",
+      "subcategory": "Distribution of Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Parr Length",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 82,
+      "title": "Parr Presence/Absence",
+      "category": "Fish",
+      "subcategory": "Presence/Absence: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 206,
+      "title": "Parr Weight",
+      "category": "Fish",
+      "subcategory": "Weight: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 282,
+      "title": "Condition Factor",
+      "category": "Fish",
+      "subcategory": "Condition Factor",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Delineation of standardized single-pass electrofishing techniques for the NPT Watershed Division in the interest of maximizing data consistency and minimizing injury to native fish species."
   ],

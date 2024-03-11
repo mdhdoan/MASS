@@ -8,6 +8,15 @@
     "http://www.monitoringresources.org/api/v1/methods/994",
     "http://www.monitoringresources.org/api/v1/methods/4040"
   ],
+  "metrics": [
+    {
+      "id": 88,
+      "title": "Egg hatching success and recruitment failure hypotheses",
+      "category": "Fish",
+      "subcategory": "Relative Reproductive Success (RRS)",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Restore natural recruitment of Kootenai River white sturgeon"
   ],

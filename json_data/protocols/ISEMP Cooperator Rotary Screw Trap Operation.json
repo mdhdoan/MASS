@@ -19,6 +19,50 @@
     "http://www.monitoringresources.org/api/v1/methods/4087",
     "http://www.monitoringresources.org/api/v1/methods/5519"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Abundance by Age and Life-Stage of Juvenile Salmonids",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 46,
+      "title": "Juvenile Salmonid Emigration Abundance",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 49,
+      "title": "Age of Juvenile Salmonids Captured in Rotary Screw Traps",
+      "category": "Fish",
+      "subcategory": "Age Structure:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Length of Juvenile Salmonids Captured in Rotary Screw Traps",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 97,
+      "title": "Survival by Age and Life-Stage of Juvenile Salmonids",
+      "category": "Fish",
+      "subcategory": "Survival: Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 381,
+      "title": "Trap Efficiency",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Recovery or Detection",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Provide standardization of trapping and fish handling protocols among rotary screw traps operated by ISEMP in the South Fork Salmon and Lemhi rivers",
     "Indirectly, estimate juvenile Chinook salmon and steelhead survival (egg-to-smolt)",

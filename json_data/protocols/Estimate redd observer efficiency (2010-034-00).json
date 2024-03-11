@@ -12,6 +12,50 @@
     "http://www.monitoringresources.org/api/v1/methods/4162",
     "http://www.monitoringresources.org/api/v1/methods/4164"
   ],
+  "metrics": [
+    {
+      "id": 121,
+      "title": "Survey Effort",
+      "category": "Time",
+      "subcategory": "Time: Duration",
+      "isIndicator": false
+    },
+    {
+      "id": 161,
+      "title": "Water clarity",
+      "category": "Water Quality",
+      "subcategory": "Turbidity",
+      "isIndicator": false
+    },
+    {
+      "id": 507,
+      "title": "Census Redd Counts",
+      "category": "Fish",
+      "subcategory": "Spawning/Nesting",
+      "isIndicator": false
+    },
+    {
+      "id": 507,
+      "title": "Observer Error: Proportion of the Total Features Classified as False Redds",
+      "category": "Fish",
+      "subcategory": "Spawning/Nesting",
+      "isIndicator": true
+    },
+    {
+      "id": 507,
+      "title": "Observer Error: Proportion of True Redds Omiited",
+      "category": "Fish",
+      "subcategory": "Spawning/Nesting",
+      "isIndicator": true
+    },
+    {
+      "id": 507,
+      "title": "Observer Redd Counts",
+      "category": "Fish",
+      "subcategory": "Spawning/Nesting",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Estimate observer efficiency in redd surveys"
   ],

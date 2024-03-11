@@ -18,6 +18,71 @@
     "http://www.monitoringresources.org/api/v1/methods/6579",
     "http://www.monitoringresources.org/api/v1/methods/6580"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Abundance of Fish Species",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 46,
+      "title": "Non-Lethal Count  of Small Bodied Fish",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 48,
+      "title": "Fish Age from Otoliths",
+      "category": "Fish",
+      "subcategory": "Age:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Fish Length Large Bodied Individuals",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 78,
+      "title": "Fish Handling to Reduce Delayed Mortality",
+      "category": "Fish",
+      "subcategory": "Mortality: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 124,
+      "title": "Identified Parasites and Diseases",
+      "category": "Disease/Pathogens/Parasites",
+      "subcategory": "Pathogen/Disease Type",
+      "isIndicator": false
+    },
+    {
+      "id": 201,
+      "title": "Identification of a Subset of Fish",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Application",
+      "isIndicator": false
+    },
+    {
+      "id": 206,
+      "title": "Fish Weight",
+      "category": "Fish",
+      "subcategory": "Weight: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 298,
+      "title": "Identification of Fish Stomach Contents",
+      "category": "Fish",
+      "subcategory": "Diet: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Determine the abundance, life stage, feeding habits, and general health of each fish species in our study reach.",
     "Provide guidance to fieldworkers regarding procedures and methods that may vary from year to year depending on specific projects and objectives. ",

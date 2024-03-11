@@ -7,6 +7,15 @@
   "methods": [
     "http://www.monitoringresources.org/api/v1/methods/1432"
   ],
+  "metrics": [
+    {
+      "id": 72,
+      "title": "Parental-based tagging",
+      "category": "Fish",
+      "subcategory": "Genetics: Fish Diversity, Fitness or Variation",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Describe how PBT genetic samples are to be collected from hatchery Chinook salmon at Chief Joseph Hatchery."
   ],

@@ -15,6 +15,43 @@
     "http://www.monitoringresources.org/api/v1/methods/4042",
     "http://www.monitoringresources.org/api/v1/methods/4043"
   ],
+  "metrics": [
+    {
+      "id": 73,
+      "title": "Growth of Juvenile Burbot Between Ponds",
+      "category": "Fish",
+      "subcategory": "Growth Rate:  Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 97,
+      "title": "Survial of Burbot Between Ponds",
+      "category": "Fish",
+      "subcategory": "Survival: Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 99,
+      "title": "Survival of Pond Reared Burbot",
+      "category": "Fish",
+      "subcategory": "Survival Rate: Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 250,
+      "title": "Zooplankton Abundance",
+      "category": "Plankton",
+      "subcategory": "Abundance of Plankton",
+      "isIndicator": false
+    },
+    {
+      "id": 350,
+      "title": "Pond Limnology",
+      "category": "Water Quality",
+      "subcategory": "Water Quality Index",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Determine if pond raised burbot grow and survive better than those reared in a hatchery and stocked into the main Kootenai River.",
     "Determine differences in growth and survival between ponds."

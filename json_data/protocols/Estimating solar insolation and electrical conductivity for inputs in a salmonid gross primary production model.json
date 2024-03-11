@@ -9,6 +9,29 @@
     "http://www.monitoringresources.org/api/v1/methods/6555",
     "http://www.monitoringresources.org/api/v1/methods/6556"
   ],
+  "metrics": [
+    {
+      "id": 51,
+      "title": "Gross primary production",
+      "category": "Fish",
+      "subcategory": "Carrying Capacity: Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 111,
+      "title": "Solar Insolation",
+      "category": "Light",
+      "subcategory": "Light Absorption",
+      "isIndicator": false
+    },
+    {
+      "id": 154,
+      "title": "Electrical Conductivity",
+      "category": "Water Quality",
+      "subcategory": "Conductivity",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Summarize predicted upstream conductivity values (\u00b5S cm-1) per 1000-meter stream segments for HUC4 watersheds.",
     "Summarize the average upstream solar insolation values (watt hours per square meter, WH/m2) per 200-meter stream segments for HUC4 watersheds.",

@@ -20,6 +20,64 @@
     "http://www.monitoringresources.org/api/v1/methods/6583",
     "http://www.monitoringresources.org/api/v1/methods/6640"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Number of Redband Trout Outmigrating from Natal Tributary",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 72,
+      "title": "Genetic Diversity of Captured Redband Trout",
+      "category": "Fish",
+      "subcategory": "Genetics: Fish Diversity, Fitness or Variation",
+      "isIndicator": false
+    },
+    {
+      "id": 73,
+      "title": "Growth Rate of Captured Redband Trout",
+      "category": "Fish",
+      "subcategory": "Growth Rate:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Fork Length (mm) of outmigrating Redband Trout",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 97,
+      "title": "Repatriated Redband Trout Return Rate",
+      "category": "Fish",
+      "subcategory": "Survival: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 201,
+      "title": "Survival and Movement of Redband Trout",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Application",
+      "isIndicator": false
+    },
+    {
+      "id": 206,
+      "title": "Total Weight (g) of outmigrating Redband Trout",
+      "category": "Fish",
+      "subcategory": "Weight: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 282,
+      "title": "Condition Factor of Captured Redband Trout",
+      "category": "Fish",
+      "subcategory": "Condition Factor",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Repatriate captured juvenile Redband Trout near their natal spawning grounds.",
     "Raise captured juvenile Redband Trout to an average minimum of 165mm in fork length.",

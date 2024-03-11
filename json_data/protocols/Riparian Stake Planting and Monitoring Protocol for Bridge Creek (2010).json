@@ -11,6 +11,29 @@
     "http://www.monitoringresources.org/api/v1/methods/1111",
     "http://www.monitoringresources.org/api/v1/methods/5461"
   ],
+  "metrics": [
+    {
+      "id": 234,
+      "title": "tree growth",
+      "category": "Vegetation/Plants",
+      "subcategory": "Growth:  Vegetation",
+      "isIndicator": false
+    },
+    {
+      "id": 235,
+      "title": "Browse (%)",
+      "category": "Vegetation/Plants",
+      "subcategory": "Condition of Life Stage: Vegetation/Plants",
+      "isIndicator": false
+    },
+    {
+      "id": 239,
+      "title": "Survival (%)",
+      "category": "Vegetation/Plants",
+      "subcategory": "Survival:  Vegetative Species",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "To plant and monitor tree stakes along the riparian area of Bridge Creek within the National Park Service-John Day Fossil Beds National Monument land."
   ],

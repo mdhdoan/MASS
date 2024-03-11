@@ -10,6 +10,29 @@
     "http://www.monitoringresources.org/api/v1/methods/1618",
     "http://www.monitoringresources.org/api/v1/methods/1619"
   ],
+  "metrics": [
+    {
+      "id": 73,
+      "title": "Kokanee Fry Growth",
+      "category": "Fish",
+      "subcategory": "Growth Rate:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 99,
+      "title": "Kokanee survival",
+      "category": "Fish",
+      "subcategory": "Survival Rate: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 298,
+      "title": "Kokanee Fry Diet Analysis",
+      "category": "Fish",
+      "subcategory": "Diet: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Evaluate kokanee fry growth throughout the growing season."
   ],

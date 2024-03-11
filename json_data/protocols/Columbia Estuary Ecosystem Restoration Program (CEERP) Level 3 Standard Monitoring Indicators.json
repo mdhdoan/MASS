@@ -14,6 +14,50 @@
     "http://www.monitoringresources.org/api/v1/methods/820",
     "http://www.monitoringresources.org/api/v1/methods/821"
   ],
+  "metrics": [
+    {
+      "id": 40,
+      "title": "Wetted Area",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Surface Water Cover",
+      "isIndicator": true
+    },
+    {
+      "id": 105,
+      "title": "Water Level Change after Restoration",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Ground Water Level Change",
+      "isIndicator": false
+    },
+    {
+      "id": 129,
+      "title": "Accretion Rates at Restoration Sites",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Accretion Rates/ Aggradation",
+      "isIndicator": false
+    },
+    {
+      "id": 162,
+      "title": "Water temperature at Restoration Sites",
+      "category": "Water Quality",
+      "subcategory": "Water Temperature",
+      "isIndicator": false
+    },
+    {
+      "id": 198,
+      "title": "Water Surface Elevation at Restoration Sites",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Water Surface Elevation",
+      "isIndicator": false
+    },
+    {
+      "id": 219,
+      "title": "Photo Documentation at Restoration Sites",
+      "category": "Other",
+      "subcategory": "Photo Documentation",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "- Evaluate the effects of individual habitat restoration actions at project sites to evaluate post-restoration trajectories based on project-specific goals ",
     "- Compare restoration project sites to evaluate impact of restoration actions in the Columbia River and estuary and incorporate results to support and inform regional management decisions."

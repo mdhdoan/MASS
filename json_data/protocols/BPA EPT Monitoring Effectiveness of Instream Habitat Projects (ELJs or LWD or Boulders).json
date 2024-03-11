@@ -25,6 +25,260 @@
     "http://www.monitoringresources.org/api/v1/methods/5327",
     "http://www.monitoringresources.org/api/v1/methods/5328"
   ],
+  "metrics": [
+    {
+      "id": 15,
+      "title": "Channel Unit Volume",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Abundance of Habitat Types",
+      "isIndicator": false
+    },
+    {
+      "id": 19,
+      "title": "Channel Unit Area",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Composition/Structure of Habitat Types",
+      "isIndicator": false
+    },
+    {
+      "id": 19,
+      "title": "Channel Unit Percent",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Composition/Structure of Habitat Types",
+      "isIndicator": false
+    },
+    {
+      "id": 29,
+      "title": "River Complexity Index - Brown 2002",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Edge/Density/Sinuosity",
+      "isIndicator": true
+    },
+    {
+      "id": 32,
+      "title": "Slope",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Gradient",
+      "isIndicator": false
+    },
+    {
+      "id": 36,
+      "title": "Bankfull Width to Depth Ratio",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Length/Width/Area",
+      "isIndicator": false
+    },
+    {
+      "id": 36,
+      "title": "Mean Residual Pool Area",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Length/Width/Area",
+      "isIndicator": false
+    },
+    {
+      "id": 36,
+      "title": "Mean Residual Pool Vertical Area",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Length/Width/Area",
+      "isIndicator": false
+    },
+    {
+      "id": 36,
+      "title": "Reach Length",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Length/Width/Area",
+      "isIndicator": false
+    },
+    {
+      "id": 36,
+      "title": "Reach Width",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Length/Width/Area",
+      "isIndicator": false
+    },
+    {
+      "id": 37,
+      "title": "Average Maximum Pool Depth",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Depth: Pool",
+      "isIndicator": false
+    },
+    {
+      "id": 37,
+      "title": "Average Pool Tail Crest Depth",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Depth: Pool",
+      "isIndicator": false
+    },
+    {
+      "id": 37,
+      "title": "Mean Residual Pool Depth",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Depth: Pool",
+      "isIndicator": true
+    },
+    {
+      "id": 44,
+      "title": "Bankfull Width",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Width: Bankfull ",
+      "isIndicator": false
+    },
+    {
+      "id": 45,
+      "title": "Variation in Thalweg Profile and Channel Width",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Width: Wetted",
+      "isIndicator": true
+    },
+    {
+      "id": 49,
+      "title": "Fish Use of Structures by Life Stages and Species",
+      "category": "Fish",
+      "subcategory": "Age Structure:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 59,
+      "title": "Juvenile Fish Density by Species",
+      "category": "Fish",
+      "subcategory": "Density of Fish Species",
+      "isIndicator": true
+    },
+    {
+      "id": 62,
+      "title": "Fish Use by Structure Type",
+      "category": "Fish",
+      "subcategory": "Distribution of Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 104,
+      "title": "Stream Discharge",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Flow",
+      "isIndicator": false
+    },
+    {
+      "id": 116,
+      "title": "Sample Date",
+      "category": "Time",
+      "subcategory": "Date",
+      "isIndicator": false
+    },
+    {
+      "id": 133,
+      "title": "Substrate Composition",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Composition: Substrate/Soil-Dominant Type",
+      "isIndicator": false
+    },
+    {
+      "id": 195,
+      "title": "Difference in Size Between Measured and Estimated LWD",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Size: Wood Structure",
+      "isIndicator": false
+    },
+    {
+      "id": 195,
+      "title": "Log10 of Volume of LWD",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Size: Wood Structure",
+      "isIndicator": false
+    },
+    {
+      "id": 195,
+      "title": "Number of Artificially Placed LWD Pieces",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Size: Wood Structure",
+      "isIndicator": false
+    },
+    {
+      "id": 218,
+      "title": "GPS Coordinates",
+      "category": "Other",
+      "subcategory": "Location",
+      "isIndicator": false
+    },
+    {
+      "id": 369,
+      "title": "Pool/Riffle Ratio",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Aquatic or Floodplain Geomorphology:  Area",
+      "isIndicator": false
+    },
+    {
+      "id": 374,
+      "title": "LWD Frequency",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Density of Instream Wood",
+      "isIndicator": true
+    },
+    {
+      "id": 374,
+      "title": "LWD Volume",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Density of Instream Wood",
+      "isIndicator": false
+    },
+    {
+      "id": 417,
+      "title": "Fish Use of Structures by Species",
+      "category": "Fish",
+      "subcategory": "Species Type: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 440,
+      "title": "Channel Unit Frequency",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Distribution of Habitat Type",
+      "isIndicator": false
+    },
+    {
+      "id": 459,
+      "title": "Number of AIS",
+      "category": "Disturbance/Restoration",
+      "subcategory": "Abundance of Disturbance or Restoration ",
+      "isIndicator": false
+    },
+    {
+      "id": 504,
+      "title": "Number of Key Pieces",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Abundance of Instream Wood Structures",
+      "isIndicator": false
+    },
+    {
+      "id": 504,
+      "title": "Number of Pieces by Channel Location",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Abundance of Instream Wood Structures",
+      "isIndicator": false
+    },
+    {
+      "id": 504,
+      "title": "Number of Pieces of Large Woody Debris",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Abundance of Instream Wood Structures",
+      "isIndicator": false
+    },
+    {
+      "id": 504,
+      "title": "Number of Pieces Part of a Log Jam",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Abundance of Instream Wood Structures",
+      "isIndicator": false
+    },
+    {
+      "id": 504,
+      "title": "Number of Pool Forming Wood Pieces",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Abundance of Instream Wood Structures",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Determine if local juvenile fish density is different between treatment and control reaches.",
     "LWD and ELJ - Determine if the complexity of the channel is different between treatment and control reaches. ",

@@ -13,6 +13,57 @@
     "http://www.monitoringresources.org/api/v1/methods/3789",
     "http://www.monitoringresources.org/api/v1/methods/3796"
   ],
+  "metrics": [
+    {
+      "id": 154,
+      "title": "Conductivity",
+      "category": "Water Quality",
+      "subcategory": "Conductivity",
+      "isIndicator": false
+    },
+    {
+      "id": 157,
+      "title": "Total Nitrogen",
+      "category": "Water Quality",
+      "subcategory": "Nitrogen",
+      "isIndicator": false
+    },
+    {
+      "id": 158,
+      "title": "pH",
+      "category": "Water Quality",
+      "subcategory": "pH",
+      "isIndicator": false
+    },
+    {
+      "id": 159,
+      "title": "Total Phosphorus",
+      "category": "Water Quality",
+      "subcategory": "Phosphorus",
+      "isIndicator": false
+    },
+    {
+      "id": 161,
+      "title": "Turbidity",
+      "category": "Water Quality",
+      "subcategory": "Turbidity",
+      "isIndicator": false
+    },
+    {
+      "id": 162,
+      "title": "Water Temperature",
+      "category": "Water Quality",
+      "subcategory": "Water Temperature",
+      "isIndicator": false
+    },
+    {
+      "id": 242,
+      "title": "Alkalinity",
+      "category": "Water Quality",
+      "subcategory": "Alkalinity",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Describe stream water chemistry for use in habitat restoration and protection prioritization.",
     "Provide a standardized protocol for future status and trend monitoring of stream water chemistry.",

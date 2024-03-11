@@ -40,6 +40,211 @@
     "http://www.monitoringresources.org/api/v1/methods/7084",
     "http://www.monitoringresources.org/api/v1/methods/7085"
   ],
+  "metrics": [
+    {
+      "id": 15,
+      "title": "Percent dry",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Abundance of Habitat Types",
+      "isIndicator": false
+    },
+    {
+      "id": 15,
+      "title": "Pool frequency",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Abundance of Habitat Types",
+      "isIndicator": false
+    },
+    {
+      "id": 29,
+      "title": "Sinuosity",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Edge/Density/Sinuosity",
+      "isIndicator": false
+    },
+    {
+      "id": 32,
+      "title": "Reach gradient",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Gradient",
+      "isIndicator": false
+    },
+    {
+      "id": 36,
+      "title": "Pool Length and Width",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Length/Width/Area",
+      "isIndicator": false
+    },
+    {
+      "id": 37,
+      "title": "Pool Depth",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Depth: Pool",
+      "isIndicator": false
+    },
+    {
+      "id": 44,
+      "title": "Bankfull Width",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Width: Bankfull ",
+      "isIndicator": false
+    },
+    {
+      "id": 45,
+      "title": "Wetted width",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Width: Wetted",
+      "isIndicator": false
+    },
+    {
+      "id": 130,
+      "title": "Bank angle",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Bank Stability",
+      "isIndicator": false
+    },
+    {
+      "id": 130,
+      "title": "Bank stability",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Bank Stability",
+      "isIndicator": false
+    },
+    {
+      "id": 132,
+      "title": "Percent fine sediments <2mm or <6mm",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Composition: Substrate/Soil-Dominant Size",
+      "isIndicator": false
+    },
+    {
+      "id": 132,
+      "title": "Substrate D16",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Composition: Substrate/Soil-Dominant Size",
+      "isIndicator": false
+    },
+    {
+      "id": 132,
+      "title": "Substrate D50",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Composition: Substrate/Soil-Dominant Size",
+      "isIndicator": false
+    },
+    {
+      "id": 132,
+      "title": "Substrate D84",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Composition: Substrate/Soil-Dominant Size",
+      "isIndicator": false
+    },
+    {
+      "id": 154,
+      "title": "Conductivity",
+      "category": "Water Quality",
+      "subcategory": "Conductivity",
+      "isIndicator": false
+    },
+    {
+      "id": 157,
+      "title": "Total nitrogen",
+      "category": "Water Quality",
+      "subcategory": "Nitrogen",
+      "isIndicator": false
+    },
+    {
+      "id": 158,
+      "title": "pH",
+      "category": "Water Quality",
+      "subcategory": "pH",
+      "isIndicator": false
+    },
+    {
+      "id": 159,
+      "title": "Total phosphorous",
+      "category": "Water Quality",
+      "subcategory": "Phosphorus",
+      "isIndicator": false
+    },
+    {
+      "id": 161,
+      "title": "Turbidity",
+      "category": "Water Quality",
+      "subcategory": "Turbidity",
+      "isIndicator": false
+    },
+    {
+      "id": 188,
+      "title": "Bankfull depth",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Depth/Height: Bankfull ",
+      "isIndicator": false
+    },
+    {
+      "id": 195,
+      "title": "Categorize LWD by size",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Size: Wood Structure",
+      "isIndicator": false
+    },
+    {
+      "id": 198,
+      "title": "Thalweg depth",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Water Surface Elevation",
+      "isIndicator": false
+    },
+    {
+      "id": 208,
+      "title": "Side channels",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Presence of Stream Types",
+      "isIndicator": false
+    },
+    {
+      "id": 219,
+      "title": "site photos",
+      "category": "Other",
+      "subcategory": "Photo Documentation",
+      "isIndicator": false
+    },
+    {
+      "id": 225,
+      "title": "Pool tail fines <2mm or 6mm",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Distribution of Sediment",
+      "isIndicator": false
+    },
+    {
+      "id": 293,
+      "title": "Benthic Macroinvertebrates",
+      "category": "Macroinvertebrates",
+      "subcategory": "Density of Macroinvertebrate Species",
+      "isIndicator": false
+    },
+    {
+      "id": 369,
+      "title": "Pool characteristics and qualifications",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Aquatic or Floodplain Geomorphology:  Area",
+      "isIndicator": false
+    },
+    {
+      "id": 394,
+      "title": "beaver presence in the reach",
+      "category": "Mammals",
+      "subcategory": "Presence/Absence: Mammals",
+      "isIndicator": false
+    },
+    {
+      "id": 504,
+      "title": "Quantity of LWD",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Abundance of Instream Wood Structures",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Determine the attainment of BLM land health standards for perennial wadeable streams and rivers using a quantitative approach of eleven core indicators.",
     "Determine the potential of a stream reach to assist in interpreting monitoring data.",

@@ -19,6 +19,176 @@
     "http://www.monitoringresources.org/api/v1/methods/5519",
     "http://www.monitoringresources.org/api/v1/methods/6634"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Juvenile Chinook Salmon emigrant abundance",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 46,
+      "title": "Juvenile steelhead emigrant abundance",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 48,
+      "title": "Age Composition of Juvenile Chinook Salmon",
+      "category": "Fish",
+      "subcategory": "Age:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 49,
+      "title": "Age composition of juvenile steelhead",
+      "category": "Fish",
+      "subcategory": "Age Structure:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 56,
+      "title": "Species",
+      "category": "Fish",
+      "subcategory": "Composition: Fish Species Assemblage",
+      "isIndicator": false
+    },
+    {
+      "id": 57,
+      "title": "Disposition",
+      "category": "Fish",
+      "subcategory": "Condition of Life Stage:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Salmonid fork length",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 82,
+      "title": "Incidental catch",
+      "category": "Fish",
+      "subcategory": "Presence/Absence: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 85,
+      "title": "Juvenile Productivity Chinook Salmon Populations",
+      "category": "Fish",
+      "subcategory": "Productivity:  Intra-Life Stage",
+      "isIndicator": true
+    },
+    {
+      "id": 85,
+      "title": "Juvenile productivity of steelhead populations",
+      "category": "Fish",
+      "subcategory": "Productivity:  Intra-Life Stage",
+      "isIndicator": true
+    },
+    {
+      "id": 99,
+      "title": "Juvenile Chinook Survival to Lower Granite Dam",
+      "category": "Fish",
+      "subcategory": "Survival Rate: Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 101,
+      "title": "Salmonid emigration timing",
+      "category": "Fish",
+      "subcategory": "Timing of Life Stage: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 104,
+      "title": "Flow",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Flow",
+      "isIndicator": false
+    },
+    {
+      "id": 116,
+      "title": "Date",
+      "category": "Time",
+      "subcategory": "Date",
+      "isIndicator": false
+    },
+    {
+      "id": 162,
+      "title": "Temperature \"Tagging  and Release\"",
+      "category": "Water Quality",
+      "subcategory": "Water Temperature",
+      "isIndicator": false
+    },
+    {
+      "id": 201,
+      "title": "PIT Tagging",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Application",
+      "isIndicator": false
+    },
+    {
+      "id": 202,
+      "title": "Rear Type",
+      "category": "Fish",
+      "subcategory": "Origin",
+      "isIndicator": false
+    },
+    {
+      "id": 203,
+      "title": "Scale ID",
+      "category": "Fish",
+      "subcategory": "Scales",
+      "isIndicator": false
+    },
+    {
+      "id": 206,
+      "title": "Weight",
+      "category": "Fish",
+      "subcategory": "Weight: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 218,
+      "title": "Trap (PTAGIS code)",
+      "category": "Other",
+      "subcategory": "Location",
+      "isIndicator": false
+    },
+    {
+      "id": 243,
+      "title": "Speed",
+      "category": "Other",
+      "subcategory": "Not Applicable",
+      "isIndicator": false
+    },
+    {
+      "id": 336,
+      "title": "Sill Depth",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Gauge",
+      "isIndicator": false
+    },
+    {
+      "id": 381,
+      "title": "Recapture",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Recovery or Detection",
+      "isIndicator": false
+    },
+    {
+      "id": 381,
+      "title": "Salmonid fin clipped to estimate trap efficiency",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Recovery or Detection",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Produce estimates of Chinook Salmon and steelhead emigrant abundance past RSTs by season and cohort.",
     "Produce estimates of freshwater productivity for the monitored populations of wild Chinook Salmon and steelhead emigrants for which corresponding estimates of adult abundance are available.",

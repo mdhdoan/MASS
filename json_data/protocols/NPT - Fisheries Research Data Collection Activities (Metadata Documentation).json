@@ -17,6 +17,7 @@
     "http://www.monitoringresources.org/api/v1/methods/284",
     "http://www.monitoringresources.org/api/v1/methods/307"
   ],
+  "metrics": [],
   "objectives": [],
   "ownerName": "Jay Hesse",
   "ownerEmail": "jayh@nezperce.org",

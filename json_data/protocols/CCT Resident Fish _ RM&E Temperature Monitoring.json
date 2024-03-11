@@ -9,6 +9,15 @@
     "http://www.monitoringresources.org/api/v1/methods/817",
     "http://www.monitoringresources.org/api/v1/methods/846"
   ],
+  "metrics": [
+    {
+      "id": 162,
+      "title": "Average daily temperature in stream",
+      "category": "Water Quality",
+      "subcategory": "Water Temperature",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Collect continuous surface water temperature at fish trap locations in the Sanpoil River. "
   ],

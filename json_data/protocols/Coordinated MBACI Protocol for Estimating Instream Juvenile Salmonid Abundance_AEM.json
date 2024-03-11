@@ -11,6 +11,92 @@
     "http://www.monitoringresources.org/api/v1/methods/4076",
     "http://www.monitoringresources.org/api/v1/methods/4228"
   ],
+  "metrics": [
+    {
+      "id": 36,
+      "title": "Reach Length",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Length/Width/Area",
+      "isIndicator": false
+    },
+    {
+      "id": 36,
+      "title": "Reach Width",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Length/Width/Area",
+      "isIndicator": false
+    },
+    {
+      "id": 46,
+      "title": "Fish Counts by Structure Type",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 46,
+      "title": "Juvenile Fish Abundance - Reach Level",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 46,
+      "title": "Juvenile Fish Counts by Channel Unit",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 59,
+      "title": "Changes in Fish Density",
+      "category": "Fish",
+      "subcategory": "Density of Fish Species",
+      "isIndicator": true
+    },
+    {
+      "id": 59,
+      "title": "Juvenile Fish Density",
+      "category": "Fish",
+      "subcategory": "Density of Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 59,
+      "title": "Juvenile Fish Density by Channel Unit",
+      "category": "Fish",
+      "subcategory": "Density of Fish Species",
+      "isIndicator": true
+    },
+    {
+      "id": 62,
+      "title": "Proportion of Juvenile Fish by Channel Unit Type",
+      "category": "Fish",
+      "subcategory": "Distribution of Fish Species",
+      "isIndicator": true
+    },
+    {
+      "id": 62,
+      "title": "Proportion of Juvenile Fish by Structure Type",
+      "category": "Fish",
+      "subcategory": "Distribution of Fish Species",
+      "isIndicator": true
+    },
+    {
+      "id": 116,
+      "title": "Sample Date",
+      "category": "Time",
+      "subcategory": "Date",
+      "isIndicator": false
+    },
+    {
+      "id": 218,
+      "title": "GPS Coordinates",
+      "category": "Other",
+      "subcategory": "Location",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Determine whether juvenile salmonid density and abundance by channel unit in a restored reach is increasing relative to a control reach.  "
   ],

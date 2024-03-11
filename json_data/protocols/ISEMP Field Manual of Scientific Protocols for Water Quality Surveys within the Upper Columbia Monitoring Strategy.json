@@ -17,6 +17,64 @@
     "http://www.monitoringresources.org/api/v1/methods/319",
     "http://www.monitoringresources.org/api/v1/methods/327"
   ],
+  "metrics": [
+    {
+      "id": 154,
+      "title": "WQ: Conductivity",
+      "category": "Water Quality",
+      "subcategory": "Conductivity",
+      "isIndicator": false
+    },
+    {
+      "id": 155,
+      "title": "WQ: Dissolved Oxygen",
+      "category": "Water Quality",
+      "subcategory": "Dissolved Gas Concentration (By Gas)",
+      "isIndicator": false
+    },
+    {
+      "id": 155,
+      "title": "WQ: Dissolved Oxygen Saturation",
+      "category": "Water Quality",
+      "subcategory": "Dissolved Gas Concentration (By Gas)",
+      "isIndicator": false
+    },
+    {
+      "id": 157,
+      "title": "WQ: Nitrogen",
+      "category": "Water Quality",
+      "subcategory": "Nitrogen",
+      "isIndicator": false
+    },
+    {
+      "id": 158,
+      "title": "WQ: pH",
+      "category": "Water Quality",
+      "subcategory": "pH",
+      "isIndicator": false
+    },
+    {
+      "id": 159,
+      "title": "WQ: Phosphorus",
+      "category": "Water Quality",
+      "subcategory": "Phosphorus",
+      "isIndicator": false
+    },
+    {
+      "id": 161,
+      "title": "WQ: Turbidity",
+      "category": "Water Quality",
+      "subcategory": "Turbidity",
+      "isIndicator": false
+    },
+    {
+      "id": 162,
+      "title": "WQ: Water Temperature",
+      "category": "Water Quality",
+      "subcategory": "Water Temperature",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "To standardize/document water quality monitoring procedures in the Upper Columbia Basin\r\nDetermine the source and timing of elevated turbidity levels in the Wenatchee River subbasin\r\n",
     "Address Clean Water Act exceedences in pH and continuously monitor temperature at selected sites as part of effectiveness monitoring in the Entiat River subbasin.",

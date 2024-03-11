@@ -8,6 +8,22 @@
     "http://www.monitoringresources.org/api/v1/methods/716",
     "http://www.monitoringresources.org/api/v1/methods/1687"
   ],
+  "metrics": [
+    {
+      "id": 120,
+      "title": "Time",
+      "category": "Time",
+      "subcategory": "Time: Actual",
+      "isIndicator": false
+    },
+    {
+      "id": 243,
+      "title": "Temperature",
+      "category": "Other",
+      "subcategory": "Not Applicable",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Collect continuous in-stream monitoring of water temperature in the Wind River basin.  Submit data to Dept. of Ecology EIM database for future habitat and trend analysis."
   ],

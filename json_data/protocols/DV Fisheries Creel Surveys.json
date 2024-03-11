@@ -8,6 +8,15 @@
     "http://www.monitoringresources.org/api/v1/methods/1154",
     "http://www.monitoringresources.org/api/v1/methods/3940"
   ],
+  "metrics": [
+    {
+      "id": 52,
+      "title": "Satisfaction",
+      "category": "Fish",
+      "subcategory": "Harvest Abundance",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Estimate satisfaction of the tribal and non-tribal anglers\r\nEstimate the exploitation rate of the reservoirs.\r\nBring attention to any problems with our facilities"
   ],

@@ -11,6 +11,7 @@
     "http://www.monitoringresources.org/api/v1/methods/303",
     "http://www.monitoringresources.org/api/v1/methods/304"
   ],
+  "metrics": [],
   "objectives": [],
   "ownerName": "Jacque Schei",
   "ownerEmail": "jschei@usgs.gov",

@@ -11,6 +11,43 @@
     "http://www.monitoringresources.org/api/v1/methods/1102",
     "http://www.monitoringresources.org/api/v1/methods/1130"
   ],
+  "metrics": [
+    {
+      "id": 59,
+      "title": "Gill Net Kokanee Density",
+      "category": "Fish",
+      "subcategory": "Density of Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 59,
+      "title": "Kokanee density-dependent capture efficiency model",
+      "category": "Fish",
+      "subcategory": "Density of Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 59,
+      "title": "Trawling Kokanee Density",
+      "category": "Fish",
+      "subcategory": "Density of Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Gill Net Kokanee Size Structure",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Trawling Kokanee Size Structure",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Create a correction factor for kokanee abundance for our standard midwater trawling gear."
   ],

@@ -7,6 +7,22 @@
   "methods": [
     "http://www.monitoringresources.org/api/v1/methods/6621"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Juvenile Abundance",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 62,
+      "title": "Juvenile Distribution",
+      "category": "Fish",
+      "subcategory": "Distribution of Fish Species",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "1) Organize and summarize an anadromous fish density dataset for a pilot area, 2) link fish densities to habitat variables, 3) fit SSN model and map predictions, 4) deliver results online through FDAT"
   ],

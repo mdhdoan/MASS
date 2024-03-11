@@ -12,6 +12,29 @@
     "http://www.monitoringresources.org/api/v1/methods/1045",
     "http://www.monitoringresources.org/api/v1/methods/1074"
   ],
+  "metrics": [
+    {
+      "id": 54,
+      "title": "Catch Rates of Bull Trout and Lake Trout in Gill Nets",
+      "category": "Fish",
+      "subcategory": "Catch Per Unit Effort",
+      "isIndicator": false
+    },
+    {
+      "id": 72,
+      "title": "Number of Bull Trout Mortalities From Each Region",
+      "category": "Fish",
+      "subcategory": "Genetics: Fish Diversity, Fitness or Variation",
+      "isIndicator": false
+    },
+    {
+      "id": 72,
+      "title": "Number of Bull Trout Mortalities From Each Stock",
+      "category": "Fish",
+      "subcategory": "Genetics: Fish Diversity, Fitness or Variation",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Assess whether contract netting efforts are having disproportionate effects on stocks of bull trout that are of particular concern.",
     "Analyze the effectiveness of gill net characteristics (e.g., mesh size) in catching lake trout and avoiding bull trout."

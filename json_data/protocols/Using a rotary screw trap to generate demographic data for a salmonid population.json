@@ -16,6 +16,43 @@
     "http://www.monitoringresources.org/api/v1/methods/5356",
     "http://www.monitoringresources.org/api/v1/methods/5519"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Juvenile fish abundance",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 46,
+      "title": "Total number of PIT-tagged juvenile salmonids",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 46,
+      "title": "Total number of processed juvenile salmonids",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Mean length of juvenile salmonids",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 101,
+      "title": "Distribution times of juvenile salmonids",
+      "category": "Fish",
+      "subcategory": "Timing of Life Stage: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "PIT-tag juvenile outmigrating salmonids to enable prospective return rate analyses.",
     "Examine and track changes in the distribution of outmigration times for juvenile salmonids at the tributary or watershed scale. ",

@@ -8,6 +8,22 @@
     "http://www.monitoringresources.org/api/v1/methods/6920",
     "http://www.monitoringresources.org/api/v1/methods/6922"
   ],
+  "metrics": [
+    {
+      "id": 2,
+      "title": "Abundance of waterfowl",
+      "category": "Birds",
+      "subcategory": "Abundance of Birds",
+      "isIndicator": false
+    },
+    {
+      "id": 2,
+      "title": "Total estimation of waterfowl in TD-1 project in winter/spring migration",
+      "category": "Birds",
+      "subcategory": "Abundance of Birds",
+      "isIndicator": true
+    }
+  ],
   "objectives": [
     "To effectively monitor waterfowl use using camera traps throughout late winter and spring migration."
   ],

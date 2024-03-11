@@ -14,6 +14,29 @@
     "http://www.monitoringresources.org/api/v1/methods/4241",
     "http://www.monitoringresources.org/api/v1/methods/5257"
   ],
+  "metrics": [
+    {
+      "id": 54,
+      "title": "Catch rates of walleyes in gill nets",
+      "category": "Fish",
+      "subcategory": "Catch Per Unit Effort",
+      "isIndicator": false
+    },
+    {
+      "id": 77,
+      "title": "Spawning sites and movements of walleye",
+      "category": "Fish",
+      "subcategory": "Migration Pathways: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 298,
+      "title": "Food habits of walleye",
+      "category": "Fish",
+      "subcategory": "Diet: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     " Determine origin, spawning locations, home range, feeding habits, growth rates, population dynamics, and general life histories of Walleye.  "
   ],

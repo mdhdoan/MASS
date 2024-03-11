@@ -7,6 +7,22 @@
   "methods": [
     "http://www.monitoringresources.org/api/v1/methods/1115"
   ],
+  "metrics": [
+    {
+      "id": 97,
+      "title": "Egg Incubation Success",
+      "category": "Fish",
+      "subcategory": "Survival: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 97,
+      "title": "Direct Measure of Egg-to-Fry Survival",
+      "category": "Fish",
+      "subcategory": "Survival: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Use direct measures to better understand kokanee egg incubation and egg-to-fry survival."
   ],

@@ -19,6 +19,85 @@
     "http://www.monitoringresources.org/api/v1/methods/6585",
     "http://www.monitoringresources.org/api/v1/methods/6586"
   ],
+  "metrics": [
+    {
+      "id": 48,
+      "title": "Adult age (trend by broodyear)",
+      "category": "Fish",
+      "subcategory": "Age:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 57,
+      "title": "Body condition at emergence (trend by broodyear)",
+      "category": "Fish",
+      "subcategory": "Condition of Life Stage:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 71,
+      "title": "Reproductive Effort Index by Broodyear",
+      "category": "Fish",
+      "subcategory": "Fraction: Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 71,
+      "title": "Track developmental anomolies (trend by broodyear)",
+      "category": "Fish",
+      "subcategory": "Fraction: Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 73,
+      "title": "Emergence Timing (trend by broodyear)",
+      "category": "Fish",
+      "subcategory": "Growth Rate:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Adult size at age (trend by broodyear)",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 77,
+      "title": "Spawning Migration Timing (trend by broodyear)",
+      "category": "Fish",
+      "subcategory": "Migration Pathways: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 86,
+      "title": "Fertility (trend by broodyear)",
+      "category": "Fish",
+      "subcategory": "Progeny-per-Parent Ratio (P:P) (Productivity)",
+      "isIndicator": false
+    },
+    {
+      "id": 99,
+      "title": "Egg to Fry survival (trend by broodyear)",
+      "category": "Fish",
+      "subcategory": "Survival Rate: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 206,
+      "title": "Egg weight (trend by brood year)",
+      "category": "Fish",
+      "subcategory": "Weight: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 507,
+      "title": "Spawn Timing (trend by broodyear)",
+      "category": "Fish",
+      "subcategory": "Spawning/Nesting",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Compare developmental abnormalities for three genetic lines of Yakima spring Chinook (Hatchery Control, Supplementation Hatchery and Supplementation Natural origin sublines, and a Wild Control)",
     "Compare egg-to-fry survival for three genetic lines of Yakima spring Chinook (Hatchery Control, Supplementation Hatchery and Supplementation Natural origin sublines, and a Wild Control)",

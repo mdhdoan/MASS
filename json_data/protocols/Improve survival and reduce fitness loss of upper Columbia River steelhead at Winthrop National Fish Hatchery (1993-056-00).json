@@ -18,6 +18,43 @@
     "http://www.monitoringresources.org/api/v1/methods/1735",
     "http://www.monitoringresources.org/api/v1/methods/1736"
   ],
+  "metrics": [
+    {
+      "id": 57,
+      "title": "Maturation of 1- and 2-year hatchery steelhead",
+      "category": "Fish",
+      "subcategory": "Condition of Life Stage:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 57,
+      "title": "Smoltification of 1- and 2-year hatchery steelhead",
+      "category": "Fish",
+      "subcategory": "Condition of Life Stage:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 73,
+      "title": "Measure growth rates of 1- and 2-year steelhead smolts at WNFH",
+      "category": "Fish",
+      "subcategory": "Growth Rate:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 91,
+      "title": "Determine relative proportions of 1- and 2-year steelhead smolts",
+      "category": "Fish",
+      "subcategory": "Residualism Rates",
+      "isIndicator": false
+    },
+    {
+      "id": 97,
+      "title": "Survival of 1- and 2-year steelhead through mainstem Columbia",
+      "category": "Fish",
+      "subcategory": "Survival: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Measure growth and compare size frequency distributions of 1- and 2-year old steelhead smolts released from Winthrop National Fish Hatchery.",
     "Assess indicators of smoltification and precocious male maturation in 1- and 2-year old steelhead smolts released from Winthrop National Fish Hatchery.",

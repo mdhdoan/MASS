@@ -8,6 +8,15 @@
     "http://www.monitoringresources.org/api/v1/methods/4004",
     "http://www.monitoringresources.org/api/v1/methods/4005"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Fish Assemblege Habitat Associations",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Evaluate efficacy of sampling techniques for fish assemblages and the influence of habitat characteristics on detectability. ",
     "Describe fish assemblage and population-level relationships with habitat."

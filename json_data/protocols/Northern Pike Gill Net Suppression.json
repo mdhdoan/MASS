@@ -7,6 +7,64 @@
   "methods": [
     "http://www.monitoringresources.org/api/v1/methods/140"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Fish abundance",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 48,
+      "title": "Fish age",
+      "category": "Fish",
+      "subcategory": "Age:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 54,
+      "title": "Fish catch-per-unit-effort",
+      "category": "Fish",
+      "subcategory": "Catch Per Unit Effort",
+      "isIndicator": false
+    },
+    {
+      "id": 62,
+      "title": "Fish distribution",
+      "category": "Fish",
+      "subcategory": "Distribution of Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Fish length",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 93,
+      "title": "Fish sex type and maturity",
+      "category": "Fish",
+      "subcategory": "Sex Type: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 206,
+      "title": "Fish weight",
+      "category": "Fish",
+      "subcategory": "Weight: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 282,
+      "title": "Fish condition",
+      "category": "Fish",
+      "subcategory": "Condition Factor",
+      "isIndicator": true
+    }
+  ],
   "objectives": [
     "Reduce the abundance of Northern Pike to the point at which they are rarely observed - <1 Northern Pike/100 overnight gill net sets in reservoir-wide Northern Pike Monitoring Program gill net catch."
   ],

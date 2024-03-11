@@ -9,6 +9,22 @@
     "http://www.monitoringresources.org/api/v1/methods/1127",
     "http://www.monitoringresources.org/api/v1/methods/1154"
   ],
+  "metrics": [
+    {
+      "id": 52,
+      "title": "Annual Fish Harvest",
+      "category": "Fish",
+      "subcategory": "Harvest Abundance",
+      "isIndicator": true
+    },
+    {
+      "id": 52,
+      "title": "Fish Harvest in Banks Lake",
+      "category": "Fish",
+      "subcategory": "Harvest Abundance",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Quantify spatial and temporal catch and harvest of Kokanee \r\nCompare harvest rates to baseline collected since 2002.",
     "Quantify spatial and temporal catch of Kokanee, Lake Whitefish, Walleye, Smallmouth Bass, and other pertinent sport fish targeted by anglers. \r\n"

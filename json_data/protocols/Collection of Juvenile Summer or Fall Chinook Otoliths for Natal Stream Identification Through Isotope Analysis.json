@@ -12,6 +12,36 @@
     "http://www.monitoringresources.org/api/v1/methods/6613",
     "http://www.monitoringresources.org/api/v1/methods/6678"
   ],
+  "metrics": [
+    {
+      "id": 95,
+      "title": "Assignment to tributary of origin",
+      "category": "Fish",
+      "subcategory": "Stock Identity",
+      "isIndicator": true
+    },
+    {
+      "id": 95,
+      "title": "Establish Sr 87/86 ratio signatures for Okanogan, Similkameen, and Columbia below Chief Joseph Dam",
+      "category": "Fish",
+      "subcategory": "Stock Identity",
+      "isIndicator": true
+    },
+    {
+      "id": 202,
+      "title": "Determine natal stream of individual fish",
+      "category": "Fish",
+      "subcategory": "Origin",
+      "isIndicator": false
+    },
+    {
+      "id": 202,
+      "title": "Determine relative contribution of natal tributaries to PIT-tagged fish at mouth of Okanogan River",
+      "category": "Fish",
+      "subcategory": "Origin",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Collect fish for otolith analysis",
     "Extract and preserve otoliths from anadromous salmonids for isotope analysis",

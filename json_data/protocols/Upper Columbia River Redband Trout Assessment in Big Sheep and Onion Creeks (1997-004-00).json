@@ -37,6 +37,162 @@
     "http://www.monitoringresources.org/api/v1/methods/6583",
     "http://www.monitoringresources.org/api/v1/methods/6786"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Fish Per Redd",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 46,
+      "title": "Redband Trout Spawner Abundance/Escapement",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 46,
+      "title": "Redband Trout Abundance in Tributaries",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 49,
+      "title": "Age Structure of Returning Redband Trout",
+      "category": "Fish",
+      "subcategory": "Age Structure:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 49,
+      "title": "Redband Trout Age of Return",
+      "category": "Fish",
+      "subcategory": "Age Structure:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 59,
+      "title": "Fish Density",
+      "category": "Fish",
+      "subcategory": "Density of Fish Species",
+      "isIndicator": true
+    },
+    {
+      "id": 62,
+      "title": "Spawning Distribution",
+      "category": "Fish",
+      "subcategory": "Distribution of Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 73,
+      "title": "Growth Rate",
+      "category": "Fish",
+      "subcategory": "Growth Rate:  Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 75,
+      "title": "Size at Return",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Fish Length",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 91,
+      "title": "Recruitment of Redband Trout",
+      "category": "Fish",
+      "subcategory": "Residualism Rates",
+      "isIndicator": true
+    },
+    {
+      "id": 97,
+      "title": "Contribution and Survival of Repeat Spawners to the Population",
+      "category": "Fish",
+      "subcategory": "Survival: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 99,
+      "title": "Smolt to Adult Return Rates",
+      "category": "Fish",
+      "subcategory": "Survival Rate: Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 101,
+      "title": "Age of recruitment of Redband Trout",
+      "category": "Fish",
+      "subcategory": "Timing of Life Stage: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 101,
+      "title": "Adult Run Timing",
+      "category": "Fish",
+      "subcategory": "Timing of Life Stage: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 101,
+      "title": "Spawn Timing",
+      "category": "Fish",
+      "subcategory": "Timing of Life Stage: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 201,
+      "title": "Marked to Unmarked Ratio",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Application",
+      "isIndicator": true
+    },
+    {
+      "id": 206,
+      "title": "Fish Weight",
+      "category": "Fish",
+      "subcategory": "Weight: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 362,
+      "title": "Invasive Brook Trout Abundance",
+      "category": "Fish",
+      "subcategory": "Abundance of Invasive Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 381,
+      "title": "Detection Efficiency of Stationary PIT Tag Array",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Recovery or Detection",
+      "isIndicator": true
+    },
+    {
+      "id": 381,
+      "title": "PIT Detections",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Recovery or Detection",
+      "isIndicator": false
+    },
+    {
+      "id": 507,
+      "title": "Index of Spawner Abundance - Redd Count",
+      "category": "Fish",
+      "subcategory": "Spawning/Nesting",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Estimate tributary abundance, distribution, and age structure of Redband Trout in Big Sheep and Onion creeks below the terminal falls.",
     "Estimate recruitment and age of recruitment of juvenile Redband Trout from their natal tributary to the Upper Columbia River.",

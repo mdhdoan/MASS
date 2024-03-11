@@ -13,6 +13,64 @@
     "http://www.monitoringresources.org/api/v1/methods/3814",
     "http://www.monitoringresources.org/api/v1/methods/3815"
   ],
+  "metrics": [
+    {
+      "id": 57,
+      "title": "seawater challenge survival",
+      "category": "Fish",
+      "subcategory": "Condition of Life Stage:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 57,
+      "title": "Smoltification development of Umatilla Fall Chinook salmon",
+      "category": "Fish",
+      "subcategory": "Condition of Life Stage:  Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 73,
+      "title": "Growth in length, weight, and condition factor of experimental Umatilla Fall Chinook",
+      "category": "Fish",
+      "subcategory": "Growth Rate:  Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 75,
+      "title": "fish fork length (mm)",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 80,
+      "title": "Precocious male maturation of experimental Umatilla Fall Chinook (minijack rates)",
+      "category": "Fish",
+      "subcategory": "Precociousness",
+      "isIndicator": true
+    },
+    {
+      "id": 93,
+      "title": "sex of fish",
+      "category": "Fish",
+      "subcategory": "Sex Type: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 206,
+      "title": "fish wet weight (g)",
+      "category": "Fish",
+      "subcategory": "Weight: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 436,
+      "title": "blood/plasma sample",
+      "category": "Fish",
+      "subcategory": "Tissue Sample: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Assess growth and smolt development of Umatilla River, URB Fall Chinook salmon reared in a laboratory scale 2x2 factorial experiment altering emergence time and early growth rate",
     "Assess precocious male maturation rates at age-1 and 2 in Umatilla River, URB Fall Chinook salmon reared in a laboratory scale 2x2 factorial experiment altering emergence time and early growth rate."

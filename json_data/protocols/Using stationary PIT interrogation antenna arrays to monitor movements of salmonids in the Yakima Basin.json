@@ -8,6 +8,29 @@
     "http://www.monitoringresources.org/api/v1/methods/6572",
     "http://www.monitoringresources.org/api/v1/methods/6573"
   ],
+  "metrics": [
+    {
+      "id": 77,
+      "title": "Seasonal interrogation history for juvenile fish",
+      "category": "Fish",
+      "subcategory": "Migration Pathways: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 77,
+      "title": "Seasonal interrogation history for adult fish",
+      "category": "Fish",
+      "subcategory": "Migration Pathways: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 381,
+      "title": "Total number of interrogated fish at a specific site",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Recovery or Detection",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Use interrogation data from stationary PIT arrays to describe the spatial distribution of the migratory life-history variant within watersheds.",
     "Create interrogation histories for individual PIT tagged fish to evaluate seasonal movements within watersheds."

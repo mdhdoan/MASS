@@ -35,6 +35,162 @@
     "http://www.monitoringresources.org/api/v1/methods/5338",
     "http://www.monitoringresources.org/api/v1/methods/5339"
   ],
+  "metrics": [
+    {
+      "id": 20,
+      "title": "Percent Vegetative Cover in Stream",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Cover",
+      "isIndicator": false
+    },
+    {
+      "id": 31,
+      "title": "Stream Channel Morphology Abundance",
+      "category": "Classification of Ecological or Geological Attribute ",
+      "subcategory": "Form/Morphology",
+      "isIndicator": false
+    },
+    {
+      "id": 32,
+      "title": "Stream Gradient",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Gradient",
+      "isIndicator": false
+    },
+    {
+      "id": 33,
+      "title": "Stream Habitat Quality",
+      "category": "Classification of Ecological or Geological Attribute ",
+      "subcategory": "Habitat Quality",
+      "isIndicator": false
+    },
+    {
+      "id": 45,
+      "title": "Stream Wetted Width",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Width: Wetted",
+      "isIndicator": false
+    },
+    {
+      "id": 104,
+      "title": "Stream Flow",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Flow",
+      "isIndicator": false
+    },
+    {
+      "id": 112,
+      "title": "Stream Macroinvertebrate Abundance",
+      "category": "Macroinvertebrates",
+      "subcategory": "Abundance of Macroinvertebrates",
+      "isIndicator": false
+    },
+    {
+      "id": 132,
+      "title": "Stream Substrate Composition",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Composition: Substrate/Soil-Dominant Size",
+      "isIndicator": false
+    },
+    {
+      "id": 135,
+      "title": "Stream Embeddedness",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Embeddedness",
+      "isIndicator": false
+    },
+    {
+      "id": 154,
+      "title": "Stream Water Quality - Conductivity",
+      "category": "Water Quality",
+      "subcategory": "Conductivity",
+      "isIndicator": false
+    },
+    {
+      "id": 157,
+      "title": "Stream Water Quality - Nitrates/Nitrites",
+      "category": "Water Quality",
+      "subcategory": "Nitrogen",
+      "isIndicator": false
+    },
+    {
+      "id": 158,
+      "title": "Stream Water Quality - pH",
+      "category": "Water Quality",
+      "subcategory": "pH",
+      "isIndicator": false
+    },
+    {
+      "id": 159,
+      "title": "Stream Water Quality- Phosphorus",
+      "category": "Water Quality",
+      "subcategory": "Phosphorus",
+      "isIndicator": false
+    },
+    {
+      "id": 161,
+      "title": "Stream Water Quality- Turbidity",
+      "category": "Water Quality",
+      "subcategory": "Turbidity",
+      "isIndicator": false
+    },
+    {
+      "id": 162,
+      "title": "Stream Water Quality- Temperature",
+      "category": "Water Quality",
+      "subcategory": "Water Temperature",
+      "isIndicator": false
+    },
+    {
+      "id": 188,
+      "title": "Stream Bankfull Depth",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Depth/Height: Bankfull ",
+      "isIndicator": false
+    },
+    {
+      "id": 188,
+      "title": "Stream Bankfull Width",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Depth/Height: Bankfull ",
+      "isIndicator": false
+    },
+    {
+      "id": 293,
+      "title": "Stream Macroinvertebrate Density",
+      "category": "Macroinvertebrates",
+      "subcategory": "Density of Macroinvertebrate Species",
+      "isIndicator": false
+    },
+    {
+      "id": 311,
+      "title": "Stream Macroinvertebrate Diversity",
+      "category": "Macroinvertebrates",
+      "subcategory": "Diversity of Macroinvertebrates:  Change",
+      "isIndicator": false
+    },
+    {
+      "id": 370,
+      "title": "Percent Stream Vegetative Cover",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Upland:  Area",
+      "isIndicator": false
+    },
+    {
+      "id": 373,
+      "title": "Barrier Type and Abundance",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Density of Barriers",
+      "isIndicator": false
+    },
+    {
+      "id": 504,
+      "title": "In-Stream Large Woody Debris Abundance",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Abundance of Instream Wood Structures",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Identify habitat parameters that limit Redband Trout population characteristics.",
     "Conduct habitat surveys in streams that contain Redband Trout populations."

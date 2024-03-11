@@ -13,6 +13,50 @@
     "http://www.monitoringresources.org/api/v1/methods/4041",
     "http://www.monitoringresources.org/api/v1/methods/5551"
   ],
+  "metrics": [
+    {
+      "id": 59,
+      "title": "Proportion of positive sets (Ep)",
+      "category": "Fish",
+      "subcategory": "Density of Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 73,
+      "title": "Annual growth increment (AGI)",
+      "category": "Fish",
+      "subcategory": "Growth Rate:  Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 75,
+      "title": "Fish Length",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 163,
+      "title": "Age-0 recruitment index",
+      "category": "Fish",
+      "subcategory": "Productivity:  Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 163,
+      "title": "Relationship between Age-0 recruitment index and flow",
+      "category": "Fish",
+      "subcategory": "Productivity:  Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 206,
+      "title": "Fish Weight",
+      "category": "Fish",
+      "subcategory": "Weight: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Estimate the relative annual abundance of age-0 white sturgeon in each of the impounded reaches of the lower Columbia River  ",
     "Relate age-0 recruitment to physical and enviromental variables",

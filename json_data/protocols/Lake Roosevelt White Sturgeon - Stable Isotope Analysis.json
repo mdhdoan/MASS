@@ -10,6 +10,43 @@
     "http://www.monitoringresources.org/api/v1/methods/5299",
     "http://www.monitoringresources.org/api/v1/methods/5352"
   ],
+  "metrics": [
+    {
+      "id": 298,
+      "title": "White Sturgeon Diet Composition",
+      "category": "Fish",
+      "subcategory": "Diet: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 436,
+      "title": "Carbon 13 parts per thousand in White Sturgeon tissue sample",
+      "category": "Fish",
+      "subcategory": "Tissue Sample: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 436,
+      "title": "Nitrogen 15 parts per thousand in White Sturgeon Tissue Sample",
+      "category": "Fish",
+      "subcategory": "Tissue Sample: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 437,
+      "title": "Carbon 13 parts per thousand in Macroinvertebrates",
+      "category": "Macroinvertebrates",
+      "subcategory": "Tissue Sample: Macroinvertebrates",
+      "isIndicator": false
+    },
+    {
+      "id": 437,
+      "title": "Nitrogen 15 parts per thousand in Macroinvertebrates",
+      "category": "Macroinvertebrates",
+      "subcategory": "Tissue Sample: Macroinvertebrates",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "To determine proportions of prey items contributing to White Sturgeon diet",
     "To examine intra-specific diet variability and size related shifts in diet"

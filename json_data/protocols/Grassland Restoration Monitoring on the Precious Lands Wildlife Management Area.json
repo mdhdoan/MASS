@@ -9,6 +9,57 @@
     "http://www.monitoringresources.org/api/v1/methods/5281",
     "http://www.monitoringresources.org/api/v1/methods/5317"
   ],
+  "metrics": [
+    {
+      "id": 149,
+      "title": "Cover - % Bare Ground",
+      "category": "Vegetation/Plants",
+      "subcategory": "Composition: Vegetative Species Assemblage",
+      "isIndicator": false
+    },
+    {
+      "id": 230,
+      "title": "Cover - # of Planted Species",
+      "category": "Vegetation/Plants",
+      "subcategory": "Abundance of Vegetative Species",
+      "isIndicator": false
+    },
+    {
+      "id": 230,
+      "title": "Cover - Total % Herbaceous",
+      "category": "Vegetation/Plants",
+      "subcategory": "Abundance of Vegetative Species",
+      "isIndicator": false
+    },
+    {
+      "id": 232,
+      "title": "Density - Density Class",
+      "category": "Vegetation/Plants",
+      "subcategory": "Density of Vegetation",
+      "isIndicator": false
+    },
+    {
+      "id": 237,
+      "title": "Cover - % Litter",
+      "category": "Vegetation/Plants",
+      "subcategory": "Presence/Absence: Plants",
+      "isIndicator": false
+    },
+    {
+      "id": 263,
+      "title": "Density - Age Class",
+      "category": "Vegetation/Plants",
+      "subcategory": "Age Structure:  Vegetation",
+      "isIndicator": false
+    },
+    {
+      "id": 367,
+      "title": "Frequency of Target Species",
+      "category": "Vegetation/Plants",
+      "subcategory": "Abundance of Invasive Plant Species",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Reclamation of the natural floral components native to the area."
   ],

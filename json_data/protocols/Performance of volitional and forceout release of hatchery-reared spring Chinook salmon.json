@@ -10,6 +10,22 @@
     "http://www.monitoringresources.org/api/v1/methods/3972",
     "http://www.monitoringresources.org/api/v1/methods/5258"
   ],
+  "metrics": [
+    {
+      "id": 99,
+      "title": "Survival to Lower Granite Dam",
+      "category": "Fish",
+      "subcategory": "Survival Rate: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 101,
+      "title": "Arrival timing to Lower Granite Dam",
+      "category": "Fish",
+      "subcategory": "Timing of Life Stage: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Describe and compare differences in survival, arrival timing, and travel time for hatchery-origin spring Chinook salmon reared at Catherine Creek and Upper Grande Ronde River acclimation facilities."
   ],

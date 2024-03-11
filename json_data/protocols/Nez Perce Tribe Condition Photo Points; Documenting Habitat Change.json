@@ -8,6 +8,15 @@
     "http://www.monitoringresources.org/api/v1/methods/5284",
     "http://www.monitoringresources.org/api/v1/methods/5357"
   ],
+  "metrics": [
+    {
+      "id": 149,
+      "title": "Condition Photo Point",
+      "category": "Vegetation/Plants",
+      "subcategory": "Composition: Vegetative Species Assemblage",
+      "isIndicator": true
+    }
+  ],
   "objectives": [
     "Document any changes in vegetation cover, density, and composition over time"
   ],

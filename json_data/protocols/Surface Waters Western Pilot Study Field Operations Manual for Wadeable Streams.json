@@ -28,6 +28,7 @@
     "http://www.monitoringresources.org/api/v1/methods/91",
     "http://www.monitoringresources.org/api/v1/methods/92"
   ],
+  "metrics": [],
   "objectives": [
     "Monitor (ecological indicators, stream survey design, estimates of reference condition) to produce unbiased estimates of ecological condition of surface waters across a large geographic area",
     "Demonstrate monitoring in a large-scale assessment of the status and extent of ecological condition."

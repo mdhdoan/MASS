@@ -15,6 +15,57 @@
     "http://www.monitoringresources.org/api/v1/methods/5352",
     "http://www.monitoringresources.org/api/v1/methods/5398"
   ],
+  "metrics": [
+    {
+      "id": 48,
+      "title": "Wild white sturgeon fin section",
+      "category": "Fish",
+      "subcategory": "Age:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Sturgeon fork length measurement",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 201,
+      "title": "White sturgeon PIT tagging and scute marking",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Application",
+      "isIndicator": false
+    },
+    {
+      "id": 202,
+      "title": "Identify white sturgeon origin as hatchery or wild",
+      "category": "Fish",
+      "subcategory": "Origin",
+      "isIndicator": false
+    },
+    {
+      "id": 206,
+      "title": "Sturgeon weight",
+      "category": "Fish",
+      "subcategory": "Weight: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 381,
+      "title": "Identification of individual sturgeon",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Recovery or Detection",
+      "isIndicator": false
+    },
+    {
+      "id": 436,
+      "title": "Wild white sturgeon tissue sample",
+      "category": "Fish",
+      "subcategory": "Tissue Sample: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Estimate the abundance of hatchery and wild components of the white sturgeon population.",
     "Describe spatial and depth distributions of white sturgeon.",

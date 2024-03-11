@@ -13,6 +13,57 @@
     "http://www.monitoringresources.org/api/v1/methods/4041",
     "http://www.monitoringresources.org/api/v1/methods/6941"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Wild smolt abundance",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 49,
+      "title": "Scales",
+      "category": "Fish",
+      "subcategory": "Age Structure:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 49,
+      "title": "Wild smolt age composition",
+      "category": "Fish",
+      "subcategory": "Age Structure:  Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 72,
+      "title": "Genetics: Population Identification",
+      "category": "Fish",
+      "subcategory": "Genetics: Fish Diversity, Fitness or Variation",
+      "isIndicator": true
+    },
+    {
+      "id": 75,
+      "title": "Fork Length",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 99,
+      "title": "Smolt-to-adult return rate (SAR)",
+      "category": "Fish",
+      "subcategory": "Survival Rate: Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 436,
+      "title": "DNA Sample",
+      "category": "Fish",
+      "subcategory": "Tissue Sample: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Sample natural/wild emigrating juvenile Snake River steelhead and spring-summer Chinook Salmon at Lower Granite Dam.",
     "Estimate abundance, productivity, survival, and composition (age structure, sex, and genetic stock) of natural/wild emigrating juvenile Snake River steelhead and spring-summer Chinook Salmon ESUs."

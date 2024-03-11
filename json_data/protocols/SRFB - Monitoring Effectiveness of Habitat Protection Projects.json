@@ -19,6 +19,141 @@
     "http://www.monitoringresources.org/api/v1/methods/297",
     "http://www.monitoringresources.org/api/v1/methods/301"
   ],
+  "metrics": [
+    {
+      "id": 31,
+      "title": "Percent Fines",
+      "category": "Classification of Ecological or Geological Attribute ",
+      "subcategory": "Form/Morphology",
+      "isIndicator": false
+    },
+    {
+      "id": 36,
+      "title": "Reach Length",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Length/Width/Area",
+      "isIndicator": false
+    },
+    {
+      "id": 36,
+      "title": "Reach Width",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Length/Width/Area",
+      "isIndicator": false
+    },
+    {
+      "id": 37,
+      "title": "Mean Residual Pool Area",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Depth: Pool",
+      "isIndicator": false
+    },
+    {
+      "id": 37,
+      "title": "Mean Residual Pool Vertical Profile Area",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Depth: Pool",
+      "isIndicator": false
+    },
+    {
+      "id": 56,
+      "title": "Fish Species Assemblage Index",
+      "category": "Fish",
+      "subcategory": "Composition: Fish Species Assemblage",
+      "isIndicator": false
+    },
+    {
+      "id": 113,
+      "title": "Macroinvertebrate Multimetric Index",
+      "category": "Macroinvertebrates",
+      "subcategory": "Composition: Macroinvertebrate Species Assemblage",
+      "isIndicator": false
+    },
+    {
+      "id": 116,
+      "title": "Sample Date",
+      "category": "Time",
+      "subcategory": "Date",
+      "isIndicator": false
+    },
+    {
+      "id": 130,
+      "title": "Bank Erosion",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Bank Stability",
+      "isIndicator": false
+    },
+    {
+      "id": 135,
+      "title": "Percent Embeddedness",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Embeddedness",
+      "isIndicator": false
+    },
+    {
+      "id": 218,
+      "title": "GPS Coordinates",
+      "category": "Other",
+      "subcategory": "Location",
+      "isIndicator": false
+    },
+    {
+      "id": 231,
+      "title": "Coniferous Basal Area",
+      "category": "Vegetation/Plants",
+      "subcategory": "Basal Area",
+      "isIndicator": false
+    },
+    {
+      "id": 231,
+      "title": "Deciduous Basal Area",
+      "category": "Vegetation/Plants",
+      "subcategory": "Basal Area",
+      "isIndicator": false
+    },
+    {
+      "id": 232,
+      "title": "Canopy Cover",
+      "category": "Vegetation/Plants",
+      "subcategory": "Density of Vegetation",
+      "isIndicator": false
+    },
+    {
+      "id": 232,
+      "title": "Coniferous Density",
+      "category": "Vegetation/Plants",
+      "subcategory": "Density of Vegetation",
+      "isIndicator": false
+    },
+    {
+      "id": 232,
+      "title": "Deciduous Density",
+      "category": "Vegetation/Plants",
+      "subcategory": "Density of Vegetation",
+      "isIndicator": false
+    },
+    {
+      "id": 348,
+      "title": "Riparian Vegetation Structure",
+      "category": "Vegetation/Plants",
+      "subcategory": "Height of Vegetation/Plant Species",
+      "isIndicator": false
+    },
+    {
+      "id": 367,
+      "title": "Non-native Shrub Cover",
+      "category": "Vegetation/Plants",
+      "subcategory": "Abundance of Invasive Plant Species",
+      "isIndicator": false
+    },
+    {
+      "id": 374,
+      "title": "Log10Volume of LWD",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Density of Instream Wood",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Determine status of macro-invertebrate and fish species assemblages using a multi-metric index for each randomly selected parcel. (Years 3, 6, 9, and 12)",
     "Determine trends in instream, riparian and upland habitat within each randomly selected parcel compared to the baseline year. (Years 3, 6, 9, and 12)",

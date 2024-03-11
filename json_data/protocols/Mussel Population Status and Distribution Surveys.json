@@ -8,6 +8,22 @@
     "http://www.monitoringresources.org/api/v1/methods/6619",
     "http://www.monitoringresources.org/api/v1/methods/6713"
   ],
+  "metrics": [
+    {
+      "id": 293,
+      "title": "Freshwater Mussel Density",
+      "category": "Macroinvertebrates",
+      "subcategory": "Density of Macroinvertebrate Species",
+      "isIndicator": false
+    },
+    {
+      "id": 393,
+      "title": "Freshwater Mussel Presence",
+      "category": "Macroinvertebrates",
+      "subcategory": "Presence/Absence: Macroinvertebrates",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "To determine distribution of freshwater mussel populations by sub-basin, and to evaluate population health and status through mussel specific surveys.  "
   ],

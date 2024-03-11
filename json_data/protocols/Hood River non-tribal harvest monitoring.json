@@ -14,6 +14,57 @@
     "http://www.monitoringresources.org/api/v1/methods/5371",
     "http://www.monitoringresources.org/api/v1/methods/5407"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Harvest of Hood River adult hatchery salmonids as a determining factor in pHOS calculation",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 46,
+      "title": "Adult collection to refine escapement estimate and pHOS",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 48,
+      "title": "Age determination: hatchery Chinook and winter/summer steelhead",
+      "category": "Fish",
+      "subcategory": "Age:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 54,
+      "title": "Harvest Estimate",
+      "category": "Fish",
+      "subcategory": "Catch Per Unit Effort",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Length of harvested hatchery Chinook and winter/summer steelhead",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 203,
+      "title": "Age of harvested spring Chinook and winter/summer steelhead",
+      "category": "Fish",
+      "subcategory": "Scales",
+      "isIndicator": false
+    },
+    {
+      "id": 381,
+      "title": "Hood River creel PIT Tag recovery",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Recovery or Detection",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Combine with escapement estimates to the mouth of the Hood River and adult collection sites within the subbasin (method 5371) to determine the proportion of hatchery origin spawners (method 5407)",
     "Monitor and evaluate harvest goals established by co-managers (ODFW and CTWSRO) of the Hood River Production Program"

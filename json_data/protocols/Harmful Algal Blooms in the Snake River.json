@@ -14,6 +14,36 @@
     "http://www.monitoringresources.org/api/v1/methods/7184",
     "http://www.monitoringresources.org/api/v1/methods/7185"
   ],
+  "metrics": [
+    {
+      "id": 241,
+      "title": "Harmful algae and toxin concentrations",
+      "category": "Water Quality",
+      "subcategory": "Chlorophyll Concentration",
+      "isIndicator": false
+    },
+    {
+      "id": 241,
+      "title": "Harmful algae in water",
+      "category": "Water Quality",
+      "subcategory": "Chlorophyll Concentration",
+      "isIndicator": true
+    },
+    {
+      "id": 436,
+      "title": "Cyanotoxin concentration",
+      "category": "Fish",
+      "subcategory": "Tissue Sample: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 436,
+      "title": "Presence of cyanotoxin in juvenile fall Chinook salmon",
+      "category": "Fish",
+      "subcategory": "Tissue Sample: Fish",
+      "isIndicator": true
+    }
+  ],
   "objectives": [
     "Describe the temporal and spatial distribution of blue-green algae in reservoirs.",
     "Quantify the amount of cyanotoxins in reservoir water both spatially and temporally",

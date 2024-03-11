@@ -9,6 +9,29 @@
     "http://www.monitoringresources.org/api/v1/methods/1451",
     "http://www.monitoringresources.org/api/v1/methods/6575"
   ],
+  "metrics": [
+    {
+      "id": 104,
+      "title": "stream discharge",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Flow",
+      "isIndicator": false
+    },
+    {
+      "id": 162,
+      "title": "Continuous water temperature",
+      "category": "Water Quality",
+      "subcategory": "Water Temperature",
+      "isIndicator": false
+    },
+    {
+      "id": 162,
+      "title": "Maximum Weekly Maximum Water Temperature",
+      "category": "Water Quality",
+      "subcategory": "Water Temperature",
+      "isIndicator": true
+    }
+  ],
   "objectives": [
     "Our objective is to produce a water temperature and stream discharge record to evaluate salmonid spawning and rearing habitat.",
     "Our objective is to collect stream discharge and water temperature information to manage stream flows for salmonids and design effective stream restoration projects."

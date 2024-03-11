@@ -10,6 +10,15 @@
     "http://www.monitoringresources.org/api/v1/methods/1687",
     "http://www.monitoringresources.org/api/v1/methods/4192"
   ],
+  "metrics": [
+    {
+      "id": 162,
+      "title": "Water Temperature",
+      "category": "Water Quality",
+      "subcategory": "Water Temperature",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Use data loggers to collect seasonal water temperature data, at 15-minute intervals, from May-November at 27 locations in the Walla Walla Basin.  "
   ],

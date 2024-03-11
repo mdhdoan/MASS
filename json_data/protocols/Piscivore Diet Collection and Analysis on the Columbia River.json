@@ -9,6 +9,29 @@
     "http://www.monitoringresources.org/api/v1/methods/1455",
     "http://www.monitoringresources.org/api/v1/methods/1456"
   ],
+  "metrics": [
+    {
+      "id": 298,
+      "title": "6 years of walleye and smallmouth bass diets",
+      "category": "Fish",
+      "subcategory": "Diet: Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 298,
+      "title": "Fish Predator Diet Collections",
+      "category": "Fish",
+      "subcategory": "Diet: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 298,
+      "title": "Piscivore consumption rate",
+      "category": "Fish",
+      "subcategory": "Diet: Fish",
+      "isIndicator": true
+    }
+  ],
   "objectives": [
     "Analyze northern pikeminnow, smallmouth bass, and walleye diets to quantify consumption rates on juvenile salmonids above McNary Dam on the Columbia River.",
     "Collect the diets of northern pikeminnow, smallmouth bass, and walleye above McNary Dam on the Columbia River using boat electrofishing or other applicable methodology."

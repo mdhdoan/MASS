@@ -36,6 +36,78 @@
     "http://www.monitoringresources.org/api/v1/methods/6579",
     "http://www.monitoringresources.org/api/v1/methods/6708"
   ],
+  "metrics": [
+    {
+      "id": 48,
+      "title": "Steelhead age",
+      "category": "Fish",
+      "subcategory": "Age:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 62,
+      "title": "Steelhead spawning location",
+      "category": "Fish",
+      "subcategory": "Distribution of Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 68,
+      "title": "Adult steelhead fecundity",
+      "category": "Fish",
+      "subcategory": "Fecundity:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Steelhead length",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 88,
+      "title": "Relative reproductive success of hatchery steelhead",
+      "category": "Fish",
+      "subcategory": "Relative Reproductive Success (RRS)",
+      "isIndicator": true
+    },
+    {
+      "id": 88,
+      "title": "Relative reproductive success of natural-origin steelhead",
+      "category": "Fish",
+      "subcategory": "Relative Reproductive Success (RRS)",
+      "isIndicator": true
+    },
+    {
+      "id": 92,
+      "title": "Adult steelhead sex ratio",
+      "category": "Fish",
+      "subcategory": "Sex Ratio: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 200,
+      "title": "Lipid content",
+      "category": "Fish",
+      "subcategory": "Lipid Content",
+      "isIndicator": false
+    },
+    {
+      "id": 202,
+      "title": "Steelhead origin",
+      "category": "Fish",
+      "subcategory": "Origin",
+      "isIndicator": false
+    },
+    {
+      "id": 206,
+      "title": "Steelhead weight",
+      "category": "Fish",
+      "subcategory": "Weight: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Directly measure the relative reproductive success of hatchery and natural-origin steelhead in the natural environment.",
     "Determine the degree to which any differences in reproductive success between hatchery and natural steelhead can be explained by measurable biological characteristics.",

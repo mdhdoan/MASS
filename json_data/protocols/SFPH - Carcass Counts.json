@@ -12,6 +12,50 @@
     "http://www.monitoringresources.org/api/v1/methods/111",
     "http://www.monitoringresources.org/api/v1/methods/112"
   ],
+  "metrics": [
+    {
+      "id": 49,
+      "title": "Age Structure at Site-level",
+      "category": "Fish",
+      "subcategory": "Age Structure:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 49,
+      "title": "Age Structure at Watershed-level",
+      "category": "Fish",
+      "subcategory": "Age Structure:  Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 72,
+      "title": "Various Types of DNA Analysis at Site-level",
+      "category": "Fish",
+      "subcategory": "Genetics: Fish Diversity, Fitness or Variation",
+      "isIndicator": false
+    },
+    {
+      "id": 92,
+      "title": "Sex Ratio at Site-level",
+      "category": "Fish",
+      "subcategory": "Sex Ratio: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 92,
+      "title": "Sex Ratio at Watershed-level",
+      "category": "Fish",
+      "subcategory": "Sex Ratio: Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 93,
+      "title": "Sex Type at Site-level",
+      "category": "Fish",
+      "subcategory": "Sex Type: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Determine contribution of nutrient amounts to ecosystem.",
     "Recover carcasses in support of mark\u2013recapture and other demographic studies.",

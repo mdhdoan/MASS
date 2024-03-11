@@ -10,6 +10,36 @@
     "http://www.monitoringresources.org/api/v1/methods/4041",
     "http://www.monitoringresources.org/api/v1/methods/4226"
   ],
+  "metrics": [
+    {
+      "id": 75,
+      "title": "Hatchery steelhead length",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 76,
+      "title": "Hatchery steelhead mark assessment",
+      "category": "Fish",
+      "subcategory": "Mark Retention",
+      "isIndicator": false
+    },
+    {
+      "id": 206,
+      "title": "Hatchery steelhead weight",
+      "category": "Fish",
+      "subcategory": "Weight: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 282,
+      "title": "Hatchery steelhead condition factor",
+      "category": "Fish",
+      "subcategory": "Condition Factor",
+      "isIndicator": true
+    }
+  ],
   "objectives": [
     "Collect the data necessary to determine distribution of Hood River stock steelhead by fork length, weight, and condition factor prior to release.  ",
     "Compare biological data collected from fish captured after release (rotary screw trap) to data collected prior to release.    ",

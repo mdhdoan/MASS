@@ -20,6 +20,232 @@
     "http://www.monitoringresources.org/api/v1/methods/6938",
     "http://www.monitoringresources.org/api/v1/methods/6939"
   ],
+  "metrics": [
+    {
+      "id": 30,
+      "title": "Elevation",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Elevation",
+      "isIndicator": false
+    },
+    {
+      "id": 31,
+      "title": "Channel Type",
+      "category": "Classification of Ecological or Geological Attribute ",
+      "subcategory": "Form/Morphology",
+      "isIndicator": false
+    },
+    {
+      "id": 31,
+      "title": "Percent Habitat Type: Pool",
+      "category": "Classification of Ecological or Geological Attribute ",
+      "subcategory": "Form/Morphology",
+      "isIndicator": false
+    },
+    {
+      "id": 31,
+      "title": "Percent Habitat Type: Riffle",
+      "category": "Classification of Ecological or Geological Attribute ",
+      "subcategory": "Form/Morphology",
+      "isIndicator": false
+    },
+    {
+      "id": 31,
+      "title": "Percent Habitat Type: Runs/Glides",
+      "category": "Classification of Ecological or Geological Attribute ",
+      "subcategory": "Form/Morphology",
+      "isIndicator": false
+    },
+    {
+      "id": 36,
+      "title": "Total Length",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Length/Width/Area",
+      "isIndicator": false
+    },
+    {
+      "id": 46,
+      "title": "Fish Count",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 49,
+      "title": "Chinook (Zero, Age One, Adult)",
+      "category": "Fish",
+      "subcategory": "Age Structure:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 59,
+      "title": "Density of anadromous parr",
+      "category": "Fish",
+      "subcategory": "Density of Fish Species",
+      "isIndicator": true
+    },
+    {
+      "id": 62,
+      "title": "Distribution of anadromous parr",
+      "category": "Fish",
+      "subcategory": "Distribution of Fish Species",
+      "isIndicator": true
+    },
+    {
+      "id": 75,
+      "title": "Length Class (in)",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 82,
+      "title": "Occupancy of anadromous parr",
+      "category": "Fish",
+      "subcategory": "Presence/Absence: Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 82,
+      "title": "Detection Probabilityof anadromous parr",
+      "category": "Fish",
+      "subcategory": "Presence/Absence: Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 112,
+      "title": "Mussel Abundance",
+      "category": "Macroinvertebrates",
+      "subcategory": "Abundance of Macroinvertebrates",
+      "isIndicator": false
+    },
+    {
+      "id": 116,
+      "title": "Survey Date",
+      "category": "Time",
+      "subcategory": "Date",
+      "isIndicator": false
+    },
+    {
+      "id": 154,
+      "title": "Conductivity",
+      "category": "Water Quality",
+      "subcategory": "Conductivity",
+      "isIndicator": false
+    },
+    {
+      "id": 161,
+      "title": "Visibility",
+      "category": "Water Quality",
+      "subcategory": "Turbidity",
+      "isIndicator": false
+    },
+    {
+      "id": 162,
+      "title": "Water Temperature",
+      "category": "Water Quality",
+      "subcategory": "Water Temperature",
+      "isIndicator": false
+    },
+    {
+      "id": 218,
+      "title": "Latitude",
+      "category": "Other",
+      "subcategory": "Location",
+      "isIndicator": false
+    },
+    {
+      "id": 218,
+      "title": "Longitude",
+      "category": "Other",
+      "subcategory": "Location",
+      "isIndicator": false
+    },
+    {
+      "id": 218,
+      "title": "Site Name",
+      "category": "Other",
+      "subcategory": "Location",
+      "isIndicator": false
+    },
+    {
+      "id": 218,
+      "title": "Stratum",
+      "category": "Other",
+      "subcategory": "Location",
+      "isIndicator": false
+    },
+    {
+      "id": 218,
+      "title": "Stream Name",
+      "category": "Other",
+      "subcategory": "Location",
+      "isIndicator": false
+    },
+    {
+      "id": 219,
+      "title": "Photos",
+      "category": "Other",
+      "subcategory": "Photo Documentation",
+      "isIndicator": false
+    },
+    {
+      "id": 265,
+      "title": "Weather",
+      "category": "Climate/Weather",
+      "subcategory": "Atmospheric Condition Index",
+      "isIndicator": false
+    },
+    {
+      "id": 356,
+      "title": "Mussel size",
+      "category": "Macroinvertebrates",
+      "subcategory": "Length:  Macroinvertebrate Species",
+      "isIndicator": false
+    },
+    {
+      "id": 381,
+      "title": "Mark Detection",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Recovery or Detection",
+      "isIndicator": false
+    },
+    {
+      "id": 391,
+      "title": "Amphibian Presence",
+      "category": "Amphibians",
+      "subcategory": "Presence/Absence: Amphibians",
+      "isIndicator": false
+    },
+    {
+      "id": 393,
+      "title": "Live Mussels",
+      "category": "Macroinvertebrates",
+      "subcategory": "Presence/Absence: Macroinvertebrates",
+      "isIndicator": false
+    },
+    {
+      "id": 417,
+      "title": "Non Salmonids",
+      "category": "Fish",
+      "subcategory": "Species Type: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 417,
+      "title": "Species: Fish",
+      "category": "Fish",
+      "subcategory": "Species Type: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 418,
+      "title": "Species: Invertebrates",
+      "category": "Macroinvertebrates",
+      "subcategory": "Species Type: Macroinvertebrates",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Estimate anadromous salmonid parr abundance and density, and describe changes over time.",
     "Determine the abundance and spatial distribution of anadromous salmonid parr at the population scale.",

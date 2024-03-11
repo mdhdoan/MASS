@@ -8,6 +8,64 @@
     "http://www.monitoringresources.org/api/v1/methods/3793",
     "http://www.monitoringresources.org/api/v1/methods/6575"
   ],
+  "metrics": [
+    {
+      "id": 3,
+      "title": "Air temperature",
+      "category": "Climate/Weather",
+      "subcategory": "Air Temperature",
+      "isIndicator": false
+    },
+    {
+      "id": 162,
+      "title": "Daily maximum stream temperature",
+      "category": "Water Quality",
+      "subcategory": "Water Temperature",
+      "isIndicator": false
+    },
+    {
+      "id": 162,
+      "title": "Daily mean temperature",
+      "category": "Water Quality",
+      "subcategory": "Water Temperature",
+      "isIndicator": false
+    },
+    {
+      "id": 162,
+      "title": "Daily minimum stream temperature",
+      "category": "Water Quality",
+      "subcategory": "Water Temperature",
+      "isIndicator": false
+    },
+    {
+      "id": 162,
+      "title": "Monthly mean of daily maximum stream temperature",
+      "category": "Water Quality",
+      "subcategory": "Water Temperature",
+      "isIndicator": true
+    },
+    {
+      "id": 162,
+      "title": "Monthly mean of daily mean stream temperature",
+      "category": "Water Quality",
+      "subcategory": "Water Temperature",
+      "isIndicator": true
+    },
+    {
+      "id": 162,
+      "title": "Percent time stream temperature exceeds a threshold value",
+      "category": "Water Quality",
+      "subcategory": "Water Temperature",
+      "isIndicator": true
+    },
+    {
+      "id": 162,
+      "title": "Stream temperature",
+      "category": "Water Quality",
+      "subcategory": "Water Temperature",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Track changes in water temperature metrics over time to evaluate if restoration actions implemented in mainstem habitats are improving summer rearing thermal conditions for trout.",
     "Monitor surface stream temperatures throughout the year in both tributary and mainstem reaches to provide profiles of continuous water temperature.",

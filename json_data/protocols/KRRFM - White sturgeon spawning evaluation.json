@@ -8,6 +8,29 @@
     "http://www.monitoringresources.org/api/v1/methods/993",
     "http://www.monitoringresources.org/api/v1/methods/4040"
   ],
+  "metrics": [
+    {
+      "id": 88,
+      "title": "Egg hatching success and recruitment failure hypotheses",
+      "category": "Fish",
+      "subcategory": "Relative Reproductive Success (RRS)",
+      "isIndicator": false
+    },
+    {
+      "id": 89,
+      "title": "Upstream extent of egg collections",
+      "category": "Fish",
+      "subcategory": "Reproductive Success (Nb/N)",
+      "isIndicator": true
+    },
+    {
+      "id": 507,
+      "title": "Determine spatial and temporal distribution of spawning events",
+      "category": "Fish",
+      "subcategory": "Spawning/Nesting",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Restore natural recruitment of Kootenai River white sturgeon"
   ],

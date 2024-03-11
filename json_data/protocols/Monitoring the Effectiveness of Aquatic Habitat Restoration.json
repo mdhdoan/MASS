@@ -15,6 +15,36 @@
     "http://www.monitoringresources.org/api/v1/methods/3881",
     "http://www.monitoringresources.org/api/v1/methods/3937"
   ],
+  "metrics": [
+    {
+      "id": 149,
+      "title": "Riparian Cover and Composition",
+      "category": "Vegetation/Plants",
+      "subcategory": "Composition: Vegetative Species Assemblage",
+      "isIndicator": false
+    },
+    {
+      "id": 161,
+      "title": "turbidity, monthly and storm event grab samples",
+      "category": "Water Quality",
+      "subcategory": "Turbidity",
+      "isIndicator": true
+    },
+    {
+      "id": 162,
+      "title": "water temperature, 15 minute intervals",
+      "category": "Water Quality",
+      "subcategory": "Water Temperature",
+      "isIndicator": true
+    },
+    {
+      "id": 336,
+      "title": "stream flow data, 15 minute intervals",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Gauge",
+      "isIndicator": true
+    }
+  ],
   "objectives": [
     "Survey riparian transects above, within, and below the project area before and after project implementation. ",
     "Collect turbidity data during rain/storm/high flow events and associated stream flow measurements before and after project implementation. ",

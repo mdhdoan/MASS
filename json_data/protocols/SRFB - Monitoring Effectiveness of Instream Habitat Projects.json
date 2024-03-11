@@ -16,6 +16,92 @@
     "http://www.monitoringresources.org/api/v1/methods/293",
     "http://www.monitoringresources.org/api/v1/methods/905"
   ],
+  "metrics": [
+    {
+      "id": 36,
+      "title": "Mean Residual Pool Area",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Length/Width/Area",
+      "isIndicator": false
+    },
+    {
+      "id": 36,
+      "title": "Mean Residual Pool Vertical Profile Area",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Length/Width/Area",
+      "isIndicator": false
+    },
+    {
+      "id": 36,
+      "title": "Reach Length",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Length/Width/Area",
+      "isIndicator": false
+    },
+    {
+      "id": 36,
+      "title": "Reach Width",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Length/Width/Area",
+      "isIndicator": false
+    },
+    {
+      "id": 37,
+      "title": "Average Maximum Pool Depth",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Depth: Pool",
+      "isIndicator": false
+    },
+    {
+      "id": 37,
+      "title": "Average Pool Tail Crest Depth",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Depth: Pool",
+      "isIndicator": false
+    },
+    {
+      "id": 59,
+      "title": "Juvenile Fish Density",
+      "category": "Fish",
+      "subcategory": "Density of Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 116,
+      "title": "Sample Date",
+      "category": "Time",
+      "subcategory": "Date",
+      "isIndicator": false
+    },
+    {
+      "id": 195,
+      "title": "Difference in Size between Measured and Estimated LWD",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Size: Wood Structure",
+      "isIndicator": false
+    },
+    {
+      "id": 195,
+      "title": "Log10 of Volume of LWD",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Size: Wood Structure",
+      "isIndicator": false
+    },
+    {
+      "id": 218,
+      "title": "GPS Coordinates",
+      "category": "Other",
+      "subcategory": "Location",
+      "isIndicator": false
+    },
+    {
+      "id": 459,
+      "title": "Number of AIS",
+      "category": "Disturbance/Restoration",
+      "subcategory": "Abundance of Disturbance or Restoration ",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Determine the numbers of juveniles of the target salmon species within the control and impact reaches for the sampled instream structure projects. (Years 1, 3, 5, and 10)",
     "Determine the Thalweg Profile in the control and impact reaches for the sampled instream structure projects. (Years 1, 3, 5, and 10)",

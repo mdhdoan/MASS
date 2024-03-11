@@ -10,6 +10,36 @@
     "http://www.monitoringresources.org/api/v1/methods/5540",
     "http://www.monitoringresources.org/api/v1/methods/6588"
   ],
+  "metrics": [
+    {
+      "id": 48,
+      "title": "Age Structure",
+      "category": "Fish",
+      "subcategory": "Age:  Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 96,
+      "title": "Stray Rate",
+      "category": "Fish",
+      "subcategory": "Stray Rate",
+      "isIndicator": true
+    },
+    {
+      "id": 99,
+      "title": "Smolt to Adult Return",
+      "category": "Fish",
+      "subcategory": "Survival Rate: Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 381,
+      "title": "Determine Coded Wire Tag Number",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Recovery or Detection",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Extract and recover coded wire tag from Colville Tribes hatchery ladder, weir, purse seine, spawning ground and creel survey's to monitor the stray rate of hatchery origin fish into the Okanogan Basin",
     "Estimate Smolt-to-Adult Rate (SARs)\r\nAge Structure of Adult Returns\r\nIn-To-Basin Stray Rate\r\n"

@@ -8,6 +8,71 @@
     "http://www.monitoringresources.org/api/v1/methods/6591",
     "http://www.monitoringresources.org/api/v1/methods/6593"
   ],
+  "metrics": [
+    {
+      "id": 149,
+      "title": "Morphological Groups",
+      "category": "Vegetation/Plants",
+      "subcategory": "Composition: Vegetative Species Assemblage",
+      "isIndicator": false
+    },
+    {
+      "id": 149,
+      "title": "Species Richness",
+      "category": "Vegetation/Plants",
+      "subcategory": "Composition: Vegetative Species Assemblage",
+      "isIndicator": false
+    },
+    {
+      "id": 149,
+      "title": "Wetland Indicator Status",
+      "category": "Vegetation/Plants",
+      "subcategory": "Composition: Vegetative Species Assemblage",
+      "isIndicator": false
+    },
+    {
+      "id": 237,
+      "title": "Vegetative Cover",
+      "category": "Vegetation/Plants",
+      "subcategory": "Presence/Absence: Plants",
+      "isIndicator": false
+    },
+    {
+      "id": 261,
+      "title": "Stems Browsed vs. Non-Browsed",
+      "category": "Vegetation/Plants",
+      "subcategory": "Predation Rate: Plants",
+      "isIndicator": false
+    },
+    {
+      "id": 261,
+      "title": "Stems per Parent",
+      "category": "Vegetation/Plants",
+      "subcategory": "Predation Rate: Plants",
+      "isIndicator": false
+    },
+    {
+      "id": 261,
+      "title": "Stem Density",
+      "category": "Vegetation/Plants",
+      "subcategory": "Predation Rate: Plants",
+      "isIndicator": false
+    },
+    {
+      "id": 367,
+      "title": "Invasives",
+      "category": "Vegetation/Plants",
+      "subcategory": "Abundance of Invasive Plant Species",
+      "isIndicator": false
+    },
+    {
+      "id": 503,
+      "title": "Stems Alive vs. Dead",
+      "category": "Vegetation/Plants",
+      "subcategory": "Survival Rate: Plants",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Species-level vegetation surveys will help describe the effects of beaver dams and beaver browse on floodplain vegetation composition, abundance, and biodiversity.",
     "Monitoring will also track beaver utilization of riparian vegetation.",

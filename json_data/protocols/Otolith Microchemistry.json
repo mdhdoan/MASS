@@ -8,6 +8,15 @@
     "http://www.monitoringresources.org/api/v1/methods/6610",
     "http://www.monitoringresources.org/api/v1/methods/6613"
   ],
+  "metrics": [
+    {
+      "id": 202,
+      "title": "Microchemistry",
+      "category": "Fish",
+      "subcategory": "Origin",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Use otolith micro chemistry to determine Northern Pike origin and general movements"
   ],

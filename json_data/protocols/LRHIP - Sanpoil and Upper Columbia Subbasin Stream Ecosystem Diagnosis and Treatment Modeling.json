@@ -7,6 +7,15 @@
   "methods": [
     "http://www.monitoringresources.org/api/v1/methods/3973"
   ],
+  "metrics": [
+    {
+      "id": 457,
+      "title": "Habitat Potential",
+      "category": "Disturbance/Restoration",
+      "subcategory": "Area of Disturbance or Restoration",
+      "isIndicator": true
+    }
+  ],
   "objectives": [
     "Model current habitat condition, habitat capacity, and potential fish production in Sanpoil and Upper Columbia Subbasin streams in reference to historical and potential restored habitat conditions. "
   ],

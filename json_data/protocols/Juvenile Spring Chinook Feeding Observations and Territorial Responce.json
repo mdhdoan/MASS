@@ -9,6 +9,43 @@
     "http://www.monitoringresources.org/api/v1/methods/1686",
     "http://www.monitoringresources.org/api/v1/methods/6688"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Abundance of Fish",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 104,
+      "title": "Flow",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Flow",
+      "isIndicator": false
+    },
+    {
+      "id": 121,
+      "title": "Feeding Duration",
+      "category": "Time",
+      "subcategory": "Time: Duration",
+      "isIndicator": false
+    },
+    {
+      "id": 162,
+      "title": "Temperature",
+      "category": "Water Quality",
+      "subcategory": "Water Temperature",
+      "isIndicator": false
+    },
+    {
+      "id": 249,
+      "title": "Competition",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish Competitors",
+      "isIndicator": true
+    }
+  ],
   "objectives": [
     "Identify specific factors that are limiting Chinook productivity on a reach scale."
   ],

@@ -13,6 +13,85 @@
     "http://www.monitoringresources.org/api/v1/methods/6783",
     "http://www.monitoringresources.org/api/v1/methods/6784"
   ],
+  "metrics": [
+    {
+      "id": 25,
+      "title": "LWD Distribution",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Distribution of Instream Wood",
+      "isIndicator": false
+    },
+    {
+      "id": 39,
+      "title": "Undercut Banks",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Species Cover",
+      "isIndicator": false
+    },
+    {
+      "id": 44,
+      "title": "Bankfull Width",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Width: Bankfull ",
+      "isIndicator": false
+    },
+    {
+      "id": 45,
+      "title": "Wetted Width",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Width: Wetted",
+      "isIndicator": false
+    },
+    {
+      "id": 132,
+      "title": "Substrate Composition",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Composition: Substrate/Soil-Dominant Size",
+      "isIndicator": false
+    },
+    {
+      "id": 154,
+      "title": "Conductivity",
+      "category": "Water Quality",
+      "subcategory": "Conductivity",
+      "isIndicator": false
+    },
+    {
+      "id": 158,
+      "title": "pH",
+      "category": "Water Quality",
+      "subcategory": "pH",
+      "isIndicator": false
+    },
+    {
+      "id": 191,
+      "title": "Flood Prone Width",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Width: Flood Prone",
+      "isIndicator": false
+    },
+    {
+      "id": 440,
+      "title": "Pool Habitat Distribution",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Distribution of Habitat Type",
+      "isIndicator": false
+    },
+    {
+      "id": 440,
+      "title": "Riffle Habitat Distribution",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Distribution of Habitat Type",
+      "isIndicator": false
+    },
+    {
+      "id": 440,
+      "title": "Run/Glide Habitat Distribution",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Distribution of Habitat Type",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Provide coarse-scale assessment of current salmonid habitat conditions within study site."
   ],

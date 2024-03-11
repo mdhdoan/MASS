@@ -21,6 +21,43 @@
     "http://www.monitoringresources.org/api/v1/methods/5298",
     "http://www.monitoringresources.org/api/v1/methods/5299"
   ],
+  "metrics": [
+    {
+      "id": 47,
+      "title": "Abundance of smallmouth bass in Hells Canyon",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish Predators",
+      "isIndicator": false
+    },
+    {
+      "id": 81,
+      "title": "Loss of juvenile fall Chinook to smallmouth bass predation",
+      "category": "Fish",
+      "subcategory": "Predation Rate: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 84,
+      "title": "Diet composition of smallmouth bass",
+      "category": "Fish",
+      "subcategory": "Prey Indices: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 201,
+      "title": "Smallmouth bass tagging",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Application",
+      "isIndicator": false
+    },
+    {
+      "id": 381,
+      "title": "Smallmouth bass recapture",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Recovery or Detection",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Estimate loss of juvenile fall Chinook salmon to smallmouth bass predation in the Hells Canyon reach of the Snake River"
   ],

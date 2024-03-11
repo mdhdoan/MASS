@@ -14,6 +14,92 @@
     "http://www.monitoringresources.org/api/v1/methods/5437",
     "http://www.monitoringresources.org/api/v1/methods/5445"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Total hatchery origin steelhead at Catherine Creek, upper Grande Ronde River and Lookingglass weirs",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 46,
+      "title": "Natural Origin Spawner Abundance (NOSA)",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 46,
+      "title": "Total Spawner Abundance (TSA)",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 46,
+      "title": "Expanded steelhead at each site",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 46,
+      "title": "proportion Hatchery Origin Spawners (PHOS)",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 46,
+      "title": "Sample (site) weight",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 46,
+      "title": "Total Steelhead at Catherine Creek weir",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 46,
+      "title": "Total steelhead at Catherine Creek, upper Grande Ronde, and Lookingglass Creek weirs",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 46,
+      "title": "Total steelhead at lookingglass weir",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 46,
+      "title": "Total steelhead at upper Grande Ronde weir",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 507,
+      "title": "Fish per redd",
+      "category": "Fish",
+      "subcategory": "Spawning/Nesting",
+      "isIndicator": false
+    },
+    {
+      "id": 507,
+      "title": "Redd density (redds/km) at each site",
+      "category": "Fish",
+      "subcategory": "Spawning/Nesting",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "To provide natural origin spawner abundance estimates to NOAA, allowing them to assess the current status of the population.\r\n",
     "To provide accurate and up to date metric and indicator data for salmon and steelhead in the Columbia Basin to users via a data exchange network and web applications."

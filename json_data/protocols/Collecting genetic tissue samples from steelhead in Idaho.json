@@ -7,6 +7,15 @@
   "methods": [
     "http://www.monitoringresources.org/api/v1/methods/303"
   ],
+  "metrics": [
+    {
+      "id": 72,
+      "title": "Collection of tissue samples for genetic analysis",
+      "category": "Fish",
+      "subcategory": "Genetics: Fish Diversity, Fitness or Variation",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Monitor temporal and spatial genetic patterns of steelhead populations in Idaho."
   ],

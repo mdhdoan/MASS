@@ -19,6 +19,106 @@
     "http://www.monitoringresources.org/api/v1/methods/3933",
     "http://www.monitoringresources.org/api/v1/methods/3937"
   ],
+  "metrics": [
+    {
+      "id": 127,
+      "title": "Porportion of toxigenic cyanobacteria",
+      "category": "Plankton",
+      "subcategory": "Composition: Plankton Assemblage",
+      "isIndicator": false
+    },
+    {
+      "id": 127,
+      "title": "Porprotion of edible phytoplankton",
+      "category": "Plankton",
+      "subcategory": "Composition: Plankton Assemblage",
+      "isIndicator": false
+    },
+    {
+      "id": 155,
+      "title": "DO profiles",
+      "category": "Water Quality",
+      "subcategory": "Dissolved Gas Concentration (By Gas)",
+      "isIndicator": false
+    },
+    {
+      "id": 157,
+      "title": "Nitrogen concentration",
+      "category": "Water Quality",
+      "subcategory": "Nitrogen",
+      "isIndicator": false
+    },
+    {
+      "id": 159,
+      "title": "Phosporus concentration",
+      "category": "Water Quality",
+      "subcategory": "Phosphorus",
+      "isIndicator": false
+    },
+    {
+      "id": 161,
+      "title": "Water clarity",
+      "category": "Water Quality",
+      "subcategory": "Turbidity",
+      "isIndicator": false
+    },
+    {
+      "id": 162,
+      "title": "Temperature profiles",
+      "category": "Water Quality",
+      "subcategory": "Water Temperature",
+      "isIndicator": false
+    },
+    {
+      "id": 241,
+      "title": "Chlorophyll",
+      "category": "Water Quality",
+      "subcategory": "Chlorophyll Concentration",
+      "isIndicator": false
+    },
+    {
+      "id": 295,
+      "title": "Phytoplankton density",
+      "category": "Plankton",
+      "subcategory": "Density of Plankton Species",
+      "isIndicator": false
+    },
+    {
+      "id": 295,
+      "title": "Picoplankton density",
+      "category": "Plankton",
+      "subcategory": "Density of Plankton Species",
+      "isIndicator": false
+    },
+    {
+      "id": 295,
+      "title": "Zooplankton density",
+      "category": "Plankton",
+      "subcategory": "Density of Plankton Species",
+      "isIndicator": false
+    },
+    {
+      "id": 415,
+      "title": "Daphnia length",
+      "category": "Plankton",
+      "subcategory": "Length: Plankton Species",
+      "isIndicator": false
+    },
+    {
+      "id": 455,
+      "title": "Daphnia biomass",
+      "category": "Plankton",
+      "subcategory": "Weight: Plankton",
+      "isIndicator": false
+    },
+    {
+      "id": 484,
+      "title": "Primary production rates",
+      "category": "Plankton",
+      "subcategory": "Productivity: Plankton",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Provide an assessment of the effects of nutrient restoration on the productivity, food web and limnological characteristics of Dworshak Reservoir.",
     "Provide data for the adaptive management of nutrient applications in season.",

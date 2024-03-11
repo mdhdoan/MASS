@@ -8,6 +8,22 @@
     "http://www.monitoringresources.org/api/v1/methods/1100",
     "http://www.monitoringresources.org/api/v1/methods/1101"
   ],
+  "metrics": [
+    {
+      "id": 112,
+      "title": "Immature and adult mysid abundance",
+      "category": "Macroinvertebrates",
+      "subcategory": "Abundance of Macroinvertebrates",
+      "isIndicator": false
+    },
+    {
+      "id": 112,
+      "title": "Mysid Abundance",
+      "category": "Macroinvertebrates",
+      "subcategory": "Abundance of Macroinvertebrates",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Estimate mysid densities."
   ],

@@ -9,6 +9,43 @@
     "http://www.monitoringresources.org/api/v1/methods/395",
     "http://www.monitoringresources.org/api/v1/methods/485"
   ],
+  "metrics": [
+    {
+      "id": 97,
+      "title": "Juvenile Survival to all Mainstem Dams",
+      "category": "Fish",
+      "subcategory": "Survival: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 97,
+      "title": "Juvenile Survival to First Mainstem Dam",
+      "category": "Fish",
+      "subcategory": "Survival: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 99,
+      "title": "Smolt to Adult Survival",
+      "category": "Fish",
+      "subcategory": "Survival Rate: Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 101,
+      "title": "Adult Run-Timing",
+      "category": "Fish",
+      "subcategory": "Timing of Life Stage: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 101,
+      "title": "Mainstem Arrival Timing",
+      "category": "Fish",
+      "subcategory": "Timing of Life Stage: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Estimate survival (smolt to smolt, smolt to adult) and travel time for the natural-origin and hatchery-origin Okanogan Chinook salmon using PIT tags. \r\n\r\n ",
     " Monitor adult run timing at Bonneville"

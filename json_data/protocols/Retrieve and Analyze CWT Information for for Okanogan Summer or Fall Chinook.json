@@ -9,6 +9,29 @@
     "http://www.monitoringresources.org/api/v1/methods/5541",
     "http://www.monitoringresources.org/api/v1/methods/5542"
   ],
+  "metrics": [
+    {
+      "id": 96,
+      "title": "In-to-Basin Stray Rate",
+      "category": "Fish",
+      "subcategory": "Stray Rate",
+      "isIndicator": true
+    },
+    {
+      "id": 96,
+      "title": "Out-of-Basin Stray Contribution to other Spawning Populations",
+      "category": "Fish",
+      "subcategory": "Stray Rate",
+      "isIndicator": true
+    },
+    {
+      "id": 96,
+      "title": "Out-of-Basin Stray Rate",
+      "category": "Fish",
+      "subcategory": "Stray Rate",
+      "isIndicator": true
+    }
+  ],
   "objectives": [
     "Examine, through analysis of cwt data, life history patterns of hatchery-origin summer/fall Chinook Salmon, specifically homing and stray rates to and from the Okanogan River Basin."
   ],

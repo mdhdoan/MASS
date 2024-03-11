@@ -23,6 +23,71 @@
     "http://www.monitoringresources.org/api/v1/methods/5298",
     "http://www.monitoringresources.org/api/v1/methods/5299"
   ],
+  "metrics": [
+    {
+      "id": 47,
+      "title": "Smallmouth bass abundance",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish Predators",
+      "isIndicator": false
+    },
+    {
+      "id": 54,
+      "title": "CPUE",
+      "category": "Fish",
+      "subcategory": "Catch Per Unit Effort",
+      "isIndicator": false
+    },
+    {
+      "id": 69,
+      "title": "Stable isotopes",
+      "category": "Fish",
+      "subcategory": "Food Web Interaction: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 81,
+      "title": "Smallmouth bass predation rate",
+      "category": "Fish",
+      "subcategory": "Predation Rate: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 112,
+      "title": "Count of macroinvertebrates",
+      "category": "Macroinvertebrates",
+      "subcategory": "Abundance of Macroinvertebrates",
+      "isIndicator": false
+    },
+    {
+      "id": 201,
+      "title": "Smallmouth bass tagging",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Application",
+      "isIndicator": false
+    },
+    {
+      "id": 298,
+      "title": "Channel catfish diet",
+      "category": "Fish",
+      "subcategory": "Diet: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 298,
+      "title": "Smallmouth bass diet",
+      "category": "Fish",
+      "subcategory": "Diet: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 381,
+      "title": "Smallmouth bass recapture",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Recovery or Detection",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Estimate the annual loss of subyearlings to smallmouth bass predation in the upper portion of Lower Granite Reservoir. Document the relative consumption of subyearlings by channel catfish."
   ],

@@ -36,6 +36,127 @@
     "http://www.monitoringresources.org/api/v1/methods/5450",
     "http://www.monitoringresources.org/api/v1/methods/5471"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Smolt Abundance",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 46,
+      "title": "Hatchery Fraction",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 46,
+      "title": "Natural Origin Spawner Abundance (NOSA)",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 48,
+      "title": "Smolt Age",
+      "category": "Fish",
+      "subcategory": "Age:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 48,
+      "title": "Adult Freshwater Age",
+      "category": "Fish",
+      "subcategory": "Age:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 48,
+      "title": "Adult Total Age",
+      "category": "Fish",
+      "subcategory": "Age:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 57,
+      "title": "Fish Condition",
+      "category": "Fish",
+      "subcategory": "Condition of Life Stage:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Smolt lengths",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Adult lengths",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 77,
+      "title": "Smolt Migration",
+      "category": "Fish",
+      "subcategory": "Migration Pathways: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 77,
+      "title": "Adult Migration",
+      "category": "Fish",
+      "subcategory": "Migration Pathways: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 86,
+      "title": "Smolt to Adult Return Rate",
+      "category": "Fish",
+      "subcategory": "Progeny-per-Parent Ratio (P:P) (Productivity)",
+      "isIndicator": false
+    },
+    {
+      "id": 86,
+      "title": "smolts-per-spawner",
+      "category": "Fish",
+      "subcategory": "Progeny-per-Parent Ratio (P:P) (Productivity)",
+      "isIndicator": false
+    },
+    {
+      "id": 163,
+      "title": "Recruits-per-spawner",
+      "category": "Fish",
+      "subcategory": "Productivity:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 206,
+      "title": "Smolt Weight",
+      "category": "Fish",
+      "subcategory": "Weight: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 206,
+      "title": "Adult Weight",
+      "category": "Fish",
+      "subcategory": "Weight: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 507,
+      "title": "Incidence of Repeat Spawning (Iteroparity)",
+      "category": "Fish",
+      "subcategory": "Spawning/Nesting",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Determine population dynamics for Fifteenmile Creek steelhead",
     "Determine life history characteristics (through metrics associated with life history attributes)",

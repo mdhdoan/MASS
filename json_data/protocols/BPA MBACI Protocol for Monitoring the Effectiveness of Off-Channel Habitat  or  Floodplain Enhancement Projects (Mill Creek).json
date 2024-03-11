@@ -52,6 +52,344 @@
     "http://www.monitoringresources.org/api/v1/methods/5275",
     "http://www.monitoringresources.org/api/v1/methods/5276"
   ],
+  "metrics": [
+    {
+      "id": 15,
+      "title": "Channel Units",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Abundance of Habitat Types",
+      "isIndicator": false
+    },
+    {
+      "id": 21,
+      "title": "Habitat Type Area Dist- Fast, slow, edge/backh2o vs. tot. chan..",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Density of Habitat Type",
+      "isIndicator": true
+    },
+    {
+      "id": 29,
+      "title": "Channel Migration Rate- Latterell 2012",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Edge/Density/Sinuosity",
+      "isIndicator": true
+    },
+    {
+      "id": 29,
+      "title": "Braid Channel Ratio - Side Channel length/main channel length",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Edge/Density/Sinuosity",
+      "isIndicator": true
+    },
+    {
+      "id": 29,
+      "title": "Complexity _ River Complexity Index -Brown 2002",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Edge/Density/Sinuosity",
+      "isIndicator": true
+    },
+    {
+      "id": 29,
+      "title": "Sinuosity Changes",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Edge/Density/Sinuosity",
+      "isIndicator": false
+    },
+    {
+      "id": 30,
+      "title": "Height of Constraining Feature",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Elevation",
+      "isIndicator": false
+    },
+    {
+      "id": 31,
+      "title": "Constraining Feature Type",
+      "category": "Classification of Ecological or Geological Attribute ",
+      "subcategory": "Form/Morphology",
+      "isIndicator": false
+    },
+    {
+      "id": 31,
+      "title": "Channel Type",
+      "category": "Classification of Ecological or Geological Attribute ",
+      "subcategory": "Form/Morphology",
+      "isIndicator": false
+    },
+    {
+      "id": 31,
+      "title": "Channel Capacity",
+      "category": "Classification of Ecological or Geological Attribute ",
+      "subcategory": "Form/Morphology",
+      "isIndicator": false
+    },
+    {
+      "id": 31,
+      "title": "Valley Type",
+      "category": "Classification of Ecological or Geological Attribute ",
+      "subcategory": "Form/Morphology",
+      "isIndicator": false
+    },
+    {
+      "id": 32,
+      "title": "Variation in Thalweg profile",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Gradient",
+      "isIndicator": true
+    },
+    {
+      "id": 36,
+      "title": "Floodplain Inundation Index-Floodplain Area/Channel Length",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Length/Width/Area",
+      "isIndicator": true
+    },
+    {
+      "id": 36,
+      "title": "Ratio of Floodplain Area to Channel Area",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Length/Width/Area",
+      "isIndicator": true
+    },
+    {
+      "id": 36,
+      "title": "Variation in Channel Widths - histogram of channel widths",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Length/Width/Area",
+      "isIndicator": true
+    },
+    {
+      "id": 36,
+      "title": "Proportion of Edge Water Habitat <0.15 ft/sec, <0.61 m",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Length/Width/Area",
+      "isIndicator": true
+    },
+    {
+      "id": 36,
+      "title": "Reach Length",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Length/Width/Area",
+      "isIndicator": false
+    },
+    {
+      "id": 36,
+      "title": "Reach Width",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Length/Width/Area",
+      "isIndicator": false
+    },
+    {
+      "id": 36,
+      "title": "Valley Width",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Length/Width/Area",
+      "isIndicator": false
+    },
+    {
+      "id": 37,
+      "title": "Average Maximum Pool Depth",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Depth: Pool",
+      "isIndicator": false
+    },
+    {
+      "id": 37,
+      "title": "Average Pool Tail Crest Depth",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Depth: Pool",
+      "isIndicator": false
+    },
+    {
+      "id": 37,
+      "title": "Mean Residual Pool Depth",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Depth: Pool",
+      "isIndicator": false
+    },
+    {
+      "id": 43,
+      "title": "Bankfull Width to Depth Ratio",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Width to Depth Ratio",
+      "isIndicator": false
+    },
+    {
+      "id": 44,
+      "title": "Bankfull Width (RBT)",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Width: Bankfull ",
+      "isIndicator": false
+    },
+    {
+      "id": 44,
+      "title": "Bankfull Width (XbfWidth)",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Width: Bankfull ",
+      "isIndicator": false
+    },
+    {
+      "id": 104,
+      "title": "Stream Discharge",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Flow",
+      "isIndicator": false
+    },
+    {
+      "id": 116,
+      "title": "Sample Date",
+      "category": "Time",
+      "subcategory": "Date",
+      "isIndicator": false
+    },
+    {
+      "id": 132,
+      "title": "D16, D50, D84 Particle Size",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Composition: Substrate/Soil-Dominant Size",
+      "isIndicator": false
+    },
+    {
+      "id": 133,
+      "title": "Substrate Composition",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Composition: Substrate/Soil-Dominant Type",
+      "isIndicator": false
+    },
+    {
+      "id": 135,
+      "title": "Cobble Embeddedness",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Embeddedness",
+      "isIndicator": false
+    },
+    {
+      "id": 188,
+      "title": "Bankfull Height",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Depth/Height: Bankfull ",
+      "isIndicator": false
+    },
+    {
+      "id": 191,
+      "title": "Average Flood Prone Width",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Width: Flood Prone",
+      "isIndicator": false
+    },
+    {
+      "id": 195,
+      "title": "Log10 of Volume of LWD",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Size: Wood Structure",
+      "isIndicator": false
+    },
+    {
+      "id": 218,
+      "title": "GPS Coordinates",
+      "category": "Other",
+      "subcategory": "Location",
+      "isIndicator": false
+    },
+    {
+      "id": 311,
+      "title": "Species Composition - benthic macroinvertebrates",
+      "category": "Macroinvertebrates",
+      "subcategory": "Diversity of Macroinvertebrates:  Change",
+      "isIndicator": true
+    },
+    {
+      "id": 369,
+      "title": "Mean Residual Pool Vertical Profile Area",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Aquatic or Floodplain Geomorphology:  Area",
+      "isIndicator": false
+    },
+    {
+      "id": 369,
+      "title": "Pool/Riffle Ratio",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Aquatic or Floodplain Geomorphology:  Area",
+      "isIndicator": false
+    },
+    {
+      "id": 374,
+      "title": "LWD Frequency",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Density of Instream Wood",
+      "isIndicator": false
+    },
+    {
+      "id": 374,
+      "title": "LWD Volume",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Density of Instream Wood",
+      "isIndicator": false
+    },
+    {
+      "id": 407,
+      "title": "Area of New Habitat Created",
+      "category": "Disturbance/Restoration",
+      "subcategory": "Restoration Action",
+      "isIndicator": false
+    },
+    {
+      "id": 407,
+      "title": "Constraint Removed",
+      "category": "Disturbance/Restoration",
+      "subcategory": "Restoration Action",
+      "isIndicator": false
+    },
+    {
+      "id": 407,
+      "title": "Volume of New Habitat Created",
+      "category": "Disturbance/Restoration",
+      "subcategory": "Restoration Action",
+      "isIndicator": false
+    },
+    {
+      "id": 459,
+      "title": "Percent Constrained",
+      "category": "Disturbance/Restoration",
+      "subcategory": "Abundance of Disturbance or Restoration ",
+      "isIndicator": false
+    },
+    {
+      "id": 504,
+      "title": "Number of Key Pieces",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Abundance of Instream Wood Structures",
+      "isIndicator": false
+    },
+    {
+      "id": 504,
+      "title": "Number of Pieces by Channel Location",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Abundance of Instream Wood Structures",
+      "isIndicator": false
+    },
+    {
+      "id": 504,
+      "title": "Number of Pieces of Large Woody Debris",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Abundance of Instream Wood Structures",
+      "isIndicator": false
+    },
+    {
+      "id": 504,
+      "title": "Number of Pieces Part of a Log Jam",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Abundance of Instream Wood Structures",
+      "isIndicator": false
+    },
+    {
+      "id": 504,
+      "title": "Number of Pool Forming Wood Pieces",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Abundance of Instream Wood Structures",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Determine the pre-project topography of the floodplain and channel bed (Year-1 and 0)",
     "Map habitat area by habitat type (turbulent, non-turbulent, edge) (Years -1, 0, 1, 3, 5, and 10)",

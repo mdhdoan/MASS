@@ -19,6 +19,36 @@
     "http://www.monitoringresources.org/api/v1/methods/4002",
     "http://www.monitoringresources.org/api/v1/methods/5446"
   ],
+  "metrics": [
+    {
+      "id": 65,
+      "title": "Effective population size",
+      "category": "Fish",
+      "subcategory": "Effective Population Size",
+      "isIndicator": true
+    },
+    {
+      "id": 72,
+      "title": "Genetic diversity measured with microsatellite or SNP loci",
+      "category": "Fish",
+      "subcategory": "Genetics: Fish Diversity, Fitness or Variation",
+      "isIndicator": true
+    },
+    {
+      "id": 72,
+      "title": "Genetic structure of populations",
+      "category": "Fish",
+      "subcategory": "Genetics: Fish Diversity, Fitness or Variation",
+      "isIndicator": true
+    },
+    {
+      "id": 72,
+      "title": "Temporal estimates of genetic diversity",
+      "category": "Fish",
+      "subcategory": "Genetics: Fish Diversity, Fitness or Variation",
+      "isIndicator": true
+    }
+  ],
   "objectives": [
     "Determine the degree to which supplemented populations affect nonsupplemented populations of Chinook and steelhead",
     "Monitor population genetic relationships within and among populations of Chinook salmon and steelhead in the Snake River Basin"

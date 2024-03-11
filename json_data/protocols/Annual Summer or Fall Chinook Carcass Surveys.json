@@ -25,6 +25,141 @@
     "http://www.monitoringresources.org/api/v1/methods/6747",
     "http://www.monitoringresources.org/api/v1/methods/6748"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Total Hatchery-Origin Spawners (HOS)",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 46,
+      "title": "Total Natural-Origin Spawners (NOS)",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 62,
+      "title": "In to Basin Hatchery Origin Stray Rate",
+      "category": "Fish",
+      "subcategory": "Distribution of Fish Species",
+      "isIndicator": true
+    },
+    {
+      "id": 62,
+      "title": "Spatial Distribution of Species",
+      "category": "Fish",
+      "subcategory": "Distribution of Fish Species",
+      "isIndicator": true
+    },
+    {
+      "id": 72,
+      "title": "Carcass tissue sample (DNA)",
+      "category": "Fish",
+      "subcategory": "Genetics: Fish Diversity, Fitness or Variation",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Carcass fork length (FKL)",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Carcass postorbital hypural length (POH)",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 79,
+      "title": "Pre-spawn Mortality",
+      "category": "Fish",
+      "subcategory": "Mortality Rate",
+      "isIndicator": true
+    },
+    {
+      "id": 89,
+      "title": "Egg Retention",
+      "category": "Fish",
+      "subcategory": "Reproductive Success (Nb/N)",
+      "isIndicator": false
+    },
+    {
+      "id": 92,
+      "title": "Fish per Redd Ratio",
+      "category": "Fish",
+      "subcategory": "Sex Ratio: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 92,
+      "title": "Carcass sex determination (male/female)",
+      "category": "Fish",
+      "subcategory": "Sex Ratio: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 99,
+      "title": "Smolt to Adult Return",
+      "category": "Fish",
+      "subcategory": "Survival Rate: Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 202,
+      "title": "Carcass coded wire tag (CWT) interrogation",
+      "category": "Fish",
+      "subcategory": "Origin",
+      "isIndicator": false
+    },
+    {
+      "id": 202,
+      "title": "Carcass collection",
+      "category": "Fish",
+      "subcategory": "Origin",
+      "isIndicator": false
+    },
+    {
+      "id": 202,
+      "title": "Carcass passive integrated transponder (PIT) interrogation",
+      "category": "Fish",
+      "subcategory": "Origin",
+      "isIndicator": false
+    },
+    {
+      "id": 202,
+      "title": "Fish Origin",
+      "category": "Fish",
+      "subcategory": "Origin",
+      "isIndicator": false
+    },
+    {
+      "id": 202,
+      "title": "Proportion of Hatchery Origin Spawners",
+      "category": "Fish",
+      "subcategory": "Origin",
+      "isIndicator": true
+    },
+    {
+      "id": 203,
+      "title": "Carcass scales",
+      "category": "Fish",
+      "subcategory": "Scales",
+      "isIndicator": false
+    },
+    {
+      "id": 507,
+      "title": "Redd count",
+      "category": "Fish",
+      "subcategory": "Spawning/Nesting",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Monitor status and trends of summer/fall Chinook:\r\n\r\nSpawning escapement",
     "Pre-spawn mortality and egg-retention",

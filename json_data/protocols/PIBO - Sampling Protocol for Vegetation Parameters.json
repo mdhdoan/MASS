@@ -10,6 +10,7 @@
     "http://www.monitoringresources.org/api/v1/methods/53",
     "http://www.monitoringresources.org/api/v1/methods/54"
   ],
+  "metrics": [],
   "objectives": [
     "Determine whether PACFISH/INFISH management practices are maintaining, degrading, or improving biological and physical attributes, processes, and functions of riparian andaquatic habitats through UCRB"
   ],

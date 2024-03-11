@@ -50,6 +50,176 @@
     "http://www.monitoringresources.org/api/v1/methods/5487",
     "http://www.monitoringresources.org/api/v1/methods/6797"
   ],
+  "metrics": [
+    {
+      "id": 17,
+      "title": "River Bathymetry",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Depth: Bathymetry",
+      "isIndicator": false
+    },
+    {
+      "id": 19,
+      "title": "River Habitat Composition",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Composition/Structure of Habitat Types",
+      "isIndicator": false
+    },
+    {
+      "id": 24,
+      "title": "River Barrier Analysis",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Distribution of Barriers",
+      "isIndicator": false
+    },
+    {
+      "id": 43,
+      "title": "River Width to Depth Ratios",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Width to Depth Ratio",
+      "isIndicator": false
+    },
+    {
+      "id": 104,
+      "title": "River Discharge",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Flow",
+      "isIndicator": false
+    },
+    {
+      "id": 113,
+      "title": "River Macroinvertebrate Assemblage",
+      "category": "Macroinvertebrates",
+      "subcategory": "Composition: Macroinvertebrate Species Assemblage",
+      "isIndicator": false
+    },
+    {
+      "id": 127,
+      "title": "Zooplankton Diversity",
+      "category": "Plankton",
+      "subcategory": "Composition: Plankton Assemblage",
+      "isIndicator": false
+    },
+    {
+      "id": 127,
+      "title": "River Algae Composition and Density",
+      "category": "Plankton",
+      "subcategory": "Composition: Plankton Assemblage",
+      "isIndicator": false
+    },
+    {
+      "id": 132,
+      "title": "River Substrate Composition",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Composition: Substrate/Soil-Dominant Size",
+      "isIndicator": false
+    },
+    {
+      "id": 135,
+      "title": "River Substrate Embeddedness",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Embeddedness",
+      "isIndicator": false
+    },
+    {
+      "id": 136,
+      "title": "River Redox Potential",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Redox Potential",
+      "isIndicator": false
+    },
+    {
+      "id": 154,
+      "title": "River Water Quality - Conductivity",
+      "category": "Water Quality",
+      "subcategory": "Conductivity",
+      "isIndicator": false
+    },
+    {
+      "id": 155,
+      "title": "River Water Quality - Dissolved Oxygen",
+      "category": "Water Quality",
+      "subcategory": "Dissolved Gas Concentration (By Gas)",
+      "isIndicator": false
+    },
+    {
+      "id": 155,
+      "title": "River Water Quality - Total Dissolved Gases",
+      "category": "Water Quality",
+      "subcategory": "Dissolved Gas Concentration (By Gas)",
+      "isIndicator": false
+    },
+    {
+      "id": 157,
+      "title": "River Water Quality - Nitrogen",
+      "category": "Water Quality",
+      "subcategory": "Nitrogen",
+      "isIndicator": false
+    },
+    {
+      "id": 158,
+      "title": "River Water Quality - pH",
+      "category": "Water Quality",
+      "subcategory": "pH",
+      "isIndicator": false
+    },
+    {
+      "id": 159,
+      "title": "River Water Quality - Phosphorus",
+      "category": "Water Quality",
+      "subcategory": "Phosphorus",
+      "isIndicator": false
+    },
+    {
+      "id": 161,
+      "title": "River Water Quality - Turbidity",
+      "category": "Water Quality",
+      "subcategory": "Turbidity",
+      "isIndicator": false
+    },
+    {
+      "id": 162,
+      "title": "River Water Quality - Temperature",
+      "category": "Water Quality",
+      "subcategory": "Water Temperature",
+      "isIndicator": false
+    },
+    {
+      "id": 209,
+      "title": "River Discharge Timing",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Runoff Timing",
+      "isIndicator": false
+    },
+    {
+      "id": 233,
+      "title": "River Riparian Distribution and Density",
+      "category": "Vegetation/Plants",
+      "subcategory": "Distribution of Plant Species",
+      "isIndicator": false
+    },
+    {
+      "id": 250,
+      "title": "Zooplankton Abundance",
+      "category": "Plankton",
+      "subcategory": "Abundance of Plankton",
+      "isIndicator": false
+    },
+    {
+      "id": 367,
+      "title": "River Invasive Plant Identification and Abundance",
+      "category": "Vegetation/Plants",
+      "subcategory": "Abundance of Invasive Plant Species",
+      "isIndicator": false
+    },
+    {
+      "id": 504,
+      "title": "River Abundance of Instream Structures",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Abundance of Instream Wood Structures",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Identify habitat parameters that influence Redband Trout population characteristics in river systems.",
     "Assess river habitat that contains Redband Trout populations."

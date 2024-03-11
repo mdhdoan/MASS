@@ -14,6 +14,36 @@
     "http://www.monitoringresources.org/api/v1/methods/5356",
     "http://www.monitoringresources.org/api/v1/methods/5543"
   ],
+  "metrics": [
+    {
+      "id": 57,
+      "title": "GBT Incidence",
+      "category": "Fish",
+      "subcategory": "Condition of Life Stage:  Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 57,
+      "title": "GBT rank - Fish condition",
+      "category": "Fish",
+      "subcategory": "Condition of Life Stage:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "GBT rank - Fish length",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 417,
+      "title": "Species Identification",
+      "category": "Fish",
+      "subcategory": "Species Type: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Measure the incidence and severity of GBT in Northern Pikeminnow, Smallmouth Bass, and Walleye rearing downstream of Priest Rapids dam during the spring spill period.",
     "Determine feasibility to describe GBT in resident Northern Pikeminnow, Smallmouth Bass, and Walleye fishes while in the field, on a boat, and working at night."

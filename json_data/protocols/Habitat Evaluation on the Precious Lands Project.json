@@ -19,6 +19,197 @@
     "http://www.monitoringresources.org/api/v1/methods/5311",
     "http://www.monitoringresources.org/api/v1/methods/5313"
   ],
+  "metrics": [
+    {
+      "id": 150,
+      "title": "DBH",
+      "category": "Vegetation/Plants",
+      "subcategory": "Size of Vegetative Species",
+      "isIndicator": false
+    },
+    {
+      "id": 150,
+      "title": "Maximum Height < 19.7'",
+      "category": "Vegetation/Plants",
+      "subcategory": "Size of Vegetative Species",
+      "isIndicator": false
+    },
+    {
+      "id": 150,
+      "title": "Maximum Height < 5'",
+      "category": "Vegetation/Plants",
+      "subcategory": "Size of Vegetative Species",
+      "isIndicator": false
+    },
+    {
+      "id": 152,
+      "title": "Age of Species",
+      "category": "Vegetation/Plants",
+      "subcategory": "Maturation Level of Vegetation",
+      "isIndicator": false
+    },
+    {
+      "id": 230,
+      "title": "% Balsamroot",
+      "category": "Vegetation/Plants",
+      "subcategory": "Abundance of Vegetative Species",
+      "isIndicator": false
+    },
+    {
+      "id": 230,
+      "title": "% Bluebunch Wheatgrass",
+      "category": "Vegetation/Plants",
+      "subcategory": "Abundance of Vegetative Species",
+      "isIndicator": false
+    },
+    {
+      "id": 230,
+      "title": "% Buckwheat",
+      "category": "Vegetation/Plants",
+      "subcategory": "Abundance of Vegetative Species",
+      "isIndicator": false
+    },
+    {
+      "id": 230,
+      "title": "% Idaho Fescue",
+      "category": "Vegetation/Plants",
+      "subcategory": "Abundance of Vegetative Species",
+      "isIndicator": false
+    },
+    {
+      "id": 230,
+      "title": "% Lupine",
+      "category": "Vegetation/Plants",
+      "subcategory": "Abundance of Vegetative Species",
+      "isIndicator": false
+    },
+    {
+      "id": 230,
+      "title": "% Palatable",
+      "category": "Vegetation/Plants",
+      "subcategory": "Abundance of Vegetative Species",
+      "isIndicator": false
+    },
+    {
+      "id": 230,
+      "title": "% Sandberg's Bluegrass",
+      "category": "Vegetation/Plants",
+      "subcategory": "Abundance of Vegetative Species",
+      "isIndicator": false
+    },
+    {
+      "id": 230,
+      "title": "Number of Herbaceous Species",
+      "category": "Vegetation/Plants",
+      "subcategory": "Abundance of Vegetative Species",
+      "isIndicator": false
+    },
+    {
+      "id": 230,
+      "title": "Number of Saplings, Pole, and Mature for Conifer and/or Deciduous trees",
+      "category": "Vegetation/Plants",
+      "subcategory": "Abundance of Vegetative Species",
+      "isIndicator": false
+    },
+    {
+      "id": 230,
+      "title": "Total % Grass",
+      "category": "Vegetation/Plants",
+      "subcategory": "Abundance of Vegetative Species",
+      "isIndicator": false
+    },
+    {
+      "id": 230,
+      "title": "Total % Herbaceous",
+      "category": "Vegetation/Plants",
+      "subcategory": "Abundance of Vegetative Species",
+      "isIndicator": false
+    },
+    {
+      "id": 231,
+      "title": "Basal Count",
+      "category": "Vegetation/Plants",
+      "subcategory": "Basal Area",
+      "isIndicator": false
+    },
+    {
+      "id": 236,
+      "title": "Tree Species",
+      "category": "Vegetation/Plants",
+      "subcategory": "Dominant Vegetation",
+      "isIndicator": false
+    },
+    {
+      "id": 237,
+      "title": "% Bare Ground",
+      "category": "Vegetation/Plants",
+      "subcategory": "Presence/Absence: Plants",
+      "isIndicator": false
+    },
+    {
+      "id": 237,
+      "title": "% Biotic Crust",
+      "category": "Vegetation/Plants",
+      "subcategory": "Presence/Absence: Plants",
+      "isIndicator": false
+    },
+    {
+      "id": 237,
+      "title": "Down Woody Debris",
+      "category": "Vegetation/Plants",
+      "subcategory": "Presence/Absence: Plants",
+      "isIndicator": false
+    },
+    {
+      "id": 237,
+      "title": "Snag dbh",
+      "category": "Vegetation/Plants",
+      "subcategory": "Presence/Absence: Plants",
+      "isIndicator": false
+    },
+    {
+      "id": 237,
+      "title": "Total % Shrub Cover",
+      "category": "Vegetation/Plants",
+      "subcategory": "Presence/Absence: Plants",
+      "isIndicator": false
+    },
+    {
+      "id": 237,
+      "title": "Total % Tree Canipy Cover",
+      "category": "Vegetation/Plants",
+      "subcategory": "Presence/Absence: Plants",
+      "isIndicator": false
+    },
+    {
+      "id": 348,
+      "title": "Average Height",
+      "category": "Vegetation/Plants",
+      "subcategory": "Height of Vegetation/Plant Species",
+      "isIndicator": false
+    },
+    {
+      "id": 348,
+      "title": "Tree Height at 50' / 100'",
+      "category": "Vegetation/Plants",
+      "subcategory": "Height of Vegetation/Plant Species",
+      "isIndicator": false
+    },
+    {
+      "id": 367,
+      "title": "% Invasive Grasses",
+      "category": "Vegetation/Plants",
+      "subcategory": "Abundance of Invasive Plant Species",
+      "isIndicator": false
+    },
+    {
+      "id": 433,
+      "title": "Snag Class",
+      "category": "Vegetation/Plants",
+      "subcategory": "Timing of Life Stage: Plants",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Develop trend data for plant community health and weed encroachment from long term monitoring of HEP transects.",
     "Determine limiting factors for wildlife.",

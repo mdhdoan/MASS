@@ -16,6 +16,50 @@
     "http://www.monitoringresources.org/api/v1/methods/6600",
     "http://www.monitoringresources.org/api/v1/methods/6643"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Adult Spawner Abundance",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 48,
+      "title": "Fin ray age",
+      "category": "Fish",
+      "subcategory": "Age:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 49,
+      "title": "Age Composition",
+      "category": "Fish",
+      "subcategory": "Age Structure:  Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 62,
+      "title": "Spatial Structure",
+      "category": "Fish",
+      "subcategory": "Distribution of Fish Species",
+      "isIndicator": true
+    },
+    {
+      "id": 202,
+      "title": "Wild Fraction",
+      "category": "Fish",
+      "subcategory": "Origin",
+      "isIndicator": false
+    },
+    {
+      "id": 507,
+      "title": "Redd Abundance",
+      "category": "Fish",
+      "subcategory": "Spawning/Nesting",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Estimate Chinook salmon spawner abundance at the population level",
     "Estimate age composition of adult Chinook salmon at the population level",

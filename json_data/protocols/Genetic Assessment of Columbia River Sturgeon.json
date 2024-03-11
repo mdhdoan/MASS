@@ -10,6 +10,50 @@
     "http://www.monitoringresources.org/api/v1/methods/920",
     "http://www.monitoringresources.org/api/v1/methods/921"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "relative abundance estimates",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 49,
+      "title": "relatedness estimates (kinship)",
+      "category": "Fish",
+      "subcategory": "Age Structure:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 72,
+      "title": "genetic population structure",
+      "category": "Fish",
+      "subcategory": "Genetics: Fish Diversity, Fitness or Variation",
+      "isIndicator": false
+    },
+    {
+      "id": 72,
+      "title": "data collection and management",
+      "category": "Fish",
+      "subcategory": "Genetics: Fish Diversity, Fitness or Variation",
+      "isIndicator": false
+    },
+    {
+      "id": 77,
+      "title": "movement and migration",
+      "category": "Fish",
+      "subcategory": "Migration Pathways: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 163,
+      "title": "Parentage analysis",
+      "category": "Fish",
+      "subcategory": "Productivity:  Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "To outline and describe the following:\r\nWE157 - extract and amplify DNA, conduct fragment analysis;\r\nWE159 - scoring error analysis and data formatting;\r\nWE162 - conduct population genetic analyses"
   ],

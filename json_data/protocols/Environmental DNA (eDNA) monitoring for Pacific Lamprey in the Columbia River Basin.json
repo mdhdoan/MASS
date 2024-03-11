@@ -14,6 +14,22 @@
     "http://www.monitoringresources.org/api/v1/methods/5501",
     "http://www.monitoringresources.org/api/v1/methods/6909"
   ],
+  "metrics": [
+    {
+      "id": 82,
+      "title": "Presence of Pacific Lamprey eDNA",
+      "category": "Fish",
+      "subcategory": "Presence/Absence: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 117,
+      "title": "Trends in presence/absence above and below release sites post release over time (24 hours, weeks, months, years)",
+      "category": "Time",
+      "subcategory": "Frequency",
+      "isIndicator": true
+    }
+  ],
   "objectives": [
     "Determine which Columbia River Basin tributaries are utilized by Pacific Lamprey as indicated by the presence of Pacific Lamprey environmntal DNA (eDNA).",
     "Monitor the status and trends of Paific Lamprey distribution throughout the Columbia River Basin using environmental DNA (eDNA) analysis.",

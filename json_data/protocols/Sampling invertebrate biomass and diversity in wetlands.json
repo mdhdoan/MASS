@@ -8,6 +8,29 @@
     "http://www.monitoringresources.org/api/v1/methods/6843",
     "http://www.monitoringresources.org/api/v1/methods/6858"
   ],
+  "metrics": [
+    {
+      "id": 113,
+      "title": "Invertebrate species richness",
+      "category": "Macroinvertebrates",
+      "subcategory": "Composition: Macroinvertebrate Species Assemblage",
+      "isIndicator": true
+    },
+    {
+      "id": 311,
+      "title": "Invetebrate diversity",
+      "category": "Macroinvertebrates",
+      "subcategory": "Diversity of Macroinvertebrates:  Change",
+      "isIndicator": false
+    },
+    {
+      "id": 453,
+      "title": "Invertebrate biomass",
+      "category": "Macroinvertebrates",
+      "subcategory": "Weight: Macroinvertebrates",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "To assess invertebrate biomass, species richness, and diversity in wetlands that include and exclude fish.  Then evaluate how that impacts local waterfowl production."
   ],

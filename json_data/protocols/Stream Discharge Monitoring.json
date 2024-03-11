@@ -11,6 +11,15 @@
     "http://www.monitoringresources.org/api/v1/methods/1674",
     "http://www.monitoringresources.org/api/v1/methods/1676"
   ],
+  "metrics": [
+    {
+      "id": 104,
+      "title": "Stream Flow (Discharge)",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Flow",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Provide stream flow information to partners for use in decision making.",
     "Quantify stream flow, especially with the use of data loggers for analysis of stream trends and status."

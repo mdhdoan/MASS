@@ -8,6 +8,15 @@
     "http://www.monitoringresources.org/api/v1/methods/847",
     "http://www.monitoringresources.org/api/v1/methods/4106"
   ],
+  "metrics": [
+    {
+      "id": 104,
+      "title": "hourly stream discharge",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Flow",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Provide hourly streamflow data available in realtime."
   ],

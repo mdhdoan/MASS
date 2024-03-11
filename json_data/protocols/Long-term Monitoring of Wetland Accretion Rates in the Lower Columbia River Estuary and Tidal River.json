@@ -8,6 +8,22 @@
     "http://www.monitoringresources.org/api/v1/methods/6994",
     "http://www.monitoringresources.org/api/v1/methods/6995"
   ],
+  "metrics": [
+    {
+      "id": 129,
+      "title": "Wetland Accretion",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Accretion Rates/ Aggradation",
+      "isIndicator": false
+    },
+    {
+      "id": 129,
+      "title": "Wetland Elevation",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Accretion Rates/ Aggradation",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Monitor long-term changes in LCRE wetland elevation.",
     "Monitor long-term changes in LCRE wetland accretion.",

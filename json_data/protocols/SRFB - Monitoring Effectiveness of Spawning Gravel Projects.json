@@ -11,6 +11,71 @@
     "http://www.monitoringresources.org/api/v1/methods/262",
     "http://www.monitoringresources.org/api/v1/methods/298"
   ],
+  "metrics": [
+    {
+      "id": 36,
+      "title": "Reach Length",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Length/Width/Area",
+      "isIndicator": false
+    },
+    {
+      "id": 36,
+      "title": "Reach Width",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Length/Width/Area",
+      "isIndicator": false
+    },
+    {
+      "id": 62,
+      "title": "Spawner Density",
+      "category": "Fish",
+      "subcategory": "Distribution of Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 116,
+      "title": "Sample Date",
+      "category": "Time",
+      "subcategory": "Date",
+      "isIndicator": false
+    },
+    {
+      "id": 135,
+      "title": "Percent Embeddedness",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Embeddedness",
+      "isIndicator": false
+    },
+    {
+      "id": 218,
+      "title": "GPS Coordinates",
+      "category": "Other",
+      "subcategory": "Location",
+      "isIndicator": false
+    },
+    {
+      "id": 228,
+      "title": "Percent Fines",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Type of Substrate",
+      "isIndicator": false
+    },
+    {
+      "id": 457,
+      "title": "Gravel Present After Placement",
+      "category": "Disturbance/Restoration",
+      "subcategory": "Area of Disturbance or Restoration",
+      "isIndicator": false
+    },
+    {
+      "id": 507,
+      "title": "Redd Density",
+      "category": "Fish",
+      "subcategory": "Spawning/Nesting",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Determine the numbers of adult spawners of the targeted salmon species in the control and impact reaches for each of the gravel placement projects sampled. (Years 1, 3, 5, and 10)",
     "Determine the percentage of fines in the gravel in the control and impact reaches for the sampled gravel placement projects. (Years 1, 3, 5, and 10)",

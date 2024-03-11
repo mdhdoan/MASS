@@ -14,6 +14,92 @@
     "http://www.monitoringresources.org/api/v1/methods/1734",
     "http://www.monitoringresources.org/api/v1/methods/4174"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Fish Abundance",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Length",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Mean Length",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": true
+    },
+    {
+      "id": 154,
+      "title": "Conductivity",
+      "category": "Water Quality",
+      "subcategory": "Conductivity",
+      "isIndicator": false
+    },
+    {
+      "id": 155,
+      "title": "Dissolved Oxygen",
+      "category": "Water Quality",
+      "subcategory": "Dissolved Gas Concentration (By Gas)",
+      "isIndicator": false
+    },
+    {
+      "id": 158,
+      "title": "pH",
+      "category": "Water Quality",
+      "subcategory": "pH",
+      "isIndicator": false
+    },
+    {
+      "id": 161,
+      "title": "Turbidity",
+      "category": "Water Quality",
+      "subcategory": "Turbidity",
+      "isIndicator": false
+    },
+    {
+      "id": 162,
+      "title": "Water Temperature",
+      "category": "Water Quality",
+      "subcategory": "Water Temperature",
+      "isIndicator": false
+    },
+    {
+      "id": 206,
+      "title": "Mean Weight",
+      "category": "Fish",
+      "subcategory": "Weight: Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 206,
+      "title": "Relative Weight",
+      "category": "Fish",
+      "subcategory": "Weight: Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 206,
+      "title": "Weight",
+      "category": "Fish",
+      "subcategory": "Weight: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 350,
+      "title": "Total Dissolved Solids",
+      "category": "Water Quality",
+      "subcategory": "Water Quality Index",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Gather biological information on stocked populations (i.e. growth, relative weight, length-frequency).",
     "Estimate relative abundance of trout in stocked water bodies. ",

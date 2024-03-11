@@ -10,6 +10,43 @@
     "http://www.monitoringresources.org/api/v1/methods/112",
     "http://www.monitoringresources.org/api/v1/methods/131"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Carcass Surveys (Pre-spawn Mortalities)",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 49,
+      "title": "Scale Samples",
+      "category": "Fish",
+      "subcategory": "Age Structure:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 62,
+      "title": "Redd Distribution",
+      "category": "Fish",
+      "subcategory": "Distribution of Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 381,
+      "title": "Mark/Tag Recovery",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Recovery or Detection",
+      "isIndicator": false
+    },
+    {
+      "id": 507,
+      "title": "Redd Abundance",
+      "category": "Fish",
+      "subcategory": "Spawning/Nesting",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Assess salmon and steelhead redd abundance, temporal distribution and spatial structure for long term status and trend monitoring.",
     "Evaluate the Umatilla Fishereis Restoration Program's effectiveness in restoring natural production of salmon and steelhead."

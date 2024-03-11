@@ -10,6 +10,36 @@
     "http://www.monitoringresources.org/api/v1/methods/4223",
     "http://www.monitoringresources.org/api/v1/methods/4226"
   ],
+  "metrics": [
+    {
+      "id": 48,
+      "title": "Age Composition",
+      "category": "Fish",
+      "subcategory": "Age:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Length Distribution",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 95,
+      "title": "Stock Composition",
+      "category": "Fish",
+      "subcategory": "Stock Identity",
+      "isIndicator": false
+    },
+    {
+      "id": 381,
+      "title": "Stock Identification",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Recovery or Detection",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Sample adult returns of Select Area Bright fall Chinook at Klaskanine and South Fork Klaskanine Hatcheries annually to depict stocks present, and age structure of the returning population"
   ],

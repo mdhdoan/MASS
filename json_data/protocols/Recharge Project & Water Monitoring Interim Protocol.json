@@ -20,6 +20,36 @@
     "http://www.monitoringresources.org/api/v1/methods/1686",
     "http://www.monitoringresources.org/api/v1/methods/1687"
   ],
+  "metrics": [
+    {
+      "id": 104,
+      "title": "Stream Flow (Discharge)",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Flow",
+      "isIndicator": false
+    },
+    {
+      "id": 105,
+      "title": "Groundwater levels",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Ground Water Level Change",
+      "isIndicator": false
+    },
+    {
+      "id": 162,
+      "title": "Groundwater temperature",
+      "category": "Water Quality",
+      "subcategory": "Water Temperature",
+      "isIndicator": false
+    },
+    {
+      "id": 162,
+      "title": "Water Temperature",
+      "category": "Water Quality",
+      "subcategory": "Water Temperature",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Prepare groundwater data for use in other studies, including model development, watershed planning, groundwater/surface water interactions and others",
     "Collect groundwater data at wells with both continuous data loggers and quarterly manual water level measurements.",

@@ -10,6 +10,36 @@
     "http://www.monitoringresources.org/api/v1/methods/402",
     "http://www.monitoringresources.org/api/v1/methods/4112"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "fish per redd",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 46,
+      "title": "redd per km",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 46,
+      "title": "Steelhead redd count (an index of adult spawner abundance)",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 46,
+      "title": "adult steelhead abundance",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Our objective is to conduct steelhead spawning surveys in Yakima River tributaries to produce a redd count to use as an index of adult steelhead abundance.     "
   ],

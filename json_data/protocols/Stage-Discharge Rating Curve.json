@@ -8,6 +8,15 @@
     "http://www.monitoringresources.org/api/v1/methods/1451",
     "http://www.monitoringresources.org/api/v1/methods/4150"
   ],
+  "metrics": [
+    {
+      "id": 104,
+      "title": "Stream Flow (Discharge)",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Flow",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Using established USGS methods to produce accurate discharge data."
   ],

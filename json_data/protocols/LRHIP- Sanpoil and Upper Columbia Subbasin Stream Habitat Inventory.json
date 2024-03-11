@@ -18,6 +18,106 @@
     "http://www.monitoringresources.org/api/v1/methods/3880",
     "http://www.monitoringresources.org/api/v1/methods/3881"
   ],
+  "metrics": [
+    {
+      "id": 19,
+      "title": "Valley Width",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Composition/Structure of Habitat Types",
+      "isIndicator": false
+    },
+    {
+      "id": 31,
+      "title": "Active Channel Profile",
+      "category": "Classification of Ecological or Geological Attribute ",
+      "subcategory": "Form/Morphology",
+      "isIndicator": false
+    },
+    {
+      "id": 31,
+      "title": "Floodprone Profile",
+      "category": "Classification of Ecological or Geological Attribute ",
+      "subcategory": "Form/Morphology",
+      "isIndicator": false
+    },
+    {
+      "id": 32,
+      "title": "Channel Gradient",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Gradient",
+      "isIndicator": false
+    },
+    {
+      "id": 33,
+      "title": "Riparian Vegetation",
+      "category": "Classification of Ecological or Geological Attribute ",
+      "subcategory": "Habitat Quality",
+      "isIndicator": false
+    },
+    {
+      "id": 37,
+      "title": "Pool Depth",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Depth: Pool",
+      "isIndicator": false
+    },
+    {
+      "id": 44,
+      "title": "Bankfull width",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Width: Bankfull ",
+      "isIndicator": false
+    },
+    {
+      "id": 45,
+      "title": "Habitat Unit Dimentions",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Width: Wetted",
+      "isIndicator": false
+    },
+    {
+      "id": 131,
+      "title": "Bed Scour",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Bed Scour/Erosion Rate",
+      "isIndicator": false
+    },
+    {
+      "id": 132,
+      "title": "Substrate composition",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Composition: Substrate/Soil-Dominant Size",
+      "isIndicator": false
+    },
+    {
+      "id": 135,
+      "title": "Substrate Embeddedness",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Embeddedness",
+      "isIndicator": false
+    },
+    {
+      "id": 192,
+      "title": "Habitat Unit Type",
+      "category": "Classification of Ecological or Geological Attribute ",
+      "subcategory": "Habitat Type",
+      "isIndicator": false
+    },
+    {
+      "id": 439,
+      "title": "Non-pool depth",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Depth: Riffles",
+      "isIndicator": false
+    },
+    {
+      "id": 504,
+      "title": "Instream Functional Wood",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Abundance of Instream Wood Structures",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Inventory stream habitat suitable for adfluvial redband rainbow trout. ",
     "Identify natural and anthropogenic barriers to all life stages of redband rainbow trout."

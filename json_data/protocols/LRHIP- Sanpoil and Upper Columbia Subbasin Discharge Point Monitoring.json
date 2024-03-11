@@ -7,6 +7,15 @@
   "methods": [
     "http://www.monitoringresources.org/api/v1/methods/847"
   ],
+  "metrics": [
+    {
+      "id": 104,
+      "title": "Discharge",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Flow",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Provide baseline discharge data sets for use in EDT model development.",
     "Describe stream discharge for use in habitat restoration and protection prioritization."

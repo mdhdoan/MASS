@@ -49,6 +49,127 @@
     "http://www.monitoringresources.org/api/v1/methods/5461",
     "http://www.monitoringresources.org/api/v1/methods/6560"
   ],
+  "metrics": [
+    {
+      "id": 56,
+      "title": "Stock composition",
+      "category": "Fish",
+      "subcategory": "Composition: Fish Species Assemblage",
+      "isIndicator": false
+    },
+    {
+      "id": 57,
+      "title": "Maturation rate",
+      "category": "Fish",
+      "subcategory": "Condition of Life Stage:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 57,
+      "title": "Kelt condition",
+      "category": "Fish",
+      "subcategory": "Condition of Life Stage:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 57,
+      "title": "Reconditioned kelt condition",
+      "category": "Fish",
+      "subcategory": "Condition of Life Stage:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 62,
+      "title": "Kelt homing",
+      "category": "Fish",
+      "subcategory": "Distribution of Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 68,
+      "title": "Fecundity",
+      "category": "Fish",
+      "subcategory": "Fecundity:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 73,
+      "title": "Growth rate",
+      "category": "Fish",
+      "subcategory": "Growth Rate:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Kelt length",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Reconditioned kelt length",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 88,
+      "title": "Relative reproductive success of artifically reconditioned kelt steelhead",
+      "category": "Fish",
+      "subcategory": "Relative Reproductive Success (RRS)",
+      "isIndicator": true
+    },
+    {
+      "id": 88,
+      "title": "Parentage analysis",
+      "category": "Fish",
+      "subcategory": "Relative Reproductive Success (RRS)",
+      "isIndicator": false
+    },
+    {
+      "id": 89,
+      "title": "Reproductive success",
+      "category": "Fish",
+      "subcategory": "Reproductive Success (Nb/N)",
+      "isIndicator": false
+    },
+    {
+      "id": 99,
+      "title": "Natural kelt survival rate",
+      "category": "Fish",
+      "subcategory": "Survival Rate: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 99,
+      "title": "Reconditioned kelt survival rate",
+      "category": "Fish",
+      "subcategory": "Survival Rate: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 200,
+      "title": "Lipid content",
+      "category": "Fish",
+      "subcategory": "Lipid Content",
+      "isIndicator": false
+    },
+    {
+      "id": 206,
+      "title": "Kelt weight",
+      "category": "Fish",
+      "subcategory": "Weight: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 206,
+      "title": "Reconditioned kelt weight",
+      "category": "Fish",
+      "subcategory": "Weight: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Evaluate rematuration rates of long-term reconditioned kelt steelhead.",
     "Conduct relative reproductive success study of artificially reconditioned kelt steelhead in the Yakima River. ",

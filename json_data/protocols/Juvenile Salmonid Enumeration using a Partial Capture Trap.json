@@ -21,6 +21,92 @@
     "http://www.monitoringresources.org/api/v1/methods/6974",
     "http://www.monitoringresources.org/api/v1/methods/6981"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Smolt abundance",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 46,
+      "title": "Trap catch",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 49,
+      "title": "Fish age",
+      "category": "Fish",
+      "subcategory": "Age Structure:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 57,
+      "title": "Smolt status",
+      "category": "Fish",
+      "subcategory": "Condition of Life Stage:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 60,
+      "title": "Fish descaling",
+      "category": "Fish",
+      "subcategory": "Descaling",
+      "isIndicator": false
+    },
+    {
+      "id": 61,
+      "title": "Parasite concentration",
+      "category": "Fish",
+      "subcategory": "Disease/Parasite Concentration: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Fish length",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 97,
+      "title": "Smolt survival",
+      "category": "Fish",
+      "subcategory": "Survival: Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 101,
+      "title": "Passage timing",
+      "category": "Fish",
+      "subcategory": "Timing of Life Stage: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 206,
+      "title": "Fish weight",
+      "category": "Fish",
+      "subcategory": "Weight: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 282,
+      "title": "Fish condition",
+      "category": "Fish",
+      "subcategory": "Condition Factor",
+      "isIndicator": false
+    },
+    {
+      "id": 381,
+      "title": "Trap efficiency",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Recovery or Detection",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Provide unbiased estimates of juvenile salmonid abundance from populations located and/or watersheds located upstream of the trapping site(s).",
     "Determine juvenile life history characteristics and downstream survival.",

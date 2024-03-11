@@ -17,6 +17,71 @@
     "http://www.monitoringresources.org/api/v1/methods/5436",
     "http://www.monitoringresources.org/api/v1/methods/5444"
   ],
+  "metrics": [
+    {
+      "id": 104,
+      "title": "Annual maximum flow in CFS",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Flow",
+      "isIndicator": false
+    },
+    {
+      "id": 104,
+      "title": "Annual mean flow in CFS",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Flow",
+      "isIndicator": false
+    },
+    {
+      "id": 104,
+      "title": "Annual minimum flow in CFS",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Flow",
+      "isIndicator": false
+    },
+    {
+      "id": 104,
+      "title": "Daily Mean Flow in Cubic feet per second (CFS)",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Flow",
+      "isIndicator": false
+    },
+    {
+      "id": 104,
+      "title": "Monthly maximum flow in CFS",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Flow",
+      "isIndicator": false
+    },
+    {
+      "id": 104,
+      "title": "Monthly mean flow in CFS",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Flow",
+      "isIndicator": false
+    },
+    {
+      "id": 104,
+      "title": "Monthly minimum flow in CFS",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Flow",
+      "isIndicator": false
+    },
+    {
+      "id": 104,
+      "title": "Total annual flow volume in acre feet",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Flow",
+      "isIndicator": false
+    },
+    {
+      "id": 104,
+      "title": "Total monthly flow volume in acre feet",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Flow",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Flow gauging provides the opportunity to access watershed conditions and monitoring objectives include a combination of short (annual), medium (5-10 years), and long-term (>10 years) objectives."
   ],

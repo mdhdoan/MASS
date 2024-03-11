@@ -18,6 +18,183 @@
     "http://www.monitoringresources.org/api/v1/methods/6603",
     "http://www.monitoringresources.org/api/v1/methods/6615"
   ],
+  "metrics": [
+    {
+      "id": 3,
+      "title": "Air temperature",
+      "category": "Climate/Weather",
+      "subcategory": "Air Temperature",
+      "isIndicator": false
+    },
+    {
+      "id": 8,
+      "title": "Wind speed/direction",
+      "category": "Climate/Weather",
+      "subcategory": "Wind Velocity",
+      "isIndicator": false
+    },
+    {
+      "id": 36,
+      "title": "Gravel bar width",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Length/Width/Area",
+      "isIndicator": false
+    },
+    {
+      "id": 45,
+      "title": "Channel width",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Width: Wetted",
+      "isIndicator": false
+    },
+    {
+      "id": 46,
+      "title": "Abundance",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 56,
+      "title": "Percent salmonids",
+      "category": "Fish",
+      "subcategory": "Composition: Fish Species Assemblage",
+      "isIndicator": false
+    },
+    {
+      "id": 56,
+      "title": "Richness",
+      "category": "Fish",
+      "subcategory": "Composition: Fish Species Assemblage",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Fork Length",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 104,
+      "title": "Water velocity",
+      "category": "Hydrology/Water Quantity",
+      "subcategory": "Flow",
+      "isIndicator": false
+    },
+    {
+      "id": 120,
+      "title": "Time of day",
+      "category": "Time",
+      "subcategory": "Time: Actual",
+      "isIndicator": false
+    },
+    {
+      "id": 133,
+      "title": "Dominant substrate",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Composition: Substrate/Soil-Dominant Type",
+      "isIndicator": false
+    },
+    {
+      "id": 135,
+      "title": "Embeddedness",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Embeddedness",
+      "isIndicator": false
+    },
+    {
+      "id": 150,
+      "title": "Riparian tree DBH",
+      "category": "Vegetation/Plants",
+      "subcategory": "Size of Vegetative Species",
+      "isIndicator": false
+    },
+    {
+      "id": 154,
+      "title": "Water conductivity",
+      "category": "Water Quality",
+      "subcategory": "Conductivity",
+      "isIndicator": false
+    },
+    {
+      "id": 155,
+      "title": "Water oxygen content",
+      "category": "Water Quality",
+      "subcategory": "Dissolved Gas Concentration (By Gas)",
+      "isIndicator": false
+    },
+    {
+      "id": 161,
+      "title": "Water clarity",
+      "category": "Water Quality",
+      "subcategory": "Turbidity",
+      "isIndicator": false
+    },
+    {
+      "id": 162,
+      "title": "Water temperature",
+      "category": "Water Quality",
+      "subcategory": "Water Temperature",
+      "isIndicator": false
+    },
+    {
+      "id": 172,
+      "title": "Cloud cover",
+      "category": "Climate/Weather",
+      "subcategory": "Solar Radiation",
+      "isIndicator": false
+    },
+    {
+      "id": 188,
+      "title": "Bank height",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Depth/Height: Bankfull ",
+      "isIndicator": false
+    },
+    {
+      "id": 228,
+      "title": "Bank substrate",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Type of Substrate",
+      "isIndicator": false
+    },
+    {
+      "id": 228,
+      "title": "Percent rip-rap",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Type of Substrate",
+      "isIndicator": false
+    },
+    {
+      "id": 236,
+      "title": "Riparian vegetation type",
+      "category": "Vegetation/Plants",
+      "subcategory": "Dominant Vegetation",
+      "isIndicator": false
+    },
+    {
+      "id": 362,
+      "title": "Percent Native",
+      "category": "Fish",
+      "subcategory": "Abundance of Invasive Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 368,
+      "title": "Riparian vegetation width-height",
+      "category": "Vegetation/Plants",
+      "subcategory": "Vegetation/Plants:  Area",
+      "isIndicator": false
+    },
+    {
+      "id": 439,
+      "title": "Water depth",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Depth: Riffles",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Collect data to estimate (1) abundance of native and non-native fishes; (2) richness of native/non-native fish communities; (3) proportion of native species, and (4) proportion of salmonids.",
     "Collect water quality data at sites sampled for fish and in known coldwater refuges to determine their suitability as fish habitat.",

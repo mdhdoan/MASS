@@ -8,6 +8,15 @@
     "http://www.monitoringresources.org/api/v1/methods/3957",
     "http://www.monitoringresources.org/api/v1/methods/4042"
   ],
+  "metrics": [
+    {
+      "id": 87,
+      "title": "family by environment interaction in growth",
+      "category": "Fish",
+      "subcategory": "Hatchery Practices: Propagation",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Test for presence of significant family by environment (crowding level) interaction in fish raised in a hatchery"
   ],

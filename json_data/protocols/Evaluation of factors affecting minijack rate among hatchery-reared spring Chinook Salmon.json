@@ -12,6 +12,57 @@
     "http://www.monitoringresources.org/api/v1/methods/1734",
     "http://www.monitoringresources.org/api/v1/methods/5446"
   ],
+  "metrics": [
+    {
+      "id": 66,
+      "title": "plasma 11-ketotestosterone concentration",
+      "category": "Fish",
+      "subcategory": "ELISA Values: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 72,
+      "title": "genetic parentage and sex assignment",
+      "category": "Fish",
+      "subcategory": "Genetics: Fish Diversity, Fitness or Variation",
+      "isIndicator": true
+    },
+    {
+      "id": 72,
+      "title": "SNP genotype",
+      "category": "Fish",
+      "subcategory": "Genetics: Fish Diversity, Fitness or Variation",
+      "isIndicator": false
+    },
+    {
+      "id": 73,
+      "title": "Growth Rate",
+      "category": "Fish",
+      "subcategory": "Growth Rate:  Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 75,
+      "title": "Fork length",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 80,
+      "title": "minijack rate",
+      "category": "Fish",
+      "subcategory": "Precociousness",
+      "isIndicator": true
+    },
+    {
+      "id": 206,
+      "title": "Weight",
+      "category": "Fish",
+      "subcategory": "Weight: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Determine the effect of broodstock age, within sexes, on minijack rate among male hatchery reared spring Chinook Salmon smolts.",
     "Quantify minijack rates among male spring Chinook Salmon smolts sired by age 3 versus age 4 broodstock, and correlate the rates to age structure, size, sex ratio, and SARs of returning adult progeny.",

@@ -8,6 +8,22 @@
     "http://www.monitoringresources.org/api/v1/methods/1135",
     "http://www.monitoringresources.org/api/v1/methods/1241"
   ],
+  "metrics": [
+    {
+      "id": 62,
+      "title": "Lake Roosevelt Redband Usage",
+      "category": "Fish",
+      "subcategory": "Distribution of Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 199,
+      "title": "Grand Coulee Dam Redband entrainment",
+      "category": "Fish",
+      "subcategory": "Entrainment",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Determine Redband Trout reservoir usage and entrainment by in Lake Roosevelt"
   ],

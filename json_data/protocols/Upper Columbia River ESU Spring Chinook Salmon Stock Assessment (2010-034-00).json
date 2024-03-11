@@ -14,6 +14,50 @@
     "http://www.monitoringresources.org/api/v1/methods/4041",
     "http://www.monitoringresources.org/api/v1/methods/6583"
   ],
+  "metrics": [
+    {
+      "id": 48,
+      "title": "Adult Age",
+      "category": "Fish",
+      "subcategory": "Age:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Fish Length",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 93,
+      "title": "Sex ID",
+      "category": "Fish",
+      "subcategory": "Sex Type: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 201,
+      "title": "PIT Tagging",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Application",
+      "isIndicator": false
+    },
+    {
+      "id": 202,
+      "title": "Adult Origin",
+      "category": "Fish",
+      "subcategory": "Origin",
+      "isIndicator": false
+    },
+    {
+      "id": 203,
+      "title": "Scales",
+      "category": "Fish",
+      "subcategory": "Scales",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Determine the origin of all spring Chinook Salmon sampled at Priest Rapids Dam Off-Ladder Adult Fish Trap.",
     "Determine the age of all spring Chinook Salmon sampled at Priest Rapids Dam Off-Ladder Adult Fish Trap.",

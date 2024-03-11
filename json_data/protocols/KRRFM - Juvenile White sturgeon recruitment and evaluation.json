@@ -17,6 +17,50 @@
     "http://www.monitoringresources.org/api/v1/methods/4216",
     "http://www.monitoringresources.org/api/v1/methods/4217"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Relative abundance",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 73,
+      "title": "Growth rates",
+      "category": "Fish",
+      "subcategory": "Growth Rate:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 73,
+      "title": "Wild recruitment",
+      "category": "Fish",
+      "subcategory": "Growth Rate:  Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 97,
+      "title": "Condition factor",
+      "category": "Fish",
+      "subcategory": "Survival: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 97,
+      "title": "Year class strength",
+      "category": "Fish",
+      "subcategory": "Survival: Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 99,
+      "title": "Hatchery juvenile survival",
+      "category": "Fish",
+      "subcategory": "Survival Rate: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Determine relative abundance, growth, and survival of juvenile Kootenai River White Sturgeon"
   ],

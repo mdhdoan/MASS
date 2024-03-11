@@ -14,6 +14,29 @@
     "http://www.monitoringresources.org/api/v1/methods/4042",
     "http://www.monitoringresources.org/api/v1/methods/5333"
   ],
+  "metrics": [
+    {
+      "id": 73,
+      "title": "Growth of Juvenile Burbot In Tributaries",
+      "category": "Fish",
+      "subcategory": "Growth Rate:  Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 82,
+      "title": "Residence Time In Tributaries",
+      "category": "Fish",
+      "subcategory": "Presence/Absence: Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 99,
+      "title": "Survival Estimate of Tributary Stocked Burbot",
+      "category": "Fish",
+      "subcategory": "Survival Rate: Fish",
+      "isIndicator": true
+    }
+  ],
   "objectives": [
     "Determine condition suitable for stocking burbot in tributaries of the Kootenai River.",
     "Determine if burbot stocked into specific tributaries will return to their stocking location to spawn."

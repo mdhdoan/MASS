@@ -8,6 +8,15 @@
     "http://www.monitoringresources.org/api/v1/methods/3906",
     "http://www.monitoringresources.org/api/v1/methods/3907"
   ],
+  "metrics": [
+    {
+      "id": 52,
+      "title": "Harvest",
+      "category": "Fish",
+      "subcategory": "Harvest Abundance",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Collect harvest data",
     "Collect PIT tag data"

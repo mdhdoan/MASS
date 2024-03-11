@@ -9,6 +9,57 @@
     "http://www.monitoringresources.org/api/v1/methods/6600",
     "http://www.monitoringresources.org/api/v1/methods/6642"
   ],
+  "metrics": [
+    {
+      "id": 62,
+      "title": "Spatial Distribution of Redds",
+      "category": "Fish",
+      "subcategory": "Distribution of Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 116,
+      "title": "Date",
+      "category": "Time",
+      "subcategory": "Date",
+      "isIndicator": false
+    },
+    {
+      "id": 161,
+      "title": "Visibility",
+      "category": "Water Quality",
+      "subcategory": "Turbidity",
+      "isIndicator": false
+    },
+    {
+      "id": 218,
+      "title": "Datum",
+      "category": "Other",
+      "subcategory": "Location",
+      "isIndicator": false
+    },
+    {
+      "id": 218,
+      "title": "Stream (Site Name)",
+      "category": "Other",
+      "subcategory": "Location",
+      "isIndicator": false
+    },
+    {
+      "id": 243,
+      "title": "Collector",
+      "category": "Other",
+      "subcategory": "Not Applicable",
+      "isIndicator": false
+    },
+    {
+      "id": 507,
+      "title": "Chinook Redd Waypoint (WPT)",
+      "category": "Fish",
+      "subcategory": "Spawning/Nesting",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Survey for Chinook Salmon redds from a helicopter at remote areas in the Middle Fork Salmon River basin.",
     "Document spatial distribution of Chinook salmon redds"

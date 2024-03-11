@@ -17,6 +17,36 @@
     "http://www.monitoringresources.org/api/v1/methods/6569",
     "http://www.monitoringresources.org/api/v1/methods/6636"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Denisty of predators during removal study",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 47,
+      "title": "CPUE and RA of fish captured by gear type",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish Predators",
+      "isIndicator": true
+    },
+    {
+      "id": 54,
+      "title": "Fish captured by mechanical collection methods",
+      "category": "Fish",
+      "subcategory": "Catch Per Unit Effort",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Length frequencies of fish captued in each gear type",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Reduce non-native predator densities to increase the survival of native fish populations."
   ],

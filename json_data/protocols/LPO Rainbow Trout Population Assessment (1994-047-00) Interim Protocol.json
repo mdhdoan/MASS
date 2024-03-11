@@ -14,6 +14,57 @@
     "http://www.monitoringresources.org/api/v1/methods/1734",
     "http://www.monitoringresources.org/api/v1/methods/4038"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Rainbow trout population estimate",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 48,
+      "title": "Rainbow trout age determination",
+      "category": "Fish",
+      "subcategory": "Age:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 52,
+      "title": "Rainbow trout exploitation rate",
+      "category": "Fish",
+      "subcategory": "Harvest Abundance",
+      "isIndicator": false
+    },
+    {
+      "id": 73,
+      "title": "Rainbow Trout Growth Rate",
+      "category": "Fish",
+      "subcategory": "Growth Rate:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Rainbow trout length",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 206,
+      "title": "Rainbow trout weight",
+      "category": "Fish",
+      "subcategory": "Weight: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 282,
+      "title": "Rainbow trout condition factor",
+      "category": "Fish",
+      "subcategory": "Condition Factor",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Calculate rainbow trout growth rate",
     "Calculate rainbow trout condition factor"

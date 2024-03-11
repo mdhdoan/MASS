@@ -11,6 +11,78 @@
     "http://www.monitoringresources.org/api/v1/methods/4000",
     "http://www.monitoringresources.org/api/v1/methods/6927"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Spawner Abundance",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 46,
+      "title": "Fish Abundance",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 59,
+      "title": "Fish Abundance",
+      "category": "Fish",
+      "subcategory": "Density of Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 62,
+      "title": "Adult Distribution",
+      "category": "Fish",
+      "subcategory": "Distribution of Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 82,
+      "title": "Adult Distribution",
+      "category": "Fish",
+      "subcategory": "Presence/Absence: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 92,
+      "title": "Fish Sex",
+      "category": "Fish",
+      "subcategory": "Sex Ratio: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 101,
+      "title": "Run Timing",
+      "category": "Fish",
+      "subcategory": "Timing of Life Stage: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 116,
+      "title": "Date",
+      "category": "Time",
+      "subcategory": "Date",
+      "isIndicator": false
+    },
+    {
+      "id": 202,
+      "title": "Origin",
+      "category": "Fish",
+      "subcategory": "Origin",
+      "isIndicator": false
+    },
+    {
+      "id": 218,
+      "title": "Redd GPS Location",
+      "category": "Other",
+      "subcategory": "Location",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "To determine if the number of adult salmon and steelhead in the Okanogan River subbasin is trending towards recovery over time.",
     "To estimate the proportion of hatchery and natural origin spawners in the Okanogan subbasin.",

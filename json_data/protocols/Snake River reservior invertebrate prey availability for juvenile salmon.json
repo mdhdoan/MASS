@@ -16,6 +16,43 @@
     "http://www.monitoringresources.org/api/v1/methods/5331",
     "http://www.monitoringresources.org/api/v1/methods/5348"
   ],
+  "metrics": [
+    {
+      "id": 293,
+      "title": "Benthic invertebrate abundance",
+      "category": "Macroinvertebrates",
+      "subcategory": "Density of Macroinvertebrate Species",
+      "isIndicator": false
+    },
+    {
+      "id": 299,
+      "title": "Benthic invertebrate diet",
+      "category": "Macroinvertebrates",
+      "subcategory": "Diet: Macroinvertebrates",
+      "isIndicator": false
+    },
+    {
+      "id": 304,
+      "title": "Benthic invertebrate distribution",
+      "category": "Macroinvertebrates",
+      "subcategory": "Distribution of Macroinvertebrate Species",
+      "isIndicator": false
+    },
+    {
+      "id": 356,
+      "title": "Benthic invertebrate length-frequency",
+      "category": "Macroinvertebrates",
+      "subcategory": "Length:  Macroinvertebrate Species",
+      "isIndicator": false
+    },
+    {
+      "id": 436,
+      "title": "Microcystin toxin level",
+      "category": "Fish",
+      "subcategory": "Tissue Sample: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "1. Determine the different types of prey available to juvenile fall Chinook salmon during reservoir rearing and their spatial and seasonal densities.",
     "2. Determine whether the microcystin toxin produced by harmful algal blooms can accumulate in subyearling fall Chinook salmon, thus creating a mortality risk or reduced performance."

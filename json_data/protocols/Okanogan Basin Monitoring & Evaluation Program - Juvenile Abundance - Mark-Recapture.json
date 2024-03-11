@@ -14,6 +14,134 @@
     "http://www.monitoringresources.org/api/v1/methods/3971",
     "http://www.monitoringresources.org/api/v1/methods/3972"
   ],
+  "metrics": [
+    {
+      "id": 36,
+      "title": "Area",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Length/Width/Area",
+      "isIndicator": true
+    },
+    {
+      "id": 36,
+      "title": "Channel Length",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Length/Width/Area",
+      "isIndicator": false
+    },
+    {
+      "id": 46,
+      "title": "Abundance of Fish",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 51,
+      "title": "Carrying Capacity",
+      "category": "Fish",
+      "subcategory": "Carrying Capacity: Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 59,
+      "title": "Density of Fish Species",
+      "category": "Fish",
+      "subcategory": "Density of Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 72,
+      "title": "Scale Sample",
+      "category": "Fish",
+      "subcategory": "Genetics: Fish Diversity, Fitness or Variation",
+      "isIndicator": false
+    },
+    {
+      "id": 75,
+      "title": "Length",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 77,
+      "title": "Outmigration",
+      "category": "Fish",
+      "subcategory": "Migration Pathways: Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 82,
+      "title": "Presence/Absence",
+      "category": "Fish",
+      "subcategory": "Presence/Absence: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 101,
+      "title": "Life Stage",
+      "category": "Fish",
+      "subcategory": "Timing of Life Stage: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 116,
+      "title": "Date",
+      "category": "Time",
+      "subcategory": "Date",
+      "isIndicator": false
+    },
+    {
+      "id": 121,
+      "title": "Duration",
+      "category": "Time",
+      "subcategory": "Time: Duration",
+      "isIndicator": false
+    },
+    {
+      "id": 154,
+      "title": "Conductivity",
+      "category": "Water Quality",
+      "subcategory": "Conductivity",
+      "isIndicator": false
+    },
+    {
+      "id": 162,
+      "title": "Water Temperature",
+      "category": "Water Quality",
+      "subcategory": "Water Temperature",
+      "isIndicator": false
+    },
+    {
+      "id": 201,
+      "title": "Marking",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Application",
+      "isIndicator": false
+    },
+    {
+      "id": 202,
+      "title": "Origin",
+      "category": "Fish",
+      "subcategory": "Origin",
+      "isIndicator": false
+    },
+    {
+      "id": 218,
+      "title": "GPS Location",
+      "category": "Other",
+      "subcategory": "Location",
+      "isIndicator": false
+    },
+    {
+      "id": 381,
+      "title": "Recapture",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Recovery or Detection",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "To determine the status and trend of juvenile salmonid abundance in the Okanogan River Basin.",
     "To calculate an independent, stream-based population emigration estimate from PIT tags.",

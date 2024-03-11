@@ -22,6 +22,43 @@
     "http://www.monitoringresources.org/api/v1/methods/4041",
     "http://www.monitoringresources.org/api/v1/methods/6568"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Estimate of juvenile abundance",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 46,
+      "title": "Outmigrant estimate for juvenile steelhead and Chinook salmon",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 57,
+      "title": "Size at Emigration",
+      "category": "Fish",
+      "subcategory": "Condition of Life Stage:  Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 99,
+      "title": "Juvenile Survival",
+      "category": "Fish",
+      "subcategory": "Survival Rate: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 101,
+      "title": "Emigration Timing",
+      "category": "Fish",
+      "subcategory": "Timing of Life Stage: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Monitor wild juvenile summer steelhead and natural origin juvenile Chinook salmon population status and trends. "
   ],

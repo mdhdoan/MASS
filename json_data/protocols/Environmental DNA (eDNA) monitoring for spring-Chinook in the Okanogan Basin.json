@@ -9,6 +9,22 @@
     "http://www.monitoringresources.org/api/v1/methods/5480",
     "http://www.monitoringresources.org/api/v1/methods/5494"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Quantity of Chinook eDNA at a site",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 82,
+      "title": "Presence of Chinook eDNA",
+      "category": "Fish",
+      "subcategory": "Presence/Absence: Fish",
+      "isIndicator": true
+    }
+  ],
   "objectives": [
     "Determine which Okanogan Basin tributaries are utilized by spring-Chinook, as indicated by the presence of Chinook eDNA.",
     "Monitor the status and trends of spring-Chinook distribution throughout the Okanogan Basin (USA & Canada) using environmental DNA (eDNA) analysis."

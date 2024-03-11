@@ -12,6 +12,99 @@
     "http://www.monitoringresources.org/api/v1/methods/907",
     "http://www.monitoringresources.org/api/v1/methods/908"
   ],
+  "metrics": [
+    {
+      "id": 36,
+      "title": "Reach Length",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Length/Width/Area",
+      "isIndicator": false
+    },
+    {
+      "id": 36,
+      "title": "Reach Width",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Length/Width/Area",
+      "isIndicator": false
+    },
+    {
+      "id": 36,
+      "title": "Stream Length",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Length/Width/Area",
+      "isIndicator": false
+    },
+    {
+      "id": 116,
+      "title": "Sample Date",
+      "category": "Time",
+      "subcategory": "Date",
+      "isIndicator": false
+    },
+    {
+      "id": 130,
+      "title": "Bank Erosion",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Bank Stability",
+      "isIndicator": false
+    },
+    {
+      "id": 134,
+      "title": "Average Pool Tail Fines",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Depth-Fines",
+      "isIndicator": false
+    },
+    {
+      "id": 149,
+      "title": "Riparian Vegetation Structure",
+      "category": "Vegetation/Plants",
+      "subcategory": "Composition: Vegetative Species Assemblage",
+      "isIndicator": false
+    },
+    {
+      "id": 152,
+      "title": "Canopy Cover",
+      "category": "Vegetation/Plants",
+      "subcategory": "Maturation Level of Vegetation",
+      "isIndicator": false
+    },
+    {
+      "id": 218,
+      "title": "GPS Coordinates",
+      "category": "Other",
+      "subcategory": "Location",
+      "isIndicator": false
+    },
+    {
+      "id": 237,
+      "title": "Percent Cover of Woody Vegetation Within Riparian Planting Area",
+      "category": "Vegetation/Plants",
+      "subcategory": "Presence/Absence: Plants",
+      "isIndicator": false
+    },
+    {
+      "id": 457,
+      "title": "Area Planted",
+      "category": "Disturbance/Restoration",
+      "subcategory": "Area of Disturbance or Restoration",
+      "isIndicator": false
+    },
+    {
+      "id": 459,
+      "title": "Number of Plantings",
+      "category": "Disturbance/Restoration",
+      "subcategory": "Abundance of Disturbance or Restoration ",
+      "isIndicator": false
+    },
+    {
+      "id": 503,
+      "title": "Percent Plants Living",
+      "category": "Vegetation/Plants",
+      "subcategory": "Survival Rate: Plants",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Determine the proportion of actively eroding stream banks within the project impact and control areas. (Years 5 and 10)",
     "Determine the proportion of shading within the project impact and control areas. (Years 5 and 10)",

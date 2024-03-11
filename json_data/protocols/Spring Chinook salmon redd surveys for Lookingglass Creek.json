@@ -17,6 +17,29 @@
     "http://www.monitoringresources.org/api/v1/methods/4220",
     "http://www.monitoringresources.org/api/v1/methods/5410"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Adult Spring Chinook Salmon Spawner Abundance",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 507,
+      "title": "Redd Distribution in Space",
+      "category": "Fish",
+      "subcategory": "Spawning/Nesting",
+      "isIndicator": false
+    },
+    {
+      "id": 507,
+      "title": "Redd distribution in time",
+      "category": "Fish",
+      "subcategory": "Spawning/Nesting",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Estimate temporal distribution of redds.",
     "Estimate spatial distribution of redds.",

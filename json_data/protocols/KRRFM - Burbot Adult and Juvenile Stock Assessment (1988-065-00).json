@@ -17,6 +17,50 @@
     "http://www.monitoringresources.org/api/v1/methods/1736",
     "http://www.monitoringresources.org/api/v1/methods/4004"
   ],
+  "metrics": [
+    {
+      "id": 72,
+      "title": "MTDNA",
+      "category": "Fish",
+      "subcategory": "Genetics: Fish Diversity, Fitness or Variation",
+      "isIndicator": false
+    },
+    {
+      "id": 73,
+      "title": "Growth",
+      "category": "Fish",
+      "subcategory": "Growth Rate:  Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 77,
+      "title": "Fish Movement",
+      "category": "Fish",
+      "subcategory": "Migration Pathways: Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 97,
+      "title": "Survival Estimates",
+      "category": "Fish",
+      "subcategory": "Survival: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 202,
+      "title": "Hatchery or Wild Origin",
+      "category": "Fish",
+      "subcategory": "Origin",
+      "isIndicator": true
+    },
+    {
+      "id": 507,
+      "title": "Tributary Use",
+      "category": "Fish",
+      "subcategory": "Spawning/Nesting",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Assess population demographics (survival, growth, and recruitment) of wild and hatchery produced natural burbot of the Kootenai River, ID."
   ],

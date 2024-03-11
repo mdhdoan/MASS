@@ -14,6 +14,36 @@
     "http://www.monitoringresources.org/api/v1/methods/3981",
     "http://www.monitoringresources.org/api/v1/methods/6737"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Redd Counts",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 82,
+      "title": "Redband Trout Spawning Locations",
+      "category": "Fish",
+      "subcategory": "Presence/Absence: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 507,
+      "title": "Redband Trout Redd Abundance",
+      "category": "Fish",
+      "subcategory": "Spawning/Nesting",
+      "isIndicator": false
+    },
+    {
+      "id": 507,
+      "title": "Redband Trout Spawner Abundance",
+      "category": "Fish",
+      "subcategory": "Spawning/Nesting",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Quantify redband trout redds in the Spokane River, Lake Roosevelt and the upper Columbia River",
     "Quantify redband trout adult spawners in the Spokane River, Lake Roosevelt and the upper Columbia River",

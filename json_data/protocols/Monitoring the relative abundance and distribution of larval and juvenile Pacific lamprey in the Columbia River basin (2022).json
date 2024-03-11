@@ -12,6 +12,50 @@
     "http://www.monitoringresources.org/api/v1/methods/6773",
     "http://www.monitoringresources.org/api/v1/methods/7038"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Larval/Juvenile lamprey relative abundance",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 46,
+      "title": "Larval/Juvenile lamprey relative abundance",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 59,
+      "title": "Larval/Juvenile lamprey density",
+      "category": "Fish",
+      "subcategory": "Density of Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 59,
+      "title": "Larval/Juvenile lamprey density",
+      "category": "Fish",
+      "subcategory": "Density of Fish Species",
+      "isIndicator": true
+    },
+    {
+      "id": 201,
+      "title": "Genetic tagging of all Columbia River basin population segments",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Application",
+      "isIndicator": false
+    },
+    {
+      "id": 202,
+      "title": "Population segment origin of Pacific Lamprey",
+      "category": "Fish",
+      "subcategory": "Origin",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Monitor and evaluate the distribution patterns and presence/absence of Pacific Lamprey within Columbia River Basin freshwater environments.",
     "Estimate larval and juvenile Pacific Lamprey relative abundance and/or density in wadeable depth streams through backpack electrofishing.",

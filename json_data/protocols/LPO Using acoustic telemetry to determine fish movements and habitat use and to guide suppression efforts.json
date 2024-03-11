@@ -10,6 +10,29 @@
     "http://www.monitoringresources.org/api/v1/methods/1071",
     "http://www.monitoringresources.org/api/v1/methods/6611"
   ],
+  "metrics": [
+    {
+      "id": 77,
+      "title": "Determine spawn timing",
+      "category": "Fish",
+      "subcategory": "Migration Pathways: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 77,
+      "title": "Measure distance moved between receivers",
+      "category": "Fish",
+      "subcategory": "Migration Pathways: Fish",
+      "isIndicator": false
+    },
+    {
+      "id": 82,
+      "title": "Determine habitat use",
+      "category": "Fish",
+      "subcategory": "Presence/Absence: Fish",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Document movement extent, habitat use, spawn timing of Walleye, Northern Pike, Rainbow Trout, and Lake Trout to help guide suppression efforts and to determine factors limiting recruitment (RBT)."
   ],

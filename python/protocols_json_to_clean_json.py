@@ -59,6 +59,7 @@ for key, value in protocols_jdata.items():
     extracted_protocol['id'] = value['id']
     extracted_protocol['assumptions'] = value['assumptions']
     extracted_protocol['methods'] = value['methods']
+    extracted_protocol['metrics'] = value['metrics']
     extracted_protocol['objectives'] = value['objectives']
     extracted_protocol['ownerName'] = value['ownerName']
     extracted_protocol['ownerEmail'] = value['ownerEmail']

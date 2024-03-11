@@ -9,6 +9,15 @@
     "http://www.monitoringresources.org/api/v1/methods/6819",
     "http://www.monitoringresources.org/api/v1/methods/6821"
   ],
+  "metrics": [
+    {
+      "id": 228,
+      "title": "Predominant benthic substrate composition",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Type of Substrate",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Produce sonar imagery of submerged features and create benthic aquatic habitat mosaic maps from the usual and accustomed areas of the Spokane Tribe."
   ],

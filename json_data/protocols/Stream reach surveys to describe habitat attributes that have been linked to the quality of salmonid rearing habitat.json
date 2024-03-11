@@ -16,6 +16,71 @@
     "http://www.monitoringresources.org/api/v1/methods/4153",
     "http://www.monitoringresources.org/api/v1/methods/4154"
   ],
+  "metrics": [
+    {
+      "id": 15,
+      "title": "Total number of pools",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Abundance of Habitat Types",
+      "isIndicator": false
+    },
+    {
+      "id": 20,
+      "title": "Canopy cover",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Cover",
+      "isIndicator": false
+    },
+    {
+      "id": 37,
+      "title": "Residual pool depth",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Depth: Pool",
+      "isIndicator": false
+    },
+    {
+      "id": 44,
+      "title": "Bankfull width",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Width: Bankfull ",
+      "isIndicator": false
+    },
+    {
+      "id": 45,
+      "title": "Wetted width",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Width: Wetted",
+      "isIndicator": false
+    },
+    {
+      "id": 132,
+      "title": "Streambed composition of particle size",
+      "category": "Sediment/Substrate/Soils",
+      "subcategory": "Composition: Substrate/Soil-Dominant Size",
+      "isIndicator": false
+    },
+    {
+      "id": 374,
+      "title": "Total count of large woody debris",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Density of Instream Wood",
+      "isIndicator": false
+    },
+    {
+      "id": 374,
+      "title": "Volume of large woody debris",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Density of Instream Wood",
+      "isIndicator": false
+    },
+    {
+      "id": 440,
+      "title": "Percent pool habitat",
+      "category": "Landscape Form & Geomorphology",
+      "subcategory": "Distribution of Habitat Type",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Track changes in riparian and in-stream habitat attributes in a representative sample of stream sites after channel restoration activities have been implemented.",
     "Determine the status of riparian and in-stream habitat attributes in a representative sample of stream sites prior to projected channel restoration activities.",

@@ -9,6 +9,29 @@
     "http://www.monitoringresources.org/api/v1/methods/4112",
     "http://www.monitoringresources.org/api/v1/methods/6600"
   ],
+  "metrics": [
+    {
+      "id": 59,
+      "title": "Redd Density per Kilometer of Stream",
+      "category": "Fish",
+      "subcategory": "Density of Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 62,
+      "title": "Spatial Differences in Redd Distribution Before and After Restoration",
+      "category": "Fish",
+      "subcategory": "Distribution of Fish Species",
+      "isIndicator": true
+    },
+    {
+      "id": 507,
+      "title": "Changes of Redd Abundance by Reach Before and After Restoration",
+      "category": "Fish",
+      "subcategory": "Spawning/Nesting",
+      "isIndicator": true
+    }
+  ],
   "objectives": [
     "Map and compare spatial distribution and density of redds in treatment and control reaches related to fish habitat data over time.",
     "Correlate the biological effects of habitat restoration actions on redd abundance and distribution over time between treatment and control reaches."

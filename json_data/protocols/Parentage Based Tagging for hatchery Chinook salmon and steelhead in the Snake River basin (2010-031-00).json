@@ -16,6 +16,155 @@
     "http://www.monitoringresources.org/api/v1/methods/1432",
     "http://www.monitoringresources.org/api/v1/methods/1550"
   ],
+  "metrics": [
+    {
+      "id": 46,
+      "title": "Annual stock abundance over Lower Granite Dam",
+      "category": "Fish",
+      "subcategory": "Abundance of Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 49,
+      "title": "Age structure of Snake River hatchery adults",
+      "category": "Fish",
+      "subcategory": "Age Structure:  Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 52,
+      "title": "Determining stock proportion within harvest",
+      "category": "Fish",
+      "subcategory": "Harvest Abundance",
+      "isIndicator": false
+    },
+    {
+      "id": 65,
+      "title": "Effective population size of Snake R. hatchery stocks",
+      "category": "Fish",
+      "subcategory": "Effective Population Size",
+      "isIndicator": true
+    },
+    {
+      "id": 72,
+      "title": "Genetic Diversity of Hatchery Stocks",
+      "category": "Fish",
+      "subcategory": "Genetics: Fish Diversity, Fitness or Variation",
+      "isIndicator": false
+    },
+    {
+      "id": 72,
+      "title": "Temporal estimates of genetic diversity in hatchery stocks",
+      "category": "Fish",
+      "subcategory": "Genetics: Fish Diversity, Fitness or Variation",
+      "isIndicator": true
+    },
+    {
+      "id": 75,
+      "title": "Annual estimates of length at age for hatchery stocks",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": true
+    },
+    {
+      "id": 75,
+      "title": "Length of hatchery adults sampled at LGR Dam",
+      "category": "Fish",
+      "subcategory": "Length:  Fish Species",
+      "isIndicator": false
+    },
+    {
+      "id": 76,
+      "title": "Estimate of PIT tag retention in returning hatchery adults",
+      "category": "Fish",
+      "subcategory": "Mark Retention",
+      "isIndicator": true
+    },
+    {
+      "id": 86,
+      "title": "Progeny-per-Parent Ratio of Snake River hatchery broodstock",
+      "category": "Fish",
+      "subcategory": "Progeny-per-Parent Ratio (P:P) (Productivity)",
+      "isIndicator": false
+    },
+    {
+      "id": 88,
+      "title": "RRS of hatchery and wild adults in integrated programs",
+      "category": "Fish",
+      "subcategory": "Relative Reproductive Success (RRS)",
+      "isIndicator": true
+    },
+    {
+      "id": 89,
+      "title": "Variance in reproductive success of hatchery broodstock",
+      "category": "Fish",
+      "subcategory": "Reproductive Success (Nb/N)",
+      "isIndicator": true
+    },
+    {
+      "id": 92,
+      "title": "Sex ratio of hatchery stocks returning over LGR dam",
+      "category": "Fish",
+      "subcategory": "Sex Ratio: Fish",
+      "isIndicator": true
+    },
+    {
+      "id": 95,
+      "title": "Annual phenotype error rate estimation of unmarked adults",
+      "category": "Fish",
+      "subcategory": "Stock Identity",
+      "isIndicator": true
+    },
+    {
+      "id": 95,
+      "title": "Stock proportion of hatchery adults returning over LGR Dam",
+      "category": "Fish",
+      "subcategory": "Stock Identity",
+      "isIndicator": false
+    },
+    {
+      "id": 201,
+      "title": "Genetic tagging of all Snake River hatchery stocks",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Application",
+      "isIndicator": false
+    },
+    {
+      "id": 202,
+      "title": "Stock origin of hatchery adults",
+      "category": "Fish",
+      "subcategory": "Origin",
+      "isIndicator": false
+    },
+    {
+      "id": 202,
+      "title": "Stock origin of hatchery adults straying into wild spawning area",
+      "category": "Fish",
+      "subcategory": "Origin",
+      "isIndicator": true
+    },
+    {
+      "id": 202,
+      "title": "Stock origin of hatchery juveniles implanted w/acoustic tags",
+      "category": "Fish",
+      "subcategory": "Origin",
+      "isIndicator": true
+    },
+    {
+      "id": 202,
+      "title": "Stock origin of hatchery kelts capture at LGR dam",
+      "category": "Fish",
+      "subcategory": "Origin",
+      "isIndicator": true
+    },
+    {
+      "id": 381,
+      "title": "Stock origin of returning hatchery adults via PBT tagging",
+      "category": "Fish",
+      "subcategory": "Mark/Tag Recovery or Detection",
+      "isIndicator": false
+    }
+  ],
   "objectives": [
     "Describe how data are to be collected, managed, analyzed, and reported to develop and assess the utility of PBT technology for hatchery steelhead and Chinook salmon in the Snake river basin."
   ],

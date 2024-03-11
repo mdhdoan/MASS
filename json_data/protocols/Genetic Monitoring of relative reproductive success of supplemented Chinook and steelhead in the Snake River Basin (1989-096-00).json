@@ -19,6 +19,50 @@
     "http://www.monitoringresources.org/api/v1/methods/5404",
     "http://www.monitoringresources.org/api/v1/methods/5446"
   ],
+  "metrics": [
+    {
+      "id": 65,
+      "title": "Effective population size",
+      "category": "Fish",
+      "subcategory": "Effective Population Size",
+      "isIndicator": true
+    },
+    {
+      "id": 72,
+      "title": "Genetic diversity of populations",
+      "category": "Fish",
+      "subcategory": "Genetics: Fish Diversity, Fitness or Variation",
+      "isIndicator": true
+    },
+    {
+      "id": 72,
+      "title": "Hardy-Weinberg estimation",
+      "category": "Fish",
+      "subcategory": "Genetics: Fish Diversity, Fitness or Variation",
+      "isIndicator": true
+    },
+    {
+      "id": 88,
+      "title": "Number of offspring per spawner",
+      "category": "Fish",
+      "subcategory": "Relative Reproductive Success (RRS)",
+      "isIndicator": true
+    },
+    {
+      "id": 88,
+      "title": "Relative reproductive success of hatchery and natural adults",
+      "category": "Fish",
+      "subcategory": "Relative Reproductive Success (RRS)",
+      "isIndicator": true
+    },
+    {
+      "id": 89,
+      "title": "Variance of reproductive success",
+      "category": "Fish",
+      "subcategory": "Reproductive Success (Nb/N)",
+      "isIndicator": true
+    }
+  ],
   "objectives": [
     "Monitor relative reproductive success of hatchery and wild Chinook and steelhead in the Snake River Basin"
   ],

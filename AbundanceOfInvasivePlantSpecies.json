@@ -1,0 +1,82 @@
+﻿[
+  {
+    "m1.title": "Benthic Macroinvertebrates v1.0",
+    "m1.textbody": "This method is derived from an Environmental Monitoring and Assessment Program (EMAP) protocol developed for monitoring western wadable streams. Included in this method are instructions for collecting representative sample of benthic macroinvertebrates. This method is based on an abundance of literature and is focused on characterizing the taxonomic composition and relative abundance of benthic macroinvertebrate assemblages. Benthic macroinvertebrates inhabit the bottom substrates of streams and reflect overall biological condition (Kerans and Karr 1994, Barbour et al. 1999, Reynoldson et al. 2001, Klemm et al. 2002, 2003, Clarke et al. 2003, Bailey et al. 2004, Griffith et al. 2005). Monitoring these assemblages is useful in assessing the status of the water body and detecting trend in ecological condition. Benthic assemblages respond to a wide array of stressors in different ways, and it is often possible to determine the type of stress that has affected the macroinvertebrate assemblage (e.g., Klemm et al. 1990). Because many macroinvertebrates have life cycles of a year or more and are relatively immobile, macroinvertebrate assemblage structure is a function of present and past conditions (Barbour et al. 1999). The EMAP-SW benthic macroinvertebrate protocol is intended to evaluate the biological condition of wadeable streams in the United States for the purpose of detecting stresses on assemblage structure and assessing the relative severity of these stresses. It is based on the Level III procedure for benthic macroinvertebrates of the Rapid Bioassessment Protocol (RBP; Plafkin et al. 1989, Barbour et al. 1999), which has been adopted for use by many states. A representative sample of the benthic assemblage cannot be collected from a single point. Therefore, the response design is based on the collection of multiple kicknet samples from throughout the support reach. Results from Li et al. (2001) suggest the length of the support reach (40 channel widths) provides an adequate sample of the assemblage in terms of taxa richness and relative abundance. A fixed number (and thus area) of collection points is allocated systematically throughout the support reach ensure distribution of samples among available major habitat types, eliminate individual sampler bias, and provide a comparable and consistent sample from every site. All samples collected at a site are combined into a single composite sample to characterize the support reach (and thus the sampling point) and reduce the cost and effort in processing and analysis (Patil et al. 1994, Barbour et al. 1999, Roth et al. 2002). The number of individual samples (11) is expected to provide a composite sample having a sufficient number of individuals to characterize the taxonomic composition and relative abundance of the assemblage (e.g., Larsen and Herlihy 1998). Samples are collected from each support reach with a D-frame kick net that can be used by one person (Figure 10-1). The biomorphs collect kick net samples for benthic macroinvertebrates at sampling points at each cross-section transect. Typically, one person will collect the kick net samples, while a second person times the collection of samples and records information on the field data form. However, in swift waters, two persons may be necessary to collect the samples. All kick net samples collected at transects are combined into a single composite sample (termed the reachwide sample). When sufficient riffle habitats are available at a site, additional kick net samples are collected from available riffle habitats found within the support reach. These kick net samples are combined to create a separate composite sample (termed the targeted riffle sample).",
+    "m2.title": "Abundance of Invasive Plant Species"
+  },
+  {
+    "m1.title": "Laying Out Control and Impact Stream Reaches for Wadeable Streams (For Fish Passage Projects) v1.0",
+    "m1.textbody": "The concept of EMAP sampling is that randomly selected reaches located on a stream can be used to measure changes in the status and trends of habitat, water quality, and biota over time if taken in a scientifically rigorous manner per specific protocols.  We have applied the EMAP field sampling protocols for measuring effectiveness of restoration and acquisition projects.  Instead of a randomly selected stream reach, the stream reach impacted by the project is sampled. These impact reaches have been matched with control reaches of the same length and size on the same stream whenever possible.  Within each sampled project reach a series of Transects A-K are taken across the stream and riparian zone as points of reference for measuring characteristics of the stream and riparian areas.  The Transects are then averaged to obtain an average representation of the stream reach.",
+    "m2.title": "Abundance of Invasive Plant Species"
+  },
+  {
+    "m1.title": "Measuring Slope And Bearing v1.0",
+    "m1.textbody": "Using the following methods, the water surface slope and bearing can be determined.  These measures can be used to calculate residual pool depth.  Residual pool volume is the amount of water that would remain in the pools if there were not flow and the pools were impermeable basins.  The intent of measuring this parameter is to show the changes in cross sectional stream complexity typified by pools and riffles.Slope and bearing are measured using two people by back-sighting downstream between Transects.",
+    "m2.title": "Abundance of Invasive Plant Species"
+  },
+  {
+    "m1.title": "Determining Upland Vegetation Species Diversity and Densities v1.0",
+    "m1.textbody": "Many SRFB acquired lands contain significant areas of upland habitat that either were acquired in fee title or by easement to protect the downslope portion of the salmon bearing stream, or they were part of a parcel of land having significant riparian and instream habitat and the uplands were acquired as part of the parcel requirements. In either event, health of upland habitat should be maintained or improved where stream and riparian protection is a high priority. Upland areas contribute to erosion, landslides, high runoff and high stream temperatures. These protocols are intended to track forest cover, brush and grasslands species diversity, and density as a measure of their health and changes since the base year when purchased.  delineate major vegetation polygons  evaluate vegetation polygons in the field  establish transect and plot locations ",
+    "m2.title": "Abundance of Invasive Plant Species"
+  },
+  {
+    "m1.title": "Particle Size Distribution and Particle Embeddedness v2.0",
+    "m1.textbody": "Objectives 1) Quantify size distribution of substrate in fast water habitats by measuring 21 particles from 10 cross-sections for a total of 210 particles per site 2) estimate embeddedness of cobbles. Changes made for 2012: - particles assigned to size classes using a gravelometer instead of taking discrete measurements - added percent fines surrounding cobbles",
+    "m2.title": "Abundance of Invasive Plant Species"
+  },
+  {
+    "m1.title": "Measuring Pool Tail Fines v1.0",
+    "m1.textbody": "This protocol is designed to determine the percentage of fine sediments on the pool tail surface of plunge pools and scour pools.  For the purposes of this method, the following criteria must be met for a feature to be considered a pool: Pools are depressions in the streambed that are concave in profile, laterally and longitudinally.  Pools are bound by a head crest (upstream break in streambed slope) and a tail crest (downstream break in streambed slope).  Only consider main channel pools where the thalweg runs through the pool, and not backwater pools.  Pools span at least 50% of the wetted channel width at any location within the pool. So a pool that spans 50% of the wetted channel width at one point, but spans <50% elsewhere is a qualifying pool.  When islands are present only consider pools in the main channel; dont measure pools in side channels.  If a side channel is present, the pool must span at least 50% of the main channels wetted width; disregard side channels width when making this determination.  Maximum pool depth is at least 1.5 times the pool tail depth.",
+    "m2.title": "Abundance of Invasive Plant Species"
+  },
+  {
+    "m1.title": "Calculation of variation in thalweg profile and channel width v1.0",
+    "m1.textbody": "Calculation of variation index for residual pools from thalweg profile data and histogram of channel widths. This variation index for residual pools has been found to have a strong correlation with habitat complexity and fish use (Mossop and Bradford 2006).",
+    "m2.title": "Abundance of Invasive Plant Species"
+  },
+  {
+    "m1.title": "Channel Unit Classification v1.0",
+    "m1.textbody": "Channel units are relatively homogeneous lengths of stream channel with similar water surface gradient, substrate composition, flow characteristics, and bedform profile. The identification of channel units provides the context for the survey of fish habitat attributes and channel topography. Channel units are delineated according to a two-tiered hierarchical classification schema (Fig 11). The following criteria should be used when considering sections of channel for delineation as unique channel units: 1. In general, channel units are at least as long as the wetted channel width. 2. Slow water units separated by a small gradient drop should have a unit between them even if it is not as long as it is wide. 3. In large streams (> width category 10) slow water unit types (scour pools and off-channel units) that provide significant fish habitat that are not as long as the wetted channel is wide should also be considered for unit delineation. 4. Falls, steps, and plunge pools are rarely as long as the wetted channel width, but should be delineated as separate channel units due to their importance as fish habitat and areas of topographic complexity.",
+    "m2.title": "Abundance of Invasive Plant Species"
+  },
+  {
+    "m1.title": "Detecting Fish Species Assemblages Using Backpack Electrofishing or Snorkeling v1.0",
+    "m1.textbody": "Electrofishing: Obtain collectors permits and ESA clearances. Once the settings on the electrofisher have been set properly, begin sampling the reach and fish in an upstream direction. Sample available cut-bank and snag habitat. Sample deep, shallow, fast, slow, complex, and simple habitats. Continue upstream until the next Transect is reached. Process fish and change water after each Transect to reduce mortality and track sampling effort.  Snorkeling: Measure the water temperature. Estimate visibility as low, medium, or high. Begin at the downstream boundary of the control reach and proceed upstream. A two person snorkeling crew can conduct snorkel surveys in wadeable stream control and impact study reaches. In areas where the stream is not wadeable, up to four snorkelers may be needed. In non-wadeable areas, crew members should snorkel side by side and sum their individual counts. Each snorkeler counts the fish to the immediate front and to the sides opposite the other snorkeler or as designated by the team leader to avoid duplication of counts. All species of fish observed from one Transect to the next (A to B, B to C, etc.) should be enumerated, identified, and recorded (Fish Survey Form, Figure 9). Forklengths should be estimated to the nearest 5 mm. Continue proceeding upstream until the survey is completed at Transect K. Forklengths should be estimated to the nearest 5 mm. After snorkeling, rate underwater visibility of each study",
+    "m2.title": "Abundance of Invasive Plant Species"
+  },
+  {
+    "m1.title": "Tally Large Woody Debris v2.0",
+    "m1.textbody": "Quantify the volume and number of qualifying LWD pieces within the site and associate them with channel units.",
+    "m2.title": "Abundance of Invasive Plant Species"
+  },
+  {
+    "m1.title": "Bankfull Width Calculation v1.0",
+    "m1.textbody": "The River Bathymetry Toolkit (RBT) is a suite of GIS tools for processing high resolution Digital Elevation Models (DEMs) of stream reaches. The RBT is being actively developed by ESSA Technologies and is available for free. The goal is to characterize in-stream and floodplain geomorphology to support aquatic habitat analyses and numerical models of flow and sediment transport. Tools were created for ArcGIS to conduct several types of analyses associated with DEMs, including geomorphic change detection, uncertainty analyses, user-defined density of cross-sections and longitudinal profiles. These tools can extract hydrologic parameters such as wetted area, bankfull width, water depths, hydraulic radius, gradient, sinuosity (McKean et al. 2009), erosion and depositional patterns and budgets, and uncertainty in the DEM (Wheaton et al. 2010). Using an automated detrending algorithm we are able to remove the overall valley slope. Tools are being created that use the detrended raster to investigate flooding outside a main channel at any prescribed discharge or flow stage. The RBT will also allow users to recreate other survey protocols that use cross-sectional and longitudinal profile approaches. The CHaMP - Topographic Point Collection Methods (Method ID:5328) provides background on collection of the X, Y, Z point measurement data used to generated the DEM that is analyzed for this calculation.",
+    "m2.title": "Abundance of Invasive Plant Species"
+  },
+  {
+    "m1.title": "Characterizing Stream Morphology, Thalweg Profile v1.0",
+    "m1.textbody": "The Thalweg Profile is a longitudinal survey of depth, habitat class, presence of soft/small sediment deposits, and off-channel habitat at 100 equally spaced intervals (150 in streams less than 2.5 m wide) along the centerline between the two ends of the sampling reach. Thalweg refers to the flow path of the deepest water in a stream channel. Wetted width and bankfull width are measured and substrate size is evaluated at 21 equally spaced cross-sections (at 11 regular Transects A through K, plus 10 supplemental cross-sections spaced mid-way between each of these).",
+    "m2.title": "Abundance of Invasive Plant Species"
+  },
+  {
+    "m1.title": "Measuring Pool Attributes v1.0",
+    "m1.textbody": "By measuring the pool attributes, changes in the percentage of fines and embeddedness within the impact and control areas pre- and post-project can be determined in order to detect any significant changes.",
+    "m2.title": "Abundance of Invasive Plant Species"
+  },
+  {
+    "m1.title": "Measuring Actively Eroding Streambanks v1.0",
+    "m1.textbody": "Estimate the percent of the lineal distance between each Transect that is actively eroding at the active channel height. Active erosion is defined as actively, recently eroding or collapsing banks and may have the following characteristics: exposed soils and inorganic material, evidence of tension cracks, active sloughing, or superficial vegetation that does not contribute to bank stability.",
+    "m2.title": "Abundance of Invasive Plant Species"
+  },
+  {
+    "m1.title": "Summary Statistics for Habitat Protection Projects v1.0",
+    "m1.textbody": "After field data collection, the data are uploaded into an MS Access database which then computes summary statistics to reflect habitat conditions at the reach scale. These summary statistics were generally developed as part of the EPA EMAP and were selected for this program based on their high signal to noise ratios as compared to other potential summary variables. The following variables are reported for Habitat Protection Projects: GPS Coordinates, Sample Date, Reach Length, Reach Width, Log10 of Volume of LWD, Mean Residual Pool Vertical Profile Area, Mean Residual Pool Area, Percent Fines, Percent Embeddedness, Canopy Cover, Riparian Vegetation Structure, Bank Erosion, Non-native Shrub Cover, Coniferous Basal Area, Coniferous Density, Deciduous Basal Area, Deciduous Density, Fish Species Assemblage Index, and Macroinvertebrate Multimetric Index.",
+    "m2.title": "Abundance of Invasive Plant Species"
+  },
+  {
+    "m1.title": "Characterizing Riparian Vegetation Structure v1.0",
+    "m1.textbody": "This method is designed to determine the changes in riparian vegetation due to a restoration project where riparian vegetation has been planted.",
+    "m2.title": "Abundance of Invasive Plant Species"
+  }
+]

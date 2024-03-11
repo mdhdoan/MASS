@@ -34,7 +34,13 @@ MERGE (p:Protocols {uid: json_data['url']})
         p.pid = json_data.id,
         p.assumptions = json_data.assumptions,
         p.methods = json_data.methods,
+        p.metric = [],
         p.objectives = json_data.objectives,
         p.ownername = json_data.ownerName,
         p.ownerEmail = json_data.ownerEmail,
         p.programUrl = json_data.programUrl
+WITH json_data, p
+    UNWIND json_data.metrics as metric_data
+WITH p, metric_data
+    SET p.metric = p.metric + [metric_data.id]
+    SET p.metric = apoc.coll.toSet(p.metric)

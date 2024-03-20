@@ -1,7 +1,7 @@
+import csv
 import json
 import numpy
 import os
-import pandas as pd
 import random
 import sklearn
 import sys
@@ -32,34 +32,64 @@ def increase_count(count, character):
 
 if __name__ == '__main__':
     file_name = sys.argv[1]
-    with open(file_name, 'r') as in_file:
-        metric_matching_data = json.load(in_file[0])
-        print(metric_matching_data)
+    metric_matching_data = {}
+    metric_to_consider = ''
+    method_data = []
 
-    # prompt_template = """
-    # You are a helpful, respectful and honest assistant for labeling topics.
+    with open(file_name, 'r', encoding = 'utf-8-sig') as in_file:
+        metric_matching_data = csv.DictReader(in_file)
+        for row in metric_matching_data:
+            metric_to_consider = row['Metric']
+            method_data.append({row['Title']: row['Textbody']})
+    metric_to_consider = metric_matching_data
+    # print(method_data)
 
-    # I have a topic that contains the following documents delimited by triple backquotes (```). 
-    # ```{documents}```
+    # # Step 1 - Extract embeddings
+    # embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
+    # embeddings = embedding_model.encode(method_data, show_progress_bar=True)
+
+    # # Step 2 - Reduce dimensionality
+    # umap_model = UMAP(n_neighbors=15, n_components=5, min_dist=0.0, metric='cosine')
+
+    # # Step 3 - Cluster reduced embeddings
+    # hdbscan_model = HDBSCAN(min_cluster_size=15, metric='euclidean', cluster_selection_method='eom', prediction_data=True)
+
+    # # Step 4 - Tokenize topics
+    # vectorizer_model = CountVectorizer(stop_words="english")
+
+    # # Step 5 - Create topic representation
+    # ctfidf_model = ClassTfidfTransformer()
+
+    # # Step 6 - (Optional) Fine-tune topic representations with 
+    # # a `bertopic.representation` model
+    # representation_model = KeyBERTInspired()
+
+    # # All steps together
+    # topic_model = BERTopic(
+    #     embedding_model=embedding_model,          # Step 1 - Extract embeddings
+    #     umap_model=umap_model,                    # Step 2 - Reduce dimensionality
+    #     hdbscan_model=hdbscan_model,              # Step 3 - Cluster reduced embeddings
+    #     vectorizer_model=vectorizer_model,        # Step 4 - Tokenize topics
+    #     ctfidf_model=ctfidf_model,                # Step 5 - Extract topic words
+    #     representation_model=representation_model # Step 6 - (Optional) Fine-tune topic represenations
+    # )
+
+    prompt_template = """
+    You are a helpful, respectful and honest assistant for labeling topics.
+
+    I have a list of title that contains the following text bodies in a list and stored as a dictionary (JSON format): 
+    {method_data}
     
-    # The topic is described by the following keywords delimited by triple backquotes (```):
-    # ```{keywords}```
+    The metric to consider is:
+    {metric_to_consider}
 
-    # Previous attempt at labeling the work contains these topic labels that I would like to be try before generating new label. 
-    # The labels are delimtied by triple backquotes (```):
-    # ```{labels}```
+    From the given list of title and context from the following text bodies, please return the most matching in terms of metric, and only the metric
+    """
 
-    # Return ONLY a the topic label, which should not contain more than 5 words.
-    # If your answer has any code in it, generate again. 
-    # If the amount of words in your answer is more than 5, generate again.
-    # If your answer include a clarification or explanation, only return the topic label
-    # If the label includes any character such as [ and ] and ' and " remove those characters
+    llm = Ollama(model="mistral")
+    prompt = PromptTemplate(input_variables=["method_data", "metric_to_consider"], template=prompt_template)
+    llm_chain = LLMChain(llm=llm, prompt=prompt)
 
-    # For example, I want something look like these: 
-    # Streamflow Measurement in Streams
-    # Wetland Habitat and Waterfowl Management
-    # """
-
-    # llm = Ollama(model="mistral")
-    # prompt = PromptTemplate(input_variables=["documents", "keywords", "labels"], template=prompt_template)
-    # llm_chain = LLMChain(llm=llm, prompt=prompt)
+    result = llm_chain.invoke({'method_data': method_data, 'metric_to_consider': metric_to_consider})
+    matching_title = result['text']
+    print(matching_title)

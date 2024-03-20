@@ -4,11 +4,13 @@
     - Fish species identification and classification (e.g., White sturgeon)
     - Fish behavior and migration patterns
    
-2. **Aquaculture and Fisheries**
-    - Telemetry using Passive Integrated Transponder (PIT) tags for fish tracking
-    - Stock assessment studies and mark-recapture methods   
-    - Marking, tagging, and handling procedures for fish   
-    - Research on fishing effort estimation (angler surveys, roving crews, offsite surveys)
+2. **Aquaculture and Fisheries** <- Fix that Mistral
+    These should be at number 6:
+        - Telemetry using Passive Integrated Transponder (PIT) tags for fish tracking
+        - Stock assessment studies and mark-recapture methods   
+        - Marking, tagging, and handling procedures for fish   
+    Generic:
+        - Research on fishing effort estimation (angler surveys, roving crews, offsite surveys)
 
 3. **Effects of Dams on Aquatic Ecosystems**
     - Reductions in spawning habitat for fish species

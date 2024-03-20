@@ -110,7 +110,7 @@ if __name__ == '__main__':
     Wetland Habitat and Waterfowl Management
     """
 
-    llm = Ollama(model="mistral")
+    llm = Ollama(model="mixtral")
     prompt = PromptTemplate(input_variables=["documents", "keywords", "labels"], template=prompt_template)
     llm_chain = LLMChain(llm=llm, prompt=prompt)
     

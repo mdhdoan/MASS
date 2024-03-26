@@ -39,8 +39,11 @@ prompt_template = """
 
         I need you to match each metric to the closest matching method given their description
         Return for me a list of methods name ONLY.
-        Do not give me any additional texts.
-        If your response contains anything other than the list of method names, remove them.
+        First take out the method titles in their entirety, then write them into the desired format below
+        Desired format:
+            [comma separated list of methods name, each surrounded by single quotation mark]
+        Check on your list within the desired format that it only contains method titles, and nothing else. 
+        In your response, no need to include any additional words besides the Desired format.
         """
 
 
@@ -84,6 +87,7 @@ if __name__ == '__main__':
 
     test = 0
     test_result = {}
+    fail_counter = 0
     for protocol_id, metrics in protocol_dict.items():
         print('List of Metrics: ', metrics)
         print('Begin mistral with protocol number ' + protocol_id + ' and metric: ', end = '')
@@ -101,7 +105,15 @@ if __name__ == '__main__':
             print('--- END Mistral work --- ')
             print(' which has the closest mathing result to be: \n\t' + matching_title)
             # test_result[metric] = matching_title
-            json_matching_result = eval(matching_title)
+            try:
+                json_matching_result = eval(matching_title)
+            except:
+                fail_counter += 1
+                with open('METRIC_METHOD_MATCHING_TEST_LIST_Interrupted.json', 'a') as test_result_file:
+                    test_result['ERROR NOTE'] = 'MISTRAL DID NOT GIVE A USABLE LIST\n' + matching_title
+                    writing_data = json.dumps(test_result, indent = 4)
+                    test_result_file.write(writing_data)
+                    continue
             for method in json_matching_result:
                 # print(method_dict[method])
                 if method not in method_dict:
@@ -126,3 +138,4 @@ if __name__ == '__main__':
             break
         else:
             continue
+    print('Completed with fail rate: ' + fail_counter + ' out of ' + test)

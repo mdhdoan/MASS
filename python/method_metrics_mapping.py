@@ -85,12 +85,13 @@ if __name__ == '__main__':
         # break
     # protocol_list = list(set(protocol_list))
 
-    # print(len(protocol_dict))
+    total_protocol = len(protocol_dict)
     protocol_counter = 0
     # test_result = {}
     fail_counter = 0
     metric_counter = 0
     for protocol_id, metrics in protocol_dict.items():
+        print('protocol #', protocol_counter, 'out of', total_protocol)
         print('List of Metrics: ', metrics)
         print('Begin mistral with protocol number ' + protocol_id + ' and metric:', end = ' ')
         # break
@@ -118,7 +119,7 @@ if __name__ == '__main__':
                     test_result['ERROR NOTE'] = 'MISTRAL DID NOT GIVE A USABLE LIST\n' + matching_title
                     writing_data = json.dumps(test_result, indent = 4)
                     test_result_file.write(writing_data)
-                    print('Writing to failed file...')
+                    print('Writing to FAILED file...')
                     continue
             for method in json_matching_result:
                 # print(method_dict[method])
@@ -136,7 +137,7 @@ if __name__ == '__main__':
                 else:
                     test_result[metric].append([method, description])
                 
-            print('Writing to pass file...')
+            print('Writing to PASS file...')
             with open('METRIC_METHOD_MATCHING_TEST_LIST_PASS.json', 'a+') as test_result_file:
                 writing_data = json.dumps(test_result, indent = 4)
                 test_result_file.write(writing_data)

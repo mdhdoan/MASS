@@ -1,0 +1,169 @@
+{
+  "description": "<p>CHaMP&nbsp;is designed as a Columbia River basin-wide habitat status and trends monitoring program built around a single protocol with a programmatic approach to data collection and management (RM&amp;E Workgroup 2010).&nbsp;CHaMP&nbsp;will result in the collection and analysis of systematic habitat status and trends information that will be used to assess basin-wide habitat conditions. When coupled with biological response indicators, this status and trends information will be used to evaluate habitat management strategies. This program will be integrated with ongoing Pacific Northwest Aquatic Monitoring Program (PNAMP) recovery planning efforts and will be part of the collaborative process across Columbia Basin fish management agencies and tribes and other state and federal agencies that are monitoring&nbsp;anadromous&nbsp;salmonids&nbsp;and/or their habitat. The implementation of&nbsp;CHaMP&nbsp;will characterize stream responses to watershed restoration and/or management actions in at least one population within each steelhead and spring Chinook Major Population Group (MPG) which have, or will have, &ldquo;fish-in&rdquo; and &ldquo;fish-out&rdquo; monitoring (identified in&nbsp;RPA&nbsp;50.6), thereby meeting the requirements of&nbsp;RPA&nbsp;56.3,&nbsp;RPA&nbsp;57, and&nbsp;RPA&nbsp;3.&nbsp;CHaMP&nbsp;was designed to deliver trends in habitat indicators and requires that monitoring occurs for three cycles of a sampling panel (see section 1.6), at least 9 years.</p>\r\n\r\n<p>CHaMP&rsquo;s&nbsp;Wenatchee design developed from a 9 year history of&nbsp;GRTS&nbsp;based site selection and habitat monitoring.&nbsp; The legacy design contained a list of sites sampled annually (some sites with missing years), and a set of once only sites.&nbsp; Consequently the&nbsp;CHaMP&nbsp;design continues many of the legacy sites carried over into&nbsp;ChaMP&rsquo;s&nbsp;valley class and public/private stratification.&nbsp;&nbsp;CHaMP&nbsp;targets the Wenatchee River Steelhead population (Upper Columbia River&nbsp;DPS).</p>\r\n\r\n<p><strong>2014 Site selection updates:</strong></p>\r\n\r\n<p>In 2014 the frame was reduced to reflect a more accurate steelhead frame. &nbsp;The GRTS draw was not redone, however the sample allocation among panels and strata were adjusted to reflect the proportion of the frame in each strata. &nbsp;13 annual sites remained within the frame and these were kept. &nbsp;For Rotating Panels 1-3, site allocation was adjusted to match the frame length for each panel. &nbsp;</p>\r\n\r\n<p>Depositional-Private: 4 sites for each Rotating Panel</p>\r\n\r\n<p>Depositional-Public: 5 sites for each Rotating Panel</p>\r\n\r\n<p>Source-Private: 1 site for each Rotating Panel</p>\r\n\r\n<p>Source-Public: 1 site for each Rotating Panel</p>\r\n\r\n<p>Transport-Private: 1 site for each Rotating Panel</p>\r\n\r\n<p>Transport-Public:0 sites for each Rotating Panel</p>\r\n\r\n<p>Sites within the new target frame but rejected in previous 2011-2013 evaluations were kept within their native stratum, but it is assumed these will remain rejected for 2014. &nbsp;1 site was moved from RP2-Transport Public to Annual-Transport Public because it was sampled in 2012 but will not be needed in 2015, and the Annual-Transport-Public block was short 1 previously sampled site.&nbsp;</p>\r\n\r\n<p>6 previously sampled annual sites were removed from the design due to the change in frame:&nbsp;</p>\r\n\r\n<p>WC503432-000152, WENMASTER-000269, CBW05583-492715, CBW05583-060011, WC503432-000046, WC503432-000048.&nbsp;</p>\r\n\r\n<p>Sampling effort was also modified in 2014 to allow intensive sampling of Little Wenatchee. &nbsp;4 sites were dropped from sampling: &nbsp;</p>\r\n\r\n<p>\u200b<span style=\"font-size:12px; line-height:1.4em\">WENMASTER-000310,&nbsp;</span><span style=\"font-size:12px; line-height:1.4em\">WENMASTER-000298, WENMASTER-000055, WENMASTER-000295</span></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong style=\"font-size:12px; line-height:1.4em\">2013 Site selection updates:&nbsp;</strong></p>\r\n\r\n<p>There were no site selection&nbsp;updates in 2013. Several effectiveness monitoring sites measured by Tetra Tech were added to the block design of the Wenatchee in a new stratum (Restoration Tetra Tech) but this did not alter the 2012 Wenatchee study design.</p>\r\n\r\n<p><strong><em>2012 Site selection updates:</em></strong>&nbsp;</p>\r\n\r\n<p>The 2011 Wenatchee frame contained high proportion of frame errors (sites that were above barriers).&nbsp; Consequently, the number of&nbsp;oversample&nbsp;sites was exceeded in several blocks.&nbsp; The frame was revised to reflect a more realistic set of target sites.&nbsp; The set of 2011 sites deemed target were set aside as legacy sites.&nbsp; Then the non-legacy sites were input to the &lsquo;strat_panel_function10.2.r&rsquo; by valley class to create an ordered site list attached as an addendum to each block.&nbsp;</p>\r\n\r\n<p>\u200b\u200b<strong>Master sample&nbsp;GRTS&nbsp;input file: 2011 file&nbsp;recoded&nbsp;with updated Target frame.&nbsp;</strong>Wen2012Review_20120606.csv\u200b</p>\r\n\r\n<p><strong><em>R code</em></strong><strong>:</strong>&nbsp;Wenatchee.Design.4.26.2011.r (contains changes for 2012)</p>\r\n\r\n<p><strong>Extra Site Output files for 2012:</strong>&nbsp;wen.trans.extra.2012.csv, wen.source.extra.dsgn.20120507.csv, wen.dep.extra.20120507.csv</p>\r\n\r\n<p><strong>Design Documentation Files:</strong></p>\r\n\r\n<div><a href=\"https://isemp.egnyte.com/h-s/20140130/ca2c0bb7ed51415c\">WenatcheeDesignDocs.zip&nbsp;</a></div>\r\n\r\n<div>&nbsp;</div>\r\n",
+  "startYear": "2011",
+  "retirementYear": "",
+  "initiationYear": "2014",
+  "targetPopulation": "<p>The 2011 Wenatchee&nbsp;CHaMP&nbsp;frame was trimmed to include areas that were perennial (NHDPlus&nbsp;Hydrography&nbsp;FCode&nbsp;46006),&nbsp;wadeable&nbsp;(defined by&nbsp;Terraqua&nbsp;from previous sampling efforts),&nbsp;Strahler&nbsp;order 2-4 (excluded 1 and 5) and below&nbsp;anadromous&nbsp;barriers (as defined by&nbsp;Terraqua, Inc.). &nbsp;</p>\r\n\r\n<p>In 2012, the 2011 Wenatchee&nbsp;CHaMP&nbsp;frame was further trimmed to exclude areas that were determined to be above barriers in 2011. &nbsp;Sites above barriers were NOT sampled, and were instead&nbsp;allocated a non-target status, which was used to refine the 2012 frame.</p>\r\n\r\n<p>There were no pre-season updates to the frame in 2013.</p>\r\n\r\n<p>In 2014, Terraqua&nbsp;reduced the Target frame to reflect steelhead extent as per previous fish sampling efforts. &nbsp;</p>\r\n\r\n<p><strong>GIS Frame Files:</strong></p>\r\n\r\n<div><a href=\"https://isemp.egnyte.com/h-s/20140430/pycHfmCtQ8\" style=\"font-size: 12px;\">Wenatchee_Frame.zip&nbsp;</a></div>\r\n",
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 2333,
+      "name": "Annual",
+      "abbreviation": "Annual",
+      "years": [
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15850/panels/2333",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15850"
+    },
+    {
+      "id": 2334,
+      "name": "Extra",
+      "abbreviation": "Extra",
+      "years": [
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15850/panels/2334",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15850"
+    },
+    {
+      "id": 2335,
+      "name": "Rotating Panel 1",
+      "abbreviation": "Rotating Panel 1",
+      "years": [
+        "2011",
+        "2014",
+        "2017",
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15850/panels/2335",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15850"
+    },
+    {
+      "id": 2336,
+      "name": "Rotating Panel 2",
+      "abbreviation": "Rotating Panel 2",
+      "years": [
+        "2012",
+        "2015",
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15850/panels/2336",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15850"
+    },
+    {
+      "id": 2337,
+      "name": "Rotating Panel 3",
+      "abbreviation": "Rotating Panel 3",
+      "years": [
+        "2013",
+        "2016",
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15850/panels/2337",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15850"
+    }
+  ],
+  "strata": [
+    {
+      "id": 3160,
+      "name": "Depositional-Private",
+      "abbreviation": "Depositional-Private",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15850/strata/3160",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15850"
+    },
+    {
+      "id": 3161,
+      "name": "Depositional-Public",
+      "abbreviation": "Depositional-Public",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15850/strata/3161",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15850"
+    },
+    {
+      "id": 3162,
+      "name": "Little Wenatchee CBWs",
+      "abbreviation": "LW",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15850/strata/3162",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15850"
+    },
+    {
+      "id": 3163,
+      "name": "Source-Private",
+      "abbreviation": "Source-Private",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15850/strata/3163",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15850"
+    },
+    {
+      "id": 3164,
+      "name": "Source-Public",
+      "abbreviation": "Source-Public",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15850/strata/3164",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15850"
+    },
+    {
+      "id": 3165,
+      "name": "Transport-Private",
+      "abbreviation": "Transport-Private",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15850/strata/3165",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15850"
+    },
+    {
+      "id": 3166,
+      "name": "Transport-Public",
+      "abbreviation": "Transport-Public",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15850/strata/3166",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15850"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/18",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/228",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15850/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15850",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15850/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15850",
+  "masterSample": {
+    "name": "Columbia Basin Master Sample",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/1"
+  },
+  "userSamples": [
+    {
+      "name": "WC503432 Legacy Sample",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1017"
+    },
+    {
+      "name": "WENMASTER Legacy Sample",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1018"
+    },
+    {
+      "name": "Little Wenatchee GRTS draw from 200m intensification",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1063"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 15850,
+  "title": "Wenatchee Watershed Habitat Surveys within the Columbia Habitat Monitoring Program (CHaMP) in 2014",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15850",
+  "spatialDesignCategory": "Modified GRTS",
+  "spatialDesignCategoryID": 14,
+  "lastUpdated": null
+}

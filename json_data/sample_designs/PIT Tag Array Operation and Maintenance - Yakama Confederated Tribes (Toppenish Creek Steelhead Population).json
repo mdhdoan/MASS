@@ -1,0 +1,52 @@
+{
+  "description": "<p>the Yakama staff will use a portable instream PIT tag array located above the confluence with Simcoe Creek on the mainstem Toppenish Creek and one in Simcoe Creek to estimate adult escapement to spawning habitat and determine the number of adult steelhead per redd in the mainstem Toppenish Creek steelhead spawning habitat.&nbsp; All adult steelhead that enter the Denile fish trap at Prosser Dam on the Yakima River are now PIT tagged by the Yakama Nation (10 to 20 percent of the Yakima MPG run).&nbsp; A total count at the dam is obtained with video counting equipment.&nbsp; YN is able to disaggregate the total Prosser count into separate populations by detecting the number passing different points where antennae are installed.&nbsp; In addition to an adult steelhead escapement estimate we will use this estimate of adult abundance to determine the number of fish/redd.&nbsp; &nbsp; Fish per redd and fish per spawner will be used to evaluate freshwater productivity of the Toppenish population.</p>\r\n",
+  "startYear": "2012",
+  "retirementYear": "2027",
+  "initiationYear": "2012",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Tim Resseguie ",
+  "ownerEmail": "rest@yakamafish-nsn.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 21845,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2012"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16336/panels/21845",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16336"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24399,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16336/strata/24399",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16336"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/113",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16336/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16336",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16336/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16336",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16336",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11375"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16336,
+  "title": "PIT Tag Array Operation and Maintenance - Yakama Confederated Tribes (Toppenish Creek Steelhead Population)",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16336",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2019-04-26T04:21:37-07:00"
+}

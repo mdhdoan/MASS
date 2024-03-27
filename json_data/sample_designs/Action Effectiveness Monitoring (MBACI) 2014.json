@@ -1,0 +1,98 @@
+{
+  "description": "<p>The MBACI (Multiple Before After Control Impact) Study Design for Action Effectiveness Monitoring is based on other large-scale monitoring projects that are targeted at determining the relative effectiveness of restoration project action types across a large area.&nbsp; Restoration action types included in the program include floodplain enhancement, bank stabilization, partial fish passage, livestock exclusion fencing, and habitat protection.&nbsp; Floodplain Enhancement projects are further divided into three subcategories: channel reconnection, levee modification, and channel remeander.&nbsp; These action types are sampled using paired treatment and control reaches that are both sampled for two years pre-project (to establish baseline variance, especially for fish response) and for mutiple years after implementation (1,3,5 etc.).&nbsp; The protocols used to sample each site are specific to the expected objectives and outcomes of the actionl, but are related to protocols from both the Washington Salmon Recovery Funding Board Project Effectiveness Monitoring Program and the Columbia Habitat Monitoring Program.&nbsp; Expected sample sizes for each category are as follows: partial fish passage (10), bank stabilization (10), livestock exclusion fencing (10), channel reconnection (15), levee modification (15), channel remeander (15), and habitat protection (10).</p>\r\n",
+  "startYear": "2012",
+  "retirementYear": "",
+  "initiationYear": "2013",
+  "targetPopulation": null,
+  "ownerName": "Jennifer O'Neal",
+  "ownerEmail": "jen@naturaldes.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 5652,
+      "name": "Annual",
+      "abbreviation": "Ann",
+      "years": [
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15888/panels/5652",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15888"
+    }
+  ],
+  "strata": [
+    {
+      "id": 6852,
+      "name": "AEM Multi-Treatment",
+      "abbreviation": "Multi-Trt",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15888/strata/6852",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15888"
+    },
+    {
+      "id": 6853,
+      "name": "AEM/CHaMP",
+      "abbreviation": "AEM/CHAMP",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15888/strata/6853",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15888"
+    },
+    {
+      "id": 6854,
+      "name": "Bank Stabilization",
+      "abbreviation": "Bank",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15888/strata/6854",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15888"
+    },
+    {
+      "id": 6858,
+      "name": "CTUIR Biomonitoring",
+      "abbreviation": "Biomonitor",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15888/strata/6858",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15888"
+    },
+    {
+      "id": 6855,
+      "name": "Livestock Exclusion",
+      "abbreviation": "Livestock",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15888/strata/6855",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15888"
+    },
+    {
+      "id": 6856,
+      "name": "Off-Channel Floodplain",
+      "abbreviation": "Off-Chan",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15888/strata/6856",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15888"
+    },
+    {
+      "id": 6857,
+      "name": "Partial Barrier",
+      "abbreviation": "Pt Barrier",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15888/strata/6857",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15888"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/58",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/358",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15888/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15888",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15888/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15888",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "AEM001 Legacy Sample",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1059"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 15888,
+  "title": "Action Effectiveness Monitoring (MBACI) 2014",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15888",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2015-06-25T06:31:43-07:00"
+}

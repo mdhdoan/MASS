@@ -1,0 +1,41 @@
+{
+  "description": "No valid data",
+  "startYear": "2012",
+  "retirementYear": "2023",
+  "initiationYear": "2012",
+  "targetPopulation": null,
+  "ownerName": "Kenneth Tiffan",
+  "ownerEmail": "ktiffan@usgs.gov",
+  "images": [],
+  "panels": [],
+  "strata": [],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/85",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1713",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16422/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16422",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16422/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16422",
+  "masterSample": null,
+  "userSamples": null,
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Mainstem Reaches and Dams",
+      "areaDisplayName": "Confluence of Snake and Clearwater River to Dworshak Dam"
+    },
+    {
+      "areaTypeName": "Mainstem Reaches and Dams",
+      "areaDisplayName": "Lower Granite Dam to Hells Canyon Dam"
+    },
+    {
+      "areaTypeName": "Chinook Fall Interior Columbia Pop. Bound",
+      "areaDisplayName": "Snake River Lower Mainstem"
+    }
+  ],
+  "id": 16422,
+  "title": "Analyze fall Chinook diets - US Geological Survey (USGS)",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16422",
+  "spatialDesignCategory": "Inference",
+  "spatialDesignCategoryID": 16,
+  "lastUpdated": "2019-11-27T01:03:54-08:00"
+}

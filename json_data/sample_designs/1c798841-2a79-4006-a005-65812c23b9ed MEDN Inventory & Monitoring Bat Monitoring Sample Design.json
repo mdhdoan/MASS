@@ -1,0 +1,50 @@
+{
+  "description": "No valid data",
+  "startYear": "2017",
+  "retirementYear": "2017",
+  "initiationYear": "2017",
+  "targetPopulation": null,
+  "ownerName": "Stacey Ostermann-Keln",
+  "ownerEmail": "stacey_ostermann@nps.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 19420,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15772/panels/19420",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15772"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21829,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15772/strata/21829",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15772"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/80",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1588",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15772/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15772",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15772/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15772",
+  "masterSample": {
+    "name": "Continental United States 10 KM Grid",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/10"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 15772,
+  "title": "1c798841-2a79-4006-a005-65812c23b9ed MEDN Inventory & Monitoring Bat Monitoring Sample Design",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15772",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": "2018-07-24T02:40:44-07:00"
+}

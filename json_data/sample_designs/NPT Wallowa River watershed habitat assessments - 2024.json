@@ -1,0 +1,52 @@
+{
+  "description": "<p>Aquatic habitat surveys to be conducted at probabillistically located sites within the lower 13.8 km of Bear Creek and a 40.6 km segment of the Wallowa River located between the Lostine River confluence and the base of the Wallowa Lake Dam.</p>\r\n",
+  "startYear": "2024",
+  "retirementYear": "2024",
+  "initiationYear": "2024",
+  "targetPopulation": null,
+  "ownerName": "Clint Chandler",
+  "ownerEmail": "clintc@nezperce.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 22374,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2024"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16986/panels/22374",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16986"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24655,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16986/strata/24655",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16986"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/24",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1667",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16986/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16986",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16986/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16986",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16986",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11626"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16986,
+  "title": "NPT Wallowa River watershed habitat assessments - 2024",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16986",
+  "spatialDesignCategory": "Generalized Random Tessellation Stratified (GRTS), External",
+  "spatialDesignCategoryID": 19,
+  "lastUpdated": "2023-12-19T03:49:24-08:00"
+}

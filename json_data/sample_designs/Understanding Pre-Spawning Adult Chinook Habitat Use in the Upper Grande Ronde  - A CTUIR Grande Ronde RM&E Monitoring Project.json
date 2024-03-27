@@ -1,0 +1,61 @@
+{
+  "description": "<p>Radio tracking adult Chinook passed upstream of the Grande Ronde River weir. Study will fill a data gap on the location and habitat use of pre-spawning Chinook and their pre-spawn mortality.</p>\r\n",
+  "startYear": "2019",
+  "retirementYear": "2030",
+  "initiationYear": "2019",
+  "targetPopulation": null,
+  "ownerName": "Leslie Naylor",
+  "ownerEmail": "lesnaylor@ctuir.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 21973,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16822/panels/21973",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16822"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24467,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16822/strata/24467",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16822"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/19",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1782",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16822/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16822",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16822/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16822",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design Walla Walla Salmonid Monitoring & Evaluation Monitoring Lookingglass Creek juvenile salmonid outmigrants with a rotary screw trap v1.0 WSE 122439 (3258)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/2158"
+    },
+    {
+      "name": "Sample for Design #16677",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11532"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC5 - Watershed",
+      "areaDisplayName": "Upper Grande Ronde River"
+    }
+  ],
+  "id": 16822,
+  "title": "Understanding Pre-Spawning Adult Chinook Habitat Use in the Upper Grande Ronde  - A CTUIR Grande Ronde RM&E Monitoring Project",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16822",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2022-10-18T02:24:34-07:00"
+}

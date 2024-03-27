@@ -1,0 +1,62 @@
+{
+  "description": "<p>Sample aquatic invertebrates to assess temporal trends in density, biomass, % EPT and other indices and to idenitfy limiting factors related to dam operations, water temperatures, physical habitat conditions, Didymosphenia geminata&nbsp;and nutrients concentrations / ratios.</p>\r\n",
+  "startYear": "2021",
+  "retirementYear": "",
+  "initiationYear": "2021",
+  "targetPopulation": null,
+  "ownerName": "Ryan Sylvester",
+  "ownerEmail": "rsylvester@mt.gov",
+  "images": [
+    {
+      "type": "Document",
+      "url": "http://www.monitoringresources.org/Designer/Design/UploadAsFile/6603",
+      "caption": null
+    }
+  ],
+  "panels": [
+    {
+      "id": 21949,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16674/panels/21949",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16674"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24448,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16674/strata/24448",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16674"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/92",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/983",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16674/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16674",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16674/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16674",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design MFWP aquatic invertebrate sampling WSE 94795 (9193)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1472"
+    },
+    {
+      "name": "Sample for Design #16674",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11583"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16674,
+  "title": "Aquatic invertebrate study in the Kootenai River - Montana Fish, Wildlife and Parks (MFWP)",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16674",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2022-05-14T02:50:17-07:00"
+}

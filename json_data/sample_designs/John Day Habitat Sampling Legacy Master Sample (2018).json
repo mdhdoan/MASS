@@ -1,0 +1,64 @@
+{
+  "description": "<p>For the final season of CHaMP sampling in the John Day basin, we selected sites that represented high value to ODFW fish research objectives in the Middle and South Forks of the John Day River.&nbsp; All sites were chosen from previously sampled sites, no matter the original design, that had been sampled from 2011 to 2015.&nbsp; Sites sampled 2016-2017 were ignored, as data there were deemed recent enough to have value to current objectives.</p>\r\n\r\n<p>In the South Fork John Day watershed, priority was given to sites in reaches that have substantial &ldquo;fish data&rdquo;.&nbsp; These include juvenile salmonid abundance, use, survival and growth; adult steelhead spawning use, and/or provide controls for physical habitat restoration projects in other parts of the John Day.&nbsp; In the Middle Fork John Day watershed, priority was given to sites in reaches that are part of the Intensively Monitored Watershed (IMW) project that is ongoing there.&nbsp; Sites of high value are those that have been recently restored, are controls for restoration sites or are slated for near-future restoration projects where pre-restoration habitat data is needed.&nbsp;</p>\r\n\r\n<p>Finally, a subset of sites from Thirtymile Creek sample design were selected as part of a special project.&nbsp; This project is assessing the long-term effectiveness of riparian fencing in a desert canyon stream with significant steelhead production.&nbsp; One site of this design was sampled in 2011, all others are new samples.</p>\r\n\r\n<p>This design includes all CBW master sample sites that are required for 2018 sampling.&nbsp; Note that this design does not utilize GRTS based sampling and sites were selected as described above.&nbsp; This design is called a &quot;modified grts&quot; as a logistical solution to including hand-selected sites from a master sample.&nbsp;&nbsp;The Legacy John Day sites are stored within Design # 15711.&nbsp;&nbsp;</p>\r\n",
+  "startYear": "2018",
+  "retirementYear": "",
+  "initiationYear": "2018",
+  "targetPopulation": "<p>John Day Basin CHaMP Frame (2017) plus custom frame for Thirtymile Creek (Lower JDB).</p>\r\n",
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 19293,
+      "name": "annual",
+      "abbreviation": "annual",
+      "years": [
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15710/panels/19293",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15710"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21704,
+      "name": "17070201-SFJD",
+      "abbreviation": "17070201",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15710/strata/21704",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15710"
+    },
+    {
+      "id": 21706,
+      "name": "17070203-MFJD",
+      "abbreviation": "17070203",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15710/strata/21706",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15710"
+    },
+    {
+      "id": 21707,
+      "name": "17070204-LJD",
+      "abbreviation": "17070204",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15710/strata/21707",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15710"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/18",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/219",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15710/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15710",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15710/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15710",
+  "masterSample": {
+    "name": "Columbia Basin Master Sample",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/1"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 15710,
+  "title": "John Day Habitat Sampling: Legacy Master Sample (2018)",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15710",
+  "spatialDesignCategory": "Modified GRTS",
+  "spatialDesignCategoryID": 14,
+  "lastUpdated": "2018-06-08T23:29:37-07:00"
+}

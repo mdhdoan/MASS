@@ -1,0 +1,52 @@
+{
+  "description": "<p>Pre-implementation surveys of Newsome Creek LWD project, Red River LWD project, American River floodplain reconnection project and South Fork Clearwater River floodplain reconnection project.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "startYear": "2021",
+  "retirementYear": "2021",
+  "initiationYear": "2021",
+  "targetPopulation": null,
+  "ownerName": "Clint Chandler",
+  "ownerEmail": "clintc@nezperce.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 21568,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16650/panels/21568",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16650"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24249,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16650/strata/24249",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16650"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/24",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1667",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16650/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16650",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16650/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16650",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16650",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11523"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16650,
+  "title": "SF Clearwater Site Assessments - 2021",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16650",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2020-12-19T03:02:20-08:00"
+}

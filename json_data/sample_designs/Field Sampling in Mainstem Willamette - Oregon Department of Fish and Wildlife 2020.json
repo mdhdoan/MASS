@@ -1,0 +1,57 @@
+{
+  "description": "<p>We will follow fish and physical habitat surveys of the Willamette River mainstem following protocol from initial decadal sampling from 2011-2013 (Williams et al. 2014). We will stratify field sampling of the mainstem Willamette River into three sections (upper, middle, and lower), which is based on analysis of river geomorphology. Each 1-km slice of them mainstem river or floodplain slough within a river slice represents a single sampling location. Sites will be chosen randomly within each reach. We propose to sample 6 repeated 1-km slices in each section of the mainstem Willamette River. We will sample native and non-native fish in the entire mainstem Willamette River and the McKenzie River up to Trailbridge Dam. Sampling will be conducted from May to November 2020. Within each sample location, fish will be captured with a boat and backpack electrofisher by two netters. We will sample shallow microhabitats along the shore in each sampling site to represent the variety of nearshore habitats at each site. At the end of each sampling effort, fish will be identified to species and measured (length), and habitat characteristics of the sampling sites recorded.</p>\r\n",
+  "startYear": "2020",
+  "retirementYear": "",
+  "initiationYear": "2020",
+  "targetPopulation": null,
+  "ownerName": "Eric Andersen",
+  "ownerEmail": "ejandersen@bpa.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 21329,
+      "name": "Field Sampling for Validation of Fish Community Monitoring Protocol in the Mainstem Willamette River WSE 127554",
+      "abbreviation": "Field Sampling for Validation of Fish Community Monitoring Protocol in the Mainstem Willamette River WSE 127554",
+      "years": [
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16569/panels/21329",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16569"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24116,
+      "name": "All Sites",
+      "abbreviation": "All Sites",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16569/strata/24116",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16569"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1326",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16569/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16569",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16569/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16569",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design Field Sampling for Validation of Fish Community Monitoring Protocol in the Mainstem Willamette River WSE 127554 (10375)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1964"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC4 - Sub Basin",
+      "areaDisplayName": " MIDDLE WILLAMETTE"
+    }
+  ],
+  "id": 16569,
+  "title": "Field Sampling in Mainstem Willamette - Oregon Department of Fish and Wildlife 2020",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16569",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2020-04-22T04:33:06-07:00"
+}

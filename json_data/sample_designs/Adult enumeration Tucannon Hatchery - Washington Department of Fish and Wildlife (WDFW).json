@@ -1,0 +1,52 @@
+{
+  "description": "<div>This project will provide additional staff that will assist Tucannon FH staff on a daily basis during the steelhead return (March to May) to the Tucannon FH. Tucannon FH staff operate the weir/trap on a daily basis.&nbsp; In the past, all captured fish were counted, collected for broodstock or passed upstream, without non-endemic fish being removed from the group allowed to pass upstream.&nbsp; Occasionally, samples (scales for aging) were being collected per biological staff requests.&nbsp; However, other hatchery duties and tasks which are necessary during the same time frame have made continued collection of the biological samples a large burden on existing Tucannon FH staff.&nbsp; Monitoring and evaluation metrics (as proposed under this work element) will create an even larger burden on hatchery staff.&nbsp; Additional staff time is needed for the increased collection of biological samples and tagging.</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>During daily trap checks, project staff will record number of fish captured (by origin), those passed upstream or collected for broodstock. In addition, project staff will collect scales from all unmarked (&quot;natural origin&quot;) summer steelhead throughout the run. Scale samples are collected for age determination and brood year run reconstruction purposes, which is critical piece of information that is needed to determine a recruits:spawner relationship. Scales can also be used for origin determination when there is a question. Since our supplementation hatchery fish are not externally marked, and sometimes lose the CWT, scale samples should provide definitive proof of origin, thereby, the accounting of hatchery and natural origin fish at the trap will be more accurate.&nbsp; WDFW will also collect a small piece of tissue (fin clip) from a portion of the run for DNA analysis. [Note: this sample size needs to be quantified. A numerical value for DNA sampling size was not available at the time of SOW development]</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>In addition to scales and tissue sampling, project staff will also be scanning all fish for PIT tags, inserting floy tags in all fish passed upstream of the trap for mark/site recapture observations while doing spawning ground surveys (see additional work element) in the upper basin. Other data such as sex, fork length, external or internal mark/tags, injuries, etc... will also be recorded for each fish.&nbsp;&nbsp;</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>Note:&nbsp; Since the Tucannon River summer steelhead have been intermixed with an out-of-basin hatchery steelhead stock since the mid-1980&#39;s, genetic profiling may be important as this program expands the new hatchery broodstock and hatchery production in the river.&nbsp; However, this project is not proposing any DNA analysis. Other entities have expressed interest in the genetic profile of Tucannon River summer steelhead, and how they relate to other steelhead populations within the Snake River Basin.</div>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "startYear": "2010",
+  "retirementYear": "2030",
+  "initiationYear": "2010",
+  "targetPopulation": null,
+  "ownerName": "Todd Miller",
+  "ownerEmail": "todd.miller@dfw.wa.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 21293,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2010"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16543/panels/21293",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16543"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24099,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16543/strata/24099",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16543"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/64",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1745",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16543/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16543",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16543/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16543",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16543",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11493"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16543,
+  "title": "Adult enumeration: Tucannon Hatchery - Washington Department of Fish and Wildlife (WDFW)",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16543",
+  "spatialDesignCategory": "Census: Restricted",
+  "spatialDesignCategoryID": 6,
+  "lastUpdated": "2021-04-23T23:46:22-07:00"
+}

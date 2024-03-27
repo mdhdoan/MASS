@@ -1,0 +1,103 @@
+{
+  "description": "<p><strong>Non-Reference domain</strong></p>\r\n\r\n<p><strong>&nbsp;2015 Design Notes:</strong></p>\r\n\r\n<p>There are no changes to the design in 2015 and the 2014 design will be referenced in champmonitoring.org.</p>\r\n\r\n<p><strong>2014 Design notes:</strong></p>\r\n\r\n<p>\u200b\u200b\u200b\u200bSampling plans for 2014 targeted areas in the mainstem Minam outside of the &ldquo;reference&rdquo; domain in spawning and rearing habitat.&nbsp; Sites were drawn via a spatially balanced sample selection process called&nbsp;GRTS (generalized random tesselation stratified) sample. &nbsp;</p>\r\n\r\n<p>The 1:100k&nbsp;NHDPlus&nbsp;1&nbsp;hydrography&nbsp;was used as a framework for intensification of the&nbsp;CBW&nbsp;Master Sample. &nbsp;The&nbsp;CBW&nbsp;master sample, which has a density of sites ~1km&nbsp;was intensified&nbsp;to&nbsp;250m&nbsp;within the&nbsp;Minam. &nbsp;This resulted in 158 sites in the areas designated as &quot;non-reference&quot; reaches (in the the mainstem&nbsp;between the Murphy and Elk Creek). &nbsp;An unstratified, single panel list of all the sites was generated from&nbsp;GRTS, ordering all 158 sites into a single use-order. &nbsp; Sites were blocked into sets of 16, assuming 4 sites sampled and 12 sites as&nbsp;oversample. &nbsp;The second set of sites, starting at use order 17, was selected for the 2014&nbsp;Minam&nbsp;design.&nbsp;One site in the spawning and rearing domain sampled in 2013 was included as opportunistic legacy sites and was not drawn using&nbsp;GRTS.</p>\r\n",
+  "startYear": "2013",
+  "retirementYear": "",
+  "initiationYear": "2014",
+  "targetPopulation": null,
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 2193,
+      "name": "Annual",
+      "abbreviation": "Ann",
+      "years": [
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15826/panels/2193",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15826"
+    },
+    {
+      "id": 2194,
+      "name": "Rotating Panel 1",
+      "abbreviation": "RP1",
+      "years": [
+        "2013",
+        "2016",
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15826/panels/2194",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15826"
+    },
+    {
+      "id": 2195,
+      "name": "Rotating Panel 2",
+      "abbreviation": "RP2",
+      "years": [
+        "2014",
+        "2017",
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15826/panels/2195",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15826"
+    },
+    {
+      "id": 2196,
+      "name": "Rotating Panel 3",
+      "abbreviation": "RP3",
+      "years": [
+        "2015",
+        "2018",
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15826/panels/2196",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15826"
+    }
+  ],
+  "strata": [
+    {
+      "id": 2929,
+      "name": "Non Reference Spawning and Rearing",
+      "abbreviation": "NR_SpawnRear",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15826/strata/2929",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15826"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/18",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/222",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15826/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15826",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15826/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15826",
+  "masterSample": {
+    "name": "Columbia Basin Master Sample",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/1"
+  },
+  "userSamples": [
+    {
+      "name": "Minam Instensification",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1054"
+    },
+    {
+      "name": "Minam 2013 Spawning and Rearing Sites",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1057"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 15826,
+  "title": "Minam Spawning and Rearing Domain Habitat Surveys within the Columbia Habitat Monitoring Program (CHaMP) in 2014",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15826",
+  "spatialDesignCategory": "Modified GRTS",
+  "spatialDesignCategoryID": 14,
+  "lastUpdated": "2014-06-13T22:49:08-07:00"
+}

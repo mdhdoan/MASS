@@ -1,0 +1,61 @@
+{
+  "description": "<p>A spatially continuous mark-recapture study design utilizing backpack electrofishing was used in the fall to estimate abundance, distribution, and age structure of Redband Trout in Big Sheep Creek (Cram and Rawding 2018; Wathen et al. 2017; <a href=\"https://www.monitoringresources.org/Document/Method/Details/118\">Monitoring Resources Method ID 118</a>). This study design was chosen because it would allow the entire stream (mouth to terminal falls) to be sampled in about the same amount of time while providing a more precise and less biased estimate of Redband Trout abundance than previously used removal methodology. Prior to sampling, the study area from the mouth to the terminal waterfalls was delineated into 4 strata consisting of 6-8 100-meter sites. Block nets were not used during sampling to improve efficiency; however, all efforts were made to condense the sampling temporally to meet the assumptions of a closed population abundance model. Furthermore, PIT tagging along with differential fin clipping were used at different spatial scales to validate the closure assumptions of the model and provide a means to evaluate fish distribution and abundance at finer spatial scales.&nbsp;</p>\r\n",
+  "startYear": "2019",
+  "retirementYear": "2025",
+  "initiationYear": "2019",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Nicholas Albrecht",
+  "ownerEmail": "nicholas.albrecht@dfw.wa.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 22341,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16965/panels/22341",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16965"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24625,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16965/strata/24625",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16965"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/64",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1830",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16965/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16965",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16965/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16965",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16795",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11576"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC3 - Basin",
+      "areaDisplayName": "Upper Columbia"
+    },
+    {
+      "areaTypeName": "HUC4 - Sub Basin",
+      "areaDisplayName": "Franklin D"
+    }
+  ],
+  "id": 16965,
+  "title": "Tributary Abundance Monitoring in Big Sheep Creek 2019 - 2025",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16965",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": "2023-10-13T23:50:34-07:00"
+}

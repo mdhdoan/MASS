@@ -1,0 +1,64 @@
+{
+  "description": "No valid data",
+  "startYear": "2015",
+  "retirementYear": "2025",
+  "initiationYear": "2015",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Jeffrey Fryer",
+  "ownerEmail": "fryj@critfc.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 20246,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2015"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16529/panels/20246",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16529"
+    }
+  ],
+  "strata": [
+    {
+      "id": 23076,
+      "name": "All Sites",
+      "abbreviation": "All Sites",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16529/strata/23076",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16529"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1741",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16529/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16529",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16529/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16529",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design Factors limiting production of Okanagan and Wenatchee sockeye stocks (2008-503-00) WSE 115864 (4790)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/3410"
+    },
+    {
+      "name": "BPA Sample for Study Design Factors limiting production of Okanagan and Wenatchee sockeye stocks (2008-503-00) WSE 106108 (4781)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/4017"
+    },
+    {
+      "name": "BPA Sample for Study Design Factors limiting production of Okanagan and Wenatchee sockeye stocks (2008-503-00) WSE 125090 (4799)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/4018"
+    },
+    {
+      "name": "BPA Sample for Study Design Factors limiting production of Okanagan and Wenatchee sockeye stocks (2008-503-00) WSE 133798 (4807)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/4019"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16529,
+  "title": "Deploy Didson at Osoyoos Lake Highway 3 bridge to determine distribution of adult sockeye salm - Columbia River Inter-Tribal Fish Commission (CRITFC), cloned for Study Design 510",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16529",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2020-03-18T00:01:09-07:00"
+}

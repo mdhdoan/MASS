@@ -1,0 +1,52 @@
+{
+  "description": "<p>There are two collection locations for White Sturgeon larvae: an upper and lower. They were selected due based on previous capture data and the spatial separation allow for the evaluation of drift timing. Release locations for the evaluation of capture efficiency at each site are determined by ease of access and ability to effectively release marked larvae near the river bottom.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "startYear": "2020",
+  "retirementYear": "2020",
+  "initiationYear": "2020",
+  "targetPopulation": null,
+  "ownerName": "Jason McLellan",
+  "ownerEmail": "jason.mclellan@colvilletribes.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 19960,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16425/panels/19960",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16425"
+    }
+  ],
+  "strata": [
+    {
+      "id": 22942,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16425/strata/22942",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16425"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/21",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1714",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16425/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16425",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16425/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16425",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16425",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11414"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16425,
+  "title": "CCT Lake Roosevelt White Sturgeon Larvae Drift",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16425",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2019-11-28T02:42:11-08:00"
+}

@@ -1,0 +1,67 @@
+{
+  "description": "<p>This site (Code MIN) will be maintained to provide continuous monitoring for detection of PIT-tagged juvenile and adult Steelhead to provide estimates of abundance and life-stage survival. The site has a&nbsp; Biomark MTS with 1&nbsp;array&nbsp;of 2 antennas and is powered with a solar power. Juvenile fish are PIT-tagged as age-0 and age-1 parr in headwaters areas upstream of the site during late summer and fall instream sampling each year. Adult fish may have been tagged as juveniles through instream sampling or at screw traps, or as adults at the Shipherd Falls trap in the Wind River or adult sampling at Bonneville Dam. This site serves as an upstream detection site for direct estimation of adult detection efficiency at (WRU) and thus to estimate watershed adult steelhead escapement. This site serves to estimate probablity of migration of parr tagged in upstream headwaters.</p>\r\n\r\n<p>The site is visited at least once every two weeks to download data, swap batteries if needed, and provide any maintenance to antennas of power system to maintain operations. Data are uploaded to the PTAGIS website under Interrogation Site Code MIN.</p>\r\n",
+  "startYear": "2020",
+  "retirementYear": "2030",
+  "initiationYear": "2020",
+  "targetPopulation": null,
+  "ownerName": "Ian Jezorek",
+  "ownerEmail": "ijezorek@usgs.gov",
+  "images": [
+    {
+      "type": "Photo",
+      "url": "http://www.monitoringresources.org/Designer/Design/UploadAsFile/6245",
+      "caption": "Plan view of MIN PTIS"
+    }
+  ],
+  "panels": [
+    {
+      "id": 21348,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16575/panels/21348",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16575"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24133,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16575/strata/24133",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16575"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/85",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1748",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16575/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16575",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16575/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16575",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16575",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11501"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Steelhead Summer Lower Columbia Pop. Name",
+      "areaDisplayName": "Wind River"
+    },
+    {
+      "areaTypeName": "NPPC Subbasins",
+      "areaDisplayName": "WIND"
+    }
+  ],
+  "id": 16575,
+  "title": "Maintain the Mine Reach PIT Tag Interrogation System and Ensure Data Collection",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16575",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2020-05-28T05:02:34-07:00"
+}

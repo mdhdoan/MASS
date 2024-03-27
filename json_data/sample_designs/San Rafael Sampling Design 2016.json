@@ -1,0 +1,56 @@
+{
+  "description": "No valid data",
+  "startYear": "2017",
+  "retirementYear": "",
+  "initiationYear": "2017",
+  "targetPopulation": null,
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 8802,
+      "name": "annual",
+      "abbreviation": "annual",
+      "years": [
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15962/panels/8802",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15962"
+    }
+  ],
+  "strata": [
+    {
+      "id": 11047,
+      "name": "San Rafael",
+      "abbreviation": "SR",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15962/strata/11047",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15962"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/18",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/224",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15962/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15962",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15962/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15962",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "San Rafael Survey Points",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1080"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 15962,
+  "title": "San Rafael Sampling Design 2016",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15962",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2017-07-27T01:06:10-07:00"
+}

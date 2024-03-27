@@ -1,0 +1,33 @@
+{
+  "description": "<p>Northeast Oregon PIT array O&amp;M are for fixed sites based on opportunitisc designs on feasibility to maintain arrays to represent populaiton or sub populaitons of fish and to work in tandem with other arrays to reduce data and support analyitical assessments for run reconstruction or species migration timing.&nbsp;&nbsp;</p>\r\n",
+  "startYear": "2017",
+  "retirementYear": "2047",
+  "initiationYear": "2017",
+  "targetPopulation": null,
+  "ownerName": "Russell Scranton",
+  "ownerEmail": "rwscranton@bpa.gov",
+  "images": [],
+  "panels": [],
+  "strata": [],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/20",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/703",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16259/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16259",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16259/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16259",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16259",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11347"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16259,
+  "title": "NE Oregon PIT Array Operation and Maintenance",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16259",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2019-01-08T04:29:56-08:00"
+}

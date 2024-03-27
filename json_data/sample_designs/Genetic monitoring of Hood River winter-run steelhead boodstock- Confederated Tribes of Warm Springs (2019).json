@@ -1,0 +1,57 @@
+{
+  "description": "<p>The CRITFC will genotype broodstock spawned in the Hood River conservation hatchery program between 1993 and 2018 (n~1000). The CRITFC will also conduct in-season GSI analyses to identify candidate broodstock fish for the 2020 winter-run hatchery program using the in-season or rapid read protocol established in 2016. This approach will provide additional confidence in assigning origins (beyond field ID), particularly for fish that are difficult to characterize from phenotypic appearances and/or those that return during the period of overlap between summer-run and winter-run return times. Adult steelhead will be sampled in the East Fork Hood River from late February to mid- May. The objective will be to gather broodstock proportional to temporal return abundances relative to the peak return. The broodstock goal will be approximately 30 pairs (n=60 total winter-run steelhead). To account for genetic assignments with insufficient confidence (i.e. low likelihood), and fish assigned as summer-run origin, managers will sample surplus wild fish and hatchery origin fish to assure broodstock numbers are met. Samples will be genotyped using a GTseq panel for a variety of single nucleotide polymorphism (SNP) markers. The current panel contains 368 loci and includes neutral loci, generally adaptive loci, cutthroat species markers, sex genotype, and 13 loci associated with migratory run time. An in-season &ldquo;event&rdquo; will be scheduled bi-monthly (i.e. every other week) as needed contingent on return numbers. In-season events will be budgeted as 5 independent actions with up to 44 samples per event. Samples will be shipped overnight via FedEx on Monday with arrival to Hagerman on Tuesday. Results of each event conveyed to co-managers of the CTWSR and ODFW the following Friday. Lastly, putative resident fish, previously collected at traps or during other monitoring activities throughout the Hood River watershed, will be genotyped for genetic characterization and assessing relatedness to summer and winter steelhead stocks.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "startYear": "1993",
+  "retirementYear": "2025",
+  "initiationYear": "1993",
+  "targetPopulation": null,
+  "ownerName": "Ryan Gerstenberger",
+  "ownerEmail": "rgerstenberger@hrecn.net",
+  "images": [],
+  "panels": [
+    {
+      "id": 19762,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "1993"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16358/panels/19762",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16358"
+    }
+  ],
+  "strata": [
+    {
+      "id": 22868,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16358/strata/22868",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16358"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/38",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1700",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16358/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16358",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16358/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16358",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16358",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11391"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Steelhead Winter Lower Columbia Pop. Bound",
+      "areaDisplayName": "Hood River"
+    }
+  ],
+  "id": 16358,
+  "title": "Genetic monitoring of Hood River winter-run steelhead boodstock- Confederated Tribes of Warm Springs (2019)",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16358",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": "2019-07-20T00:41:43-07:00"
+}

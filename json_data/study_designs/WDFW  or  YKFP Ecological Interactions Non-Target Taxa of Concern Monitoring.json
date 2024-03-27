@@ -1,0 +1,48 @@
+{
+  "backgroundRationale": "<p>The YKFP is a joint project of the Yakama Nation (lead entity) and the Washington State Department of Fish and Wildlife (WDFW), and is sponsored in large part by the Bonneville Power Administration (BPA) with oversight and guidance from the Northwest Power and Conservation Council (NPCC). The Cle Elum Supplementation and Research Facility (CESRF) program is an adaptively managed supplementation program designed &quot;to test the assumption that new artificial production can be used to increase harvest and natural production while maintaining the long-term genetic fitness of the fish population being supplemented and keeping adverse genetic and ecological interactions with non-target species or stocks within acceptable limits&quot;.</p>\r\n\r\n<p>The non-target taxa of concern monitoring program under the YKFP was established to assess and contain risks to species that were not the target of enhancement during the operation of the production scale hatchery supplementation program in the Yakima Basin.&nbsp; The NTTOC monitoring program (ecological risk containment)&nbsp;was initiated to ensure ecological interactions resulting from our supplementation program remained within acceptable limits.&nbsp; Benchmark values were established for abundance,&nbsp;size, and distribution for NTTOC and changes in these monitoring variables are&nbsp;judged&nbsp;relative to these&nbsp;fixed standards.&nbsp;&nbsp;Deviations in our monitoring variables that exceed acceptable levels are intended to be mitigated using the principles of adaptive management.</p>\r\n",
+  "sampleDesigns": [
+    {
+      "id": 9925,
+      "title": "Ecological Interactions M&E in the Yakima River Basin - Washington Department of Fish and Wildlife (WDFW)",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/9925",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": null
+    }
+  ],
+  "objectives": [
+    "Assess and contain risks to abundance, size structure, biomass, and distribution for 15 NTTOC associated with hatchery salmon supplementation in the Yakima."
+  ],
+  "keyAssumptions": "<p>Sampling sites are&nbsp;representative.</p>\r\n\r\n<p>Fish are accurately identified to species.</p>\r\n\r\n<p>Instrumentation used in measuring fish is properly calibrated.</p>\r\n\r\n<p>Data collected and&nbsp;analyzed represent&nbsp;accurate&nbsp;estimates&nbsp;of the true&nbsp;population.</p>\r\n\r\n<p>The Type&nbsp;I and Type II error rates reported adequately detect differences in effect size:&nbsp; e.g., lack of impact to NTT monitoring variable is not due to lack of statistical power.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "dataHandlingConsiderations": "There are primarily two data sheets used in the field for sampling within Ecolical Interactions: a fish count datasheet, and a habitat characterization datasheet. Data collected in the field is transfered into an Excel database, peer reviewed, and then submitted into an Access database to check for errors. Data is analyzed in a variety of programs from this point on.",
+  "qualityControlConsiderations": "There is always a certain amount of human error involved in the collection, transfer of, and processing of data, so it is essential to have personnel that are well trained and competent in their ability to gather correct information.\r\n\r\nEmployees initials are included on all datasheets so if a discrepency arises in a particular dataset, individuals may be contacted to verify the information.\r\n\r\nData are processed as quickly as possible, so if there are discrepencies they can be addressed while the date of data collection is recent enough to recall.",
+  "reportingConsiderations": "Data is entered into an Excel database for ease of handling, transferred into an Access database for error checking and analyzation, and submitted in BPA FORMAT for BPA reviewal.",
+  "equipmentCleaningAndCalibration": "During sampling and collection of samples, personnel follow the protocols as outlined by the DFW aquatic invasive species act, as well as BPA's requirements through Pisces.\r\n\r\ne.g. Vircon is applied to wading boots and waders before and after accessing a different basin. Balances are calibrated or replaced annually, measuring boards are repaired or replaced annually, backpack electrofishers are maintained to stay in working order, 190 or 200 proof alcohol is used to sterilize any equipment in need of disinfecting.",
+  "rolesAndResponsibilities": "Crew leads are responsible for directly managing and assisting in the collection, entering, storage, and submittal of data. \r\n\r\nCrew members assist the Crew lead all tasks listed above.",
+  "qualifications": "Crew leads are required to attend supervisor training, and have a Scientific Technician 2 or higher job title.",
+  "trainingRequirements": "Crew leads and crew members receive training for certification in different tasks so as to fulfill requirements outlined by WDFW.",
+  "safetyConsiderations": "Crew leads and crew members follow protocols outlined by WDFW to ensure proper use of equipment, and to receive the proper training to conduct work tasks in a safe and controlled manner.",
+  "fieldScheduleNotes": "Ecological Interactions technicians work 10 hour days Monday through Thursday, so as to maximize effort during the day as time and effort required for sampling fish is high.\r\n\r\nEcological Interactions Biologists work 8 hour days Monday through Friday.\r\n",
+  "budgetConsiderations": "Within sampling for ecological interactions, more than one projects needs may be satisfied. This reduces the restraint of costs required for current/additional projects, and in turn allows for more data sharing across projects at a lower cost.\r\n\r\nTravel costs must always be considered when sampling streams. Streams are typically far away from base of operations, and located in remote areas where the use of a 4x4 vehicle may be required.\r\n\r\nBackpack electrofishing equipment is expensive to purchase, repair, or replace. Wading equipment is expensive to purchase, however if maintained will last several years. \r\n\r\nThe driftboat electrofisher used for sampling the mainstem Yakima River is expensive to assemble, however is relatively inexpensive to maintain.",
+  "monitoringPurpose": null,
+  "estimatedCostPerSite": "$2,500 to $5,000",
+  "optionalMethodIDs": [],
+  "optionalMethods": [],
+  "id": 1170,
+  "name": "WDFW / YKFP: Ecological Interactions: Non-Target Taxa of Concern Monitoring",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/studyDesigns/1170",
+  "programID": null,
+  "programUrl": "[none]",
+  "protocolID": 2046,
+  "protocolUrl": "http://www.monitoringresources.org/api/v1/protocols/2046",
+  "ownerName": "Scott Coil",
+  "ownerEmail": "scott.coil@dfw.wa.gov",
+  "majorVersion": 1,
+  "minorVersion": 0,
+  "previousStudyDesignVersionId": null,
+  "previousStudyDesignVersionUrl": "[none]",
+  "mostRecentVersionId": null,
+  "mostRecentVersionUrl": "[none]"
+}

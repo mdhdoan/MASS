@@ -1,0 +1,50 @@
+{
+  "description": "COPY: ",
+  "startYear": "2017",
+  "retirementYear": "2017",
+  "initiationYear": "2017",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Brian Reichert",
+  "ownerEmail": "breichert@usgs.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 19455,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15794/panels/19455",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15794"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21861,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15794/strata/21861",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15794"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/80",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1610",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15794/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15794",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15794/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15794",
+  "masterSample": {
+    "name": "Continental United States 10 KM Grid",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/10"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 15794,
+  "title": "d299a44f-370d-457f-86f9-39c431b5ee30 Nebraska NABat Acoustic Monitoring Sample Design, cloned for Study Design 1558",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15794",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": "2018-09-10T18:41:04-07:00"
+}

@@ -1,0 +1,37 @@
+{
+  "description": "No valid data",
+  "startYear": "2018",
+  "retirementYear": "2019",
+  "initiationYear": "2018",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Ben Truscott",
+  "ownerEmail": "ben.truscott@dfw.wa.gov",
+  "images": [],
+  "panels": [],
+  "strata": [],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/10",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/107",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16188/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16188",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16188/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16188",
+  "masterSample": null,
+  "userSamples": null,
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Entiat River"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "Entiat River"
+    }
+  ],
+  "id": 16188,
+  "title": "Analysis of salmonid data related to smolt monitoring in the Entiat River",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16188",
+  "spatialDesignCategory": "Inference",
+  "spatialDesignCategoryID": 16,
+  "lastUpdated": "2018-08-23T03:14:40-07:00"
+}

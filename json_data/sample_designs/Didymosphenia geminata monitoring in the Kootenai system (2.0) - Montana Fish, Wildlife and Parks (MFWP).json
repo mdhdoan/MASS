@@ -1,0 +1,60 @@
+{
+  "description": "<p>Monitor spatial and temporal status of Didymosphenia geminata mat production / formation in the Kootenai River downstream of Libby Dam.&nbsp; Sample all sites and sections approximately mid-month when flows and conditions allow (&lt; 15 kcfs).</p>\r\n\r\n<p>Randomly sample substrates at each site.&nbsp; Estimate the percent (%) coverage by D. geminata on the dorsal surface of each substrate particle.&nbsp; Estimate the periphyton thickness (mm) on each substrate particle by making representative measurments of periphyton thickness in approximate proportion to areas covered / not covered with periphyton.</p>\r\n",
+  "startYear": "2021",
+  "retirementYear": "2030",
+  "initiationYear": "2021",
+  "targetPopulation": null,
+  "ownerName": "Ryan Sylvester",
+  "ownerEmail": "rsylvester@mt.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 21697,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16710/panels/21697",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16710"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24317,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16710/strata/24317",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16710"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/92",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/812",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16710/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16710",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16710/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16710",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design MFWP Didymosphenia geminata Monitoring WSE 74659 (7927)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/6464"
+    },
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 42990 (13270)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/8750"
+    },
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 62502 (14901)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/10237"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16710,
+  "title": "Didymosphenia geminata monitoring in the Kootenai system (2.0) - Montana Fish, Wildlife and Parks (MFWP)",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16710",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2021-05-18T00:00:56-07:00"
+}

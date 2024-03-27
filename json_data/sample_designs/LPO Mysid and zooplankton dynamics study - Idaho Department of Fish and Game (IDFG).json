@@ -1,0 +1,57 @@
+{
+  "description": "<p>Life stage (juvenile, immature/adult) specific trend density estimates of Mysis in Lake Pend Oreille.</p>\r\n",
+  "startYear": "2019",
+  "retirementYear": "2020",
+  "initiationYear": "2019",
+  "targetPopulation": null,
+  "ownerName": "Pete Rust",
+  "ownerEmail": "Pete.Rust@idfg.idaho.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 19674,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16285/panels/19674",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16285"
+    }
+  ],
+  "strata": [
+    {
+      "id": 22006,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16285/strata/22006",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16285"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/904",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16285/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16285",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16285/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16285",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design LPO Evaluate the Distributions of Mysids and Zooplankton (1994-047-00) WSE 74260 (8686)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/10629"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC4 - Sub Basin",
+      "areaDisplayName": " PEND OREILLE LAKE"
+    }
+  ],
+  "id": 16285,
+  "title": "LPO Mysid and zooplankton dynamics study - Idaho Department of Fish and Game (IDFG)",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16285",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2019-01-26T00:25:43-08:00"
+}

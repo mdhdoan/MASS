@@ -1,0 +1,52 @@
+{
+  "description": "<p>This sample design includes sites that will be used for the 2015 Field Technology Conference Field Trip.</p>\r\n",
+  "startYear": "2015",
+  "retirementYear": "",
+  "initiationYear": "2015",
+  "targetPopulation": null,
+  "ownerName": "Keith Steele",
+  "ownerEmail": "keith@sitkatech.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 6829,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2015"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15948/panels/6829",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15948"
+    }
+  ],
+  "strata": [
+    {
+      "id": 8075,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15948/strata/8075",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15948"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15948/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15948",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15948/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15948",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Colwood Demonstration Sites",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1076"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 15948,
+  "title": "Field Technology Conference Field Trip",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15948",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": null
+}

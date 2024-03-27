@@ -1,0 +1,49 @@
+{
+  "backgroundRationale": "<p>Burbot stock limitations become an increasing factor to restoration with each passing season. Because the Kootenai River burbot stock is so limited (Paragamian and Laude 2008), the introduction of a genetically similar donor stock was found to be a useful approach to enhance the population.</p>\r\n\r\n<p>In the past few years, intensive culture techniques developed by the Kootenai Tribe of Idaho, BC Ministry of Environment, the UIARI, and Idaho Department of Fish and Game (IDFG) have become an important restoration measure for burbot on the Kootenai River. The management goal of this study is to restore the burbot population in the Idaho reach of the Kootenai River in order to provide an annual sustainable harvest of burbot.</p>\r\n\r\n<p>To evaluate burbot early growth and survival in a natural environment, larvae were&nbsp;raised in two extensive rearing ponds.&nbsp;Burbot that are initially hatched at the University of Idaho Aquatic Research Institute (ARI) are reared in extensive ponds on Boundary Creek Wildlife Management Area to determine if survival and growth of juvenile burbot in a natural setting is higher than a hatchery setting. Two ponds currently exist for treatment studies. For hypothesis testing, additional ponds may be constructed to test concurrent treatment effects. Once these fish are released into the Kootenai River, survival of these pond reared burbot can be assessed. An example of test hypothesis are as follows: Null Hypothesis (Ho) tested: pond reared burbot survive at a higher rate than burbot reared in a hatchery through their juvenile life stage.</p>\r\n\r\n<p>Aside from this protocol which deals directly with the pond rearing of these fish, the main&nbsp;Kootenai&nbsp;River will be sampled to determine if fish from these releases are surviving and recruiting to the adult population.&nbsp; Sampling and survival estimates will be accomplished using Protocol # 548:&nbsp;KRRFM&nbsp;-&nbsp;Burbot&nbsp;Adult and Juvenile Stock Assessment (1988-065-00) v1.0.</p>\r\n",
+  "sampleDesigns": [
+    {
+      "id": 9880,
+      "title": "Evaluate juvenile burbot growth and survival: WMA Ponds - Idaho Department of Fish and Game (IDFG)",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/9880",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": null
+    }
+  ],
+  "objectives": [
+    "Determine if pond raised burbot grow and survive better than those reared in a hatchery and stocked into the main Kootenai River.",
+    "Determine differences in growth and survival between ponds."
+  ],
+  "keyAssumptions": "<p>Fish have an equal chance of being sampled once they are recruited to gear in the Kootenai River.</p>\r\n",
+  "dataHandlingConsiderations": "Data from field studies pertaining to this protocol are entered directly into field computers them exported to access databases.  This reduces data transcription errors and increases efficiencies.  A single person has been assigned database management responsibilities and has 20 years experience.  ",
+  "qualityControlConsiderations": "In order to reduce the amount of duplicate errors, a single person checks the database on a regular basis.",
+  "reportingConsiderations": "Each day, electronic datasheets are downloaded and sent via email to the database coordinator.",
+  "equipmentCleaningAndCalibration": ".",
+  "rolesAndResponsibilities": "Project Leader - Responsible for all facets of program management, training, budgeting, and directing subordinate personnel, data management and data analysis and report wrinting.\r\n\r\nLead technician - Responsible for field data collecting and data recording.\r\n\r\nDatabase manager - Responsible for database management, data archiving, data analysis, and data manipulation in the the form of graphics for project leader for reports and manuscripts. \r\n\r\nSince this is a transboundary investigation, we will have an annual contract for this work to be performed in Canada with BC Ministry of Forests, Lands and Natural Resource Operations (BCMFLNRO).    Data collections methods in Canada will be identical to those performed in Idaho by IDFG. ",
+  "qualifications": "Mastrers degree required for Project Leader.\r\n\r\nBachelors degree required for subordinates.",
+  "trainingRequirements": "Principles of electrofishing",
+  "safetyConsiderations": "First aid/CPR",
+  "fieldScheduleNotes": ".",
+  "budgetConsiderations": ".",
+  "monitoringPurpose": null,
+  "estimatedCostPerSite": "$2,500 to $5,000",
+  "optionalMethodIDs": [],
+  "optionalMethods": [],
+  "id": 1136,
+  "name": "KRRFM - Burbot Early Life Studies: WMA Ponds (1988-065-00)",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/studyDesigns/1136",
+  "programID": null,
+  "programUrl": "[none]",
+  "protocolID": 2002,
+  "protocolUrl": "http://www.monitoringresources.org/api/v1/protocols/2002",
+  "ownerName": "T.J. Ross",
+  "ownerEmail": "tj.ross@idfg.idaho.gov",
+  "majorVersion": 1,
+  "minorVersion": 0,
+  "previousStudyDesignVersionId": null,
+  "previousStudyDesignVersionUrl": "[none]",
+  "mostRecentVersionId": null,
+  "mostRecentVersionUrl": "[none]"
+}

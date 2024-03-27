@@ -1,0 +1,50 @@
+{
+  "description": "No valid data",
+  "startYear": "2017",
+  "retirementYear": "2017",
+  "initiationYear": "2017",
+  "targetPopulation": null,
+  "ownerName": "Laura Beard",
+  "ownerEmail": "laura.beard@wyo.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 19226,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16148/panels/19226",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16148"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21637,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16148/strata/21637",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16148"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/80",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1493",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16148/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16148",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16148/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16148",
+  "masterSample": {
+    "name": "Continental United States 10 KM Grid",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/10"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 16148,
+  "title": "e0f0c8ee-5eb5-4b54-8951-69fa920189c6 Wyoming NABat Sample Design",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16148",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": "2018-08-22T02:16:21-07:00"
+}

@@ -1,0 +1,52 @@
+{
+  "description": "<p>Predatory fishes will be collected by boat electrofishing along the shoreline in a downstream direction. The electrofishing boat is a custom-built 2016, 20-foot Smith-Root Electrofishing Boat powered by a 115-horsepower outboard (propeller) engine. Electrofisher settings will be pulsed direct current (DC) at 60 pulses per second, 40% power, and low voltage range (50-500 V). Electrofisher output will be generally 2-4 amperes and adjusted to achieve fish galvanotaxis (narcosis). The crew will consist of a certified boat operator and two netters. Sampling will occur one hour after sunset to one hour before sunrise. A similar level of effort (e.g., electrofishing seconds, distance (m)) will be used at each site within each stratum.&nbsp;</p>\r\n\r\n<p>Temporal stratification of sites during sampling will provide data representative of the period of greatest overlap between non-native predator fishes and rearing/migrating juvenile salmonids.&nbsp; Two sampling times will occur to collect predator fish diet contents. The first will occur during the first half of May to represent age-1 chinook, sockeye, Coho, and steelhead smolt (e.g. yearlings). The second will occur in early to mid-June to represent age-0 Chinook smolt outmigration (subyearling).</p>\r\n\r\n<p>Stomach contents will be collected from WAL and SMB using gastric lavage.&nbsp; Less common non-native fishes (e.g. Largemouth Bass, Yellow Perch, Black Crappie) will be collected and evaluated for predatory impact on salmonids. Fish will be measured, weighed, scanned for PIT tags, and stomachs/diet contents will be stored in individually labeled Whirl-Pak bags. NPM and CC will be measured, weighed, and euthanized (Close et al. 1997) and stomachs will be dissected and placed into individually labeled Whirl-Pak bags. The entire digestive tract will be removed from NPM. Samples will be preserved with 95% ethanol, stored in a cooler with dry ice, and transferred to a lab freezer until analysis. Otoliths will be removed from a sub-sample of SMB and WAL &gt;150 mm and scales from SMB and WAL &lt;150 mm, and opercles from NPM for aging. Aging structures will be analyzed by the WDFW aging lab.</p>\r\n",
+  "startYear": "2023",
+  "retirementYear": "",
+  "initiationYear": "2023",
+  "targetPopulation": null,
+  "ownerName": "Matt Polacek",
+  "ownerEmail": "polacmcp@dfw.wa.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 21958,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2023"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16812/panels/21958",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16812"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24456,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16812/strata/24456",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16812"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/64",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/884",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16812/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16812",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16812/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16812",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16812",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11588"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16812,
+  "title": "Boat Electrofishing to Collect Piscivore's Diets",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16812",
+  "spatialDesignCategory": "Simple Random Sample, Non-Stratified",
+  "spatialDesignCategoryID": 1,
+  "lastUpdated": "2022-06-22T04:05:43-07:00"
+}

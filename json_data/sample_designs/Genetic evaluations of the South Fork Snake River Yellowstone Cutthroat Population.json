@@ -1,0 +1,57 @@
+{
+  "description": "<table cellpadding=\"0\" cellspacing=\"0\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align:middle\">Collect tissue samples at upper, middle and lower reaches of tributaries to the South Fork Snake River (SFSR) including Burns, Pine, Rainey, and Palisades creeks. Samples will also be collected from upper, middle and lower reaches of Fall (tributary to the SFSR), Big Elk, Bear, and McCoy creeks (tributary to Palisades Reservoir).&nbsp; We propose to resample the same sites as a previous study in 2022 and genotype samples to estimate hybridization and introgression. To allow direct comparisons of hybridization and introgression, we also plan to rerun the samples collected in 2003/2004.&nbsp;</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n",
+  "startYear": "2022",
+  "retirementYear": "",
+  "initiationYear": "2022",
+  "targetPopulation": null,
+  "ownerName": "Patrick Kennedy",
+  "ownerEmail": "pat.kennedy@idfg.idaho.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 21908,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2022"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16784/panels/21908",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16784"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24430,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16784/strata/24430",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16784"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/65",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1824",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16784/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16784",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16784/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16784",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16784",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11571"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC4 - Sub Basin",
+      "areaDisplayName": "Palisades"
+    }
+  ],
+  "id": 16784,
+  "title": "Genetic evaluations of the South Fork Snake River Yellowstone Cutthroat Population",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16784",
+  "spatialDesignCategory": "Systematic, Non-Stratified",
+  "spatialDesignCategoryID": 4,
+  "lastUpdated": "2022-03-11T04:08:32-08:00"
+}

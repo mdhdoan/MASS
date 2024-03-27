@@ -1,0 +1,61 @@
+{
+  "description": "No valid data",
+  "startYear": "2018",
+  "retirementYear": "",
+  "initiationYear": "2018",
+  "targetPopulation": null,
+  "ownerName": "Jon Firehammer",
+  "ownerEmail": "jfirehammer@cdatribe-nsn.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 19065,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15596/panels/19065",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15596"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21489,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15596/strata/21489",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15596"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/70",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1298",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15596/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15596",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15596/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15596",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Temperature logger locations in sub-watersheds of the CDA Basin",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11253"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC6 - Sub Watershed",
+      "areaDisplayName": "Benewah Creek"
+    },
+    {
+      "areaTypeName": "HUC6 - Sub Watershed",
+      "areaDisplayName": "Lake Creek"
+    }
+  ],
+  "id": 15596,
+  "title": "Collecting temperature data in Lake and Benewah creeks",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15596",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2018-02-15T09:27:30-08:00"
+}

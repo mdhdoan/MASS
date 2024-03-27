@@ -1,0 +1,56 @@
+{
+  "description": "<div>The Nez Perce Tribe&#39;s Department of Fisheries Resources Management utilizes spawning surveys&nbsp;in the Grande Ronde MPG Joseph Creek population&nbsp; January- June as a collection tool for capturing, marking, implementing sliding scales and managing adult salmonids (i.e&nbsp;steelhead). Surveys start in januar and repeat every 14 days until end of the spawning run in June.&nbsp;&nbsp;</div>\r\n",
+  "startYear": "2020",
+  "retirementYear": "2037",
+  "initiationYear": "2020",
+  "targetPopulation": null,
+  "ownerName": "Jason Vogel",
+  "ownerEmail": "jasonv@nezperce.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 19989,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16439/panels/19989",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16439"
+    }
+  ],
+  "strata": [
+    {
+      "id": 22961,
+      "name": "All Sites",
+      "abbreviation": "All Sites",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16439/strata/22961",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16439"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/12",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1718",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16439/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16439",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16439/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16439",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design Nez Perce Tribe Adult Weir Data Collection WSE 122646 (10139)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/2332"
+    },
+    {
+      "name": "BPA Sample for Study Design Nez Perce Tribe Adult Weir Data Collection WSE 129098 (10145)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/5456"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16439,
+  "title": "Joseph Creek Single Pass Steelhead Spawner Survey (Nez Perce Tribe)",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16439",
+  "spatialDesignCategory": "Census: Restricted",
+  "spatialDesignCategoryID": 6,
+  "lastUpdated": "2019-12-11T14:23:21-08:00"
+}

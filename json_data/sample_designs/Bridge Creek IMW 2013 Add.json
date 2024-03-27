@@ -1,0 +1,53 @@
+{
+  "description": "<p>New site additions for 2013 CHaMP surveys on Bridge Creek.</p>\r\n",
+  "startYear": "2011",
+  "retirementYear": "",
+  "initiationYear": "2013",
+  "targetPopulation": null,
+  "ownerName": "Nick Weber",
+  "ownerEmail": "nick.weber@ecologicalresearch.net",
+  "images": [],
+  "panels": [
+    {
+      "id": 243,
+      "name": "Bridge Opportunistic 2013",
+      "abbreviation": "Bridge 2013",
+      "years": [
+        "2011",
+        "2012"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/81/panels/243",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/81"
+    }
+  ],
+  "strata": [
+    {
+      "id": 754,
+      "name": "Bridge IMW 2013",
+      "abbreviation": "Bridge2013",
+      "url": "http://www.monitoringresources.org/api/v1/designs/81/strata/754",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/81"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/18",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/147",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/81/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/81",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/81/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/81",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Bridge Creek IMW CHaMP 2013 Add",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1034"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 81,
+  "title": "Bridge Creek IMW 2013 Add",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/81",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2015-03-07T02:32:29-08:00"
+}

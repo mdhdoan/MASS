@@ -1,0 +1,61 @@
+{
+  "description": "No valid data",
+  "startYear": "2018",
+  "retirementYear": "",
+  "initiationYear": "2018",
+  "targetPopulation": null,
+  "ownerName": "Jon Firehammer",
+  "ownerEmail": "jfirehammer@cdatribe-nsn.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 19055,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15591/panels/19055",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15591"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21478,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15591/strata/21478",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15591"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/70",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/827",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15591/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15591",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15591/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15591",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Adult cutthroat traps in Lake and Benewah Creeks",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11238"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC6 - Sub Watershed",
+      "areaDisplayName": "Lake Creek"
+    },
+    {
+      "areaTypeName": "HUC6 - Sub Watershed",
+      "areaDisplayName": "Benewah Creek"
+    }
+  ],
+  "id": 15591,
+  "title": "Trap adfluvial adult cutthroat trout",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15591",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2018-02-16T01:13:31-08:00"
+}

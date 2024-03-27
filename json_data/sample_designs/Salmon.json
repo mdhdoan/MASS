@@ -1,0 +1,74 @@
+{
+  "description": "No valid data",
+  "startYear": "2016",
+  "retirementYear": "",
+  "initiationYear": "2016",
+  "targetPopulation": "<p>Perennial streams and rivers in the Salmon FO, ID on BLM lands</p>\r\n",
+  "ownerName": "Scott Miller",
+  "ownerEmail": "scott.miller@usu.edu",
+  "images": [],
+  "panels": [
+    {
+      "id": 6992,
+      "name": "Year 1",
+      "abbreviation": "Yr1",
+      "years": [
+        "2016"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2533/panels/6992",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2533"
+    },
+    {
+      "id": 6993,
+      "name": "Year 2",
+      "abbreviation": "Yr2",
+      "years": [
+        "2016"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2533/panels/6993",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2533"
+    }
+  ],
+  "strata": [
+    {
+      "id": 8695,
+      "name": "Large Streams (3&4)",
+      "abbreviation": "S1",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2533/strata/8695",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2533"
+    },
+    {
+      "id": 8696,
+      "name": "Rivers (5+)",
+      "abbreviation": "S2",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2533/strata/8696",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2533"
+    },
+    {
+      "id": 8694,
+      "name": "Small Streams (1&2)",
+      "abbreviation": "S0",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2533/strata/8694",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2533"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/78",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1335",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/2533/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/2533",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/2533/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/2533",
+  "masterSample": {
+    "name": "Bureau of Land Management Lotic",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/8"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 2533,
+  "title": "Salmon",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/2533",
+  "spatialDesignCategory": "Generalized Random Tessellation Stratified (GRTS)",
+  "spatialDesignCategoryID": 18,
+  "lastUpdated": "2017-10-03T05:55:47-07:00"
+}

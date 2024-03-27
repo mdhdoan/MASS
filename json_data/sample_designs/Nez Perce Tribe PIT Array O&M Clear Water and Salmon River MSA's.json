@@ -1,0 +1,58 @@
+{
+  "description": "<p>This work will implement installation of temporary PIT arrays to evaluate steelhead use&nbsp; in small&nbsp;&nbsp;tributaries of the Clearwater and Salmon River for Minor and Major Spawning Spawning areas.&nbsp;</p>\r\n",
+  "startYear": "2020",
+  "retirementYear": "",
+  "initiationYear": "2020",
+  "targetPopulation": null,
+  "ownerName": "Ryan Kinzer",
+  "ownerEmail": "ryank@nezperce.org",
+  "images": [
+    {
+      "type": "Photo",
+      "url": "http://www.monitoringresources.org/Designer/Design/UploadAsFile/6451",
+      "caption": "Proposed NPT Clearwater Arrays "
+    }
+  ],
+  "panels": [
+    {
+      "id": 21555,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16648/panels/21555",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16648"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24241,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16648/strata/24241",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16648"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/12",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1773",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16648/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16648",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16648/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16648",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16648",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11522"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16648,
+  "title": "Nez Perce Tribe PIT Array O&M: Clear Water and Salmon River MSA's",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16648",
+  "spatialDesignCategory": "Census: Restricted",
+  "spatialDesignCategoryID": 6,
+  "lastUpdated": "2020-11-17T05:21:54-08:00"
+}

@@ -1,0 +1,52 @@
+{
+  "description": "<p>Livestock Exclusion sites that were new additions to the AEM program for 2016.&nbsp;</p>\r\n",
+  "startYear": "2016",
+  "retirementYear": "",
+  "initiationYear": "2016",
+  "targetPopulation": null,
+  "ownerName": "Colin Riordan",
+  "ownerEmail": "colin@naturaldes.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 7327,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2016"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2596/panels/7327",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2596"
+    }
+  ],
+  "strata": [
+    {
+      "id": 9274,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2596/strata/9274",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2596"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/2596/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/2596",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/2596/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/2596",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "AEM MBACI 2016 New Livestock Sites",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1090"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 2596,
+  "title": "AEM Livestock Exclusion New Sites 2016",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/2596",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2016-09-24T02:28:30-07:00"
+}

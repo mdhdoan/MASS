@@ -1,0 +1,65 @@
+{
+  "description": "<p>This&nbsp;sample design refers to the sampling of both adult and juvenile spring chinook salmon for genetic tissue&nbsp;to monitor reintroduction efforts. All adults are intercepted and sampled at the weir during their return migration to spawn. A proportion of juveniles are sampled at a rotary screw trap during emigration.&nbsp;</p>\r\n\r\n<p>We are currently using this sampling design to monitor the reintroduction and supplementation of spring chinook salmon in Lookingglass Creek, OR. In Lookingglas Creek, the weir is located&nbsp;approximately 2.5 miles upriver from the mouth, while the rotary screw trap is located approximately 200 meters below the weir. Sampling at this weir is quite efficient, with an average efficiency of ~97% (between 2004-2019). Our study has proposed an investigation of differential productivty and RRS between natural-origin and hatchery-origin fish from brood years 2008-2016. As such, the study requires sampling of adults and juveniles during appropriate migration windows from 2008-2021.&nbsp;</p>\r\n",
+  "startYear": "2008",
+  "retirementYear": "2021",
+  "initiationYear": "2008",
+  "targetPopulation": null,
+  "ownerName": "Hayley Nuetzel",
+  "ownerEmail": "hnuetzel@critfc.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 21580,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2008"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16662/panels/21580",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16662"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24261,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16662/strata/24261",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16662"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/647",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16662/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16662",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16662/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16662",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design Nez Perce Tribe In-Hatchery Data Collection WSE 122765 (10242)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/3679"
+    },
+    {
+      "name": "Lookingglass Creek Adult Steelhead Trap",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11330"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.742335,-117.863995"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.736408,-117.863567"
+    }
+  ],
+  "id": 16662,
+  "title": "Sampling spring chinook to monitor reintroduction efforts v2.0",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16662",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2021-01-12T02:25:25-08:00"
+}

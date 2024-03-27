@@ -1,0 +1,61 @@
+{
+  "description": "<p>We will use detections (recoveries) of juvenile salmonid Passive Integrated Transponder (PIT) tags at piscivorous colonial waterbird nesting sites, loafing sites, and roosting sites in the Columbia River estuary to generate more accurate and precise estimates of smolt survival to Bonneville Dam in 2020. Detections acquired as part of this objective are necessary to increase sample sizes of tagged fish in the estuary, fish that were known to have survived migration past Bonneville Dam, to compensate for a lack of detection at NOAA&rsquo;s pair trawl in the estuary in 2020. Smolt tags will be detected from numerous sites occupied by piscivorous colonial waterbirds during the peak smolt outmigration period of April to June 2020. Locations will be based on aerial images collected by the U.S. Army Corps of Engineers during the 2020 nesting season. Sites will include (1) the base structures of the Astoria-Megler Bridge, (2) the western portion of East Sand Island, and (3) Rice Island, as feasible.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>The methods of Hostetter et al. (2018) and Payton et al. (2019) will be used to incorporate these additional detections into the mark-recapture-recovery (MRR) survival model that is being used to complete Objective 2. In brief, we will investigate whether detections of smolt PIT tags at additional locations in the estuary increase sample sizes of available fish for survival analysis in 2020. We will also estimate detection probabilities of smolts passing Bonneville Dam with and without these additional detections in the estuary, plus survival to Bonneville Dam with and without these additional detections. This research will directly augment our ability to complete Objective 2, Task 2.2 by potentially providing a more robust dataset for analyses of survival rates and predation rates. The research will also benefit several other federal, state, and tribal agencies by uploading these detections of tagged fish to the PIT Tag Information System (PTAGIS), a regional database maintained by the Pacific States Fisheries Marine Commission (<a href=\"https://www.ptagis.org/\">https://www.ptagis.org</a>).</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>A more detailed description of methods, including statistical derivations, are provided in Hostetter et al. (2018) and Payton et at. 2019 (see also Objective 2, Task 2.2).</p>\r\n",
+  "startYear": "2019",
+  "retirementYear": "2025",
+  "initiationYear": "2019",
+  "targetPopulation": "COPY: COPY: ",
+  "ownerName": "Ken Collis",
+  "ownerEmail": "ken@realtimeresearch.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 21556,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16616/panels/21556",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16616"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24242,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16616/strata/24242",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16616"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1763",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16616/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16616",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16616/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16616",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 12143 (10708)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/4197"
+    },
+    {
+      "name": "Sample for Design #16616",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11518"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Mainstem Reaches and Dams",
+      "areaDisplayName": "Bonneville Dam"
+    }
+  ],
+  "id": 16616,
+  "title": "Collect and Analyze PIT tags for Piscivorous Waterbirds at sites in the Columbia River Estuary - FY20",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16616",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2020-12-18T07:12:59-08:00"
+}

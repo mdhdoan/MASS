@@ -1,0 +1,50 @@
+{
+  "description": "No valid data",
+  "startYear": "2017",
+  "retirementYear": "2017",
+  "initiationYear": "2017",
+  "targetPopulation": null,
+  "ownerName": "Tara Hohoff",
+  "ownerEmail": "thohoff2@illinois.edu",
+  "images": [],
+  "panels": [
+    {
+      "id": 19158,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15650/panels/19158",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15650"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21597,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15650/strata/21597",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15650"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/80",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1478",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15650/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15650",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15650/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15650",
+  "masterSample": {
+    "name": "Continental United States 10 KM Grid",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/10"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 15650,
+  "title": "b07d3d45-1ed5-4676-bbbe-709c4b3c603a Illinois Bat Conservation Program Sample Design",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15650",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": "2018-04-03T04:22:52-07:00"
+}

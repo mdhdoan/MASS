@@ -1,0 +1,64 @@
+{
+  "description": "No valid data",
+  "startYear": "2018",
+  "retirementYear": "",
+  "initiationYear": "2018",
+  "targetPopulation": null,
+  "ownerName": "Jon Firehammer",
+  "ownerEmail": "jfirehammer@cdatribe-nsn.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 19061,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15597/panels/19061",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15597"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21485,
+      "name": "Control",
+      "abbreviation": "C",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15597/strata/21485",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15597"
+    },
+    {
+      "id": 21484,
+      "name": "Treatment",
+      "abbreviation": "T",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15597/strata/21484",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15597"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/70",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1299",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15597/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15597",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15597/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15597",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Habitat sites in restoration reach of Upper Fork Lake Creek in CDA Basin ",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11246"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Rivers - Streams 24k",
+      "areaDisplayName": "17010303000039"
+    }
+  ],
+  "id": 15597,
+  "title": "Habitat surveys in Upper Lake Creek",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15597",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2018-02-16T02:16:56-08:00"
+}

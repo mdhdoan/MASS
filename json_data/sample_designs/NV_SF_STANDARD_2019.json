@@ -1,0 +1,69 @@
+{
+  "description": "<p>This Design was developed as part of the AIM strategy to assess Land Use Plan/Resource Management Plan effectiveness. Includes only points on all perennial BLM streams and rivers in the Sierra Front BLM&nbsp;Field office. Previously assessed points &nbsp;from the NV statewide and WRSA projects 2013-2015 will be used as a user sampled to ensure spatial balance of new points aroung locations we have visited previously. These location include non-target (e.g., dry sites), inaccessible, and sampled sites. See the AIM strategy to understand our rejection criteria (reason a point is not sampled).</p>\r\n",
+  "startYear": "2019",
+  "retirementYear": "",
+  "initiationYear": "2019",
+  "targetPopulation": "<p>All perennial streams and rivers on BLM land within the Sierra Front Office.</p>\r\n\r\n<p>?</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "ownerName": "Nicole Cappuccio",
+  "ownerEmail": "ncappuccio@blm.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 19724,
+      "name": "2019",
+      "abbreviation": "2019",
+      "years": [
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16334/panels/19724",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16334"
+    }
+  ],
+  "strata": [
+    {
+      "id": 22723,
+      "name": "Large Streams (3&4)",
+      "abbreviation": "LS",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16334/strata/22723",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16334"
+    },
+    {
+      "id": 22724,
+      "name": "Rivers (5+)",
+      "abbreviation": "RV",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16334/strata/22724",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16334"
+    },
+    {
+      "id": 22725,
+      "name": "Small Streams (1&2)",
+      "abbreviation": "SS",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16334/strata/22725",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16334"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/78",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1335",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16334/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16334",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16334/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16334",
+  "masterSample": {
+    "name": "Bureau of Land Management Lotic",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/8"
+  },
+  "userSamples": [
+    {
+      "name": "NV_SF_17April2019",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11374"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16334,
+  "title": "NV_SF_STANDARD_2019",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16334",
+  "spatialDesignCategory": "Generalized Random Tessellation Stratified (GRTS)",
+  "spatialDesignCategoryID": 18,
+  "lastUpdated": "2019-04-18T06:19:22-07:00"
+}

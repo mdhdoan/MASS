@@ -1,0 +1,52 @@
+{
+  "description": "<p style=\"margin-left:&#10; margin-right:0in\">Moist soil management is a valuable tool for the treatment of wetland habitats and the wildlife species associated with wetlands.&nbsp; The ability to manage water levels, create disturbance, plant desirable vegetation, and manipulate vegetation to allow for more productive early successional&nbsp;wetland habitats is crucial to the TD-1 project. &nbsp; Moist soil management provides critical habitat and food sources for wetland obligate and wetland associated species, while also allowing for valuable recreation opportunities.&nbsp; Through this survey effort we will be inspecting four different techniques used in 5 wetland cells.&nbsp; Cell 1 was left to naturally establish, Cell 2 was harrowed and then Wild Millet was broadcast seeded, Cell 3 was tilled, Cell 4 was harrowed and Wild Millet was drill seeded, and Cell 7 which was tilled.&nbsp; During the late part of May of 2018 Wetland Specialist McPherson started harrowing wetland cells 2 and 4.&nbsp; Cell 2 was broadcast seeding of Wild Millet began June 1, seed was broadcasted at rate of 30lbs per acre.&nbsp;Cell 4 seeding started June 6, seed in this basin was drilled at rate of 25lbs per acre.&nbsp; This was the first year the wildlife area had new drill seeder that could be hauled behind ATV and wanted to see what method of planting would yield higher rate of seed biomass.&nbsp;Both cells 3 and 7 were tilled to set back non desirable vegetation and to turn over soil to help future plantings of desirable waterfowl forage.&nbsp; Tillage started July 11, when Specialist McPherson had returned to cells for second round of heavy tillage good volunteer stands of Wild Millet had established.&nbsp; Specialist McPherson thought this would be a good opportunity to measure the seed biomass present in a volunteer stand of Wild Millet.&nbsp; The Millet that established must have been stored in the seed bank from prior year&rsquo;s plantings.&nbsp; Through this survey effort and data collected we hope to support the idea that moist soil management activities do in fact yield higher rates of desirable vegetation and seed biomass.</p>\r\n",
+  "startYear": "2018",
+  "retirementYear": "",
+  "initiationYear": "2018",
+  "targetPopulation": null,
+  "ownerName": "Chattan McPherson",
+  "ownerEmail": "Chattan.Mcpherson@dfw.wa.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 19692,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16310/panels/19692",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16310"
+    }
+  ],
+  "strata": [
+    {
+      "id": 22018,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16310/strata/22018",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16310"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/64",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1687",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16310/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16310",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16310/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16310",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Naturally established wetland versus manipulated wetland biomass sites ",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11357"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16310,
+  "title": "Naturally established versus manipulated wetland basin seed biomass",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16310",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2019-11-05T01:31:49-08:00"
+}

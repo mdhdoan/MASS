@@ -1,0 +1,52 @@
+{
+  "description": "<p>\u200b\u200b</p>\r\n\r\n<p>This sampling design supports collection of PIT tag data associated with resident and anadromous <em>O. mykiss</em> collected throughout the upper Yakima Basin.&nbsp; Briefly, <em>O. mykiss</em> are PIT tagged in natal rearing areas.&nbsp; Anadromous fish will migrate 1, 2, 3, or more years later at which point they are known to be anadromous steelhead.&nbsp; Resident fish stay in the rearing area indefinitely.&nbsp; The proportion of each life-history can be estimated by tracking cohorts.&nbsp; The lengthy generation time, and extermely variable nature of <em>O. mykiss</em> life histories, makes tracking a single generation take several years (perhaps a decade in some cases).</p>\r\n",
+  "startYear": "2020",
+  "retirementYear": "2031",
+  "initiationYear": "2020",
+  "targetPopulation": null,
+  "ownerName": "Gabriel Temple",
+  "ownerEmail": "gabriel.temple@dfw.wa.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 19817,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15625/panels/19817",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15625"
+    }
+  ],
+  "strata": [
+    {
+      "id": 22885,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15625/strata/22885",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15625"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1436",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15625/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15625",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15625/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15625",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #15625",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11396"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 15625,
+  "title": "Yakima Steelhead Resident/Anadromous Life History Studies",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15625",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2019-09-24T04:31:49-07:00"
+}

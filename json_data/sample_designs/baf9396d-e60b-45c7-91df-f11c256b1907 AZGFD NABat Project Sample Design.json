@@ -1,0 +1,50 @@
+{
+  "description": "No valid data",
+  "startYear": "2017",
+  "retirementYear": "2017",
+  "initiationYear": "2017",
+  "targetPopulation": null,
+  "ownerName": "Brian Reichert",
+  "ownerEmail": "breichert@usgs.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 19318,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15734/panels/19318",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15734"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21738,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15734/strata/21738",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15734"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/80",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1412",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15734/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15734",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15734/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15734",
+  "masterSample": {
+    "name": "Continental United States 10 KM Grid",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/10"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 15734,
+  "title": "baf9396d-e60b-45c7-91df-f11c256b1907 AZGFD NABat Project Sample Design",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15734",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": "2018-06-09T21:49:38-07:00"
+}

@@ -1,0 +1,97 @@
+{
+  "description": "<p>In order to address the objectives outlined in the linked Study Plan and Protocol, we plan to genotype spring/summer Chinook samples collected from populations throughout the the Grande Ronde and Imnaha River basins from pre-1982 to 2022. As described in the Study Plan/Protocol, this year range represents five major management periods within the history of the Grande Ronde and Imnaha River basins thus far.&nbsp;</p>\r\n\r\n<p>Given that the latest year of inclusion in this study is 2022, all actual tissue samples have already been collected. The adutl samples were laregly collected at weirs or during carcass surveys, although we have prioritized weir samples given that is difficult to reliably produce genotypes from carcass samples. We have also included juvenile samples, which were largely collected from rotary screw traps (RSTs). Sample inventory resposibilities&nbsp;in the Grande Ronde basin have been shared across various organizations, and thus this study is highly collaborative - involving personnel from CRITFC, ODFW, NOAA, CTUIR and NPT.&nbsp;</p>\r\n\r\n<p>The generation of genotype data is expected to occur in 2023-2024. All samples will be genotyped with the standard SNP panel for Chinook salmon at the Hagerman Genetics Labratory in Hagerman, ID.&nbsp;</p>\r\n",
+  "startYear": "1982",
+  "retirementYear": "2024",
+  "initiationYear": "1982",
+  "targetPopulation": null,
+  "ownerName": "Hayley Nuetzel",
+  "ownerEmail": "hnuetzel@critfc.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 22001,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "1982"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16842/panels/22001",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16842"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24495,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16842/strata/24495",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16842"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/51",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1854",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16842/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16842",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16842/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16842",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design Life history of spring Chinook salmon and summer steelhead (1992-026-04) WSE 71180 (5813)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/2243"
+    },
+    {
+      "name": "BPA Sample for Study Design Walla Walla Salmonid Monitoring & Evaluation Grande Ronde Spring Chinook Salmon Supplementation M&E (2007-083-00) v1.0 WSE 67744 (3215)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/2500"
+    },
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 10166 (10403)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/3429"
+    },
+    {
+      "name": "BPA Sample for Study Design Nez Perce Tribe Stream Flow Data Collection WSE 123367 (10272)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/5464"
+    },
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 35747 (12625)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/6922"
+    },
+    {
+      "name": "BPA Sample for Study Design Relative reproductive success of Chinook and steelhead in the Snake River basin (1989-096-00) WSE 121889 (6878)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/9142"
+    },
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 5733 (14430)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/9480"
+    },
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 36868 (12761)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/10019"
+    },
+    {
+      "name": "Training Feb 1 2018 Sample Amy Hines",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11233"
+    },
+    {
+      "name": "Lookingglass Creek Adult Steelhead Trap",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11330"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "NPPC Subbasins",
+      "areaDisplayName": "Grande Ronde"
+    },
+    {
+      "areaTypeName": "NPPC Subbasins",
+      "areaDisplayName": "Imnaha"
+    }
+  ],
+  "id": 16842,
+  "title": "Generating genotypes to assess genetic diversity & relatedness of Grande Ronde & Imnaha River basin populations through time",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16842",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2023-01-26T08:01:55-08:00"
+}

@@ -1,0 +1,137 @@
+{
+  "description": "No valid data",
+  "startYear": "2016",
+  "retirementYear": "",
+  "initiationYear": "2016",
+  "targetPopulation": "<p>BLM&nbsp;perennial streams in the Spokane District&nbsp;</p>\r\n",
+  "ownerName": "Scott Miller",
+  "ownerEmail": "scott.miller@usu.edu",
+  "images": [],
+  "panels": [
+    {
+      "id": 6930,
+      "name": "Year1",
+      "abbreviation": "Yr1",
+      "years": [
+        "2016"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2512/panels/6930",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2512"
+    },
+    {
+      "id": 6931,
+      "name": "Year2",
+      "abbreviation": "Yr2",
+      "years": [
+        "2016"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2512/panels/6931",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2512"
+    }
+  ],
+  "strata": [
+    {
+      "id": 8448,
+      "name": "SPOKANE BORDER FIELD OFFICE-1.0",
+      "abbreviation": "S0",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2512/strata/8448",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2512"
+    },
+    {
+      "id": 8449,
+      "name": "SPOKANE BORDER FIELD OFFICE-2.0",
+      "abbreviation": "S1",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2512/strata/8449",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2512"
+    },
+    {
+      "id": 8450,
+      "name": "SPOKANE BORDER FIELD OFFICE-3.0",
+      "abbreviation": "S2",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2512/strata/8450",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2512"
+    },
+    {
+      "id": 8451,
+      "name": "SPOKANE BORDER FIELD OFFICE-4.0",
+      "abbreviation": "S3",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2512/strata/8451",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2512"
+    },
+    {
+      "id": 8452,
+      "name": "SPOKANE BORDER FIELD OFFICE-5.0",
+      "abbreviation": "S4",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2512/strata/8452",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2512"
+    },
+    {
+      "id": 8453,
+      "name": "SPOKANE BORDER FIELD OFFICE-6.0",
+      "abbreviation": "S5",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2512/strata/8453",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2512"
+    },
+    {
+      "id": 8454,
+      "name": "SPOKANE WENATCHEE FIELD OFFICE-1.0",
+      "abbreviation": "S6",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2512/strata/8454",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2512"
+    },
+    {
+      "id": 8455,
+      "name": "SPOKANE WENATCHEE FIELD OFFICE-2.0",
+      "abbreviation": "S7",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2512/strata/8455",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2512"
+    },
+    {
+      "id": 8456,
+      "name": "SPOKANE WENATCHEE FIELD OFFICE-3.0",
+      "abbreviation": "S8",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2512/strata/8456",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2512"
+    },
+    {
+      "id": 8457,
+      "name": "SPOKANE WENATCHEE FIELD OFFICE-4.0",
+      "abbreviation": "S9",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2512/strata/8457",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2512"
+    },
+    {
+      "id": 8458,
+      "name": "SPOKANE WENATCHEE FIELD OFFICE-5.0",
+      "abbreviation": "S10",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2512/strata/8458",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2512"
+    },
+    {
+      "id": 8459,
+      "name": "SPOKANE WENATCHEE FIELD OFFICE-6.0",
+      "abbreviation": "S11",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2512/strata/8459",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2512"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/78",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1335",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/2512/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/2512",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/2512/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/2512",
+  "masterSample": {
+    "name": "Bureau of Land Management Lotic",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/8"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 2512,
+  "title": "Spokane1",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/2512",
+  "spatialDesignCategory": "Generalized Random Tessellation Stratified (GRTS)",
+  "spatialDesignCategoryID": 18,
+  "lastUpdated": "2017-10-03T05:52:42-07:00"
+}

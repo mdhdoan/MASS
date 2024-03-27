@@ -1,0 +1,129 @@
+{
+  "backgroundRationale": "<p>The Integrated Status adn Effectiveness Monitoring Program has a lead biometrician that assists ISEMP cooperators data and GIS analysts in interpretation and statistical analysis of data. The biometrician collaborates with ISEMP technical staff to extract information from existing data sets to: (i) understand the role monitoring methods play in determining data quality and utility; (ii) develop recommendations on monitoring methods; (iii) develop models to identify limiting factors and guide resource management decision making; and (iv) develop a data analysis framework that will form the basis of future data collection and management efforts. The data analysis component of the project will require significant data reduction, description, and summarization through standard univariate and multivariate approaches. More intensive statistical applications may be required to explain complex interactions, such as classification and regression trees (CART), multivariate adaptive regression splines (MARS) analyses, and Structural Equation Modeling.</p>\r\n",
+  "sampleDesigns": [
+    {
+      "id": 2832,
+      "title": "Juvenile Life History & Diversity Assessment:  Synthesize & Evaluate Naches juvenile PIT-tag data - Yakama Confederated Tribes",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2832",
+      "spatialDesignCategory": "Inference",
+      "spatialDesignCategoryID": 16,
+      "lastUpdated": "2021-03-20T05:08:51-07:00"
+    },
+    {
+      "id": 16297,
+      "title": "ISEMP - Population Life Cycle Model for Chinook in the Wenatchee River basin - National Oceanic and Atmospheric Administration, cloned for Study Design 80",
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16297",
+      "spatialDesignCategory": "Inference",
+      "spatialDesignCategoryID": 16,
+      "lastUpdated": "2019-03-02T04:09:42-08:00"
+    },
+    {
+      "id": 16298,
+      "title": "Juvenile Life History & Diversity Assessment:  Synthesize & Evaluate Naches juvenile PIT-tag data - Yakama Confederated Tribes, cloned for Study Design 80",
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16298",
+      "spatialDesignCategory": "Inference",
+      "spatialDesignCategoryID": 16,
+      "lastUpdated": "2019-03-02T04:09:42-08:00"
+    },
+    {
+      "id": 16299,
+      "title": "Winter Quantile Random Forest (QRF) model development - Quantitative Consultants Inc, cloned for Study Design 80",
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16299",
+      "spatialDesignCategory": "Inference",
+      "spatialDesignCategoryID": 16,
+      "lastUpdated": "2019-03-02T04:09:43-08:00"
+    },
+    {
+      "id": 16300,
+      "title": "Develop/validate winter Chinook Salmon and Steelhead QRF Model - Washington Department of Fish and Wildlife (WDFW), cloned for Study Design 80",
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16300",
+      "spatialDesignCategory": "Inference",
+      "spatialDesignCategoryID": 16,
+      "lastUpdated": "2019-03-02T04:09:43-08:00"
+    },
+    {
+      "id": 16301,
+      "title": "ISEMP Regional Data Analysis - Quantitative Consultants Inc 1, cloned for Study Design 80",
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16301",
+      "spatialDesignCategory": "Inference",
+      "spatialDesignCategoryID": 16,
+      "lastUpdated": "2019-03-02T04:09:43-08:00"
+    },
+    {
+      "id": 16302,
+      "title": "Develop models of learning and information flow - National Oceanic and Atmospheric Administration, cloned for Study Design 80",
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16302",
+      "spatialDesignCategory": "Inference",
+      "spatialDesignCategoryID": 16,
+      "lastUpdated": "2019-03-02T04:09:44-08:00"
+    },
+    {
+      "id": 16303,
+      "title": "ISEMP Salmon subbasin data analysis - Quantitative Consultants Inc, cloned for Study Design 80",
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16303",
+      "spatialDesignCategory": "Inference",
+      "spatialDesignCategoryID": 16,
+      "lastUpdated": "2019-03-02T04:09:44-08:00"
+    },
+    {
+      "id": 16304,
+      "title": "15.14  Develop models of information and learning flow - Terraqua, Inc., cloned for Study Design 80",
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16304",
+      "spatialDesignCategory": "Inference",
+      "spatialDesignCategoryID": 16,
+      "lastUpdated": "2019-03-02T04:09:44-08:00"
+    },
+    {
+      "id": 16305,
+      "title": "Evaluate conservation status and extinction risk of freshwater mussels - Umatilla Confederated Tribes (CTUIR), cloned for Study Design 80",
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16305",
+      "spatialDesignCategory": "Inference",
+      "spatialDesignCategoryID": 16,
+      "lastUpdated": "2019-03-02T04:09:44-08:00"
+    }
+  ],
+  "objectives": [
+    "Provide technical and analytical support to ISEMP staff and cooperators "
+  ],
+  "keyAssumptions": "<p>Analytical Approaches assumed used: - Multivariate and univariate statistical models of salmonid habitat and population data. - Spatial / temporal variance decomposition based salmonid habitat and population data analysis - Landscape-scale classification system for salmonid habitat for fish-habitat data analysis support - structural equation modeling of salmonid habitat and population data</p>\r\n",
+  "dataHandlingConsiderations": "<p>Data QA/QC is completed at the project level before submittal to ISEMP Biometrician</p>\r\n",
+  "qualityControlConsiderations": null,
+  "reportingConsiderations": null,
+  "equipmentCleaningAndCalibration": null,
+  "rolesAndResponsibilities": null,
+  "qualifications": null,
+  "trainingRequirements": null,
+  "safetyConsiderations": null,
+  "fieldScheduleNotes": null,
+  "budgetConsiderations": null,
+  "monitoringPurpose": "Project Scale Effectiveness Monitoring",
+  "estimatedCostPerSite": null,
+  "optionalMethodIDs": [],
+  "optionalMethods": [],
+  "id": 1685,
+  "name": "Smolt to Adult Return Synthesis: ISEMP Data Analysis YKFP",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/studyDesigns/1685",
+  "programID": 83,
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/83",
+  "protocolID": 535,
+  "protocolUrl": "http://www.monitoringresources.org/api/v1/protocols/535",
+  "ownerName": "Chris Frederiksen",
+  "ownerEmail": "chrisf@yakama.com",
+  "majorVersion": 2,
+  "minorVersion": 0,
+  "previousStudyDesignVersionId": 80,
+  "previousStudyDesignVersionUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/80",
+  "mostRecentVersionId": null,
+  "mostRecentVersionUrl": "[none]"
+}

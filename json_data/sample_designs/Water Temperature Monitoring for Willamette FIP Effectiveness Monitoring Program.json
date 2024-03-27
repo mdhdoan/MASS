@@ -1,0 +1,56 @@
+{
+  "description": "<p>\u200b</p>\r\n\r\n<p>We will monitor water temperature at 3 sites that primarily include restored gravel pits and Ludwigia treatment sites that have been restored through the Willamette FIP. We will monitor water temperature at these sites through the summer months and into the fall of 2020. These data will provide a basis for characterizing spatial and temporal variability within the waterbody that may reflect restoration activities, flow, weather, hypoheic inputs, and other site conditions.&nbsp;</p>\r\n",
+  "startYear": "2020",
+  "retirementYear": "2022",
+  "initiationYear": "2020",
+  "targetPopulation": null,
+  "ownerName": "Michael Ahr",
+  "ownerEmail": "michael@bentonswcd.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 21799,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16753/panels/21799",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16753"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24369,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16753/strata/24369",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16753"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1242",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16753/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16753",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16753/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16753",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16572",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11497"
+    },
+    {
+      "name": "Sample for Design #16753",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11549"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16753,
+  "title": "Water Temperature Monitoring for Willamette FIP Effectiveness Monitoring Program",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16753",
+  "spatialDesignCategory": "Other...",
+  "spatialDesignCategoryID": 17,
+  "lastUpdated": "2021-11-02T00:23:21-07:00"
+}

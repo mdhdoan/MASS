@@ -1,0 +1,54 @@
+{
+  "description": "<p>Sites select to participate in the BOR 2013 stream metabolism Study</p>\r\n",
+  "startYear": "2013",
+  "retirementYear": "",
+  "initiationYear": "2013",
+  "targetPopulation": null,
+  "ownerName": "Steve Fortney",
+  "ownerEmail": "stephenfortney@terraqua.biz",
+  "images": [],
+  "panels": [
+    {
+      "id": 228,
+      "name": "Annual",
+      "abbreviation": "Ann",
+      "years": [
+        "2013",
+        "2014",
+        "2015"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/75/panels/228",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/75"
+    }
+  ],
+  "strata": [
+    {
+      "id": 655,
+      "name": "BOR Metabolism Study",
+      "abbreviation": "Metabo",
+      "url": "http://www.monitoringresources.org/api/v1/designs/75/strata/655",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/75"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/18",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/149",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/75/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/75",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/75/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/75",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Methow 2013 BOR Stream Metabolism Study",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1031"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 75,
+  "title": "Methow 2013 BOR Stream Metabolism Study",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/75",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2014-08-06T11:03:45-07:00"
+}

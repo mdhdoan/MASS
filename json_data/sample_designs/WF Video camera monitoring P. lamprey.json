@@ -1,0 +1,57 @@
+{
+  "description": "<p>Two cameras are installed at Willamette falls&nbsp;to enumerate lamprey passing over the ramps.&nbsp;Cameras&nbsp;are mounted on the west side of the falls, outside&nbsp;above the fish ladders&nbsp;in a weatherproof camera housing.&nbsp;Two infrared LED lights illuminate&nbsp;the ramps to ensure night video.&nbsp;Video is recorded 24-hours per day&nbsp;recorded on two high-definition hard drive recorders from the day the ramps are installed until water flow slows&nbsp;in the fall.&nbsp;During video review, lamprey from each ramp was counted by hour and day recorded.</p>\r\n",
+  "startYear": "2020",
+  "retirementYear": "2021",
+  "initiationYear": "2020",
+  "targetPopulation": null,
+  "ownerName": "Shay Way",
+  "ownerEmail": "shay.way@ctwsbnr.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 20120,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16487/panels/20120",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16487"
+    }
+  ],
+  "strata": [
+    {
+      "id": 23032,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16487/strata/23032",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16487"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/35",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/525",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16487/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16487",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16487/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16487",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Willamette Falls PIT tag antenna arrays",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11208"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC3 - Basin",
+      "areaDisplayName": "Willamette"
+    }
+  ],
+  "id": 16487,
+  "title": "WF: Video camera monitoring P. lamprey",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16487",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2020-02-08T01:32:06-08:00"
+}

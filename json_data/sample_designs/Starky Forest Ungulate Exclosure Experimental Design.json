@@ -1,0 +1,61 @@
+{
+  "description": "<p>Ten locations along Meadow Creek within the Starky&nbsp;Forest will be monitored for the effects of an experimental ungulate exclosure. Three exclosures are being constructed by the United States Forest Service to exclude deer and elk, cows, or all ungulates. Stream channel morphology, substrate, and the&nbsp;macroinvertebrate&nbsp;community will be monitored for change resulting from the ungulate exclosures.&nbsp;</p>\r\n",
+  "startYear": "2013",
+  "retirementYear": "",
+  "initiationYear": "2013",
+  "targetPopulation": null,
+  "ownerName": "Christopher Horn",
+  "ownerEmail": "christopher.d.horn@state.or.us",
+  "images": [],
+  "panels": [
+    {
+      "id": 164,
+      "name": "Annual",
+      "abbreviation": "Ann",
+      "years": [
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/56/panels/164",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/56"
+    }
+  ],
+  "strata": [
+    {
+      "id": 498,
+      "name": "Meadow Creek Exclosures",
+      "abbreviation": "Meadow Ck",
+      "url": "http://www.monitoringresources.org/api/v1/designs/56/strata/498",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/56"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/18",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/155",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/56/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/56",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/56/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/56",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "UGR Starky Forest Exclosure",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1020"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 56,
+  "title": "Starky Forest Ungulate Exclosure Experimental Design",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/56",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2013-07-16T03:07:28-07:00"
+}

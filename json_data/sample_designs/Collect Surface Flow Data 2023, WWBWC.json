@@ -1,0 +1,149 @@
+{
+  "description": "<p>Monitor stream flow at 24&nbsp;gauge stations&nbsp;within the Walla Walla Watershed.&nbsp;</p>\r\n",
+  "startYear": "2022",
+  "retirementYear": "",
+  "initiationYear": "2022",
+  "targetPopulation": "COPY: COPY: ",
+  "ownerName": "Luke Adams",
+  "ownerEmail": "luke.adams@wwbwc.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 22177,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2022"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16891/panels/22177",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16891"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24557,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16891/strata/24557",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16891"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/94",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1868",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16891/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16891",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16891/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16891",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16779",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11567"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.896050,-118.306740"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.900500,-118.297250"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.947190,-118.385520"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.976790,-118.376460"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.895380,-118.369570"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.945070,-118.393820"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.945060,-118.393940"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.972830,-118.399910"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.969920,-118.410670"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.974350,-118.417230"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.000830,-118.424390"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.000700,-118.435910"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.969220,-118.413450"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.998270,-118.401550"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.003740,-118.465110"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.971130,-118.415910"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.956710,-118.438630"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.958070,-118.441920"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.972760,-118.451220"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.972920,-118.480140"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.989920,-118.547740"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.947360,-118.465990"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.959900,-118.537000"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.959780,-118.538530"
+    }
+  ],
+  "id": 16891,
+  "title": "Collect Surface Flow Data 2023, WWBWC",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16891",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2023-06-16T01:30:44-07:00"
+}

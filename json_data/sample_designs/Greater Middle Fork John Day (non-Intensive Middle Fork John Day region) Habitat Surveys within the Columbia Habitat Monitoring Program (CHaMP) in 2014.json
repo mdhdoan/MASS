@@ -1,0 +1,112 @@
+{
+  "description": "<p>CHaMP&nbsp;is designed as a Columbia River basin-wide habitat status and trends monitoring program built around a single protocol with a programmatic approach to data collection and management (RM&amp;E Workgroup 2010).&nbsp;CHaMP&nbsp;will result in the collection and analysis of systematic habitat status and trends information that will be used to assess basin-wide habitat conditions. When coupled with biological response indicators, this status and trends information will be used to evaluate habitat management strategies. This program will be integrated with ongoing Pacific Northwest Aquatic Monitoring Program (PNAMP) recovery planning efforts and will be part of the collaborative process across Columbia Basin fish management agencies and tribes and other state and federal agencies that are monitoring&nbsp;anadromous&nbsp;salmonids&nbsp;and/or their habitat. The implementation of&nbsp;CHaMP&nbsp;will characterize stream responses to watershed restoration and/or management actions in at least one population within each steelhead and spring Chinook Major Population Group (MPG) which have, or will have, &ldquo;fish-in&rdquo; and &ldquo;fish-out&rdquo; monitoring (identified in&nbsp;RPA&nbsp;50.6), thereby meeting the requirements of&nbsp;RPA&nbsp;56.3,&nbsp;RPA&nbsp;57, and&nbsp;RPA&nbsp;3.&nbsp;CHaMP&nbsp;was designed to deliver trends in habitat indicators and requires that monitoring occurs for three cycles of a sampling panel (see section 1.6), at least 9 years.</p>\r\n\r\n<p>John Day&rsquo;s&nbsp;ChaMP&nbsp;design integrated several projects.&nbsp; The overarching design covered 5&nbsp;TRT&nbsp;populations (Steelhead) defined by each of the major basins making up the John Day (Lower John Day, South Fork, Middle Fork, North Fork, and upper&nbsp;mainstem).&nbsp;ODFW&nbsp;has conducted&nbsp;GRTS&nbsp;based habitat surveys for several years, providing an extensive list of legacy sites.&nbsp;&nbsp; Two special studies were embedded within the overarching design.&nbsp; An&nbsp;ISEMP&nbsp;Intensively Monitored Watershed (IMW) project, initiated in 2005, was set up to evaluate potential stream restoration by stimulating repopulation of beaver communities in Bridge Creek (Lower John Day, OR) with Murderer&rsquo;s Creek (South Fork John Day) as a watershed-scale reference.&nbsp; The&nbsp;ISEMP&nbsp;project designed a &lsquo;staircase&rsquo; framework to evaluate the range of restoration projects to be implemented over time, with a set of reference sites on the&nbsp;mainstem&nbsp;of Murderer&rsquo;s Creek.&nbsp; A second project, initiated in parallel with&nbsp;CHaMP&nbsp;status and trend and the Bridge Creek&nbsp;IMW, intended to examine spatially intensive sampling (ISW&nbsp;= intensively sampled watersheds). &nbsp;This study selected sites in several small watersheds (Strahler&nbsp;Order 3) across the John Day Basin.</p>\r\n\r\n<p><strong>2014 Design updates:</strong></p>\r\n\r\n<p>In 2014, temporary funding reductions forced a change in sampling. &nbsp;Only Rotating Panel 1 sites from all strata will be sampled. &nbsp;If funding cuts become permanent, annual sites will be reconsidered in the 2015 design.</p>\r\n\r\n<p><strong>2013 Design updates:</strong></p>\r\n\r\n<p>In 2013, the&nbsp;ODFW&nbsp;frame was reduced to the Middle Fork John Day and South Fork John Day steelhead populations. &nbsp;In both of these areas,&nbsp;ODFW&nbsp;did slight updates to the frames within these&nbsp;HUC4s&nbsp;and a&nbsp;GRTS&nbsp;sample was done to cover areas outside of&nbsp;ELR&#39;s&nbsp;sampling frame. &nbsp;Previously sampled&nbsp;CHaMP&nbsp;sites were used as legacy sites within the new&nbsp;GRTS&nbsp;draw.</p>\r\n\r\n<p><strong>2013 stratification:</strong></p>\r\n\r\n<p>New strata were created to cover the new frame of&nbsp;ODFW, specifically for the&nbsp;MFJD. &nbsp;&quot;Greater Middle Fork John Day&quot; refers to the frame area outside of&nbsp;ELR&#39;s&nbsp;MFJD&nbsp;sampling frame. &nbsp;Valley class was also used as a stratification variable (Source, Transport&nbsp;Depositional). &nbsp;In the &quot;Greater South Fork John Day&quot;, outside of&nbsp;ELR&#39;s&nbsp;Murderer&#39;s Creek target frame, Valley class was grouped into &quot;Source&quot; and &quot;Transport&nbsp;Depositional&quot; classes since there were very few Transport sites. Note that some frame area in the &#39;Greater South Fork John Day&#39; strata is within the Murderer&#39;s Creek&nbsp;HUC6, but is not part of the&nbsp;ELR&nbsp;Murderers Creek frame. &nbsp;</p>\r\n\r\n<p>ELR&#39;s&nbsp;design did not change from 2012 sampling.</p>\r\n\r\n<p><strong>2012 design change summary:</strong>&nbsp; The primary change in the JD Design for 2012 revolved around the redesign of the&nbsp;ISW&nbsp;component; the&nbsp;ISW&nbsp;design set up for 2011 was abandoned as these watersheds were too small, yielding insufficient habitat contrasts across their target domains.&nbsp; Instead, the&nbsp;ISW&nbsp;effort switched to the upper&nbsp;mainstem&nbsp;of the Middle Fork John Day and Murderers Creek.&nbsp; Within both, sampling effort was increased.&nbsp; &nbsp;The basic design was to sample 15 sites per year, an annual panel of 6 sites and 3 rotating panels of 9 sites, each on a three year cycle, stratified by valley class. &nbsp; There was no change to the greater John Day and non-Murderer&#39;s sampling in the South Fork John Day.</p>\r\n\r\n<p><strong>2012 stratification:</strong></p>\r\n\r\n<p>There were no changes to the Greater John Day and Greater South Fork John Day strata in 2012. &nbsp;ISWs&nbsp;were discontinued in 2012 and all effort was moved to the upstream Middle Fork John Day, using strata of&nbsp;mainstem/not&nbsp;mainstem&nbsp;and valley class (depositional, transport and source). &nbsp;Murderer&#39;s Creek sampling continued with a slightly reduced frame and additional samples selected in the draw. &nbsp;The&nbsp;mainstem&nbsp;section of the Middle Fork John Day was defined where&nbsp;NHDPlus&nbsp;v1.0&nbsp;hydrography&nbsp;GNISName=Middle Fork John Day. &nbsp;Mainstem/not&nbsp;mainstem&nbsp;stratification notes are not listed in the champmonitoring.org&nbsp;CategoryName, but are within the GIS frame files.&nbsp;ODFW&nbsp;sampling in the &#39;Greater John Day&#39; included the remainder of the 2011&nbsp;ODFW&nbsp;JD frame not covered by&nbsp;ELR&#39;s&nbsp;MFJD&nbsp;sampling.&nbsp;</p>\r\n\r\n<p><strong>Master sample&nbsp;GRTS&nbsp;Input file</strong>: JD_MS_LEG_all_20120520_take 2.xlsx</p>\r\n\r\n<p><strong>Legacy sample&nbsp;GRTS&nbsp;Input file:</strong>&nbsp;</p>\r\n\r\n<p><strong>Final Design File:&nbsp;</strong><em>Murderers Creek&nbsp;ISW:</em>&nbsp;murd.isw.dsgn.20120606.csv;&nbsp;<em>Middle Fork John Day&nbsp;ISW</em>: MFJD.isw.dsgn.20120606.csv</p>\r\n\r\n<p><strong>R code:</strong>&nbsp;Murderers JD MF&nbsp;ISW&nbsp;2012.Clean.r</p>\r\n\r\n<p><a href=\"https://isemp.egnyte.com/h-s/20140514/NkgsyXMnb4\" style=\"font-size: 12px;\">JohnDayDesignDocs_2012.zip</a></p>\r\n\r\n<p><strong>2011 Design Notes:</strong></p>\r\n\r\n<p><strong>Stratification:</strong></p>\r\n\r\n<p>The Greater John Day and Greater South Fork John Day designs were stratified by Valley Class (Source, Transport,&nbsp;Depositional) and Ownership (Public/Private). &nbsp;</p>\r\n\r\n<p>The Intensively Surveyed Watersheds were stratified by the Watershed Name (e.g.&nbsp;Rancheria&nbsp;Creek) and gradient classes that were used in a geomorphic classification by Tim&nbsp;Beechie&nbsp;et al. (2013) for large streams &gt;8m. &nbsp;Gradient classes were &lt;1, 1-3, and &gt;3.&nbsp;</p>\r\n\r\n<p>Murderers Creek was stratified into&nbsp;mainstem&nbsp;and&nbsp;non-mainstem&nbsp;area as defined by&nbsp;NHDPlus&#39;&nbsp;GNIS&nbsp;Name =Murderers Creek as the &#39;mainstem&#39; area. &nbsp;This stratification is not listed in the Category Name used on cm.org, but was used during the initial&nbsp;GRTS&nbsp;design process.</p>\r\n\r\n<p><strong>Master sample&nbsp;GRTS&nbsp;Input file</strong>:&nbsp;<em>ISW&nbsp;file</em>: JDISW_MS_20110523_b.txt;&nbsp;<em>Greater John Day file:</em>&nbsp;JohnDay_MS_20110506_1400.txt;&nbsp;<em>South Fork John Day/Murderers</em>: JohnDaySF_MS_20110506_1500.txt (note Murderers Creek sites extracted from this file)</p>\r\n\r\n<p><strong>Legacy sample&nbsp;GRTS&nbsp;Input file</strong>:&nbsp;<em>ISW&nbsp;file</em>: JDISW_Legacy_20110523_b.txt;&nbsp;<em>Greater John Day file</em>:&nbsp;JohnDay_Legacy_20110506_1400.txt;&nbsp;<em>South Fork John Day/Murderers:&nbsp;</em>JohnDaySF_Legacy_20110506_1500.txt</p>\r\n\r\n<p>\u200b\u200b<strong>Final design file:&nbsp;</strong><em>Greater John Day (ODFW)</em>: John Day sans SF Design.5.6.2011.csv,&nbsp;<em>Murderers Creek design</em>: Murderers.mainstem.7.6.2011.csv;&nbsp;<em>ISW&nbsp;design</em>: ISW.sample.5.25.csv</p>\r\n\r\n<p>\u200b<strong>R code</strong>: John Day Design 5.24.2011.clean.r</p>\r\n\r\n<p><strong>Strat.panel function version:</strong>&nbsp;Stevens.strat.panel6.r</p>\r\n\r\n<p><strong>Design Documentation Files:</strong></p>\r\n\r\n<div><a href=\"https://isemp.egnyte.com/h-s/20140430/6KN7kWNsEV\" style=\"font-size: 12px;\">JohnDayDesignDocs.zip\u200b\u200b</a></div>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "startYear": "2011",
+  "retirementYear": "",
+  "initiationYear": "2014",
+  "targetPopulation": "<p><strong>2014 Frame updates:</strong></p>\r\n\r\n<p>There were no changes to the frame in 2014, only a change in sampling frequency.</p>\r\n\r\n<p><strong>2013 Frame updates:</strong></p>\r\n\r\n<p>In 2013,&nbsp;ELR&#39;s&nbsp;Middle Fork John Day and the Murderer&#39;s Creek frames remained unchanged. &nbsp;However, the Greater John Day frame sampled by&nbsp;ODFW&nbsp;was reduced to the Middle Fork John Day. &nbsp;ODFW&#39;s&nbsp;new Middle Fork John Day -only frame included the outer areas of the&nbsp;MFJD&nbsp;ELR&nbsp;frame that are within the&nbsp;MFJD&nbsp;steelhead extent but are not part of the&nbsp;ELR&nbsp;MFJD&nbsp;Frame. &nbsp;These areas are represented by a strata name starting with &#39;Greater Middle Fork John Day&#39;. &nbsp;</p>\r\n\r\n<p>The South Fork John Day frame also changed for&nbsp;ODFW&nbsp;and included revision of tributaries within Murderers Creek and several in the &#39;Greater South Fork John Day&#39; that are within steelhead extent but not within the previous frame. &nbsp;All changes are noted in the GIS files (see&nbsp;Target2014&nbsp;and&nbsp;Strata2014&nbsp;attributes).&nbsp;</p>\r\n\r\n<p><strong>2012 Frame updates:</strong></p>\r\n\r\n<p>There were no updates to the Greater John Day and Greater South Fork John Day frames. &nbsp;The&nbsp;ISW&nbsp;strata were removed, and the&nbsp;MFJD&nbsp;frame was selected as a subset of the&nbsp;ODFW&nbsp;frame for the Greater John Day used in 2011. &nbsp;The frame was reduced to remove any low to no fish areas and intermittent streams based on field expertise. &nbsp;The frame reduction of Murderer&#39;s creek was also performed by&nbsp;ELR&nbsp;using similar field expertise. &nbsp;Stream mileage outside of the&nbsp;ELR&nbsp;MFJD&nbsp;frame was left within the Greater John Day frame. &nbsp;</p>\r\n\r\n<p><strong>2011 Frame description:</strong></p>\r\n\r\n<p>The target population of the John Day design was generally defined as the current Steelhead domain recognized by&nbsp;ODFW&nbsp;(John Day). &nbsp;This follows the&nbsp;CHaMP&nbsp;domain of no&nbsp;1st&nbsp;order streams, no intermittent streams, and gradient &lt;12%, however the GIS frame was custom-made by&nbsp;ODFW&nbsp;and some exceptions to these rules may occur. &nbsp;</p>\r\n\r\n<p>For the&nbsp;ISW, we selected watersheds within strata designated by the Technical Recovery Team (TRT) steelhead populations. Bridge Creek and Murderers Creek will be sampled annually to represent Lower and South Fork&nbsp;Mainstem&nbsp;TRT&nbsp;populations, respectively. These&nbsp;IMW&nbsp;&nbsp;watersheds will have at least the effort of the other 3 watersheds and will not be further discussed here.&nbsp; Three other watersheds, with one each in NF, MF, and Upper JD per year will be selected for a 3 consecutive years. &nbsp;We randomly selected&nbsp;3rd&nbsp;order streams (max order) with public land ownership greater than 75%. We also excluded watersheds that have 1/3 of the stream KM that falls outside the&nbsp;ODFW&nbsp;frame (either a barrier or no fish found in past surveys).&nbsp; We also used elevation as a&nbsp;covariate&nbsp;that lead to the creation of 3 groups in the NF, 2 in the MF, and 1 in the Upper JD. &nbsp;19 small watersheds form the pool from which 3 watersheds will be selected. &nbsp;For additional information, see</p>\r\n\r\n<p>Nick.ISW_Final_SiteSelection.docx in Design Documentation zipped file available from the Basics section of this documentation.</p>\r\n\r\n<p>GIS files for John Day:</p>\r\n\r\n<p><a href=\"https://isemp.egnyte.com/h-s/20140430/Uf4pokNctv\" style=\"font-size: 12px;\">JohnDayFrame.zip</a></p>\r\n",
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 692,
+      "name": "Annual",
+      "abbreviation": "Annual",
+      "years": [
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/267/panels/692",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/267"
+    },
+    {
+      "id": 693,
+      "name": "Rotating Panel 1",
+      "abbreviation": "Rotating Panel 1",
+      "years": [
+        "2011",
+        "2014"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/267/panels/693",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/267"
+    },
+    {
+      "id": 694,
+      "name": "Rotating Panel 2",
+      "abbreviation": "Rotating Panel 2",
+      "years": [
+        "2012",
+        "2015"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/267/panels/694",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/267"
+    },
+    {
+      "id": 695,
+      "name": "Rotating Panel 3",
+      "abbreviation": "Rotating Panel 3",
+      "years": [
+        "2013"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/267/panels/695",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/267"
+    }
+  ],
+  "strata": [
+    {
+      "id": 1329,
+      "name": "Greater Middle Fork John Day-Depositional",
+      "abbreviation": "Greater Middle Fork John Day-Depositional",
+      "url": "http://www.monitoringresources.org/api/v1/designs/267/strata/1329",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/267"
+    },
+    {
+      "id": 1330,
+      "name": "Greater Middle Fork John Day-Source-Private",
+      "abbreviation": "Greater Middle Fork John Day-Source-Private",
+      "url": "http://www.monitoringresources.org/api/v1/designs/267/strata/1330",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/267"
+    },
+    {
+      "id": 1331,
+      "name": "Greater Middle Fork John Day-Source-Public",
+      "abbreviation": "Greater Middle Fork John Day-Source-Public",
+      "url": "http://www.monitoringresources.org/api/v1/designs/267/strata/1331",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/267"
+    },
+    {
+      "id": 1332,
+      "name": "Greater Middle Fork John Day-Transport",
+      "abbreviation": "Greater Middle Fork John Day-Transport",
+      "url": "http://www.monitoringresources.org/api/v1/designs/267/strata/1332",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/267"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/18",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/219",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/267/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/267",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/267/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/267",
+  "masterSample": {
+    "name": "Columbia Basin Master Sample",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/1"
+  },
+  "userSamples": [
+    {
+      "name": "OJD Legacy Sample",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1009"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 267,
+  "title": "Greater Middle Fork John Day (non-Intensive Middle Fork John Day region) Habitat Surveys within the Columbia Habitat Monitoring Program (CHaMP) in 2014",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/267",
+  "spatialDesignCategory": "Modified GRTS",
+  "spatialDesignCategoryID": 14,
+  "lastUpdated": "2015-03-06T06:02:57-08:00"
+}

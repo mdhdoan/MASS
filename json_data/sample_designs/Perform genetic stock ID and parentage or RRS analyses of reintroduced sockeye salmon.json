@@ -1,0 +1,37 @@
+{
+  "description": "<p>This sample design refers to the sampling of (at a minimum) all sockeye salmon adults that return to a system in which some reintroduction effort has been implemented. Where possible, additional fish that represent&nbsp;components of this effort may be sampled, such as outmigrating juveniles, adults from the source stock, carcass samples, etc.&nbsp;</p>\r\n\r\n<p>We are using this sampling design to montior efforts to reintroduce sockeye salmon&nbsp;to Cle Elum Lake/Yakima River basin (Yakama Nation, YKFP). All adults that return to the Roza Adult Monitoring Facility (RAMF) are genetically sampled. Additionally, a proportion of the Okanagan and Wenatchee stock fish that are intercepted at Priest Rapids Dam and transplanted to Cle Elum Lake are also sampled for genetic tissue. Lastly, out-migrating juveniles, post-spawn carcasses and sockeye collected in gill nets in Cle Elum Lake (deployed to remove lake trout) are genetically sampled as possible for any given year. This genetic monitoring is ongoing, and&nbsp;really began in earnest in 2012/2013.</p>\r\n\r\n<p>We are also using this sampling design to monitor efforts to reintroduce sockeye salmon to Lake Billy Chinook/Deschutes River. In this system, all adult sockeye that return to Pelton Dam are tissue sampled. In addition, juvenile O. nerka expressing out-migrating behavior are intercepted in the Selective Water Withdrawal system&nbsp;and gentically sampled. This genetic monitoring is ongoing, and really began in earnest in 2010.&nbsp;</p>\r\n",
+  "startYear": "2012",
+  "retirementYear": "2022",
+  "initiationYear": "2015",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Hayley Nuetzel",
+  "ownerEmail": "hnuetzel@critfc.org",
+  "images": [],
+  "panels": [],
+  "strata": [],
+  "programUrl": "",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/522",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16657/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16657",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16657/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16657",
+  "masterSample": null,
+  "userSamples": null,
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC6 - Sub Watershed",
+      "areaDisplayName": "Upper Cle Elum River"
+    },
+    {
+      "areaTypeName": "HUC5 - Watershed",
+      "areaDisplayName": "Upper Metolius River"
+    }
+  ],
+  "id": 16657,
+  "title": "Perform genetic stock ID and parentage/RRS analyses of reintroduced sockeye salmon",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16657",
+  "spatialDesignCategory": "Inference",
+  "spatialDesignCategoryID": 16,
+  "lastUpdated": "2021-01-12T00:26:18-08:00"
+}

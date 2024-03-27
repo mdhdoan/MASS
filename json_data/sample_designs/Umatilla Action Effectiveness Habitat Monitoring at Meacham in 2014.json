@@ -1,0 +1,58 @@
+{
+  "description": "No valid data",
+  "startYear": "2014",
+  "retirementYear": "",
+  "initiationYear": "2014",
+  "targetPopulation": null,
+  "ownerName": "Jennifer O'Neal",
+  "ownerEmail": "jen@naturaldes.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 5648,
+      "name": "Annual",
+      "abbreviation": "Ann",
+      "years": [
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15828/panels/5648",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15828"
+    }
+  ],
+  "strata": [
+    {
+      "id": 6835,
+      "name": "AEM Off-Channel Floodplain",
+      "abbreviation": "AEM-OffChn",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15828/strata/6835",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15828"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15828/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15828",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15828/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15828",
+  "masterSample": {
+    "name": "Columbia Basin Master Sample",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/1"
+  },
+  "userSamples": [
+    {
+      "name": "MEC00001 Sample",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1040"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 15828,
+  "title": "Umatilla Action Effectiveness Habitat Monitoring at Meacham in 2014",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15828",
+  "spatialDesignCategory": "Modified GRTS",
+  "spatialDesignCategoryID": 14,
+  "lastUpdated": "2015-06-13T01:52:11-07:00"
+}

@@ -1,0 +1,67 @@
+{
+  "description": "<p>A multiple pass mark-recapture study is conducted to estimate abundance of Redband Trout in an index area of the Spokane River. Redband Trout are captured by electrofishing using a drift boat mounted with a Smith-Root 2.5 GPP electrofishing unit.&nbsp; A crew of 2-3 individuals, one rower and 1-2 netters, conduct the electrofishing surveys. A total of three sampling passes are conducted during the survey. A sampling pass, or capture-recapture occasion, consists of sampling each shoreline of the sampling area. Electrofishing transects were established prior to the initial capture effort using a recreational grade handheld GPS. Two float trips are required to sample both shorelines during each pass. The initial sampling float starts on either the north or south shoreline and alternates&nbsp;to the opposite shoreline at intervals of approximately 600 seconds (500 m). The subsequent float begins on the opposite shoreline and alternates to the shoreline segments that were not sample&nbsp;on the previous float, ensuring that the entire shoreline iss sampled. This strategy is employed to avoid electrofishing over recently released Redband Trout. All float trips commence&nbsp;at least 0.5 hours after sunset and continue&nbsp;until all transects for that float are complete.&nbsp;</p>\r\n",
+  "startYear": "2021",
+  "retirementYear": "2023",
+  "initiationYear": "2021",
+  "targetPopulation": null,
+  "ownerName": "Charles Lee",
+  "ownerEmail": "charles.lee@dfw.wa.gov",
+  "images": [
+    {
+      "type": "Photo",
+      "url": "http://www.monitoringresources.org/Designer/Design/UploadAsFile/7241",
+      "caption": null
+    }
+  ],
+  "panels": [
+    {
+      "id": 21984,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16829/panels/21984",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16829"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24478,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16829/strata/24478",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16829"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/64",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/877",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16829/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16829",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16829/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16829",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 18926 (11284)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/7975"
+    },
+    {
+      "name": "Sample for Design #16783",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11570"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC4 - Sub Basin",
+      "areaDisplayName": "Upper Spokane"
+    }
+  ],
+  "id": 16829,
+  "title": "RedbandTrout Abundance in the Spokane River - Washington Department of Fish and Wildlife (WDFW)",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16829",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": "2022-12-06T03:48:44-08:00"
+}

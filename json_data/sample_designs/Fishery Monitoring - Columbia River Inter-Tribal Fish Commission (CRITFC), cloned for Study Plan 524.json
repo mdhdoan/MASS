@@ -1,0 +1,61 @@
+{
+  "description": "COPY: ",
+  "startYear": "2023",
+  "retirementYear": "2027",
+  "initiationYear": "2023",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Stuart Ellis",
+  "ownerEmail": "ells@critfc.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 22042,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2023"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16856/panels/22042",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16856"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24515,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16856/strata/24515",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16856"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1859",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16856/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16856",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16856/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16856",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 43006 (13273)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/5606"
+    },
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 64511 (15055)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/8833"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Columbia River Basin",
+      "areaDisplayName": "Columbia River"
+    }
+  ],
+  "id": 16856,
+  "title": "Fishery Monitoring - Columbia River Inter-Tribal Fish Commission (CRITFC), cloned for Study Plan 524",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16856",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2023-02-18T07:18:27-08:00"
+}

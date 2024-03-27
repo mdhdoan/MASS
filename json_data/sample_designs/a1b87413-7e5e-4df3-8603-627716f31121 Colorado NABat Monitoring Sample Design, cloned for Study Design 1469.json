@@ -1,0 +1,50 @@
+{
+  "description": "COPY: ",
+  "startYear": "2017",
+  "retirementYear": "2017",
+  "initiationYear": "2017",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Brian Reichert",
+  "ownerEmail": "breichert@usgs.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 19421,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15773/panels/19421",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15773"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21830,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15773/strata/21830",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15773"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/80",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1589",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15773/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15773",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15773/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15773",
+  "masterSample": {
+    "name": "Continental United States 10 KM Grid",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/10"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 15773,
+  "title": "a1b87413-7e5e-4df3-8603-627716f31121 Colorado NABat Monitoring Sample Design, cloned for Study Design 1469",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15773",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": "2018-08-16T01:50:14-07:00"
+}

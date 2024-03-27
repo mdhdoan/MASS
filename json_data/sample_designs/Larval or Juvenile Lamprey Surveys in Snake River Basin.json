@@ -1,0 +1,57 @@
+{
+  "description": "<p>Pacific Lamprey (Entosphenus tridentatus) abundance in the Columbia River Basin is in decline and constricted&nbsp;distribution is&nbsp;likewise being observed. Efforts to conserve and restore Pacific Lamprey populations and their habitats are ongoing throughout the Columbia River Basin. Pacific Lamprey have a complex life cycle that includes a protracted 3-10-year larval stage that occurs in freshwater streams and rivers.&nbsp;Monitoring and evaluation of larval distribution&nbsp;and relative abundance (i.e., density) in freshwaters throughout their range are a critical component of restoration and conservation actions. Backpack electrofishing is the most widely used method for capture and collection of larval lampreys in freshwater habitats. These research, monitoring, and evaluation efforts provide vital information to fill Pacific Lamprey knowledge gaps that have been identified through the recovery and restoration planning processes. Without this information, recovery of this species within the Columbia River Basin is uncertain.</p>\r\n",
+  "startYear": "2021",
+  "retirementYear": "2023",
+  "initiationYear": "2021",
+  "targetPopulation": null,
+  "ownerName": "Tod Sween",
+  "ownerEmail": "tods@nezperce.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 22005,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16845/panels/22005",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16845"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24499,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16845/strata/24499",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16845"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/12",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1855",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16845/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16845",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16845/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16845",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16845",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11602"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC4 - Sub Basin",
+      "areaDisplayName": "Lower Snake-Asotin"
+    }
+  ],
+  "id": 16845,
+  "title": "Larval/Juvenile Lamprey Surveys in Snake River Basin",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16845",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2023-01-31T02:46:15-08:00"
+}

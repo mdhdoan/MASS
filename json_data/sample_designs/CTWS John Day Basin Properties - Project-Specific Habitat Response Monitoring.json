@@ -1,0 +1,57 @@
+{
+  "description": "<p>This sampling design is designed to accompany the Study Design &quot;CTWS John Day Basin Properties - Project-Specifc Effectiveness&nbsp;Monitoring&quot; under the Protocol of the same &quot;CTWS -&nbsp;JDBO&nbsp;Project-Specific Habitat Response Monitoring&quot;.&nbsp;This sampling design will utilize an ease of access design, as the monitoring to be performed within this study design will all be performed on project sites, and access/avaialability&nbsp;to sites that meet criteria for comparison (control/reference) sites is potentially problematic. Therefore, each habitat restorartion project will have a monitoring plan tailored to that particular&nbsp;projects specific goals and objectives, and will outline the monitoring techniques and methdos to be used at each site. Additionally, monitoring plans will outline the purpose for data being collected, what management questions or goals/objectives they are being used to address, and how the data being collected will be analyzed.&nbsp;</p>\r\n",
+  "startYear": "2019",
+  "retirementYear": "2028",
+  "initiationYear": "2019",
+  "targetPopulation": null,
+  "ownerName": "Joe Lemanski",
+  "ownerEmail": "joe.lemanski@ctwsbnr.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 19639,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16264/panels/19639",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16264"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21977,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16264/strata/21977",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16264"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/52",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1669",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16264/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16264",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16264/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16264",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "CTWS - John Day Basin Properties Effectiveness Monitoring",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11350"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC5 - Watershed",
+      "areaDisplayName": "Camp Creek-Middle Fork John Day River"
+    }
+  ],
+  "id": 16264,
+  "title": "CTWS John Day Basin Properties - Project-Specific Habitat Response Monitoring",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16264",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2019-01-09T07:00:07-08:00"
+}

@@ -1,0 +1,55 @@
+{
+  "description": "<p>Columbia Basin Master Sample sites within CHaMP that are being leveraged and shared&nbsp;for AEM.&nbsp;</p>\r\n",
+  "startYear": "2016",
+  "retirementYear": "",
+  "initiationYear": "2016",
+  "targetPopulation": "<p>Chinook and Steelhead ESA listed ESUs&nbsp;above Bonneville Dam.&nbsp;</p>\r\n",
+  "ownerName": "Colin Riordan",
+  "ownerEmail": "colin@naturaldes.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 7112,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2016"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15994/panels/7112",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15994"
+    }
+  ],
+  "strata": [
+    {
+      "id": 9160,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15994/strata/9160",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15994"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15994/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15994",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15994/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15994",
+  "masterSample": {
+    "name": "Columbia Basin Master Sample",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/1"
+  },
+  "userSamples": [
+    {
+      "name": "YFI00001 Sample",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1053"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 15994,
+  "title": "AEM overlapped CHaMP sites 2016",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15994",
+  "spatialDesignCategory": "Modified GRTS",
+  "spatialDesignCategoryID": 14,
+  "lastUpdated": "2016-06-15T06:27:43-07:00"
+}

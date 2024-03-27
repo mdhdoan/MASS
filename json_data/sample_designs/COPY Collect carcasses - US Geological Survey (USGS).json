@@ -1,0 +1,101 @@
+{
+  "description": "No valid data",
+  "startYear": "2015",
+  "retirementYear": "",
+  "initiationYear": "2015",
+  "targetPopulation": null,
+  "ownerName": "Kenneth Tiffan",
+  "ownerEmail": "ktiffan@usgs.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 21992,
+      "name": "Understanding the status of Snake River basin fall Chinook salmon relative to recovery criteria WSE 107045",
+      "abbreviation": "Understanding the status of Snake River basin fall Chinook salmon relative to recovery criteria WSE 107045",
+      "years": [
+        "2015"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16834/panels/21992",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16834"
+    },
+    {
+      "id": 21993,
+      "name": "Understanding the status of Snake River basin fall Chinook salmon relative to recovery criteria WSE 115295",
+      "abbreviation": "Understanding the status of Snake River basin fall Chinook salmon relative to recovery criteria WSE 115295",
+      "years": [
+        "2016"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16834/panels/21993",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16834"
+    },
+    {
+      "id": 21994,
+      "name": "Understanding the status of Snake River basin fall Chinook salmon relative to recovery criteria WSE 123661",
+      "abbreviation": "Understanding the status of Snake River basin fall Chinook salmon relative to recovery criteria WSE 123661",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16834/panels/21994",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16834"
+    },
+    {
+      "id": 21995,
+      "name": "Understanding the status of Snake River basin fall Chinook salmon relative to recovery criteria WSE 132432",
+      "abbreviation": "Understanding the status of Snake River basin fall Chinook salmon relative to recovery criteria WSE 132432",
+      "years": [],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16834/panels/21995",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16834"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24489,
+      "name": "All Sites",
+      "abbreviation": "All Sites",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16834/strata/24489",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16834"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/85",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/632",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16834/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16834",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16834/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16834",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design Understanding the status of Snake River basin fall Chinook salmon relative to recovery criteria WSE 123661 (6247)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/7174"
+    },
+    {
+      "name": "BPA Sample for Study Design Understanding the status of Snake River basin fall Chinook salmon relative to recovery criteria WSE 132432 (6249)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/7175"
+    },
+    {
+      "name": "BPA Sample for Study Design Understanding the status of Snake River basin fall Chinook salmon relative to recovery criteria WSE 107045 (6243)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/8792"
+    },
+    {
+      "name": "BPA Sample for Study Design Understanding the status of Snake River basin fall Chinook salmon relative to recovery criteria WSE 115295 (6245)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/8793"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.346928,-117.045593"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.242745,-116.701584"
+    }
+  ],
+  "id": 16834,
+  "title": "COPY: Collect carcasses - US Geological Survey (USGS)",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16834",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2022-12-22T06:17:06-08:00"
+}

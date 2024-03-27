@@ -1,0 +1,70 @@
+{
+  "description": "No valid data",
+  "startYear": "2012",
+  "retirementYear": "",
+  "initiationYear": "2014",
+  "targetPopulation": "<p>TBD</p>\r\n",
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 8813,
+      "name": "Annual",
+      "abbreviation": "annual",
+      "years": [
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15821/panels/8813",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15821"
+    }
+  ],
+  "strata": [
+    {
+      "id": 11090,
+      "name": "Caspar Creek",
+      "abbreviation": "Caspar Creek",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15821/strata/11090",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15821"
+    },
+    {
+      "id": 11091,
+      "name": "Pudding Creek",
+      "abbreviation": "Pudding Creek",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15821/strata/11091",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15821"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/18",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/217",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15821/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15821",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15821/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15821",
+  "masterSample": {
+    "name": "Columbia Basin Master Sample",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/1"
+  },
+  "userSamples": [
+    {
+      "name": "CAL00001 Legacy Sample",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1039"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 15821,
+  "title": "Intensive Monitoring of Caspar and Pudding Creek of the Big-Navarro-Garcia in 2014",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15821",
+  "spatialDesignCategory": "Modified GRTS",
+  "spatialDesignCategoryID": 14,
+  "lastUpdated": "2017-08-08T04:16:14-07:00"
+}

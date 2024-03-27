@@ -1,0 +1,50 @@
+{
+  "description": "COPY: ",
+  "startYear": "2017",
+  "retirementYear": "2017",
+  "initiationYear": "2017",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Brian Reichert",
+  "ownerEmail": "breichert@usgs.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 19461,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15799/panels/19461",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15799"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21867,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15799/strata/21867",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15799"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/80",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1614",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15799/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15799",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15799/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15799",
+  "masterSample": {
+    "name": "Canada 10 KM Grid",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/11"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 15799,
+  "title": "5abde470-ca75-4eea-8f77-441af2fa5c10 PEI NABat Sample Design, cloned for Study Design 1509",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15799",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": "2018-08-11T04:25:11-07:00"
+}

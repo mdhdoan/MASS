@@ -1,0 +1,57 @@
+{
+  "description": "<p>Recent results from effective population size and estimates of returning adults appear to be at odds with effective population far lower than expected.&nbsp; Using radio telemetry will indicate whether lamprey are falling back out of the basin or are dying prior to spawning.</p>\r\n",
+  "startYear": "2018",
+  "retirementYear": "",
+  "initiationYear": "2018",
+  "targetPopulation": null,
+  "ownerName": "Cyndi Baker",
+  "ownerEmail": "cyndi.baker@ctwsbnr.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 19427,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15780/panels/19427",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15780"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21836,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15780/strata/21836",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15780"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/35",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1594",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15780/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15780",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15780/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15780",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "CTWS RM&E - Study sites for Pacific lamprey radio telemetry study in Fifteenmile Creek Basin",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11311"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "NPPC Subbasins",
+      "areaDisplayName": "FIFTEENMILE"
+    }
+  ],
+  "id": 15780,
+  "title": "Radio telemetry survey to monitor habitat use and migration patterns of returning Pacific lamprey to Fifteenmile Creek Basin",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15780",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2018-07-27T22:04:41-07:00"
+}

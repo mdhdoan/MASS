@@ -1,0 +1,57 @@
+{
+  "description": "<p>From 1989 &ndash; 1995 the Oregon Department of Fish and Wildlife (ODFW) evaluated juvenile fish screening and bypass facilities associated with the five major irrigation diversion dams in the lower Umatilla River.&nbsp; From information collected during these studies, along with Three Mile Falls Dam (TMF) being the lowest facility in the watershed and adult enumeration occurring at the site, it was selected for long-term monitoring of out-migrating juvenile salmon and steelhead in 1995.&nbsp; In 2009, the project narrowed its focus to just steelhead, with the goal being to provide baseline status and trend data for the Umatilla River steelhead population to support assessment of Umatilla fisheries restoration efforts, evaluation of management actions, recovery tracking, and BiOp monitoring.</p>\r\n",
+  "startYear": "1995",
+  "retirementYear": "2025",
+  "initiationYear": "1995",
+  "targetPopulation": null,
+  "ownerName": "Josh Hanson",
+  "ownerEmail": "Josh.hanson@odfw.oregon.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 21765,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "1995"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16737/panels/21765",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16737"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24350,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16737/strata/24350",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16737"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/66",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/629",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16737/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16737",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16737/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16737",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16737",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11546"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "Umatilla River"
+    }
+  ],
+  "id": 16737,
+  "title": "Oregon Department of Fish and Wildlife Umatilla River Steelhead Life-Cycle Monitoring",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16737",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2021-08-20T08:18:06-07:00"
+}

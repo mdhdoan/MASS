@@ -1,0 +1,124 @@
+{
+  "description": "<p>ODFW conducts CHaMP surveys (coupled with snorkeling and benthic macroinvertebrate collections) in the Minam River with CRITFC funding and study design support. Starting in 2013, Minam River sample design mimics that of a typical CHaMP watershed, with annual samples and three rotating panels, totaling 20 (or more) sites over a 3-year period. CRITFC conducted a study evaluating reaches in the Minam River and upper Grande Ronde-Catherine Creek shared similar geomorphic and climatic conditions; these reaches with shared geoclimatic conditions are termed &ldquo;reference areas.&rdquo; ODFW also samples Minam River non-reference reaches to represent the broader area where spring Chinook salmon are known to spawn.</p>\r\n\r\n<p><strong>Allocation of sites to panels</strong></p>\r\n\r\n<p><em>Annual sites</em></p>\r\n\r\n<p>There are five annual sites: two in the Little Minam River, two in the Minam River reference area between North Minam and Elk Creek, and one non-reference legacy CRITFC site in the large alluvial valley adjacent to the airstrip at Red&rsquo;s Horse Ranch.</p>\r\n\r\n<p><em>Rotating panel sites</em></p>\r\n\r\n<p>The target weighting for rotating panel sites in reference/non-reference areas is 60/40. However in 2013, only one non-annual site in the non-reference area was sampled (the canyon site just upstream of the annual site at Red&rsquo;s Horse Ranch), whereas in 2014-2015 we will allocate 3 sites to the reference area and 2 sites to the non-reference area. <strong>If additional samples can be obtained after the annual samples and first five rotating panel sites are completed in a season, new sites should be added as rotating panel reference or non-reference areas, maintaining the 60/40 weighting</strong> <strong>to the degree possible.</strong></p>\r\n\r\n<p><strong>2015 design notes:&nbsp;</strong></p>\r\n\r\n<p>There were no changes to the design in 2015 and the 2014 design file will be referenced in cm.org.</p>\r\n\r\n<p><strong>2014 Design notes:</strong></p>\r\n\r\n<p>In 2014, the 2013 design was extended to generate site allocations for 2014 and 2015. &nbsp;Annual sites: 5 per year, 2 in Little Minam, 2 in mainstem Minam, and 1 in non-reference area.</p>\r\n\r\n<p>RP1: 5 sites (1 Non-Ref and 4 Ref split equally between Minam and Little Minam)</p>\r\n\r\n<p>RP2: 5 sites (3 Ref and 2 non-Ref)</p>\r\n\r\n<p>RP3: 5 sites (3 Ref and 2 non-Ref)</p>\r\n\r\n<p>For the Reference area, the draw was stratified between Minam and Little Minam as ODFW and CRITFC preferred draws where sampling was equal between these two distinct areas.&nbsp;</p>\r\n\r\n<p>This design covers the &#39;Reference&#39; area draw and a separate design file and R code were used for the non-Reference area.</p>\r\n\r\n<p><strong>2013 Design notes:</strong></p>\r\n\r\n<p>\u200b\u200b\u200b\u200bSampling plans for 2013 targeted areas identified as suitable &#39;Reference&#39; areas for the Catherine and Upper Grande Ronde&nbsp;domains through preliminary geomorphic class review completed by CRITFC in 2013 (contact Seth White for additional information). Sites were drawn via a spatially balanced sample selection process called&nbsp;GRTS (generalized random tesselation stratified) sample. &nbsp;</p>\r\n\r\n<p>The 1:100k&nbsp;NHDPlus&nbsp;1&nbsp;hydrography&nbsp;was used as a framework for intensification of the&nbsp;CBW&nbsp;Master Sample. &nbsp;The&nbsp;CBW&nbsp;master sample, which has a density of sites ~1km&nbsp;was intensified&nbsp;to&nbsp;250m&nbsp;within the&nbsp;Minam. &nbsp;This resulted in 91 sites in the areas designated as &quot;reference&quot; reaches (in the Little&nbsp;Minam&nbsp;and the&nbsp;mainstem&nbsp;between the North&nbsp;Minam&nbsp;and Elk Creek). &nbsp;An unstratified, single panel list of all the sites was generated from&nbsp;GRTS, ordering all 91 sites into a single use-order. &nbsp; Sites were blocked into sets of 16, assuming 10 sites sampled and 6 sites as&nbsp;oversample. &nbsp;The second set of sites, starting at use order 17, was selected for the 2013&nbsp;Minam&nbsp;design. Due to logistical constraints of&nbsp;samplingin&nbsp;the&nbsp;Minam, 8 sites were ultimately selected in the suitable reference reaches and 2 in the spawning and rearing area of the&nbsp;mainstem&nbsp;Minam. &nbsp;The 2 sites in the spawning and rearing domain were added as opportunistic legacy sites and were not drawn using&nbsp;GRTS.</p>\r\n\r\n<p><strong>2014 Design notes:</strong></p>\r\n\r\n<p>Sampling plans for 2014 included the same &ldquo;Reference&rdquo; areas in the Little Minam and mainstem Minam identified in the 2013 design.&nbsp; For &ldquo;reference&rdquo; reaches, the first 2 sites in the use order for both the Little Minam and mainstem that were sampled in 2013 were included in the 2014 sample as annual sites.&nbsp; The next &nbsp;2 sites in the use-order that were not sampled in 2013 were included as rotating panel sites for this year.</p>\r\n",
+  "startYear": "2013",
+  "retirementYear": "",
+  "initiationYear": "2014",
+  "targetPopulation": "<p><span style=\"font-size:12px; line-height:1.4em\">The </span>Minam<span style=\"font-size:12px; line-height:1.4em\"> frame was delineated as a joint effort between </span>CRITFC<span style=\"font-size:12px; line-height:1.4em\"> and </span>ODFW<span style=\"font-size:12px; line-height:1.4em\">. &nbsp;The frame focuses on accessible spawning and rearing habitat within the </span>Minam<span style=\"font-size:12px; line-height:1.4em\">. &nbsp;&#39;Reference&#39; stratum area was selected as potentially topographically similar area to the Grande </span>Ronde<span style=\"font-size:12px; line-height:1.4em\"> and Catherine Creek, as per </span>analyses<span style=\"font-size:12px; line-height:1.4em\"> completed by Seth White (</span>CRITFC<span style=\"font-size:12px; line-height:1.4em\">) in 2013. &nbsp;</span></p>\r\n\r\n<p><strong style=\"font-size:12px; line-height:1.4em\">2014 frame update:</strong></p>\r\n\r\n<div>In 2014, the target mainstem&nbsp;Minam area was reduced from 2013&#39;s extent. &nbsp;The reference areas on the Mainstem and Little Minam remained the same, but the non-reference area was reduced.</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<p><strong>Frame Files:</strong></p>\r\n\r\n<p><a href=\"https://isemp.egnyte.com/h-s/20140515/k33efscjRa\">Minam_Frame.zip</a></p>\r\n",
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 3447,
+      "name": "Annual",
+      "abbreviation": "Annual",
+      "years": [
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15824/panels/3447",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15824"
+    },
+    {
+      "id": 3448,
+      "name": "Extra",
+      "abbreviation": "Extra",
+      "years": [
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15824/panels/3448",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15824"
+    },
+    {
+      "id": 3449,
+      "name": "Rotating Panel 1",
+      "abbreviation": "RP1",
+      "years": [
+        "2013",
+        "2016",
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15824/panels/3449",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15824"
+    },
+    {
+      "id": 3450,
+      "name": "Rotating Panel 2",
+      "abbreviation": "RP2",
+      "years": [
+        "2014",
+        "2017",
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15824/panels/3450",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15824"
+    },
+    {
+      "id": 3451,
+      "name": "Rotating Panel 3",
+      "abbreviation": "RP3",
+      "years": [
+        "2015",
+        "2018",
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15824/panels/3451",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15824"
+    }
+  ],
+  "strata": [
+    {
+      "id": 4568,
+      "name": "Reference - Little Minam",
+      "abbreviation": "Ref -LM",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15824/strata/4568",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15824"
+    },
+    {
+      "id": 4569,
+      "name": "Reference - mainstem Minam",
+      "abbreviation": "Ref - mM",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15824/strata/4569",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15824"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/18",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/222",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15824/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15824",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15824/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15824",
+  "masterSample": {
+    "name": "Columbia Basin Master Sample",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/1"
+  },
+  "userSamples": [
+    {
+      "name": "Minam Instensification",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1054"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 15824,
+  "title": "Minam Reference Domain Habitat Surveys within the Columbia Habitat Monitoring Program (CHaMP) in 2014",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15824",
+  "spatialDesignCategory": "Modified GRTS",
+  "spatialDesignCategoryID": 14,
+  "lastUpdated": "2015-05-08T06:10:24-07:00"
+}

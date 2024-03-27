@@ -1,0 +1,67 @@
+{
+  "description": "<p>This design aims to monitor the treatment and control locations for effectiveness monitoring of the&nbsp;streambank&nbsp;restoration projects&nbsp;implemented by the Confederated Tribes of the&nbsp;Umatilla. &nbsp;&nbsp;</p>\r\n",
+  "startYear": "2013",
+  "retirementYear": "",
+  "initiationYear": "2015",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 6801,
+      "name": "Annual",
+      "abbreviation": "Ann",
+      "years": [
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15944/panels/6801",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15944"
+    }
+  ],
+  "strata": [
+    {
+      "id": 8038,
+      "name": "CTUIR Desolation Creek Control",
+      "abbreviation": "Control",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15944/strata/8038",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15944"
+    },
+    {
+      "id": 8039,
+      "name": "CTUIR Desolation Creek Treatment",
+      "abbreviation": "Treatment",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15944/strata/8039",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15944"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/18",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/219",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15944/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15944",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15944/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15944",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "AEM Desolation sites 2015",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1070"
+    },
+    {
+      "name": "CTUIR Desolation Creek Site Additions",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1073"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 15944,
+  "title": "Effectiveness Monitoring of Streambank Restoration in Desolation Creek, John Day Subbasin",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15944",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": null
+}

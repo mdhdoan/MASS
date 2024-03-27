@@ -1,0 +1,57 @@
+{
+  "description": "<p>Monitoring results indicating high percentage (&gt;30%) of fine sediment in spawning grounds in Warm Springs River by CTWS Fisheries Habitat Program has prompted the need for further study.&nbsp; The concern is that, if sedimentation is occurring while spring Chinook eggs are developing in the gravel (Oct. - Feb.) there may be reduced survival (70% when fine sediment is 30%, 35% when fines are 40%).&nbsp; We will document the sedimentation rate during incubation using Whitlock-Vibert boxes and egg to fry survival by using redd caps to determine percent emergence.&nbsp;</p>\r\n",
+  "startYear": "2018",
+  "retirementYear": "",
+  "initiationYear": "2018",
+  "targetPopulation": null,
+  "ownerName": "Cyndi Baker",
+  "ownerEmail": "cyndi.baker@ctwsbnr.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 19253,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15688/panels/19253",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15688"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21668,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15688/strata/21668",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15688"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/35",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1515",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15688/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15688",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15688/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15688",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Redd emergence, sedimentation, and species identification in Warm Springs River",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11281"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC5 - Watershed",
+      "areaDisplayName": "Warm Springs River"
+    }
+  ],
+  "id": 15688,
+  "title": "Fry emergence trapping in upper Warm Springs River",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15688",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2018-05-01T01:02:22-07:00"
+}

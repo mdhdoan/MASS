@@ -1,0 +1,57 @@
+{
+  "description": "<p>The MBACI (Multiple Before After Control Impact) Study Design for Action Effectiveness Monitoring is based on other large-scale monitoring projects that are targeted at determining the relative effectiveness of restoration project action types across a large area.&nbsp; Restoration action types included in the program include floodplain enhancement, bank stabilization, partial fish passage, livestock exclusion fencing, and habitat protection.&nbsp; Floodplain Enhancement projects are further divided into three subcategories: channel reconnection, levee modification, and channel remeander.&nbsp; These action types are sampled using paired treatment and control reaches that are both sampled for two years pre-project (to establish baseline variance, especially for fish response) and for mutiple years after implementation (1,3,5 etc.).&nbsp; The protocols used to sample each site are specific to the expected objectives and outcomes of the actionl, but are related to protocols from both the Washington Salmon Recovery Funding Board Project Effectiveness Monitoring Program and the Columbia Habitat Monitoring Program.&nbsp; Expected sample sizes for each category are as follows: partial fish passage (10), bank stabilization (10), livestock exclusion fencing (10), channel reconnection (15), levee modification (15), channel remeander (15), and habitat protection (10).</p>\r\n\r\n<p>6/15/15:</p>\r\n\r\n<p>4 sites were added to the Tetra Tech AEM sampling to accommodate 2015 sampling.</p>\r\n",
+  "startYear": "2012",
+  "retirementYear": "",
+  "initiationYear": "2017",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 8819,
+      "name": "Annual",
+      "abbreviation": "Ann",
+      "years": [
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15935/panels/8819",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15935"
+    }
+  ],
+  "strata": [
+    {
+      "id": 11097,
+      "name": "AEM/CHaMP",
+      "abbreviation": "AEM/CHAMP",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15935/strata/11097",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15935"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/58",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/365",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15935/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15935",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15935/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15935",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "AEM001 Legacy Sample",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1059"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 15935,
+  "title": "Action Effectiveness Monitoring (MBACI) 2015",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15935",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2017-09-01T05:05:47-07:00"
+}

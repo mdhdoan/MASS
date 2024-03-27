@@ -1,0 +1,72 @@
+{
+  "description": "No valid data",
+  "startYear": "2009",
+  "retirementYear": "2025",
+  "initiationYear": "2009",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Ben Goodman",
+  "ownerEmail": "benjamin.goodman@dfw.wa.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 21948,
+      "name": "Panel 1",
+      "abbreviation": "Panel 1",
+      "years": [
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16803/panels/21948",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16803"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24447,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16803/strata/24447",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16803"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/64",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/499",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16803/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16803",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16803/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16803",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 53915 (14148)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/10131"
+    },
+    {
+      "name": "Sample for Design #16803",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11582"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16803,
+  "title": "Collect Ecological and Redd Morphology Data on the Spawning Grounds - WDFW_7",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16803",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2023-04-18T04:21:25-07:00"
+}

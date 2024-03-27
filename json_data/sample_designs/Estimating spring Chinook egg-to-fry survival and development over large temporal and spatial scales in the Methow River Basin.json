@@ -1,0 +1,59 @@
+{
+  "description": "No valid data",
+  "startYear": "2017",
+  "retirementYear": "",
+  "initiationYear": "2017",
+  "targetPopulation": null,
+  "ownerName": "Ben Truscott",
+  "ownerEmail": "ben.truscott@dfw.wa.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 19254,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15689/panels/19254",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15689"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21670,
+      "name": "Chewuch River",
+      "abbreviation": "Che",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15689/strata/21670",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15689"
+    },
+    {
+      "id": 21669,
+      "name": "Methow River",
+      "abbreviation": "Met",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15689/strata/21669",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15689"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1195",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15689/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15689",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15689/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15689",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Estimating spring Chinook egg-to-fry survival and development over large temporal and spatial scales in the Methow River Basin",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11282"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 15689,
+  "title": "Estimating spring Chinook egg-to-fry survival and development over large temporal and spatial scales in the Methow River Basin",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15689",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2018-05-01T02:58:46-07:00"
+}

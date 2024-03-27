@@ -1,0 +1,57 @@
+{
+  "description": "<p>There are two collection locations for White Sturgeon larvae: an upper and lower. They were selected due based on previous capture data and the spatial separation allow for the evaluation of drift timing. Release locations for the evaluation of capture efficiency at each site are determined by ease of access and ability to effectively release marked larvae near the river bottom.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "startYear": "2020",
+  "retirementYear": "2021",
+  "initiationYear": "2020",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Jason McLellan",
+  "ownerEmail": "jason.mclellan@colvilletribes.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 19964,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16426/panels/19964",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16426"
+    }
+  ],
+  "strata": [
+    {
+      "id": 22946,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16426/strata/22946",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16426"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/21",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1714",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16426/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16426",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16426/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16426",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16425",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11414"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC3 - Basin",
+      "areaDisplayName": "Upper Columbia"
+    }
+  ],
+  "id": 16426,
+  "title": "CCT Lake Roosevelt White Sturgeon Larvae Drift2",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16426",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2019-11-28T03:38:28-08:00"
+}

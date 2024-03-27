@@ -1,0 +1,33 @@
+{
+  "description": "<p>\u200b\u200bThis sample design explains the general spatial locations where data will be collected and explains the temporal scale and resolution of the data collected.</p>\r\n\r\n<p>USGS streamgaging data (combination of stage, streamflow, and water temperature) are collected at select locations throughout the study extent and are distributed to best represent changes throughout the reach. Streamgaging data are collected in near real-time (15-minute interval) year-round and are published online. Stage data is published to the nearest 0.01 ft; streamflow to the nearest integer value; and temperature to the nearest 0.1 degree.</p>\r\n\r\n<p>Bathymetry, velocity mapping, and underwater videography&nbsp;data are collected at varibale locations depending on project needs (construction location, biological sampling, or other monitoring needs). Data are usually collected after peak flows in May and continue through about July. All data is published online (see each specific methods for more detail).&nbsp;&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "startYear": "2007",
+  "retirementYear": "2049",
+  "initiationYear": "2007",
+  "targetPopulation": null,
+  "ownerName": "Ryan Fosness",
+  "ownerEmail": "rfosness@usgs.gov",
+  "images": [],
+  "panels": [],
+  "strata": [],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/31",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1725",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16464/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16464",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16464/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16464",
+  "masterSample": null,
+  "userSamples": null,
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Mainstem Reaches and Dams",
+      "areaDisplayName": "Corra Linn Dam to Libby Dam"
+    }
+  ],
+  "id": 16464,
+  "title": "U.S. Geological Survey Physical Habitat Data Collection, Simulations, and Analyses, Kootenai River near Bonners Ferry, ID",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16464",
+  "spatialDesignCategory": "Inference",
+  "spatialDesignCategoryID": 16,
+  "lastUpdated": "2020-01-22T05:27:38-08:00"
+}

@@ -1,0 +1,50 @@
+{
+  "description": "No valid data",
+  "startYear": "2017",
+  "retirementYear": "2017",
+  "initiationYear": "2017",
+  "targetPopulation": null,
+  "ownerName": "Shelbey Vallejo",
+  "ownerEmail": "svallejo@contractor.usgs.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 19514,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16217/panels/19514",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16217"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21916,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16217/strata/21916",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16217"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/80",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1641",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16217/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16217",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16217/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16217",
+  "masterSample": {
+    "name": "Continental United States 10 KM Grid",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/10"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 16217,
+  "title": "7132f8ab-0399-407c-92d7-ae6c57c869df Test Project Sample Design",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16217",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": null
+}

@@ -1,0 +1,93 @@
+{
+  "description": "<p>Native, resident fish will be collected below Ice Harbor Dam and Lower Granite Dam from April 3 to June 15 and below McNary and Bonneville dams from April 10 to June 21 each year from 2021 to 2025. Spatially, fish will be collected within 5 miles of each dam. Temporally, fish will be collected weekly below each dam during the spring spill period.&nbsp;Fish will be opportunistically collected from shallow-water habitat that can be effectively sampled with seines or backpack electrofishers. The target sample size will be 100 fish per week per dam, with a 50 fish minimum, that will comprise at least 3 species.</p>\r\n\r\n<p>The following species will also be collected and transported to the USGS Columbia River Research Laboratory for testing in gas bubble trauma progression and mortality experiments: Three-spined stickleback, sculpin sp., northern pikeminnow, and larval lamprey. Stickleback will be collected downstream of Bonneville Dam or at Crims Island in the lower Columbia River with a beach seine. Sculpin sp. will be collected downstream of Bonneville Dam at Ives Island with a backpack electrofisher. Juvenile northern pikeminnow will be collected in Lower Granite Reservoir with a beach seine. Larval Pacific lamprey will be collected from silty tributary or side-channel habitats of the Columbia River. Approximately 1,000 fish of each species will be collected.</p>\r\n",
+  "startYear": "2021",
+  "retirementYear": "2030",
+  "initiationYear": "2021",
+  "targetPopulation": null,
+  "ownerName": "Kenneth Tiffan",
+  "ownerEmail": "ktiffan@usgs.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 22359,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16978/panels/22359",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16978"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24643,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16978/strata/24643",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16978"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/58",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1774",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16978/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16978",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16978/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16978",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16653",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11525"
+    },
+    {
+      "name": "Sample for Design #16761",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11554"
+    },
+    {
+      "name": "Sample for Design #16764",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11556"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.230675,-118.995249"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.929089,-119.321050"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.619523,-122.009459"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.693293,-117.489696"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.175068,-123.134795"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.582321,-122.464629"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.414806,-117.192080"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.623484,-121.988415"
+    }
+  ],
+  "id": 16978,
+  "title": "Gas Bubble Trauma Resident Fish Sampling",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16978",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2023-11-29T07:14:04-08:00"
+}

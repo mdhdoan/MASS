@@ -1,0 +1,50 @@
+{
+  "description": "No valid data",
+  "startYear": "2017",
+  "retirementYear": "2017",
+  "initiationYear": "2017",
+  "targetPopulation": null,
+  "ownerName": "Elizabeth Revette",
+  "ownerEmail": "erevette@comcast.net",
+  "images": [],
+  "panels": [
+    {
+      "id": 19143,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15643/panels/19143",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15643"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21581,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15643/strata/21581",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15643"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/80",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1470",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15643/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15643",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15643/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15643",
+  "masterSample": {
+    "name": "Continental United States 10 KM Grid",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/10"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 15643,
+  "title": "aa7c5c5f-13f1-4069-84a4-391f456dca44 Pocahontas State Park Maternity Box Monitoring Sample Design",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15643",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": "2018-03-25T22:14:02-07:00"
+}

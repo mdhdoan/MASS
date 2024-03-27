@@ -1,0 +1,50 @@
+{
+  "description": "No valid data",
+  "startYear": "2017",
+  "retirementYear": "2017",
+  "initiationYear": "2017",
+  "targetPopulation": null,
+  "ownerName": "Andrew Lyons-Gould",
+  "ownerEmail": "andrew_lyons-gould@nps.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 19513,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16216/panels/19513",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16216"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21915,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16216/strata/21915",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16216"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/80",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1640",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16216/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16216",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16216/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16216",
+  "masterSample": {
+    "name": "Continental United States 10 KM Grid",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/10"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 16216,
+  "title": "67d1eb21-32d9-4164-833f-01ef34083a55 Devils Tower Bat Acoustic Monitoring Program Sample Design",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16216",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": null
+}

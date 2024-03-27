@@ -1,0 +1,55 @@
+{
+  "description": "No valid data",
+  "startYear": "2018",
+  "retirementYear": "",
+  "initiationYear": "2018",
+  "targetPopulation": "<p>asdfasdf</p>\r\n",
+  "ownerName": "Michael Carnes",
+  "ownerEmail": "michael.carnes@sitkatech.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 19097,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15619/panels/19097",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15619"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21525,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15619/strata/21525",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15619"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/71",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1233",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15619/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15619",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15619/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15619",
+  "masterSample": {
+    "name": "Bureau of Land Management Lotic",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/8"
+  },
+  "userSamples": [
+    {
+      "name": "Challis_UserSample",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1098"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 15619,
+  "title": "Michael Test 39",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15619",
+  "spatialDesignCategory": "Generalized Random Tessellation Stratified (GRTS)",
+  "spatialDesignCategoryID": 18,
+  "lastUpdated": "2018-03-08T09:38:47-08:00"
+}

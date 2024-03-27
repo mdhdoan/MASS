@@ -1,0 +1,55 @@
+{
+  "description": "<p>The CTWS has collaborated with Dr. Nilsen, USGS research chemist, who has studied contaminant loading in Pacific lamprey in the Columbia River Basin.&nbsp; Recently, the CTWS has become aware of potential contaminants in Warm Springs River and Shitike Creek Basins.&nbsp; Since larval lamprey spend years in the streambed sediments prior to outmigration they may accumulate contaminants and indicate health risks.</p>\r\n",
+  "startYear": "2018",
+  "retirementYear": "2024",
+  "initiationYear": "2018",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Cyndi Baker",
+  "ownerEmail": "cyndi.baker@ctwsbnr.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 19424,
+      "name": "CTWS RM&E - Pacific Lamprey Larval Lamprey Surveys WSE 69212",
+      "abbreviation": "CTWS RM&E - Pacific Lamprey Larval Lamprey Surveys WSE 69212",
+      "years": [],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15774/panels/19424",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15774"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21833,
+      "name": "CTWS RM&E - Pacific Lamprey Larval Lamprey Surveys WSE 69212",
+      "abbreviation": "CTWS RM&E - Pacific Lamprey Larval Lamprey Surveys WSE 69212",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15774/strata/21833",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15774"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/35",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1591",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15774/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15774",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15774/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15774",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "CTWS RM&E - Sample areas for contaminants in Warm Springs River and Shitike Creek Basins",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11309"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC4 - Sub Basin",
+      "areaDisplayName": " LOWER DESCHUTES"
+    }
+  ],
+  "id": 15774,
+  "title": "DR:  Ammocoete density surveys in Badger, Beaver, Shitike creeks, Warm Springs & Deschutes rivers - for contaminants",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15774",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2018-07-27T22:27:31-07:00"
+}

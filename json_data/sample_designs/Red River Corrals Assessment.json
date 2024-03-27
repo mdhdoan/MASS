@@ -1,0 +1,52 @@
+{
+  "description": "<p>Aquatic habitat and fish distribution data to be collected throughout Red River Corrals properties under consideration for conservation easement.</p>\r\n",
+  "startYear": "2019",
+  "retirementYear": "2019",
+  "initiationYear": "2019",
+  "targetPopulation": null,
+  "ownerName": "Clint Chandler",
+  "ownerEmail": "clintc@nezperce.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 19613,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16255/panels/19613",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16255"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21962,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16255/strata/21962",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16255"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/24",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1667",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16255/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16255",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16255/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16255",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16255",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11343"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16255,
+  "title": "Red River Corrals Assessment",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16255",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2019-01-08T04:19:54-08:00"
+}

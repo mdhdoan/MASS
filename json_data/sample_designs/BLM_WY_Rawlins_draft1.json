@@ -1,0 +1,95 @@
+{
+  "description": "<p>Study area: Rawlins&nbsp;FO</p>\r\n\r\n<p>Target population all perennial streams in the Rawlins&nbsp;FO</p>\r\n\r\n<p>Already have 8 WRSA points in this FO</p>\r\n",
+  "startYear": "2016",
+  "retirementYear": "",
+  "initiationYear": "2016",
+  "targetPopulation": "<p>All perennial streams in the Rawlins FO</p>\r\n",
+  "ownerName": "Jennifer Courtwright",
+  "ownerEmail": "jennifer.courtwright@usu.edu",
+  "images": [],
+  "panels": [
+    {
+      "id": 6934,
+      "name": "Year1",
+      "abbreviation": "Year1",
+      "years": [
+        "2016"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15952/panels/6934",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15952"
+    },
+    {
+      "id": 6935,
+      "name": "Year2",
+      "abbreviation": "Year2",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15952/panels/6935",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15952"
+    }
+  ],
+  "strata": [
+    {
+      "id": 8466,
+      "name": "1.0",
+      "abbreviation": "S0",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15952/strata/8466",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15952"
+    },
+    {
+      "id": 8467,
+      "name": "2.0",
+      "abbreviation": "S1",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15952/strata/8467",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15952"
+    },
+    {
+      "id": 8468,
+      "name": "3.0",
+      "abbreviation": "S2",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15952/strata/8468",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15952"
+    },
+    {
+      "id": 8469,
+      "name": "4.0",
+      "abbreviation": "S3",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15952/strata/8469",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15952"
+    },
+    {
+      "id": 8470,
+      "name": "5.0",
+      "abbreviation": "S4",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15952/strata/8470",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15952"
+    },
+    {
+      "id": 8471,
+      "name": "6.0",
+      "abbreviation": "S5",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15952/strata/8471",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15952"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/78",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1335",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15952/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15952",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15952/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15952",
+  "masterSample": {
+    "name": "Bureau of Land Management Lotic",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/8"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 15952,
+  "title": "BLM_WY_Rawlins_draft1",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15952",
+  "spatialDesignCategory": "Generalized Random Tessellation Stratified (GRTS)",
+  "spatialDesignCategoryID": 18,
+  "lastUpdated": "2016-03-25T05:25:13-07:00"
+}

@@ -1,0 +1,52 @@
+{
+  "description": "<p>We propose to use a statistical based mark-recapture model consistent with our study design to estimate population abundance of predatory fish species within the sample frame. Our initial model is a Hierarchical Bayesian Model (HBM), which extends the previous HBM modeling framework to account for multiple strata within a year (Wyatt 2002, Wyatt 2003, Rivot et al. 2008, and Korman et al. 2016). The HBM is applied to catch data from sites within a stratum to provide improved stratum abundance estimates by accounting for the between site-variability of density and the probability of capture by assuming exchangeability. In our HBM, exchangeability assumes that the density and probability of capture within a stratum come from a common distribution of density and capture probabilities, and their ordering does not affect model results.&nbsp; Each parameter in a HBM borrows strength from other parameters with similar characteristics and results in shrinking individual parameter estimates toward the overall mean, which improves parameter estimation when data are sparse (Gelman et al. 2004). Our HBM results in partial pooling, which may provide robust estimates and is a compromise between the extremes of complete pooling across sites and independent estimates for each site.</p>\r\n",
+  "startYear": "2023",
+  "retirementYear": "2027",
+  "initiationYear": "2023",
+  "targetPopulation": null,
+  "ownerName": "Matt Polacek",
+  "ownerEmail": "polacmcp@dfw.wa.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 21955,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2023"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16809/panels/21955",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16809"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24453,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16809/strata/24453",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16809"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/64",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1835",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16809/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16809",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16809/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16809",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16809",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11587"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16809,
+  "title": "Bayesian Hierarchical Model",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16809",
+  "spatialDesignCategory": "Generalized Random Tessellation Stratified (GRTS), External",
+  "spatialDesignCategoryID": 19,
+  "lastUpdated": "2022-06-22T02:48:39-07:00"
+}

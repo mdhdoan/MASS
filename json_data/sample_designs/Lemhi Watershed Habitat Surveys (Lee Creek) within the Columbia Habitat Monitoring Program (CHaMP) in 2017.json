@@ -1,0 +1,94 @@
+{
+  "description": "<p>CHaMP&nbsp;is designed as a Columbia River basin-wide habitat status and trends monitoring program built around a single protocol with a programmatic approach to data collection and management (RM&amp;E Workgroup 2010).&nbsp;CHaMP&nbsp;will result in the collection and analysis of systematic habitat status and trends information that will be used to assess basin-wide habitat conditions. When coupled with biological response indicators, this status and trends information will be used to evaluate habitat management strategies. This program will be integrated with ongoing Pacific Northwest Aquatic Monitoring Program (PNAMP) recovery planning efforts and will be part of the collaborative process across Columbia Basin fish management agencies and tribes and other state and federal agencies that are monitoring&nbsp;anadromous&nbsp;salmonids&nbsp;and/or their habitat. The implementation of&nbsp;CHaMP&nbsp;will characterize stream responses to watershed restoration and/or management actions in at least one population within each steelhead and spring Chinook Major Population Group (MPG) which have, or will have, &ldquo;fish-in&rdquo; and &ldquo;fish-out&rdquo; monitoring (identified in&nbsp;RPA&nbsp;50.6), thereby meeting the requirements of&nbsp;RPA&nbsp;56.3,&nbsp;RPA&nbsp;57, and&nbsp;RPA&nbsp;3.&nbsp;CHaMP&nbsp;was designed to deliver trends in habitat indicators and requires that monitoring occurs for three cycles of a sampling panel (see section 1.6), at least 9 years.</p>\r\n\r\n<p>Lemhi&rsquo;s&nbsp;primary objective was to estimate habitat condition for the&nbsp;Lemhi&nbsp;subbasin, and estimate the habitat condition in the&nbsp;priority&nbsp;drainages&nbsp;(see strata list). The&nbsp;Lemhi&nbsp;status and trends sampling design consisted of 45 unique sites sampled over three years (the standard&nbsp;CHaMP&nbsp;design) and was supplemented with 72 sites funded by the&nbsp;ISEMP&nbsp;program until 2013.&nbsp; The Steelhead (Snake River Basin&nbsp;DPS) -&nbsp;Lemhi&nbsp;River and &nbsp;the Chinook Salmon (Snake River Spring/Summer-run&nbsp;ESU) -&nbsp;Lemhi&nbsp;River were the populations of interest. &nbsp;The original rationale was to allocate annual sites across the smaller tributaries to get a broad coverage of the diversity of habitat types, and use more rotating panel sites in the larger tributaries.&nbsp;</p>\r\n\r\n<p>In 2014, habitat restoration efforts planned for the&nbsp;Lemhi&nbsp;River include the removal of barriers on Lee and Pratt Creeks, enabling year-around access for&nbsp;anadromous&nbsp;fish and opening the Lemhi&nbsp;CHaMP target frame to these areas. &nbsp;This design is a supplemental GRTS draw for the Lemhi 2011-2013 CHaMP design within the anadromous area of Lee Creek. &nbsp;One site in each of 3 rotating panels will be drawn using GRTS. &nbsp;An Extra panel will include the oversample sites available for all panels due to the small target frame and limited number of master sample sites.&nbsp;</p>\r\n\r\n<p>The design was updated to be a Modified GRTS design to remove 2 CBW master sites from the draw that were already included in the frame of another design loaded to cm.org. &nbsp;Sites&nbsp;CBW05583-385487 and CBW05583-453039 were removed from the Extra-Lee design of the current sample.</p>\r\n\r\n<p><strong>2015 updates:</strong></p>\r\n\r\n<p>There were no updates to the Lee Creek design in 2015. &nbsp;The main Lemhi design was affected (ID 420) due to the 10% repeat sampling plan, but not Lee Creek.</p>\r\n\r\n<p>The design was updated post-field sampling in 2015 to move the first three sites in the &#39;Extra&#39; panel to the end of use order for Rotating Panel 2. Site 272431 was ultimtely sampled as the RP2 Lee Creek site in 2015.&nbsp;</p>\r\n\r\n<p><strong>2016 design updates</strong></p>\r\n\r\n<p>There were no changes to the design in 2016.</p>\r\n\r\n<p>2017 design updates</p>\r\n\r\n<p>In 2017,&nbsp;CBW05583-272431 and&nbsp;CBW05583-353711 were determined to be out of the anadromous extent after fish sampling 2014 and 2015 did not result in locating any fish. &nbsp;Block counts for RP1 and RP2 were each reduced by 1 (total of two sites lost in the design). &nbsp;Effort will be shifted to the Lemhi&nbsp;status and trends design. &nbsp;</p>\r\n",
+  "startYear": "2014",
+  "retirementYear": "",
+  "initiationYear": "2014",
+  "targetPopulation": "COPY: <p>Lee Creek within Lemhi watershed. &nbsp;~3 km of upper watershed removed to match rough upstream frame of Hayden Creek. &nbsp;Added in 2014 &nbsp;as target area since anadromous barriers were removed from Lee Creek.</p>\r\n\r\n<p>There were no updates to the frame in 2015.</p>\r\n",
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 8557,
+      "name": "Extra",
+      "abbreviation": "Extra",
+      "years": [
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16047/panels/8557",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16047"
+    },
+    {
+      "id": 8558,
+      "name": "Rotating Panel 1",
+      "abbreviation": "RP1",
+      "years": [
+        "2014",
+        "2017",
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16047/panels/8558",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16047"
+    },
+    {
+      "id": 8559,
+      "name": "Rotating Panel 2",
+      "abbreviation": "RP2",
+      "years": [
+        "2015",
+        "2018",
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16047/panels/8559",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16047"
+    },
+    {
+      "id": 8560,
+      "name": "Rotating Panel 3",
+      "abbreviation": "RP3",
+      "years": [
+        "2016",
+        "2019",
+        "2022"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16047/panels/8560",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16047"
+    }
+  ],
+  "strata": [
+    {
+      "id": 10747,
+      "name": "Lee Extended",
+      "abbreviation": "Lee-Ext",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16047/strata/10747",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16047"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/18",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/202",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16047/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16047",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16047/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16047",
+  "masterSample": {
+    "name": "Columbia Basin Master Sample",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/1"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 16047,
+  "title": "Lemhi Watershed Habitat Surveys (Lee Creek) within the Columbia Habitat Monitoring Program (CHaMP) in 2017",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16047",
+  "spatialDesignCategory": "Modified GRTS",
+  "spatialDesignCategoryID": 14,
+  "lastUpdated": "2017-05-06T11:01:51-07:00"
+}

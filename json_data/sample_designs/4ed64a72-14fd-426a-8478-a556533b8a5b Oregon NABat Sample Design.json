@@ -1,0 +1,50 @@
+{
+  "description": "No valid data",
+  "startYear": "2017",
+  "retirementYear": "2017",
+  "initiationYear": "2017",
+  "targetPopulation": null,
+  "ownerName": "Roger Rodriguez",
+  "ownerEmail": "roger.rodriguez@osucascades.edu",
+  "images": [],
+  "panels": [
+    {
+      "id": 19394,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16125/panels/19394",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16125"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21803,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16125/strata/21803",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16125"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/80",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1384",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16125/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16125",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16125/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16125",
+  "masterSample": {
+    "name": "Continental United States 10 KM Grid",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/10"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 16125,
+  "title": "4ed64a72-14fd-426a-8478-a556533b8a5b Oregon NABat Sample Design",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16125",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": "2018-08-25T04:25:50-07:00"
+}

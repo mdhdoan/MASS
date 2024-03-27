@@ -1,0 +1,39 @@
+{
+  "description": "<p>The population parameter of interest was CPUE for gill nets set overnight during May 2013.&nbsp; The target population for SPIN estimation was all sampling locations where northern pike occur within the Box Canyon Reservoir of the Pend Oreille River.&nbsp; We stratified the population into 2 river strata (North and South) and a Slough stratum.&nbsp; Stratification was used because 2012 SPIN sampling demonstrated that CPUE was highly variable among the 3 strata ((Table 1, Deliverable #1, 9-30-12)).</p>\r\n\r\n<p>We defined sampling units as shoreline segments of sufficient length where adjacent units could be selected and produce independent observations.&nbsp; In the river strata, biologists determined that 500 m between gill nets would produce independent observations of CPUE, therefore we defined river sample units as 500 m linear sections of shoreline. Since sloughs are not linear in nature, defining sampling units as 500 m segments of shoreline was not practical.&nbsp; We used a two-stage cluster sampling design within sloughs.&nbsp; Individual sloughs were defined as the primary sampling unit (PSU), and 100 m long sections of slough shoreline were defined as secondary sampling units (SSU&rsquo;s).</p>\r\n\r\n<p>A sampling frame was developed for each stratum by the Kalispel Tribe geographic information system (GIS) coordinator. The frame consisted of linear feature GIS files that identified each sample unit in the population. Because fluctuating river elevations affected slough area, 3 slough sampling frames were generated for 2032&rsquo;, 2034&rsquo;, and 2036&rsquo; elevations. In all strata, we used a generalized random-tessellation stratified (GRTS) design (Stevens and Olsen 2004) to generate spatially balanced samples.</p>\r\n",
+  "startYear": "2012",
+  "retirementYear": "",
+  "initiationYear": "2012",
+  "targetPopulation": null,
+  "ownerName": "Todd Andersen",
+  "ownerEmail": "tandersen@knrd.org",
+  "images": [
+    {
+      "type": "Document",
+      "url": "http://www.monitoringresources.org/Designer/Design/UploadAsFile/5975",
+      "caption": "Kalispel Tribe Pike Removal and SPIN Sampling Design"
+    }
+  ],
+  "panels": [],
+  "strata": [],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/89",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/818",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16385/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16385",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16385/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16385",
+  "masterSample": null,
+  "userSamples": null,
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Mainstem Reaches and Dams",
+      "areaDisplayName": "Box Canyon Dam to Albeni Falls Dam"
+    }
+  ],
+  "id": 16385,
+  "title": "Pend Oreille River Spring Pike Index Netting (SPIN) Survey",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16385",
+  "spatialDesignCategory": "Inference",
+  "spatialDesignCategoryID": 16,
+  "lastUpdated": "2019-10-08T05:17:11-07:00"
+}

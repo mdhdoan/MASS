@@ -1,0 +1,61 @@
+{
+  "description": "No valid data",
+  "startYear": "2021",
+  "retirementYear": "2030",
+  "initiationYear": "2021",
+  "targetPopulation": null,
+  "ownerName": "PNAMP Support",
+  "ownerEmail": "pnamp.mm@gmail.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 22141,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16883/panels/22141",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16883"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24543,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16883/strata/24543",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16883"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/78",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1812",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16883/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16883",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16883/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16883",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16883",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11613"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC5 - Watershed",
+      "areaDisplayName": "Upper Grande Ronde River"
+    },
+    {
+      "areaTypeName": "HUC5 - Watershed",
+      "areaDisplayName": "Lower Catherine Creek"
+    }
+  ],
+  "id": 16883,
+  "title": "Yearly Water Quality Samples",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16883",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2023-04-08T04:57:26-07:00"
+}

@@ -1,0 +1,52 @@
+{
+  "description": "<p>Redband Trout spawning ground surveys will be conducted at Onion Creek following methods described by Gallagher et al. (2007) and <a href=\"https://www.monitoringresources.org/Document/Method/Details/131\">Monitoring Resources Method ID 131</a>. Spawning ground surveys were scheduled to be conducted on a weekly basis from the mouth to the terminal falls to assess spawn timing, spawning distribution, and estimate spawner escapement beginning in March and continued until spawning concluded in June. Surveys were conducted on foot in an upstream direction. Redds were identified as areas of gravel disturbance with a distinguishable pit and tailspill area. Each redd was marked with colored flagging hung on nearby vegetation and redd descriptions were recorded, including length, width, presence of fish, and GPS coordinates.</p>\r\n",
+  "startYear": "2019",
+  "retirementYear": "2025",
+  "initiationYear": "2019",
+  "targetPopulation": null,
+  "ownerName": "Nicholas Albrecht",
+  "ownerEmail": "nicholas.albrecht@dfw.wa.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 21916,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16797/panels/21916",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16797"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24438,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16797/strata/24438",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16797"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/64",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1830",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16797/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16797",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16797/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16797",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16797",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11578"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16797,
+  "title": "Redband Trout Spawning Surveys in Onion Creek",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16797",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": "2022-04-03T02:52:59-07:00"
+}

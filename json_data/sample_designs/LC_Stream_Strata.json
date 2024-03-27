@@ -1,0 +1,62 @@
+{
+  "description": "No valid data",
+  "startYear": "2018",
+  "retirementYear": "",
+  "initiationYear": "2018",
+  "targetPopulation": "<p>Streams in Lane County</p>\r\n",
+  "ownerName": "Jeremy Groom",
+  "ownerEmail": "jeremy@groomanalytics.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 19324,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15739/panels/19324",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15739"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21765,
+      "name": "17090004;17090002;17100301;17090001",
+      "abbreviation": "S0",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15739/strata/21765",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15739"
+    },
+    {
+      "id": 21766,
+      "name": "17100303;17090003;17100205;17100206;17100207;17070301",
+      "abbreviation": "S1",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15739/strata/21766",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15739"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/602",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15739/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15739",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15739/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15739",
+  "masterSample": {
+    "name": "Columbia Basin Master Sample",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/1"
+  },
+  "userSamples": [
+    {
+      "name": "LC_Stream_Stratified",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11303"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 15739,
+  "title": "LC_Stream_Strata",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15739",
+  "spatialDesignCategory": "Generalized Random Tessellation Stratified (GRTS)",
+  "spatialDesignCategoryID": 18,
+  "lastUpdated": "2018-06-13T05:51:01-07:00"
+}

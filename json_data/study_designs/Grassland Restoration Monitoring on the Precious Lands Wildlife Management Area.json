@@ -1,0 +1,48 @@
+{
+  "backgroundRationale": "<p>124 acres of rolling benches were under cultivation for wheat and hay production by the previous owner. These fields were replanted with native grasses and forbs to promote wildlife value. Monitoring plots were established on both a control field (natural bunchgrass community) and a treatment field. Plots were monitored for three years to establish baseline data, and then subsequently every five years.&nbsp;</p>\r\n\r\n<p>While monitoring was initially used to evaluate the baseline condition of the project area, long-term monitoring will continue to help document trends in plant community health, weedy encroachment, limiting factors for wildlife, and identify/monitor areas of habitat degradation.</p>\r\n",
+  "sampleDesigns": [
+    {
+      "id": 16387,
+      "title": "Grassland Restoration Monitoring on the Precious Lands Wildlife Management Area (Buford Parcel)",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16387",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": "2019-10-18T10:57:41-07:00"
+    }
+  ],
+  "objectives": [
+    "Reclamation of the natural floral components native to the area."
+  ],
+  "keyAssumptions": "<p>1.Personnel are trained in the identification of the local flora as well as familiar with the sampling design.</p>\r\n\r\n<p>2.Plots will be monitored at height of growing season (middle of summer) to limit year to year variability.</p>\r\n",
+  "dataHandlingConsiderations": "Data are collected and recorded in the field using write-in-the-rain paper data forms. All field data is then transposed onto spreadsheets and stored on the tribe's server for later use by personnel for field reference or annual reports.",
+  "qualityControlConsiderations": "Collect vouchers of immature or unknown species for identification purposes.",
+  "reportingConsiderations": "All data forms are scanned and saved on a shared drive for easy access from personnel. Original hard copy is filed in accessible cabinet.",
+  "equipmentCleaningAndCalibration": "0.5 m2 microplot repainted after each monitoring visit.",
+  "rolesAndResponsibilities": "2 people monitoring 100 data frames inside plot",
+  "qualifications": "One Botanist and an assistant / technician to help with moving measuring tape, recording data values on data form, delineating rebar with flagging for future use.",
+  "trainingRequirements": "Botanist must be familiar with local flora in all stages of growth",
+  "safetyConsiderations": "Personnel are trained in basic first aid and CPR, and are aware of hazards in the area such as snakes, and to detect symptoms of heat stress.",
+  "fieldScheduleNotes": "Monitoring is performed in July every 5 years. A maximum of two days is required for two people to complete one quadrant survey (there are two quadrants; control and treatment).",
+  "budgetConsiderations": "Overnight stay is required for two people to complete entire survey.",
+  "monitoringPurpose": null,
+  "estimatedCostPerSite": "< $1,000",
+  "optionalMethodIDs": [],
+  "optionalMethods": [],
+  "id": 1178,
+  "name": "Grassland Restoration Monitoring on the Precious Lands Wildlife Management Area",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/studyDesigns/1178",
+  "programID": null,
+  "programUrl": "[none]",
+  "protocolID": 2055,
+  "protocolUrl": "http://www.monitoringresources.org/api/v1/protocols/2055",
+  "ownerName": "Blair McClarin",
+  "ownerEmail": "blairm@nezperce.org",
+  "majorVersion": 1,
+  "minorVersion": 0,
+  "previousStudyDesignVersionId": null,
+  "previousStudyDesignVersionUrl": "[none]",
+  "mostRecentVersionId": null,
+  "mostRecentVersionUrl": "[none]"
+}

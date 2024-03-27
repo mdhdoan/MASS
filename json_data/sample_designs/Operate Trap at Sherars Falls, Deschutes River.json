@@ -1,0 +1,57 @@
+{
+  "description": "<p>Assist ODFW in operating fish trap at Sherars Falls. &nbsp;This will be done July through October. &nbsp;The objective is to tag fall Chinook for the Deschutes River for the escapement estimate using numbered Floy tags. &nbsp;The objective for tagging summer steelhead is to implant radio tags and/or PIT tags to determine movement patterns upstream of Sherars Falls to determine habitat use in the Deschutes River and tributaries.</p>\r\n",
+  "startYear": "2018",
+  "retirementYear": "",
+  "initiationYear": "2018",
+  "targetPopulation": null,
+  "ownerName": "Cyndi Baker",
+  "ownerEmail": "cyndi.baker@ctwsbnr.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 19151,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16135/panels/19151",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16135"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21589,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16135/strata/21589",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16135"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/35",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1473",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16135/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16135",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16135/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16135",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sherars Falls",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11263"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC4 - Sub Basin",
+      "areaDisplayName": "LOWER DESCHUTES"
+    }
+  ],
+  "id": 16135,
+  "title": "Operate Trap at Sherars Falls, Deschutes River",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16135",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2018-03-29T02:20:41-07:00"
+}

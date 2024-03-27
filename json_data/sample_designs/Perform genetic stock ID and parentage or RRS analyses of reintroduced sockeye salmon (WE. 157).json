@@ -1,0 +1,81 @@
+{
+  "description": "<p>This sample design refers to the sampling of (at a minimum) all sockeye salmon adults that return to a system in which some reintroduction effort has been implemented. Where possible, additional fish that represent&nbsp;components of this effort may be sampled, such as outmigrating juveniles, adults from the source stock, carcass samples, etc.&nbsp;</p>\r\n\r\n<p>We are using this sampling design to montior efforts to reintroduce sockeye salmon&nbsp;to Cle Elum Lake/Yakima River basin (Yakama Nation, YKFP). All adults that return to the Roza Adult Monitoring Facility (RAMF) are genetically sampled. Additionally, a proportion of the Okanagan and Wenatchee stock fish that are intercepted at Priest Rapids Dam and transplanted to Cle Elum Lake are also sampled for genetic tissue. Lastly, out-migrating juveniles, post-spawn carcasses and sockeye collected in gill nets in Cle Elum Lake (deployed to remove lake trout) are genetically sampled as possible for any given year. This genetic monitoring is ongoing, and&nbsp;really began in earnest in 2012/2013.</p>\r\n\r\n<p>We are also using this sampling design to monitor efforts to reintroduce sockeye salmon to Lake Billy Chinook/Deschutes River. In this system, all adult sockeye that return to Pelton Dam are tissue sampled. In addition, juvenile O. nerka expressing out-migrating behavior are intercepted in the Selective Water Withdrawal system&nbsp;and gentically sampled. This genetic monitoring is ongoing, and really began in earnest in 2010.&nbsp;</p>\r\n",
+  "startYear": "2010",
+  "retirementYear": "2030",
+  "initiationYear": "2010",
+  "targetPopulation": null,
+  "ownerName": "Hayley Nuetzel",
+  "ownerEmail": "hnuetzel@critfc.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 21996,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2010"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16836/panels/21996",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16836"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24490,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16836/strata/24490",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16836"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/522",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16836/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16836",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16836/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16836",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design CTWS RM&E - O. nerka SAR comparisons between Lake Billy Chinook and Suttle Lake origin fish WSE 133043 (8967)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1457"
+    },
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 40820 (13057)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/3152"
+    },
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 53777 (14137)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/5222"
+    },
+    {
+      "name": "BPA Sample for Study Design Genetic Stock ID (2008-907-00) WSE 75498 (5095)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/10327"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.646264,-119.906960"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "47.285494,-121.108625"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.749388,-120.465446"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.724969,-121.246799"
+    }
+  ],
+  "id": 16836,
+  "title": "Perform genetic stock ID and parentage/RRS analyses of reintroduced sockeye salmon (WE. 157)",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16836",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2023-01-10T06:52:08-08:00"
+}

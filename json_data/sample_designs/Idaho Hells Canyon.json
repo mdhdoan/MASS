@@ -1,0 +1,48 @@
+{
+  "description": "No valid data",
+  "startYear": "2013",
+  "retirementYear": "",
+  "initiationYear": "2013",
+  "targetPopulation": null,
+  "ownerName": "Tim Copeland",
+  "ownerEmail": "tim.copeland@idfg.idaho.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 132,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [],
+      "url": "http://www.monitoringresources.org/api/v1/designs/50/panels/132",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/50"
+    }
+  ],
+  "strata": [
+    {
+      "id": 319,
+      "name": "Default",
+      "abbreviation": null,
+      "url": "http://www.monitoringresources.org/api/v1/designs/50/strata/319",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/50"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/50/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/50",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/50/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/50",
+  "masterSample": {
+    "name": "Columbia Basin Master Sample",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/1"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 50,
+  "title": "Idaho Hells Canyon",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/50",
+  "spatialDesignCategory": "Generalized Random Tessellation Stratified (GRTS)",
+  "spatialDesignCategoryID": 18,
+  "lastUpdated": "2014-08-05T06:15:08-07:00"
+}

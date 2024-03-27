@@ -1,0 +1,57 @@
+{
+  "description": "<p>Tissue samples will be collected at Sherars Falls while implanting radio and/or PIT tags into wild adult spring Chinook and summer steelhead, at Warm Springs National Fish Hatchery as wild fish are passed upstream, as sub-adults caught in rotary-screw traps in Warm Springs River, and possibly other collection points.&nbsp; As many samples will be collected as possible so that a subset may be selected for parentage analysis and to estimate effective spawners.</p>\r\n",
+  "startYear": "2018",
+  "retirementYear": "",
+  "initiationYear": "2018",
+  "targetPopulation": null,
+  "ownerName": "Cyndi Baker",
+  "ownerEmail": "cyndi.baker@ctwsbnr.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 19237,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16149/panels/19237",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16149"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21648,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16149/strata/21648",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16149"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/35",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1501",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16149/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16149",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16149/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16149",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "CTWS RM&E - spring Chinook/summer steelhead tissue sample collection",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11268"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC4 - Sub Basin",
+      "areaDisplayName": "LOWER DESCHUTES"
+    }
+  ],
+  "id": 16149,
+  "title": "CTWS RM&E Collect tissue samples of spring Chinook and steelhead in lower Deschutes Subbasin for genetic assessment",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16149",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2018-04-27T00:44:12-07:00"
+}

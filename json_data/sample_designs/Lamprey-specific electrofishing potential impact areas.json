@@ -1,0 +1,33 @@
+{
+  "description": "<p>Laboratory evaluation of LSEF impacts will be determined and the area of inference will be defined.&nbsp;</p>\r\n",
+  "startYear": "2022",
+  "retirementYear": "",
+  "initiationYear": "2022",
+  "targetPopulation": null,
+  "ownerName": "Theresa \"Marty\" Liedtke",
+  "ownerEmail": "tliedtke@usgs.gov",
+  "images": [],
+  "panels": [],
+  "strata": [],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1827",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16788/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16788",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16788/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16788",
+  "masterSample": null,
+  "userSamples": null,
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Columbia River Basin",
+      "areaDisplayName": "Columbia River"
+    }
+  ],
+  "id": 16788,
+  "title": "Lamprey-specific electrofishing potential impact areas",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16788",
+  "spatialDesignCategory": "Inference",
+  "spatialDesignCategoryID": 16,
+  "lastUpdated": "2022-03-17T07:00:32-07:00"
+}

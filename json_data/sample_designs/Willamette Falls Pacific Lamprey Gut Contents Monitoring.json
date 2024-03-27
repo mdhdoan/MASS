@@ -1,0 +1,41 @@
+{
+  "description": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:100.0%\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td style=\"background-color:white; width:70%\">\r\n\t\t\t<p>Population trends of Pacific Lamprey are inextricablyctied to their ocean prey.&nbsp; However, it is uncertain which prey they utilize, how prey composition differs across space and time at sea, and whether Pacific Lamprey geographic origins associate with<br />\r\n\t\t\tvariation in prey species.&nbsp;</p>\r\n\r\n\t\t\t<p>The objective of this study is to use metabarcoding genetic analysis to determine the composition of ocean-prey fishes based on the digested contents of the guts from Pacific Lamprey collected from ocean surveys and in-river sites.&nbsp; Deliverables of this study include species identification of fish remnants in the gut contents of 50 individual Pacific Lamprey from each of 4 sites (West Coast commercial Pacific hake and Groundfish fisheries, Willamette Falls, and Bonneville Dam) based on mitochondrial<br />\r\n\t\t\tbarcodes.&nbsp; Percent species composition for each site will be calculated across all 50 individuals to estimate relative<br />\r\n\t\t\tabundance of each prey species.&nbsp; Size of the individuals (a proxy for age) caught in the ocean will be used to determine<br />\r\n\t\t\twhether length of time spent in the ocean is associated with composition of prey fishes.&nbsp; Finally, genetic stock<br />\r\n\t\t\tidentification of each Pacific Lamprey individual will be used to test for an association of the composition of prey fishes with geographic region of origin.&nbsp; The results of this study are relevant to all RMUs because Pacific Lamprey migrate from all RMUs and form a mixed stock in the ocean.&nbsp; The sampling for this research requires &ldquo;on-the-ground&rdquo; focus in the Pacific Ocean RMU, Willamette RMU, and Mainstem Columbia RMU.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n",
+  "startYear": "2023",
+  "retirementYear": "",
+  "initiationYear": "2023",
+  "targetPopulation": null,
+  "ownerName": "Jon Hess",
+  "ownerEmail": "hesj@critfc.org",
+  "images": [],
+  "panels": [],
+  "strata": [],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/96",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1875",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16896/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16896",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16896/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16896",
+  "masterSample": null,
+  "userSamples": null,
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": " 45.3519, -122.6174"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": " 45.6479, -121.9396"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": " 46.2539, -124.0345"
+    }
+  ],
+  "id": 16896,
+  "title": "Willamette Falls Pacific Lamprey Gut Contents Monitoring",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16896",
+  "spatialDesignCategory": "Inference",
+  "spatialDesignCategoryID": 16,
+  "lastUpdated": "2023-08-04T20:56:52-07:00"
+}

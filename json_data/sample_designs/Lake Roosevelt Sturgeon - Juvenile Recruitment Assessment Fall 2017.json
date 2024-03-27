@@ -1,0 +1,52 @@
+{
+  "description": "<p>Annual survey to monitor for&nbsp;natural recruitment of White Sturgeon in Lake Roosevelt.</p>\r\n",
+  "startYear": "2017",
+  "retirementYear": "2017",
+  "initiationYear": "2017",
+  "targetPopulation": null,
+  "ownerName": "Joseph Cronrath",
+  "ownerEmail": "joseph.cronrath@spokanetribe.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 20152,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16507/panels/20152",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16507"
+    }
+  ],
+  "strata": [
+    {
+      "id": 23050,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16507/strata/23050",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16507"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/26",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1709",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16507/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16507",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16507/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16507",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16507",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11483"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16507,
+  "title": "Lake Roosevelt Sturgeon - Juvenile Recruitment Assessment Fall 2017",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16507",
+  "spatialDesignCategory": "Generalized Random Tessellation Stratified (GRTS), External",
+  "spatialDesignCategoryID": 19,
+  "lastUpdated": "2020-02-13T05:23:46-08:00"
+}

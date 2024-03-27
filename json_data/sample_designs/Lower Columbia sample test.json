@@ -1,0 +1,50 @@
+{
+  "description": "<p>Testing MS sample draw routine to visually assess spatial balance.&nbsp;&nbsp;</p>\r\n\r\n<p>This instance did not capture a &quot;probability&quot; column and appears spatially balanced.</p>\r\n",
+  "startYear": "2018",
+  "retirementYear": "",
+  "initiationYear": "2018",
+  "targetPopulation": "<p>NA</p>\r\n",
+  "ownerName": "Jeremy Groom",
+  "ownerEmail": "jeremy@groomanalytics.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 19444,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15784/panels/19444",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15784"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21850,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15784/strata/21850",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15784"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/58",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/371",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15784/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15784",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15784/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15784",
+  "masterSample": {
+    "name": "Lower Columbia",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/5"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 15784,
+  "title": "Lower Columbia sample test",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15784",
+  "spatialDesignCategory": "Generalized Random Tessellation Stratified (GRTS)",
+  "spatialDesignCategoryID": 18,
+  "lastUpdated": "2018-08-01T01:12:13-07:00"
+}

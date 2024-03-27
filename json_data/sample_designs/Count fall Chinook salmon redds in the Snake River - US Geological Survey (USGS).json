@@ -1,0 +1,52 @@
+{
+  "description": "No valid data",
+  "startYear": "1993",
+  "retirementYear": "2023",
+  "initiationYear": "1993",
+  "targetPopulation": null,
+  "ownerName": "Kenneth Tiffan",
+  "ownerEmail": "ktiffan@usgs.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 19957,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "1993"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16421/panels/19957",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16421"
+    }
+  ],
+  "strata": [
+    {
+      "id": 22939,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16421/strata/22939",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16421"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/85",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1181",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16421/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16421",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16421/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16421",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16421",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11411"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16421,
+  "title": "Count fall Chinook salmon redds in the Snake River - US Geological Survey (USGS)",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16421",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2019-11-27T01:06:26-08:00"
+}

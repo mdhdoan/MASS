@@ -1,0 +1,238 @@
+{
+  "description": "<p>CHaMP&nbsp;is designed as a Columbia River basin-wide habitat status and trends monitoring program built around a single protocol with a programmatic approach to data collection and management (RM&amp;E Workgroup 2010).&nbsp;CHaMP&nbsp;will result in the collection and analysis of systematic habitat status and trends information that will be used to assess basin-wide habitat conditions. When coupled with biological response indicators, this status and trends information will be used to evaluate habitat management strategies. This program will be integrated with ongoing Pacific Northwest Aquatic Monitoring Program (PNAMP) recovery planning efforts and will be part of the collaborative process across Columbia Basin fish management agencies and tribes and other state and federal agencies that are monitoring&nbsp;anadromous&nbsp;salmonids&nbsp;and/or their habitat. The implementation of&nbsp;CHaMP&nbsp;will characterize stream responses to watershed restoration and/or management actions in at least one population within each steelhead and spring Chinook Major Population Group (MPG) which have, or will have, &ldquo;fish-in&rdquo; and &ldquo;fish-out&rdquo; monitoring (identified in&nbsp;RPA&nbsp;50.6), thereby meeting the requirements of&nbsp;RPA&nbsp;56.3,&nbsp;RPA&nbsp;57, and&nbsp;RPA&nbsp;3.&nbsp;CHaMP&nbsp;was designed to deliver trends in habitat indicators and requires that monitoring occurs for three cycles of a sampling panel, at least 9 years.</p>\r\n\r\n<p>The&nbsp;Tucannon&nbsp;CHaMP&nbsp;status and trends domain includes the&nbsp;mainstem&nbsp;Tucannon&nbsp;and a short distance up several tributaries,&nbsp;targetting&nbsp;the Chinook population and covering the most important domain of the Steelhead (Snake River&nbsp;DPS)&nbsp;Tucannon&nbsp;River Population.&nbsp; The&nbsp;Tucannon&nbsp;will receive a significant amount of treatment over the coming years through restoration work by the Snake River Salmon Recovery Board; a system of treatment/control groups has been set up yielding a set of tiny treatment/control strata as part of the&nbsp;CHaMP&nbsp;study design.&nbsp; The design splits the sampling into these paired groups and to&nbsp;&ldquo;mainstem&rdquo;&nbsp;and &ldquo;tributary&rdquo; groups.</p>\r\n\r\n<p>The standard valley class stratification was abandoned for&nbsp;Tucannon&nbsp;partly because all sites fell into the&nbsp;depositional&nbsp;stratum, and partly because of the treatment-control design imposed.&nbsp; As well, the private/public split was abandoned given the small number of choices in most of the treatment/control strata and the small target frame.</p>\r\n\r\n<p><strong>2014 sample design notes:&nbsp;</strong></p>\r\n\r\n<p>No changes from 2013.</p>\r\n\r\n<p>6/24/2014: Two sites from the Tucannon CHaMP design changed Blocks to accommodate AEM sampling in 2014. &nbsp;CBW05583-274303&nbsp;was originally allocated to Rotating Panel 3-Treatment Reach 2-Control, Use order 1 and was moved to Annual AEM-Treatment Reach 2-Control. Block allocation of Rotating Panel 3-Treatment Reach 2-Control changed from 1 to 0. &nbsp;</p>\r\n\r\n<p>CBW274303 was originally allocated to Rotating Panel 3-Mainstem, Use order 3 and moved to Annual-Mainstem, Use order 1. Block allocation for Rotating Panel 3-Mainstem changed from 4 to 3.&nbsp;</p>\r\n\r\n<p><strong>2012 sample design notes:</strong></p>\r\n\r\n<p>The basic design of the&nbsp;Tucannon&nbsp;remained the same as 2012&nbsp;in 2013.&nbsp; There were minor adjustments to site stratum assignments as additional treatment/control groups were established, converting from&nbsp;mainstem&nbsp;to treatment/control.</p>\r\n\r\n<p><strong>2013 sample design notes</strong></p>\r\n\r\n<p>\u200b\u200bIn 2013, the strata names were updated to exclude specific treatment and control pairs by to more general &#39;Treatment 1 vs. Control&#39; pairs of reference reaches. &nbsp;E.g. Treatment Reach 1-Treatment 1 stratum became Treatment Reach 1-Treatment. &nbsp;</p>\r\n\r\n<p><strong>2011 sample design notes</strong></p>\r\n\r\n<p><strong>Master sample&nbsp;GRTS&nbsp;Input file</strong>: &nbsp;&nbsp;ToPhil_20110420_MS_Tucannon.txt</p>\r\n\r\n<p>&nbsp;<strong>Legacy sample&nbsp;GRTS&nbsp;Input file</strong>: None--no legacy sites used in 2011&nbsp;Tucannon&nbsp;design.</p>\r\n\r\n<p><strong>Final design file: &nbsp;&nbsp;</strong>Tucannon.5.4.xlsx</p>\r\n\r\n<p><strong>R code</strong>: &nbsp;&nbsp;Design.4.22.2011.r</p>\r\n\r\n<p><strong>Strat.panel function version:</strong>&nbsp;</p>\r\n\r\n<p>\u200b</p>\r\n\r\n<p><strong>Design Documentation Files:</strong>&nbsp;</p>\r\n\r\n<p><a href=\"https://isemp.egnyte.com/h-s/20140327/eezvENp7Cf\" style=\"font-size: 12px;\">TucannonDesignFiles.zip</a></p>\r\n",
+  "startYear": "2011",
+  "retirementYear": "",
+  "initiationYear": "2014",
+  "targetPopulation": "<p><strong>2014 Frame Updates:</strong></p>\r\n\r\n<p>There were no updates to the frame in 2014. &nbsp;</p>\r\n\r\n<p><strong>2013 Frame Updates:</strong></p>\r\n\r\n<p>There were no frame updates made in 2013, although some strata names changed. The spatial extent of the strata did&nbsp;not change.</p>\r\n\r\n<p><strong>2012 Frame Updates:</strong></p>\r\n\r\n<p>Frame was updated to include Treatment 6-Control, Treatment 6-Treatment, Treatment 7-Control, Treatment 7-Treatment, Treatment 8-Control and Treatment 8-Treatment reaches. &nbsp;The full extent of the frame did not change, just the strata within the frame.</p>\r\n\r\n<p><strong>2011 Frame Description:</strong></p>\r\n\r\n<p>The default&nbsp;CHaMP&nbsp;target frame (domain of inference) is represented by the population of all stream reaches that meet the following criteria:</p>\r\n\r\n<ul>\r\n\t<li>Strahler&nbsp;order &gt; 1</li>\r\n\t<li>Wadeable&nbsp;(Strahler&nbsp;order &gt; 5)</li>\r\n\t<li>Perennial (as defined by&nbsp;NHDPlus&nbsp;hydrography)</li>\r\n\t<li>Downstream of permanent natural barriers &lt; 12 %</li>\r\n\t<li>Downstream of permanent human-made barriers</li>\r\n\t<li>Accessible to adult and juvenile&nbsp;TRT&nbsp;populations as represented by the&nbsp;NHDPlus&nbsp;hydrography?</li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>CHaMP&nbsp;will be used to determine the effectiveness of&nbsp;instream&nbsp;habitat complexity restoration methods (e.g.,&nbsp;LWD&nbsp;installation) and to a lesser extent reconnection of the stream to the floodplain (e.g., levee setbacks). To maximize the ability to determine the effectiveness of restoration actions, the domain of inference in the&nbsp;Tucannon&nbsp;River to include only the spring Chinook domain as defined in the&nbsp;subbasin&nbsp;plan (SRSRB&nbsp;2011). This restricted domain of inference was established because the focus of restoration efforts in the&nbsp;Tucannon&nbsp;River are targeted at spring Chinook (ADEQ&nbsp;2011) and the&nbsp;SRSRB&nbsp;is required to demonstrate the effectiveness of habitat restoration as part of the&nbsp;BiOP.&nbsp;</p>\r\n\r\n<p>Treatment and control areas were used as&nbsp;strata.&nbsp;This ensured&nbsp;that&nbsp;CHaMP&nbsp;sites were allocated in treatment and control areas throughout the domain of inference. This approach will allow for effectiveness monitoring of the restoration actions. A small sampling effort was put into &#39;mainstem&#39; and &#39;tributary&#39; strata for status and trends monitoring of&nbsp;non-restoration areas within the domain. &nbsp;</p>\r\n\r\n<p>Tucannon&nbsp;Frame File:&nbsp;</p>\r\n\r\n<p><a href=\"https://isemp.egnyte.com/h-s/20140327/CmDZF8xoKt\" style=\"font-size: 12px;\">TucannonFrameFile.zip</a></p>\r\n",
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 4562,
+      "name": "Annual",
+      "abbreviation": "Annual",
+      "years": [
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15870/panels/4562",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15870"
+    },
+    {
+      "id": 4563,
+      "name": "Extra",
+      "abbreviation": "Extra",
+      "years": [
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15870/panels/4563",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15870"
+    },
+    {
+      "id": 4564,
+      "name": "Rotating Panel 1",
+      "abbreviation": "Rotating Panel 1",
+      "years": [
+        "2011",
+        "2014"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15870/panels/4564",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15870"
+    },
+    {
+      "id": 4565,
+      "name": "Rotating Panel 2",
+      "abbreviation": "Rotating Panel 2",
+      "years": [
+        "2012",
+        "2015"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15870/panels/4565",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15870"
+    },
+    {
+      "id": 4566,
+      "name": "Rotating Panel 3",
+      "abbreviation": "Rotating Panel 3",
+      "years": [
+        "2013"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15870/panels/4566",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15870"
+    }
+  ],
+  "strata": [
+    {
+      "id": 5768,
+      "name": "AEM-Mainstem",
+      "abbreviation": "AEM-Main",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15870/strata/5768",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15870"
+    },
+    {
+      "id": 5767,
+      "name": "AEM-Treatment Reach 2-Control",
+      "abbreviation": "AEM-Trt-C",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15870/strata/5767",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15870"
+    },
+    {
+      "id": 5749,
+      "name": "Mainstem",
+      "abbreviation": "Mainstem",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15870/strata/5749",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15870"
+    },
+    {
+      "id": 5750,
+      "name": "Treatment Reach 1-Control",
+      "abbreviation": "Treatment Reach 1-Control",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15870/strata/5750",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15870"
+    },
+    {
+      "id": 5751,
+      "name": "Treatment Reach 1-Treatment",
+      "abbreviation": "Treatment Reach 1-Treatment",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15870/strata/5751",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15870"
+    },
+    {
+      "id": 5752,
+      "name": "Treatment Reach 2-Control",
+      "abbreviation": "Treatment Reach 2-Control",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15870/strata/5752",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15870"
+    },
+    {
+      "id": 5753,
+      "name": "Treatment Reach 2-Treatment",
+      "abbreviation": "Treatment Reach 2-Treatment",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15870/strata/5753",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15870"
+    },
+    {
+      "id": 5754,
+      "name": "Treatment Reach 3-Control",
+      "abbreviation": "Treatment Reach 3-Control",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15870/strata/5754",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15870"
+    },
+    {
+      "id": 5755,
+      "name": "Treatment Reach 3-Treatment",
+      "abbreviation": "Treatment Reach 3-Treatment",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15870/strata/5755",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15870"
+    },
+    {
+      "id": 5756,
+      "name": "Treatment Reach 4-Control",
+      "abbreviation": "Treatment Reach 4-Control",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15870/strata/5756",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15870"
+    },
+    {
+      "id": 5757,
+      "name": "Treatment Reach 4-Treatment",
+      "abbreviation": "Treatment Reach 4-Treatment",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15870/strata/5757",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15870"
+    },
+    {
+      "id": 5758,
+      "name": "Treatment Reach 5-Control",
+      "abbreviation": "Treatment Reach 5-Control",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15870/strata/5758",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15870"
+    },
+    {
+      "id": 5759,
+      "name": "Treatment Reach 5-Treatment",
+      "abbreviation": "Treatment Reach 5-Treatment",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15870/strata/5759",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15870"
+    },
+    {
+      "id": 5760,
+      "name": "Treatment Reach 6-Control",
+      "abbreviation": "Treatment Reach 6-Control",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15870/strata/5760",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15870"
+    },
+    {
+      "id": 5761,
+      "name": "Treatment Reach 6-Treatment",
+      "abbreviation": "Treatment Reach 6-Treatment",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15870/strata/5761",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15870"
+    },
+    {
+      "id": 5762,
+      "name": "Treatment Reach 7-Control",
+      "abbreviation": "Treatment Reach 7-Control",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15870/strata/5762",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15870"
+    },
+    {
+      "id": 5763,
+      "name": "Treatment Reach 7-Treatment",
+      "abbreviation": "Treatment Reach 7-Treatment",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15870/strata/5763",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15870"
+    },
+    {
+      "id": 5764,
+      "name": "Treatment Reach 8-Control",
+      "abbreviation": "Treatment Reach 8-Control",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15870/strata/5764",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15870"
+    },
+    {
+      "id": 5765,
+      "name": "Treatment Reach 8-Treatment",
+      "abbreviation": "Treatment Reach 8-Treatment",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15870/strata/5765",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15870"
+    },
+    {
+      "id": 5766,
+      "name": "Tributary",
+      "abbreviation": "Tributary",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15870/strata/5766",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15870"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/18",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/225",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15870/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15870",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15870/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15870",
+  "masterSample": {
+    "name": "Columbia Basin Master Sample",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/1"
+  },
+  "userSamples": [
+    {
+      "name": "TCI00001 Sample",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1045"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 15870,
+  "title": "Tucannon Watershed Habitat Surveys within the Columbia Habitat Monitoring Program (CHaMP) in 2014",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15870",
+  "spatialDesignCategory": "Modified GRTS",
+  "spatialDesignCategoryID": 14,
+  "lastUpdated": "2015-05-23T14:25:13-07:00"
+}

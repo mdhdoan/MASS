@@ -1,0 +1,90 @@
+{
+  "description": "<p>This Design was developed as part of the AIM strategy to assess Land Use Plan/Resource Management Plan effectiveness. Includes only points on all perennial BLM streams and rivers in the Winnemucca BLM&nbsp;District office. Previously assessed points &nbsp;from the NV statewide and WRSA projects 2013-2015 will be used as a user sampled to ensure spatial balance of new points aroung locations we have visited previously. These location include non-target (e.g., dry sites), inaccessible, and sampled sites. See the AIM strategy to understand our rejection criteria (reason a point is not sampled).</p>\r\n",
+  "startYear": "2019",
+  "retirementYear": "",
+  "initiationYear": "2019",
+  "targetPopulation": "<p>All perennial streams and rivers on BLM land within the Winnemcca District Office.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "ownerName": "Nicole Cappuccio",
+  "ownerEmail": "ncappuccio@blm.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 19723,
+      "name": "2019",
+      "abbreviation": "2019",
+      "years": [
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16333/panels/19723",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16333"
+    }
+  ],
+  "strata": [
+    {
+      "id": 22717,
+      "name": "Black Rock Field Office-Large Streams (3&4)",
+      "abbreviation": "B-LS",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16333/strata/22717",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16333"
+    },
+    {
+      "id": 22718,
+      "name": "Black Rock Field Office-Rivers (5+)",
+      "abbreviation": "B-RV",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16333/strata/22718",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16333"
+    },
+    {
+      "id": 22719,
+      "name": "Black Rock Field Office-Small Streams (1&2)",
+      "abbreviation": "B-SS",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16333/strata/22719",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16333"
+    },
+    {
+      "id": 22720,
+      "name": "Humboldt River Field Office-Large Streams (3&4)",
+      "abbreviation": "H-LS",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16333/strata/22720",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16333"
+    },
+    {
+      "id": 22721,
+      "name": "Humboldt River Field Office-Rivers (5+)",
+      "abbreviation": "H-RV",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16333/strata/22721",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16333"
+    },
+    {
+      "id": 22722,
+      "name": "Humboldt River Field Office-Small Streams (1&2)",
+      "abbreviation": "H-SS",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16333/strata/22722",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16333"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/78",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1335",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16333/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16333",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16333/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16333",
+  "masterSample": {
+    "name": "Bureau of Land Management Lotic",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/8"
+  },
+  "userSamples": [
+    {
+      "name": "NV_NW_17April2019",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11372"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16333,
+  "title": "NV_NW_17April2019",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16333",
+  "spatialDesignCategory": "Generalized Random Tessellation Stratified (GRTS)",
+  "spatialDesignCategoryID": 18,
+  "lastUpdated": "2019-04-18T06:25:48-07:00"
+}

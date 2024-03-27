@@ -1,0 +1,65 @@
+{
+  "description": "<div>Test the Hypothesis: Spring Chinook salmon stocks that possess an increased propensity for minijack maturation will also possess an increased propensity for jack maturation</div>\r\n\r\n<div>NOTE:&nbsp; This study will span three contract years be conducted from Sept. 2018 to June 2021</div>\r\n\r\n<div>This investigation will involve rearing McCall (high propensity for minijack maturation) and Carson stock (low propensity for minijack maturation) hatchery spring Chinook salmon at the Northwest Fisheries Science Center under a high and low growth regime and evaluate minijack and jack maturation rates. This study will also evaluate growth profiles that increase and decrease the propensity for early male maturation (minijack and jack) in stocks with variable genetic thresholds for expressing these life histories in order to develop hatchery rearing regimes for BPA and other sponsored hatchery programs throughout the Columbia and Snake River basins.</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>1) Obtain and transport 4000 BY 2018 eyed eggs from each of McCall and Carson Hatchery &ndash; 400 eggs/10 families = 8000 eggs total</div>\r\n\r\n<div>2) Rear 4000 juveniles per stock in quadruplicate High and Low growth regime tanks = 1000 juv. x 2 stocks x 2 trts. x 2 reps.</div>\r\n\r\n<div>3) Pit-tag and fin clip all fish at 70mm FL. in summer 2018</div>\r\n\r\n<div>4) Use genetic sex marker to ID and remove all females</div>\r\n\r\n<div>5) Rear ~2000 males from each pop. on High and Low growth regime in replicate = 500 males x 2 trts. x 2 reps. x 2 stocks</div>\r\n\r\n<div>6) During the current (2019-2020) contract period (Sept. to Oct. 2019) at age-2 remove all minijacks via milt expression in Sept 2020 (estimate 20-60% removal from Carson Low to McCall High. = 100-300 fish).</div>\r\n\r\n<div>7) During 2019 contract period balance density of all tanks to lowest number to keep density same for grow out to jack maturation = ~200 fish/tank.</div>\r\n\r\n<div>8) During 2020-2021 contract period rear remaining males to age 2+ and assess jack maturation using plasma 11-KT in May 2021</div>\r\n",
+  "startYear": "2019",
+  "retirementYear": "",
+  "initiationYear": "2019",
+  "targetPopulation": null,
+  "ownerName": "Donald Larsen",
+  "ownerEmail": "don.larsen@noaa.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 20013,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16450/panels/20013",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16450"
+    }
+  ],
+  "strata": [
+    {
+      "id": 22983,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16450/strata/22983",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16450"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/645",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16450/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16450",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16450/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16450",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design Spring Chinook Minijack Monitoring (2002-031-00) WSE 72995 (6385)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/8693"
+    },
+    {
+      "name": "Sample for Design #16450",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11423"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.902074, -116.096952"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.874217, -121.952665"
+    }
+  ],
+  "id": 16450,
+  "title": "Estimate Precocious Maturation Rate of Yakima Hatchery Spring Chinook Salmon (Continuing) - University of Washington 2019",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16450",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2019-12-26T23:38:51-08:00"
+}

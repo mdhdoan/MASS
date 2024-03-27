@@ -1,0 +1,50 @@
+{
+  "description": "No valid data",
+  "startYear": "2016",
+  "retirementYear": "",
+  "initiationYear": "2016",
+  "targetPopulation": "<p>Chinook and Steelhead ESUs above Bonneville&nbsp;Dam.&nbsp;</p>\r\n",
+  "ownerName": "Colin Riordan",
+  "ownerEmail": "colin@naturaldes.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 7104,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2016"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2570/panels/7104",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2570"
+    }
+  ],
+  "strata": [
+    {
+      "id": 9150,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2570/strata/9150",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2570"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/2570/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/2570",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/2570/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/2570",
+  "masterSample": {
+    "name": "Columbia Basin Master Sample",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/1"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 2570,
+  "title": "AEM overlapping CHaMP Sites 2016",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/2570",
+  "spatialDesignCategory": "Systematic, Non-Stratified",
+  "spatialDesignCategoryID": 4,
+  "lastUpdated": "2016-06-02T04:13:51-07:00"
+}

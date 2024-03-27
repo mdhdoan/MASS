@@ -1,0 +1,57 @@
+{
+  "description": "<p>WDFW will estimate the number of HOR steelhead residuals, using a stratified Peterson mark-recapture survey method (Ricker 1958, Viola and Schuck 1997).&nbsp; &nbsp;In late June, project and LSRCP staff, and likely with the help from a local fishing group, will hook-and-line survey multiple 1-mile reaches of the Tucannon River.&nbsp; Approximately 1-week later, each previously sampled section will be hook-and-line surveyed again, with surveyors keeping records on marked/unmarked fish and their size/group. &nbsp;A population estimate for each reach will be calculated. &nbsp;River sections not surveyed will be estimated using the mark/recapture estimates from nearby areas, with an expanded estimate for the entire river provided.</p>\r\n",
+  "startYear": "2022",
+  "retirementYear": "2024",
+  "initiationYear": "2022",
+  "targetPopulation": null,
+  "ownerName": "Todd Miller",
+  "ownerEmail": "todd.miller@dfw.wa.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 21926,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2022"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16802/panels/21926",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16802"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24443,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16802/strata/24443",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16802"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/64",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1831",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16802/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16802",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16802/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16802",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16802",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11581"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "Tucannon River"
+    }
+  ],
+  "id": 16802,
+  "title": "WDFW Steelhead Residualism Surveys Tucannon River",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16802",
+  "spatialDesignCategory": "Census: Restricted",
+  "spatialDesignCategoryID": 6,
+  "lastUpdated": "2022-05-04T23:50:49-07:00"
+}

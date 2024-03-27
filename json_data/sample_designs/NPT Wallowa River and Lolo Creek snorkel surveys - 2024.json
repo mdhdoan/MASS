@@ -1,0 +1,52 @@
+{
+  "description": "<p>Single-pass, blocked snorkel surveys to be conducted in conjunction with aquatic habitat assessments at sites probabillistically located throughout a 40.6 km segment of the Wallowa River upstream of the Lostine River confluence and reaches of the Lolo Creek watershed identified by Lolo Atlas data-gap workgroup staff.&nbsp;</p>\r\n",
+  "startYear": "2024",
+  "retirementYear": "2024",
+  "initiationYear": "2024",
+  "targetPopulation": null,
+  "ownerName": "Clint Chandler",
+  "ownerEmail": "clintc@nezperce.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 22377,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2024"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16989/panels/22377",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16989"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24658,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16989/strata/24658",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16989"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/24",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1667",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16989/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16989",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16989/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16989",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16989",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11629"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16989,
+  "title": "NPT Wallowa River and Lolo Creek snorkel surveys - 2024",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16989",
+  "spatialDesignCategory": "Generalized Random Tessellation Stratified (GRTS), External",
+  "spatialDesignCategoryID": 19,
+  "lastUpdated": "2023-12-19T05:21:08-08:00"
+}

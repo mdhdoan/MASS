@@ -1,0 +1,52 @@
+{
+  "description": "No valid data",
+  "startYear": "2018",
+  "retirementYear": "2025",
+  "initiationYear": "2018",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Jeffrey Fryer",
+  "ownerEmail": "fryj@critfc.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 20230,
+      "name": "Factors limiting production of Okanagan and Wenatchee sockeye stocks (2008-503-00) WSE 134649",
+      "abbreviation": "Factors limiting production of Okanagan and Wenatchee sockeye stocks (2008-503-00) WSE 134649",
+      "years": [
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16535/panels/20230",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16535"
+    }
+  ],
+  "strata": [
+    {
+      "id": 23080,
+      "name": "All Sites",
+      "abbreviation": "All Sites",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16535/strata/23080",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16535"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1741",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16535/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16535",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16535/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16535",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design Factors limiting production of Okanagan and Wenatchee sockeye stocks (2008-503-00) WSE 134649 (4809)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/10419"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16535,
+  "title": "Collect data on substrate available for spawning in the Penticton Channel and sockeye salmon redds in the area. - Columbia River Inter-Tribal Fish Commission (CRITFC), cloned for Study Design 510",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16535",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2020-03-18T00:11:38-07:00"
+}

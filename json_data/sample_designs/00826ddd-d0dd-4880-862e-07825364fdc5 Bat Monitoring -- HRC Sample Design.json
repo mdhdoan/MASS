@@ -1,0 +1,50 @@
+{
+  "description": "No valid data",
+  "startYear": "2017",
+  "retirementYear": "2017",
+  "initiationYear": "2017",
+  "targetPopulation": null,
+  "ownerName": "Wendy Nelson",
+  "ownerEmail": "vawendy@gmail.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 19047,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15586/panels/19047",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15586"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21470,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15586/strata/21470",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15586"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/80",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1396",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15586/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15586",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15586/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15586",
+  "masterSample": {
+    "name": "Continental United States 10 KM Grid",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/10"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 15586,
+  "title": "00826ddd-d0dd-4880-862e-07825364fdc5 Bat Monitoring -- HRC Sample Design",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15586",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": "2018-02-08T02:17:37-08:00"
+}

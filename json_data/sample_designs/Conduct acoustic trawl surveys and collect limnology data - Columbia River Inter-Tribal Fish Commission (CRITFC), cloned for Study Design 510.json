@@ -1,0 +1,56 @@
+{
+  "description": "No valid data",
+  "startYear": "2017",
+  "retirementYear": "2025",
+  "initiationYear": "2017",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Jeffrey Fryer",
+  "ownerEmail": "fryj@critfc.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 20247,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16531/panels/20247",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16531"
+    }
+  ],
+  "strata": [
+    {
+      "id": 23077,
+      "name": "All Sites",
+      "abbreviation": "All Sites",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16531/strata/23077",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16531"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1741",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16531/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16531",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16531/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16531",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design Factors limiting production of Okanagan and Wenatchee sockeye stocks (2008-503-00) WSE 125081 (4793)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1386"
+    },
+    {
+      "name": "BPA Sample for Study Design Factors limiting production of Okanagan and Wenatchee sockeye stocks (2008-503-00) WSE 133793 (4803)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/2664"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16531,
+  "title": "Conduct acoustic trawl surveys and collect limnology data - Columbia River Inter-Tribal Fish Commission (CRITFC), cloned for Study Design 510",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16531",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2020-03-18T00:08:02-07:00"
+}

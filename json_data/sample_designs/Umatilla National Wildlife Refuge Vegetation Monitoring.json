@@ -1,0 +1,52 @@
+{
+  "description": "<p>Bi weekely sampel of vegetation ... at recurring sites each year.&nbsp;&nbsp;</p>\r\n\r\n<p>Describe your&nbsp;<a class=\"glossaryLink\" href=\"https://www.monitoringresources.org/Resources/Glossary/Definition/24\" style=\"box-sizing: inherit; max-height: 1e+06px; text-decoration-line: none; color: rgb(51, 153, 255); border-bottom: 1px dotted rgb(51, 153, 255); font-family: &quot;Open Sans&quot;, Arial, &quot;Helvetica Neue&quot;, Helvetica, sans-serif; font-size: 10.6667px;\" title=\"Click here for a definition of this term\">spatial design</a>&nbsp;and&nbsp;<a class=\"glossaryLink\" href=\"https://www.monitoringresources.org/Resources/Glossary/Definition/29\" style=\"box-sizing: inherit; max-height: 1e+06px; text-decoration-line: none; color: rgb(51, 153, 255); border-bottom: 1px dotted rgb(51, 153, 255); font-family: &quot;Open Sans&quot;, Arial, &quot;Helvetica Neue&quot;, Helvetica, sans-serif; font-size: 10.6667px;\" title=\"Click here for a definition of this term\">temporal design</a>. Include If you have an additional details document, diagrams or tables, please refer to them here in the background, then upload them using the Documents page.</p>\r\n",
+  "startYear": "2021",
+  "retirementYear": "2030",
+  "initiationYear": "2021",
+  "targetPopulation": null,
+  "ownerName": "Steven Kahl",
+  "ownerEmail": "steve_kahl@fws.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 21606,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16671/panels/21606",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16671"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24276,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16671/strata/24276",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16671"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1778",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16671/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16671",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16671/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16671",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16671",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11528"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16671,
+  "title": "Umatilla National Wildlife Refuge Vegetation Monitoring",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16671",
+  "spatialDesignCategory": "Census: Restricted",
+  "spatialDesignCategoryID": 6,
+  "lastUpdated": "2021-02-06T05:22:25-08:00"
+}

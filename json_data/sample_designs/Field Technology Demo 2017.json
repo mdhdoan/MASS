@@ -1,0 +1,52 @@
+{
+  "description": "<p>COPY:</p>\r\n\r\n<p>This sample design includes sites that will be used for the 2016&nbsp;Field Technology Conference Field Trip.</p>\r\n",
+  "startYear": "2017",
+  "retirementYear": "",
+  "initiationYear": "2017",
+  "targetPopulation": "COPY: COPY: ",
+  "ownerName": "Paul Clayton",
+  "ownerEmail": "paul.clayton@sitkatech.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 8704,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16041/panels/8704",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16041"
+    }
+  ],
+  "strata": [
+    {
+      "id": 10941,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16041/strata/10941",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16041"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16041/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16041",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16041/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16041",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "CHaMP Training MOCK 2012 Sites",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1055"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16041,
+  "title": "Field Technology Demo 2017",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16041",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2017-06-03T00:56:30-07:00"
+}

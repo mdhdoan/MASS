@@ -1,0 +1,56 @@
+{
+  "description": "<p>Juvenile and smolt trapping of salmonids in the Hood River watershed for population, status and trend monitoring.</p>\r\n",
+  "startYear": "2022",
+  "retirementYear": "2049",
+  "initiationYear": "2022",
+  "targetPopulation": null,
+  "ownerName": "Ryan Gerstenberger",
+  "ownerEmail": "rgerstenberger@hrecn.net",
+  "images": [],
+  "panels": [
+    {
+      "id": 21952,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2022"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16804/panels/21952",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16804"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24450,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16804/strata/24450",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16804"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/38",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1833",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16804/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16804",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16804/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16804",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design Hood River subbasin juvenile and smolt monitoring WSE 66366 (6765)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/10907"
+    },
+    {
+      "name": "Sample for Design #16804",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11585"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16804,
+  "title": "Hood River Subbasin Juvenile and Smolt Abundance Monitoring",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16804",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2022-06-07T23:02:24-07:00"
+}

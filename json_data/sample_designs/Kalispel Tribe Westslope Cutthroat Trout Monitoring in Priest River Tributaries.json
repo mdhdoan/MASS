@@ -1,0 +1,69 @@
+{
+  "description": "<p>Incline-plane traps are installed near the mouth of Big, Quartz, Sadler, and Sanborn creeks to capture post-spawn and outmigrating juvenile adfluvial Westslope Cutthroat Trout. PIT tag arrays are constructed near the mouth and downstream of the trap sites. This enables detection of PIT tagged fish that avoided capture at the trapping site. Thus, trap effiency and abundance estimates can be calculated.</p>\r\n",
+  "startYear": "2020",
+  "retirementYear": "2021",
+  "initiationYear": "2020",
+  "targetPopulation": null,
+  "ownerName": "Todd Andersen",
+  "ownerEmail": "tandersen@knrd.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 19883,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16392/panels/19883",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16392"
+    }
+  ],
+  "strata": [
+    {
+      "id": 22913,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16392/strata/22913",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16392"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/89",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1702",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16392/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16392",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16392/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16392",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16384",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11400"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Rivers 100k",
+      "areaDisplayName": "Saddler Creek"
+    },
+    {
+      "areaTypeName": "Rivers - Streams 24k",
+      "areaDisplayName": "Sanborn Creek"
+    },
+    {
+      "areaTypeName": "Rivers - Streams 24k",
+      "areaDisplayName": "Quartz Creek"
+    },
+    {
+      "areaTypeName": "Rivers - Streams 24k",
+      "areaDisplayName": "Big Creek"
+    }
+  ],
+  "id": 16392,
+  "title": "Kalispel Tribe Westslope Cutthroat Trout Monitoring in Priest River Tributaries",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16392",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2019-10-30T00:42:33-07:00"
+}

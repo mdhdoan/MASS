@@ -1,0 +1,109 @@
+{
+  "description": "<p>Sample design for McKay Creek Spawning Surveys.&nbsp; Sample locations listed in the table and map represent the start of&nbsp;each&nbsp;survey reach.&nbsp; The bottom of the reach is denoted by the next sample location, or the mouth of the stream.&nbsp;</p>\r\n",
+  "startYear": "2020",
+  "retirementYear": "",
+  "initiationYear": "2020",
+  "targetPopulation": null,
+  "ownerName": "Craig Contor",
+  "ownerEmail": "craigcontor@ctuir.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 21466,
+      "name": "Panel 1",
+      "abbreviation": "Panel 1",
+      "years": [
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026",
+        "2027",
+        "2028",
+        "2029",
+        "2030",
+        "2031",
+        "2032",
+        "2033",
+        "2034",
+        "2035"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16614/panels/21466",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16614"
+    },
+    {
+      "id": 21467,
+      "name": "Panel 2",
+      "abbreviation": "Panel 2",
+      "years": [
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16614/panels/21467",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16614"
+    },
+    {
+      "id": 21468,
+      "name": "Panel 3",
+      "abbreviation": "Panel 3",
+      "years": [
+        "2026",
+        "2027",
+        "2028",
+        "2029",
+        "2030"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16614/panels/21468",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16614"
+    },
+    {
+      "id": 21469,
+      "name": "Panel 4",
+      "abbreviation": "Panel 4",
+      "years": [
+        "2031",
+        "2032",
+        "2033",
+        "2034",
+        "2035"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16614/panels/21469",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16614"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24205,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16614/strata/24205",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16614"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/19",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1761",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16614/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16614",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16614/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16614",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16614",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11517"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16614,
+  "title": "McKay Creek Spawning Surveys",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16614",
+  "spatialDesignCategory": "Systematic, Non-Stratified",
+  "spatialDesignCategoryID": 4,
+  "lastUpdated": "2020-10-12T23:58:29-07:00"
+}

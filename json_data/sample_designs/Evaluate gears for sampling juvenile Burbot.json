@@ -1,0 +1,61 @@
+{
+  "description": "<p>Three gears will be evaluated initially: minnow traps (benthic), hoop nets (benthic), and mid-water trawl (pelagic).</p>\r\n\r\n<p>Benthic gears &ndash; An equal probability, unstratified general random tessellation stratified (GRTS) survey design (Stevens and Olsen 2004; Kincaid and Olsen 2013) will be used. Initially, we will complete 30 sets with each gear in Lake Roosevelt near the mouth of the Sanpoil River in the fall.</p>\r\n\r\n<p>Pelagic Gears &ndash; An equal probability, stratified general random tessellation stratified (GRTS) survey design (Stevens and Olsen 2004; Kincaid and Olsen 2013) will be used to select the start of the mid-water trawl sites starting above Grand Coulee Dam and progressing upstream within the reservoir thalweg. Sampling will be restricted to the lower one third of Lake Roosevelt, per two previous incidental captures.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "startYear": "2022",
+  "retirementYear": "2025",
+  "initiationYear": "2022",
+  "targetPopulation": null,
+  "ownerName": "Jason McLellan",
+  "ownerEmail": "jason.mclellan@colvilletribes.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 21982,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2022"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16830/panels/21982",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16830"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24476,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16830/strata/24476",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16830"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/21",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1846",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16830/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16830",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16830/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16830",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16827",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11595"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC4 - Sub Basin",
+      "areaDisplayName": "Sanpoil"
+    },
+    {
+      "areaTypeName": "HUC3 - Basin",
+      "areaDisplayName": "Upper Columbia"
+    }
+  ],
+  "id": 16830,
+  "title": "Evaluate gears for sampling juvenile Burbot",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16830",
+  "spatialDesignCategory": "Simple Random Sample, Non-Stratified",
+  "spatialDesignCategoryID": 1,
+  "lastUpdated": "2022-12-03T04:52:21-08:00"
+}

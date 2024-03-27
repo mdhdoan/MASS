@@ -1,0 +1,64 @@
+{
+  "description": "No valid data",
+  "startYear": "2016",
+  "retirementYear": "",
+  "initiationYear": "2016",
+  "targetPopulation": "<p>Perennial streams/rivers on BLM land in the Boise District&nbsp;</p>\r\n",
+  "ownerName": "Scott Miller",
+  "ownerEmail": "scott.miller@usu.edu",
+  "images": [],
+  "panels": [
+    {
+      "id": 7057,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2016"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2553/panels/7057",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2553"
+    }
+  ],
+  "strata": [
+    {
+      "id": 9080,
+      "name": "Large Streams (3&4)",
+      "abbreviation": "S1",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2553/strata/9080",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2553"
+    },
+    {
+      "id": 9081,
+      "name": "Rivers (5+)",
+      "abbreviation": "S2",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2553/strata/9081",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2553"
+    },
+    {
+      "id": 9079,
+      "name": "Small Streams (1&2)",
+      "abbreviation": "S0",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2553/strata/9079",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2553"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/78",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1335",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/2553/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/2553",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/2553/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/2553",
+  "masterSample": {
+    "name": "Bureau of Land Management Lotic",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/8"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 2553,
+  "title": "ID-BoiseDistrict",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/2553",
+  "spatialDesignCategory": "Generalized Random Tessellation Stratified (GRTS)",
+  "spatialDesignCategoryID": 18,
+  "lastUpdated": "2017-10-03T05:51:51-07:00"
+}

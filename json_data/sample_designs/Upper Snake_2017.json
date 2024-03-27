@@ -1,0 +1,84 @@
+{
+  "description": "No valid data",
+  "startYear": "2017",
+  "retirementYear": "",
+  "initiationYear": "2017",
+  "targetPopulation": "<p>BLM perennial streams and rivers in the Upper Snake FO, ID</p>\r\n",
+  "ownerName": "Scott Miller",
+  "ownerEmail": "scott.miller@usu.edu",
+  "images": [],
+  "panels": [
+    {
+      "id": 8480,
+      "name": "Year 1",
+      "abbreviation": "YR1",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2639/panels/8480",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2639"
+    },
+    {
+      "id": 8481,
+      "name": "Year 2",
+      "abbreviation": "YR2",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2639/panels/8481",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2639"
+    },
+    {
+      "id": 8482,
+      "name": "Year 3",
+      "abbreviation": "YR3",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2639/panels/8482",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2639"
+    }
+  ],
+  "strata": [
+    {
+      "id": 10642,
+      "name": "Large Streams (3&4)",
+      "abbreviation": "LS",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2639/strata/10642",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2639"
+    },
+    {
+      "id": 10643,
+      "name": "Rivers (5+)",
+      "abbreviation": "RV",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2639/strata/10643",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2639"
+    },
+    {
+      "id": 10644,
+      "name": "Small Streams (1&2)",
+      "abbreviation": "SS",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2639/strata/10644",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2639"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/78",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1335",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/2639/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/2639",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/2639/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/2639",
+  "masterSample": {
+    "name": "Bureau of Land Management Lotic",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/8"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 2639,
+  "title": "Upper Snake_2017",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/2639",
+  "spatialDesignCategory": "Generalized Random Tessellation Stratified (GRTS)",
+  "spatialDesignCategoryID": 18,
+  "lastUpdated": "2017-10-03T05:54:36-07:00"
+}

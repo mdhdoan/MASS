@@ -1,0 +1,52 @@
+{
+  "description": "<p>Permanent vegetation plot monitoring on restoration fields associated with the Buford parcel. 100 microplots are evaluated for cover and frequency of key native species to evaluate effectiveness of restoration work.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "startYear": "2019",
+  "retirementYear": "2025",
+  "initiationYear": "2019",
+  "targetPopulation": null,
+  "ownerName": "Angela Sondenaa",
+  "ownerEmail": "angelas@nezperce.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 19857,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16387/panels/19857",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16387"
+    }
+  ],
+  "strata": [
+    {
+      "id": 22904,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16387/strata/22904",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16387"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1178",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16387/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16387",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16387/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16387",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 50471 (13854)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/6866"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16387,
+  "title": "Grassland Restoration Monitoring on the Precious Lands Wildlife Management Area (Buford Parcel)",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16387",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2019-10-18T10:57:41-07:00"
+}

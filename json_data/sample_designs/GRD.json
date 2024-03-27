@@ -1,0 +1,165 @@
+{
+  "description": "No valid data",
+  "startYear": "2016",
+  "retirementYear": "",
+  "initiationYear": "2016",
+  "targetPopulation": "<p>Perennial streams on BLM land in the Price and Vernal FOs, UT</p>\r\n",
+  "ownerName": "Scott Miller",
+  "ownerEmail": "scott.miller@usu.edu",
+  "images": [],
+  "panels": [
+    {
+      "id": 6938,
+      "name": "Year 1",
+      "abbreviation": "Yr1",
+      "years": [
+        "2016"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2515/panels/6938",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2515"
+    },
+    {
+      "id": 6939,
+      "name": "Year 2",
+      "abbreviation": "Yr2",
+      "years": [
+        "2016"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2515/panels/6939",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2515"
+    }
+  ],
+  "strata": [
+    {
+      "id": 8488,
+      "name": "Price-1.0",
+      "abbreviation": "S0",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2515/strata/8488",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2515"
+    },
+    {
+      "id": 8489,
+      "name": "Price-2.0",
+      "abbreviation": "S1",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2515/strata/8489",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2515"
+    },
+    {
+      "id": 8490,
+      "name": "Price-3.0",
+      "abbreviation": "S2",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2515/strata/8490",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2515"
+    },
+    {
+      "id": 8491,
+      "name": "Price-4.0",
+      "abbreviation": "S3",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2515/strata/8491",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2515"
+    },
+    {
+      "id": 8492,
+      "name": "Price-5.0",
+      "abbreviation": "S4",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2515/strata/8492",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2515"
+    },
+    {
+      "id": 8493,
+      "name": "Price-6.0",
+      "abbreviation": "S5",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2515/strata/8493",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2515"
+    },
+    {
+      "id": 8494,
+      "name": "Price-7.0",
+      "abbreviation": "S6",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2515/strata/8494",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2515"
+    },
+    {
+      "id": 8495,
+      "name": "Price-8.0",
+      "abbreviation": "S7",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2515/strata/8495",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2515"
+    },
+    {
+      "id": 8496,
+      "name": "Vernal-1.0",
+      "abbreviation": "S8",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2515/strata/8496",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2515"
+    },
+    {
+      "id": 8497,
+      "name": "Vernal-2.0",
+      "abbreviation": "S9",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2515/strata/8497",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2515"
+    },
+    {
+      "id": 8498,
+      "name": "Vernal-3.0",
+      "abbreviation": "S10",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2515/strata/8498",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2515"
+    },
+    {
+      "id": 8499,
+      "name": "Vernal-4.0",
+      "abbreviation": "S11",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2515/strata/8499",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2515"
+    },
+    {
+      "id": 8500,
+      "name": "Vernal-5.0",
+      "abbreviation": "S12",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2515/strata/8500",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2515"
+    },
+    {
+      "id": 8501,
+      "name": "Vernal-6.0",
+      "abbreviation": "S13",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2515/strata/8501",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2515"
+    },
+    {
+      "id": 8502,
+      "name": "Vernal-7.0",
+      "abbreviation": "S14",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2515/strata/8502",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2515"
+    },
+    {
+      "id": 8503,
+      "name": "Vernal-8.0",
+      "abbreviation": "S15",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2515/strata/8503",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2515"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/78",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1335",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/2515/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/2515",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/2515/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/2515",
+  "masterSample": {
+    "name": "Bureau of Land Management Lotic",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/8"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 2515,
+  "title": "GRD",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/2515",
+  "spatialDesignCategory": "Generalized Random Tessellation Stratified (GRTS)",
+  "spatialDesignCategoryID": 18,
+  "lastUpdated": "2017-10-03T05:53:03-07:00"
+}

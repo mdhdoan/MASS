@@ -1,0 +1,37 @@
+{
+  "description": "<p>Single-year pre-implementation survey to be conducted throughout site extent of proposed projects. Timing of post-implementation survey not currently available.</p>\r\n",
+  "startYear": "2019",
+  "retirementYear": "",
+  "initiationYear": "2019",
+  "targetPopulation": null,
+  "ownerName": "Clint Chandler",
+  "ownerEmail": "clintc@nezperce.org",
+  "images": [],
+  "panels": [],
+  "strata": [],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/24",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1667",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16254/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16254",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16254/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16254",
+  "masterSample": null,
+  "userSamples": null,
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.551934, -117.490099"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.485265, -117.432622"
+    }
+  ],
+  "id": 16254,
+  "title": "Lostine River Rapid Habitat Assessment",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16254",
+  "spatialDesignCategory": "Inference",
+  "spatialDesignCategoryID": 16,
+  "lastUpdated": "2019-01-05T05:13:49-08:00"
+}

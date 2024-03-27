@@ -1,0 +1,52 @@
+{
+  "description": "<p>Water temperature, stream flow, and turbidity measurements will be taken in the North Fork Walla Walla River above and below the treatment reach (RM 4-9) and also at the mouth of the primary tributary, Little Meadow Creek.&nbsp;</p>\r\n\r\n<p>A year-round stream gauge will be operated near the mouth of the N. Fork to produce a continue record of stream flow.&nbsp;</p>\r\n\r\n<p>Riparian surveys will be conducted in a reference reach (above the project)&nbsp;and at 5 locations within the treatment reach.&nbsp;</p>\r\n\r\n<p>The study will include data&nbsp;collection&nbsp;prior to restoration treatment and repeat sampling each year following implementation for 5 years.&nbsp;</p>\r\n",
+  "startYear": "2022",
+  "retirementYear": "2027",
+  "initiationYear": "2022",
+  "targetPopulation": null,
+  "ownerName": "Tara Patten",
+  "ownerEmail": "tara.patten@wwbwc.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 21874,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2022"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16778/panels/21874",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16778"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24416,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16778/strata/24416",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16778"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/94",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1822",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16778/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16778",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16778/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16778",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16778",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11566"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16778,
+  "title": "Aquatic Habitat Restoration Effectiveness Monitoring: Water Quality",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16778",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2022-01-27T04:49:52-08:00"
+}

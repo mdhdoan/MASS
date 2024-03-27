@@ -1,0 +1,1837 @@
+{
+  "description": "<p>Conduct snorkel surveys to estimate density, distribution, and size structure of Chinook and steelhead parr. &nbsp;Sites will be selected based on a rotating designs&nbsp;(intensive,&nbsp;and historical panels). All salmonid species observed will be enumerated by length group. At selected sites, detection efficiency of crews will be assessed.&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Actual site bounds may be adjusted to fit within hydraulic controls. The percentage of each habitat type (pool, pocket water, riffle, or run) within the site will be visually estimated and recorded. One to five snorkelers will count fish in each site, depending on the stream size and visibility. All salmonids observed will be counted and individual size estimated to the nearest inch while moving slowly upstream. Steelhead parr will be assigned an age based on length. Non-salmonid species observed will be noted as present. After each site is snorkeled, site length and up to ten widths will be measured to calculate surface area. Gross habitat characteristics are also evaluated.</p>\r\n\r\n<p>The efficiency of crews at detecting juvenile steelhead will be evaluated at a subset of sites. A protocol modified from Thurow et al. (2006) will allow for estimates of efficiency through observation of marked individuals. In short, juvenile steelhead will be caught (by angling), measured, marked (caudal notch), and released within the selected site. The next day, snorkeling will begin approximately 50 m downstream of the main transect and number of marked fish will be recorded. Then, the main section is snorkeled and all salmonids are counted and recorded by length group. Finally, a section approximately 50 m in length upstream of the main section is snorkeled and number of marked fish is recorded. The habitat variables described by Thurow et al. (2006) are measured in the target section. The intent is to use these data to validate the use of Thurow et al.&rsquo;s (2006) model relating habitat conditions to daytime snorkel survey efficiency for O. mykiss. A target of 10% of the sites sampled is desired to assess crew efficiency.</p>\r\n\r\n<p>Juvenile Chinook Salmon and steelhead densities (numbers/sq. m) will be estimated by site for all streams in which IDFG performed snorkel surveys. Densities from extensive and intensive panels are summarized for all surveyed reaches by sub-basin. Densities from historical sites are compared across years to assess trends.</p>\r\n",
+  "startYear": "2022",
+  "retirementYear": "2023",
+  "initiationYear": "2022",
+  "targetPopulation": null,
+  "ownerName": "Luciano Chiaramonte",
+  "ownerEmail": "luciano.chiaramonte@idfg.idaho.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 21797,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2022"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16755/panels/21797",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16755"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24367,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16755/strata/24367",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16755"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/65",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/470",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16755/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16755",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16755/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16755",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16755",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11550"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "43.977665,-114.846168"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.000643,-114.832322"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.035590,-114.834720"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.040691,-114.461184"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.056000,-114.461419"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.128376,-114.872543"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.150416,-114.914051"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.165916,-114.891019"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.170493,-114.902747"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.232960,-114.987290"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.256107,-114.690707"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.256347,-114.515626"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.259317,-115.480993"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.263546,-114.817596"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.274057,-114.518380"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.276326,-114.846815"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.277161,-114.836776"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.277846,-114.843069"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.278736,-114.855319"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.280136,-115.010594"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.282817,-114.860954"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.282981,-114.850085"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.289085,-114.870261"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.290980,-114.872078"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.291178,-114.843904"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.294998,-114.877459"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.298742,-115.197106"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.299084,-114.840817"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.300074,-115.043286"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.300489,-114.839932"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.306590,-114.882244"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.307970,-114.838472"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.312304,-114.829788"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.319917,-114.884853"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.323056,-114.886168"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.329035,-114.890198"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.335233,-114.897453"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.338604,-115.056960"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.343719,-114.900295"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.345093,-115.151503"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.355848,-115.141704"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.357116,-115.206194"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.357815,-114.902412"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.359459,-115.203660"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.364789,-115.131225"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.365940,-115.130810"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.370529,-115.120060"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.370569,-115.120475"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.370577,-115.119857"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.376939,-115.106155"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.377043,-115.107989"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.377269,-115.188918"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.380757,-115.151149"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.392524,-115.164459"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.394305,-115.087080"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.394319,-115.087021"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.400010,-115.169102"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.406956,-115.168206"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.407536,-115.370883"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.407980,-115.174629"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.408802,-115.063647"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.409154,-115.062503"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.414398,-115.459081"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.417630,-115.040080"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.417785,-115.455939"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.418842,-115.129581"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.423957,-115.191968"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.424429,-115.300804"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.425303,-115.195628"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.427601,-115.472202"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.432942,-115.265081"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.437532,-115.102279"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.439288,-115.052941"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.440400,-115.210679"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.441382,-115.015336"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.442254,-115.089614"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.451289,-115.044091"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.454280,-115.450453"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.456986,-115.098059"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.462908,-115.030822"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.483299,-115.704954"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.490346,-114.984594"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.494390,-114.973281"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.499437,-115.655372"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.508503,-114.191984"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.531801,-115.293059"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.538020,-115.688230"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.557870,-115.682920"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.567268,-115.300556"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.580873,-115.684735"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.584210,-115.683112"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.593290,-115.688010"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.596168,-115.290880"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.604450,-115.680742"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.604501,-115.520142"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.615476,-115.256038"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.619083,-113.982712"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.623360,-115.690420"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.623541,-113.988790"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.628026,-115.196272"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.632483,-115.526027"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.632705,-115.695826"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.634880,-115.694360"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.636829,-115.543261"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.637286,-115.539599"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.650359,-115.165808"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.655460,-115.660440"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.658970,-115.673730"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.661290,-115.539780"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.667398,-114.230648"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.679586,-115.153214"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.681752,-115.662602"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.683552,-114.039911"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.684733,-115.705701"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.685349,-115.543187"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.695934,-114.760724"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.703431,-113.396025"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.704677,-115.701384"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.707472,-114.774514"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.709218,-114.779414"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.712100,-115.641070"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.713100,-115.696260"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.718869,-113.411284"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.719895,-115.695520"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.720326,-115.159470"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.721269,-115.156464"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.722874,-114.962353"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.723379,-114.998207"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.727422,-113.433397"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.730586,-115.552495"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.733493,-115.550964"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.739422,-114.921245"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.740858,-115.016653"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.742146,-115.022731"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.743256,-115.017285"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.746785,-115.506636"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.749100,-113.475879"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.750500,-114.916647"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.754863,-115.686656"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.757226,-115.112525"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.759807,-113.712902"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.764314,-115.073404"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.769359,-115.091194"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.769792,-115.096972"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.776820,-113.742760"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.783364,-114.851680"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.784751,-114.860133"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.793294,-113.778384"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.794798,-115.696600"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.797339,-114.838142"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.799248,-115.519652"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.799833,-114.806054"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.804849,-114.808097"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.832630,-114.506010"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.833240,-115.704637"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.835994,-114.792585"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.836609,-113.667387"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.840406,-114.782855"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.852707,-115.694794"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.859990,-114.542550"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.863280,-115.508231"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.865440,-115.507189"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.865962,-114.555038"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.879121,-114.748838"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.891233,-114.719311"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.891757,-114.720113"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.896755,-115.494577"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.897443,-115.493991"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.902305,-115.710418"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.910471,-115.080925"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.910860,-115.755020"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.913440,-115.483700"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.917650,-115.725720"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.917793,-115.483425"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.924080,-115.737460"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.928172,-115.100345"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.928671,-115.742938"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.936247,-115.339557"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.940810,-115.496540"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.940834,-115.496870"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.942090,-115.739190"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.946559,-115.105586"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.947366,-115.589202"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.949063,-115.573384"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.952728,-115.363853"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.955204,-115.179433"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.955319,-115.535153"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.955350,-114.733949"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.957240,-114.353830"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.957338,-115.374647"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.962312,-115.460749"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.963715,-115.724680"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.968723,-114.730355"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.968760,-115.478210"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.968966,-115.494575"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.972257,-115.171630"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.978613,-115.167908"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.983197,-114.734038"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.999607,-115.761663"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.002606,-115.719162"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.005004,-115.141525"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.006053,-114.329267"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.006580,-115.711191"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.030105,-115.119190"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.030589,-115.694106"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.034776,-115.409516"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.043265,-115.481374"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.057401,-114.724661"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.062901,-115.762202"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.071682,-115.784611"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.076279,-115.643095"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.093636,-114.732422"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.094132,-114.734186"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.100246,-115.330933"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.104796,-114.860578"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.118705,-115.319834"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.119181,-114.722704"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.126696,-114.937245"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.134234,-116.414548"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.155468,-116.384780"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.182998,-116.283070"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.183823,-116.299163"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.189371,-114.700222"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.194619,-116.320667"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.196208,-115.819544"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.203768,-116.310935"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.204486,-116.311009"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.220466,-114.681950"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.227154,-116.445511"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.230643,-114.319186"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.235082,-114.668664"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.236448,-115.810333"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.239068,-114.662371"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.252870,-116.435843"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.260451,-114.644361"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.260762,-116.431057"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.267111,-115.846051"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.271165,-115.913987"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.281792,-114.606942"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.283894,-114.606847"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.296711,-116.422595"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.304032,-114.391747"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.304419,-116.420643"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.305680,-114.393042"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.306992,-116.420499"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.331116,-115.949868"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.334018,-116.406215"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.347487,-114.274819"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.351555,-116.398196"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.363238,-114.299950"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.371455,-115.198782"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.374206,-116.355389"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.382331,-115.166540"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.390761,-115.193289"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.397044,-115.193567"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.397611,-114.732944"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.401049,-114.736128"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.417444,-113.993661"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.418369,-115.463543"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.441826,-115.662493"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.446804,-115.655221"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.453373,-114.937231"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.469770,-113.996400"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.470977,-115.811187"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.479262,-113.852789"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.484519,-113.983451"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.486336,-113.831627"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.489780,-113.970519"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.498159,-113.963429"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.524095,-113.935903"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.532873,-114.053654"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.536665,-115.262281"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.539914,-115.273600"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.540570,-113.929419"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.562554,-113.856187"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.570217,-115.192475"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.573311,-115.189681"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.613620,-113.998496"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.616497,-114.003025"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.620152,-114.010585"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.620918,-114.036003"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.624236,-116.068929"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.632371,-116.228500"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.634472,-116.194090"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.636813,-116.160958"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.639118,-116.137604"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.654895,-113.969828"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.665827,-115.852600"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.671989,-115.543226"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.673475,-115.835243"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.676222,-115.583773"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.677358,-115.542778"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.677802,-115.839864"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.690402,-115.562151"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.694229,-115.549735"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.694666,-115.548775"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.695096,-114.715697"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.700057,-114.641342"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.704352,-115.543947"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.706527,-114.689336"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.711166,-115.349484"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.718056,-115.370436"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.719009,-115.534324"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.721736,-115.531118"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.727510,-115.384216"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.727680,-115.529014"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.729100,-115.387193"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.729680,-115.389095"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.731537,-115.525277"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.737409,-114.760065"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.739878,-115.302775"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.743548,-115.298779"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.749437,-114.770516"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.750000,-115.520701"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.750597,-114.778939"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.751697,-115.660285"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.752210,-114.776266"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.752347,-115.503237"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.753348,-114.777661"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.756836,-115.536067"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.759636,-115.537896"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.760537,-115.242214"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.761357,-115.659502"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.765426,-116.065090"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.775978,-115.216056"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.778093,-115.387929"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.778231,-115.555706"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.779918,-115.387893"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.783148,-116.218416"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.789552,-116.228077"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.791423,-116.231597"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.791550,-115.554676"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.795801,-115.428874"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.795897,-115.765936"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.798927,-115.531101"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.799305,-115.467333"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.800297,-115.710279"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.803178,-115.530007"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.809932,-115.664284"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.810073,-115.475685"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.810910,-115.433176"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.812438,-115.469468"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.813509,-115.814676"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.818922,-115.887305"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.819261,-115.887528"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.821225,-115.527862"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.825690,-115.597310"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.825852,-115.510462"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.826079,-115.627515"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.828642,-115.876646"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.829201,-115.927624"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.829622,-115.971536"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.829977,-115.557907"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.831510,-115.410729"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.845331,-115.416194"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.860129,-114.744305"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.861106,-116.021470"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.863423,-115.429356"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.866200,-114.757060"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.867460,-114.729037"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.867859,-115.435535"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.883529,-114.691813"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.887361,-115.448330"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.891800,-116.039837"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.898461,-115.457536"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.908517,-114.854029"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.914362,-116.006995"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.915459,-115.465707"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.918054,-115.466132"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.918820,-114.833290"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.940007,-114.834112"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.941880,-114.830330"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.949668,-115.998116"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.969680,-115.963498"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.973658,-116.735153"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.003722,-116.709665"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.004470,-114.842520"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.019070,-114.823919"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.019147,-114.838233"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.022810,-114.844860"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.030125,-115.290063"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.037680,-114.839410"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.038557,-115.982072"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.046411,-115.220667"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.093400,-115.095980"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.098280,-115.079320"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.100000,-115.017910"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.105610,-114.901180"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.112161,-115.072110"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.120410,-114.939910"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.124330,-114.931690"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.165199,-115.588053"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.190847,-114.874717"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.224113,-115.430689"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.225451,-115.432497"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.231976,-115.407133"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.232469,-115.408219"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.251035,-115.385106"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.333625,-115.345716"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.337649,-115.352460"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.341754,-115.355695"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.432595,-114.553062"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.436085,-114.863287"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.452356,-115.076794"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.460252,-114.990054"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.466157,-114.543191"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.468093,-116.418269"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.472692,-114.888286"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.473364,-114.560061"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.480537,-114.983447"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.484584,-114.975282"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.492276,-114.857656"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.492772,-114.612350"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.508426,-114.681144"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.513656,-114.758770"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.514358,-114.643420"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.518410,-114.496314"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.523567,-114.492108"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.528310,-114.869069"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.529790,-114.911671"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.540244,-114.419827"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.559898,-114.885895"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.562732,-114.647469"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.571359,-114.570015"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.576805,-114.594610"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.581461,-114.611176"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.596458,-114.614409"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.597038,-114.618877"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.665364,-114.679353"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.672914,-116.709301"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.673893,-114.679031"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.675346,-114.688107"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.692980,-114.916771"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.849680,-116.358700"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.851118,-116.363228"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.857225,-116.324173"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.859355,-116.304340"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.859748,-116.309587"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.860951,-116.285388"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.864150,-116.283502"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.873388,-116.274809"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.875762,-116.272245"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.881267,-116.234947"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.882649,-116.233617"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.892445,-116.226192"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.899069,-116.214766"
+    }
+  ],
+  "id": 16755,
+  "title": "Snorkel streams to estimate juvenile densities (Salmon & Clearwater River tributaries) - Idaho Department of Fish and Game (IDFG) Trends",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16755",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2023-12-01T06:39:26-08:00"
+}

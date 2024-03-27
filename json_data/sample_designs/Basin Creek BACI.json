@@ -1,0 +1,71 @@
+{
+  "description": "<p>This is a before-after-control-impact experiment on Basin and Mahogany Creeks, tributaries to the upper Snake River, in northwestern Utah.&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "startYear": "2014",
+  "retirementYear": "",
+  "initiationYear": "2014",
+  "targetPopulation": null,
+  "ownerName": "Nathaniel Hough-Snee",
+  "ownerEmail": "nate@natehough-snee.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 2220,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15872/panels/2220",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15872"
+    }
+  ],
+  "strata": [
+    {
+      "id": 2980,
+      "name": "Control",
+      "abbreviation": "C",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15872/strata/2980",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15872"
+    },
+    {
+      "id": 2981,
+      "name": "Stage One Restoration",
+      "abbreviation": "S1R",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15872/strata/2981",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15872"
+    },
+    {
+      "id": 2982,
+      "name": "Stage Three Restoration",
+      "abbreviation": "S3R",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15872/strata/2982",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15872"
+    },
+    {
+      "id": 2983,
+      "name": "Stage Two Restoration",
+      "abbreviation": "S2R",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15872/strata/2983",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15872"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/18",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/215",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15872/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15872",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15872/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15872",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Basin Creek Restoration",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1060"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 15872,
+  "title": "Basin Creek BACI",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15872",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2014-07-03T00:51:14-07:00"
+}

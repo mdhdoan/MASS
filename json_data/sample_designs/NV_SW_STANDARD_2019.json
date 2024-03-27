@@ -1,0 +1,62 @@
+{
+  "description": "No valid data",
+  "startYear": "2019",
+  "retirementYear": "",
+  "initiationYear": "2019",
+  "targetPopulation": "<p>All perennial streams and rivers on BLM land within the Stillwater Field&nbsp;Office.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "ownerName": "Nicole Cappuccio",
+  "ownerEmail": "ncappuccio@blm.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 19722,
+      "name": "2019",
+      "abbreviation": "2019",
+      "years": [
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16332/panels/19722",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16332"
+    }
+  ],
+  "strata": [
+    {
+      "id": 22715,
+      "name": "Large Streams (3&4)",
+      "abbreviation": "LS",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16332/strata/22715",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16332"
+    },
+    {
+      "id": 22716,
+      "name": "Small Streams (1&2)",
+      "abbreviation": "SS",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16332/strata/22716",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16332"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/78",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1335",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16332/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16332",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16332/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16332",
+  "masterSample": {
+    "name": "Bureau of Land Management Lotic",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/8"
+  },
+  "userSamples": [
+    {
+      "name": "NV_SW_17April2019",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11373"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16332,
+  "title": "NV_SW_STANDARD_2019",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16332",
+  "spatialDesignCategory": "Generalized Random Tessellation Stratified (GRTS)",
+  "spatialDesignCategoryID": 18,
+  "lastUpdated": "2019-04-18T04:53:33-07:00"
+}

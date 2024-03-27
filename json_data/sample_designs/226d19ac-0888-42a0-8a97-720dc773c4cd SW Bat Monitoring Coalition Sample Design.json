@@ -1,0 +1,50 @@
+{
+  "description": "No valid data",
+  "startYear": "2017",
+  "retirementYear": "2017",
+  "initiationYear": "2017",
+  "targetPopulation": null,
+  "ownerName": "Brian Reichert",
+  "ownerEmail": "breichert@usgs.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 19265,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15695/panels/19265",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15695"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21681,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15695/strata/21681",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15695"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/80",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1526",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15695/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15695",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15695/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15695",
+  "masterSample": {
+    "name": "Continental United States 10 KM Grid",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/10"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 15695,
+  "title": "226d19ac-0888-42a0-8a97-720dc773c4cd SW Bat Monitoring Coalition Sample Design",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15695",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": "2018-05-19T01:15:16-07:00"
+}

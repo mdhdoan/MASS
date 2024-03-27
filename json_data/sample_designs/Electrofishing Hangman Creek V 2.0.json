@@ -1,0 +1,57 @@
+{
+  "description": "<p>COPY:</p>\r\n",
+  "startYear": "2019",
+  "retirementYear": "2021",
+  "initiationYear": "2019",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Thomas Biladeau",
+  "ownerEmail": "tbiladeau@cdatribe-nsn.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 19665,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16275/panels/19665",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16275"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21998,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16275/strata/21998",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16275"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/70",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1404",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16275/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16275",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16275/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16275",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Electrofishing Index Sites in Hangman Watershed",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11251"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC5 - Watershed",
+      "areaDisplayName": "Upper Hangman Creek"
+    }
+  ],
+  "id": 16275,
+  "title": "Electrofishing Hangman Creek V 2.0",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16275",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2019-01-19T02:58:36-08:00"
+}

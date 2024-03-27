@@ -1,0 +1,65 @@
+{
+  "description": "<p>&nbsp;</p>\r\n\r\n<p>Tissue samples collected from&nbsp;a minimum of 10% (up to 20%) of all Age-0 and Age-1 Brook Trout collected annually during suppression activities (i.e., backpack electrofishing) in the Mill Creek project area. Samples will be processed by the WDFW Molecular Genetic Laboratory to determine if M<sub>YY</sub>&nbsp;Brook Trout have spawned successfully with extant females, and are shifting the sex ratio&nbsp;toward males.</p>\r\n\r\n<p>Samples will be collected in equal proportion&nbsp;across the distibution of extant and stocked M<sub>YY</sub>&nbsp;Brook Trout in Mill, Sylvis, and Nola Creeks (Mill Creek Subbasin). Samples will be collected as suppression activities progress through the watershed in June-September each year.</p>\r\n",
+  "startYear": "2020",
+  "retirementYear": "2021",
+  "initiationYear": "2020",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Nick Bean",
+  "ownerEmail": "nbean@knrd.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 20156,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16494/panels/20156",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16494"
+    }
+  ],
+  "strata": [
+    {
+      "id": 23054,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16494/strata/23054",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16494"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/89",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1737",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16494/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16494",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16494/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16494",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16470",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11429"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Rivers 100k",
+      "areaDisplayName": "Mill Creek"
+    },
+    {
+      "areaTypeName": "Rivers - Streams 24k",
+      "areaDisplayName": "Sylvis Creek"
+    },
+    {
+      "areaTypeName": "Rivers - Streams 24k",
+      "areaDisplayName": "Nola Creek"
+    }
+  ],
+  "id": 16494,
+  "title": "Kalispel Tribe Myy Brook Trout Reproductive Success Evaluation in Mill Creek, cloned for Study Design 1733",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16494",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": "2020-02-14T02:01:41-08:00"
+}

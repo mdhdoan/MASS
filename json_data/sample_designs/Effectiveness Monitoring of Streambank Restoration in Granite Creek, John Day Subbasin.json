@@ -1,0 +1,63 @@
+{
+  "description": "<p>This design aims to monitor the treatment and control locations for effectiveness monitoring of the&nbsp;streambank&nbsp;restoration projects&nbsp;implemented by the Confederated Tribes of the&nbsp;Umatilla. &nbsp;&nbsp;2013 efforts included three wood structures to stabilize&nbsp;streambanks&nbsp;all save one with associated willow cuttings, one small wood gravel bar structure with associated willow cuttings, and one buried rock weir.\u200b &nbsp;The treatments occurred at and above the upstream extent and ended ~100m below the lowest treatment, and the proposed sites within the treatment area were selected by CTUIR based on land ownership and feasibility.</p>\r\n\r\n<p>Upper/lower coordinates for the Granite Creek restoration area:&nbsp;44.8211107N - 118.488768W/44.8249366N &ndash; 118.4532153W</p>\r\n\r\n<p>Upper/lower coordinates for control area:&nbsp;44.80928700N/118.45906002W &ndash; 44.8121485N/118.4565070W</p>\r\n",
+  "startYear": "2013",
+  "retirementYear": "",
+  "initiationYear": "2013",
+  "targetPopulation": null,
+  "ownerName": "Gene Shippentower",
+  "ownerEmail": "geneshippentower@ctuir.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 2215,
+      "name": "Annual",
+      "abbreviation": "Ann",
+      "years": [
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/383/panels/2215",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/383"
+    }
+  ],
+  "strata": [
+    {
+      "id": 2968,
+      "name": "CTUIR Granite Creek Control",
+      "abbreviation": "Control",
+      "url": "http://www.monitoringresources.org/api/v1/designs/383/strata/2968",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/383"
+    },
+    {
+      "id": 2969,
+      "name": "CTUIR Granite Creek Treatment",
+      "abbreviation": "Treatment",
+      "url": "http://www.monitoringresources.org/api/v1/designs/383/strata/2969",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/383"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/18",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/201",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/383/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/383",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/383/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/383",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "AEM001 Legacy Sample",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1059"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 383,
+  "title": "Effectiveness Monitoring of Streambank Restoration in Granite Creek, John Day Subbasin",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/383",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2014-06-19T04:14:41-07:00"
+}

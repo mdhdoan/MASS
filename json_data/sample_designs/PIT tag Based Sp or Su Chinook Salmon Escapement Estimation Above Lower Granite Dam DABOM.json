@@ -1,0 +1,93 @@
+{
+  "description": "<p>Data analysis performed by this work element will be coordinated by NPT with co-managers from IDFG, ODFW, and WDFW.&nbsp; Completion of this work will produce abundance estimates of Snake River Basin Sp/Su Chinook salmon&nbsp;at each population and collaboratively approved sub-population IPTDS site, and a summary of abundances into ICTRT populations by sex and age categories.</p>\r\n",
+  "startYear": "2019",
+  "retirementYear": "",
+  "initiationYear": "2019",
+  "targetPopulation": null,
+  "ownerName": "Ryan Kinzer",
+  "ownerEmail": "ryank@nezperce.org",
+  "images": [],
+  "panels": [],
+  "strata": [],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/12",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1771",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16645/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16645",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16645/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16645",
+  "masterSample": null,
+  "userSamples": null,
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Imnaha River mainstem"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Lostine River"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Minam River"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "South Fork Salmon River mainstem"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Secesh River"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "Little Salmon and Rapid River"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Lemhi River"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Pahsimeroi River"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Salmon River lower mainstem below Redfish Lake"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "North Fork Salmon River"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "East Fork Salmon River"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "East Fork South Fork Salmon River"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Marsh Creek"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Valley Creek"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Salmon River upper mainstem above Redfish Lake"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Yankee Fork"
+    }
+  ],
+  "id": 16645,
+  "title": "PIT tag Based Sp/Su Chinook Salmon Escapement Estimation Above Lower Granite Dam DABOM",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16645",
+  "spatialDesignCategory": "Inference",
+  "spatialDesignCategoryID": 16,
+  "lastUpdated": "2020-11-14T07:02:41-08:00"
+}

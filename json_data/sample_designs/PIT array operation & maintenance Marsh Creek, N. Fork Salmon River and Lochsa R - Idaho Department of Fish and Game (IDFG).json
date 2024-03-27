@@ -1,0 +1,60 @@
+{
+  "description": "<div>In collaboration with BioMark project IDFG will provide staff to support PIT array O&amp;M.</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>Biomark and IDFG will work cooperatively in managing O&amp;M for select IDFG PIT Arrays at Lochsa River, N. Fork Salmon River, and Marsh Creek.</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>Biomark will work with IDFG to identify PIT array site owners and first responder staff.&nbsp; These staff will work with Biomark to conduct an annual operations site assessment and review basic O&amp;M practices for sites based on a PIT array site operations manual to be updated and maintained under the protocol In-Stream PIT tag Detection System (IPTDS) Data Standards v1.0 at https://www.monitoringresources.org/Document/Protocol/Details/2262 .&nbsp; Biomark will provide an annual training (WebEx or in-person) for IDFG personnel that outlines the basics of array installation, operation, and troubleshooting. Training will also outline minimum field expectations for IDFG field staff.</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "startYear": "2017",
+  "retirementYear": "2030",
+  "initiationYear": "2017",
+  "targetPopulation": null,
+  "ownerName": "Eric Stark",
+  "ownerEmail": "eric.stark@idfg.idaho.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 21418,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16597/panels/21418",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16597"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24187,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16597/strata/24187",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16597"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1287",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16597/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16597",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16597/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16597",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design Duwamish Test Design In-Stream PIT tag Detection System (IPTDS) Data Standards v1.0 WSE 125241 (2875)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/5795"
+    },
+    {
+      "name": "Sample for Design #2875",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11410"
+    },
+    {
+      "name": "Sample for Design #16597",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11509"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16597,
+  "title": "PIT array operation & maintenance: Marsh Creek, N. Fork Salmon River and Lochsa R - Idaho Department of Fish and Game (IDFG)",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16597",
+  "spatialDesignCategory": "Census: Restricted",
+  "spatialDesignCategoryID": 6,
+  "lastUpdated": "2020-09-10T22:43:05-07:00"
+}

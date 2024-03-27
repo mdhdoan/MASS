@@ -1,0 +1,61 @@
+{
+  "description": "<p>There were no changes to the Asotin design in 2015.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "startYear": "2011",
+  "retirementYear": "",
+  "initiationYear": "2012",
+  "targetPopulation": null,
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 3469,
+      "name": "Annual",
+      "abbreviation": "Annual",
+      "years": [
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15819/panels/3469",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15819"
+    }
+  ],
+  "strata": [
+    {
+      "id": 4576,
+      "name": "Asotin IMW",
+      "abbreviation": null,
+      "url": "http://www.monitoringresources.org/api/v1/designs/15819/strata/4576",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15819"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/18",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/216",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15819/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15819",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15819/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15819",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "ASW00001 Legacy Sample",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1012"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 15819,
+  "title": "Asotin Intensively Monitored Watershed Habitat Monitoring in 2014",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15819",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2015-05-08T06:25:06-07:00"
+}

@@ -1,0 +1,84 @@
+{
+  "description": "<p>Detection efficiencies will be determined on a yearly basis for PIT tagged adult steelhead and yearly or shorter interval period (dependent upon sample sizes) for juvenile steelhead at instream detection systems in the Wind River, WA. Detection efficiency estimates will be generated with both a direct measure (use of fish known to have passed a site) and by the method outlined in Connolly et al. 2008.</p>\r\n",
+  "startYear": "2012",
+  "retirementYear": "2030",
+  "initiationYear": "2012",
+  "targetPopulation": null,
+  "ownerName": "Ian Jezorek",
+  "ownerEmail": "ijezorek@usgs.gov",
+  "images": [
+    {
+      "type": "Document",
+      "url": "http://www.monitoringresources.org/Designer/Design/UploadAsFile/6249",
+      "caption": "Connolly et al. 2008 Detection Efficiency Paper"
+    },
+    {
+      "type": "Photo",
+      "url": "http://www.monitoringresources.org/Designer/Design/UploadAsFile/6250",
+      "caption": "Map of Steelhead sampling and detection sites in the Wind River subbasin, WA."
+    }
+  ],
+  "panels": [
+    {
+      "id": 21351,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2012"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16579/panels/21351",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16579"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24136,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16579/strata/24136",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16579"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/85",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1748",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16579/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16579",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16579/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16579",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design PTAGIS (1990-080-00) WSE 99863 (4516)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/3650"
+    },
+    {
+      "name": "BPA Sample for Study Design PTAGIS (1990-080-00) WSE 99509 (4514)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/4000"
+    },
+    {
+      "name": "BPA Sample for Study Design PTAGIS (1990-080-00) WSE 129649 (4499)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/10406"
+    },
+    {
+      "name": "Sample for Design #16575",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11501"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Steelhead Summer Lower Columbia Pop. Name",
+      "areaDisplayName": "Wind River"
+    },
+    {
+      "areaTypeName": "NPPC Subbasins",
+      "areaDisplayName": "WIND"
+    }
+  ],
+  "id": 16579,
+  "title": "Determine detection efficiencies for instream PIT tag interrogation systems for adult and juvenile Steelhead in the Wind River, WA",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16579",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2020-05-29T06:39:41-07:00"
+}

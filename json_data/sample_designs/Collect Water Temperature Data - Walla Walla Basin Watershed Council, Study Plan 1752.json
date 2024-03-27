@@ -1,0 +1,73 @@
+{
+  "description": "<p>Document continuous water temperature in the Walla Walla River and its tributaries</p>\r\n",
+  "startYear": "2021",
+  "retirementYear": "2023",
+  "initiationYear": "2021",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Troy Baker",
+  "ownerEmail": "troy.baker@wwbwc.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 21743,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16725/panels/21743",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16725"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24338,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16725/strata/24338",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16725"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/94",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1752",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16725/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16725",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16725/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16725",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16722",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11543"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.900563,-118.297284"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.891073,-118.238672"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.891400,-118.147960"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.891660,-118.148000"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.896778,-118.252528"
+    }
+  ],
+  "id": 16725,
+  "title": "Collect Water Temperature Data - Walla Walla Basin Watershed Council, Study Plan 1752",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16725",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2021-07-22T00:44:17-07:00"
+}

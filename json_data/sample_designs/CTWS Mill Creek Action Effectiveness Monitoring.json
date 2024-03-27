@@ -1,0 +1,68 @@
+{
+  "description": "<p>Data collection is part of the Action Effectiveness Monitoring instigated by BPA. A large scale habitat restoration project is planned on Mill Creek, transitioning a relict mill pond location back to a more functional river system. Two sites will be surveyed following BPA&#39;s &quot;Protocol for Monitoring the Effectiveness of Off-Channel Habitat / Floodplain Enhancement Projects.&quot; One site will be located within the project area while the other will be located outside the scope of work and will serve as a control.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "startYear": "2013",
+  "retirementYear": "2024",
+  "initiationYear": "2013",
+  "targetPopulation": null,
+  "ownerName": "Chris Moan",
+  "ownerEmail": "chris.moan@ctwsbnr.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 242,
+      "name": "Action Effectiveness Monitoring",
+      "abbreviation": "AEM",
+      "years": [
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/79/panels/242",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/79"
+    }
+  ],
+  "strata": [
+    {
+      "id": 753,
+      "name": "Control",
+      "abbreviation": "Ctrl",
+      "url": "http://www.monitoringresources.org/api/v1/designs/79/strata/753",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/79"
+    },
+    {
+      "id": 752,
+      "name": "Restoration",
+      "abbreviation": "Rest",
+      "url": "http://www.monitoringresources.org/api/v1/designs/79/strata/752",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/79"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/79/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/79",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/79/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/79",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Mill Creek Action Effectiveness Monitoring",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1033"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 79,
+  "title": "CTWS Mill Creek Action Effectiveness Monitoring",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/79",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2013-09-27T07:05:45-07:00"
+}

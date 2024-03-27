@@ -1,0 +1,87 @@
+{
+  "description": "<p>The sample design for implementation of CRITFC&#39;s Tributary Habitat Assessment Protocol was intended to provide a spatially continuous snapshot of fish habitat conditions collected over a three year period (2021-2013) within the current extent of Spring Chinook Salmon use in the upper Grande Ronde River and Catherine Creek subbasins in NE Oregon. Site locations provided here represent the midpoint of adjoining stream segments, although&nbsp;field measurements will generally cover the full length of each segment.&nbsp;</p>\r\n\r\n<p>We delineated stream segments using the National Hydrography Dataset High Resolution flowlines (NHDPlus HR, 1:24K scale) as a starting point. Segment boundaries were based on the presence of large tributary junctions (Strahler order &ge; 4) or significant changes in valley confinement and gradient. Stream reaches falling between these break points were lumped together into a &lsquo;segment&rsquo; and assigned a unique identification number. With a few exceptions, we used a minimum segment length of 1 km, consistent with the spacing of GRTS master sample points used by CHaMP and other programs to characterize broad-scale status and trends in fish habitat conditions. Segments were grouped by 12-digit hydrologic unit code (HUC) watershed boundaries consistent with the National Watershed Boundary Dataset (WBD) to facilitate data tracking and management.</p>\r\n\r\n<p>The temporal design utilizes a simple three-panel structure in which a full census of all stream segments within each panel are sampled each year. Panel 1 (sample year 2021)&nbsp;represents all Tier I habitat within the upper Grande Ronde River Spring Chinook Salmon population area as designated by the Grande Ronde Atlas process (Atlas partners 2015). Additionally, some Tier II habitat was also included in this panel to evaluate specific restoration areas. Panel 2 (sample year 2022) represents all Tier I and II habitat within the Catherine Creek Spring Chinook Salmon population area. Panel 3 (sample year 2023) represents all Tier II habitat in the upper Grande Ronde Spring Chinook Salmon population area.</p>\r\n\r\n<p>References:</p>\r\n\r\n<p>Atlas partners. 2015. Atlas implementation guidelines - Catherine Creek and upper Grande Ronde River. Page 17.&nbsp;https://www.grmw.org/static/documents/atlas/Atlas%20Implementation%20Guidelines%20(6-8-15).pdf</p>\r\n",
+  "startYear": "2021",
+  "retirementYear": "2023",
+  "initiationYear": "2021",
+  "targetPopulation": null,
+  "ownerName": "Casey Justice",
+  "ownerEmail": "jusc@critfc.org",
+  "images": [
+    {
+      "type": "Photo",
+      "url": "http://www.monitoringresources.org/Designer/Design/UploadAsFile/7000",
+      "caption": "Figure 1. Map of habitat survey locations and years in the upper Grande Ronde Rive and Catherine Creek."
+    }
+  ],
+  "panels": [
+    {
+      "id": 21867,
+      "name": "Panel 1",
+      "abbreviation": "Panel 1",
+      "years": [
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16775/panels/21867",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16775"
+    },
+    {
+      "id": 21868,
+      "name": "Panel 2",
+      "abbreviation": "Panel 2",
+      "years": [
+        "2022"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16775/panels/21868",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16775"
+    },
+    {
+      "id": 21869,
+      "name": "Panel 3",
+      "abbreviation": "Panel 3",
+      "years": [
+        "2023"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16775/panels/21869",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16775"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24411,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16775/strata/24411",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16775"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/34",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1821",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16775/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16775",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16775/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16775",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16775",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11565"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Catherine Creek"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Grande Ronde River Upper Mainstem"
+    }
+  ],
+  "id": 16775,
+  "title": "Tributary Habitat Assessment Grande Ronde",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16775",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": "2022-01-15T07:04:40-08:00"
+}

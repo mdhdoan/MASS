@@ -1,0 +1,57 @@
+{
+  "description": "No valid data",
+  "startYear": "2018",
+  "retirementYear": "",
+  "initiationYear": "2018",
+  "targetPopulation": null,
+  "ownerName": "Jon Firehammer",
+  "ownerEmail": "jfirehammer@cdatribe-nsn.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 19062,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15598/panels/19062",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15598"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21486,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15598/strata/21486",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15598"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/70",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1301",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15598/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15598",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15598/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15598",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Groundwater well field in Benewah Creek in CDA Basin",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11249"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Rivers - Streams 24k",
+      "areaDisplayName": "17010304164573"
+    }
+  ],
+  "id": 15598,
+  "title": "Groundwater monitoring in Benewah Creek",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15598",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2018-02-15T07:03:10-08:00"
+}

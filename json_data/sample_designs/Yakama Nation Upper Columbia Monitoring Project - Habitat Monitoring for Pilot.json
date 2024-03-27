@@ -1,0 +1,52 @@
+{
+  "description": "<p>Habitat monitoring for the UCM pilot study</p>\r\n",
+  "startYear": "2019",
+  "retirementYear": "",
+  "initiationYear": "2019",
+  "targetPopulation": null,
+  "ownerName": "Matt Abrahamse",
+  "ownerEmail": "abrm@yakamafish-nsn.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 19773,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16362/panels/19773",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16362"
+    }
+  ],
+  "strata": [
+    {
+      "id": 22875,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16362/strata/22875",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16362"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/77",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1701",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16362/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16362",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16362/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16362",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16361",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11393"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16362,
+  "title": "Yakama Nation Upper Columbia Monitoring Project - Habitat Monitoring for Pilot",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16362",
+  "spatialDesignCategory": "Simple Random Sample, Non-Stratified",
+  "spatialDesignCategoryID": 1,
+  "lastUpdated": "2019-08-01T01:48:57-07:00"
+}

@@ -85,15 +85,19 @@ if __name__ == '__main__':
         # break
     # protocol_list = list(set(protocol_list))
 
-    test = 0
-    test_result = {}
+    # print(len(protocol_dict))
+    protocol_counter = 0
+    # test_result = {}
     fail_counter = 0
+    metric_counter = 0
     for protocol_id, metrics in protocol_dict.items():
         print('List of Metrics: ', metrics)
-        print('Begin mistral with protocol number ' + protocol_id + ' and metric: ', end = '')
+        print('Begin mistral with protocol number ' + protocol_id + ' and metric:', end = ' ')
         # break
         for metric in metrics:
-            print(metric + ' and a list of methods: ' + str(metric_dict[metric]))
+            metric_counter += 1
+            print(metric + ' and a list of ', len(metric_dict[metric]), ' methods')
+            # print(metric + ' and a list of methods: ' + str(metric_dict[metric]))
             comparable_method_dict = {}
             for method in metric_dict[metric]:
                 # print(method) #, method_dict[method])
@@ -103,7 +107,8 @@ if __name__ == '__main__':
             result = llm_chain.invoke({'metric_dict': metric, "method_dict": comparable_method_dict})
             matching_title = result['text']
             print('--- END Mistral work --- ')
-            print(' which has the closest mathing result to be: \n\t' + matching_title)
+            print(metric + ' has the closest matching result as: \n\t' + matching_title)
+            test_result = {}
             # test_result[metric] = matching_title
             try:
                 json_matching_result = eval(matching_title)
@@ -113,29 +118,32 @@ if __name__ == '__main__':
                     test_result['ERROR NOTE'] = 'MISTRAL DID NOT GIVE A USABLE LIST\n' + matching_title
                     writing_data = json.dumps(test_result, indent = 4)
                     test_result_file.write(writing_data)
+                    print('Writing to failed file...')
                     continue
             for method in json_matching_result:
                 # print(method_dict[method])
                 if method not in method_dict:
                     try:
-                        method_dict[method + str(' v1.0')]
+                        description = method_dict[method + str(' v1.0')]
                     except: 
                         description = 'DESCRIPTION NOT FOUND, TITLE MIGHT BE HALLUCINATING'
                 else:
                     description = method_dict[method]
+
                 if metric not in test_result:
+                    print('Metric ', metric, ' not included yet')
                     test_result[metric] = [[method, description]]
                 else:
                     test_result[metric].append([method, description])
                 
+            print('Writing to pass file...')
+            with open('METRIC_METHOD_MATCHING_TEST_LIST_PASS.json', 'a+') as test_result_file:
+                writing_data = json.dumps(test_result, indent = 4)
+                test_result_file.write(writing_data)
             print('NEXT METRIC\n\n')
-        print('Writing to file...')
-        with open('METRIC_METHOD_MATCHING_TEST_LIST.json', 'w+') as test_result_file:
-            writing_data = json.dumps(test_result, indent = 4)
-            test_result_file.write(writing_data)
-        test = test + 1
-        if test == 10:
-            break
-        else:
-            continue
-    print('Completed with fail rate: ' + fail_counter + ' out of ' + test)
+        protocol_counter = protocol_counter + 1
+        # if protocol_counter == 2:
+        #     break
+        # else:
+        #     continue
+    print('Completed with fail rate: ' + str(fail_counter) + ' out of ' + str(metric_counter) + ' with ' + str(protocol_counter) + ' protocols')

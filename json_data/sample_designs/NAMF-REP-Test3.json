@@ -1,0 +1,74 @@
+{
+  "description": "<p>COPY: COPY:</p>\r\n",
+  "startYear": "2017",
+  "retirementYear": "",
+  "initiationYear": "2017",
+  "targetPopulation": "COPY: COPY: <p>Test design to see how results vary as a function of sample size or seed</p>\r\n",
+  "ownerName": "Scott Miller",
+  "ownerEmail": "scott.miller@usu.edu",
+  "images": [],
+  "panels": [
+    {
+      "id": 8472,
+      "name": "Year 1",
+      "abbreviation": "YR1",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2635/panels/8472",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2635"
+    },
+    {
+      "id": 8473,
+      "name": "Year 2",
+      "abbreviation": "YR2",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2635/panels/8473",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2635"
+    }
+  ],
+  "strata": [
+    {
+      "id": 10624,
+      "name": "Large Streams (3&4)",
+      "abbreviation": "LS",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2635/strata/10624",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2635"
+    },
+    {
+      "id": 10625,
+      "name": "Rivers (5+)",
+      "abbreviation": "RV",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2635/strata/10625",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2635"
+    },
+    {
+      "id": 10626,
+      "name": "Small Streams (1&2)",
+      "abbreviation": "SS",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2635/strata/10626",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2635"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/78",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1335",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/2635/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/2635",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/2635/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/2635",
+  "masterSample": {
+    "name": "Bureau of Land Management Lotic",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/8"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 2635,
+  "title": "NAMF-REP-Test3",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/2635",
+  "spatialDesignCategory": "Generalized Random Tessellation Stratified (GRTS)",
+  "spatialDesignCategoryID": 18,
+  "lastUpdated": "2017-10-03T05:34:15-07:00"
+}

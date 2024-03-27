@@ -1,0 +1,52 @@
+{
+  "description": "<p>COPY:</p>\r\n",
+  "startYear": "2017",
+  "retirementYear": "2018",
+  "initiationYear": "2017",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Brad Garner",
+  "ownerEmail": "alan.garner@dfw.wa.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 22161,
+      "name": "VSP monitoring, adult salmonid data collection spawning ground surveys (abundance, diversity and distribution), carcass tagging WSE 127144",
+      "abbreviation": "VSP monitoring, adult salmonid data collection spawning ground surveys (abundance, diversity and distribution), carcass tagging WSE 127144",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16887/panels/22161",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16887"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24549,
+      "name": "All Sites",
+      "abbreviation": "All Sites",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16887/strata/24549",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16887"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/64",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1036",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16887/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16887",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16887/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16887",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design VSP monitoring, adult salmonid data collection spawning ground surveys (abundance, diversity and distribution), carcass tagging WSE 127144 (9452)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1804"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16887,
+  "title": "Chum Spawning ground surveys & sampling/marking for spawner population estimates via carcass tagging (PSMFC) - Washington Department of Fish and Wildlife (WDFW)",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16887",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2023-05-12T06:07:44-07:00"
+}

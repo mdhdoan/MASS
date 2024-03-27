@@ -1,0 +1,89 @@
+{
+  "description": "<p style=\"margin-left:0px; margin-right:0px\">The Tribe&rsquo;s biomonitoring plan was created to evaluate the effectiveness of CTUIR habitat restoration projects on spring Chinook salmon (<em>Oncorhynchus tshawytscha)</em>, summer steelhead (<em>Oncorhynchus mykiss)</em>, and bull trout (<em>Salvelinus confluentus)</em> populations across the five subbasins of the Columbia River- Umatilla, Walla Walla, Grande Ronde, John Day and Tucannon.&nbsp;</p>\r\n\r\n<p style=\"margin-left:0px; margin-right:0px\">Habitat restoration actions and associated monitoring efforts are focused on addressing limiting factors with the greatest potential for improvement and include key stream characteristics, floodplain processes and associated hydrologic, geomorphologic, riparian, vegetative, and aquatic biota touchstones of the Umatilla River Vision.&nbsp; Projects as well as their associated control and treatment sites were selected using guidance from the Tribe&rsquo;s biomonitoring site selection protocol (Stillwater 2012).&nbsp; Habitat sample site lengths are equal to 20x the established average bankfull width of the stream (CHAMP 2013).&nbsp; Sites surveyed by this project were coordinated with CHaMP and AEM managers to prevent duplication of effort by other teams and to optimize coverage within each of the five watersheds across projects where we surveyed.</p>\r\n",
+  "startYear": "2013",
+  "retirementYear": "2021",
+  "initiationYear": "2013",
+  "targetPopulation": null,
+  "ownerName": "Kaylyn Costi",
+  "ownerEmail": "kaylyncosti@ctuir.org",
+  "images": [],
+  "panels": [],
+  "strata": [],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/19",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1359",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16267/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16267",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16267/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16267",
+  "masterSample": null,
+  "userSamples": null,
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.178120, -117.815077"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.196870, -117.838906"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.334842, -118.221631"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.316497, -118.199487"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.212575, -117.951762"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.192140, -117.956226"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.908534, -118.814277"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.864142, -118.770847"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.822864, -118.452149"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.813732, -118.455153"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.684610, -118.504212"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.679303, -118.546913"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.590584, -118.333323"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.673085, -118.367304"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.638830, -118.357862"
+    }
+  ],
+  "id": 16267,
+  "title": "Site Level Stream Habitat Restoration Effectiveness Monitoring-Analysis",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16267",
+  "spatialDesignCategory": "Inference",
+  "spatialDesignCategoryID": 16,
+  "lastUpdated": "2019-01-11T06:43:12-08:00"
+}

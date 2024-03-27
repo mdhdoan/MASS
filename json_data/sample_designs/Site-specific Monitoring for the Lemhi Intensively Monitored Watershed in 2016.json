@@ -1,0 +1,64 @@
+{
+  "description": "<p>5/12/16: &nbsp;Added&nbsp;LEM00002-LittleSprings1 to the list as per QCI&#39;s request.</p>\r\n\r\n<p><span style=\"line-height:1.1875\">5/22/15: 5 sites added to </span>Lem00002<span style=\"line-height:1.1875\"> design as per </span>QCI&#39;s<span style=\"line-height:1.1875\"> request to accommodate potential </span>IMW<span style=\"line-height:1.1875\"> sampling in 2015. &nbsp;Note that the panel and sampling size for the block changed from 8 to 13 to accommodate addition of 5 sites, but that </span>QCI<span style=\"line-height:1.1875\"> should be contacted for information about which sites and rationale for sampling scheme of </span>IMW<span style=\"line-height:1.1875\"> sites.&nbsp;</span></p>\r\n\r\n<p>EVR1, EVR2, EVR3, Pratt1 and Wimpey2&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "startYear": "2011",
+  "retirementYear": "",
+  "initiationYear": "2014",
+  "targetPopulation": "COPY: COPY: ",
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 7060,
+      "name": "Annual",
+      "abbreviation": "A",
+      "years": [
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2556/panels/7060",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2556"
+    }
+  ],
+  "strata": [
+    {
+      "id": 9088,
+      "name": "Lemhi IMW",
+      "abbreviation": null,
+      "url": "http://www.monitoringresources.org/api/v1/designs/2556/strata/9088",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2556"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/18",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/220",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/2556/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/2556",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/2556/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/2556",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "LEM00001 Sample",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1014"
+    },
+    {
+      "name": "LEM00002 Sample",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1015"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 2556,
+  "title": "Site-specific Monitoring for the Lemhi Intensively Monitored Watershed in 2016",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/2556",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2016-05-14T03:09:00-07:00"
+}

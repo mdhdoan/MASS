@@ -1,0 +1,52 @@
+{
+  "description": "<p>AEM Extentensive&nbsp;Post Treatment study design sites to be sampled in 2016. Each site is only sampled one time, so no panels are needed.&nbsp;</p>\r\n",
+  "startYear": "2016",
+  "retirementYear": "",
+  "initiationYear": "2016",
+  "targetPopulation": null,
+  "ownerName": "Colin Riordan",
+  "ownerEmail": "colin@naturaldes.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 7169,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2016"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2583/panels/7169",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2583"
+    }
+  ],
+  "strata": [
+    {
+      "id": 9207,
+      "name": "EPT LWD Sites",
+      "abbreviation": "EPT-LWD",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2583/strata/9207",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2583"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/2583/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/2583",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/2583/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/2583",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "AEM EPT Sites 2016",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1084"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 2583,
+  "title": "Action Effectiveness Monitoring (EPT) 2016",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/2583",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2016-07-01T03:19:19-07:00"
+}

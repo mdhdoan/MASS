@@ -1,0 +1,137 @@
+{
+  "description": "No valid data",
+  "startYear": "2016",
+  "retirementYear": "",
+  "initiationYear": "2016",
+  "targetPopulation": "<p>Perennial streams and rivers on BLM lands in the West Desert District</p>\r\n",
+  "ownerName": "Scott Miller",
+  "ownerEmail": "scott.miller@usu.edu",
+  "images": [],
+  "panels": [
+    {
+      "id": 6943,
+      "name": "Year 1",
+      "abbreviation": "Yr1",
+      "years": [
+        "2016"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2518/panels/6943",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2518"
+    },
+    {
+      "id": 6944,
+      "name": "Year 2",
+      "abbreviation": "Yr2",
+      "years": [
+        "2016"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2518/panels/6944",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2518"
+    }
+  ],
+  "strata": [
+    {
+      "id": 8505,
+      "name": "Fillmore-1.0",
+      "abbreviation": "S0",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2518/strata/8505",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2518"
+    },
+    {
+      "id": 8506,
+      "name": "Fillmore-2.0",
+      "abbreviation": "S1",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2518/strata/8506",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2518"
+    },
+    {
+      "id": 8507,
+      "name": "Fillmore-3.0",
+      "abbreviation": "S2",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2518/strata/8507",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2518"
+    },
+    {
+      "id": 8508,
+      "name": "Fillmore-4.0",
+      "abbreviation": "S3",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2518/strata/8508",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2518"
+    },
+    {
+      "id": 8509,
+      "name": "Fillmore-5.0",
+      "abbreviation": "S4",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2518/strata/8509",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2518"
+    },
+    {
+      "id": 8510,
+      "name": "Fillmore-6.0",
+      "abbreviation": "S5",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2518/strata/8510",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2518"
+    },
+    {
+      "id": 8511,
+      "name": "Salt Lake -1.0",
+      "abbreviation": "S6",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2518/strata/8511",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2518"
+    },
+    {
+      "id": 8512,
+      "name": "Salt Lake -2.0",
+      "abbreviation": "S7",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2518/strata/8512",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2518"
+    },
+    {
+      "id": 8513,
+      "name": "Salt Lake -3.0",
+      "abbreviation": "S8",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2518/strata/8513",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2518"
+    },
+    {
+      "id": 8514,
+      "name": "Salt Lake -4.0",
+      "abbreviation": "S9",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2518/strata/8514",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2518"
+    },
+    {
+      "id": 8515,
+      "name": "Salt Lake -5.0",
+      "abbreviation": "S10",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2518/strata/8515",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2518"
+    },
+    {
+      "id": 8516,
+      "name": "Salt Lake -6.0",
+      "abbreviation": "S11",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2518/strata/8516",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2518"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/78",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1335",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/2518/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/2518",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/2518/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/2518",
+  "masterSample": {
+    "name": "Bureau of Land Management Lotic",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/8"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 2518,
+  "title": "WDD",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/2518",
+  "spatialDesignCategory": "Generalized Random Tessellation Stratified (GRTS)",
+  "spatialDesignCategoryID": 18,
+  "lastUpdated": "2017-10-03T05:49:20-07:00"
+}

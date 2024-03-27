@@ -1,0 +1,50 @@
+{
+  "description": "No valid data",
+  "startYear": "2017",
+  "retirementYear": "2017",
+  "initiationYear": "2017",
+  "targetPopulation": null,
+  "ownerName": "Benjamin Davidson",
+  "ownerEmail": "bdavidson@swca.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 19540,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16233/panels/19540",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16233"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21932,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16233/strata/21932",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16233"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/80",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1651",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16233/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16233",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16233/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16233",
+  "masterSample": {
+    "name": "Continental United States 10 KM Grid",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/10"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 16233,
+  "title": "b15c05b7-4602-447b-a8c1-d2df1a7910f5 Little Medicine Bow Sample Design",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16233",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": null
+}

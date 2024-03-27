@@ -1,0 +1,57 @@
+{
+  "description": "No valid data",
+  "startYear": "2019",
+  "retirementYear": "2021",
+  "initiationYear": "2019",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Jon Firehammer",
+  "ownerEmail": "jfirehammer@cdatribe-nsn.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 20083,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16471/panels/20083",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16471"
+    }
+  ],
+  "strata": [
+    {
+      "id": 23012,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16471/strata/23012",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16471"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/70",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/827",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16471/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16471",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16471/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16471",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Adult cutthroat traps in Lake and Benewah Creeks",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11238"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC6 - Sub Watershed",
+      "areaDisplayName": "Lake Creek"
+    }
+  ],
+  "id": 16471,
+  "title": "Trap adfluvial adult cutthroat trout in Lake Creek",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16471",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2020-01-30T05:39:36-08:00"
+}

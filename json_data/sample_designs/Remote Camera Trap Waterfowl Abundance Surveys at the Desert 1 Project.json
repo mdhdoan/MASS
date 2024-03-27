@@ -1,0 +1,52 @@
+{
+  "description": "<p>Conduct population counts by species for migrant waterfowl on the TD-1 project area. It will also help biologist investigate waterfowl use across the project area to evaluate waterfowl response to habitat manipulations and management decisions.</p>\r\n",
+  "startYear": "2018",
+  "retirementYear": "",
+  "initiationYear": "2018",
+  "targetPopulation": null,
+  "ownerName": "Chattan McPherson",
+  "ownerEmail": "Chattan.Mcpherson@dfw.wa.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 19694,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15603/panels/19694",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15603"
+    }
+  ],
+  "strata": [
+    {
+      "id": 22020,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15603/strata/22020",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15603"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/64",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1409",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15603/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15603",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15603/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15603",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "TD-1 Camera Trap Locations",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11265"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 15603,
+  "title": "Remote Camera Trap Waterfowl Abundance Surveys at the Desert 1 Project",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15603",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2019-10-18T22:47:45-07:00"
+}

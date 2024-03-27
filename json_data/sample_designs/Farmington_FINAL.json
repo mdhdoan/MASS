@@ -1,0 +1,95 @@
+{
+  "description": "No valid data",
+  "startYear": "2016",
+  "retirementYear": "",
+  "initiationYear": "2016",
+  "targetPopulation": "<p>Perennial streams and rivers on BLM lands in the Farmington District, NM</p>\r\n",
+  "ownerName": "Scott Miller",
+  "ownerEmail": "scott.miller@usu.edu",
+  "images": [],
+  "panels": [
+    {
+      "id": 6996,
+      "name": "Year 1",
+      "abbreviation": "Yr1",
+      "years": [
+        "2016"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2535/panels/6996",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2535"
+    },
+    {
+      "id": 6997,
+      "name": "Year 2",
+      "abbreviation": "Yr2",
+      "years": [
+        "2016"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2535/panels/6997",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2535"
+    }
+  ],
+  "strata": [
+    {
+      "id": 8704,
+      "name": "FARMINGTON FIELD OFFICE-Large Streams (3&4)",
+      "abbreviation": "S1",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2535/strata/8704",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2535"
+    },
+    {
+      "id": 8705,
+      "name": "FARMINGTON FIELD OFFICE-Rivers (5+)",
+      "abbreviation": "S2",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2535/strata/8705",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2535"
+    },
+    {
+      "id": 8703,
+      "name": "FARMINGTON FIELD OFFICE-Small Streams (1&2)",
+      "abbreviation": "S0",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2535/strata/8703",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2535"
+    },
+    {
+      "id": 8707,
+      "name": "TAOS FIELD OFFICE-Large Streams (3&4)",
+      "abbreviation": "S4",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2535/strata/8707",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2535"
+    },
+    {
+      "id": 8708,
+      "name": "TAOS FIELD OFFICE-Rivers (5+)",
+      "abbreviation": "S5",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2535/strata/8708",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2535"
+    },
+    {
+      "id": 8706,
+      "name": "TAOS FIELD OFFICE-Small Streams (1&2)",
+      "abbreviation": "S3",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2535/strata/8706",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2535"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/78",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1335",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/2535/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/2535",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/2535/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/2535",
+  "masterSample": {
+    "name": "Bureau of Land Management Lotic",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/8"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 2535,
+  "title": "Farmington_FINAL",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/2535",
+  "spatialDesignCategory": "Generalized Random Tessellation Stratified (GRTS)",
+  "spatialDesignCategoryID": 18,
+  "lastUpdated": "2017-10-03T05:40:43-07:00"
+}

@@ -1,0 +1,50 @@
+{
+  "description": "No valid data",
+  "startYear": "2017",
+  "retirementYear": "2017",
+  "initiationYear": "2017",
+  "targetPopulation": null,
+  "ownerName": "Christen Long",
+  "ownerEmail": "clong@batcon.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 19454,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16170/panels/19454",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16170"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21860,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16170/strata/21860",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16170"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/80",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1607",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16170/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16170",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16170/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16170",
+  "masterSample": {
+    "name": "Continental United States 10 KM Grid",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/10"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 16170,
+  "title": "5f40229d-7791-4126-a7a5-ea14b782ae85 California Forest Service 2017 Sample Design",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16170",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": null
+}

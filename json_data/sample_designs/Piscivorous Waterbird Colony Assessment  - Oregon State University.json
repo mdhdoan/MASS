@@ -1,0 +1,117 @@
+{
+  "description": "<p>Data will be collected to 1) Locate piscivorous waterbird colonies in the Columbia River basin, 2) Assess the distribution and size of piscivorous waterbird colonies in the Columbia River basin below the confluence with the Snake River, 3) Estimate size of piscivorous waterbird colonies in the Columbia River basin below the confluence with the Snake River, 3) calculate colony-specific predation rates of piscivorous waterbirds on juvenile salmonids in the Columbia River basin below the confluence with the Snake River, 4) Assess cumulative/system-wide predation impacts on juvenile salmonids by piscivorous colonial waterbirds in the Columbia River basin below the confluence with the Snake River.</p>\r\n\r\n<p><br />\r\nTo complete the work elements identified in our 2021 BPA SOW, we need to conduct multiple boat- and ground-based surveys to accurately estimate peak colony size and to conduct PIT tag work at each colony.</p>\r\n",
+  "startYear": "2020",
+  "retirementYear": "",
+  "initiationYear": "2020",
+  "targetPopulation": null,
+  "ownerName": "Ken Collis",
+  "ownerEmail": "ken@realtimeresearch.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 20057,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16451/panels/20057",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16451"
+    }
+  ],
+  "strata": [
+    {
+      "id": 22986,
+      "name": "All Sites",
+      "abbreviation": "All Sites",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16451/strata/22986",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16451"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/9",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1721",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16451/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16451",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16451/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16451",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 16673 (11120)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1729"
+    },
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 28494 (12056)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/3258"
+    },
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 12143 (10708)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/4197"
+    },
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 6394 (15030)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/5974"
+    },
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 28486 (12054)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/10365"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Mainstem Reaches and Dams",
+      "areaDisplayName": "Bonneville Dam to The Dalles Dam"
+    },
+    {
+      "areaTypeName": "Mainstem Reaches and Dams",
+      "areaDisplayName": "The Dalles Dam to John Day Dam"
+    },
+    {
+      "areaTypeName": "Mainstem Reaches and Dams",
+      "areaDisplayName": "John Day Dam to McNary Dam"
+    },
+    {
+      "areaTypeName": "Mainstem Reaches and Dams",
+      "areaDisplayName": "McNary Dam to Confluence of Snake and Columbia River"
+    },
+    {
+      "areaTypeName": "Lower Columbia Estuary (LCREP)",
+      "areaDisplayName": "Upper Tidal Flood Plain Basin"
+    },
+    {
+      "areaTypeName": "Lower Columbia Estuary (LCREP)",
+      "areaDisplayName": "Middle Tidal Flood Plain Basin"
+    },
+    {
+      "areaTypeName": "Lower Columbia Estuary (LCREP)",
+      "areaDisplayName": "Volcanics Current Reversal"
+    },
+    {
+      "areaTypeName": "Lower Columbia Estuary (LCREP)",
+      "areaDisplayName": "Coastal Uplands Salinity Gradient"
+    },
+    {
+      "areaTypeName": "Lower Columbia Estuary (LCREP)",
+      "areaDisplayName": "Coastal Lowlands Entrance-Mixing"
+    },
+    {
+      "areaTypeName": "Lower Columbia Estuary (LCREP)",
+      "areaDisplayName": "Western Cascades Tributary Confluences"
+    },
+    {
+      "areaTypeName": "Lower Columbia Estuary (LCREP)",
+      "areaDisplayName": "Western Gorge"
+    },
+    {
+      "areaTypeName": "Lower Columbia Estuary (LCREP)",
+      "areaDisplayName": "Tidal Flood Plain Basin Constriction"
+    }
+  ],
+  "id": 16451,
+  "title": "Piscivorous Waterbird Colony Assessment  - Oregon State University",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16451",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": "2021-01-26T03:28:41-08:00"
+}

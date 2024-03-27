@@ -1,0 +1,37 @@
+{
+  "description": "<p>In order to address the objectives outlined in the linked Study Plan and protocol, we plan to genotype spring/summer Chinook samples collected from populations throughout the the Grande Ronde and Imnaha River basins from pre-1982 to 2022. As described in the Study Plan/Protocol, this year range represents five major management periods within the history of the Grande Ronde and Imnaha River basins thus far.&nbsp;</p>\r\n\r\n<p>Given that the latest year of inclusion in this study is 2022, all samples have already been collected. The adutl samples were laregly collected at weirs or during carcass surveys, although we have prioritized weir samples given that is difficult to reliably produce genotypes from carcass samples. We have also included juvenile samples, which were largely collected from rotary screw traps (RSTs). Sample inventory resposibilities&nbsp;in the Grande Ronde basin have been shared across various organizations, and thus this study is highly collaborative - involving personnel from CRITFC, ODFW, NOAA, CTUIR and NPT.&nbsp;</p>\r\n\r\n<p>All samples will be genotyped with the standard SNP panel for Chinook salmon at the Hagerman Genetics Labratory in Hagerman, ID.&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "startYear": "1982",
+  "retirementYear": "2022",
+  "initiationYear": "1982",
+  "targetPopulation": null,
+  "ownerName": "Hayley Nuetzel",
+  "ownerEmail": "hnuetzel@critfc.org",
+  "images": [],
+  "panels": [],
+  "strata": [],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/51",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1854",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16840/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16840",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16840/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16840",
+  "masterSample": null,
+  "userSamples": null,
+  "areasOfInferences": [
+    {
+      "areaTypeName": "NPPC Subbasins",
+      "areaDisplayName": "Grande Ronde"
+    },
+    {
+      "areaTypeName": "NPPC Subbasins",
+      "areaDisplayName": "Imnaha"
+    }
+  ],
+  "id": 16840,
+  "title": "Assessing genetic diversity & relatedness of Grande Ronde & Imnaha River basin populations through time",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16840",
+  "spatialDesignCategory": "Inference",
+  "spatialDesignCategoryID": 16,
+  "lastUpdated": "2023-01-26T07:42:45-08:00"
+}

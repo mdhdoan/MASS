@@ -1,0 +1,52 @@
+{
+  "description": "<div>\r\n<p>This sample design covers USGS gage operation and maintenance for USGS gages within the Potlatch River Watershed.</p>\r\n</div>\r\n",
+  "startYear": "2003",
+  "retirementYear": "2030",
+  "initiationYear": "2003",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Jason Marchinek",
+  "ownerEmail": "jmarchinek@latahswcd.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 20161,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2003"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16513/panels/20161",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16513"
+    }
+  ],
+  "strata": [
+    {
+      "id": 23059,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16513/strata/23059",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16513"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/85",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1238",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16513/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16513",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16513/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16513",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16513",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11487"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16513,
+  "title": "Potlatch USGS Gage Station Operation and Maintenance - Latah SWCD",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16513",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2020-02-19T04:26:19-08:00"
+}

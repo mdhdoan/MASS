@@ -1,0 +1,64 @@
+{
+  "description": "No valid data",
+  "startYear": "2011",
+  "retirementYear": "",
+  "initiationYear": "2014",
+  "targetPopulation": null,
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 3396,
+      "name": "Annual",
+      "abbreviation": "A",
+      "years": [
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15814/panels/3396",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15814"
+    }
+  ],
+  "strata": [
+    {
+      "id": 4306,
+      "name": "Lemhi IMW",
+      "abbreviation": null,
+      "url": "http://www.monitoringresources.org/api/v1/designs/15814/strata/4306",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15814"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/18",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/220",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15814/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15814",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15814/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15814",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "LEM00001 Sample",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1014"
+    },
+    {
+      "name": "LEM00002 Sample",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1015"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 15814,
+  "title": "Site-specific Monitoring for the Lemhi Intensively Monitored Watershed in 2014",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15814",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2015-05-23T12:21:40-07:00"
+}

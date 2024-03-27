@@ -1,0 +1,68 @@
+{
+  "description": "<p>PIT-tags are one of the key technologies used to monitor anadromous fish populations in the Umatilla River basin and an extensive network of release and recapture sites exist across the Columbia River basin.&nbsp; The first passive PIT-tag interroagion system&nbsp;at Three Mile Falls Dam was installed in 1999.</p>\r\n",
+  "startYear": "1999",
+  "retirementYear": "2025",
+  "initiationYear": "1999",
+  "targetPopulation": null,
+  "ownerName": "Josh Hanson",
+  "ownerEmail": "Josh.hanson@odfw.oregon.gov",
+  "images": [
+    {
+      "type": "Photo",
+      "url": "http://www.monitoringresources.org/Designer/Design/UploadAsFile/6955",
+      "caption": null
+    },
+    {
+      "type": "Document",
+      "url": "http://www.monitoringresources.org/Designer/Design/UploadAsFile/6956",
+      "caption": null
+    }
+  ],
+  "panels": [
+    {
+      "id": 21767,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "1999"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16739/panels/21767",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16739"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24352,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16739/strata/24352",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16739"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/66",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1810",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16739/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16739",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16739/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16739",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 10257 (10412)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/2344"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": " 45.882, -119.3244"
+    }
+  ],
+  "id": 16739,
+  "title": "Oregon Department of Fish and Wildlife Three Mile Falls Dam PIT-Tag Interrogation System",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16739",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2021-08-20T21:40:38-07:00"
+}

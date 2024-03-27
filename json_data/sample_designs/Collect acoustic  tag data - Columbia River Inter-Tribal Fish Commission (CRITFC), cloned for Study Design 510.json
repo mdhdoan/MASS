@@ -1,0 +1,76 @@
+{
+  "description": "No valid data",
+  "startYear": "2009",
+  "retirementYear": "2025",
+  "initiationYear": "2009",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Jeffrey Fryer",
+  "ownerEmail": "fryj@critfc.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 20243,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2009"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16525/panels/20243",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16525"
+    }
+  ],
+  "strata": [
+    {
+      "id": 23072,
+      "name": "All Sites",
+      "abbreviation": "All Sites",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16525/strata/23072",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16525"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1741",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16525/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16525",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16525/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16525",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 51489 (13933)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/2139"
+    },
+    {
+      "name": "BPA Sample for Study Design Factors limiting production of Okanagan and Wenatchee sockeye stocks (2008-503-00) WSE 103897 (4773)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/2322"
+    },
+    {
+      "name": "BPA Sample for Study Design Factors limiting production of Okanagan and Wenatchee sockeye stocks (2008-503-00) WSE 93013 (4828)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/2667"
+    },
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 38522 (12873)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/8572"
+    },
+    {
+      "name": "BPA Sample for Study Design Factors limiting production of Okanagan and Wenatchee sockeye stocks (2008-503-00) WSE 72862 (4810)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/10420"
+    },
+    {
+      "name": "BPA Sample for Study Design Factors limiting production of Okanagan and Wenatchee sockeye stocks (2008-503-00) WSE 83474 (4819)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/10421"
+    },
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 61498 (14795)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11162"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16525,
+  "title": "Collect acoustic  tag data - Columbia River Inter-Tribal Fish Commission (CRITFC), cloned for Study Design 510",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16525",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2020-03-17T22:48:55-07:00"
+}

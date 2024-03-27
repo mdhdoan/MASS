@@ -1,0 +1,67 @@
+{
+  "description": "<p>Steelhead parr are PIT tagged at age-0 and age-1 during summer and fall of each year. Growth is calculated for any fish recaptured later in each year or in subsequent years. Fish are sampled at long-term monitoring sites within the Trout Creek and upper Wind River watersheds. Growth data can be used to explore and explain metrics such as survival and probablility of migration to downstream monitoring sites.</p>\r\n",
+  "startYear": "2011",
+  "retirementYear": "2030",
+  "initiationYear": "2011",
+  "targetPopulation": null,
+  "ownerName": "Ian Jezorek",
+  "ownerEmail": "ijezorek@usgs.gov",
+  "images": [
+    {
+      "type": "Photo",
+      "url": "http://www.monitoringresources.org/Designer/Design/UploadAsFile/6248",
+      "caption": "Map of Steelhead sampling and detection sites in the Wind River subbasin, WA."
+    }
+  ],
+  "panels": [
+    {
+      "id": 21349,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2011"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16577/panels/21349",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16577"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24134,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16577/strata/24134",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16577"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/85",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1748",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16577/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16577",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16577/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16577",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16577",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11502"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Steelhead Summer Lower Columbia Pop. Name",
+      "areaDisplayName": "Wind River"
+    },
+    {
+      "areaTypeName": "NPPC Subbasins",
+      "areaDisplayName": "WIND"
+    }
+  ],
+  "id": 16577,
+  "title": "Juvenile Steelhead growth in headwater areas of the Wind River, WA",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16577",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2020-05-29T01:30:41-07:00"
+}

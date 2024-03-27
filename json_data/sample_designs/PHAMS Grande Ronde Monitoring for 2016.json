@@ -1,0 +1,56 @@
+{
+  "description": "No valid data",
+  "startYear": "2016",
+  "retirementYear": "",
+  "initiationYear": "2016",
+  "targetPopulation": null,
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 7274,
+      "name": "annual",
+      "abbreviation": "annual",
+      "years": [
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15999/panels/7274",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15999"
+    }
+  ],
+  "strata": [
+    {
+      "id": 9247,
+      "name": "PHAMS",
+      "abbreviation": "PHAMS",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15999/strata/9247",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15999"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/18",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/227",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15999/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15999",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15999/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15999",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "PHAMS 2016 Monitoring (CTUIR)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1083"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 15999,
+  "title": "PHAMS Grande Ronde Monitoring for 2016",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15999",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2016-07-22T13:16:43-07:00"
+}

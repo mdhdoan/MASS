@@ -1,0 +1,52 @@
+{
+  "description": "<p>A portion of the contract funding for this project covers costs associated with the operation and maintenance of the four Tucannon River instream PIT tag detection systems (IPTDS). Local WDFW staff will be first responders to O&amp;M needs at these IPTDS. As needed, further technical support will be provided by regional WDFW IPTDS experts, based out of Wenatchee. Together, these WFDW staff will perform all O&amp;M needs at the four IPTDS. In addition, these staff will conduct an annual site assessment, and maintain up to date on IPTDS O&amp;M practices based on an operations manual to be updated and maintained under the protocol In-Stream PIT tag Detection System (IPTDS) Data Standards v1.0 at https://www.monitoringresources.org/Document/Protocol/Details/2262. For each IPTDS site in the Tucannon River tributaries, the site assessment will include a monetary plan to identify standard maintenance and equipment needs (purchases) for the expected life of each IPTDS. In addition as a first responder staff should attend the WDFW BioMark PIT Array O&amp;M Training. &nbsp;</p>\r\n\r\n<p>Optional: If done a portion of the budget will be needed to transfer to BioMark project 2018-002-00.&nbsp;<br />\r\n&nbsp;BioMark, Inc. provides data management support for these sites under project 2018-002-00. WDFW staff in Wenatchee, as a subcontractor under 2018-002-00, will also be a point of contact. BioMark will provide remote communication (cellular or satellite modems) and data management services for these four IPTDS. The BioMark Data Manager tool will provide WDFW staff with operation status information to support basic operations. These include access to daily operation reports with power, modem, and detection status. These will be used to alert local WDFW staff if they need to conduct site maintenance. WDFW staff will notify the BioMark project&#39;s technical contact of a pending site visit and have them on standby for phone for available field technical support.&nbsp;</p>\r\n\r\n<p><br />\r\n&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "startYear": "2022",
+  "retirementYear": "2040",
+  "initiationYear": "2022",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Ethan Crawford",
+  "ownerEmail": "ethan.crawford@dfw.wa.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 21770,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2022"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16741/panels/21770",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16741"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24355,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16741/strata/24355",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16741"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/113",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16741/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16741",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16741/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16741",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16741",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11547"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16741,
+  "title": "PIT Array O&M Lower Snake River Mainstem Tributaries for the Asotin and Tucannon River",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16741",
+  "spatialDesignCategory": "Census: Restricted",
+  "spatialDesignCategoryID": 6,
+  "lastUpdated": "2021-09-29T04:29:01-07:00"
+}

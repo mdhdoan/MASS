@@ -1,0 +1,52 @@
+{
+  "description": "<p>Panther Creek monitoring in 2018 supporting Shoshone-Bannock monitoring and restoration efforts.</p>\r\n",
+  "startYear": "2018",
+  "retirementYear": "2019",
+  "initiationYear": "2018",
+  "targetPopulation": null,
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 19387,
+      "name": "2018",
+      "abbreviation": "2018",
+      "years": [
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15747/panels/19387",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15747"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21793,
+      "name": "Panther Creek",
+      "abbreviation": "Panther",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15747/strata/21793",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15747"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/18",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/229",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15747/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15747",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15747/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15747",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Panther Creek",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11304"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 15747,
+  "title": "Panther Creek Monitoring in 2018",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15747",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2018-06-22T02:05:03-07:00"
+}

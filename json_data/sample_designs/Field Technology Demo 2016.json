@@ -1,0 +1,52 @@
+{
+  "description": "<p><span style=\"line-height:1.1875\">This sample design includes sites that will be used for the 2016&nbsp;Field Technology Conference Field Trip.</span></p>\r\n",
+  "startYear": "2016",
+  "retirementYear": "",
+  "initiationYear": "2016",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Chris Gheen",
+  "ownerEmail": "chris@sitkatech.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 7052,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2016"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2552/panels/7052",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2552"
+    }
+  ],
+  "strata": [
+    {
+      "id": 9019,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2552/strata/9019",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2552"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/2552/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/2552",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/2552/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/2552",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Colwood Demonstration Sites",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1076"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 2552,
+  "title": "Field Technology Demo 2016",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/2552",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2016-05-03T02:47:40-07:00"
+}

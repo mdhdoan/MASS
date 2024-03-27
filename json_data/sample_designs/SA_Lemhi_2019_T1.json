@@ -1,0 +1,62 @@
+{
+  "description": "No valid data",
+  "startYear": "2019",
+  "retirementYear": "",
+  "initiationYear": "2019",
+  "targetPopulation": "<p>All perennial&nbsp;streams and Rivers on BLM within the Lemhi Basin with =&lt;3% slope based on NHD slope.&nbsp;</p>\r\n",
+  "ownerName": "Nicole Cappuccio",
+  "ownerEmail": "ncappuccio@blm.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 19704,
+      "name": "2019",
+      "abbreviation": "2019",
+      "years": [
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16315/panels/19704",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16315"
+    }
+  ],
+  "strata": [
+    {
+      "id": 22798,
+      "name": "Large Streams (3&4)",
+      "abbreviation": "LS",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16315/strata/22798",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16315"
+    },
+    {
+      "id": 22799,
+      "name": "Small Streams (1&2)",
+      "abbreviation": "SS",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16315/strata/22799",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16315"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/78",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1335",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16315/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16315",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16315/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16315",
+  "masterSample": {
+    "name": "Bureau of Land Management Lotic",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/8"
+  },
+  "userSamples": [
+    {
+      "name": "SA_Lemhi3Slope_10April2019",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11364"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16315,
+  "title": "SA_Lemhi_2019_T1",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16315",
+  "spatialDesignCategory": "Generalized Random Tessellation Stratified (GRTS)",
+  "spatialDesignCategoryID": 18,
+  "lastUpdated": "2019-04-20T06:22:40-07:00"
+}

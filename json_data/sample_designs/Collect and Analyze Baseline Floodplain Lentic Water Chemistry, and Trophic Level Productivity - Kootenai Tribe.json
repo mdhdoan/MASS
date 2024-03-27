@@ -1,0 +1,86 @@
+{
+  "description": "<p>Sample design used on Ball Creek is transferable to&nbsp;KTOI Nimz&nbsp;property for wetland contributions&nbsp;</p>\r\n",
+  "startYear": "2006",
+  "retirementYear": "",
+  "initiationYear": "2006",
+  "targetPopulation": null,
+  "ownerName": "Scott Soults",
+  "ownerEmail": "soults@kootenai.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 19696,
+      "name": "BPA Fish and Wildlife Program Monitoring  WSE 11539",
+      "abbreviation": "BPA Fish and Wildlife Program Monitoring  WSE 11539",
+      "years": [],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16313/panels/19696",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16313"
+    },
+    {
+      "id": 19697,
+      "name": "BPA Fish and Wildlife Program Monitoring  WSE 16959",
+      "abbreviation": "BPA Fish and Wildlife Program Monitoring  WSE 16959",
+      "years": [],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16313/panels/19697",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16313"
+    },
+    {
+      "id": 19698,
+      "name": "BPA Fish and Wildlife Program Monitoring  WSE 26962",
+      "abbreviation": "BPA Fish and Wildlife Program Monitoring  WSE 26962",
+      "years": [],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16313/panels/19698",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16313"
+    },
+    {
+      "id": 19699,
+      "name": "BPA Fish and Wildlife Program Monitoring  WSE 36678",
+      "abbreviation": "BPA Fish and Wildlife Program Monitoring  WSE 36678",
+      "years": [],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16313/panels/19699",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16313"
+    }
+  ],
+  "strata": [
+    {
+      "id": 22022,
+      "name": "All Sites",
+      "abbreviation": "All Sites",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16313/strata/22022",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16313"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/31",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1691",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16313/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16313",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16313/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16313",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 11539 (10608)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/2215"
+    },
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 26962 (11899)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/3063"
+    },
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 16959 (11141)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/7006"
+    },
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 36678 (12743)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/8527"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16313,
+  "title": "Collect and Analyze Baseline Floodplain Lentic Water Chemistry, and Trophic Level Productivity - Kootenai Tribe",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16313",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2019-03-20T05:31:27-07:00"
+}

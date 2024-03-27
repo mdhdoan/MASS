@@ -1,0 +1,151 @@
+{
+  "description": "No valid data",
+  "startYear": "2016",
+  "retirementYear": "",
+  "initiationYear": "2016",
+  "targetPopulation": "<p>The study area encompasses the perennial streams and rivers of the BLM New Mexico Farmington District and includes the Taos Field Office and Farmington Field Office. Reporting units: Farmington and Taos FO</p>\r\n",
+  "ownerName": "Scott Miller",
+  "ownerEmail": "scott.miller@usu.edu",
+  "images": [],
+  "panels": [
+    {
+      "id": 6928,
+      "name": "Year 1",
+      "abbreviation": "Yr1",
+      "years": [
+        "2016"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2511/panels/6928",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2511"
+    },
+    {
+      "id": 6929,
+      "name": "Year 2",
+      "abbreviation": "Yr2",
+      "years": [
+        "2016"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2511/panels/6929",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2511"
+    }
+  ],
+  "strata": [
+    {
+      "id": 8422,
+      "name": "1.0-FARMINGTON FIELD OFFICE",
+      "abbreviation": "S0",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2511/strata/8422",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2511"
+    },
+    {
+      "id": 8423,
+      "name": "1.0-TAOS FIELD OFFICE",
+      "abbreviation": "S1",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2511/strata/8423",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2511"
+    },
+    {
+      "id": 8424,
+      "name": "2.0-FARMINGTON FIELD OFFICE",
+      "abbreviation": "S2",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2511/strata/8424",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2511"
+    },
+    {
+      "id": 8425,
+      "name": "2.0-TAOS FIELD OFFICE",
+      "abbreviation": "S3",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2511/strata/8425",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2511"
+    },
+    {
+      "id": 8426,
+      "name": "3.0-FARMINGTON FIELD OFFICE",
+      "abbreviation": "S4",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2511/strata/8426",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2511"
+    },
+    {
+      "id": 8427,
+      "name": "3.0-TAOS FIELD OFFICE",
+      "abbreviation": "S5",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2511/strata/8427",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2511"
+    },
+    {
+      "id": 8428,
+      "name": "4.0-FARMINGTON FIELD OFFICE",
+      "abbreviation": "S6",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2511/strata/8428",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2511"
+    },
+    {
+      "id": 8429,
+      "name": "4.0-TAOS FIELD OFFICE",
+      "abbreviation": "S7",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2511/strata/8429",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2511"
+    },
+    {
+      "id": 8430,
+      "name": "5.0-FARMINGTON FIELD OFFICE",
+      "abbreviation": "S8",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2511/strata/8430",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2511"
+    },
+    {
+      "id": 8431,
+      "name": "5.0-TAOS FIELD OFFICE",
+      "abbreviation": "S9",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2511/strata/8431",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2511"
+    },
+    {
+      "id": 8432,
+      "name": "6.0-FARMINGTON FIELD OFFICE",
+      "abbreviation": "S10",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2511/strata/8432",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2511"
+    },
+    {
+      "id": 8433,
+      "name": "6.0-TAOS FIELD OFFICE",
+      "abbreviation": "S11",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2511/strata/8433",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2511"
+    },
+    {
+      "id": 8434,
+      "name": "7.0-FARMINGTON FIELD OFFICE",
+      "abbreviation": "S12",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2511/strata/8434",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2511"
+    },
+    {
+      "id": 8435,
+      "name": "7.0-TAOS FIELD OFFICE",
+      "abbreviation": "S13",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2511/strata/8435",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2511"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/78",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1335",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/2511/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/2511",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/2511/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/2511",
+  "masterSample": {
+    "name": "Bureau of Land Management Lotic",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/8"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 2511,
+  "title": "BLM Farmington District",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/2511",
+  "spatialDesignCategory": "Generalized Random Tessellation Stratified (GRTS)",
+  "spatialDesignCategoryID": 18,
+  "lastUpdated": "2017-10-03T05:52:32-07:00"
+}

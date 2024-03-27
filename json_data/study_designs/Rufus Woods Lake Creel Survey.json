@@ -1,0 +1,60 @@
+{
+  "backgroundRationale": "<p>Rufus Woods Lake is an 82 km long run-of-the-river reservoir on the Columbia River that was formed by the construction of Chief Joseph Dam. &nbsp;Currently, the dam has no fish ladders and blocks upstream fish passage. &nbsp;Grand Coulee Dam forms the upstream end of Rufus Woods Lake.</p>\r\n\r\n<p>In 1996, the Colville Tribes, working with Columbia River Fish Farms (an aquaculture facility on Rufus Woods Lake) began a fish release program using Tribal funds to supplement the Rufus Woods Rainbow Trout (<em>Oncorhynchus mykiss</em>) fishery.&nbsp; The current Washington State record Rainbow Trout was caught in Rufus Woods Lake in 2002 (29.6 lbs).&nbsp; In 2007 and 2008 there were more than 40,000 angler days spent fishing in Rufus Woods annually, making Rufus Woods the most popular fishing destination on the Colville Reservation.&nbsp; The current Rainbow Trout daily bag limit is two.&nbsp; The reservoir also contains other sport fish including Walleye (<em>Sander vitreus</em>), Kokanee (<em>Oncorhynchus nerka</em>), Burbot (<em>Lota lota</em>), Lake Whitefish (<em>Coregonus clupeaformis</em>), Smallmouth Bass (<em>Micropterus dolomieu</em>), and Brown Trout (<em>Salmo trutta</em>).</p>\r\n\r\n<p>Previous years&#39; preliminary creel data suggest the trophy fishery and catch rates were maintained at artificially high levels due to excessive fish escapement from the aquaculture net pens located within Rufus Woods Lake and not from the Colville Tribes&#39; fish purchases and stocking efforts (Shallenberger 2009).&nbsp; In early 2014, one of the two aquaculture facilities on Rufus Woods Lake shutdown.&nbsp; The other facility has greatly reduced its fish escapement and excess feed drift.&nbsp; As a result, the few bigger Rainbow Trout released by the Tribes&#39; have been unable to sustain historically high catch rates of trophy fish. &nbsp;Additional studies were conducted to investigate the potential of supplementing the fishery with many smaller Rainbow Trout that could grow within the lake.&nbsp; However, the majority of Rainbow Trout released only occupied Rufus Woods Lake for one month because of harvest, entrainment and other unidentified causes, making growth of smaller fish to trophy size unlikely (Brown et al. 2011).&nbsp; Diet and secondary production studies also indicated insufficient food resources are incorporated into Rainbow Trout diets to produce an adequate trophy fishery (Richards et al. 2011).</p>\r\n\r\n<p>For these reasons, the goal of the fishery has shifted from a trophy-only fishery to a combined catchable and trophy fishery. To achieve this goal, the release consist of approximately 67% large catchable Rainbow Trout (~0.45 kg per fish, &gt;400 mm total length) to maintain higher catch rates of quality size fish, and approximately 33% larger fish (~15,000 trout at ~&gt;1.5 kg per fish) to provide the opportunity to catch memorable-trophy size Rainbow Trout (size categories based on Brouder et al. 2009).</p>\r\n\r\n<p>In order to provide information on the fishery for optimal management, the Colville Tribes has conducted a detailed creel study since 2007.&nbsp; These protocols have been changed overtime to reflect changes in the fishery (usage and site access locations), project budget, and personnel constraints.</p>\r\n",
+  "sampleDesigns": [
+    {
+      "id": 16580,
+      "title": "Rufus Woods Creel Sampling - Colville Confederated Tribes",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16580",
+      "spatialDesignCategory": "Model-based: Full",
+      "spatialDesignCategoryID": 7,
+      "lastUpdated": "2020-06-04T07:04:41-07:00"
+    },
+    {
+      "id": 16582,
+      "title": "Rufus Woods Creel Sampling - Colville Confederated Tribes V2.0",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16582",
+      "spatialDesignCategory": "Census: Restricted",
+      "spatialDesignCategoryID": 6,
+      "lastUpdated": "2020-06-05T02:04:52-07:00"
+    }
+  ],
+  "objectives": [
+    "Estimate total fishing effort (angler-hours and angler days) for shore and boat anglers for all strata.",
+    "Estimate average catch and harvest rate (# fish per angler-hour) for all Rainbow Trout and individual sources of Rainbow Trout (when possible) for all strata.",
+    "Estimate total catch and harvest for all Rainbow Trout and individual sources of Rainbow Trout (when possible) for all strata.",
+    "Estimate harvested fish size statistics (length and weight) for all Rainbow Trout and individual sources of Rainbow Trout (when possible) by month."
+  ],
+  "keyAssumptions": "<p>Surveys will be conducted from 7:00 am until 5:00 pm, and are assumed to represent catch and effort throughout the rest of the non-sampled complete fishing day (i.e., half-hour before sunrise to half-hour after sunset).</p>\r\n\r\n<p>The degree of bias induced by the access-point surveys will be assumed to be negligible based on the lack of anglers viewed at other locations along the shoreline from effort surveys performed from a boat.</p>\r\n\r\n<p>The length of an angling trip is assumed to be relatively constant throughout individual strata and anglers are assumed to only make one trip a day.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "dataHandlingConsiderations": "<p>Field data sheets are scanned into electronic format for backup on a bi-weekly basis. The electronic files are then stored on hard drives two separate physical locations and on a remote server.</p>\r\n",
+  "qualityControlConsiderations": "<p>Data is reviewed by a biologist and entered into spreadsheet format. Another biologist reviews the entered data. Any data issues will be discussed with the survey technician and remedied if possible.</p>\r\n",
+  "reportingConsiderations": "<p>Data will be entered into an spreadsheet format accepted by the analysis program, MiCreel, on a monthly basis. Data will be stored in the StreamNet Data Store.</p>\r\n",
+  "equipmentCleaningAndCalibration": "<p>Field equipment (e.g., truck, measuring board, tag detection equipment, etc...) is cleaned daily.</p>\r\n",
+  "rolesAndResponsibilities": "<p>The crew leader is responsible for scheduling creel days and scanning data sheets. The crew leader and members conduct creel surveys. The biologists enters and analysis the data.</p>\r\n",
+  "qualifications": "<p>Staff qualifications require the ability to strictly adhere to protocols. Biologist qualifications require knowledge of creel data analysis.</p>\r\n",
+  "trainingRequirements": "<p>Creel staff are trained on survey protocols with an annual refresher course.</p>\r\n",
+  "safetyConsiderations": "<p>Creel surveys are performed outdoors. As such, proper PPE to address the elements must be considered. Additionally, vehicles are driven extensively to conduct the creel surveys and must be operated safely and within the law.</p>\r\n",
+  "fieldScheduleNotes": "<p>Creel days will be randomly selected within each month to sample a minimum of 50% weekday and weekend days. Surveys will be conducted from 7:00 am until 5:00 pm, and are assumed to represent catch and effort throughout the rest of the non-sampled complete fishing day (i.e., half-hour before sunrise to half-hour after sunset). Start location and survey direction (upstream or downstream) will be chosen to maximize the amount of creel time within a day (i.e., least travel time).</p>\r\n",
+  "budgetConsiderations": "<p>All the sites are far apart because the reservoir is approximately 51 miles long. This requires a lot of travel time and costs. Additionally, the number of creel roves is limited by the number of creel staff, and exit surveys could be increased if funding was available.</p>\r\n",
+  "monitoringPurpose": null,
+  "estimatedCostPerSite": "> $10,000",
+  "optionalMethodIDs": [],
+  "optionalMethods": [],
+  "id": 1174,
+  "name": "Rufus Woods Lake Creel Survey",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/studyDesigns/1174",
+  "programID": 21,
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/21",
+  "protocolID": 2050,
+  "protocolUrl": "http://www.monitoringresources.org/api/v1/protocols/2050",
+  "ownerName": "Bryan Jones",
+  "ownerEmail": "bryan.jones@colvilletribes.com",
+  "majorVersion": 1,
+  "minorVersion": 0,
+  "previousStudyDesignVersionId": null,
+  "previousStudyDesignVersionUrl": "[none]",
+  "mostRecentVersionId": null,
+  "mostRecentVersionUrl": "[none]"
+}

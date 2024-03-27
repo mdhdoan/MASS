@@ -1,0 +1,67 @@
+{
+  "backgroundRationale": "<p>The Integrated Status and Effectiveness Monitoring Program (ISEMP) is an ongoing collaborative effort to design, test, implement and evaluate Status and Trends Monitoring for salmon and steelhead populations and their habitat and watershed-scale Effectiveness Monitoring for management actions impacting salmon and steelhead populations and habitat in the Interior Columbia River Basin. ISEMP takes a pilot-project approach to the research and development of monitoring by implementing experimental programs in several major subbasins of the Interior Columbia. Population-specific and aggregate estimates of juvenile abundance and survival will be estimated using information obtained from the recapture of juveniles PIT tagged during remote tagging surveys. Recapture data for tagged individuals will be derived from interrogations at extended length PIT tag arrays and from recapture at tributary rotary screw traps. The multi-scale nature of this goal requires the standardization of protocols and sampling designs that are statistically valid and powerful, properties that are currently inconsistent across the multiple monitoring programs in the region. This smolt trapping and trap efficiency monitoring protocol is a component of the overall ISEMP, and while it stands alone as an important contribution to the management of anadromous salmonids and their habitat, it also plays a key role within ISEMP as it is built on a standardized format following Oakley et al. (2003) that all of the ISEMP protocols adhere to. Downstream migrant trapping of juvenile salmonid can be a valuable tool to estimate relative abundance, production, size, survival, migration timing and behavior (Volkhardt et al. 2007). Of significance to status, trend and effectiveness monitoring programs, simple mark-recapture methods can be used with downstream migrant traps to estimate total freshwater production, and enable the estimation of mortality or survival between life stages (e.g., egg-to-smolt).</p>\r\n",
+  "sampleDesigns": [
+    {
+      "id": 2798,
+      "title": "Task 3A: Operate Lower Secesh River rotary screw trap. - Quantitative Consultants Inc 1",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2798",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": null
+    },
+    {
+      "id": 2800,
+      "title": "Task 4A: Operate ISEMP screw traps in the South Fork Salmon River. - Quantitative Consultants Inc",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2800",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": null
+    },
+    {
+      "id": 2801,
+      "title": "Task 4A: Operate Lower Secesh River rotary screw trap. - Quantitative Consultants Inc 1",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2801",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": null
+    }
+  ],
+  "objectives": [
+    "1. Estimate juvenile Chinook salmon and steelhead production in S.Fk. Salmon R.tributaries\r\n",
+    "2.  Estimate juvenile Chinook salmon and steelhead survival in S.Fk. Salmon R.tributaries"
+  ],
+  "keyAssumptions": null,
+  "dataHandlingConsiderations": null,
+  "qualityControlConsiderations": null,
+  "reportingConsiderations": null,
+  "equipmentCleaningAndCalibration": null,
+  "rolesAndResponsibilities": null,
+  "qualifications": null,
+  "trainingRequirements": null,
+  "safetyConsiderations": null,
+  "fieldScheduleNotes": null,
+  "budgetConsiderations": null,
+  "monitoringPurpose": "Status and Trends Monitoring",
+  "estimatedCostPerSite": "> $10,000",
+  "optionalMethodIDs": [],
+  "optionalMethods": [],
+  "id": 71,
+  "name": "ISEMP Cooperator Field Manual for Rotary Screw Traps in the South Fork Salmon River Sub-Basin v1.0",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/studyDesigns/71",
+  "programID": 10,
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/10",
+  "protocolID": 502,
+  "protocolUrl": "http://www.monitoringresources.org/api/v1/protocols/502",
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org",
+  "majorVersion": 1,
+  "minorVersion": 0,
+  "previousStudyDesignVersionId": null,
+  "previousStudyDesignVersionUrl": "[none]",
+  "mostRecentVersionId": null,
+  "mostRecentVersionUrl": "[none]"
+}

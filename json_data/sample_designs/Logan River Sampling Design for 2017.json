@@ -1,0 +1,54 @@
+{
+  "description": "<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "startYear": "2015",
+  "retirementYear": "2017",
+  "initiationYear": "2015",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 7409,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2614/panels/7409",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2614"
+    }
+  ],
+  "strata": [
+    {
+      "id": 9461,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2614/strata/9461",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2614"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/18",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/134",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/2614/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/2614",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/2614/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/2614",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Logan River Sites",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1093"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 2614,
+  "title": "Logan River Sampling Design for 2017",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/2614",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2017-03-20T21:57:25-07:00"
+}

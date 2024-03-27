@@ -1,0 +1,56 @@
+{
+  "description": "<p>The Birdtrack Springs area is slated for restoration in the future and pre-restoration monitoring will begin in 2015 by ODFW.</p>\r\n",
+  "startYear": "2015",
+  "retirementYear": "",
+  "initiationYear": "2015",
+  "targetPopulation": null,
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 6819,
+      "name": "Annual",
+      "abbreviation": "Annual",
+      "years": [
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2462/panels/6819",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2462"
+    }
+  ],
+  "strata": [
+    {
+      "id": 8065,
+      "name": "Birdtrack Springs",
+      "abbreviation": "Brdtrack",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2462/strata/8065",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2462"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/2462/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/2462",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/2462/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/2462",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Birdtrack Springs Restoration",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1072"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 2462,
+  "title": "Birdtrack Springs Effectiveness Monitoring",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/2462",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2015-09-11T19:51:25-07:00"
+}

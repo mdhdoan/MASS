@@ -1,0 +1,50 @@
+{
+  "description": "No valid data",
+  "startYear": "2017",
+  "retirementYear": "2017",
+  "initiationYear": "2017",
+  "targetPopulation": null,
+  "ownerName": "Han Li",
+  "ownerEmail": "h_li6@uncg.edu",
+  "images": [],
+  "panels": [
+    {
+      "id": 19482,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16195/panels/19482",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16195"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21888,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16195/strata/21888",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16195"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/80",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1625",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16195/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16195",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16195/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16195",
+  "masterSample": {
+    "name": "Continental United States 10 KM Grid",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/10"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 16195,
+  "title": "671fb042-17d8-4a38-b198-1866964f2123 NABat North Carolina Mobile transect survey Sample Design",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16195",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": null
+}

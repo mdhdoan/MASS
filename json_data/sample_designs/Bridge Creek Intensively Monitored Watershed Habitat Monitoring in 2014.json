@@ -1,0 +1,93 @@
+{
+  "description": "<p>The survey design distributes habitat monitoring sites among treatment and control reaches within the Bridge Creek watershed and nearby control watershed Murderers Creek. &nbsp;Sites are sampled according to a 2 year rotating panel design consisting of an annual panel, and an Even (rotating panel 1) and Odd (rotating panel 2) rotating panels.</p>\r\n",
+  "startYear": "2011",
+  "retirementYear": "",
+  "initiationYear": "2014",
+  "targetPopulation": null,
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 3382,
+      "name": "Annual",
+      "abbreviation": "A",
+      "years": [
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15813/panels/3382",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15813"
+    },
+    {
+      "id": 3383,
+      "name": "Bridge Opportunistic 2013",
+      "abbreviation": "BO13",
+      "years": [
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15813/panels/3383",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15813"
+    }
+  ],
+  "strata": [
+    {
+      "id": 4294,
+      "name": "Bridge Creek IMW",
+      "abbreviation": null,
+      "url": "http://www.monitoringresources.org/api/v1/designs/15813/strata/4294",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15813"
+    },
+    {
+      "id": 4295,
+      "name": "Bridge IMW 2013",
+      "abbreviation": null,
+      "url": "http://www.monitoringresources.org/api/v1/designs/15813/strata/4295",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15813"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/18",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/219",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15813/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15813",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15813/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15813",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "JDW00001 Legacy Sample",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1010"
+    },
+    {
+      "name": "Bridge Creek IMW CHaMP 2013 Add",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1034"
+    },
+    {
+      "name": "JDW00001 Legacy Sample 2",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1050"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 15813,
+  "title": "Bridge Creek Intensively Monitored Watershed Habitat Monitoring in 2014",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15813",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2015-10-22T00:10:41-07:00"
+}

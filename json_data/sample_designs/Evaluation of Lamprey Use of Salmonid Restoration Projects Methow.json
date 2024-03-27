@@ -1,0 +1,221 @@
+{
+  "description": "<p>In the Methow and Entiat Subbasins, sampling for larval lamprey and habitat will occur at&nbsp;historic salmonid-focused resotration sites. Each site will be sampled on one occasion in 2021.&nbsp;&nbsp;</p>\r\n",
+  "startYear": "2021",
+  "retirementYear": "2022",
+  "initiationYear": "2021",
+  "targetPopulation": null,
+  "ownerName": "John Crandall",
+  "ownerEmail": "john@methowsalmon.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 21660,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16693/panels/21660",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16693"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24298,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16693/strata/24298",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16693"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1791",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16693/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16693",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16693/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16693",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16693",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11535"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "48.381208,-120.129262"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "48.587003,-120.166700"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "48.608527,-120.161625"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "48.623660,-120.159254"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "48.379691,-120.119628"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "48.411376,-120.136913"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "48.398592,-120.139479"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "48.594709,-120.164282"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "48.505605,-120.278679"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "48.673126,-120.135710"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "48.520938,-120.185907"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "48.567054,-120.177099"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "48.432332,-120.157555"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "48.414734,-120.141874"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "48.418717,-120.142495"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "48.444926,-120.162022"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "48.612227,-120.163162"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "48.308206,-120.064148"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "48.705850,-120.124152"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "47.893181,-120.452397"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "47.867161,-120.425790"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "47.861403,-120.421214"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "47.858353,-120.422072"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "47.845306,-120.418167"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "47.831393,-120.419368"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "47.809753,-120.411043"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "47.699883,-120.321993"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "47.690871,-120.316500"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "47.693298,-120.318045"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "47.681626,-120.312895"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "47.676599,-120.312295"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "47.670153,-120.293739"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "47.667986,-120.281680"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "47.665992,-120.280822"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "47.665934,-120.277560"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "47.665009,-120.274342"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "47.663824,-120.248936"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "47.663073,-120.247605"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "47.747768,-120.394847"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "47.821306,-120.423675"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "47.814764,-120.418182"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "47.799863,-120.402775"
+    }
+  ],
+  "id": 16693,
+  "title": "Evaluation of Lamprey Use of Salmonid Restoration Projects: Methow",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16693",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2021-04-20T00:35:11-07:00"
+}

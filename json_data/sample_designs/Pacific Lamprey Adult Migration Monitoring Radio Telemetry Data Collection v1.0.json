@@ -1,0 +1,52 @@
+{
+  "description": "<p>The CRITFC Member Tribes utilize radio telemetry to gather information from returning anadromous adult Pacific Lamprey. Information is used compare the relative passage performance of adult Pacific Lamprey at mainstem and tributary barriers with the focus on adult distribution (upstream&nbsp;and downstream of barriers). Data are utilized for determination of abundance, survival and life history characteristics, restoration effectiveness and status and trends evaluations.&nbsp; Population status and trend monitoring of natural and hatchery origin fish is used for effective population management, assessing effectiveness of restoration actions, viability, and recovery metric monitoring.&nbsp;</p>\r\n\r\n<p>Please see protocols #2250 for data anlaysis methods describing the calculation of metrics and indicators.</p>\r\n\r\n<h3>Monitoring Program</h3>\r\n\r\n<p><a href=\"https://www.monitoringresources.org/Resources/Program/Detail/96\">CRITFC Lamprey Program</a></p>\r\n\r\n<h3>Objectives</h3>\r\n\r\n<ol>\r\n\t<li>Evaluate the relative passage performance of adult Pacific Lamprey at mainstem and tributary barriers.</li>\r\n\t<li>Evaluate behavior and distribution patterns of upstream migrating adult Pacific Lamprey at mainstem and tributary barriers.</li>\r\n\t<li>Evaluate behavior, distribution patterns, and final fates of upstream migrating adult Pacific Lamprey within mainstem and tributary river environments.</li>\r\n</ol>\r\n",
+  "startYear": "2023",
+  "retirementYear": "2033",
+  "initiationYear": "2023",
+  "targetPopulation": null,
+  "ownerName": "Brian McIlraith",
+  "ownerEmail": "bjmcilraith@bpa.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 22067,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2023"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16862/panels/22067",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16862"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24523,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16862/strata/24523",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16862"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/96",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1862",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16862/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16862",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16862/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16862",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16862",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11611"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16862,
+  "title": "Pacific Lamprey Adult Migration Monitoring Radio Telemetry Data Collection v1.0",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16862",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2023-02-17T04:56:33-08:00"
+}

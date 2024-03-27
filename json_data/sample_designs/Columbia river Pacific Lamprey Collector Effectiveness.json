@@ -1,0 +1,62 @@
+{
+  "description": "<p>The Bonneville hatchery P. lamprey holding tank will be used for the first&nbsp;evaluation of the collector.&nbsp; The techonolgy wil be floated in the tank and the P. lamprey response to the technology in the tank&nbsp;will be assessed over 2-3 week period in early 2024&nbsp;testing daily during the study period.</p>\r\n\r\n<p>Evaluation 2&nbsp;will be conducted in the Columbia river at&nbsp;a location where in lamprey tend to natually collect in seeking migration advancement, a location with safe accessibility&nbsp;and wherein premitting will have been obtained. Evaluation&nbsp;2 will encompass at minimum a 2 month period of time in which the collector will be operated when it is manned at a minimum and data collected on all days of operation.</p>\r\n",
+  "startYear": "2024",
+  "retirementYear": "2024",
+  "initiationYear": "2024",
+  "targetPopulation": null,
+  "ownerName": "Janine Bryan",
+  "ownerEmail": "janine.bryan@whooshh.com",
+  "images": [
+    {
+      "type": "Photo",
+      "url": "http://www.monitoringresources.org/Designer/Design/UploadAsFile/8357",
+      "caption": null
+    }
+  ],
+  "panels": [
+    {
+      "id": 22332,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2024"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16960/panels/22332",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16960"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24616,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16960/strata/24616",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16960"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/96",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1867",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16960/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16960",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16960/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16960",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design BKD Vertical Transmission Studies (2007-404-00) WSE 65787 (6717)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/7672"
+    },
+    {
+      "name": "Sample for Design #16862",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11611"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16960,
+  "title": "Columbia river Pacific Lamprey Collector Effectiveness",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16960",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2023-09-30T04:01:45-07:00"
+}

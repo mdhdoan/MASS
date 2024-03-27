@@ -1,0 +1,57 @@
+{
+  "description": "No valid data",
+  "startYear": "2018",
+  "retirementYear": "",
+  "initiationYear": "2018",
+  "targetPopulation": null,
+  "ownerName": "Thomas Biladeau",
+  "ownerEmail": "tbiladeau@cdatribe-nsn.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 19073,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15602/panels/19073",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15602"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21498,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15602/strata/21498",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15602"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/70",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1407",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15602/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15602",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15602/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15602",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Continuous Stream Temperature Monitoring in the Hangman Watershed",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11256"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC5 - Watershed",
+      "areaDisplayName": "Upper Hangman Creek"
+    }
+  ],
+  "id": 15602,
+  "title": "Hangman Stream Temperatures",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15602",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2018-02-16T06:07:00-08:00"
+}

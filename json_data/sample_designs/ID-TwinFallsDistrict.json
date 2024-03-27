@@ -1,0 +1,64 @@
+{
+  "description": "No valid data",
+  "startYear": "2016",
+  "retirementYear": "",
+  "initiationYear": "2016",
+  "targetPopulation": "<p>Perennial BLM streams and rivers in the Twin Falls District, ID</p>\r\n",
+  "ownerName": "Scott Miller",
+  "ownerEmail": "scott.miller@usu.edu",
+  "images": [],
+  "panels": [
+    {
+      "id": 7059,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2016"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2555/panels/7059",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2555"
+    }
+  ],
+  "strata": [
+    {
+      "id": 9086,
+      "name": "Large Streams (3&4)",
+      "abbreviation": "S1",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2555/strata/9086",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2555"
+    },
+    {
+      "id": 9087,
+      "name": "Rivers (5+)",
+      "abbreviation": "S2",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2555/strata/9087",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2555"
+    },
+    {
+      "id": 9085,
+      "name": "Small Streams (1&2)",
+      "abbreviation": "S0",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2555/strata/9085",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2555"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/78",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1335",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/2555/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/2555",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/2555/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/2555",
+  "masterSample": {
+    "name": "Bureau of Land Management Lotic",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/8"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 2555,
+  "title": "ID-TwinFallsDistrict",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/2555",
+  "spatialDesignCategory": "Generalized Random Tessellation Stratified (GRTS)",
+  "spatialDesignCategoryID": 18,
+  "lastUpdated": "2017-10-03T05:36:03-07:00"
+}

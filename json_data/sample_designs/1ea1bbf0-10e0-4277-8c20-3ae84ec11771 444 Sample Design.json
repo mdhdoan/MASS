@@ -1,0 +1,50 @@
+{
+  "description": "No valid data",
+  "startYear": "2017",
+  "retirementYear": "2017",
+  "initiationYear": "2017",
+  "targetPopulation": null,
+  "ownerName": "Desirae Dempsey",
+  "ownerEmail": "ddempsey@usgs.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 19488,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16201/panels/19488",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16201"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21894,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16201/strata/21894",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16201"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/80",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1629",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16201/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16201",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16201/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16201",
+  "masterSample": {
+    "name": "Continental United States 10 KM Grid",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/10"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 16201,
+  "title": "1ea1bbf0-10e0-4277-8c20-3ae84ec11771 444 Sample Design",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16201",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": "2018-09-07T23:22:34-07:00"
+}

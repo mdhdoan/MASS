@@ -1,0 +1,65 @@
+{
+  "description": "<p>This describes the sampling design used to determine the feasibility of using eDNA sampling to estimate SNP allele frequencies in natural groupings of Chinook and steelhead in the Snake River basin.</p>\r\n",
+  "startYear": "2018",
+  "retirementYear": "2024",
+  "initiationYear": "2018",
+  "targetPopulation": null,
+  "ownerName": "Ewann Berntson",
+  "ownerEmail": "ewann.berntson@noaa.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 20104,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16477/panels/20104",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16477"
+    }
+  ],
+  "strata": [
+    {
+      "id": 23022,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16477/strata/23022",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16477"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/81",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1688",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16477/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16477",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16477/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16477",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Pilot eDNA sampling to determine feasibility of estimating allele frequencies",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11358"
+    },
+    {
+      "name": "Sample for Design #16477",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11432"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC4 - Sub Basin",
+      "areaDisplayName": " IMNAHA"
+    },
+    {
+      "areaTypeName": "HUC4 - Sub Basin",
+      "areaDisplayName": " SOUTH FORK SALMON"
+    }
+  ],
+  "id": 16477,
+  "title": "eDNA sampling to determine feasibility of determining allele frequencies from eDNA samples",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16477",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2020-02-12T00:18:47-08:00"
+}

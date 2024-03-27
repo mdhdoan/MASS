@@ -1,0 +1,52 @@
+{
+  "description": "No valid data",
+  "startYear": "2020",
+  "retirementYear": "2040",
+  "initiationYear": "2020",
+  "targetPopulation": null,
+  "ownerName": "Ryan Klett",
+  "ownerEmail": "ryan.klett@colvilletribes.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 19886,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16394/panels/19886",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16394"
+    }
+  ],
+  "strata": [
+    {
+      "id": 22915,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16394/strata/22915",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16394"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/4",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1601",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16394/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16394",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16394/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16394",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16394",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11405"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16394,
+  "title": "Okanogan Remote Tagging-Juvenile",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16394",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2019-10-31T23:04:52-07:00"
+}

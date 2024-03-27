@@ -1,0 +1,50 @@
+{
+  "description": "No valid data",
+  "startYear": "2017",
+  "retirementYear": "2017",
+  "initiationYear": "2017",
+  "targetPopulation": null,
+  "ownerName": "Valerie Williams",
+  "ownerEmail": "vawillia@blm.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 19242,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15683/panels/19242",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15683"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21653,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15683/strata/21653",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15683"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/80",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1512",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15683/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15683",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15683/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15683",
+  "masterSample": {
+    "name": "Continental United States 10 KM Grid",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/10"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 15683,
+  "title": "66d4116d-33ab-430f-8fc0-3d8a81198f4d Rio Grande del Norte National Monument Sample Design",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15683",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": "2018-04-27T06:57:41-07:00"
+}

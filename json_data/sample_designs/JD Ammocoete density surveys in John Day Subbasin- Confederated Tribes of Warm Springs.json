@@ -1,0 +1,57 @@
+{
+  "description": "No valid data",
+  "startYear": "2020",
+  "retirementYear": "2025",
+  "initiationYear": "2020",
+  "targetPopulation": null,
+  "ownerName": "Andy Johnsen",
+  "ownerEmail": "andy.johnsen@ctwsbnr.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 19759,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16355/panels/19759",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16355"
+    }
+  ],
+  "strata": [
+    {
+      "id": 22865,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16355/strata/22865",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16355"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/35",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/773",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16355/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16355",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16355/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16355",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16353",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11388"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC3 - Basin",
+      "areaDisplayName": "John Day"
+    }
+  ],
+  "id": 16355,
+  "title": "JD: Ammocoete density surveys in John Day Subbasin- Confederated Tribes of Warm Springs",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16355",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2019-06-27T03:01:10-07:00"
+}

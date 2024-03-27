@@ -1,0 +1,57 @@
+{
+  "description": "<p>Native and non-native&nbsp;resident fish will be collected below Priest Rapids Dam in May and June&nbsp;each year from 2023&nbsp;to 2027. Spatially, fish will be collected within 5 miles of each dam. Fish will be opportunistically collected from shallow-water habitat that can be effectively sampled an&nbsp;electrofishing boat. The target sample size will be 100 fish per month, with a 50 fish minimum, that will comprise up to&nbsp;3 species (Northern Pikeminnow, Smallmouth Bass, and/or Walleye).</p>\r\n\r\n<p>A methodology&nbsp;will be developed to identify Gas Bubble Trauma (GBT) potential in the field, from a boat and at night. Staff will attend trainings on identifying GBT.</p>\r\n",
+  "startYear": "2023",
+  "retirementYear": "2027",
+  "initiationYear": "2023",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Matt Polacek",
+  "ownerEmail": "polacmcp@dfw.wa.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 21960,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2023"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16813/panels/21960",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16813"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24458,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16813/strata/24458",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16813"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1836",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16813/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16813",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16813/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16813",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16813",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11589"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC4 - Sub Basin",
+      "areaDisplayName": "Upper Columbia-Priest Rapids"
+    }
+  ],
+  "id": 16813,
+  "title": "Gas Bubble Trauma for Resident Fish",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16813",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2022-06-23T02:04:38-07:00"
+}

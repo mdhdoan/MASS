@@ -1,0 +1,60 @@
+{
+  "description": "No valid data",
+  "startYear": "2022",
+  "retirementYear": "2022",
+  "initiationYear": "2022",
+  "targetPopulation": null,
+  "ownerName": "Joseph Oatman",
+  "ownerEmail": "joeo@nezperce.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 21817,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2022"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16757/panels/21817",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16757"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24374,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16757/strata/24374",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16757"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/694",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16757/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16757",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16757/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16757",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 38837 (12919)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/7794"
+    },
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 386 (12878)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/8536"
+    },
+    {
+      "name": "BPA Sample for Study Design Inseason Interview Survey Method (2002-060-00) WSE 100123 (6854)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/9353"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16757,
+  "title": "Implement Harvest Monitoring Methodology and Disseminate Harvest Monitoring results (In-season - Nez Perce Tribe 1",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16757",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2021-11-11T00:31:13-08:00"
+}

@@ -1,0 +1,50 @@
+{
+  "description": "No valid data",
+  "startYear": "2017",
+  "retirementYear": "2017",
+  "initiationYear": "2017",
+  "targetPopulation": null,
+  "ownerName": "Chris Heilakka",
+  "ownerEmail": "AcadiaWildlife@nps.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 19400,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15757/panels/19400",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15757"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21810,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15757/strata/21810",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15757"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/80",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1570",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15757/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15757",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15757/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15757",
+  "masterSample": {
+    "name": "Continental United States 10 KM Grid",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/10"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 15757,
+  "title": "ed031ac1-d513-4bd0-9238-869a2159b28c Acadia National Park Sample Design",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15757",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": "2018-07-03T06:50:56-07:00"
+}

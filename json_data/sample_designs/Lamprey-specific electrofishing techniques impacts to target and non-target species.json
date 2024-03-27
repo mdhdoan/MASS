@@ -1,0 +1,33 @@
+{
+  "description": "No valid data",
+  "startYear": "2022",
+  "retirementYear": "",
+  "initiationYear": "2022",
+  "targetPopulation": null,
+  "ownerName": "Theresa \"Marty\" Liedtke",
+  "ownerEmail": "tliedtke@usgs.gov",
+  "images": [],
+  "panels": [],
+  "strata": [],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1828",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16787/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16787",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16787/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16787",
+  "masterSample": null,
+  "userSamples": null,
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Columbia River Basin",
+      "areaDisplayName": "Columbia River"
+    }
+  ],
+  "id": 16787,
+  "title": "Lamprey-specific electrofishing techniques: impacts to target and non-target species",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16787",
+  "spatialDesignCategory": "Inference",
+  "spatialDesignCategoryID": 16,
+  "lastUpdated": "2022-03-17T06:45:31-07:00"
+}

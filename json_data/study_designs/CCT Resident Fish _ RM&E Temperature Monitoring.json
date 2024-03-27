@@ -1,0 +1,75 @@
+{
+  "backgroundRationale": "<p>The Colville Confederated Tribes (CCT) Resident Fish RM&amp;E project is a Columbia River Fish Accord project that began in 2008. The primary goal for the Resident Fish RM&amp;E Project is to conserve, enhance and restore native fish populations in the blocked area above Grand Coulee Dam in Lake Roosevelt and its tributaries, and where appropriate provide opportunities for subsistence harvest by the Colville Tribal members and recreational anglers. The current work of the RM&amp;E project will focus on the protection and conservation of Redband Trout populations on the Colville Confederated Tribes Reservation, with a focus on the Sanpoil River.</p>\r\n\r\n<div>Rainbow trout are a focal species in the Sanpoil Subbasin under the Intermountain Province Subbasin Plan (IMP) due to their recreational value as a sport fish and their cultural significance to the CCT (Gillin and Pizzimenti 2004). The Columbia River Redband&nbsp;Trout are a subspecies of Rainbow TInrout native to the Columbia River drainage east of the Cascade Mountains as far as barrier falls on the Snake, Spokane, Pend Oreille, and Kootenai rivers (Allendorf et al. 1980; Behnke 1992; McLellan and Lee 2010). Effective fisheries management of redband trout requires an understanding of population structure, complex historical management activities, geography, and life history strategies (&nbsp;McCusker et al. 2000; Spidle et al. 2003; Spruell et al. 2003; Small et al. 2006;2007).</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>In 2010, the CCT implemented a Redband&nbsp;Trout stock assessment&nbsp;project in the Sanpoil River (McLellan&nbsp;and Lee 2010). &nbsp;The project plans to implement four primary tasks which include monitoring abundance, monitoring recruitment, monitoring harvest, and monitoring escapement to assist with management decisions. The development of a multi-year data set will enable managers to monitor trends over time and address potential limiting factors. &nbsp;Water temperature monitoring is required to understand limiting factors and movement patterns.&nbsp;</div>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "sampleDesigns": [
+    {
+      "id": 9975,
+      "title": "Sanpoil River Water Quality - Colville Confederated Tribes",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/9975",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": null
+    },
+    {
+      "id": 9976,
+      "title": "Sanpoil River Water Temperature - Colville Confederated Tribes",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/9976",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": null
+    },
+    {
+      "id": 9977,
+      "title": "Water Temperature Monitoring - Colville Confederated Tribes",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/9977",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": null
+    },
+    {
+      "id": 9978,
+      "title": "Water Temperature Analysis - Colville Confederated Tribes",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/9978",
+      "spatialDesignCategory": "Inference",
+      "spatialDesignCategoryID": 16,
+      "lastUpdated": "2019-05-29T00:32:50-07:00"
+    }
+  ],
+  "objectives": [
+    "Collect continuous surface water temperature at fish trap locations in the Sanpoil River. "
+  ],
+  "keyAssumptions": "<p>The temperature data (~&nbsp;1m^2) collected at the logger location is representative of the water temperature within the entire reach it is located.&nbsp;</p>\r\n",
+  "dataHandlingConsiderations": "All data are downloaded electronically to prevent transcription errors. Individual HOBOware files are stored in a hierarchy of folders organized by geographic area, basin and stream. HOBOware files are exported as .CSV files and stored in a Microsoft Access database to facilitate future query and analysis. Data are examined for outliers or suspect data and noted in a comments column. All data is stored in the CCT Resident Fisheries database and backed up digitally in multiple locations.",
+  "qualityControlConsiderations": "We calibrate all temperature loggers prior to deployment. All data are downloaded electronically to prevent transcription errors. Data are examined for outliers.",
+  "reportingConsiderations": "Reporting occurs in annual progress reports submitted to BPA.",
+  "equipmentCleaningAndCalibration": "The use of all equipment is restricted to individual watersheds to prevent spread of invasive species.All temperature loggers are checked for accuracy prior to deployment.",
+  "rolesAndResponsibilities": "Crew lead is responsible for ensuring that temperature loggers are located, deployed and downloaded correctly. Will ensure that data are backed up digitally in the field and transferred to office computers and program database ASAP. QA/QC data and maintain database of \"clean\" data. \r\n\r\nCrew members will download temperature loggers in the field. Temperature loggers will be relocated within the immediate area if changing environmental conditions suggest risk of dewatering or becoming buried. ",
+  "qualifications": "Crew lead should have working knowledge of interface software and data management tools (Excel, Access).\r\n\r\nCrew member should be able to identify issues with loggers in the field and download/launch them. Ability to work in adverse environmental conditions. \r\n",
+  "trainingRequirements": "Crew Lead and Crew members should be familiar with  launch and download routine of temperature loggers before field deployment. ",
+  "safetyConsiderations": "Adverse weather conditions are sometimes present. Loggers are generally inaccessible during high flows and periods of ice cover. ",
+  "fieldScheduleNotes": "Temperature loggers should be deployed during periods of low flow to prevent air exposure of the logger. Data loggers can be downloaded and maintained as long as they are accessible. Periods of high flow or ice cover may make it dangerous or difficult to access loggers.",
+  "budgetConsiderations": "Individual loggers are relatively inexpensive (<$100 ea.) as are deployment methods. Primary expenses are incurred from staff and vehicle travel time when logger site locations are relatively far apart and in remote areas requiring travel on foot.  ",
+  "monitoringPurpose": null,
+  "estimatedCostPerSite": "< $1,000",
+  "optionalMethodIDs": [],
+  "optionalMethods": [],
+  "id": 1202,
+  "name": "CCT Resident Fish _ RM&E Temperature Monitoring",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/studyDesigns/1202",
+  "programID": null,
+  "programUrl": "[none]",
+  "protocolID": 2122,
+  "protocolUrl": "http://www.monitoringresources.org/api/v1/protocols/2122",
+  "ownerName": "Holly McLellan",
+  "ownerEmail": "holly.mclellan@colvilletribes.com",
+  "majorVersion": 1,
+  "minorVersion": 0,
+  "previousStudyDesignVersionId": null,
+  "previousStudyDesignVersionUrl": "[none]",
+  "mostRecentVersionId": null,
+  "mostRecentVersionUrl": "[none]"
+}

@@ -1,0 +1,50 @@
+{
+  "description": "No valid data",
+  "startYear": "2017",
+  "retirementYear": "2017",
+  "initiationYear": "2017",
+  "targetPopulation": null,
+  "ownerName": "Brian Dykstra",
+  "ownerEmail": "bdykstra@fs.fed.us",
+  "images": [],
+  "panels": [
+    {
+      "id": 19295,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15712/panels/19295",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15712"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21711,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15712/strata/21711",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15712"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/80",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1536",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15712/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15712",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15712/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15712",
+  "masterSample": {
+    "name": "Continental United States 10 KM Grid",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/10"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 15712,
+  "title": "1baaf0a4-8e03-4db0-97c0-9b04a29c2cda USFS 2018 Southwestern Region NABat Surveys Sample Design",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15712",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": "2018-06-16T02:41:03-07:00"
+}

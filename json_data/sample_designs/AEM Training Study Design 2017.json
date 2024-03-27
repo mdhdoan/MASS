@@ -1,0 +1,52 @@
+{
+  "description": "<p>This is the study design for AEM training iand data system testing in 2017</p>\r\n",
+  "startYear": "2017",
+  "retirementYear": "",
+  "initiationYear": "2017",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Colin Riordan",
+  "ownerEmail": "colin@naturaldes.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 8637,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2656/panels/8637",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2656"
+    }
+  ],
+  "strata": [
+    {
+      "id": 10888,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2656/strata/10888",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2656"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/58",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/358",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/2656/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/2656",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/2656/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/2656",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "CHaMP Training MOCK 2012 Sites",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1055"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 2656,
+  "title": "AEM Training Study Design 2017",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/2656",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2017-05-26T03:35:09-07:00"
+}

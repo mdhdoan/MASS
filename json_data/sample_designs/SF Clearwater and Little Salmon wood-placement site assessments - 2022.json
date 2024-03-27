@@ -1,0 +1,52 @@
+{
+  "description": "<p>Pre-implementation control and treatment site surveys of LWD placement projects proposed upon Newsome Creek and Red River and, contingent upon identification of control site, of a BDA installation project proposed upon the Little Salmon River.</p>\r\n",
+  "startYear": "2022",
+  "retirementYear": "2022",
+  "initiationYear": "2022",
+  "targetPopulation": null,
+  "ownerName": "Clint Chandler",
+  "ownerEmail": "clintc@nezperce.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 21834,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2022"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16767/panels/21834",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16767"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24391,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16767/strata/24391",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16767"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/24",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1667",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16767/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16767",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16767/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16767",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16767",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11559"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16767,
+  "title": "SF Clearwater and Little Salmon wood-placement site assessments - 2022",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16767",
+  "spatialDesignCategory": "Other...",
+  "spatialDesignCategoryID": 17,
+  "lastUpdated": "2021-12-16T03:36:03-08:00"
+}

@@ -1,0 +1,52 @@
+{
+  "description": "<p>Aquatic habitat surveys to be conducted at sites probabillistically located throughout the lower 13.8 km of Bear Creek, a 40.6 km segment of the Wallowa River, and reaches of the Lolo Creek watershed identified by Lolo Atlas data-gap workgroup staff. Habitat surveys are also to be conducted throughout 677 meter treatment and control sites established for the Nez Perce Tribe&#39;s Zim&#39;s Little Salmon River restoration project.</p>\r\n",
+  "startYear": "2024",
+  "retirementYear": "",
+  "initiationYear": "2024",
+  "targetPopulation": null,
+  "ownerName": "Clint Chandler",
+  "ownerEmail": "clintc@nezperce.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 22376,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2024"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16988/panels/22376",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16988"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24657,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16988/strata/24657",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16988"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/24",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1667",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16988/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16988",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16988/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16988",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16988",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11628"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16988,
+  "title": "NPT Watershed Lolo, Wallowa, and Little Salmon habitat assessments - 2024",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16988",
+  "spatialDesignCategory": "Generalized Random Tessellation Stratified (GRTS), External",
+  "spatialDesignCategoryID": 19,
+  "lastUpdated": "2023-12-19T04:19:42-08:00"
+}

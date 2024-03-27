@@ -1,0 +1,37 @@
+{
+  "description": "No valid data",
+  "startYear": "2012",
+  "retirementYear": "2017",
+  "initiationYear": "2016",
+  "targetPopulation": null,
+  "ownerName": "Kenneth Tiffan",
+  "ownerEmail": "ktiffan@usgs.gov",
+  "images": [],
+  "panels": [],
+  "strata": [],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/85",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1180",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16401/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16401",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16401/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16401",
+  "masterSample": null,
+  "userSamples": null,
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Chinook Fall Interior Columbia Pop. Bound",
+      "areaDisplayName": "Snake River Lower Mainstem"
+    },
+    {
+      "areaTypeName": "Chinook Fall Interior Columbia Pop. Bound",
+      "areaDisplayName": "Snake River Middle Mainstem"
+    }
+  ],
+  "id": 16401,
+  "title": "Analyze/Interpret the 1992-2016 beach seining and tagging data - US Fish and Wildlife Service (USFWS)",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16401",
+  "spatialDesignCategory": "Inference",
+  "spatialDesignCategoryID": 16,
+  "lastUpdated": "2019-11-08T06:27:00-08:00"
+}

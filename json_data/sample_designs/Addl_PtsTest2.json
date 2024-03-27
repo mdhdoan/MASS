@@ -1,0 +1,55 @@
+{
+  "description": "<p>Testing the procedure for adding points</p>\r\n",
+  "startYear": "2018",
+  "retirementYear": "",
+  "initiationYear": "2018",
+  "targetPopulation": "<p>Fish in Lane County</p>\r\n",
+  "ownerName": "Jeremy Groom",
+  "ownerEmail": "jeremy@groomanalytics.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 19319,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15735/panels/19319",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15735"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21739,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15735/strata/21739",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15735"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/602",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15735/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15735",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15735/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15735",
+  "masterSample": {
+    "name": "Columbia Basin Master Sample",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/1"
+  },
+  "userSamples": [
+    {
+      "name": "Addl_pts_LC",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11300"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 15735,
+  "title": "Addl_PtsTest2",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15735",
+  "spatialDesignCategory": "Generalized Random Tessellation Stratified (GRTS)",
+  "spatialDesignCategoryID": 18,
+  "lastUpdated": "2018-06-12T01:53:59-07:00"
+}

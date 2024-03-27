@@ -1,0 +1,73 @@
+{
+  "description": "<p>&nbsp;</p>\r\n\r\n<p>The Shone-Bannock Tribes and the Bonneville Power Administration are currently in the process of designing the Crystal Springs Fish Hatchery in Springfield, ID to rear Chinook salmon listed as endangered under the Federal Endangered Species Act (ESA) from the Yankee Fork and Panther Creek of the Salmon River, ID.&nbsp; As part of this process the Shoshone-Bannock Tribes are conducting a physiological and survival evaluations to determine the viability of rearing Yankee Fork/Panther Creek Chinook salmon at the already established nearby Springfield Sockeye Salmon Hatchery and out planting fish in the Yankee Fork and Panther Creek basins. This evaluation is necessary due to the observation of high mortality of Sockeye salmon smolts reared at the Springfield Fish Hatchery in 2016-2018, likely caused by a large difference between water hardness between Springfield Fish Hatchery and release in Redfish Lake Creek, ID. It is possible that Chinook salmon will also experience a high level of morbidity and mortality due to differences in water chemistry between Springfield Fish Hatchery (and Crystal Springs) and proposed release sites in the Yankee Fork Salmon River and Panther Creek. Whereas Springfield hatchery (and Crystal Springs) water source is &lsquo;hard&rsquo; and has high calcium concentrations, water at the smolt release site in the Yankee Fork/Panther Creek is moderately soft and has low calcium concentrations similar to Red Fish Lake Creek.&nbsp; We will evaluate the stress physiology and survival of smolts currently being reared in excess space at the Springfield hatchery and a control group of Yankee Fork Chinook at Sawtooth Fish hatchery, Stanley, ID (that is in close proximity to the Yankee Fork Release site) and at the release site in the Yankee Fork in the context of differences in water chemistry. We will collect a time-series of blood chemistry metrics from smolts (prior to, during trucking, and after release into the Yankee Fork) in April 2019 to identify the stress physiology of the fish. Ultimately, decisions regarding the viability of the proposed Crystal Springs Hatchery Chinook rearing program will be based on smolt survival to Lower Granite Dam, but the preceding evaluations will place smolt survival in the context of alternative release strategies and potential mitigation of adverse physiological responses.</p>\r\n",
+  "startYear": "2018",
+  "retirementYear": "2019",
+  "initiationYear": "2018",
+  "targetPopulation": null,
+  "ownerName": "Lytle Denny",
+  "ownerEmail": "ldenny@sbtribes.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 19590,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16237/panels/19590",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16237"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21951,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16237/strata/21951",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16237"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/642",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16237/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16237",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16237/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16237",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design Umatilla URB Fall Chinook hatchery study (2002-031-00) WSE 134637 (6331)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/10817"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Rivers 100k",
+      "areaDisplayName": "Panther Creek"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.150092, -114.882792"
+    },
+    {
+      "areaTypeName": "Rivers 100k",
+      "areaDisplayName": "Yankee Fork"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "43.060300, -112.658259"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "43.044746, -112.651157"
+    }
+  ],
+  "id": 16237,
+  "title": "Crystal Springs Fish Hatchery Water Chemistry, Fish Growth, Smolting Physiology, and Fish Survival - Shoshone-Bannock Tribes",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16237",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2019-01-03T06:54:21-08:00"
+}

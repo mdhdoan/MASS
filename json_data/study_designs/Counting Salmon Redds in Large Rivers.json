@@ -1,0 +1,76 @@
+{
+  "backgroundRationale": "<p>Redd counts in large rivers can help to describe the spatial distribution of&nbsp;spawning salmon.&nbsp; Increases in the spatial distribution of redds can suggest that the a given population/ESU is responding positively to implemented actions. &nbsp;Long-term&nbsp;redd- count data&nbsp;can also inform the spatial criteria for recovery&nbsp;established recovery plans as well as provide important data for modeling efforts identified such&nbsp;plans.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "sampleDesigns": [
+    {
+      "id": 9951,
+      "title": "Count fall Chinook salmon redds in 2016 - US Fish and Wildlife Service (USFWS)",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/9951",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": null
+    },
+    {
+      "id": 9953,
+      "title": "COPY: Count fall Chinook salmon redds in 2018 - US Geological Survey (USGS)",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/9953",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": "2019-11-08T23:18:31-08:00"
+    },
+    {
+      "id": 9954,
+      "title": "Count fall Chinook salmon redds - US Fish and Wildlife Service (USFWS)",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/9954",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": null
+    },
+    {
+      "id": 16421,
+      "title": "Count fall Chinook salmon redds in the Snake River - US Geological Survey (USGS)",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16421",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": "2019-11-27T01:06:26-08:00"
+    }
+  ],
+  "objectives": [
+    "(1)Count redds in shallow water ",
+    "(2)Count redds in deep water"
+  ],
+  "keyAssumptions": "<p>(1) Our frame represents our target population.</p>\r\n\r\n<p>(2) Every redd in shallow water is&nbsp;counted</p>\r\n\r\n<p>(3) Every redd at a deep water site selected for sampling is counted</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "dataHandlingConsiderations": "<p>Data are recorded in hard copy in the field and transcribed to a spread sheet in the office. Each annual spreadsheet is copied into a master file spanning the years 1987 to present. All electronic files are backed up on external drives on three personal computers in three separate offices and on two servers located in two separate offices.</p>\r\n",
+  "qualityControlConsiderations": "<p>One experienced observer (1992 to present) counts the redds from the helicopter, while a second staff member records counts and GPS coordinates. Questionable shallow water redds are ground truthed. Counts are not made when the water is too turbid or the weather is inclement. Highly concentrated deep water redds are video taped and the counts are finalized in the office.</p>\r\n",
+  "reportingConsiderations": "<p>One annual report is submitted to the Bonneville Power Administration annually. One report is also submitted that addresses how counting redds met criteria established in a Biological Opinion.</p>\r\n",
+  "equipmentCleaningAndCalibration": "<p>Boats and equipment used for deep water surveys are checked for invasive plants and invertebrates, and washed weekly.</p>\r\n",
+  "rolesAndResponsibilities": "<p>A project leader writes proposals, administers the project, supervises the field crew, proofs data, tabulates redd counts, and writes reports and peer-reviewed artilces. A field crew member records data in the helicopter. A field crew supervisory runs the boat and schedules the deep water surveys. A field crew member takes underwater video and records data.</p>\r\n",
+  "qualifications": "<p>The project leader has a BS, MS, and PhD in Fisheries Science The field crew supervisor has a BS and in Fish and Wildlife Management Field crew usually have BS degrees in Fisheries or a related natural resources field.</p>\r\n",
+  "trainingRequirements": "<p>Motor boat training through the Department of Interior is mandatory and refresher courses must be taken every two years. Several training courses are required to fly in the helicopter and those courses must be refreshed every 2 years.</p>\r\n",
+  "safetyConsiderations": "<p>The helicopter flights are monitored remotely in real time to insure any mishaps are observed immediately. The field crew supervisor provides the project leader with a weekly sampling schedule and contacts the project leader each evening to confirm a safe return. In the absence of such notification, the project leader sends out a response team the following morning to provide assistance as needed.</p>\r\n",
+  "fieldScheduleNotes": null,
+  "budgetConsiderations": null,
+  "monitoringPurpose": null,
+  "estimatedCostPerSite": null,
+  "optionalMethodIDs": [],
+  "optionalMethods": [],
+  "id": 1181,
+  "name": "Counting Salmon Redds in Large Rivers",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/studyDesigns/1181",
+  "programID": 85,
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/85",
+  "protocolID": 2058,
+  "protocolUrl": "http://www.monitoringresources.org/api/v1/protocols/2058",
+  "ownerName": "Kenneth Tiffan",
+  "ownerEmail": "ktiffan@usgs.gov",
+  "majorVersion": 1,
+  "minorVersion": 0,
+  "previousStudyDesignVersionId": null,
+  "previousStudyDesignVersionUrl": "[none]",
+  "mostRecentVersionId": null,
+  "mostRecentVersionUrl": "[none]"
+}

@@ -1,0 +1,75 @@
+{
+  "description": "No valid data",
+  "startYear": "2014",
+  "retirementYear": "",
+  "initiationYear": "2014",
+  "targetPopulation": null,
+  "ownerName": "Nathaniel Hough-Snee",
+  "ownerEmail": "nate@natehough-snee.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 2296,
+      "name": "Basin Creek Annual",
+      "abbreviation": "Ann",
+      "years": [
+        "2014",
+        "2015",
+        "2016"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15894/panels/2296",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15894"
+    }
+  ],
+  "strata": [
+    {
+      "id": 3067,
+      "name": "Control",
+      "abbreviation": "Cntl",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15894/strata/3067",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15894"
+    },
+    {
+      "id": 3068,
+      "name": "Stage One Restoration",
+      "abbreviation": "S1R",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15894/strata/3068",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15894"
+    },
+    {
+      "id": 3069,
+      "name": "Stage Three Restoration",
+      "abbreviation": "S3R",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15894/strata/3069",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15894"
+    },
+    {
+      "id": 3070,
+      "name": "Stage Two Restoration",
+      "abbreviation": "S2R",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15894/strata/3070",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15894"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/18",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/215",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15894/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15894",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15894/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15894",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Basin Creek Restoration",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1060"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 15894,
+  "title": "Basin Creek Restoration (BACI)",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15894",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2014-07-04T01:51:32-07:00"
+}

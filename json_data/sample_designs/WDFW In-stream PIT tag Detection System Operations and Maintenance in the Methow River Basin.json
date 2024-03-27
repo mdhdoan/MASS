@@ -1,0 +1,59 @@
+{
+  "description": "No valid data",
+  "startYear": "2011",
+  "retirementYear": "",
+  "initiationYear": "2011",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Ben Truscott",
+  "ownerEmail": "ben.truscott@dfw.wa.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 19244,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2011"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15685/panels/19244",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15685"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21656,
+      "name": "Methow River Basin IPTDS",
+      "abbreviation": "Met IPTDS",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15685/strata/21656",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15685"
+    },
+    {
+      "id": 21655,
+      "name": "Wenatchee River Basin IPTDS",
+      "abbreviation": "Wen IPTDS",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15685/strata/21655",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15685"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1503",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15685/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15685",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15685/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15685",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "WDFW In-stream PIT tag Detection System Operations and Maintenance in the Methow River Basin",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11279"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 15685,
+  "title": "WDFW In-stream PIT tag Detection System Operations and Maintenance in the Methow River Basin",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15685",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2018-04-28T00:19:02-07:00"
+}

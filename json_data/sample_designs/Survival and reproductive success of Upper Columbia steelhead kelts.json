@@ -1,0 +1,57 @@
+{
+  "description": "<p>We will collect data biologicial data from steelhead kelts before, during, and after the application of long-term reconditioning techniques. We will make comparisons between successful and unsucessfully reconditioned fish to determine the factors contributing to yearly variations in survival and reproductive success.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "startYear": "2021",
+  "retirementYear": "2022",
+  "initiationYear": "2021",
+  "targetPopulation": null,
+  "ownerName": "Matt Abrahamse",
+  "ownerEmail": "abrm@yakamafish-nsn.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 21447,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16608/panels/21447",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16608"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24199,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16608/strata/24199",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16608"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/77",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1723",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16608/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16608",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16608/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16608",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design Improve survival and reduce fitness loss of upper Columbia River steelhead at Winthrop National Fish Hatchery (1993-056-00) WSE 103391 (9071)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1171"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "48.473099, -120.190400"
+    }
+  ],
+  "id": 16608,
+  "title": "Survival and reproductive success of Upper Columbia steelhead kelts",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16608",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": "2020-09-19T06:24:46-07:00"
+}

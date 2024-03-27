@@ -1,0 +1,61 @@
+{
+  "description": "<p>This sampling design is for outlining the locations and timeframe for collecting fish and habtiat data throughout the Middle Fork John Day River.</p>\r\n",
+  "startYear": "2019",
+  "retirementYear": "2029",
+  "initiationYear": "2019",
+  "targetPopulation": null,
+  "ownerName": "Joe Lemanski",
+  "ownerEmail": "joe.lemanski@ctwsbnr.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 19687,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16294/panels/19687",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16294"
+    }
+  ],
+  "strata": [
+    {
+      "id": 22014,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16294/strata/22014",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16294"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/52",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1682",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16294/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16294",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16294/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16294",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16294",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11356"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC5 - Watershed",
+      "areaDisplayName": "Camp Creek-Middle Fork John Day River"
+    },
+    {
+      "areaTypeName": "HUC4 - Sub Basin",
+      "areaDisplayName": " MIDDLE FORK JOHN DAY"
+    }
+  ],
+  "id": 16294,
+  "title": "CTWS - Long-Term Monitoring of Middle Fork John Day Fish/Habitat Relationships",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16294",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2019-02-22T09:31:20-08:00"
+}

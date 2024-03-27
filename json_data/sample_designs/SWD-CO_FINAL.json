@@ -1,0 +1,116 @@
+{
+  "description": "No valid data",
+  "startYear": "2016",
+  "retirementYear": "",
+  "initiationYear": "2016",
+  "targetPopulation": "<p>Perennial streams and rivers on BLM land in the SW District, CO</p>\r\n",
+  "ownerName": "Scott Miller",
+  "ownerEmail": "scott.miller@usu.edu",
+  "images": [],
+  "panels": [
+    {
+      "id": 6998,
+      "name": "Year 1",
+      "abbreviation": "Yr1",
+      "years": [
+        "2016"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2536/panels/6998",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2536"
+    },
+    {
+      "id": 6999,
+      "name": "Year 2",
+      "abbreviation": "Yr2",
+      "years": [
+        "2016"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2536/panels/6999",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2536"
+    }
+  ],
+  "strata": [
+    {
+      "id": 8710,
+      "name": "GUNNISON FIELD OFFICE-Large Streams (3&4)",
+      "abbreviation": "S1",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2536/strata/8710",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2536"
+    },
+    {
+      "id": 8711,
+      "name": "GUNNISON FIELD OFFICE-Rivers (5+)",
+      "abbreviation": "S2",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2536/strata/8711",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2536"
+    },
+    {
+      "id": 8709,
+      "name": "GUNNISON FIELD OFFICE-Small Streams (1&2)",
+      "abbreviation": "S0",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2536/strata/8709",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2536"
+    },
+    {
+      "id": 8713,
+      "name": "TRES RIOS FIELD OFFICE-Large Streams (3&4)",
+      "abbreviation": "S4",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2536/strata/8713",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2536"
+    },
+    {
+      "id": 8714,
+      "name": "TRES RIOS FIELD OFFICE-Rivers (5+)",
+      "abbreviation": "S5",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2536/strata/8714",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2536"
+    },
+    {
+      "id": 8712,
+      "name": "TRES RIOS FIELD OFFICE-Small Streams (1&2)",
+      "abbreviation": "S3",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2536/strata/8712",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2536"
+    },
+    {
+      "id": 8716,
+      "name": "UNCOMPAHGRE FIELD OFFICE-Large Streams (3&4)",
+      "abbreviation": "S7",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2536/strata/8716",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2536"
+    },
+    {
+      "id": 8717,
+      "name": "UNCOMPAHGRE FIELD OFFICE-Rivers (5+)",
+      "abbreviation": "S8",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2536/strata/8717",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2536"
+    },
+    {
+      "id": 8715,
+      "name": "UNCOMPAHGRE FIELD OFFICE-Small Streams (1&2)",
+      "abbreviation": "S6",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2536/strata/8715",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2536"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/78",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1335",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/2536/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/2536",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/2536/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/2536",
+  "masterSample": {
+    "name": "Bureau of Land Management Lotic",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/8"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 2536,
+  "title": "SWD-CO_FINAL",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/2536",
+  "spatialDesignCategory": "Generalized Random Tessellation Stratified (GRTS)",
+  "spatialDesignCategoryID": 18,
+  "lastUpdated": "2017-10-03T05:40:33-07:00"
+}

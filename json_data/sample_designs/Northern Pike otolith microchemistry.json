@@ -1,0 +1,33 @@
+{
+  "description": "<p>\u200bUse solution based inductively coupled mass spectrometry to identify elements and isotope ratios from micro-milled or laser ablated Northern Pike otoliths to assign fish to specific tributaries that flow into Lake Roosevelt.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "startYear": "2018",
+  "retirementYear": "",
+  "initiationYear": "2018",
+  "targetPopulation": null,
+  "ownerName": "Holly McLellan",
+  "ownerEmail": "holly.mclellan@colvilletribes.com",
+  "images": [],
+  "panels": [],
+  "strata": [],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/21",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1300",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16251/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16251",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16251/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16251",
+  "masterSample": null,
+  "userSamples": null,
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC4 - Sub Basin",
+      "areaDisplayName": " FRANKLIN D. ROOSEVELT LAKE"
+    }
+  ],
+  "id": 16251,
+  "title": "Northern Pike otolith microchemistry",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16251",
+  "spatialDesignCategory": "Inference",
+  "spatialDesignCategoryID": 16,
+  "lastUpdated": "2018-12-20T07:26:36-08:00"
+}

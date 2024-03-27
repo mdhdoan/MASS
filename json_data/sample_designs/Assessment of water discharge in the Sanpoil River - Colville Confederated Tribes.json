@@ -1,0 +1,52 @@
+{
+  "description": "<p>Operation and maintenance of USGS gage station on the Sanpoil River near Keller, WA.</p>\r\n",
+  "startYear": "2024",
+  "retirementYear": "2025",
+  "initiationYear": "2024",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Bryan Jones",
+  "ownerEmail": "bryan.jones@colvilletribes.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 22371,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2024"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16983/panels/22371",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16983"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24652,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16983/strata/24652",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16983"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1118",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16983/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16983",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16983/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16983",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16983",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11623"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16983,
+  "title": "Assessment of water discharge in the Sanpoil River - Colville Confederated Tribes",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16983",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2023-12-07T06:25:36-08:00"
+}

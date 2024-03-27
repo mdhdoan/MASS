@@ -1,0 +1,114 @@
+{
+  "description": "<p>Asotin and Tucannon steelhead are sole populations within the Lower Snake River Major Population Group (MPG).&nbsp; Both populations include steelhead using small Snake River tributaries that have little or no fish monitoring.&nbsp; We may conduct adult steelhead sampling operations (active and/or passive) in Pataha (trib to Tucannon), Alkali Flat, Deadman, and Penawawa Creeks (independent Snake River tributaries; Tucannon steelhead population) and Almota Creek (Snake River tributary; Asotin Population).&nbsp; All of these tributaries are considered mSAs. Our adult monitoring opportunities are often limited by access via private landowners, and we may not be able to rotate trapping operations among tributaries as previously proposed.&nbsp;&nbsp;</p>\r\n\r\n<p>Adult enumeration will allow for the collection of critical data needed to assess stock status and productivity (e.g. run size, timing, age composition, sex ratios, etc.).&nbsp; Adult escapement data will be used as a primary means of monitoring for VSP levels as recommended by NOAA and the Salmon Recovery Plan for SE WA, etc.&nbsp; We will use the results from these adult enumeration sites in conjunction with results from spawning surveys and other escapement data collected for other portions of the Asotin and Tucannon populations to describe fish abundance, escapement, distribution, and productivity at the population level.&nbsp; Adult enumeration will be used to assess stock status and aid in full population level run reconstruction estimates.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "startYear": "2011",
+  "retirementYear": "2021",
+  "initiationYear": "2011",
+  "targetPopulation": null,
+  "ownerName": "Ethan Crawford",
+  "ownerEmail": "ethan.crawford@dfw.wa.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 21500,
+      "name": "Alkali Flat Creek",
+      "abbreviation": "Alkali Flat Creek",
+      "years": [
+        "2015"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16618/panels/21500",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16618"
+    },
+    {
+      "id": 21502,
+      "name": "Almota Creek",
+      "abbreviation": "Almota Creek",
+      "years": [
+        "2011",
+        "2012",
+        "2014",
+        "2016"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16618/panels/21502",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16618"
+    },
+    {
+      "id": 21501,
+      "name": "Deadman Creek",
+      "abbreviation": "Deadman Creek",
+      "years": [
+        "2012",
+        "2013",
+        "2018",
+        "2019",
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16618/panels/21501",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16618"
+    },
+    {
+      "id": 21504,
+      "name": "Pataha",
+      "abbreviation": "Pataha",
+      "years": [
+        "2011",
+        "2012",
+        "2013",
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16618/panels/21504",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16618"
+    },
+    {
+      "id": 21503,
+      "name": "Penawawa",
+      "abbreviation": "Penawawa",
+      "years": [
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16618/panels/21503",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16618"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24218,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16618/strata/24218",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16618"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/64",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/397",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16618/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16618",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16618/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16618",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design Fish Rescue Eval - Mason Creek Estimate Adult Steelhead Abundance Using Weirs in Small Streams Associated with Tucannon & Asotin Populations (2010-028-00) v1.0 WSE 121091 (3545)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1452"
+    },
+    {
+      "name": "Sample for Design #3545",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11520"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16618,
+  "title": "WDFW Adult Enumeration: Weir Operation for Asotin & Tucannon Steelhead populations - Washington Department of Fish and Wildlife (WDFW)",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16618",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2020-10-15T03:28:09-07:00"
+}

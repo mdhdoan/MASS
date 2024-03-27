@@ -1,0 +1,66 @@
+{
+  "backgroundRationale": "<p>The Select Area Fisheries Enhancement (SAFE) Program produces Chinook and coho salmon for commercial and recreational harvest in off-channel and terminal areas in the Lower Columbia River.&nbsp;Fish for this program are&nbsp;reared&nbsp;at and/or released from Oregon Department of Fish and Wildlife&nbsp;(ODFW) hatcheries (Gnat Creek and Klaskanine), a Washington Department of Fish and Wildlife (WDFW) hatchery (Grays River), a&nbsp;hatchery owned and operated by Clatsop County (South Fork Klaskanine) and net pens in Youngs Bay, Blind&nbsp;Slough, Tongue Point and Deep River (Washington). Some adult Chinook&nbsp;that are not caught in the commercial or recreational fisheries return to the hatcheries&nbsp;previously mentioned&nbsp;(except Gnat Creek as there is no adult collection trap at this hatchery).&nbsp; Fish&nbsp;collected from the traps are biologically sampled to obtain information on&nbsp;species,&nbsp;stock, age, and size. These data are used in conjunction&nbsp;with surveys of&nbsp;sport and commercial fisheries and spawning grounds to reconstruct the adult salmonid returns of fish released from the SAFE Program. The sampling outlined in this protocol specifically addresses the work performed at two&nbsp;of the SAFE funded hatcheries, Klaskanine&nbsp;and South Fork Klaskanine Hatcheries, and represents&nbsp;the data collection methods only. The data collected using this protocol is used in&nbsp;the analysis described in Protocol ID 2041 Run Reconstruction and Fishery Contribution Analysis for the Select Area Fishery Enhancement (SAFE) Program. &nbsp;&nbsp;</p>\r\n",
+  "sampleDesigns": [
+    {
+      "id": 9921,
+      "title": "Collect Scales from CJH Spring and Summer/Fall Broodstock - Colville Confederated Tribes",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/9921",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": null
+    },
+    {
+      "id": 9922,
+      "title": "Process CWT Snouts at CJH Lab - Colville Confederated Tribes",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/9922",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": null
+    },
+    {
+      "id": 9923,
+      "title": "Sampling Adult Return to Hatchery - Oregon Department of Fish and Wildlife",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/9923",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": null
+    }
+  ],
+  "objectives": [
+    "Sample adult returns of Select Area Bright fall Chinook at Klaskanine and South Fork Klaskanine Hatcheries annually to depict stocks present, and age structure of the returning population"
+  ],
+  "keyAssumptions": "<p>We assume that Coded Wire Tags (CWTs)&nbsp;can be&nbsp;consistently detected using Northwest Marine Technology (NMT) wands and tunnel detectors.</p>\r\n\r\n<p>We assume that fin marks are recognizable.</p>\r\n\r\n<p>We assume that the age structure (scale) can be accurately read.</p>\r\n",
+  "dataHandlingConsiderations": "<p>Data are entered into a handheld data logger in the field and are later uploaded to a computer and printed. Samples taken (scales and snouts) are labeled to correspond with the sampling event.</p>\r\n",
+  "qualityControlConsiderations": "<p>There are several error checks programmed into the handheld data logger to prevent omissions, keystroke errors, and data entered out of sequence. Data and samples are verified by a data technician. CWT wands are tested often using a detection standard to verify that the wand is functioning properly. Fish scales are inspected as they are sampled to ensure that they are of good readable quality.</p>\r\n",
+  "reportingConsiderations": "<p>The data collected on the handheld data logger are uploaded to a regional database owned and operated by Oregon Department of Fish and Wildlife. The database, Coded Wire Tag Fish (CWTF), stores the data and allows a user to make edits to, view, and download the data.</p>\r\n",
+  "equipmentCleaningAndCalibration": "<p>All sampling equipment are cleaned thoroughly after each sampling event. Broken or worn items are replace and/or repaired.</p>\r\n",
+  "rolesAndResponsibilities": "<p>The crew lead is responsible for coordinating with hatchery staff and sampling adult fish at the hatcheries during spawning and/or killing operations. The crew lead may be assisted by one to two crew members depending on the volume of fish to be sampled.</p>\r\n",
+  "qualifications": "<p>All crew members will be experienced in species identification of adult salmonids and the applicable sampling techniques.</p>\r\n",
+  "trainingRequirements": "<p>Crew leaders will will have at least an Associate Science degree in fisheries or 18 months of experience in aquaculture or a related field and all crew members will have received training by agency staff in sampling methodology.</p>\r\n",
+  "safetyConsiderations": "<p>Crew members will be briefed on safety precautions annually and will required to complete an online hazardous materials training.</p>\r\n",
+  "fieldScheduleNotes": "<p>Sampling is coordinated with hatchery staff so that it coincides with normal spawning or removal of fish.</p>\r\n",
+  "budgetConsiderations": "<p>CWT detection wands are relatively expensive ($3750 per unit).</p>\r\n",
+  "monitoringPurpose": null,
+  "estimatedCostPerSite": "$2,500 to $5,000",
+  "optionalMethodIDs": [],
+  "optionalMethods": [],
+  "id": 1163,
+  "name": "Sampling Adult Salmonids Returning to SAFE Hatcheries",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/studyDesigns/1163",
+  "programID": 59,
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/59",
+  "protocolID": 2039,
+  "protocolUrl": "http://www.monitoringresources.org/api/v1/protocols/2039",
+  "ownerName": "Cyndi Baker",
+  "ownerEmail": "cynthia.f.baker@state.or.us",
+  "majorVersion": 1,
+  "minorVersion": 0,
+  "previousStudyDesignVersionId": null,
+  "previousStudyDesignVersionUrl": "[none]",
+  "mostRecentVersionId": null,
+  "mostRecentVersionUrl": "[none]"
+}

@@ -1,0 +1,105 @@
+{
+  "description": "No valid data",
+  "startYear": "2007",
+  "retirementYear": "2049",
+  "initiationYear": "2007",
+  "targetPopulation": null,
+  "ownerName": "Joe  Zendt",
+  "ownerEmail": "jzendt@ykfp.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 22155,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2007"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16884/panels/22155",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16884"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24544,
+      "name": "All Sites",
+      "abbreviation": "All Sites",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16884/strata/24544",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16884"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/715",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16884/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16884",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16884/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16884",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 40573 (13032)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/3150"
+    },
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 30698 (12277)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/3367"
+    },
+    {
+      "name": "BPA Sample for Study Design Adult monitoring (1995-063-35) WSE 132910 (7001)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/4078"
+    },
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 62975 (14953)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/5966"
+    },
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 42156 (13195)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/6061"
+    },
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 23448 (11599)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/6707"
+    },
+    {
+      "name": "BPA Sample for Study Design Adult monitoring (1995-063-35) WSE 115325 (6993)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/7886"
+    },
+    {
+      "name": "BPA Sample for Study Design Adult monitoring (1995-063-35) WSE 124771 (6997)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/8479"
+    },
+    {
+      "name": "BPA Sample for Study Design Adult monitoring (1995-063-35) WSE 91915 (7010)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/9156"
+    },
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 42645 (13235)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/10772"
+    },
+    {
+      "name": "BPA Sample for Study Design Adult monitoring (1995-063-35) WSE 104750 (6989)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/10923"
+    },
+    {
+      "name": "BPA Sample for Study Design Adult monitoring (1995-063-35) WSE 83942 (7006)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/10924"
+    },
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 61047 (14746)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11156"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "NPPC Subbasins",
+      "areaDisplayName": "Klickitat"
+    }
+  ],
+  "id": 16884,
+  "title": "Adult salmonid monitoring - Yakama Confederated Tribes",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16884",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2023-04-18T00:01:45-07:00"
+}

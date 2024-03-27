@@ -1,0 +1,89 @@
+{
+  "description": "No valid data",
+  "startYear": "2023",
+  "retirementYear": "2030",
+  "initiationYear": "2023",
+  "targetPopulation": null,
+  "ownerName": "Stuart Ellis",
+  "ownerEmail": "ells@critfc.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 22053,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2023"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16858/panels/22053",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16858"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24517,
+      "name": "All Sites",
+      "abbreviation": "All Sites",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16858/strata/24517",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16858"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/524",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16858/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16858",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16858/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16858",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design Harvest sampling (2008-502-00) WSE 111525 (5154)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1214"
+    },
+    {
+      "name": "BPA Sample for Study Design Harvest sampling (2008-502-00) WSE 76810 (5163)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1606"
+    },
+    {
+      "name": "BPA Sample for Study Design Harvest sampling (2008-502-00) WSE 99555 (5167)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1821"
+    },
+    {
+      "name": "BPA Sample for Study Design Harvest sampling (2008-502-00) WSE 133392 (5161)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/2017"
+    },
+    {
+      "name": "BPA Sample for Study Design Harvest sampling (2008-502-00) WSE 121205 (5156)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/2810"
+    },
+    {
+      "name": "BPA Sample for Study Design Harvest sampling (2008-502-00) WSE 129052 (5159)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/3221"
+    },
+    {
+      "name": "BPA Sample for Study Design Harvest sampling (2008-502-00) WSE 90962 (5165)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/4790"
+    },
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 43006 (13273)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/5606"
+    },
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 64511 (15055)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/8833"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Columbia River Basin",
+      "areaDisplayName": "Columbia River"
+    }
+  ],
+  "id": 16858,
+  "title": "Fishery Monitoring - Columbia River Inter-Tribal Fish Commission (CRITFC)",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16858",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2023-02-18T07:25:28-08:00"
+}

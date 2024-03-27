@@ -1,0 +1,86 @@
+{
+  "backgroundRationale": "<p>&nbsp;Egg-to-fry survival is one of the major factors thought to limit freshwater production and recovery of Chinook salmon <em>Oncorhynchus tshawytscha </em>and other salmon populations (Reiser and White 1988; Peterson and Quinn 1996; DeVries 1997). Despite being critical data that is needed to assist with efforts to recover threatened and endangered salmonid populations, adequate estimates of egg-to-fry survival for Chinook salmon do not currently exist (Healey 1991; Bradford 1995).&nbsp;This lack of information is likely due to the difficulty in measuring Chinook salmon and other salmonid egg-to-fry survival in the field because they deposit their eggs in the gravel during periods that make extensive field research difficult (Quinn 2005). This is particularly true for Chinook salmon, which spawn in large rivers with deeper and swifter water than most other salmon, and for which developing embryos remain in the gravel throughout the winter and early spring when it is difficult to sample (Quinn 2005). Therefore, many of the existing studies of Chinook salmon egg-to-fry survival have occurred in a laboratory setting (Jensen et al. 2009) and may not adequately represent egg-to-fry survival in the natural environment. This work provides estimates of survival and development, and an assessment of factor potentially affecting either metric, over large temporal and spatial scales, in the natural environment. See Johnson et al (2012) for a complete explanation of the methodology associated with this protocol</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "sampleDesigns": [
+    {
+      "id": 9965,
+      "title": "Egg-to-fry survival study - Washington Department of Fish and Wildlife (WDFW)",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/9965",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": null
+    },
+    {
+      "id": 9968,
+      "title": "Estimating spring Chinook egg-to-fry survival and development over large temporal and spatial scales WSE 132455",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/9968",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": null
+    },
+    {
+      "id": 15689,
+      "title": "Estimating spring Chinook egg-to-fry survival and development over large temporal and spatial scales in the Methow River Basin",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15689",
+      "spatialDesignCategory": "Historic Precedent",
+      "spatialDesignCategoryID": 10,
+      "lastUpdated": "2018-05-01T02:58:46-07:00"
+    },
+    {
+      "id": 16596,
+      "title": "Estimating spring Chinook egg-to-fry survival and development over large temporal and spatial scales in the Entiat River Basin",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16596",
+      "spatialDesignCategory": "Historic Precedent",
+      "spatialDesignCategoryID": 10,
+      "lastUpdated": "2020-08-04T09:44:27-07:00"
+    },
+    {
+      "id": 16698,
+      "title": "Estimating spring Chinook egg-to-fry survival and development over large temporal and spatial scales in the Entiat River Basin",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16698",
+      "spatialDesignCategory": "Historic Precedent",
+      "spatialDesignCategoryID": 10,
+      "lastUpdated": "2021-05-12T02:41:19-07:00"
+    }
+  ],
+  "objectives": [
+    "Investigate the extent to which environmental factors such as scour, redd superimposition, fines sediment infiltration, and temperature may influence survival and development spatially and temporally.",
+    "Estimate relative developmental stage at recovery among and within primary spawning locations of the target watershed, within and among years, while controlling for parental effects.",
+    "Estimate relative spring Chinook egg-to-fry survival among and within primary spawning locations of the target watershed, within and among years, while controlling for parental effects."
+  ],
+  "keyAssumptions": "<p>1) Selected study locations are spatially and temporally representative of the population</p>\r\n\r\n<p>2) Environmental conditions within buried Whitlock-Vibert egg boxes are&nbsp;representative of conditions in the surrounding environment (see Wesche et al. 1989; Garrett and Bennett 1996).</p>\r\n\r\n<p>3) Environmental conditions experienced among study years sufficiently represent&nbsp;inter-annual variation within the target watershed.</p>\r\n\r\n<p>4) A simple thermal sums model is sufficient to calculate duration of deployment such that developmental stage at recovery is similar among study areas; which may differ substantially in the rate and magnitude of temperature unit delivery to the egg pocket.</p>\r\n",
+  "dataHandlingConsiderations": "We recommend that datasheets, many having relocation data necessary for recovery efforts, be copied rather than taken back into the field during subsequent study site visits.",
+  "qualityControlConsiderations": "Previous work has suggested that normal error rates associated with data collection and entry do not sizably affect estimates common in the field of fisheries, but that some degree of standardized review is necessary to identify instances of egregious error (Johnson et al. 2009). Efforts are made to ensure a consistent level of data quality through a combination of redundancy in field measures and data entry protocol. Field data (e.g. triangulation measures, redd morphology, distance to the nearest natural redd, site accessibility), are monitored through repeated site visits prior to box recovery. Raw data sheets are then stored in a specified cabinet within the Ellensburg WDFW field office until they can be entered into electronic format. Because data entry is often completed by personnel with varying experience, the vast majority is entered twice, and subjected to a formal cross check by an experienced technician or project biologist. This crosscheck may be in the form of a Read Aloud check, or an Excel based spreadsheet comparison. Reviewed data are then stored locally on the WDFW Ellensburg Server and on the WDFW Olympia S-drive; both of which are backed up nightly.",
+  "reportingConsiderations": "AFS format\r\nReports are generated for each study year.",
+  "equipmentCleaningAndCalibration": "Virkon solution is used to minimize the potential transfer of pathogens between watersheds:\r\nSee WDFW Policy 5310: Managing Invasive Species (attached)\r\nAND WDFW Invasive Species Management Protocols (attached)",
+  "rolesAndResponsibilities": "Crew lead: ensuring crew safety, ensuring that sampling protocols are closely followed.\r\nCrew: ensuring that sampling protocols are closely followed.",
+  "qualifications": "Crew leads should have technical fisheries and practical field sampling experience, as well as direct experience with the EF protocol, AND the ability to effectively identify and manage safety concerns. Snorkeling certification is required of at least one crew member during recovery efforts.\r\nCrew members must have the ability to strictly adhere to sampling protocols, and the ability to work under generally unfavorable environmental conditions (e.g. high flow), particularly during recovery efforts.",
+  "trainingRequirements": "For egg box stocking events, training is achieved through a hands on walk through under the  supervision of experienced personnel, normally conducted at the first study site. Crew leads must ensure that field protocols are closely followed. due to the spatial distance among study sites in most projects, crew leads must also have experience necessary to make suitable adjustments in the field with minimal oversight.\r\nAt the time of recovery, high flow conditions are common. At least one member of the recovery team must be snorkel certified. The use of a weight belt may be necessary. Crew leads must have the ability to identify and assess potential safety concerns prior to recovery attempts.",
+  "safetyConsiderations": "Potential for high flow conditions while attempting recovery.",
+  "fieldScheduleNotes": "Flexibility in scheduling must be maintained in order to 1) place egg boxes at a time that corresponds to natural spawning activity, and 2) ensure recovery through a range of  forecasted dates, which are dependent on temperature delivery through the incubation period.",
+  "budgetConsiderations": "The ability to successfully recover egg boxes can be subject to environmental conditions present at the time of forecasted development. Therefore, it is possible that recoveries may be either delayed, or under the worst of circumstances, abandoned primarily due to high flow conditions which might compromise the safety of the researchers conducting the work.",
+  "monitoringPurpose": null,
+  "estimatedCostPerSite": "$5,000 to $10,000",
+  "optionalMethodIDs": [],
+  "optionalMethods": [],
+  "id": 1195,
+  "name": "Estimating spring Chinook egg-to-fry survival and development over large temporal and spatial scales",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/studyDesigns/1195",
+  "programID": null,
+  "programUrl": "[none]",
+  "protocolID": 2103,
+  "protocolUrl": "http://www.monitoringresources.org/api/v1/protocols/2103",
+  "ownerName": "Christopher Johnson",
+  "ownerEmail": "johnsclj@dfw.wa.gov",
+  "majorVersion": 1,
+  "minorVersion": 0,
+  "previousStudyDesignVersionId": null,
+  "previousStudyDesignVersionUrl": "[none]",
+  "mostRecentVersionId": null,
+  "mostRecentVersionUrl": "[none]"
+}

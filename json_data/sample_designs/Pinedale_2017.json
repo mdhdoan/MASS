@@ -1,0 +1,105 @@
+{
+  "description": "No valid data",
+  "startYear": "2017",
+  "retirementYear": "",
+  "initiationYear": "2017",
+  "targetPopulation": "<p>BLM perennial streams and rivers within the Pinedale FO, WY</p>\r\n",
+  "ownerName": "Scott Miller",
+  "ownerEmail": "scott.miller@usu.edu",
+  "images": [],
+  "panels": [
+    {
+      "id": 8486,
+      "name": "Year 1",
+      "abbreviation": "YR1",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2641/panels/8486",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2641"
+    },
+    {
+      "id": 8487,
+      "name": "Year 2",
+      "abbreviation": "YR2",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2641/panels/8487",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2641"
+    },
+    {
+      "id": 8488,
+      "name": "Year 3",
+      "abbreviation": "YR3",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2641/panels/8488",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2641"
+    }
+  ],
+  "strata": [
+    {
+      "id": 10651,
+      "name": "In GRSG Priority Habitat-Large Streams (3&4)",
+      "abbreviation": "LS-PHMA",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2641/strata/10651",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2641"
+    },
+    {
+      "id": 10652,
+      "name": "In GRSG Priority Habitat-Rivers (5+)",
+      "abbreviation": "RV-PHMA",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2641/strata/10652",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2641"
+    },
+    {
+      "id": 10653,
+      "name": "In GRSG Priority Habitat-Small Streams (1&2)",
+      "abbreviation": "SS-PHMA",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2641/strata/10653",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2641"
+    },
+    {
+      "id": 10654,
+      "name": "NOT IN-Large Streams (3&4)",
+      "abbreviation": "LS",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2641/strata/10654",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2641"
+    },
+    {
+      "id": 10655,
+      "name": "NOT IN-Rivers (5+)",
+      "abbreviation": "RV",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2641/strata/10655",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2641"
+    },
+    {
+      "id": 10656,
+      "name": "NOT IN-Small Streams (1&2)",
+      "abbreviation": "SS",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2641/strata/10656",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2641"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/78",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1335",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/2641/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/2641",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/2641/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/2641",
+  "masterSample": {
+    "name": "Bureau of Land Management Lotic",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/8"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 2641,
+  "title": "Pinedale_2017",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/2641",
+  "spatialDesignCategory": "Generalized Random Tessellation Stratified (GRTS)",
+  "spatialDesignCategoryID": 18,
+  "lastUpdated": "2017-10-03T05:49:10-07:00"
+}

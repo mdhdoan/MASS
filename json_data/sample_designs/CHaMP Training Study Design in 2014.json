@@ -1,0 +1,120 @@
+{
+  "description": "<p>This study design supports the CHaMP 2014 training activities.&nbsp;</p>\r\n",
+  "startYear": "2014",
+  "retirementYear": "",
+  "initiationYear": "2014",
+  "targetPopulation": null,
+  "ownerName": "Steve Rentmeester",
+  "ownerEmail": "steve@sitkatech.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 4567,
+      "name": "Annual",
+      "abbreviation": "Ann",
+      "years": [
+        "2014",
+        "2015",
+        "2016"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15860/panels/4567",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15860"
+    },
+    {
+      "id": 4568,
+      "name": "Rotating Panel 1",
+      "abbreviation": "RP1",
+      "years": [
+        "2014"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15860/panels/4568",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15860"
+    }
+  ],
+  "strata": [
+    {
+      "id": 5769,
+      "name": "Cove Creek",
+      "abbreviation": "Cove",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15860/strata/5769",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15860"
+    },
+    {
+      "id": 5770,
+      "name": "Dry Creek",
+      "abbreviation": "Dry",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15860/strata/5770",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15860"
+    },
+    {
+      "id": 5771,
+      "name": "Five Points Creek",
+      "abbreviation": "Five Point",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15860/strata/5771",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15860"
+    },
+    {
+      "id": 5772,
+      "name": "Little Catherine Creek",
+      "abbreviation": "L Cathy",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15860/strata/5772",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15860"
+    },
+    {
+      "id": 5773,
+      "name": "Milk Creek",
+      "abbreviation": "Milk",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15860/strata/5773",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15860"
+    },
+    {
+      "id": 5774,
+      "name": "Mill Creek",
+      "abbreviation": "Mill",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15860/strata/5774",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15860"
+    },
+    {
+      "id": 5775,
+      "name": "Pelican Creek",
+      "abbreviation": "Pelican",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15860/strata/5775",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15860"
+    },
+    {
+      "id": 5776,
+      "name": "Rock Creek",
+      "abbreviation": "Rock",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15860/strata/5776",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15860"
+    },
+    {
+      "id": 5777,
+      "name": "Spring Creek",
+      "abbreviation": "Spring",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15860/strata/5777",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15860"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/18",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/224",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15860/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15860",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15860/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15860",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "CHaMP Training MOCK 2012 Sites",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1055"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 15860,
+  "title": "CHaMP Training Study Design in 2014",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15860",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2015-06-02T01:42:43-07:00"
+}

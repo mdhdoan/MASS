@@ -1,0 +1,52 @@
+{
+  "description": "<p>This sample design covers USGS gage operation and maintenance for USGS gages within the John Day Basin.&nbsp;</p>\r\n",
+  "startYear": "2019",
+  "retirementYear": "2020",
+  "initiationYear": "2019",
+  "targetPopulation": null,
+  "ownerName": "Amy Charette",
+  "ownerEmail": "amy.charette@ctwsbnr.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 19588,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16250/panels/19588",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16250"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21949,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16250/strata/21949",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16250"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/85",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1238",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16250/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16250",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16250/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16250",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16250",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11341"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16250,
+  "title": "John Day Basin USGS Gage Station Operation and Maintenance - Confederated Tribes of Warm Springs",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16250",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2018-12-20T03:30:30-08:00"
+}

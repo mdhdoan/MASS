@@ -1,0 +1,59 @@
+{
+  "description": "<p><span style=\"line-height:1.1875\">Fish Habitat Monitoring conducted by the Confederated Tribes of the </span>Umatilla<span style=\"line-height:1.1875\"> Indian Reservation.&nbsp;</span></p>\r\n\r\n<p>This is the same design as 2014 and it was copied by Carol Volk on 6/24/16 so that panels could be extended to 2016 for 2016 sampling.</p>\r\n",
+  "startYear": "2013",
+  "retirementYear": "",
+  "initiationYear": "2014",
+  "targetPopulation": "COPY: COPY: COPY: COPY: ",
+  "ownerName": "Colin Riordan",
+  "ownerEmail": "colin@naturaldes.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 7166,
+      "name": "Annual",
+      "abbreviation": "Ann",
+      "years": [
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2582/panels/7166",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2582"
+    }
+  ],
+  "strata": [
+    {
+      "id": 9202,
+      "name": "SF Touchet Control AEM non-target",
+      "abbreviation": "SFT-Cntrl-NonAEM",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2582/strata/9202",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2582"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/2582/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/2582",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/2582/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/2582",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "SFT00001 Sample",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1044"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 2582,
+  "title": "Walla Walla Action Effectiveness Habitat Monitoring in 2016 (AEM non-target)",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/2582",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2016-06-30T02:20:12-07:00"
+}

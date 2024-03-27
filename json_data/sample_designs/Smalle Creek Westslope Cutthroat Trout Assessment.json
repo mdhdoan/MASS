@@ -1,0 +1,81 @@
+{
+  "description": "<p>There are two components of this Sample Design: 1) abundance&nbsp;assessment, 2) spatial distribution (extent)</p>\r\n\r\n<p>Within the&nbsp;stream being assessed, the habitat has been delineated into 1.0-1.2 km reaches (stratum). Within each reach there are 10-12 100m Sampling Units (sites). All reaches will be selected for the assessment, with a random (drawn) selection of one 100m site per&nbsp;reach.&nbsp; Abundance assessments of the Westslope Cutthroat Trout population will be conducted within each selected project site. Prior to conducting the assessments, each site will be evaluated in the field to ensure it contains representative habitat; if not, an alternative randomly sampled site will be chosen If no fish are observed in a selected site, a secondary site within the reach will be assessed.</p>\r\n\r\n<p>For the secondary component, single-pass electrofishing will be conducted in a non-random fashion within each reach to determine the spatial extent of the population; this is a simple presence/absence survey.</p>\r\n\r\n<p>The assessments will be conducted in a single event (one time) over the course of a two-week period (August-September timeframe) to ensure equal distribution of the population and limited movement.</p>\r\n",
+  "startYear": "2023",
+  "retirementYear": "2023",
+  "initiationYear": "2023",
+  "targetPopulation": null,
+  "ownerName": "Nick Bean",
+  "ownerEmail": "nbean@knrd.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 22002,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2023"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16843/panels/22002",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16843"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24496,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16843/strata/24496",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16843"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/89",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1853",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16843/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16843",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16843/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16843",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16843",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11601"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC6 - Sub Watershed",
+      "areaDisplayName": "Smalle Creek"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "48.363320,-117.469900"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "48.362840,-117.453910"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "48.359110,-117.438160"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "48.353610,-117.429940"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "48.349020,-117.424900"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "48.342840,-117.418170"
+    }
+  ],
+  "id": 16843,
+  "title": "Smalle Creek Westslope Cutthroat Trout Assessment",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16843",
+  "spatialDesignCategory": "Simple Random Sample, Stratified",
+  "spatialDesignCategoryID": 2,
+  "lastUpdated": "2023-01-27T01:55:43-08:00"
+}

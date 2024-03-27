@@ -1,0 +1,52 @@
+{
+  "description": "<p>Juvenile O. nerka outmigrants, PIT tagged at a rotary screw trap (RST) as they egress Suttle Lake, fail to become detected 2500m downstream at antenna arrays in the distributaries of Lake Creek: North, Middle, and South forks of Lake Creek. &nbsp;The objectives are to: survey this reach of Lake Creek, between the RST and the &quot;mouths&quot; of the distributaries to determine if and what relative abundance are O. nerka remaining in this reach; determine the species and relative abundance of piscivorous fishes in this reach; determine whether O. nerka are returning to Suttle Lake.&nbsp;</p>\r\n",
+  "startYear": "2018",
+  "retirementYear": "",
+  "initiationYear": "2018",
+  "targetPopulation": null,
+  "ownerName": "Cyndi Baker",
+  "ownerEmail": "cyndi.baker@ctwsbnr.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 19042,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15582/panels/19042",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15582"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21465,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15582/strata/21465",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15582"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/35",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1393",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15582/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15582",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15582/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15582",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "lower Lake Creek, Metolius Subbasin",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11223"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 15582,
+  "title": "CTWS RM&E -Determine fate of O. nerka in lower Lake Creek by snorkel observation and sampling using fyke nets and electrofishing",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15582",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2018-01-31T09:29:50-08:00"
+}

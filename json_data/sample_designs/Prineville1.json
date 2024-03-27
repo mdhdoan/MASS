@@ -1,0 +1,85 @@
+{
+  "description": "No valid data",
+  "startYear": "2016",
+  "retirementYear": "",
+  "initiationYear": "2016",
+  "targetPopulation": "<p>Perennial streams and rivers on BLM in the Prineville, FO</p>\r\n\r\n<p>Reporting units: District, small streams +&nbsp;large streams, rivers other</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "ownerName": "Scott Miller",
+  "ownerEmail": "scott.miller@usu.edu",
+  "images": [],
+  "panels": [
+    {
+      "id": 6927,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2016"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2510/panels/6927",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2510"
+    }
+  ],
+  "strata": [
+    {
+      "id": 8416,
+      "name": "1.0",
+      "abbreviation": "S1",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2510/strata/8416",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2510"
+    },
+    {
+      "id": 8417,
+      "name": "2.0",
+      "abbreviation": "S2",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2510/strata/8417",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2510"
+    },
+    {
+      "id": 8418,
+      "name": "3.0",
+      "abbreviation": "S3",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2510/strata/8418",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2510"
+    },
+    {
+      "id": 8419,
+      "name": "4.0",
+      "abbreviation": "S4",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2510/strata/8419",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2510"
+    },
+    {
+      "id": 8420,
+      "name": "5.0",
+      "abbreviation": "S5",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2510/strata/8420",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2510"
+    },
+    {
+      "id": 8421,
+      "name": "6.0",
+      "abbreviation": "S6",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2510/strata/8421",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2510"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/78",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1335",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/2510/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/2510",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/2510/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/2510",
+  "masterSample": {
+    "name": "Bureau of Land Management Lotic",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/8"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 2510,
+  "title": "Prineville1",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/2510",
+  "spatialDesignCategory": "Generalized Random Tessellation Stratified (GRTS)",
+  "spatialDesignCategoryID": 18,
+  "lastUpdated": "2017-10-03T05:52:21-07:00"
+}

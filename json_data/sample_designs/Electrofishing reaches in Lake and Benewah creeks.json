@@ -1,0 +1,77 @@
+{
+  "description": "No valid data",
+  "startYear": "2018",
+  "retirementYear": "",
+  "initiationYear": "2018",
+  "targetPopulation": null,
+  "ownerName": "Jon Firehammer",
+  "ownerEmail": "jfirehammer@cdatribe-nsn.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 19057,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15593/panels/19057",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15593"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21480,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15593/strata/21480",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15593"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/70",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/855",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15593/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15593",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15593/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15593",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Electroshocking locations in Schoolhouse Creek in CDA Basin",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11240"
+    },
+    {
+      "name": "Electroshocking locations in South Fork Benewah Creek in CDA Basin",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11241"
+    },
+    {
+      "name": "Electroshocking locations in West Fork Benewah Creek in CDA Basin",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11242"
+    },
+    {
+      "name": "Electroshocking locations in Windfall Creek in CDA Basin",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11243"
+    },
+    {
+      "name": "Electroshocking locations in Upper Fork Lake Creek in CDA Basin",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11245"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC6 - Sub Watershed",
+      "areaDisplayName": "Benewah Creek"
+    },
+    {
+      "areaTypeName": "HUC6 - Sub Watershed",
+      "areaDisplayName": "Lake Creek"
+    }
+  ],
+  "id": 15593,
+  "title": "Electrofishing reaches in Lake and Benewah creeks",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15593",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2018-02-16T02:11:02-08:00"
+}

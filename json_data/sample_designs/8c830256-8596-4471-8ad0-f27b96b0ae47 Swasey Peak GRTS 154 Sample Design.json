@@ -1,0 +1,50 @@
+{
+  "description": "No valid data",
+  "startYear": "2017",
+  "retirementYear": "2017",
+  "initiationYear": "2017",
+  "targetPopulation": null,
+  "ownerName": "Keith Day",
+  "ownerEmail": "keithday@utah.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 19511,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16215/panels/19511",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16215"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21913,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16215/strata/21913",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16215"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/80",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1639",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16215/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16215",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16215/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16215",
+  "masterSample": {
+    "name": "Continental United States 10 KM Grid",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/10"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 16215,
+  "title": "8c830256-8596-4471-8ad0-f27b96b0ae47 Swasey Peak GRTS 154 Sample Design",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16215",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": null
+}

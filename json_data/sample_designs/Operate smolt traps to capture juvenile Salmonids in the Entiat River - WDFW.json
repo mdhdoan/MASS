@@ -1,0 +1,61 @@
+{
+  "description": "<p>Design is to be a restricted&nbsp; census: (Update the &quot;Spatial Design Category&quot;&nbsp;</p>\r\n\r\n<p>Operation period:&nbsp;During summer (June 4 through October 15) and fall (October 16 through November 16) periods the trap may be operated less than 7 days per week, as determined by WDFW</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Target Specied:&nbsp;&nbsp;Steelhead, Spring and Summer Chinook&nbsp;</p>\r\n",
+  "startYear": "2021",
+  "retirementYear": "2022",
+  "initiationYear": "2021",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Jeremy Cram",
+  "ownerEmail": "jeremy.cram@dfw.wa.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 21639,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16688/panels/21639",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16688"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24292,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16688/strata/24292",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16688"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/64",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1784",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16688/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16688",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16688/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16688",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Operate smolt traps to capture juvenile Salmonids in the Entiat River - WDFW",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11318"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Entiat River"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "Entiat River"
+    }
+  ],
+  "id": 16688,
+  "title": "Operate smolt traps to capture juvenile Salmonids in the Entiat River - WDFW",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16688",
+  "spatialDesignCategory": "Census: Restricted",
+  "spatialDesignCategoryID": 6,
+  "lastUpdated": "2021-05-20T00:56:21-07:00"
+}

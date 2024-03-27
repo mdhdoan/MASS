@@ -1,0 +1,50 @@
+{
+  "description": "No valid data",
+  "startYear": "2017",
+  "retirementYear": "2017",
+  "initiationYear": "2017",
+  "targetPopulation": null,
+  "ownerName": "Lizzy Edson",
+  "ownerEmail": "ledson@parksconservancy.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 19414,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16167/panels/19414",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16167"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21823,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16167/strata/21823",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16167"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/80",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1575",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16167/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16167",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16167/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16167",
+  "masterSample": {
+    "name": "Continental United States 10 KM Grid",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/10"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 16167,
+  "title": "454271fb-a8bf-421a-adb0-cdf45110c8f3 Marin Bat Monitoring Sample Design",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16167",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": "2018-08-14T22:56:23-07:00"
+}

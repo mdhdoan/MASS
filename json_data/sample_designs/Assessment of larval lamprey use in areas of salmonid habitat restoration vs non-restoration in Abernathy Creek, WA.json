@@ -1,0 +1,52 @@
+{
+  "description": "<p>We will use a nested sampling design. Sites will be distributed throughout Abernathy Creek, WA&nbsp;watershed and downstream 100m from Washington Department of Fish and Wildlife Intensively Monitored Watershed GRRTS electrofishing&nbsp;multipass sites.&nbsp; At each site we will sample twelve&nbsp;1 m x 1 m quadrats distributed in the mid channel and along the creek&nbsp;margins (within 20 cm of bank) in six transects spaced every 10 m.&nbsp; Sites will be sampled during low flows in August and September of 2021.</p>\r\n",
+  "startYear": "2021",
+  "retirementYear": "2022",
+  "initiationYear": "2021",
+  "targetPopulation": null,
+  "ownerName": "Ben Kennedy",
+  "ownerEmail": "benjamen_kennedy@fws.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 21911,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16781/panels/21911",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16781"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24433,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16781/strata/24433",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16781"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1823",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16781/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16781",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16781/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16781",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design VSP monitoring, adult salmonid data collection spawning ground surveys (abundance, diversity and distribution), spawning ground surveys WSE 76333 (9548)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/8959"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16781,
+  "title": "Assessment of larval lamprey use in areas of salmonid habitat restoration vs non-restoration in Abernathy Creek, WA",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16781",
+  "spatialDesignCategory": "Generalized Random Tessellation Stratified (GRTS), External",
+  "spatialDesignCategoryID": 19,
+  "lastUpdated": "2022-03-18T02:44:25-07:00"
+}

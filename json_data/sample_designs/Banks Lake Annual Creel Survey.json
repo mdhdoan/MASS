@@ -1,0 +1,63 @@
+{
+  "description": "<p>A non-uniform probability sampling design rove/access creel survey will be used to estimate total fishing pressure, catch-per-unit-effort (CPUE), harvest-per-unit-effort (HPUE), and total harvest of fish from Banks Lake. We will survey ten permanent creel stations annually.</p>\r\n\r\n<p>Annual creel surveys will be conducted on 10 randomly chosen weekdays and 4-5 weekend/holidays each month, which vary depending on the number of days each month. Each survey will last 8 hours and consist of a rove and access visit. During rove surveys, each station will be visited to count the total number of boat trailers and shore anglers and interview anglers. Flights will be conducted twice per month to count trailers, boats and the type of boating activity. This will provide a correction factor for fishing pressure when comparing trailer counts to boating activity on the lake. Access surveys will be conducted at two randomly selected stations per creel day, designed to collect completed trip information from anglers as they leave the lake. Monthly access randomization will be based on the proportional use of each boat ramp from the previous years. The creel survey start time and rove time will be randomly selected with equal probability and based on 8 hours after sunrise or 8 hours prior to sunset.</p>\r\n",
+  "startYear": "2019",
+  "retirementYear": "2020",
+  "initiationYear": "2019",
+  "targetPopulation": null,
+  "ownerName": "Matt Polacek",
+  "ownerEmail": "polacmcp@dfw.wa.gov",
+  "images": [
+    {
+      "type": "Document",
+      "url": "http://www.monitoringresources.org/Designer/Design/UploadAsFile/5832",
+      "caption": null
+    },
+    {
+      "type": "Document",
+      "url": "http://www.monitoringresources.org/Designer/Design/UploadAsFile/5833",
+      "caption": "Creel Datasheets"
+    }
+  ],
+  "panels": [
+    {
+      "id": 19586,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16249/panels/19586",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16249"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21947,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16249/strata/21947",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16249"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/841",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16249/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16249",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16249/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16249",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16249",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11339"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16249,
+  "title": "Banks Lake Annual Creel Survey",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16249",
+  "spatialDesignCategory": "Other...",
+  "spatialDesignCategoryID": 17,
+  "lastUpdated": "2018-12-12T05:52:59-08:00"
+}

@@ -1,0 +1,60 @@
+{
+  "description": "<div>Monitor smolt production, smolt condition and migration performance, and smolt-to-adult survival of hatchery-reared summer steelhead and Chinook salmon.</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>Summer steelhead, yearling spring Chinook salmon and subyearling fall Chinook salmon are reared at Umatilla Fish Hatchery.&nbsp; As recommended by the Hatchery Scientific Review Group, starting with the 2009 brood, yearling spring Chinook salmon were reared in two separate groups; a Conservation Group from naturally reproduced parents, and a Harvest Group from hatchery parents.&nbsp; The goal of this program was to establish sustainable natural populations while also providing harvest opportunities.&nbsp; However, water shortages at the hatchery forced the termination of the Conservation program starting with brood year 2016.</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>The Umatilla fall Chinook salmon program has been changed beginning with brood year 2013; a Conservation Group of yearling smolts was eliminated, and the number of yearling smolts released for the harvest program was increased from 480,000 to 900,000.&nbsp; A portion of the increased yearling production will be direct released, and their SARs and stray rates will be compared to acclimated releases. To monitor the success of each stock and rearing strategy, we quantify the number of smolts released and smolt condition (length, weight, condition factor) at release.</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>We evaluate adult returns from each production group, including adults harvested in and out of the Umatilla Subbasin, broodstock collected, strays, spawning escapement monitored by the Umatilla Passage Operations Project, and contribution to natural spawners reported by the Umatilla Natural Production Project.&nbsp; Smolt-to-adult survival, harvest, and spawning contributions of each production group are determined using CWT recoveries compiled and reported by the Pacific States Marine Fisheries Commission (PSMFC) database.&nbsp;</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>Coded-wire tags are recovered in fisheries, at terminal locations (hatcheries, dams, weirs, etc.), from hatchery broodstock, and from carcasses recovered on the spawning grounds.</div>\r\n",
+  "startYear": "2014",
+  "retirementYear": "2049",
+  "initiationYear": "2014",
+  "targetPopulation": null,
+  "ownerName": "Joseph Feldhaus",
+  "ownerEmail": "joseph.feldhaus@odfw.oregon.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 21402,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2014"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16599/panels/21402",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16599"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24170,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16599/strata/24170",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16599"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/20",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/527",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16599/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16599",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16599/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16599",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design Umatilla Hatchery Monitoring and Evaluation (1990-005-00) WSE 89917 (5286)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/2025"
+    },
+    {
+      "name": "BPA Sample for Study Design Umatilla Hatchery Monitoring and Evaluation (1990-005-00) WSE 99363 (5297)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/4795"
+    },
+    {
+      "name": "Sample for Design #5227",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11404"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16599,
+  "title": "Collect Hatchery Smolt Production Data - Oregon Department of Fish and Wildlife",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16599",
+  "spatialDesignCategory": "Census: Restricted",
+  "spatialDesignCategoryID": 6,
+  "lastUpdated": "2020-08-19T06:43:44-07:00"
+}

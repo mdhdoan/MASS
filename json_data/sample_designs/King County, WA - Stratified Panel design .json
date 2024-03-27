@@ -1,0 +1,138 @@
+{
+  "description": "<p>Started with the WA DNR master sample, and then refined the frame to only Municipal Watersheds in King County and streams of Strahler Order 0, 1, or 2. I then stratified based on Ecoregion and Strahler Order to ensure I got a spread of sites in the Puget Lowlands as well as in the Cascades.</p>\r\n",
+  "startYear": "2012",
+  "retirementYear": "",
+  "initiationYear": "2012",
+  "targetPopulation": null,
+  "ownerName": "Matt Deniston",
+  "ownerEmail": "matt@sitkatech.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 19,
+      "name": "Annual",
+      "abbreviation": "A",
+      "years": [
+        "2012",
+        "2013",
+        "2014"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/10/panels/19",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/10"
+    },
+    {
+      "id": 20,
+      "name": "Rotating 1",
+      "abbreviation": "R1",
+      "years": [
+        "2012"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/10/panels/20",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/10"
+    },
+    {
+      "id": 21,
+      "name": "Rotating 2",
+      "abbreviation": "R2",
+      "years": [
+        "2013"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/10/panels/21",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/10"
+    },
+    {
+      "id": 22,
+      "name": "Rotating 3",
+      "abbreviation": "R3",
+      "years": [
+        "2014"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/10/panels/22",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/10"
+    }
+  ],
+  "strata": [
+    {
+      "id": 133,
+      "name": "StrahlerOrder0-Cascades",
+      "abbreviation": "SO-Casc",
+      "url": "http://www.monitoringresources.org/api/v1/designs/10/strata/133",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/10"
+    },
+    {
+      "id": 134,
+      "name": "StrahlerOrder0-North Cascades",
+      "abbreviation": "SO-NCas",
+      "url": "http://www.monitoringresources.org/api/v1/designs/10/strata/134",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/10"
+    },
+    {
+      "id": 135,
+      "name": "StrahlerOrder0-Puget Lowland",
+      "abbreviation": "SO-PuSo",
+      "url": "http://www.monitoringresources.org/api/v1/designs/10/strata/135",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/10"
+    },
+    {
+      "id": 136,
+      "name": "StrahlerOrder1-Cascades",
+      "abbreviation": "S1-Casc",
+      "url": "http://www.monitoringresources.org/api/v1/designs/10/strata/136",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/10"
+    },
+    {
+      "id": 137,
+      "name": "StrahlerOrder1-North Cascades",
+      "abbreviation": "S1-NCas",
+      "url": "http://www.monitoringresources.org/api/v1/designs/10/strata/137",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/10"
+    },
+    {
+      "id": 138,
+      "name": "StrahlerOrder1-Puget Lowland",
+      "abbreviation": "S1-PuSo",
+      "url": "http://www.monitoringresources.org/api/v1/designs/10/strata/138",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/10"
+    },
+    {
+      "id": 139,
+      "name": "StrahlerOrder2-Cascades",
+      "abbreviation": "S2-Casc",
+      "url": "http://www.monitoringresources.org/api/v1/designs/10/strata/139",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/10"
+    },
+    {
+      "id": 140,
+      "name": "StrahlerOrder2-North Cascades",
+      "abbreviation": "S2-NCas",
+      "url": "http://www.monitoringresources.org/api/v1/designs/10/strata/140",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/10"
+    },
+    {
+      "id": 141,
+      "name": "StrahlerOrder2-Puget Lowland",
+      "abbreviation": "S2-PuSo",
+      "url": "http://www.monitoringresources.org/api/v1/designs/10/strata/141",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/10"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/10",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/36",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/10/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/10",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/10/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/10",
+  "masterSample": {
+    "name": "Washington Statewide Master Sample",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/3"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 10,
+  "title": "King County, WA - Stratified Panel design ",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/10",
+  "spatialDesignCategory": "Generalized Random Tessellation Stratified (GRTS)",
+  "spatialDesignCategoryID": 18,
+  "lastUpdated": "2013-03-20T00:16:58-07:00"
+}

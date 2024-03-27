@@ -1,0 +1,79 @@
+{
+  "description": "<p>The purpose of this study plan is to provide a framework for consistent repeated sampling to determine examine trends in the abundance&nbsp;and survival of juvenile summer steelhead out-migrating from Birch Creek.&nbsp; Out-migrating juvenile steelhead are captured using a rotary screw trap or inclined plan screen trap.&nbsp; Birch Creek is a major steelhead producing tributary in the Umatilla River and managed as a wild fish sanctuary.&nbsp; Juvenile steelhead typically exit Birch Creek between December and June, with the majority leaving in early May.&nbsp; The small stream size and large population size result in ample capture of juveniles resulting in abundance estimates that typically meet recommend data precision standards.</p>\r\n",
+  "startYear": "2012",
+  "retirementYear": "2023",
+  "initiationYear": "2012",
+  "targetPopulation": null,
+  "ownerName": "Josh Hanson",
+  "ownerEmail": "Josh.hanson@odfw.oregon.gov",
+  "images": [
+    {
+      "type": "Photo",
+      "url": "http://www.monitoringresources.org/Designer/Design/UploadAsFile/6950",
+      "caption": "Study area map."
+    }
+  ],
+  "panels": [
+    {
+      "id": 21766,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2012"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16738/panels/21766",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16738"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24351,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16738/strata/24351",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16738"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/66",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1809",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16738/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16738",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16738/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16738",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design Walla Walla Salmonid Monitoring & Evaluation Salmon and Steelhead Passage Evaluations (Radio Telemetry) v1.0 WSE 105387 (3191)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/2380"
+    },
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 50443 (13853)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/4243"
+    },
+    {
+      "name": "BPA Sample for Study Design Estimating Salmonid Smolt Abundance in Northeast-Central, Oregon WSE 89939 (7587)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/9924"
+    },
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 40006 (12989)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/10750"
+    },
+    {
+      "name": "Sample for Design #16697",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11537"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC5 - Watershed",
+      "areaDisplayName": "Birch Creek"
+    }
+  ],
+  "id": 16738,
+  "title": "Oregon Department of Fish and Wildlife Steelhead Out-migrant Monitoring in Birch Creek",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16738",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2023-09-22T02:56:02-07:00"
+}

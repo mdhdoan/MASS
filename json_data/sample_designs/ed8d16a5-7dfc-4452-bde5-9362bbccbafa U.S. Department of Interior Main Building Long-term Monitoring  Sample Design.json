@@ -1,0 +1,50 @@
+{
+  "description": "No valid data",
+  "startYear": "2017",
+  "retirementYear": "2017",
+  "initiationYear": "2017",
+  "targetPopulation": null,
+  "ownerName": "Brian Reichert",
+  "ownerEmail": "breichert@usgs.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 19496,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16211/panels/19496",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16211"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21902,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16211/strata/21902",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16211"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/80",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1632",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16211/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16211",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16211/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16211",
+  "masterSample": {
+    "name": "Continental United States 10 KM Grid",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/10"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 16211,
+  "title": "ed8d16a5-7dfc-4452-bde5-9362bbccbafa U.S. Department of Interior Main Building Long-term Monitoring  Sample Design",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16211",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": null
+}

@@ -1,0 +1,48 @@
+{
+  "backgroundRationale": "<p>The Wind River Watershed Project is a multi-agency watershed-scale&nbsp;effort to restore wild Wind River steelhead through habitat restoration and a robust RM and E program.&nbsp; Streamflow measurements on the Wind River are used to help manage juvenile traps, and to design and monitor habitat work in the drainage.</p>\r\n",
+  "sampleDesigns": [
+    {
+      "id": 16234,
+      "title": "Operate and maintain Wind River Gage - US Forest Service (USFS): Wind River",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16234",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": "2018-11-09T03:47:03-08:00"
+    }
+  ],
+  "objectives": [
+    "Provide hourly streamflow data available in realtime."
+  ],
+  "keyAssumptions": "<p>Stream stage measurements can be used to approximate stream discharge using an established rating curve developed at the monitoring location.</p>\r\n",
+  "dataHandlingConsiderations": "<p>Data are reported from a remotely operated data logger via GOES satellite</p>\r\n",
+  "qualityControlConsiderations": "<p>Direct lowflow discharge measurements are completed each year to validate the rating curve</p>\r\n",
+  "reportingConsiderations": null,
+  "equipmentCleaningAndCalibration": "<p>Instrumentation is maintained and checked for operation 2-4 times per year</p>\r\n",
+  "rolesAndResponsibilities": "<p>Instrumentation maintenance and data collection are contracted out</p>\r\n",
+  "qualifications": null,
+  "trainingRequirements": null,
+  "safetyConsiderations": null,
+  "fieldScheduleNotes": "<p>Lowflow discharge measurements are made in September/October yearly to validate or update the rating curve for this site.</p>\r\n",
+  "budgetConsiderations": "<p>We use an abandoned USGS gage house for equipment housing and security.</p>\r\n",
+  "monitoringPurpose": null,
+  "estimatedCostPerSite": "$5,000 to $10,000",
+  "optionalMethodIDs": [],
+  "optionalMethods": [],
+  "id": 1196,
+  "name": "Discharge Measurement",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/studyDesigns/1196",
+  "programID": 40,
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40",
+  "protocolID": 2104,
+  "protocolUrl": "http://www.monitoringresources.org/api/v1/protocols/2104",
+  "ownerName": "Bengt Coffin",
+  "ownerEmail": "bcoffin@fs.fed.us",
+  "majorVersion": 1,
+  "minorVersion": 0,
+  "previousStudyDesignVersionId": null,
+  "previousStudyDesignVersionUrl": "[none]",
+  "mostRecentVersionId": null,
+  "mostRecentVersionUrl": "[none]"
+}

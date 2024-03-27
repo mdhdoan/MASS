@@ -1,0 +1,73 @@
+{
+  "description": "<p>Measure stream flow in the North Fork Walla Walla River and its tributaries</p>\r\n",
+  "startYear": "2021",
+  "retirementYear": "",
+  "initiationYear": "2021",
+  "targetPopulation": null,
+  "ownerName": "Troy Baker",
+  "ownerEmail": "troy.baker@wwbwc.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 21742,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16726/panels/21742",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16726"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24337,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16726/strata/24337",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16726"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1074",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16726/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16726",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16726/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16726",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16723",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11544"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.896778,-118.252528"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.891073,-118.238672"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.891660,-118.148000"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.891384,-118.147963"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.900563,-118.297284"
+    }
+  ],
+  "id": 16726,
+  "title": "Collect Stream Flow Data - Walla Walla Basin Watershed Council, Study Plan 1074",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16726",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2021-07-22T00:41:52-07:00"
+}

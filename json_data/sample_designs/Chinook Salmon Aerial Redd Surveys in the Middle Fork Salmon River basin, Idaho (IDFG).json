@@ -1,0 +1,81 @@
+{
+  "description": "<p>Conduct aerial survey redd counts for&nbsp; Spring and summer Chinook salmon that spawn in the Middle Fork Salmon River (MFSR) for support of Spawner abundance estimates and species distribution.&nbsp; the spatial extent supports 12 tributaries and the mainstem MFSR have the potential to support populations of Chinook salmon. The primary survey method we employ is redd observations from low-level helicopter flights. For consistency, the principle investigator has and will continue to conduct all aerial redd counts. We will fly all accessible stream reaches (about 800 km) after Chinook salmon have completed spawning and while redds are visible. Typically Chinook salmon have completed spawning by early September so the primary redd survey will be conducted during the second week in September. We will use results of IDFG index area surveys and our own redd research surveys to determine when spawning is completed. Redd locations will be specifically located with the aide of a GPS unit mounted on the helicopter. In 2003, we documented a segment of the Chinook salmon population that spawned in late September, approximately two weeks after our primary redd survey. Since the primary redd survey in early September would fail to detect these redds, when funds are adequate and adult escapements warrant, we will conduct a secondary survey in late September to re-survey the lower 48 km of the mainstem MFSR and lower reaches of Big Creek up to Cave Cr. When adult returns warrant, this secondary survey is necessary to account for the later spawning segment of the spawning run. Failure to survey all spawning segments will result in an incomplete database to describe redd locations and occupied patches.</p>\r\n",
+  "startYear": "2018",
+  "retirementYear": "",
+  "initiationYear": "2018",
+  "targetPopulation": null,
+  "ownerName": "Luciano Chiaramonte",
+  "ownerEmail": "luciano.chiaramonte@idfg.idaho.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 19512,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16208/panels/19512",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16208"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21914,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16208/strata/21914",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16208"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/73",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1633",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16208/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16208",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16208/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16208",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Chinook Salmon Aerial Redd Surveys in the Middle Fork Salmon River basin, Idaho (IDFG)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11328"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Loon Creek"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Camas Creek"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Middle Fork Salmon River above Indian Creek"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Bear Valley Creek"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Sulphur Creek"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Middle Fork Salmon River below Indian Creek"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Big Creek"
+    }
+  ],
+  "id": 16208,
+  "title": "Chinook Salmon Aerial Redd Surveys in the Middle Fork Salmon River basin, Idaho (IDFG)",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16208",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2023-11-16T08:40:06-08:00"
+}

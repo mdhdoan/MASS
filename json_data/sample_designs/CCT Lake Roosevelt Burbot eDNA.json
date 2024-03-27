@@ -1,0 +1,52 @@
+{
+  "description": "<p>Burbot eDNA sampling to determine if Burbot are present in Lake Roosevelt tributaries during the spawning period (Jan-Mar).</p>\r\n",
+  "startYear": "2018",
+  "retirementYear": "",
+  "initiationYear": "2018",
+  "targetPopulation": null,
+  "ownerName": "Jason McLellan",
+  "ownerEmail": "jason.mclellan@colvilletribes.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 19000,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16120/panels/19000",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16120"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21427,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16120/strata/21427",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16120"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/21",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1355",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16120/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16120",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16120/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16120",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Lake Roosevelt trib Burbot eDNA",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11209"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16120,
+  "title": "CCT Lake Roosevelt Burbot eDNA",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16120",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2017-12-20T06:16:14-08:00"
+}

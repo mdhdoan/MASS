@@ -1,0 +1,103 @@
+{
+  "backgroundRationale": "<p>This supports routine O&amp;M actions and emergency IPTDS repair for Snake River and Upper Columbia River salmonid population escapement and distribution.</p>\r\n",
+  "sampleDesigns": [
+    {
+      "id": 16730,
+      "title": "Task 2: Operate and Maintain ISEMP IPTDS. - Quantitative Consultants Inc 1, cloned for Study Plan 74",
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16730",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": "2021-08-18T04:20:25-07:00"
+    },
+    {
+      "id": 16731,
+      "title": "Task 5: Lower Granite Dam adult spring/summer Chinook salmon and steelhead scale ageing. - Quantitative Consultants Inc 1, cloned for Study Plan 74",
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16731",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": "2021-08-18T04:20:25-07:00"
+    },
+    {
+      "id": 16732,
+      "title": "Operate and maintain PIT tag arrays - Washington Department of Fish and Wildlife (WDFW): ISEMP Protocol , cloned for Study Plan 74",
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16732",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": "2021-08-18T04:20:25-07:00"
+    },
+    {
+      "id": 16733,
+      "title": "Task 6: Lower Granite Dam adult and tributary juvenile salmonid scale analysis - Quantitative Consultants Inc 1, cloned for Study Plan 74",
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16733",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": "2021-08-18T04:20:25-07:00"
+    },
+    {
+      "id": 16734,
+      "title": "Task 3: Operate and Maintain ISEMP IPTDS. - Quantitative Consultants Inc, cloned for Study Plan 74",
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16734",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": "2021-08-18T04:20:25-07:00"
+    },
+    {
+      "id": 16735,
+      "title": "Develop and test methods to calculate instantaneous and periodic PIT tag array efficiency. - Quantitative Consultants Inc, cloned for Study Plan 74",
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16735",
+      "spatialDesignCategory": "Inference",
+      "spatialDesignCategoryID": 16,
+      "lastUpdated": "2021-08-18T04:20:27-07:00"
+    },
+    {
+      "id": 16736,
+      "title": "Adult Salmon Steelhead Tributary Escapement and Distribution Estimation (BioMark)",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16736",
+      "spatialDesignCategory": "Census: Restricted",
+      "spatialDesignCategoryID": 6,
+      "lastUpdated": "2021-08-18T04:56:11-07:00"
+    }
+  ],
+  "objectives": [
+    "Assess Salmon Escapement ",
+    "Assessing Spatial Distribution"
+  ],
+  "keyAssumptions": "1. Unbiased collection of fish at Lower Granite Dam Ladder Trap\r\n2. Unbiased wild/hatchery designation of unmarked, non-tagged adult salmon and steelhead\r\n",
+  "dataHandlingConsiderations": "<p>Data of array operation goes to Biomark Datamanager and is passed onto PTAGIS. While Array detections are managed in PTAGIS</p>\r\n",
+  "qualityControlConsiderations": "<p>Manual data is rechecked by technicians after entry. Automatic data is checked using standardized queries that check for correct formatting and missing data (temporal).</p>\r\n",
+  "reportingConsiderations": "<p>Data from PIT deterction systems are automatically uploaded to PTAGIS daily. Manual data is entered and uploaded weekly to PTAGIS. Scale ages and associated trap data is reported on a weekly to monthly scale.</p>\r\n",
+  "equipmentCleaningAndCalibration": null,
+  "rolesAndResponsibilities": null,
+  "qualifications": null,
+  "trainingRequirements": null,
+  "safetyConsiderations": null,
+  "fieldScheduleNotes": null,
+  "budgetConsiderations": null,
+  "monitoringPurpose": "Status and Trends Monitoring",
+  "estimatedCostPerSite": null,
+  "optionalMethodIDs": [],
+  "optionalMethods": [],
+  "id": 1807,
+  "name": "Adult Salmon Steelhead Tributary Escapement and Distribution Estimation",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/studyDesigns/1807",
+  "programID": 40,
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40",
+  "protocolID": 2262,
+  "protocolUrl": "http://www.monitoringresources.org/api/v1/protocols/2262",
+  "ownerName": "Kyle Meier",
+  "ownerEmail": "kyle.meier@biomark.com",
+  "majorVersion": 2,
+  "minorVersion": 0,
+  "previousStudyDesignVersionId": 74,
+  "previousStudyDesignVersionUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/74",
+  "mostRecentVersionId": null,
+  "mostRecentVersionUrl": "[none]"
+}

@@ -1,0 +1,172 @@
+{
+  "backgroundRationale": "<p>The ISEMP has designed a robust and flexible implementation and monitoring strategy that will implement the full suite of restoration actions in the lower 26 miles of the Entiat River in a 10-year time period, maximize the resolution of effects from different action types and reveal multi-scale mechanisms (e.g., effects of action types, geomorphic reaches, landuse), and detect a response at a lower resolution (i.e., watershed scale) if a higher resolution is not possible due to, for example, implementation of restoration actions outside the experimental design. This dsign is described in the Entiat IMW Implementation Stategy, Appendix B to the Upper Columbia Implementation Strategy (Hillman. 2006). The Entiat IMW will answer the following questions: 1) Did habitat restoration improve freshwater productivity at the watershed scale? 2) What was the impact of the varying restoration types? (Supports the Upper Columbia Salmon Recovery Board&rsquo;s Adaptive Management Framework). 3) What were the mechanisms by which physical habitat changes improved freshwater productivity? The goals of the Entiat IMW are to: 1) Determine if the implementation of proposed instream and side-channel habitat restoration actions between river miles 0 and 26 significantly improve the abundance and productivity of spring Chinook and steelhead, two of four Viable Salmonid Population metrics (VSP, McElhany et al. 2000) used to measure &ldquo;recovery&rdquo; as identified in the Recovery Plan (UCSRB 2007). 2) Determine if the implementation of proposed instream and side-channel habitat restoration actions between river miles 0 and 26 significantly improve metrics specified in the 2008 FCRPS BiOp.</p>\r\n",
+  "sampleDesigns": [
+    {
+      "id": 2731,
+      "title": "Steelhead redd surveys in Entiat River - US Fish and Wildlife Service (USFWS)",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2731",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": null
+    },
+    {
+      "id": 2732,
+      "title": "Operate smolt traps - US Fish and Wildlife Service (USFWS)",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2732",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": null
+    },
+    {
+      "id": 2733,
+      "title": "Operate and maintain PIT tag detection arrays on Entiat and Mad Rivers - US Fish and Wildlife Service (USFWS)",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2733",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": null
+    },
+    {
+      "id": 2735,
+      "title": "Conduct mainstem off-channel effectiveness monitoring as part of Entiat IMW - US Fish and Wildlife Service (USFWS)",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2735",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": null
+    },
+    {
+      "id": 2736,
+      "title": "Duwamish Test Design Entiat Intensively Monitored Watershed (2003-017-00) v1.0 WSE 100958",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2736",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": null
+    },
+    {
+      "id": 2737,
+      "title": "Provide staff support to the USFWS Entiat River rotary screw trap - Terraqua, Inc.",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2737",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": null
+    },
+    {
+      "id": 2741,
+      "title": "Conduct side channel effectiveness monitoring as part of Entiat IMW - US Fish and Wildlife Service (USFWS)",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2741",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": null
+    },
+    {
+      "id": 2742,
+      "title": "Analyze data related to monitoring conducted under Entiat IMW - US Fish and Wildlife Service (USFWS)",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2742",
+      "spatialDesignCategory": "Inference",
+      "spatialDesignCategoryID": 16,
+      "lastUpdated": null
+    },
+    {
+      "id": 2743,
+      "title": "22.12b  Entiat IMW Effectiveness Monitoring Analysis - Terraqua, Inc.",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2743",
+      "spatialDesignCategory": "Inference",
+      "spatialDesignCategoryID": 16,
+      "lastUpdated": null
+    },
+    {
+      "id": 2745,
+      "title": "Conduct a mark-recapture study on the Entiat River as part of IMW - US Fish and Wildlife Service (USFWS)",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2745",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": null
+    },
+    {
+      "id": 2746,
+      "title": "Measure population dynamics to estimate carrying capacity at restoration sites in the Entiat R - US Forest Service (USFS)",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2746",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": null
+    },
+    {
+      "id": 2747,
+      "title": "Analyze population dynamics at restoration sites vs. unrestored sites - US Forest Service (USFS)",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2747",
+      "spatialDesignCategory": "Inference",
+      "spatialDesignCategoryID": 16,
+      "lastUpdated": null
+    },
+    {
+      "id": 2748,
+      "title": "Depth fines sampling using McNeill core samples - US Forest Service (USFS)",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2748",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": null
+    },
+    {
+      "id": 2749,
+      "title": "Steelhead redd surveys - US Forest Service (USFS): ISEMP Entiat",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2749",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": null
+    }
+  ],
+  "objectives": [
+    "Development and implementation of a coordinated habitat and population status and trends monitoring program in the South Fork Salmon River (SFSR).",
+    "Development and implementation of a coordinated habitat restoration effectiveness monitoring program in the John Day Basin",
+    "Development and implementation of a coordinated habitat restoration effectiveness monitoring program in the Lemhi River. ",
+    "Development and implementation of a coordinated watershed scale habitat restoration effectiveness monitoring program in Bridge Creek of the Joh",
+    "Development of a coordinated habitat and population status and trends monitoring program in the John Day Basin. ",
+    "Effectiveness Monitoring in the Entiat Intensively Monitored Watershed",
+    "Installation, operation, and maintenance of a coordinated Snake River PIT tag array system.",
+    "Status and trend monitoring program in the Upper Columbia "
+  ],
+  "keyAssumptions": null,
+  "dataHandlingConsiderations": null,
+  "qualityControlConsiderations": null,
+  "reportingConsiderations": null,
+  "equipmentCleaningAndCalibration": null,
+  "rolesAndResponsibilities": null,
+  "qualifications": null,
+  "trainingRequirements": null,
+  "safetyConsiderations": null,
+  "fieldScheduleNotes": null,
+  "budgetConsiderations": null,
+  "monitoringPurpose": "Action Effectiveness Monitoring",
+  "estimatedCostPerSite": null,
+  "optionalMethodIDs": [],
+  "optionalMethods": [],
+  "id": 56,
+  "name": "Entiat Intensively Monitored Watershed (2003-017-00) v1.0",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/studyDesigns/56",
+  "programID": 10,
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/10",
+  "protocolID": 333,
+  "protocolUrl": "http://www.monitoringresources.org/api/v1/protocols/333",
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org",
+  "majorVersion": 1,
+  "minorVersion": 0,
+  "previousStudyDesignVersionId": null,
+  "previousStudyDesignVersionUrl": "[none]",
+  "mostRecentVersionId": null,
+  "mostRecentVersionUrl": "[none]"
+}

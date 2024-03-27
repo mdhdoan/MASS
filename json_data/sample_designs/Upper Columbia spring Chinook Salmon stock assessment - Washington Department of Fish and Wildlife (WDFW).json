@@ -1,0 +1,57 @@
+{
+  "description": "<p>Upper Columbia River spring Chinook Salmon stock assesment at Priest Rapids Dam Off-Ladder Adult Fish Trap</p>\r\n",
+  "startYear": "2021",
+  "retirementYear": "2022",
+  "initiationYear": "2021",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Ben Truscott",
+  "ownerEmail": "ben.truscott@dfw.wa.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 21663,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16695/panels/21663",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16695"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24301,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16695/strata/24301",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16695"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/64",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1790",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16695/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16695",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16695/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16695",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 53777 (14137)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/5222"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC3 - Basin",
+      "areaDisplayName": "Upper Columbia"
+    }
+  ],
+  "id": 16695,
+  "title": "Upper Columbia spring Chinook Salmon stock assessment - Washington Department of Fish and Wildlife (WDFW)",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16695",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2021-04-23T03:24:26-07:00"
+}

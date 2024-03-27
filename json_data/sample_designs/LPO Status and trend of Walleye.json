@@ -1,0 +1,33 @@
+{
+  "description": "<p>Stomach contents for diet analysis will be evaluated to determine relative contribution of kokanee in the diet of walleyes and important game species.&nbsp; Stomach contents will be identified to the lowest taxonomic level possible, and results will be analyzed to determine percent composition by number and by weight.&nbsp; From netting operations, walleye and co-occurring important sport fish populations will be evaluated to determine trends in catch, abundance, food habits, growth, and other population parameters and catch statistics, growth, maturity, stock assessment and associated trend data will be evaluated.&nbsp;&nbsp;Telemetry data will be assessed to evaluate movement patterns through fishery, evaluate relative importance of various spawning areas, and understand adult survival rates.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "startYear": "2019",
+  "retirementYear": "",
+  "initiationYear": "2019",
+  "targetPopulation": null,
+  "ownerName": "Pete Rust",
+  "ownerEmail": "Pete.Rust@idfg.idaho.gov",
+  "images": [],
+  "panels": [],
+  "strata": [],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/65",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1319",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16283/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16283",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16283/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16283",
+  "masterSample": null,
+  "userSamples": null,
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC4 - Sub Basin",
+      "areaDisplayName": " PEND OREILLE LAKE"
+    }
+  ],
+  "id": 16283,
+  "title": "LPO Status and trend of Walleye",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16283",
+  "spatialDesignCategory": "Inference",
+  "spatialDesignCategoryID": 16,
+  "lastUpdated": "2019-01-26T00:16:12-08:00"
+}

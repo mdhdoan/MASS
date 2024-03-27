@@ -1,0 +1,52 @@
+{
+  "description": "<p>Environmental DNA samples to be collected throughout the Lochsa River Watershed to address salmonid distribution data gaps. Survey sites scheduled to be established spring of 2021 by project area manager for the NPT Lochsa River Watershed restoration project. Data to be collected utilizing methods described within the USDA Rocky Mountain Research Station Protocol for Collecting Environmental DNA Samples From Streams (https://www.fs.fed.us/rm/pubs/rmrs_gtr355.pdf).</p>\r\n",
+  "startYear": "2021",
+  "retirementYear": "2021",
+  "initiationYear": "2021",
+  "targetPopulation": null,
+  "ownerName": "Clint Chandler",
+  "ownerEmail": "clintc@nezperce.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 21571,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16652/panels/21571",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16652"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24252,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16652/strata/24252",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16652"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/67",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1239",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16652/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16652",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16652/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16652",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16444",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11421"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16652,
+  "title": "NPT Lochsa River eDNA Surveys - 2021",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16652",
+  "spatialDesignCategory": "Other...",
+  "spatialDesignCategoryID": 17,
+  "lastUpdated": "2020-12-19T03:33:41-08:00"
+}

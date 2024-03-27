@@ -1,0 +1,50 @@
+{
+  "description": "<div>This design is based on the Puget Sound UGA Shoreline Master Sample, which has a density of 30m. &nbsp;For this design, 30m is too dense since the implementation teams wish to have the flexibility to move the site up to 400m in either direction to accommodate anticipated difficulties in gaining landowner permission. &nbsp;If no willing landowner within 400m of the X-site could be located, the site will be rejected and the next available oversample will be evaluated. The intent is to create a random draw from a population of sites that each represent an average of 800 meters of shoreline.</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>The decision to use 800 m lengths of shoreline for mussel contamination sampling was based on criteria used by the National Centers for Coastal Ocean Science&rsquo;s COAST National Status &amp; Trends <a href=\"http://ccma.nos.noaa.gov/about/coast/nsandt/musselwatch.aspx\">Mussel Watch Contaminant Monitoring </a>program, and was supported by results from the Tacoma Pierce County Health Department&#39;s &quot;Mussel Watch Gradient Report, Hylebos Waterway and Ruston Way&quot; (Callahan, Hanowell, Jensen, 2014), a study conducted&nbsp;in collaboration with the Washington Department of Fish and Wildlife (WDFW).</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>The Master Sample contains 22,797 sites at 30 meters, for a frame length of 683.91km. &nbsp;Dividing the frame length by 800m yields approximately 855 sites, each representing on average an 800m segment of UGA shoreline.</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>Since this is a one year pilot, a single panel for a single year was created and 855 sites were requested from the original draw. &nbsp;The GRTS algorithm added 1,193 sites as oversamples for a total selection of 2,048 sites. The GRTS-computed weight for each site is 799.8942m.</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>The intention of the pilot study is to monitor 40 locations in 2015. These sites will be selected by proceeding through the 855 sites in this draw in GRTS use order, evaluating each for landowner permission, target status, and safety. Any site rejected for any of these reasons will have the rejection reason recorded and a replacement site will be selected from the list of oversamples provided by GRTS, again in use order.</div>\r\n",
+  "startYear": "2015",
+  "retirementYear": "2015",
+  "initiationYear": "2015",
+  "targetPopulation": "<p>All shoreline in Puget Sound UGA&nbsp;boundaries.</p>\r\n",
+  "ownerName": "Jennifer Lanksbury",
+  "ownerEmail": "Jennifer.Lanksbury@dfw.wa.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 3419,
+      "name": "Pilot Year",
+      "abbreviation": "PY",
+      "years": [
+        "2015"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/410/panels/3419",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/410"
+    }
+  ],
+  "strata": [
+    {
+      "id": 4380,
+      "name": "Default",
+      "abbreviation": null,
+      "url": "http://www.monitoringresources.org/api/v1/designs/410/strata/4380",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/410"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/410/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/410",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/410/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/410",
+  "masterSample": {
+    "name": "Puget Sound UGA Shoreline",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/7"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 410,
+  "title": "Puget Sound Mussel Monitoring Pilot",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/410",
+  "spatialDesignCategory": "Generalized Random Tessellation Stratified (GRTS)",
+  "spatialDesignCategoryID": 18,
+  "lastUpdated": "2015-03-25T05:28:48-07:00"
+}

@@ -1,0 +1,48 @@
+{
+  "backgroundRationale": "<div><strong>NOTE: The details in this protocol have been revised and are now contained in multiple protocols. Full details can now be found in protocol IDs: 546, 547, &amp; 1997;</strong></div>\r\n\r\n<div><strong>https://www.monitoringmethods.org/Protocol/Details/546;</strong></div>\r\n\r\n<div><strong>https://www.monitoringmethods.org/Protocol/Details/547;</strong></div>\r\n\r\n<div><strong>https://www.monitoringmethods.org/Protocol/Details/1997</strong></div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>Significant wild sturgeon recruitment has not occurred in the Kootenai River since at least 1972. Hatchery production from Kootenai Tribe of Idaho (KTOI) began in 1990. To evaluate the successes of the KTOI hatchery program and to evaluate the effects of mitigative flows provided by Libby Dam beginning in 1991, juvenile sturgeon sampling became a standard operating procedure beginning in 1978 (Partridge 1983). We evaluate survival, growth, disease presence, condition, and movements of hatchery reared juvenile sturgeon. Although significant wild recruitment is lacking, we catch about 10 wild recruits each year. Gill nets are the best method for evaluating significant recruitment.</div>\r\n",
+  "sampleDesigns": [
+    {
+      "id": 9909,
+      "title": "Juvenile Sturgeon Index Sampling (BCMFLNRO) - Kootenai Tribe",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/9909",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": null
+    }
+  ],
+  "objectives": [
+    "Restore natural recruitment of Kootenai River white sturgeon"
+  ],
+  "keyAssumptions": "<div>All hatchery released juvenile sturgeon are marked;</div>\r\n\r\n<div>River scale sampling issues will obscure results;</div>\r\n\r\n<div>&nbsp;Our gear are effective at sampling drifting larvae.</div>\r\n",
+  "dataHandlingConsiderations": "The details in this protocol have been revised and are now contained in multiple protocols. Full details can now be found in protocol IDs: 546, 547, & 1997.",
+  "qualityControlConsiderations": "The details in this protocol have been revised and are now contained in multiple protocols. Full details can now be found in protocol IDs: 546, 547, & 1997.",
+  "reportingConsiderations": "The details in this protocol have been revised and are now contained in multiple protocols. Full details can now be found in protocol IDs: 546, 547, & 1997.",
+  "equipmentCleaningAndCalibration": "The details in this protocol have been revised and are now contained in multiple protocols. Full details can now be found in protocol IDs: 546, 547, & 1997.",
+  "rolesAndResponsibilities": "The details in this protocol have been revised and are now contained in multiple protocols. Full details can now be found in protocol IDs: 546, 547, & 1997.",
+  "qualifications": "The details in this protocol have been revised and are now contained in multiple protocols. Full details can now be found in protocol IDs: 546, 547, & 1997.",
+  "trainingRequirements": "The details in this protocol have been revised and are now contained in multiple protocols. Full details can now be found in protocol IDs: 546, 547, & 1997.",
+  "safetyConsiderations": "The details in this protocol have been revised and are now contained in multiple protocols. Full details can now be found in protocol IDs: 546, 547, & 1997.",
+  "fieldScheduleNotes": ".",
+  "budgetConsiderations": ".",
+  "monitoringPurpose": null,
+  "estimatedCostPerSite": "$2,500 to $5,000",
+  "optionalMethodIDs": [],
+  "optionalMethods": [],
+  "id": 1153,
+  "name": "Interim Protocol - KRRFM - Juvenile White sturgeon spawning success and recruitment studies",
+  "status": "Expired",
+  "url": "http://www.monitoringresources.org/api/v1/studyDesigns/1153",
+  "programID": null,
+  "programUrl": "[none]",
+  "protocolID": 2024,
+  "protocolUrl": "http://www.monitoringresources.org/api/v1/protocols/2024",
+  "ownerName": "PNAMP Support",
+  "ownerEmail": "pnamp.mm@gmail.com",
+  "majorVersion": 1,
+  "minorVersion": 0,
+  "previousStudyDesignVersionId": null,
+  "previousStudyDesignVersionUrl": "[none]",
+  "mostRecentVersionId": null,
+  "mostRecentVersionUrl": "[none]"
+}

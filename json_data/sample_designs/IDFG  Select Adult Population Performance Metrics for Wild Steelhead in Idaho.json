@@ -1,0 +1,77 @@
+{
+  "description": "<p>Facilitate the summarization of and analysis of data describing the abundance of steelhead crossing Lower Granite Dam July - June the subsequent year, the spatial distribution of spawning fish, and known fates/disposition in specific populations.&nbsp;</p>\r\n\r\n<p><strong>Clearwater MPG:&nbsp;</strong></p>\r\n\r\n<p>Lower Clear Water Population</p>\r\n\r\n<p>South Fork Clearwater Population</p>\r\n\r\n<p>Lochsa River Population</p>\r\n\r\n<p><strong>Salmon River MPG:</strong></p>\r\n\r\n<p>Little Salmon River Population&nbsp;</p>\r\n\r\n<p>South Fork Salmon River Population,&nbsp;</p>\r\n\r\n<p>Lower Middle Fork Salmon River Population&nbsp;(Portion)</p>\r\n\r\n<p>Upper Middle Fork Salmon River Population (Portion)</p>\r\n\r\n<p>North Fork Salmon River Population</p>\r\n\r\n<p>Lemhi River Population</p>\r\n\r\n<p>Pahsimeroi River Population</p>\r\n\r\n<p>East Fork Salmon River Population</p>\r\n\r\n<p>Upper Salmon River Population</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "startYear": "2021",
+  "retirementYear": "",
+  "initiationYear": "2021",
+  "targetPopulation": null,
+  "ownerName": "Luciano Chiaramonte",
+  "ownerEmail": "luciano.chiaramonte@idfg.idaho.gov",
+  "images": [],
+  "panels": [],
+  "strata": [],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/73",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1817",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16752/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16752",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16752/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16752",
+  "masterSample": null,
+  "userSamples": null,
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "Little Salmon River"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "South Fork Salmon River"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "South Fork Clearwater River"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "Lochsa River"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "Clearwater River Lower Mainstem"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "Middle Fork Salmon River Lower Mainstem"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "North Fork Salmon River"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "Lemhi River"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "Pahsimeroi River"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "Middle Fork Salmon River Upper Mainstem"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "East Fork Salmon River"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "Salmon River Upper Mainstem"
+    }
+  ],
+  "id": 16752,
+  "title": "IDFG  Select Adult Population Performance Metrics for Wild Steelhead in Idaho",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16752",
+  "spatialDesignCategory": "Inference",
+  "spatialDesignCategoryID": 16,
+  "lastUpdated": "2023-11-16T08:41:52-08:00"
+}

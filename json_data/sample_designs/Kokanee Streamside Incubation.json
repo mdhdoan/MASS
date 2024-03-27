@@ -1,0 +1,57 @@
+{
+  "description": "<p>Redzone streamside incubation boxes will be placed in the Sanpoil River (48.453501, -118.747033) and Barnaby Creek (48.434087, -118.223647). Lake Chelan kokanee eggs will be collected in September, incubated at the Lake Chelan Hatchery until eye up, then transported to streamside incubators (October). Eggs will incubate and hatch in February and larval fish will out-migrate in April.</p>\r\n",
+  "startYear": "2024",
+  "retirementYear": "2025",
+  "initiationYear": "2024",
+  "targetPopulation": null,
+  "ownerName": "Holly McLellan",
+  "ownerEmail": "holly.mclellan@colvilletribes.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 22352,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2024"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16958/panels/22352",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16958"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24636,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16958/strata/24636",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16958"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/21",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1880",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16958/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16958",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16958/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16958",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16958",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11618"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC5 - Watershed",
+      "areaDisplayName": "Middle Sanpoil River"
+    }
+  ],
+  "id": 16958,
+  "title": "Kokanee Streamside Incubation",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16958",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": "2023-11-23T00:15:13-08:00"
+}

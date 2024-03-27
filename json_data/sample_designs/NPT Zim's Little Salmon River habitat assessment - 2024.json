@@ -1,0 +1,52 @@
+{
+  "description": "<p>Aquatic habitat surveys to be conducted throughout 677 meter treatment and control sites established for the Nez Perce Tribe&#39;s Zim&#39;s Little Salmon River restoration project.</p>\r\n",
+  "startYear": "2024",
+  "retirementYear": "",
+  "initiationYear": "2024",
+  "targetPopulation": null,
+  "ownerName": "Clint Chandler",
+  "ownerEmail": "clintc@nezperce.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 22375,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2024"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16987/panels/22375",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16987"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24656,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16987/strata/24656",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16987"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/24",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1667",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16987/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16987",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16987/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16987",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16987",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11627"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16987,
+  "title": "NPT Zim's Little Salmon River habitat assessment - 2024",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16987",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2023-12-19T04:01:17-08:00"
+}

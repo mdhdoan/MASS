@@ -1,0 +1,61 @@
+{
+  "description": "No valid data",
+  "startYear": "2018",
+  "retirementYear": "",
+  "initiationYear": "2018",
+  "targetPopulation": null,
+  "ownerName": "Jon Firehammer",
+  "ownerEmail": "jfirehammer@cdatribe-nsn.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 19056,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15592/panels/19056",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15592"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21479,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15592/strata/21479",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15592"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/70",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1296",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15592/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15592",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15592/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15592",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Rotary screw trap locations in Lake and Benewah Creeks",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11239"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC6 - Sub Watershed",
+      "areaDisplayName": "Lake Creek"
+    },
+    {
+      "areaTypeName": "HUC6 - Sub Watershed",
+      "areaDisplayName": "Benewah Creek"
+    }
+  ],
+  "id": 15592,
+  "title": "Trap adfluvial juvenile cutthroat trout",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15592",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2018-02-15T03:27:13-08:00"
+}

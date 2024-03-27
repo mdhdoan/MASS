@@ -1,0 +1,57 @@
+{
+  "description": "No valid data",
+  "startYear": "2020",
+  "retirementYear": "2040",
+  "initiationYear": "2020",
+  "targetPopulation": null,
+  "ownerName": "Ryan Klett",
+  "ownerEmail": "ryan.klett@colvilletribes.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 21832,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16396/panels/21832",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16396"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24389,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16396/strata/24389",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16396"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/4",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1600",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16396/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16396",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16396/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16396",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16396",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11407"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC4 - Sub Basin",
+      "areaDisplayName": "Okanogan"
+    }
+  ],
+  "id": 16396,
+  "title": "Okanogan Adult Steelhead Abundance",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16396",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2021-12-16T02:20:37-08:00"
+}

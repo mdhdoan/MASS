@@ -1,0 +1,50 @@
+{
+  "description": "<p>Attempting to draw a sample that relies on the &quot;Probability&quot; column in the data</p>\r\n",
+  "startYear": "2018",
+  "retirementYear": "",
+  "initiationYear": "2018",
+  "targetPopulation": "<p>points</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "ownerName": "Jeremy Groom",
+  "ownerEmail": "jeremy@groomanalytics.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 19446,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15786/panels/19446",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15786"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21852,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15786/strata/21852",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15786"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/602",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15786/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15786",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15786/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15786",
+  "masterSample": {
+    "name": "Puget Sound UGA Shoreline",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/7"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 15786,
+  "title": "Test_PugetSound1",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15786",
+  "spatialDesignCategory": "Generalized Random Tessellation Stratified (GRTS)",
+  "spatialDesignCategoryID": 18,
+  "lastUpdated": "2018-08-01T01:35:28-07:00"
+}

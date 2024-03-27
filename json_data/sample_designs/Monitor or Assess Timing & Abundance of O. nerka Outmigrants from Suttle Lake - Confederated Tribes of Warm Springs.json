@@ -1,0 +1,115 @@
+{
+  "description": "No valid data",
+  "startYear": "2012",
+  "retirementYear": "",
+  "initiationYear": "2016",
+  "targetPopulation": null,
+  "ownerName": "Cyndi Baker",
+  "ownerEmail": "cyndi.baker@ctwsbnr.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 19680,
+      "name": "CTWS RM&E O. nerka outmigrant trap operations, Lake Creek, Metolius River, Oregon. WSE 113689",
+      "abbreviation": "CTWS RM&E O. nerka outmigrant trap operations, Lake Creek, Metolius River, Oregon. WSE 113689",
+      "years": [],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16291/panels/19680",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16291"
+    },
+    {
+      "id": 19681,
+      "name": "CTWS RM&E O. nerka outmigrant trap operations, Lake Creek, Metolius River, Oregon. WSE 120620",
+      "abbreviation": "CTWS RM&E O. nerka outmigrant trap operations, Lake Creek, Metolius River, Oregon. WSE 120620",
+      "years": [],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16291/panels/19681",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16291"
+    },
+    {
+      "id": 19682,
+      "name": "CTWS RM&E O. nerka outmigrant trap operations, Lake Creek, Metolius River, Oregon. WSE 68388",
+      "abbreviation": "CTWS RM&E O. nerka outmigrant trap operations, Lake Creek, Metolius River, Oregon. WSE 68388",
+      "years": [],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16291/panels/19682",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16291"
+    },
+    {
+      "id": 19683,
+      "name": "CTWS RM&E O. nerka outmigrant trap operations, Lake Creek, Metolius River, Oregon. WSE 79700",
+      "abbreviation": "CTWS RM&E O. nerka outmigrant trap operations, Lake Creek, Metolius River, Oregon. WSE 79700",
+      "years": [],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16291/panels/19683",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16291"
+    },
+    {
+      "id": 19684,
+      "name": "CTWS RM&E O. nerka outmigrant trap operations, Lake Creek, Metolius River, Oregon. WSE 91514",
+      "abbreviation": "CTWS RM&E O. nerka outmigrant trap operations, Lake Creek, Metolius River, Oregon. WSE 91514",
+      "years": [],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16291/panels/19684",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16291"
+    },
+    {
+      "id": 19685,
+      "name": "CTWS RM&E O. nerka outmigrant trap operations, Lake Creek, Metolius River, Oregon. WSE 97980",
+      "abbreviation": "CTWS RM&E O. nerka outmigrant trap operations, Lake Creek, Metolius River, Oregon. WSE 97980",
+      "years": [],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16291/panels/19685",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16291"
+    }
+  ],
+  "strata": [
+    {
+      "id": 22012,
+      "name": "All Sites",
+      "abbreviation": "All Sites",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16291/strata/22012",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16291"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/35",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/952",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16291/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16291",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16291/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16291",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design CTWS RM&E O. nerka outmigrant trap operations, Lake Creek, Metolius River, Oregon. WSE 91514 (8957)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/2480"
+    },
+    {
+      "name": "BPA Sample for Study Design CTWS RM&E O. nerka outmigrant trap operations, Lake Creek, Metolius River, Oregon. WSE 97980 (8958)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/2481"
+    },
+    {
+      "name": "BPA Sample for Study Design CTWS RM&E O. nerka outmigrant trap operations, Lake Creek, Metolius River, Oregon. WSE 68388 (8954)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/2544"
+    },
+    {
+      "name": "BPA Sample for Study Design CTWS RM&E O. nerka outmigrant trap operations, Lake Creek, Metolius River, Oregon. WSE 113689 (8951)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/2594"
+    },
+    {
+      "name": "BPA Sample for Study Design CTWS RM&E O. nerka outmigrant trap operations, Lake Creek, Metolius River, Oregon. WSE 120620 (8952)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/2595"
+    },
+    {
+      "name": "BPA Sample for Study Design CTWS RM&E O. nerka outmigrant trap operations, Lake Creek, Metolius River, Oregon. WSE 79700 (8956)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/2995"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC6 - Sub Watershed",
+      "areaDisplayName": "Upper Metolius River"
+    }
+  ],
+  "id": 16291,
+  "title": "Monitor/Assess Timing & Abundance of O. nerka Outmigrants from Suttle Lake - Confederated Tribes of Warm Springs",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16291",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2019-02-13T08:24:18-08:00"
+}

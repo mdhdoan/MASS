@@ -1,0 +1,52 @@
+{
+  "description": "<p>Sites listed in this design are locations where already planned habitat restoration activities will take place, and freshwater mussels are present.&nbsp; Best Management Practices (BMPs) have recently been developed describing methods for protecting freshwater mussels during habitat restoration events, and methods to reduce stress and mortality during ecologically justified mussel translocations.&nbsp; Various BMP methods will be applied at these sites, depending upon habtat restoration plans and the specific in-project distribution of freshwater mussels.&nbsp;</p>\r\n",
+  "startYear": "2018",
+  "retirementYear": "",
+  "initiationYear": "2018",
+  "targetPopulation": null,
+  "ownerName": "Beth Glidewell",
+  "ownerEmail": "ElizabethGlidewell@ctuir.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 19398,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15749/panels/19398",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15749"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21807,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15749/strata/21807",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15749"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/19",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1554",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15749/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15749",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15749/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15749",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "FWM BMP sites 18 19",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11307"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 15749,
+  "title": "FWM BMP Application Sites",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15749",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2018-06-30T05:42:19-07:00"
+}

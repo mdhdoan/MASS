@@ -1,0 +1,166 @@
+{
+  "description": "<p>Columbia River Basin anadromous salmonids have exhibited precipitous declines over the past 30 years, with several populations now protected under the Endangered Species Act (ESA) (Schaller et al. 1999; McClure et al. 2003). &nbsp;The Entiat River subbasin has three listed populations: spring Chinook (Oncorhynchus tshawytscha; listed as endangered in 1999, NMFS 1999b), steelhead (O. mykiss; listed as endangered in 1997, upgraded to threatened in 2006, and relisted as endangered in 2007, NMFS 2007), and bull trout (Salvelinus confluentus; listed as threatened in 1999, USFWS 1999). &nbsp;The Upper Columbia Spring Chinook Salmon and Steelhead Recovery Plan (Recovery Plan, UCSRB 2007) has determined that these populations have a high risk of extinction (more than 25% in 100 years), low abundance and productivity, and are at risk for diversity and spatial structure. &nbsp; The Entiat River drains approximately 1100 km2 (425 mi2) of the eastern slope of the central Cascade Mountains in Washington State, and is a tributary to the Columbia River (Figure 1). &nbsp;The primary historic disturbance processes in the Entiat watershed have been wildfire, flooding, mass soil and debris movement, and land use. &nbsp;Land use has included floodplain and river channel modification projects and structures, grazing, roading, agriculture, timber harvesting, transport of logs within the river channel, dams for log storage ponds and hydropower generation, residential development, and recreation (CCCD 2004).&nbsp;</p>\r\n\r\n<div>After almost a year of discussion and development the ISEMP proposed a hybrid of a stairstep and hierarchical approach to implementing habitat actions in the Entiat IMW (See Section 5 for details). &nbsp;In March 2009 the ISEMP presented the recommended experimental design to the Upper Columbia RTT (see Section 5 for details). &nbsp;This design was chosen based on its robustness and flexibility. &nbsp;The hybrid design is the most logistically feasible of the various alternative designs considered2 and offers the highest resolution of effects from different action types. &nbsp;The hybrid design has the ability to reveal multi-scale mechanisms (e.g., effects of action types, geomorphic reaches, landuse) but can detect a response at a lower resolution (i.e., watershed scale) if a higher resolution is not possible due to, for example, implementation of restoration actions &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2 Four designs were considered: proceed with the current design, stairstep, hierarchical, hybrid stairstep/hierarchical&nbsp;</div>\r\n\r\n<div>2009 Working Version &nbsp;Implementation Strategy for the Entiat IMW &nbsp;&nbsp;</div>\r\n\r\n<div>Prepared by Terraqua, Inc. for BPA&rsquo;s ISEMP Program August 19, 2009 &nbsp; &nbsp;14 &nbsp;</div>\r\n\r\n<div>outside the experimental design.</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>\r\n<div>We propose that a hybrid hierarchical/staircase statistical design be implemented to compare treatment and control sections within the Entiat River subbasin. &nbsp;This type of statistical design is like a BACI5 design conducted in a nested hierarchy and has been recommended as an alternative to standard BACI designs (Walters et al. 1988, Loughin 2006, Loughin et al. 2007). &nbsp;A staircase design involves a modification to the typical BACI design whereby treatments are staggered in time within the treatment area. &nbsp;Instead of a single treatment being initiated and compared to a control through time, the treatments are staggered so that treatment replicates are established in different time periods (Loughin 2006). &nbsp; The hierarchy that we will use is one based on temporal and spatial separation of actions, i.e., actions are implemented in different valley segments of the river over time, e.g., actions implemented in the upper river first and then in the lower river.&nbsp;</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>\r\n<div>Reach boundaries were determined using changes in slope and geological controls on a finer scale (USBR 2009, Table 1) and the hybrid experimental design uses these geomorphic reaches as the units of restoration actions. &nbsp;The mainstem Entiat will be divided into 10 monitoring units with one unit as a permanent control (i.e., 1G6) and the rest as treatments and temporary controls. &nbsp;Under the hybrid design structures will be placed in a fashion to provide contrast to non-treated areas in space and time. &nbsp;Structures will be placed in a clumped fashion to provide a large enough pulse to local populations to increase the power of the monitoring design. &nbsp;These areas will be compared to areas not treated (i.e., controls). &nbsp;Controls will eventually be treated (staircase element) to cause an overall larger response to the watershed (hierarchical element) but they will be spaced in time from the previous paired treatments to best evaluate local effects. &nbsp;All units will be monitored annually throughout the life of the project (see Section 6 for monitoring design details).</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>\r\n<div>The monitoring program we propose will follow the layout of the implementation design. &nbsp;Assuming the addition of 3 control reaches within the Mad River to the 10 proposed treatment and control reaches identified for monitoring (1B/1C, 1D, 1E, 1F, 1G, 2A, 2C/3A, 3C, 3D, 3F) in the Entiat River mainstem, 13 total reaches will be monitored within this IMW. &nbsp;The treatment/control reaches are approximately 3.4 km long. &nbsp;Assuming sample sites are 400m, it would take about 8 sites to completely monitor a reach. &nbsp;Six sites will cover nearly the same area if we provide a 100m buffer on either end of the site. &nbsp;Thus we have 13*6 = 78 sites to monitor a year. &nbsp;We suggest the random selection of 2 permanent sites within these 6 that will be monitored on an annual basis to assess year-to-year variability. &nbsp;In the first year of monitoring, an additional 2 sites will be picked at random to monitor, and in the second year the remaining two would be monitored with the permanent sites. &nbsp; Thus every two years a majority of the reach (all 6 sites) will be monitored for a total of 13 reaches * 4 sites = 52 sites per year. &nbsp;We believe this level of monitoring will provide information useful for effectiveness and status and trend monitoring questions. &nbsp;&nbsp;</div>\r\n\r\n<div>&nbsp;</div>\r\n</div>\r\n\r\n<div>This documentation is an excerpt from the&nbsp;<a href=\"https://isemp.egnyte.com/dl/N8exltlEvn\" style=\"font-size: 12px; line-height: 1.4em;\">Entiat Implementation Plan-2009</a>. &nbsp;The details of the study design are managed outside of the Sample Designer, but are included here as a system requirement of the <a href=\"http://www.champmonitoring.org\">Columbia Habitat Monitoring Program (CHaMP)</a>, which has been the protocol for habitat monitoring of the Entiat Intensively Monitored Watershed since 2011. &nbsp;From 2011-2013, the design for the Entiat IMW was loaded as a block of Annual-Entiat IMW sites, but in 2014, the design documentation was updated such that sites were loaded into the Sample Designer based on their geomorphic reaches, as described in the Entiat Implementation Plan. &nbsp;A few minor site adjustents were made in 2015 &nbsp;(Terraqua request May 2015).</div>\r\n\r\n<div>&nbsp;</div>\r\n</div>\r\n</div>\r\n",
+  "startYear": "2011",
+  "retirementYear": "",
+  "initiationYear": "2014",
+  "targetPopulation": null,
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 2298,
+      "name": "Annual",
+      "abbreviation": "A",
+      "years": [
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15816/panels/2298",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15816"
+    },
+    {
+      "id": 2299,
+      "name": "Extra",
+      "abbreviation": "E",
+      "years": [
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15816/panels/2299",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15816"
+    }
+  ],
+  "strata": [
+    {
+      "id": 3083,
+      "name": "1BC",
+      "abbreviation": "1BC",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15816/strata/3083",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15816"
+    },
+    {
+      "id": 3084,
+      "name": "1D",
+      "abbreviation": "1D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15816/strata/3084",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15816"
+    },
+    {
+      "id": 3085,
+      "name": "1E",
+      "abbreviation": "1E",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15816/strata/3085",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15816"
+    },
+    {
+      "id": 3086,
+      "name": "1F",
+      "abbreviation": "1F",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15816/strata/3086",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15816"
+    },
+    {
+      "id": 3087,
+      "name": "1G",
+      "abbreviation": "1G",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15816/strata/3087",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15816"
+    },
+    {
+      "id": 3088,
+      "name": "2A",
+      "abbreviation": "2A",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15816/strata/3088",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15816"
+    },
+    {
+      "id": 3089,
+      "name": "2C",
+      "abbreviation": "2C",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15816/strata/3089",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15816"
+    },
+    {
+      "id": 3090,
+      "name": "3A",
+      "abbreviation": "3A",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15816/strata/3090",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15816"
+    },
+    {
+      "id": 3091,
+      "name": "3C",
+      "abbreviation": "3C",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15816/strata/3091",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15816"
+    },
+    {
+      "id": 3092,
+      "name": "3D",
+      "abbreviation": "3D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15816/strata/3092",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15816"
+    },
+    {
+      "id": 3093,
+      "name": "3F",
+      "abbreviation": "3F",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15816/strata/3093",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15816"
+    },
+    {
+      "id": 3094,
+      "name": "IMW Side Channel Restoration",
+      "abbreviation": "Side Ch R",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15816/strata/3094",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15816"
+    },
+    {
+      "id": 3095,
+      "name": "Mad River",
+      "abbreviation": "Mad",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15816/strata/3095",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15816"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/18",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/218",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15816/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15816",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15816/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15816",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "ENT00001 Legacy Sample",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1013"
+    },
+    {
+      "name": "Entiat 2013 IMW Restoration Effectiveness Study",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1032"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 15816,
+  "title": "Effectiveness Monitoring for Stream Restoration in the Entiat 2013 in 2014",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15816",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2014-07-09T04:11:52-07:00"
+}

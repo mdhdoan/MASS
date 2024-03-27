@@ -1,0 +1,52 @@
+{
+  "description": "<p>This sample design is for monitoring juvenile salmonids using newly created or recently opened floodplain habitat. The focus of this monitoring is on restoration projects implemented by the CTUIR in the Grande Ronde Basin.</p>\r\n",
+  "startYear": "2019",
+  "retirementYear": "2023",
+  "initiationYear": "2019",
+  "targetPopulation": null,
+  "ownerName": "Leslie Naylor",
+  "ownerEmail": "lesnaylor@ctuir.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 21617,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16368/panels/21617",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16368"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24282,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16368/strata/24282",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16368"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/19",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1781",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16368/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16368",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16368/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16368",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design Protocol for Snorkel Surveys of Fish Densities WSE 131700 (7760)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/5732"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16368,
+  "title": "Juvenile salmonids using restoration floodplains - Umatilla Confederated Tribes (CTUIR)",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16368",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2021-03-09T02:22:42-08:00"
+}

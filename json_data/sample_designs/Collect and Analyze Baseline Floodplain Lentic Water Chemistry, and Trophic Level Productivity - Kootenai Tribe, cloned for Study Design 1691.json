@@ -1,0 +1,52 @@
+{
+  "description": "<p>Sample design used on Ball Creek is transferable to&nbsp;KTOI Nimz&nbsp;property for wetland contributions&nbsp;</p>\r\n",
+  "startYear": "2018",
+  "retirementYear": "2024",
+  "initiationYear": "2018",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Scott Soults",
+  "ownerEmail": "soults@kootenai.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 20193,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16520/panels/20193",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16520"
+    }
+  ],
+  "strata": [
+    {
+      "id": 23071,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16520/strata/23071",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16520"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/31",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1739",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16520/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16520",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16520/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16520",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16520",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11490"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16520,
+  "title": "Collect and Analyze Baseline Floodplain Lentic Water Chemistry, and Trophic Level Productivity - Kootenai Tribe, cloned for Study Design 1691",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16520",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2020-03-11T04:04:19-07:00"
+}

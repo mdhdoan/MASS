@@ -1,0 +1,57 @@
+{
+  "description": "<p>Data on up to 3,000 fish per rearing treatment during pre-release sampling.&nbsp; Data on up to&nbsp; 300 fish per treatment post-release</p>\r\n",
+  "startYear": "2019",
+  "retirementYear": "2023",
+  "initiationYear": "2019",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Chris Tatara",
+  "ownerEmail": "chris.p.tatara@noaa.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 19753,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16351/panels/19753",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16351"
+    }
+  ],
+  "strata": [
+    {
+      "id": 22860,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16351/strata/22860",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16351"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/966",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16351/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16351",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16351/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16351",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design Improve survival and reduce fitness loss of upper Columbia River steelhead at Winthrop National Fish Hatchery (1993-056-00) WSE 103391 (9071)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1171"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC3 - Basin",
+      "areaDisplayName": "Upper Columbia"
+    }
+  ],
+  "id": 16351,
+  "title": "Improve survival and reduce fitness loss - University of Washington_2020",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16351",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2019-06-01T01:11:50-07:00"
+}

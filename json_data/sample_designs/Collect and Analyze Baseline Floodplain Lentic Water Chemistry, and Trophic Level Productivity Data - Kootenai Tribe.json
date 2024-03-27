@@ -1,0 +1,50 @@
+{
+  "description": "No valid data",
+  "startYear": "2005",
+  "retirementYear": "2006",
+  "initiationYear": "2002",
+  "targetPopulation": null,
+  "ownerName": "Scott Soults",
+  "ownerEmail": "soults@kootenai.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 19700,
+      "name": "BPA Fish and Wildlife Program Monitoring  WSE 1344",
+      "abbreviation": "BPA Fish and Wildlife Program Monitoring  WSE 1344",
+      "years": [],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16314/panels/19700",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16314"
+    }
+  ],
+  "strata": [
+    {
+      "id": 22023,
+      "name": "All Sites",
+      "abbreviation": "All Sites",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16314/strata/22023",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16314"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1344",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16314/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16314",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16314/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16314",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 1344 (10827)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1551"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16314,
+  "title": "Collect and Analyze Baseline Floodplain Lentic Water Chemistry, and Trophic Level Productivity Data - Kootenai Tribe",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16314",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2019-03-20T05:38:03-07:00"
+}

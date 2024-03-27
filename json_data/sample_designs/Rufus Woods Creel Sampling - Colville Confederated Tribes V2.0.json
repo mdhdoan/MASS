@@ -1,0 +1,61 @@
+{
+  "description": "<p>Rufus Woods Lake is a reservoir located on the upper Columbia River between Chief Joseph and Grand Coulee dams (river km 877 and 960 respectively). It supports a robust trout fishery that is currently maintained by stocking efforts of the Colville Tribes Resident Fish Hatchery. The goal of the Rufus Woods Fisheries Evaluation Project (formerly titled &ldquo;Rufus Woods Habitat/Passage Improvement, Creel and Triploid Supplementation&rdquo;) and this creel survey is to provide fisheries managers with information that assists with the development and maintenance of a subsistence fishery for Colville Confederated Tribes tribal members and a quality sport fishery for members and non-members while conserving native species. The CCT utilizes this reservoir wide creel survey to assist with the development of stocking strategies and to inform adaptive management of the fishery.</p>\r\n",
+  "startYear": "2020",
+  "retirementYear": "",
+  "initiationYear": "2020",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Bryan Jones",
+  "ownerEmail": "bryan.jones@colvilletribes.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 21355,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16582/panels/21355",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16582"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24140,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16582/strata/24140",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16582"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/21",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1174",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16582/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16582",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16582/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16582",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16580",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11503"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Mainstem Reaches and Dams",
+      "areaDisplayName": "Chief Joseph Dam to Grand Coulee Dam"
+    },
+    {
+      "areaTypeName": "Rivers 100k",
+      "areaDisplayName": "Nespelem River"
+    }
+  ],
+  "id": 16582,
+  "title": "Rufus Woods Creel Sampling - Colville Confederated Tribes V2.0",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16582",
+  "spatialDesignCategory": "Census: Restricted",
+  "spatialDesignCategoryID": 6,
+  "lastUpdated": "2020-06-05T02:04:52-07:00"
+}

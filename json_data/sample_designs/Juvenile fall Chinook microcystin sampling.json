@@ -1,0 +1,61 @@
+{
+  "description": "<p>Harmful algae blooms (HABs) are becoming more common in Lower Granite Reservoir during late summer and early fall. This is a time when many subyearling fall Chinook salmon from the Clearwater River are delaying their seaward migration in the reservoir. The algal species in these blooms typically contain those that produce toxins, such as microcystin, that are are harmful to humans and terrestrial animals. For example, microcystin levels of 100 micrograms/L are considered high but water samples we have had analyzed to date have shown that toxin level can exceed 400 micrograms/L. It is currently unknown whether the algal species <em>Microcystis wesenbergii</em>, which produces microcystin toxin, pose a threat to juvenile fall Chinook salmon in Lower Granite Reservoir, particularly the high toxin levels that have been observed in past years. The liver of a fish is the first place to look for microcystin toxins because that organ has high metabolic function and aids in ridding the body of such toxins.&nbsp;</p>\r\n\r\n<p>We propose to sample fresh subyearling mortalities at the dam and have their livers analyzed for microcystin toxin. There are two reasons for sampling mortalities in this pilot year. First, to avoid euthanizing this listed species to remove their livers. Second, fish that die in holding facilities at the dam have a greater likelihood of having been killed by microcystin toxicity, amongst other mortality factors. Since the high cost of sample analysis limits our proposed sample size, targeting fish with the greatest likelihood of containing toxins in their liver will confirm whether they can accumulate in high enough quantities to be cause for concern.</p>\r\n\r\n<p>Sampling will take place from mid-August through October each year at the Lower Granite Dam juvenile fish facility. During each week of sampling, 5 fresh mortalities will have their livers removed and frozen for later analysis.</p>\r\n\r\n<p>This project will run from 2024 through 2030.</p>\r\n",
+  "startYear": "2024",
+  "retirementYear": "2030",
+  "initiationYear": "2024",
+  "targetPopulation": null,
+  "ownerName": "Kenneth Tiffan",
+  "ownerEmail": "ktiffan@usgs.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 22378,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2024"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16990/panels/22378",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16990"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24659,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16990/strata/24659",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16990"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1035",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16990/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16990",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16990/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16990",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16979",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11620"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.657986,-117.431699"
+    },
+    {
+      "areaTypeName": "Chinook Fall Interior Columbia Pop. Name",
+      "areaDisplayName": "Snake River Lower Mainstem"
+    }
+  ],
+  "id": 16990,
+  "title": "Juvenile fall Chinook microcystin sampling",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16990",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2023-12-21T23:53:41-08:00"
+}

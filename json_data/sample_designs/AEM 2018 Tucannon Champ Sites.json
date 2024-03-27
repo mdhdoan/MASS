@@ -1,0 +1,50 @@
+{
+  "description": "8 sites from the Columbia Basin master sample that are planned for visits by Cramer Fish Sciences in 2018.",
+  "startYear": "2018",
+  "retirementYear": "2025",
+  "initiationYear": "2018",
+  "targetPopulation": null,
+  "ownerName": "Michael Carnes",
+  "ownerEmail": "michael.carnes@sitkatech.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 19310,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15723/panels/19310",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15723"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21726,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15723/strata/21726",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15723"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/18",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/189",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15723/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15723",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15723/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15723",
+  "masterSample": {
+    "name": "Columbia Basin Master Sample",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/1"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 15723,
+  "title": "AEM 2018 Tucannon Champ Sites",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15723",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": "2018-06-08T02:51:15-07:00"
+}

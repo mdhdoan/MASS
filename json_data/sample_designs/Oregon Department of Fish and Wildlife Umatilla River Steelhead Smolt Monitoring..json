@@ -1,0 +1,57 @@
+{
+  "description": "<p>From 1989 &ndash; 1995 the Oregon Department of Fish and Wildlife (ODFW) evaluated juvenile fish screening and bypass facilities associated with the five major irrigation diversion dams in the lower Umatilla River.&nbsp; From information collected during these studies, along with Three Mile Falls Dam (TMF) being the lowest facility in the watershed and adult enumeration occuring at the site, it was selected for long-term&nbsp;&nbsp;monitoring of out-migrating juvenile salmon and steelhead&nbsp;in 1995.&nbsp; A variety of marking techicques were assessed between 1989 and 1998, and in&nbsp;1999 the project began&nbsp;using PIT-tag mark-recapture to estimate smolt abundance and survival.&nbsp; In 2009, the project narrowed its focus to just steelhead, with the goal&nbsp;being to provide baseline status and trend data for the Umatilla River steelhead population to support assessment of Umatilla fisheries restoration efforts, evaluation of management actions, recovery tracking, and BiOp&nbsp;monitoring.&nbsp;</p>\r\n",
+  "startYear": "1999",
+  "retirementYear": "2025",
+  "initiationYear": "1999",
+  "targetPopulation": null,
+  "ownerName": "Josh Hanson",
+  "ownerEmail": "Josh.hanson@odfw.oregon.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 21677,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "1999"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16697/panels/21677",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16697"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24305,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16697/strata/24305",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16697"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/66",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1792",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16697/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16697",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16697/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16697",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16697",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11537"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC4 - Sub Basin",
+      "areaDisplayName": " UMATILLA"
+    }
+  ],
+  "id": 16697,
+  "title": "Oregon Department of Fish and Wildlife Umatilla River Steelhead Smolt Monitoring.",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16697",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2021-05-07T05:53:29-07:00"
+}

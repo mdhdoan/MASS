@@ -1,0 +1,52 @@
+{
+  "description": "<p>Radio telemetry will document fish&nbsp;movement, passage delays,&nbsp;prespawning holding areas, spawning areas, spawning success, and final the disposition of radio tagged adult steelhead spawners released into McKay Creek above McKay Dam. &nbsp;Sample locations listed in the table and map represent the start of&nbsp;each&nbsp;survey reach.&nbsp; The bottom of the reach is denoted by the next sample location, or the mouth of the stream.&nbsp;</p>\r\n",
+  "startYear": "2021",
+  "retirementYear": "2022",
+  "initiationYear": "2021",
+  "targetPopulation": "COPY: COPY: ",
+  "ownerName": "Craig Contor",
+  "ownerEmail": "craigcontor@ctuir.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 21518,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16620/panels/21518",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16620"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24223,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16620/strata/24223",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16620"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/19",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1764",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16620/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16620",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16620/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16620",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16614",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11517"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16620,
+  "title": "McKay Creek Adult Steelhead Spawning Migration Telemetry Survey",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16620",
+  "spatialDesignCategory": "Systematic, Non-Stratified",
+  "spatialDesignCategoryID": 4,
+  "lastUpdated": "2020-10-21T23:22:17-07:00"
+}

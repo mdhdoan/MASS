@@ -1,0 +1,52 @@
+{
+  "description": "No valid data",
+  "startYear": "2018",
+  "retirementYear": "",
+  "initiationYear": "2018",
+  "targetPopulation": null,
+  "ownerName": "Ryan Klett",
+  "ownerEmail": "ryan.klett@colvilletribes.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 19447,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15783/panels/19447",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15783"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21853,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15783/strata/21853",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15783"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/4",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1356",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15783/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15783",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15783/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15783",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "OBMEP Habitat Status and Trend_Okanogan Subbasin StreamGage_Temperature",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11312"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 15783,
+  "title": "OBMEP Habitat Status and Trend_Okanogan Subbasin StreamGage_Temperature",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15783",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2018-08-01T23:06:10-07:00"
+}

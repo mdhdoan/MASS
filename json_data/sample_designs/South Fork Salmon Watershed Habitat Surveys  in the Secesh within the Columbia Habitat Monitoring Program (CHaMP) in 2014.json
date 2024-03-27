@@ -1,0 +1,86 @@
+{
+  "description": "<p>CHaMP&nbsp;is designed as a Columbia River basin-wide habitat status and trends monitoring program built around a single protocol with a programmatic approach to data collection and management (RM&amp;E Workgroup 2010).&nbsp;CHaMP&nbsp;will result in the collection and analysis of systematic habitat status and trends information that will be used to assess basin-wide habitat conditions. When coupled with biological response indicators, this status and trends information will be used to evaluate habitat management strategies. This program will be integrated with ongoing Pacific Northwest Aquatic Monitoring Program (PNAMP) recovery planning efforts and will be part of the collaborative process across Columbia Basin fish management agencies and tribes and other state and federal agencies that are monitoring&nbsp;anadromous&nbsp;salmonids&nbsp;and/or their habitat. The implementation of&nbsp;CHaMP&nbsp;will characterize stream responses to watershed restoration and/or management actions in at least one population within each steelhead and spring Chinook Major Population Group (MPG) which have, or will have, &ldquo;fish-in&rdquo; and &ldquo;fish-out&rdquo; monitoring (identified in&nbsp;RPA&nbsp;50.6), thereby meeting the requirements of&nbsp;RPA&nbsp;56.3,&nbsp;RPA&nbsp;57, and&nbsp;RPA&nbsp;3.&nbsp;CHaMP&nbsp;was designed to deliver trends in habitat indicators and requires that monitoring occurs for three cycles of a sampling panel (see section 1.6), at least 9 years.</p>\r\n\r\n<p>The South Fork Salmon domain was divided into two major strata (Secesh&nbsp;and Greater South Fork Salmon) for which separate stratification and designs were developed. The standard&nbsp;CHaMP&nbsp;panel structure of an annual and three, three year rotating panels was utilized.&nbsp; The targeted&nbsp;TRT&nbsp;populations were the Steelhead (Snake River Basin&nbsp;DPS) -&nbsp;Secesh&nbsp;River, Steelhead (Snake River Basin&nbsp;DPS) - South Fork Salmon River, Chinook Salmon (Snake River Spring/Summer-run&nbsp;ESU) - East Fork South Fork Salmon River, Chinook Salmon (Snake River Spring/Summer-run&nbsp;ESU) -&nbsp;Secesh&nbsp;River, and Chinook Salmon (Snake River Spring/Summer-run&nbsp;ESU) - South Fork Salmon River&nbsp;Mainstem.</p>\r\n\r\n<p><strong>2014 Design update notes:</strong></p>\r\n\r\n<p>There were no updates to the study objectives, target frame, or site selection in 2014.</p>\r\n\r\n<p><strong>2013 Design update notes:</strong></p>\r\n\r\n<p>There were no changes to the South Fork Salmon design in 2013.</p>\r\n\r\n<p><strong>2012 Design update notes:&nbsp;</strong></p>\r\n\r\n<p>In 2012, there were no changes to the&nbsp;GRTS&nbsp;draw, however the sampling priority shifted to the&nbsp;Secesh&nbsp;and no sites were sampled in the Greater South Fork Salmon strata.</p>\r\n\r\n<p><strong>\u200b2011 Original Design Notes:</strong></p>\r\n\r\n<p><strong>Secesh&nbsp;site selection design notes:</strong>&nbsp;</p>\r\n\r\n<p>For the&nbsp;Secesh, there were 5 legacy sites drawn from the&nbsp;CBW&nbsp;master sample that were previously sampled in 2009-2010 during fish surveys for the Integrated Status and Effectiveness Monitoring Program (ISEMP).&nbsp; These sites were included as &#39;legacy&#39; sites included in the pool of sites for the&nbsp;GRTS&nbsp;draw, but were not selectively chosen to be at the top of the Use Order for the draw.&nbsp; No stratification was imposed for the design, i.e., no allocation of sites by valley class, nor by ownership.&nbsp; Site allocation to panels followed the standard&nbsp;CHaMP&nbsp;allocation of 15 annual and 10 sites to each rotating panel.</p>\r\n\r\n<p><strong>Site allocation:</strong></p>\r\n\r\n<p><strong>R code for Salmon Design:</strong>&nbsp;Secesh.SFSal.6.13.r</p>\r\n\r\n<p><strong>Strat.panel function version:</strong>&nbsp;Stevens.strat.panel.4.r</p>\r\n\r\n<p><strong>Secesh GRTS input file</strong>: Secesh_MS_20110530.txt.</p>\r\n\r\n<p><strong>Secesh Final Design File:</strong>&nbsp;Secesh.6.1.2011.csv</p>\r\n\r\n<p><strong>South Fork Salmon Design Files:&nbsp;</strong></p>\r\n\r\n<p><a href=\"https://isemp.egnyte.com/h-s/20140123/57704d0e7e1449a8\">SFS_DesignFiles.zip</a>&nbsp;<br />\r\n&nbsp;</p>\r\n",
+  "startYear": "2011",
+  "retirementYear": "",
+  "initiationYear": "2011",
+  "targetPopulation": "<p>In 2011, the frame was initially refined to be perennial streams (NHDPlus&nbsp;FCode&nbsp;46006) &nbsp;within the South Fork Salmon&nbsp;HUC, excluding first order streams. The frame was further refined to exclude&nbsp;non-wadable&nbsp;sections of the&nbsp;mainstem&nbsp;South Fork Salmon and&nbsp;Secesh, and non-fish areas (refinements made by Watershed Solutions, Inc.).&nbsp;</p>\r\n\r\n<p><strong>2014 Frame update notes:</strong></p>\r\n\r\n<p>There were no updates to the frame in 2014.</p>\r\n\r\n<p><strong>2013 Frame update notes:</strong></p>\r\n\r\n<p>In 2013, the frame&nbsp;remained&nbsp;the same as 2012.</p>\r\n\r\n<p><strong>2012 Frame update notes:</strong></p>\r\n\r\n<p>In 2012, the frame was reduced to the&nbsp;Secesh&nbsp;strata and the Greater South Fork Salmon strata was not sampled.</p>\r\n\r\n<p><strong>GIS Frame File:</strong></p>\r\n\r\n<div><a href=\"https://isemp.egnyte.com/h-s/20140430/QiYOuFjGyX\" style=\"font-size: 12px;\">SouthForkSalmon_Frame.zip&nbsp;</a></div>\r\n",
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 754,
+      "name": "Annual",
+      "abbreviation": "Annual",
+      "years": [
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/279/panels/754",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/279"
+    },
+    {
+      "id": 755,
+      "name": "Rotating Panel 1",
+      "abbreviation": "Rotating Panel 1",
+      "years": [
+        "2011",
+        "2014"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/279/panels/755",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/279"
+    },
+    {
+      "id": 756,
+      "name": "Rotating Panel 2",
+      "abbreviation": "Rotating Panel 2",
+      "years": [
+        "2012",
+        "2015"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/279/panels/756",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/279"
+    },
+    {
+      "id": 757,
+      "name": "Rotating Panel 3",
+      "abbreviation": "Rotating Panel 3",
+      "years": [
+        "2013"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/279/panels/757",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/279"
+    }
+  ],
+  "strata": [
+    {
+      "id": 1391,
+      "name": "Secesh",
+      "abbreviation": "Secesh",
+      "url": "http://www.monitoringresources.org/api/v1/designs/279/strata/1391",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/279"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/18",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/223",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/279/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/279",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/279/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/279",
+  "masterSample": {
+    "name": "Columbia Basin Master Sample",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/1"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 279,
+  "title": "South Fork Salmon Watershed Habitat Surveys  in the Secesh within the Columbia Habitat Monitoring Program (CHaMP) in 2014",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/279",
+  "spatialDesignCategory": "Modified GRTS",
+  "spatialDesignCategoryID": 14,
+  "lastUpdated": "2014-07-30T05:56:01-07:00"
+}

@@ -1,0 +1,57 @@
+{
+  "description": "<p>Location of CRITFC genetics lab for sequencing and genotyping samples.</p>\r\n",
+  "startYear": "2008",
+  "retirementYear": "",
+  "initiationYear": "2008",
+  "targetPopulation": null,
+  "ownerName": "Shawn Narum",
+  "ownerEmail": "nars@critfc.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 19686,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2008"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16293/panels/19686",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16293"
+    }
+  ],
+  "strata": [
+    {
+      "id": 22013,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16293/strata/22013",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16293"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/587",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16293/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16293",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16293/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16293",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16293",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11355"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Salmon Falls"
+    }
+  ],
+  "id": 16293,
+  "title": "Genetics Lab Analysis",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16293",
+  "spatialDesignCategory": "Other...",
+  "spatialDesignCategoryID": 17,
+  "lastUpdated": "2019-02-16T05:14:33-08:00"
+}

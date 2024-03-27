@@ -1,0 +1,64 @@
+{
+  "description": "No valid data",
+  "startYear": "2020",
+  "retirementYear": "2022",
+  "initiationYear": "2020",
+  "targetPopulation": null,
+  "ownerName": "Troy Baker",
+  "ownerEmail": "troy.baker@wwbwc.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 21381,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16589/panels/21381",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16589"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24156,
+      "name": "All Sites",
+      "abbreviation": "All Sites",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16589/strata/24156",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16589"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1075",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16589/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16589",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16589/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16589",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design Surface Water Temperature Monitoring WSE 98589 (9686)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/7849"
+    },
+    {
+      "name": "BPA Sample for Study Design Surface Water Temperature Monitoring WSE 128965 (9683)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/8627"
+    },
+    {
+      "name": "BPA Sample for Study Design Surface Water Temperature Monitoring WSE 119812 (9681)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/8970"
+    },
+    {
+      "name": "BPA Sample for Study Design Surface Water Temperature Monitoring WSE 110342 (9679)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/9463"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16589,
+  "title": "Collect Water Temperature Data for Recharge project and Water monitoring - Walla Walla Basin Watershed Council",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16589",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2020-07-02T02:07:54-07:00"
+}

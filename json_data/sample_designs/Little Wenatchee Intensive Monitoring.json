@@ -1,0 +1,74 @@
+{
+  "description": "<p>&nbsp;</p>\r\n\r\n<p><strong>2014: &nbsp;</strong></p>\r\n\r\n<p>An intensive draw was done for the anadromous&nbsp;extent of the Little Wenatchee (LWIN master sample). &nbsp;This was seeded by the CBW master sample, and 4 sites overlap in naming convention between the two sets of sites. &nbsp;The CBW name of a site was retained in the design and the LWIN site was not used:</p>\r\n\r\n<p>LWIN 18=CBW-461995</p>\r\n\r\n<p>\u200bLWIN49=CBW-391019</p>\r\n\r\n<p>LWIN16=CBW-275627</p>\r\n\r\n<p>LWIN36=CBW-117611</p>\r\n\r\n<p>\u200b2 strata were used based on preliminary assessments of River Styles done by Terraqua. &nbsp;A total of 5 sites of effort will be sampled: 2 CBW sites and 3 sites from the new strata (1 from *CGS and 2 from *GS. These sites were put into an annual panel , but effort will be reassessed in 2015 to adjust panels and sampling design. &nbsp;</p>\r\n\r\n<p>Preliminary evaluations were outlined in LWevaluations_20140820.xls until entered in 2015.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "startYear": "2014",
+  "retirementYear": "",
+  "initiationYear": "2014",
+  "targetPopulation": null,
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 2338,
+      "name": "Annual",
+      "abbreviation": "A",
+      "years": [
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15900/panels/2338",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15900"
+    },
+    {
+      "id": 2339,
+      "name": "Rotating",
+      "abbreviation": "R",
+      "years": [
+        "2015",
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15900/panels/2339",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15900"
+    }
+  ],
+  "strata": [
+    {
+      "id": 3167,
+      "name": "PC_SCAMS_DF_PRB_GS",
+      "abbreviation": "RS1",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15900/strata/3167",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15900"
+    },
+    {
+      "id": 3168,
+      "name": "PC_SSC_DF_P_CGS",
+      "abbreviation": "RS2",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15900/strata/3168",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15900"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/18",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/228",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15900/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15900",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15900/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15900",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Little Wenatchee GRTS draw from 200m intensification",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1063"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 15900,
+  "title": "Little Wenatchee Intensive Monitoring",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15900",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2015-06-18T00:20:44-07:00"
+}

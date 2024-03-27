@@ -1,0 +1,52 @@
+{
+  "description": "<p>Redband Trout will be surveyed in the Chamokane Creek watershed via backpack electrofishing, weirs and screw traps to understand population characteristics such as recruitment, spawner escapement, movement and survival. \u200b\u200b</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "startYear": "2020",
+  "retirementYear": "2025",
+  "initiationYear": "2020",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Casey Flanagan",
+  "ownerEmail": "caseyf@spokanetribe.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 19844,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16386/panels/19844",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16386"
+    }
+  ],
+  "strata": [
+    {
+      "id": 22902,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16386/strata/22902",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16386"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/64",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1119",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16386/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16386",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16386/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16386",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16386",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11402"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16386,
+  "title": "Chamokane Creek Redband Trout Stock Assessment",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16386",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2019-10-16T06:26:11-07:00"
+}

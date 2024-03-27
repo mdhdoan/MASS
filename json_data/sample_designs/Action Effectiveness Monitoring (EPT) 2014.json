@@ -1,0 +1,52 @@
+{
+  "description": "No valid data",
+  "startYear": "2012",
+  "retirementYear": "",
+  "initiationYear": "2014",
+  "targetPopulation": null,
+  "ownerName": "jonathan drake",
+  "ownerEmail": "jon.drake@noaa.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 2217,
+      "name": "Annual",
+      "abbreviation": "Annual",
+      "years": [
+        "2012"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/385/panels/2217",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/385"
+    }
+  ],
+  "strata": [
+    {
+      "id": 2971,
+      "name": "Complete Barrier",
+      "abbreviation": "Full Barrier",
+      "url": "http://www.monitoringresources.org/api/v1/designs/385/strata/2971",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/385"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/385/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/385",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/385/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/385",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "AEM002 Legacy Sample (2014 EPT Full Barriers)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1061"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 385,
+  "title": "Action Effectiveness Monitoring (EPT) 2014",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/385",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2015-03-06T12:08:30-08:00"
+}

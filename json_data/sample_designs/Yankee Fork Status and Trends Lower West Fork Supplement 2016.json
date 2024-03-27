@@ -1,0 +1,78 @@
+{
+  "description": "<p>The Lower&nbsp;WF&nbsp;YF&nbsp;is a targeted area of&nbsp;CHaMP&nbsp;habitat and fish sampling in the Yankee Fork. &nbsp;The 2013-2015 status and trend sampling design has a limited number of sites (2) in this area, and these sites are not representative of the desired sampling area in between these two sites.</p>\r\n\r\n<p>Sites from the original&nbsp;200m&nbsp;intensification from&nbsp;spsurvey&nbsp;for this section were loaded as a User Sample that could be used for a small&nbsp;GRTS&nbsp;sample of this area. &nbsp;Previously sampled sites within this section will be considered legacy sites and sampled in out years. &nbsp;2 sites will be drawn for this strata, one for RP 1 and 1 for RP 2.</p>\r\n\r\n<p>This design is meant to be used in affiliation with the core Yankee Fork Status and Trend design 2016.</p>\r\n",
+  "startYear": "2013",
+  "retirementYear": "",
+  "initiationYear": "2016",
+  "targetPopulation": null,
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 7243,
+      "name": "Rotating Panel 1",
+      "abbreviation": "RP1",
+      "years": [
+        "2013",
+        "2016",
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2589/panels/7243",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2589"
+    },
+    {
+      "id": 7244,
+      "name": "Rotating Panel 2",
+      "abbreviation": "RP2",
+      "years": [
+        "2014",
+        "2017",
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2589/panels/7244",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2589"
+    },
+    {
+      "id": 7245,
+      "name": "Rotating Panel 3",
+      "abbreviation": "RP3",
+      "years": [
+        "2015",
+        "2018",
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2589/panels/7245",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2589"
+    }
+  ],
+  "strata": [
+    {
+      "id": 9239,
+      "name": "Lower WF Yankee Fork",
+      "abbreviation": "Low WFYF",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2589/strata/9239",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2589"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/18",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/229",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/2589/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/2589",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/2589/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/2589",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "YFI User Sample Supplement",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1086"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 2589,
+  "title": "Yankee Fork Status and Trends Lower West Fork Supplement 2016",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/2589",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2016-07-21T00:39:21-07:00"
+}

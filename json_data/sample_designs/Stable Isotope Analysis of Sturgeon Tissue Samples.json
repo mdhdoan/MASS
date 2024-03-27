@@ -1,0 +1,33 @@
+{
+  "description": "<p>White Sturgeon fin tissue samples were collectedf from&nbsp;the Roosevelt Reach during our 2022 fall stock assessment survey.&nbsp;</p>\r\n",
+  "startYear": "2024",
+  "retirementYear": "",
+  "initiationYear": "2024",
+  "targetPopulation": null,
+  "ownerName": "Andy Miller",
+  "ownerEmail": "amiller@spokanetribe.com",
+  "images": [],
+  "panels": [],
+  "strata": [],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/26",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1890",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16992/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16992",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16992/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16992",
+  "masterSample": null,
+  "userSamples": null,
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Mainstem Reaches and Dams",
+      "areaDisplayName": "Grand Coulee Dam to Keenleyside Dam"
+    }
+  ],
+  "id": 16992,
+  "title": "Stable Isotope Analysis of Sturgeon Tissue Samples",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16992",
+  "spatialDesignCategory": "Inference",
+  "spatialDesignCategoryID": 16,
+  "lastUpdated": "2024-01-09T00:14:54-08:00"
+}

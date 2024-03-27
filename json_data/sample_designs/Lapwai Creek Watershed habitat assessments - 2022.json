@@ -1,0 +1,52 @@
+{
+  "description": "<p>Aquatic habitat surveys to be conducted through extent of eight Bureau of Reclamation electrofishing trend sites located within the Lapwai Creek watershed.</p>\r\n",
+  "startYear": "2022",
+  "retirementYear": "",
+  "initiationYear": "2022",
+  "targetPopulation": null,
+  "ownerName": "Clint Chandler",
+  "ownerEmail": "clintc@nezperce.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 21839,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2022"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16768/panels/21839",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16768"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24393,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16768/strata/24393",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16768"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/24",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1667",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16768/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16768",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16768/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16768",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16768",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11560"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16768,
+  "title": "Lapwai Creek Watershed habitat assessments - 2022",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16768",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2021-12-16T05:53:23-08:00"
+}

@@ -1,0 +1,52 @@
+{
+  "description": "<p>Use a full duplex in-stream PIT Tag Array in the lower Nespelem River to monitor numbers of tagged fish using available habitat. Detected fish may be emigrating from the upper Nespelem River into Rufus Woods Lake, or they may be entering the Nespelem River from Rufus Woods Lake. Thse fish potentially include native Redband Trout that have entrained past Grand Coulee Dam (e.g., fish tagged in the Sanpoil River or other Lake Roosevelt tributaries) and migrating into the Nespelem River to spawn or otherwise utilize available habitat. This detection data will help inform fisheries managers of emigration rates from the Nespelem River, and provide data on fish that have entrained downstream past Grand Coulee Dam.</p>\r\n",
+  "startYear": "2020",
+  "retirementYear": "2025",
+  "initiationYear": "2020",
+  "targetPopulation": null,
+  "ownerName": "Bryan Jones",
+  "ownerEmail": "bryan.jones@colvilletribes.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 21354,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16581/panels/21354",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16581"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24139,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16581/strata/24139",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16581"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1287",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16581/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16581",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16581/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16581",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16581",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11504"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16581,
+  "title": "Redband Trout utilization of a Rufus Woods tributary monitoring - Colville Confederated Tribes",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16581",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2020-06-04T07:54:01-07:00"
+}

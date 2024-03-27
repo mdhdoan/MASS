@@ -1,0 +1,37 @@
+{
+  "description": "<p>Genotyping&nbsp;of tissue samples</p>\r\n",
+  "startYear": "2018",
+  "retirementYear": "",
+  "initiationYear": "2018",
+  "targetPopulation": null,
+  "ownerName": "Shawn Narum",
+  "ownerEmail": "nars@critfc.org",
+  "images": [],
+  "panels": [],
+  "strata": [],
+  "programUrl": "",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/587",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16134/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16134",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16134/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16134",
+  "masterSample": null,
+  "userSamples": null,
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "42.757, -114.853"
+    },
+    {
+      "areaTypeName": "Mainstem Reaches and Dams",
+      "areaDisplayName": "Bonneville Dam"
+    }
+  ],
+  "id": 16134,
+  "title": "Hagerman Genetics Lab - CRITFC",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16134",
+  "spatialDesignCategory": "Inference",
+  "spatialDesignCategoryID": 16,
+  "lastUpdated": "2019-02-16T03:53:31-08:00"
+}

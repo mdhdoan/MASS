@@ -1,0 +1,50 @@
+{
+  "description": "No valid data",
+  "startYear": "2017",
+  "retirementYear": "2017",
+  "initiationYear": "2017",
+  "targetPopulation": null,
+  "ownerName": "Paul Cryan",
+  "ownerEmail": "cryanp@usgs.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 19315,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15730/panels/19315",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15730"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21735,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15730/strata/21735",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15730"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/80",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1549",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15730/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15730",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15730/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15730",
+  "masterSample": {
+    "name": "Continental United States 10 KM Grid",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/10"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 15730,
+  "title": "Technology Development and Innovation for Addressing Wind Wildlife Operational Challenges: Refining a selectively perceptible Wind Turbine System for Preventing Bat Fatalities Sample Design",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15730",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": "2018-06-09T02:09:08-07:00"
+}

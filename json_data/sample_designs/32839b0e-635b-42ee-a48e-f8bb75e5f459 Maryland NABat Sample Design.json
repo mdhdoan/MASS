@@ -1,0 +1,50 @@
+{
+  "description": "No valid data",
+  "startYear": "2017",
+  "retirementYear": "2017",
+  "initiationYear": "2017",
+  "targetPopulation": null,
+  "ownerName": "Ben Neece",
+  "ownerEmail": "ben.neece@umces.edu",
+  "images": [],
+  "panels": [
+    {
+      "id": 19449,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15789/panels/19449",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15789"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21855,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15789/strata/21855",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15789"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/80",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1603",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15789/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15789",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15789/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15789",
+  "masterSample": {
+    "name": "Continental United States 10 KM Grid",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/10"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 15789,
+  "title": "32839b0e-635b-42ee-a48e-f8bb75e5f459 Maryland NABat Sample Design",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15789",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": "2018-08-02T21:33:04-07:00"
+}

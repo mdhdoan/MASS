@@ -1,0 +1,57 @@
+{
+  "description": "No valid data",
+  "startYear": "2019",
+  "retirementYear": "2024",
+  "initiationYear": "2019",
+  "targetPopulation": null,
+  "ownerName": "Trainee User",
+  "ownerEmail": "samuel.anthony.cimino@gmail.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 19743,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16342/panels/19743",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16342"
+    }
+  ],
+  "strata": [
+    {
+      "id": 22815,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16342/strata/22815",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16342"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/4",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1697",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16342/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16342",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16342/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16342",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16342",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11379"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC4 - Sub Basin",
+      "areaDisplayName": " OKANOGAN"
+    }
+  ],
+  "id": 16342,
+  "title": "Test CCT F&W 30APR2019",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16342",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2019-05-01T04:07:19-07:00"
+}

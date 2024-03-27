@@ -1,0 +1,50 @@
+{
+  "description": "No valid data",
+  "startYear": "2017",
+  "retirementYear": "2017",
+  "initiationYear": "2017",
+  "targetPopulation": null,
+  "ownerName": "Roger Rodriguez",
+  "ownerEmail": "roger.rodriguez@osucascades.edu",
+  "images": [],
+  "panels": [
+    {
+      "id": 19391,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15750/panels/19391",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15750"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21800,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15750/strata/21800",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15750"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/80",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1379",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15750/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15750",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15750/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15750",
+  "masterSample": {
+    "name": "Continental United States 10 KM Grid",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/10"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 15750,
+  "title": "a8b1a4a1-a658-437b-9dbb-9df81c0005b4 Oregon Bat Grid 2.0 Sample Design",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15750",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": "2018-06-27T01:47:39-07:00"
+}

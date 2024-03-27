@@ -1,0 +1,71 @@
+{
+  "description": "<p>Tissue samples will be collected from subyearling Chinook salmon in Hells Canyon on the Snake River to determine whether fish are of the fall run or spring/summer run.</p>\r\n",
+  "startYear": "1991",
+  "retirementYear": "",
+  "initiationYear": "1991",
+  "targetPopulation": null,
+  "ownerName": "Kenneth Tiffan",
+  "ownerEmail": "ktiffan@usgs.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 19275,
+      "name": "Seine sites",
+      "abbreviation": "SS",
+      "years": [
+        "1991",
+        "1992",
+        "1993",
+        "1994",
+        "1995",
+        "1996",
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15700/panels/19275",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15700"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21691,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15700/strata/21691",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15700"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/85",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1530",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15700/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15700",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15700/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15700",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Hells Canyon Beach Seining Sites",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11287"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Chinook Fall Interior Columbia Pop. Bound",
+      "areaDisplayName": "Snake River Lower Mainstem"
+    }
+  ],
+  "id": 15700,
+  "title": "Tissue collection for genetic analyses",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15700",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2018-05-29T22:15:22-07:00"
+}

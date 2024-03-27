@@ -1,0 +1,61 @@
+{
+  "description": "<p>This sample design refers to all experiments conducted at Cle Elum Supplementation Research Facility (CESRF) and/or the Aquaculture Research Institute (ARI, Boise, ID). These experiments have historically utilized spring chinook salmon progeny from either the supplementation-hatchery brood line or the wild-natural integrated brood line&nbsp;at CESRF to investigate factors influecing precocious maturation.&nbsp;</p>\r\n",
+  "startYear": "2017",
+  "retirementYear": "2030",
+  "initiationYear": "2017",
+  "targetPopulation": null,
+  "ownerName": "Hayley Nuetzel",
+  "ownerEmail": "hnuetzel@critfc.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 21998,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16837/panels/21998",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16837"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24492,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16837/strata/24492",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16837"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/83",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1775",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16837/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16837",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16837/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16837",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 60124 (14694)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/9599"
+    },
+    {
+      "name": "Sample for Design #16837",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11599"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "47.191787,-120.944299"
+    }
+  ],
+  "id": 16837,
+  "title": "Sampling of spring chinook salmon involved in minijack experiments",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16837",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2023-01-18T03:30:52-08:00"
+}

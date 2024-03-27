@@ -1,0 +1,91 @@
+{
+  "backgroundRationale": "<p>The sampling design for fish status and trend monitoring in the Wenatchee, Entiat and Methow is based on a Generalized Random-Tessellation Sampling design with an annual panel of 25 sites structured to distribute sampling effort in space (Stevens and Olsen 2004). These 25 sites are co-located with the habitat monitoring annual panel sites proposed under the CHaMP. Analysis suggests that 25 sites provide good coverage without redundancy (see CHaMP study design). All fish monitoring data will be subjected to standard QA/QC processes and uploaded to a web-based enterprise database (STEM).</p>\r\n",
+  "sampleDesigns": [
+    {
+      "id": 2712,
+      "title": "Operate and maintain PIT tag arrays in the Wenatchee Basin - Washington Department of Fish and Wildlife (WDFW)",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2712",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": null
+    },
+    {
+      "id": 2713,
+      "title": "UCSRB Evaluation of Monitoring Data - Yakama Confederated Tribes",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2713",
+      "spatialDesignCategory": "Inference",
+      "spatialDesignCategoryID": 16,
+      "lastUpdated": null
+    },
+    {
+      "id": 2714,
+      "title": "Tabular data support for data analysis in pilot basins - South Fork Research",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2714",
+      "spatialDesignCategory": "Inference",
+      "spatialDesignCategoryID": 16,
+      "lastUpdated": null
+    },
+    {
+      "id": 2715,
+      "title": "Tabular data support for data analysis in pilot basins - South Fork Research_2",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2715",
+      "spatialDesignCategory": "Inference",
+      "spatialDesignCategoryID": 16,
+      "lastUpdated": null
+    },
+    {
+      "id": 2716,
+      "title": "Conduct fish monitoring at up to 50 status and trend sites in the Wenatchee and Entiat - Washington Department of Fish and Wildlife (WDFW)",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2716",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": null
+    }
+  ],
+  "objectives": [
+    "Development and implementation of a coordinated habitat and population status and trends monitoring program in the South Fork Salmon River (SFSR).",
+    "Development and implementation of a coordinated habitat restoration effectiveness monitoring program in the John Day Basin",
+    "Development and implementation of a coordinated habitat restoration effectiveness monitoring program in the Lemhi River. ",
+    "Development and implementation of a coordinated watershed scale habitat restoration effectiveness monitoring program in Bridge Creek of the Joh",
+    "Development of a coordinated habitat and population status and trends monitoring program in the John Day Basin. ",
+    "Effectiveness Monitoring in the Entiat Intensively Monitored Watershed",
+    "Installation, operation, and maintenance of a coordinated Snake River PIT tag array system.",
+    "Status and trend monitoring program in the Upper Columbia "
+  ],
+  "keyAssumptions": null,
+  "dataHandlingConsiderations": null,
+  "qualityControlConsiderations": null,
+  "reportingConsiderations": null,
+  "equipmentCleaningAndCalibration": null,
+  "rolesAndResponsibilities": null,
+  "qualifications": null,
+  "trainingRequirements": null,
+  "safetyConsiderations": null,
+  "fieldScheduleNotes": null,
+  "budgetConsiderations": null,
+  "monitoringPurpose": "Status and Trends Monitoring",
+  "estimatedCostPerSite": null,
+  "optionalMethodIDs": [],
+  "optionalMethods": [],
+  "id": 50,
+  "name": "Upper Columbia Status and Trend Fish Monitoring Study (2003-017-00) v1.0",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/studyDesigns/50",
+  "programID": 10,
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/10",
+  "protocolID": 288,
+  "protocolUrl": "http://www.monitoringresources.org/api/v1/protocols/288",
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org",
+  "majorVersion": 1,
+  "minorVersion": 0,
+  "previousStudyDesignVersionId": null,
+  "previousStudyDesignVersionUrl": "[none]",
+  "mostRecentVersionId": null,
+  "mostRecentVersionUrl": "[none]"
+}

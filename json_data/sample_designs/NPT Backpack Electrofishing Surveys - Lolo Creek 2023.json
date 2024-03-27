@@ -1,0 +1,52 @@
+{
+  "description": "<p>Fish distribution data to be collected within the Lolo Creek watershed utilizing single-pass backpack electrofishing surveys. Survey sites to be probabilistically located within reaches which are to be identified by a multiagency Lolo Atlas data-gap monitoring workgroup prior to the 2023 field season.</p>\r\n",
+  "startYear": "2023",
+  "retirementYear": "2023",
+  "initiationYear": "2023",
+  "targetPopulation": null,
+  "ownerName": "Clint Chandler",
+  "ownerEmail": "clintc@nezperce.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 21985,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2023"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16832/panels/21985",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16832"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24480,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16832/strata/24480",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16832"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/24",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1668",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16832/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16832",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16832/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16832",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16832",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11597"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16832,
+  "title": "NPT Backpack Electrofishing Surveys - Lolo Creek 2023",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16832",
+  "spatialDesignCategory": "Generalized Random Tessellation Stratified (GRTS), External",
+  "spatialDesignCategoryID": 19,
+  "lastUpdated": "2022-12-15T00:24:17-08:00"
+}

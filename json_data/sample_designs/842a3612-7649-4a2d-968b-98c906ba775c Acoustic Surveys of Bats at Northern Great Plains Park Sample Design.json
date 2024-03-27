@@ -1,0 +1,50 @@
+{
+  "description": "No valid data",
+  "startYear": "2017",
+  "retirementYear": "2017",
+  "initiationYear": "2017",
+  "targetPopulation": null,
+  "ownerName": "Brian Reichert",
+  "ownerEmail": "breichert@usgs.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 19230,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16137/panels/19230",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16137"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21641,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16137/strata/21641",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16137"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/80",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1492",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16137/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16137",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16137/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16137",
+  "masterSample": {
+    "name": "Continental United States 10 KM Grid",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/10"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 16137,
+  "title": "842a3612-7649-4a2d-968b-98c906ba775c Acoustic Surveys of Bats at Northern Great Plains Park Sample Design",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16137",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": null
+}

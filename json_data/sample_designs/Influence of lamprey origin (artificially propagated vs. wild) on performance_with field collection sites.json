@@ -1,0 +1,52 @@
+{
+  "description": "<p>Artificial propagation of Pacific Lamprey is being pursued to provide larval and juvenile lamprey in large quantities for research (e.g., downstream passage studies) and restoration activities. Ideally, artificially propagated (AP) lamprey would perform comparably to wild (W) lamprey. However, the long-term culture of larvae (3-10 years), until metamorphosis, could influence changes in performance of &ldquo;domesticated&rdquo; AP fish relative to W fish. AP and W lamprey have recently been compared using respiration rates, burrowing, and sustained swimming ability (Moser et al. 2020). We propose to expand this work by comparing the swimming ability of tagged lamprey and describing the performance of AP and W lamprey over time in captivity. W larvae may demonstrate different behaviors than &ldquo;domesticated&rdquo; AP larvae, and understanding when behavioral changes occur is an important consideration in decisions about when AP fish are appropriate surrogates for W fish.&nbsp;</p>\r\n",
+  "startYear": "2021",
+  "retirementYear": "2022",
+  "initiationYear": "2021",
+  "targetPopulation": null,
+  "ownerName": "Theresa \"Marty\" Liedtke",
+  "ownerEmail": "tliedtke@usgs.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 21638,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16687/panels/21638",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16687"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24291,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16687/strata/24291",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16687"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1785",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16687/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16687",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16687/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16687",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16687",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11533"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16687,
+  "title": "Influence of lamprey origin (artificially propagated vs. wild) on performance_with field collection sites",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16687",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2021-03-16T22:56:25-07:00"
+}

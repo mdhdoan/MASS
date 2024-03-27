@@ -1,0 +1,52 @@
+{
+  "description": "<p>Monitor focal fish species in Libby Reservoir using sinking (spring) and floating (fall) gillnets.</p>\r\n",
+  "startYear": "2021",
+  "retirementYear": "2030",
+  "initiationYear": "2021",
+  "targetPopulation": null,
+  "ownerName": "Ryan Sylvester",
+  "ownerEmail": "rsylvester@mt.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 21686,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16709/panels/21686",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16709"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24314,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16709/strata/24314",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16709"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/809",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16709/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16709",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16709/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16709",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16709",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11539"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16709,
+  "title": "MFWP Koocanusa Reservoir / Lake Koocanusa Gillnetting",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16709",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2021-05-15T00:43:48-07:00"
+}

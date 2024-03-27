@@ -1,0 +1,132 @@
+{
+  "description": "No valid data",
+  "startYear": "2018",
+  "retirementYear": "2037",
+  "initiationYear": "2018",
+  "targetPopulation": null,
+  "ownerName": "Ryan Klett",
+  "ownerEmail": "ryan.klett@colvilletribes.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 21833,
+      "name": "Annual",
+      "abbreviation": "Annual",
+      "years": [
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026",
+        "2027",
+        "2028",
+        "2029",
+        "2030",
+        "2031",
+        "2032",
+        "2033",
+        "2034",
+        "2035",
+        "2036",
+        "2037"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15563/panels/21833",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15563"
+    },
+    {
+      "id": 21835,
+      "name": "Panel 1",
+      "abbreviation": "Panel 1",
+      "years": [
+        "2018",
+        "2022",
+        "2026",
+        "2030",
+        "2034"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15563/panels/21835",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15563"
+    },
+    {
+      "id": 21836,
+      "name": "Panel 2",
+      "abbreviation": "Panel 2",
+      "years": [
+        "2019",
+        "2023",
+        "2027",
+        "2031",
+        "2035"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15563/panels/21836",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15563"
+    },
+    {
+      "id": 21837,
+      "name": "Panel 3",
+      "abbreviation": "Panel 3",
+      "years": [
+        "2020",
+        "2024",
+        "2028",
+        "2032",
+        "2036"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15563/panels/21837",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15563"
+    },
+    {
+      "id": 21838,
+      "name": "Panel 4",
+      "abbreviation": "Panel 4",
+      "years": [
+        "2021",
+        "2025",
+        "2029",
+        "2033",
+        "2037"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15563/panels/21838",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15563"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24392,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15563/strata/24392",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15563"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/4",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1356",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15563/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15563",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15563/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15563",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "OBMEP Habitat Status and Trend_Okanogan Subbasin Reach Midpoints",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11211"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC4 - Sub Basin",
+      "areaDisplayName": "Okanogan"
+    }
+  ],
+  "id": 15563,
+  "title": "Okanogan Basin Monitoring and Evaluation Program - Habitat Status and Trend",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15563",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2021-12-16T03:34:32-08:00"
+}

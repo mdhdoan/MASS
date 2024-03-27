@@ -1,0 +1,121 @@
+{
+  "description": "<p>Annual monitoring of stocked waterbodies.</p>\r\n",
+  "startYear": "2004",
+  "retirementYear": "2024",
+  "initiationYear": "2004",
+  "targetPopulation": null,
+  "ownerName": "Bryan Jones",
+  "ownerEmail": "bryan.jones@colvilletribes.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 21519,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2004"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16239/panels/21519",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16239"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24224,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16239/strata/24224",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16239"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/21",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1265",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16239/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16239",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16239/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16239",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design Whole Lake Monitoring WSE 119336 (8755)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/10635"
+    },
+    {
+      "name": "Sample for Design #16239",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11335"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "48.406642,-118.256836"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "48.407554,-118.235207"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "48.286848,-118.380432"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "48.257141,-118.383179"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "48.293244,-118.322754"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "48.230276,-118.215809"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "48.227875,-118.898506"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "48.036430,-118.894386"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "48.282907,-119.151449"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "48.268798,-119.391174"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "48.236794,-119.644547"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "48.166200,-119.495201"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "48.064570,-118.892666"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "48.275193,-119.517240"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "48.370120,-118.924330"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "48.055130,-118.934740"
+    }
+  ],
+  "id": 16239,
+  "title": "Lake Surveys - Colville Confederated Tribes",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16239",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2020-10-30T00:08:08-07:00"
+}

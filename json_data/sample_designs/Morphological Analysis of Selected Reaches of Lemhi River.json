@@ -1,0 +1,57 @@
+{
+  "description": "<p>Collection of data from Cottom Lane, Amonson restoration reach and Hayden Creek for the RMRS/UI project.</p>\r\n",
+  "startYear": "2018",
+  "retirementYear": "2021",
+  "initiationYear": "2018",
+  "targetPopulation": null,
+  "ownerName": "Amy Hines",
+  "ownerEmail": "amy.hines@osc.idaho.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 20079,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16469/panels/20079",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16469"
+    }
+  ],
+  "strata": [
+    {
+      "id": 23009,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16469/strata/23009",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16469"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/18",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/215",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16469/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16469",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16469/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16469",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16469",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11428"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC3 - Basin",
+      "areaDisplayName": "Salmon"
+    }
+  ],
+  "id": 16469,
+  "title": "Morphological Analysis of Selected Reaches of Lemhi River",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16469",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2020-01-28T07:50:58-08:00"
+}

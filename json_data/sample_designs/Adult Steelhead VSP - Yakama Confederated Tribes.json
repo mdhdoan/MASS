@@ -1,0 +1,45 @@
+{
+  "description": "<p>This work element will analyze adult detection data for the purpose of&nbsp; generating accurate spawner escapement estimates for each Yakima MPG steelhead population. Specifically the work element will generate population specific adult escapement and spawner escapement estimates using PIT-tag detections from strategically placed Remote Inriver detection systems.</p>\r\n\r\n<p>&nbsp;Population estimates are provided for Satus Creek, Toppenish Creek, the Naches River and Upper Yakima River Steelhead populations&nbsp;</p>\r\n",
+  "startYear": "2013",
+  "retirementYear": "2040",
+  "initiationYear": "2020",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Chris Frederiksen",
+  "ownerEmail": "chrisf@yakama.com",
+  "images": [],
+  "panels": [],
+  "strata": [],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/83",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1736",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16493/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16493",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16493/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16493",
+  "masterSample": null,
+  "userSamples": null,
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "Naches River"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "Satus Creek"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "Toppenish"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "Yakima River upper mainstem"
+    }
+  ],
+  "id": 16493,
+  "title": "Adult Steelhead VSP - Yakama Confederated Tribes",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16493",
+  "spatialDesignCategory": "Inference",
+  "spatialDesignCategoryID": 16,
+  "lastUpdated": "2020-02-12T14:14:44-08:00"
+}

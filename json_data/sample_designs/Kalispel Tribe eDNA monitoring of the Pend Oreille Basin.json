@@ -1,0 +1,57 @@
+{
+  "description": "<p>Environmental DNA&nbsp;(eDNA) samples will be collected opportunitstically, as needed to detect the presence/absence or range of a target species as a direct result of a management action (e.g., non native species suppression/eradication, native species reintroduction), proposed management action, or suspected introduction of an invasive species.&nbsp; The quantity and distribution of samples will depend on the question but follow protocols provided in the literature. Samples can be taken during any calendar months when&nbsp;freezing tempertatures are not present.</p>\r\n\r\n<p>Examples of potential sampling include: presence/absence sampling for Brook Trout or Westslope Cutthroat Trout at the suspected upper extent of distribution and or every 200-300 m of stream; sampling of lakes and rivers along shorelines or at tributary mouths for suspected invasion of non-native fish species (e.g., Northern Pike, Lake Trout, Smallmouth Bass, etc).&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "startYear": "2022",
+  "retirementYear": "2023",
+  "initiationYear": "2022",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Nick Bean",
+  "ownerEmail": "nbean@knrd.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 21873,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2022"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16777/panels/21873",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16777"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24415,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16777/strata/24415",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16777"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/89",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1734",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16777/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16777",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16777/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16777",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16474",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11430"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "NPPC Subbasins",
+      "areaDisplayName": "PEND OREILLE"
+    }
+  ],
+  "id": 16777,
+  "title": "Kalispel Tribe eDNA monitoring of the Pend Oreille Basin",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16777",
+  "spatialDesignCategory": "Other...",
+  "spatialDesignCategoryID": 17,
+  "lastUpdated": "2022-01-25T02:01:04-08:00"
+}

@@ -1,0 +1,52 @@
+{
+  "description": "<p>Collect genetic samples to assess potential opportunities for native fish (Redband and Westslope Cutthorat Trout) restoration activities.</p>\r\n",
+  "startYear": "2021",
+  "retirementYear": "2021",
+  "initiationYear": "2021",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Ryan Sylvester",
+  "ownerEmail": "rsylvester@mt.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 21641,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16690/panels/21641",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16690"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24294,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16690/strata/24294",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16690"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/808",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16690/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16690",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16690/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16690",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16690",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11534"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16690,
+  "title": "Westslope and redband trout conservation assessments V2 - Montana Fish, Wildlife and Parks (MFWP)",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16690",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2021-03-30T01:32:29-07:00"
+}

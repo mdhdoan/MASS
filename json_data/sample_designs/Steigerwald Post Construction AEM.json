@@ -1,0 +1,57 @@
+{
+  "description": "<p>Level 3 Action Effectiveness Monitoring standard metrics and protocols</p>\r\n",
+  "startYear": "2020",
+  "retirementYear": "2030",
+  "initiationYear": "2020",
+  "targetPopulation": null,
+  "ownerName": "Catherine Corbett",
+  "ownerEmail": "ccorbett@estuarypartnership.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 21744,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16727/panels/21744",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16727"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24339,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16727/strata/24339",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16727"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/780",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16727/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16727",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16727/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16727",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design Action Effectiveness Monitoring Columbia Estuary Ecosystem Restoration Program (CEERP) Level 3 Standard Monitoring Indicators v1.0 WSE 131790 (3436)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/2408"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC3 - Basin",
+      "areaDisplayName": "Lower Columbia"
+    }
+  ],
+  "id": 16727,
+  "title": "Steigerwald Post Construction AEM",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16727",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2021-07-24T02:03:45-07:00"
+}

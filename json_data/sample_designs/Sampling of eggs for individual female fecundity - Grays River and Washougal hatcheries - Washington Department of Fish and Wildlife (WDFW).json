@@ -1,0 +1,64 @@
+{
+  "description": "No valid data",
+  "startYear": "2010",
+  "retirementYear": "2018",
+  "initiationYear": "2010",
+  "targetPopulation": null,
+  "ownerName": "Todd Hillson",
+  "ownerEmail": "hillsth@dfw.wa.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 21727,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2010"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16718/panels/21727",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16718"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24327,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16718/strata/24327",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16718"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1016",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16718/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16718",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16718/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16718",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design VSP monitoring, adult salmonid data collection spawning ground surveys and mark/recapture (abundance, diversity and distribution) WSE 66073 (5728)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1513"
+    },
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 56615 (14365)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/8420"
+    },
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 46890 (13511)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/8668"
+    },
+    {
+      "name": "Sample for Design #16718",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11542"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16718,
+  "title": "Sampling of eggs for individual female fecundity - Grays River and Washougal hatcheries - Washington Department of Fish and Wildlife (WDFW)",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16718",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2021-06-26T01:10:03-07:00"
+}

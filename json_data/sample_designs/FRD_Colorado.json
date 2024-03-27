@@ -1,0 +1,151 @@
+{
+  "description": "No valid data",
+  "startYear": "2016",
+  "retirementYear": "",
+  "initiationYear": "2016",
+  "targetPopulation": "<p>Perennial streams and rivers on BLM lands in the Front Range District, CO</p>\r\n",
+  "ownerName": "Scott Miller",
+  "ownerEmail": "scott.miller@usu.edu",
+  "images": [],
+  "panels": [
+    {
+      "id": 6951,
+      "name": "Year 1",
+      "abbreviation": "Yr1",
+      "years": [
+        "2016"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2522/panels/6951",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2522"
+    },
+    {
+      "id": 6952,
+      "name": "Year 2",
+      "abbreviation": "Yr2",
+      "years": [
+        "2016"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2522/panels/6952",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2522"
+    }
+  ],
+  "strata": [
+    {
+      "id": 8554,
+      "name": "ROYAL GORGE FIELD OFFICE-1.0",
+      "abbreviation": "S0",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2522/strata/8554",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2522"
+    },
+    {
+      "id": 8555,
+      "name": "ROYAL GORGE FIELD OFFICE-2.0",
+      "abbreviation": "S1",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2522/strata/8555",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2522"
+    },
+    {
+      "id": 8556,
+      "name": "ROYAL GORGE FIELD OFFICE-3.0",
+      "abbreviation": "S2",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2522/strata/8556",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2522"
+    },
+    {
+      "id": 8557,
+      "name": "ROYAL GORGE FIELD OFFICE-4.0",
+      "abbreviation": "S3",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2522/strata/8557",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2522"
+    },
+    {
+      "id": 8558,
+      "name": "ROYAL GORGE FIELD OFFICE-5.0",
+      "abbreviation": "S4",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2522/strata/8558",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2522"
+    },
+    {
+      "id": 8559,
+      "name": "ROYAL GORGE FIELD OFFICE-6.0",
+      "abbreviation": "S5",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2522/strata/8559",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2522"
+    },
+    {
+      "id": 8560,
+      "name": "ROYAL GORGE FIELD OFFICE-7.0",
+      "abbreviation": "S6",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2522/strata/8560",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2522"
+    },
+    {
+      "id": 8561,
+      "name": "SAN LUIS VALLEY FIELD OFFICE-1.0",
+      "abbreviation": "S7",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2522/strata/8561",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2522"
+    },
+    {
+      "id": 8562,
+      "name": "SAN LUIS VALLEY FIELD OFFICE-2.0",
+      "abbreviation": "S8",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2522/strata/8562",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2522"
+    },
+    {
+      "id": 8563,
+      "name": "SAN LUIS VALLEY FIELD OFFICE-3.0",
+      "abbreviation": "S9",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2522/strata/8563",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2522"
+    },
+    {
+      "id": 8564,
+      "name": "SAN LUIS VALLEY FIELD OFFICE-4.0",
+      "abbreviation": "S10",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2522/strata/8564",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2522"
+    },
+    {
+      "id": 8565,
+      "name": "SAN LUIS VALLEY FIELD OFFICE-5.0",
+      "abbreviation": "S11",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2522/strata/8565",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2522"
+    },
+    {
+      "id": 8566,
+      "name": "SAN LUIS VALLEY FIELD OFFICE-6.0",
+      "abbreviation": "S12",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2522/strata/8566",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2522"
+    },
+    {
+      "id": 8567,
+      "name": "SAN LUIS VALLEY FIELD OFFICE-7.0",
+      "abbreviation": "S13",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2522/strata/8567",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2522"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/78",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1335",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/2522/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/2522",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/2522/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/2522",
+  "masterSample": {
+    "name": "Bureau of Land Management Lotic",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/8"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 2522,
+  "title": "FRD_Colorado",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/2522",
+  "spatialDesignCategory": "Generalized Random Tessellation Stratified (GRTS)",
+  "spatialDesignCategoryID": 18,
+  "lastUpdated": "2017-10-03T05:50:44-07:00"
+}

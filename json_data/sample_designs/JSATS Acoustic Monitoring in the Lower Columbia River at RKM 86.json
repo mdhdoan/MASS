@@ -1,0 +1,61 @@
+{
+  "description": "<p>We will install an array of 12 JSATS receivers at Columbia River km 86, near Oak Point. This site performed well for salmon studies (Harnish et al., 2012), and our proposed receiver spacing is based on our experience with the lamprey transmitter in the Yakima River. The array will be monitoring from December 2020 through at least early March 2021.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "startYear": "2020",
+  "retirementYear": "2021",
+  "initiationYear": "2020",
+  "targetPopulation": null,
+  "ownerName": "Theresa \"Marty\" Liedtke",
+  "ownerEmail": "tliedtke@usgs.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 21304,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16563/panels/21304",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16563"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24107,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16563/strata/24107",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16563"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1744",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16563/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16563",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16563/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16563",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16563",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11496"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.184494, -123.180340"
+    },
+    {
+      "areaTypeName": "Columbia River Basin",
+      "areaDisplayName": "81.203828"
+    }
+  ],
+  "id": 16563,
+  "title": "JSATS Acoustic Monitoring in the Lower Columbia River at RKM 86",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16563",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2020-04-11T00:53:40-07:00"
+}

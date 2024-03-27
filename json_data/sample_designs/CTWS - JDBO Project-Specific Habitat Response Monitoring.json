@@ -1,0 +1,141 @@
+{
+  "description": "<p>This sampling design is designed to accompany the Study Design &quot;JDBO - Project-Specifc Habitat Response Monitoring&quot; under the Protocol of the same name.&nbsp;This sampling design will utilize an ease of access design, as the monitoring to be performed within this study design will all be performed on project sites, and access/avaialability&nbsp;to sites that meet criteria for comparison (control/reference) sites is potentially problematic. Therefore, each habitat restorartion project will have a monitoring plan tailored to that particular&nbsp;projects specific goals and objectives, and will outline the monitoring techniques and methdos to be used at each site. Additionally, monitoring plans will outline the purpose for data being collected, what management questions or goals/objectives they are being used to address, and how the data being collected will be analyzed.&nbsp;</p>\r\n",
+  "startYear": "2018",
+  "retirementYear": "",
+  "initiationYear": "2018",
+  "targetPopulation": null,
+  "ownerName": "Joe Lemanski",
+  "ownerEmail": "joe.lemanski@ctwsbnr.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 19501,
+      "name": "Lower Fox Creek Monitoring",
+      "abbreviation": "Lower Fox",
+      "years": [
+        "2018",
+        "2019",
+        "2021",
+        "2026"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16213/panels/19501",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16213"
+    },
+    {
+      "id": 19502,
+      "name": "Phipps Meadow Habitat Enhancement",
+      "abbreviation": "Phipps",
+      "years": [
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2023",
+        "2027"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16213/panels/19502",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16213"
+    },
+    {
+      "id": 19503,
+      "name": "Upper Fox Creek Monitoring",
+      "abbreviation": "Upper Fox",
+      "years": [
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2023",
+        "2027"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16213/panels/19503",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16213"
+    },
+    {
+      "id": 19504,
+      "name": "Upper John Day Habitat Enhancement",
+      "abbreviation": "UJDR Hab",
+      "years": [
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026",
+        "2027"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16213/panels/19504",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16213"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21911,
+      "name": "Project-Specific Monitoring",
+      "abbreviation": "PSM",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16213/strata/21911",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16213"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/52",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1638",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16213/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16213",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16213/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16213",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "CTWS - JDBO Project-Specific Habitat Response Monitoring",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11325"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Rivers - Streams 24k",
+      "areaDisplayName": "John Day River"
+    },
+    {
+      "areaTypeName": "Rivers 100k",
+      "areaDisplayName": "Reynolds Creek"
+    },
+    {
+      "areaTypeName": "Bull Trout Critical Habitat - Stream",
+      "areaDisplayName": "Reynolds Creek"
+    },
+    {
+      "areaTypeName": "HUC5 - Watershed",
+      "areaDisplayName": "Reynolds Creek-John Day River"
+    },
+    {
+      "areaTypeName": "HUC4 - Sub Basin",
+      "areaDisplayName": " UPPER JOHN DAY"
+    },
+    {
+      "areaTypeName": "Rivers - Streams 24k",
+      "areaDisplayName": "Fox Creek"
+    },
+    {
+      "areaTypeName": "HUC6 - Sub Watershed",
+      "areaDisplayName": "Cottonwood Creek"
+    },
+    {
+      "areaTypeName": "Rivers - Streams 24k",
+      "areaDisplayName": "Middle Fork John Day River"
+    },
+    {
+      "areaTypeName": "HUC6 - Sub Watershed",
+      "areaDisplayName": "Bridge Creek-Middle Fork John Day River"
+    }
+  ],
+  "id": 16213,
+  "title": "CTWS - JDBO Project-Specific Habitat Response Monitoring",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16213",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2018-10-06T01:26:12-07:00"
+}

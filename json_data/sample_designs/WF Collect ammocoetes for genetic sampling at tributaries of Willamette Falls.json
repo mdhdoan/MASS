@@ -1,0 +1,56 @@
+{
+  "description": "<p>Using an AbP-2 backpack electroshocker (Engineering Technical Services, University of Wisconsin, Madison, WI), a series of electroshocking passes will be conducted to induce ammocoete emergence from the sediment at the mouths of tributaries to the Willamette River. To avoid causing any developmental damage to ammocoetes, there will be up to five passes in one spot (or until there are 10 ammocoetes large enough [&gt;50 mm]&nbsp;to sample are caught). The first three passes will be 45 s of electrofishing followed by a 45 s rest period. The fourth pass will be 45 s of electrofishing followed by a 60 s rest period. The fifth pass will be 180 s of electrofishing. Once caught, ammocoetes will be anesthetized with clove oil and a small section (~2mmx2mm) will be clipped from their caudal fin, which will be placed on a Whatman sheet.</p>\r\n",
+  "startYear": "2020",
+  "retirementYear": "2021",
+  "initiationYear": "2020",
+  "targetPopulation": null,
+  "ownerName": "Shay Way",
+  "ownerEmail": "shay.way@ctwsbnr.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 20114,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16482/panels/20114",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16482"
+    }
+  ],
+  "strata": [
+    {
+      "id": 23027,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16482/strata/23027",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16482"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/35",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/773",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16482/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16482",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16482/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16482",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design Monitoring the relative abundance and distribution of larval and juvenile Pacific lamprey in the Columbia River basin WSE 94084 (9146)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1174"
+    },
+    {
+      "name": "Sample for Design #16482",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11434"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16482,
+  "title": "WF: Collect ammocoetes for genetic sampling at tributaries of Willamette Falls",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16482",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2020-02-05T08:33:25-08:00"
+}

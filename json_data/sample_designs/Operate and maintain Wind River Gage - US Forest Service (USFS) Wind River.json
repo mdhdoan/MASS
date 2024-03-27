@@ -1,0 +1,52 @@
+{
+  "description": "<p>Monitoring discharge on the Lower Wind River</p>\r\n",
+  "startYear": "2005",
+  "retirementYear": "",
+  "initiationYear": "2005",
+  "targetPopulation": null,
+  "ownerName": "Bengt Coffin",
+  "ownerEmail": "bcoffin@fs.fed.us",
+  "images": [],
+  "panels": [
+    {
+      "id": 19555,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2005"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16234/panels/19555",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16234"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21934,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16234/strata/21934",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16234"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1196",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16234/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16234",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16234/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16234",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16234",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11333"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16234,
+  "title": "Operate and maintain Wind River Gage - US Forest Service (USFS): Wind River",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16234",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2018-11-09T03:47:03-08:00"
+}

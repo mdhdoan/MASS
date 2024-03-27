@@ -1,0 +1,63 @@
+{
+  "description": "<p>A certified electrofishing boat, operator, and experienced staff will sample fish along the shoreline (&lt; 2.0 m deep) at GRTS draw sites. Electrofisher settings will be pulsed direct current (DC) at 60 pulses per second, 40% power, and low voltage range (50-500 V) which are withing the range established by the National Marine Fisheries Service (NMFS 2000). McMichael (2018) conducted electrofishing in the McNary Pool in 2017 and found that the most efficient and fish safe electrofisher power output was between 2-4 amperes. Output will be adjusted to the minimum amperes to achieve fish galvanotaxis (narcosis). Effective sampling depth is about 2 meters and will occur at night. The boat will sample downstream to maximize catchability and sampling will occur one hour after sunset to one hour before sunrise.</p>\r\n\r\n<p>Predator fishes will be netted and placed in a 280-L live-well (receiving flow-through river water) and held to ensure vigor before release. All fish will be measured to the nearest millimeter (mm) (FL) and weighed to the nearest gram (g). All predators &gt;100 mm will be marked with a 12 mm half duplex PIT tag in the peritoneum (Musselman et al. 2017), ventral and anterior to the origin of the pectoral fin (Parker and Rankin 2003) and fin clipped to evaluate tag loss. PIT tag loss has been reported to be minimal in WAL (Meerbeek 2020) and SMB (Musselman et al. 2017) when tags were placed in the peritoneum. Tagged fish will be released every 200 m or less within the site to keep them close to capture locations, reduce holding stress, reduce post release mortality, and better understand post release movement within the site.</p>\r\n\r\n<p>As part of the mark-recapture methodology, predator fishes will be marked at eight sites (four on each bank) in each stratum. Four sites will be sampled each night to mark fish and re-sampled 24 hours later to recapture marked fish.&nbsp;&nbsp;</p>\r\n",
+  "startYear": "2023",
+  "retirementYear": "2027",
+  "initiationYear": "2023",
+  "targetPopulation": null,
+  "ownerName": "Matt Polacek",
+  "ownerEmail": "polacmcp@dfw.wa.gov",
+  "images": [
+    {
+      "type": "Photo",
+      "url": "http://www.monitoringresources.org/Designer/Design/UploadAsFile/7096",
+      "caption": null
+    },
+    {
+      "type": "Document",
+      "url": "http://www.monitoringresources.org/Designer/Design/UploadAsFile/7097",
+      "caption": null
+    }
+  ],
+  "panels": [
+    {
+      "id": 21953,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2023"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16808/panels/21953",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16808"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24451,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16808/strata/24451",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16808"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/64",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1835",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16808/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16808",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16808/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16808",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16808",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11586"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16808,
+  "title": "Boat Electrofishing to Collect Piscivores",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16808",
+  "spatialDesignCategory": "Simple Random Sample, Non-Stratified",
+  "spatialDesignCategoryID": 1,
+  "lastUpdated": "2022-06-24T02:26:06-07:00"
+}

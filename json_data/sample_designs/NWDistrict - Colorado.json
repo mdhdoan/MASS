@@ -1,0 +1,298 @@
+{
+  "description": "No valid data",
+  "startYear": "2016",
+  "retirementYear": "",
+  "initiationYear": "2016",
+  "targetPopulation": "<p>Perennial streams and rivers on BLM lands in the Northwest District, CO</p>\r\n",
+  "ownerName": "Scott Miller",
+  "ownerEmail": "scott.miller@usu.edu",
+  "images": [],
+  "panels": [
+    {
+      "id": 6953,
+      "name": "Year 1",
+      "abbreviation": "Yr1",
+      "years": [
+        "2016"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2523/panels/6953",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2523"
+    },
+    {
+      "id": 6954,
+      "name": "Year 2",
+      "abbreviation": "Yr2",
+      "years": [
+        "2016"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2523/panels/6954",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2523"
+    }
+  ],
+  "strata": [
+    {
+      "id": 8568,
+      "name": "COLORADO RIVER VALLEY FIELD OFFICE-1.0",
+      "abbreviation": "S0",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2523/strata/8568",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2523"
+    },
+    {
+      "id": 8569,
+      "name": "COLORADO RIVER VALLEY FIELD OFFICE-2.0",
+      "abbreviation": "S1",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2523/strata/8569",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2523"
+    },
+    {
+      "id": 8570,
+      "name": "COLORADO RIVER VALLEY FIELD OFFICE-3.0",
+      "abbreviation": "S2",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2523/strata/8570",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2523"
+    },
+    {
+      "id": 8571,
+      "name": "COLORADO RIVER VALLEY FIELD OFFICE-4.0",
+      "abbreviation": "S3",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2523/strata/8571",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2523"
+    },
+    {
+      "id": 8572,
+      "name": "COLORADO RIVER VALLEY FIELD OFFICE-5.0",
+      "abbreviation": "S4",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2523/strata/8572",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2523"
+    },
+    {
+      "id": 8573,
+      "name": "COLORADO RIVER VALLEY FIELD OFFICE-6.0",
+      "abbreviation": "S5",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2523/strata/8573",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2523"
+    },
+    {
+      "id": 8574,
+      "name": "COLORADO RIVER VALLEY FIELD OFFICE-7.0",
+      "abbreviation": "S6",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2523/strata/8574",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2523"
+    },
+    {
+      "id": 8575,
+      "name": "GRAND JUNCTION FIELD OFFICE-1.0",
+      "abbreviation": "S7",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2523/strata/8575",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2523"
+    },
+    {
+      "id": 8576,
+      "name": "GRAND JUNCTION FIELD OFFICE-2.0",
+      "abbreviation": "S8",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2523/strata/8576",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2523"
+    },
+    {
+      "id": 8577,
+      "name": "GRAND JUNCTION FIELD OFFICE-3.0",
+      "abbreviation": "S9",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2523/strata/8577",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2523"
+    },
+    {
+      "id": 8578,
+      "name": "GRAND JUNCTION FIELD OFFICE-4.0",
+      "abbreviation": "S10",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2523/strata/8578",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2523"
+    },
+    {
+      "id": 8579,
+      "name": "GRAND JUNCTION FIELD OFFICE-5.0",
+      "abbreviation": "S11",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2523/strata/8579",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2523"
+    },
+    {
+      "id": 8580,
+      "name": "GRAND JUNCTION FIELD OFFICE-6.0",
+      "abbreviation": "S12",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2523/strata/8580",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2523"
+    },
+    {
+      "id": 8581,
+      "name": "GRAND JUNCTION FIELD OFFICE-7.0",
+      "abbreviation": "S13",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2523/strata/8581",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2523"
+    },
+    {
+      "id": 8582,
+      "name": "KREMMLING FIELD OFFICE-1.0",
+      "abbreviation": "S14",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2523/strata/8582",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2523"
+    },
+    {
+      "id": 8583,
+      "name": "KREMMLING FIELD OFFICE-2.0",
+      "abbreviation": "S15",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2523/strata/8583",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2523"
+    },
+    {
+      "id": 8584,
+      "name": "KREMMLING FIELD OFFICE-3.0",
+      "abbreviation": "S16",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2523/strata/8584",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2523"
+    },
+    {
+      "id": 8585,
+      "name": "KREMMLING FIELD OFFICE-4.0",
+      "abbreviation": "S17",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2523/strata/8585",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2523"
+    },
+    {
+      "id": 8586,
+      "name": "KREMMLING FIELD OFFICE-5.0",
+      "abbreviation": "S18",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2523/strata/8586",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2523"
+    },
+    {
+      "id": 8587,
+      "name": "KREMMLING FIELD OFFICE-6.0",
+      "abbreviation": "S19",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2523/strata/8587",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2523"
+    },
+    {
+      "id": 8588,
+      "name": "KREMMLING FIELD OFFICE-7.0",
+      "abbreviation": "S20",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2523/strata/8588",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2523"
+    },
+    {
+      "id": 8589,
+      "name": "LITTLE SNAKE FIELD OFFICE-1.0",
+      "abbreviation": "S21",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2523/strata/8589",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2523"
+    },
+    {
+      "id": 8590,
+      "name": "LITTLE SNAKE FIELD OFFICE-2.0",
+      "abbreviation": "S22",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2523/strata/8590",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2523"
+    },
+    {
+      "id": 8591,
+      "name": "LITTLE SNAKE FIELD OFFICE-3.0",
+      "abbreviation": "S23",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2523/strata/8591",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2523"
+    },
+    {
+      "id": 8592,
+      "name": "LITTLE SNAKE FIELD OFFICE-4.0",
+      "abbreviation": "S24",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2523/strata/8592",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2523"
+    },
+    {
+      "id": 8593,
+      "name": "LITTLE SNAKE FIELD OFFICE-5.0",
+      "abbreviation": "S25",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2523/strata/8593",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2523"
+    },
+    {
+      "id": 8594,
+      "name": "LITTLE SNAKE FIELD OFFICE-6.0",
+      "abbreviation": "S26",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2523/strata/8594",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2523"
+    },
+    {
+      "id": 8595,
+      "name": "LITTLE SNAKE FIELD OFFICE-7.0",
+      "abbreviation": "S27",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2523/strata/8595",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2523"
+    },
+    {
+      "id": 8596,
+      "name": "WHITE RIVER FIELD OFFICE-1.0",
+      "abbreviation": "S28",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2523/strata/8596",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2523"
+    },
+    {
+      "id": 8597,
+      "name": "WHITE RIVER FIELD OFFICE-2.0",
+      "abbreviation": "S29",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2523/strata/8597",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2523"
+    },
+    {
+      "id": 8598,
+      "name": "WHITE RIVER FIELD OFFICE-3.0",
+      "abbreviation": "S30",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2523/strata/8598",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2523"
+    },
+    {
+      "id": 8599,
+      "name": "WHITE RIVER FIELD OFFICE-4.0",
+      "abbreviation": "S31",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2523/strata/8599",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2523"
+    },
+    {
+      "id": 8600,
+      "name": "WHITE RIVER FIELD OFFICE-5.0",
+      "abbreviation": "S32",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2523/strata/8600",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2523"
+    },
+    {
+      "id": 8601,
+      "name": "WHITE RIVER FIELD OFFICE-6.0",
+      "abbreviation": "S33",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2523/strata/8601",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2523"
+    },
+    {
+      "id": 8602,
+      "name": "WHITE RIVER FIELD OFFICE-7.0",
+      "abbreviation": "S34",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2523/strata/8602",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2523"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/78",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1335",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/2523/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/2523",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/2523/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/2523",
+  "masterSample": {
+    "name": "Bureau of Land Management Lotic",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/8"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 2523,
+  "title": "NWDistrict - Colorado",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/2523",
+  "spatialDesignCategory": "Generalized Random Tessellation Stratified (GRTS)",
+  "spatialDesignCategoryID": 18,
+  "lastUpdated": "2017-10-03T05:50:55-07:00"
+}

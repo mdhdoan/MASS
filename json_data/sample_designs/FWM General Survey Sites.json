@@ -1,0 +1,67 @@
+{
+  "description": "<p>Understanding the status and distribution of freshwater mussels across the ceded territory is one of the primary goals of the Freshwater Mussel Project.&nbsp; To do this,&nbsp;freshwater mussel specific surveys are carried&nbsp;out in&nbsp;rivers and streams&nbsp;across the territory.&nbsp; This sample design includes all opportunistic sampling efforts during the field season.&nbsp; Specific sites are targeted for&nbsp;long term monitoring, broodstock maintenance,&nbsp;or are associated with planned habitat restoration work, but other sites are surveyed to add coverage&nbsp;of&nbsp;areas with previously unknown mussel distribution.&nbsp; Sites are often selected after collaborators collect shell material from a site not previously surveyed for mussels, or new land acquisition makes access possible&nbsp;to a site.&nbsp; &nbsp;</p>\r\n",
+  "startYear": "2018",
+  "retirementYear": "",
+  "initiationYear": "2018",
+  "targetPopulation": null,
+  "ownerName": "Beth Glidewell",
+  "ownerEmail": "ElizabethGlidewell@ctuir.org",
+  "images": [
+    {
+      "type": "Photo",
+      "url": "http://www.monitoringresources.org/Designer/Design/UploadAsFile/5673",
+      "caption": null
+    }
+  ],
+  "panels": [
+    {
+      "id": 19367,
+      "name": "Completed Surveys",
+      "abbreviation": "Surveys",
+      "years": [
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026",
+        "2027"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15742/panels/19367",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15742"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21779,
+      "name": "Completed Surveys by year",
+      "abbreviation": "year",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15742/strata/21779",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15742"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/19",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1534",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15742/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15742",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15742/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15742",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "FWM General Survey Sites",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11306"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 15742,
+  "title": "FWM General Survey Sites",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15742",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2018-06-21T00:32:20-07:00"
+}

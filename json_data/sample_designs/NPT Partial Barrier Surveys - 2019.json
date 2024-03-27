@@ -1,0 +1,105 @@
+{
+  "description": "<p>AEM-MBACI post-implementation surveys of Lostine River Sheep Ridge partial passage barrier control and impact sites and pre-implementation surveys of Buford Creek Culvert partial passage barrier control and impact sites utilizing AEM-MBACI protocol.</p>\r\n",
+  "startYear": "2019",
+  "retirementYear": "2021",
+  "initiationYear": "2019",
+  "targetPopulation": null,
+  "ownerName": "Clint Chandler",
+  "ownerEmail": "clintc@nezperce.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 19624,
+      "name": "Buford Creek Control",
+      "abbreviation": "BCC",
+      "years": [
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16261/panels/19624",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16261"
+    },
+    {
+      "id": 19623,
+      "name": "Buford Creek Impact",
+      "abbreviation": "BCT",
+      "years": [
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16261/panels/19623",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16261"
+    },
+    {
+      "id": 19622,
+      "name": "Sheep Ridge Control",
+      "abbreviation": "SRC",
+      "years": [
+        "2019",
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16261/panels/19622",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16261"
+    },
+    {
+      "id": 19621,
+      "name": "Sheep Ridge Impact",
+      "abbreviation": "SRT",
+      "years": [
+        "2019",
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16261/panels/19621",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16261"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21972,
+      "name": "Buford Creek Control",
+      "abbreviation": "BCC",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16261/strata/21972",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16261"
+    },
+    {
+      "id": 21971,
+      "name": "Buford Creek Impact",
+      "abbreviation": "BCT",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16261/strata/21971",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16261"
+    },
+    {
+      "id": 21970,
+      "name": "Sheep Ridge Control",
+      "abbreviation": "SRC",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16261/strata/21970",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16261"
+    },
+    {
+      "id": 21969,
+      "name": "Sheep Ridge Impact",
+      "abbreviation": "SRT",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16261/strata/21969",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16261"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/58",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/358",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16261/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16261",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16261/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16261",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16261",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11349"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16261,
+  "title": "NPT Partial Barrier Surveys - 2019",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16261",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2019-01-08T07:37:09-08:00"
+}

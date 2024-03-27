@@ -1,0 +1,52 @@
+{
+  "description": "<p>Environmental DNA samples to be collected within the Lolo Creek and Lochsa River watersheds to address salmonid distribution data gaps. Sample sites to be established prior to the 2022 field season by project area managers for the NPT Lolo Creek Watershed Restoration Project and the NPT Lochsa River Watershed restoration project. Data to be collected utilizing methods described within the USDA Rocky Mountain Research Station Protocol for Collecting Environmental DNA Samples From Streams (https://www.fs.fed.us/rm/pubs/rmrs_gtr355.pdf).</p>\r\n",
+  "startYear": "2022",
+  "retirementYear": "2022",
+  "initiationYear": "2022",
+  "targetPopulation": null,
+  "ownerName": "Clint Chandler",
+  "ownerEmail": "clintc@nezperce.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 21830,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2022"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16766/panels/21830",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16766"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24387,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16766/strata/24387",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16766"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/67",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1239",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16766/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16766",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16766/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16766",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16766",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11558"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16766,
+  "title": "NPT Lolo Creek and Lochsa River eDNA Surveys - 2022",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16766",
+  "spatialDesignCategory": "Other...",
+  "spatialDesignCategoryID": 17,
+  "lastUpdated": "2021-12-16T01:07:13-08:00"
+}

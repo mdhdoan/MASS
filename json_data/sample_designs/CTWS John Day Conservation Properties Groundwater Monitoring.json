@@ -1,0 +1,52 @@
+{
+  "description": "<p>Throughout the CTWS properties on the Middle Fork of the John Day, there are 47 groundwater monitoring wells equipped with water level loggers taking hourly groundwater elevation measurements from April to October. Over the years, CTWS has taken on the role of maintaining and collection data from these well locations - Dunstan Preserve since ~2015, and MFFCA/OCA since 2017.</p>\r\n\r\n<p>Groundwater monitoring on the MFFCA and OCA has taken place since ~2008 by Oregon State University, who, in 2017, discontinued monitoring efforts and forwarded the opportunity and equipment to continue monitoring these locations. Many of these monitoring locations fall within future project areas, affording CTWS the rare opportunity to compile several years of pre-project groundwater elevation data to use for evaluating project effectiveness.&nbsp;&nbsp;</p>\r\n\r\n<p>Monitoring at the Dunstan Preserve has occurred intermittently since 1992. In the summer and fall of 2015 CTWS staff and contractors improved the ability of stream flow to enter side channels along the Dunstan property. The project intent was to increase and enhance rearing and refuge habitat for threatened and endangered salmon stocks (wild spring Chinook and summer steelhead) and also has the secondary potential benefit of off-stream recharge that increases groundwater return flows to the river in late spring into early summer.&nbsp;</p>\r\n\r\n<p>Long term monitoring of these groundwater wells, coupled with characterizing instream flow and groundwater interactions is critical to understanding the effectiveness of the restoration efforts performed on CTWS properties.</p>\r\n",
+  "startYear": "1992",
+  "retirementYear": "2030",
+  "initiationYear": "1992",
+  "targetPopulation": null,
+  "ownerName": "Joe Lemanski",
+  "ownerEmail": "joe.lemanski@ctwsbnr.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 21574,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "1992"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16123/panels/21574",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16123"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24255,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16123/strata/24255",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16123"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/52",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1361",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16123/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16123",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16123/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16123",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16123",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11526"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16123,
+  "title": "CTWS John Day Conservation Properties Groundwater Monitoring",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16123",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2021-01-07T00:26:19-08:00"
+}

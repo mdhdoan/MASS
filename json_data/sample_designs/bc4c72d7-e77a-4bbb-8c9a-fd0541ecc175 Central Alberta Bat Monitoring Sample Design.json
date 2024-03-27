@@ -1,0 +1,50 @@
+{
+  "description": "No valid data",
+  "startYear": "2017",
+  "retirementYear": "2017",
+  "initiationYear": "2017",
+  "targetPopulation": null,
+  "ownerName": "Jason Unruh",
+  "ownerEmail": "jason.unruh@gov.ab.ca",
+  "images": [],
+  "panels": [
+    {
+      "id": 19479,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16192/panels/19479",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16192"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21885,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16192/strata/21885",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16192"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/80",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1458",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16192/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16192",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16192/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16192",
+  "masterSample": {
+    "name": "Canada 10 KM Grid",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/11"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 16192,
+  "title": "bc4c72d7-e77a-4bbb-8c9a-fd0541ecc175 Central Alberta Bat Monitoring Sample Design",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16192",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": null
+}

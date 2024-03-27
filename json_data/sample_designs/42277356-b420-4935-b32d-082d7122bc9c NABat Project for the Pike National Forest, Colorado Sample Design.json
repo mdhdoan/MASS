@@ -1,0 +1,50 @@
+{
+  "description": "No valid data",
+  "startYear": "2017",
+  "retirementYear": "2017",
+  "initiationYear": "2017",
+  "targetPopulation": null,
+  "ownerName": "Susan Broderick",
+  "ownerEmail": "sbroderi331@ecentral.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 19468,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16178/panels/19468",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16178"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21874,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16178/strata/21874",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16178"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/80",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1608",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16178/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16178",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16178/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16178",
+  "masterSample": {
+    "name": "Continental United States 10 KM Grid",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/10"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 16178,
+  "title": "42277356-b420-4935-b32d-082d7122bc9c NABat Project for the Pike National Forest, Colorado Sample Design",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16178",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": "2018-08-16T23:41:16-07:00"
+}

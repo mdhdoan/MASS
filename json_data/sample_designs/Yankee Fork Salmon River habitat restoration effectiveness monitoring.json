@@ -1,0 +1,33 @@
+{
+  "description": "<ol>\r\n\t<li>To collect biological baseline data that could detect habitat characteristics before and after construction to determine what the effects of restoration and/or enhancement of the Yankee Fork.</li>\r\n\t<li>To collect physical baseline data that could detect habitat characteristics before and after construction to determine what the effects of restoration and/or enhancement of the Yankee Fork.</li>\r\n\t<li>To determine what the current condition physically and biologically of the pond series prior to construction, summer 2012. The pre- construction baseline data should provide the team with knowledge of what areas before and after.</li>\r\n</ol>\r\n",
+  "startYear": "2012",
+  "retirementYear": "2024",
+  "initiationYear": "2020",
+  "targetPopulation": null,
+  "ownerName": "Joseph Snapp",
+  "ownerEmail": "josnapp@sbtribes.com",
+  "images": [],
+  "panels": [],
+  "strata": [],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/91",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/945",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16407/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16407",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16407/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16407",
+  "masterSample": null,
+  "userSamples": null,
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC5 - Watershed",
+      "areaDisplayName": "Yankee Fork"
+    }
+  ],
+  "id": 16407,
+  "title": "Yankee Fork Salmon River habitat restoration effectiveness monitoring",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16407",
+  "spatialDesignCategory": "Inference",
+  "spatialDesignCategoryID": 16,
+  "lastUpdated": "2023-07-28T04:37:25-07:00"
+}

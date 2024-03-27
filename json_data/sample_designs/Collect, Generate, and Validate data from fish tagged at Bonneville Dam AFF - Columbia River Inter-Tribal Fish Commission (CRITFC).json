@@ -1,0 +1,52 @@
+{
+  "description": "No valid data",
+  "startYear": "2007",
+  "retirementYear": "2025",
+  "initiationYear": "2007",
+  "targetPopulation": null,
+  "ownerName": "Jeffrey Fryer",
+  "ownerEmail": "fryj@critfc.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 20185,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2007"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16523/panels/20185",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16523"
+    }
+  ],
+  "strata": [
+    {
+      "id": 23067,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16523/strata/23067",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16523"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/541",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16523/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16523",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16523/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16523",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design Using PIT tags to estimate upstream migratory characteristics of sockeye, Chinook, and steelhead tagged at Bonneville Dam (2008-518-00) WSE 73443 (5418)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1627"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16523,
+  "title": "Collect, Generate, and Validate data from fish tagged at Bonneville Dam AFF - Columbia River Inter-Tribal Fish Commission (CRITFC)",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16523",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2020-03-11T00:23:05-07:00"
+}

@@ -1,0 +1,582 @@
+{
+  "description": "<p><strong>2017 Design Updates</strong></p>\r\n\r\n<p>In 2017 funding was postponed for Entiat IMW habitat sampling due to a delay in action implementation. The mainstem entiat and IMW extent will now be included in the Entiat status and effectiveness monitoring analysis extent. &nbsp;The number of sites included in the mainstem Entiat and Mad River control areas was reduced. to fit within budget constraints. See the <a href=\"https://www.dropbox.com/s/duzhk1xplgnl8cs/Entiat%202017%20Reduction%20Proposals.docx?dl=0\">2017 Design Description </a>for additional information. &nbsp;Panel changes are noted in the <a href=\"https://www.dropbox.com/s/s4fxnduytujcatl/Entiat_Sampling_2017_Options_4_28_2017.xlsx?dl=0\">Entiat&nbsp;Sampling Options </a>document (Option 6).</p>\r\n\r\n<p>5/30/17: The final effort available for 2017 is 15 sites, reduced from 18. &nbsp;See <a href=\"https://www.dropbox.com/s/hh0voty4hbatx0g/Entiat_Sampling_2017_Options_5_30_2017_final.xlsx?dl=0\">Entiat_Sampling_2017_Options_5_30_17_final</a>&nbsp;for the final design list.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>2016 Design Updates</strong></p>\r\n\r\n<p>The following sites were removed from 2016 planned sampling: &nbsp;1BC3, 1BC7 2A1, 2A2, 2A3, 3C2, 3D1, 1BC8, 2A9, 2A7, Mad6, Mad25, Mad16</p>\r\n\r\n<p>Panels were updated for sites per the following spreadsheet from Steve Fortney (Entiat IMW_Sitelist_20160628_v2_forcarol_updatedpanels.xlsx)</p>\r\n\r\n<div>\r\n<div>\r\n<div><strong>2015 Updates:</strong></div>\r\n\r\n<div>In 2015, the design was updated to match Terraqua&#39;s tracking of sites within panels. &nbsp;</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>6/9/15: One update to block 2A 2016, 2018, 2019 was done to move site 2A8 to a new block (2A 2015, 2016, 2018, 2019) to make it available for 2015 sampling by AEM. &nbsp;This does not change the design for the Entiat IMW.</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>&nbsp;</div>\r\n</div>\r\n</div>\r\n",
+  "startYear": "2011",
+  "retirementYear": "",
+  "initiationYear": "2017",
+  "targetPopulation": "COPY: COPY: COPY: ",
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 8705,
+      "name": "2015",
+      "abbreviation": "15",
+      "years": [
+        "2015"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16052/panels/8705",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16052"
+    },
+    {
+      "id": 8706,
+      "name": "2015, 2016",
+      "abbreviation": "15, 16",
+      "years": [
+        "2015",
+        "2016"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16052/panels/8706",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16052"
+    },
+    {
+      "id": 8707,
+      "name": "2015, 2016, 2017, 2018",
+      "abbreviation": "15, 16, 17, 18",
+      "years": [
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16052/panels/8707",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16052"
+    },
+    {
+      "id": 8708,
+      "name": "2015, 2016, 2017, 2018, 2020",
+      "abbreviation": "15, 16, 17, 18, 20",
+      "years": [
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16052/panels/8708",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16052"
+    },
+    {
+      "id": 8709,
+      "name": "2015, 2016, 2017, 2019, 2020",
+      "abbreviation": "15, 16, 17, 19, 20",
+      "years": [
+        "2015",
+        "2016",
+        "2017",
+        "2019",
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16052/panels/8709",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16052"
+    },
+    {
+      "id": 8710,
+      "name": "2015, 2016, 2018",
+      "abbreviation": "15, 16, 18",
+      "years": [
+        "2015",
+        "2016",
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16052/panels/8710",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16052"
+    },
+    {
+      "id": 8711,
+      "name": "2015, 2016, 2018, 2019",
+      "abbreviation": "15,16,18, 19",
+      "years": [
+        "2015",
+        "2016",
+        "2018",
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16052/panels/8711",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16052"
+    },
+    {
+      "id": 8712,
+      "name": "2015, 2016, 2018, 2020",
+      "abbreviation": "15, 16, 18, 20",
+      "years": [
+        "2015",
+        "2016",
+        "2018",
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16052/panels/8712",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16052"
+    },
+    {
+      "id": 8713,
+      "name": "2015, 2016, 2019",
+      "abbreviation": "15, 16, 19",
+      "years": [
+        "2015",
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16052/panels/8713",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16052"
+    },
+    {
+      "id": 8714,
+      "name": "2015, 2017",
+      "abbreviation": "15, 17",
+      "years": [
+        "2015",
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16052/panels/8714",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16052"
+    },
+    {
+      "id": 8715,
+      "name": "2015, 2017, 2018",
+      "abbreviation": "15, 17, 18",
+      "years": [
+        "2015",
+        "2017",
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16052/panels/8715",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16052"
+    },
+    {
+      "id": 8716,
+      "name": "2015, 2017, 2018, 2020",
+      "abbreviation": "15, 17, 18, 20",
+      "years": [
+        "2015",
+        "2017",
+        "2018",
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16052/panels/8716",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16052"
+    },
+    {
+      "id": 8717,
+      "name": "2015, 2017, 2020",
+      "abbreviation": "15, 17, 20",
+      "years": [
+        "2015",
+        "2017",
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16052/panels/8717",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16052"
+    },
+    {
+      "id": 8718,
+      "name": "2015, 2018",
+      "abbreviation": "15, 18",
+      "years": [
+        "2015",
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16052/panels/8718",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16052"
+    },
+    {
+      "id": 8719,
+      "name": "2015, 2018, 2020",
+      "abbreviation": "15, 18, 20",
+      "years": [
+        "2015",
+        "2018",
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16052/panels/8719",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16052"
+    },
+    {
+      "id": 8720,
+      "name": "2015, 2019",
+      "abbreviation": "15, 19",
+      "years": [
+        "2015",
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16052/panels/8720",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16052"
+    },
+    {
+      "id": 8721,
+      "name": "2015, 2020",
+      "abbreviation": "15, 20",
+      "years": [
+        "2015",
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16052/panels/8721",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16052"
+    },
+    {
+      "id": 8722,
+      "name": "2016, 2017, 2018, 2019, 2020",
+      "abbreviation": "16, 17, 18, 19, 20",
+      "years": [
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16052/panels/8722",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16052"
+    },
+    {
+      "id": 8723,
+      "name": "2016, 2017, 2018, 2020",
+      "abbreviation": "16, 17, 18, 20",
+      "years": [
+        "2016",
+        "2017",
+        "2018",
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16052/panels/8723",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16052"
+    },
+    {
+      "id": 8724,
+      "name": "2016, 2017, 2019",
+      "abbreviation": "16, 17, 19",
+      "years": [
+        "2016",
+        "2017",
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16052/panels/8724",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16052"
+    },
+    {
+      "id": 8725,
+      "name": "2016, 2017, 2019, 2020",
+      "abbreviation": "16, 17, 19, 20",
+      "years": [
+        "2016",
+        "2017",
+        "2019",
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16052/panels/8725",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16052"
+    },
+    {
+      "id": 8726,
+      "name": "2016, 2017, 2020",
+      "abbreviation": "16, 17, 20",
+      "years": [
+        "2016",
+        "2017",
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16052/panels/8726",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16052"
+    },
+    {
+      "id": 8727,
+      "name": "2016, 2018, 2019",
+      "abbreviation": "16, 18, 19",
+      "years": [
+        "2016",
+        "2018",
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16052/panels/8727",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16052"
+    },
+    {
+      "id": 8728,
+      "name": "2016, 2018, 2020",
+      "abbreviation": "16, 18, 20",
+      "years": [
+        "2016",
+        "2018",
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16052/panels/8728",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16052"
+    },
+    {
+      "id": 8729,
+      "name": "2016, 2019",
+      "abbreviation": "16, 19",
+      "years": [
+        "2016",
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16052/panels/8729",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16052"
+    },
+    {
+      "id": 8730,
+      "name": "2016, 2020",
+      "abbreviation": "16, 20",
+      "years": [
+        "2016",
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16052/panels/8730",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16052"
+    },
+    {
+      "id": 8731,
+      "name": "2017, 2018",
+      "abbreviation": "17, 18",
+      "years": [
+        "2017",
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16052/panels/8731",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16052"
+    },
+    {
+      "id": 8732,
+      "name": "2017, 2018, 2019",
+      "abbreviation": "17, 18, 19",
+      "years": [
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16052/panels/8732",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16052"
+    },
+    {
+      "id": 8733,
+      "name": "2017, 2018, 2019, 2020",
+      "abbreviation": "17, 18, 19,  20",
+      "years": [
+        "2017",
+        "2018",
+        "2019",
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16052/panels/8733",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16052"
+    },
+    {
+      "id": 8734,
+      "name": "2017, 2018, 2020",
+      "abbreviation": "17, 18, 20",
+      "years": [
+        "2017",
+        "2018",
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16052/panels/8734",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16052"
+    },
+    {
+      "id": 8735,
+      "name": "2017, 2020",
+      "abbreviation": "17, 20",
+      "years": [
+        "2017",
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16052/panels/8735",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16052"
+    },
+    {
+      "id": 8736,
+      "name": "2018",
+      "abbreviation": "18",
+      "years": [
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16052/panels/8736",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16052"
+    },
+    {
+      "id": 8737,
+      "name": "2018, 2019",
+      "abbreviation": "18, 19",
+      "years": [
+        "2018",
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16052/panels/8737",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16052"
+    },
+    {
+      "id": 8738,
+      "name": "2019",
+      "abbreviation": "19",
+      "years": [
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16052/panels/8738",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16052"
+    },
+    {
+      "id": 8739,
+      "name": "2020",
+      "abbreviation": "20",
+      "years": [
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16052/panels/8739",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16052"
+    },
+    {
+      "id": 8740,
+      "name": "Annual",
+      "abbreviation": "A",
+      "years": [
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16052/panels/8740",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16052"
+    },
+    {
+      "id": 8741,
+      "name": "Extra",
+      "abbreviation": "E",
+      "years": [
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16052/panels/8741",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16052"
+    }
+  ],
+  "strata": [
+    {
+      "id": 10942,
+      "name": "1BC",
+      "abbreviation": "1BC",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16052/strata/10942",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16052"
+    },
+    {
+      "id": 10943,
+      "name": "1D",
+      "abbreviation": "1D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16052/strata/10943",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16052"
+    },
+    {
+      "id": 10944,
+      "name": "1E",
+      "abbreviation": "1E",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16052/strata/10944",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16052"
+    },
+    {
+      "id": 10945,
+      "name": "1F",
+      "abbreviation": "1F",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16052/strata/10945",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16052"
+    },
+    {
+      "id": 10946,
+      "name": "1G",
+      "abbreviation": "1G",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16052/strata/10946",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16052"
+    },
+    {
+      "id": 10947,
+      "name": "2A",
+      "abbreviation": "2A",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16052/strata/10947",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16052"
+    },
+    {
+      "id": 10948,
+      "name": "2C",
+      "abbreviation": "2C",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16052/strata/10948",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16052"
+    },
+    {
+      "id": 10949,
+      "name": "3A",
+      "abbreviation": "3A",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16052/strata/10949",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16052"
+    },
+    {
+      "id": 10950,
+      "name": "3C",
+      "abbreviation": "3C",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16052/strata/10950",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16052"
+    },
+    {
+      "id": 10951,
+      "name": "3D",
+      "abbreviation": "3D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16052/strata/10951",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16052"
+    },
+    {
+      "id": 10952,
+      "name": "3F",
+      "abbreviation": "3F",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16052/strata/10952",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16052"
+    },
+    {
+      "id": 10953,
+      "name": "IMW Side Channel Restoration",
+      "abbreviation": "Side Ch R",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16052/strata/10953",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16052"
+    },
+    {
+      "id": 10954,
+      "name": "Mad River",
+      "abbreviation": "Mad",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16052/strata/10954",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16052"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/18",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/200",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16052/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16052",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16052/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16052",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "ENT00001 Legacy Sample",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1013"
+    },
+    {
+      "name": "Entiat 2013 IMW Restoration Effectiveness Study",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1032"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16052,
+  "title": "Effectiveness Monitoring for Stream Restoration in the Entiat 2017",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16052",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2017-06-16T05:03:43-07:00"
+}

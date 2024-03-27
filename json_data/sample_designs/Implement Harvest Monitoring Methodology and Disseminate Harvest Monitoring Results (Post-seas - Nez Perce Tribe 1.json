@@ -1,0 +1,80 @@
+{
+  "description": "No valid data",
+  "startYear": "2022",
+  "retirementYear": "2027",
+  "initiationYear": "2022",
+  "targetPopulation": null,
+  "ownerName": "Joseph Oatman",
+  "ownerEmail": "joeo@nezperce.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 21819,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2022"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16758/panels/21819",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16758"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24376,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16758/strata/24376",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16758"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/704",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16758/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16758",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16758/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16758",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 28682 (12077)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/3078"
+    },
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 12460 (10746)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/4624"
+    },
+    {
+      "name": "BPA Sample for Study Design Wild adult steelhead monitoring in Idaho WSE 123220 (3963)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/7813"
+    },
+    {
+      "name": "BPA Sample for Study Design Post-Season Survey (2002-060-00) WSE 100124 (6937)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/9148"
+    },
+    {
+      "name": "BPA Sample for Study Design Inseason Interview Survey Method (2002-060-00) WSE 100123 (6854)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/9353"
+    },
+    {
+      "name": "Lookingglass Creek Adult Steelhead Trap",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11330"
+    },
+    {
+      "name": "Sample for Design #5350",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11346"
+    },
+    {
+      "name": "Sample for Design #16758",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11551"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16758,
+  "title": "Implement Harvest Monitoring Methodology and Disseminate Harvest Monitoring Results (Post-seas - Nez Perce Tribe 1",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16758",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2021-11-11T00:34:46-08:00"
+}

@@ -1,0 +1,54 @@
+{
+  "description": "<p><span style=\"font-size:12px; line-height:1.4em\">second year of sampling for </span>BOR&#39;s<span style=\"font-size:12px; line-height:1.4em\">&nbsp;metabolism study</span></p>\r\n",
+  "startYear": "2013",
+  "retirementYear": "",
+  "initiationYear": "2014",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 4606,
+      "name": "Annual",
+      "abbreviation": "Ann",
+      "years": [
+        "2013",
+        "2014",
+        "2015"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15899/panels/4606",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15899"
+    }
+  ],
+  "strata": [
+    {
+      "id": 5808,
+      "name": "Twisp River",
+      "abbreviation": "TR",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15899/strata/5808",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15899"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15899/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15899",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15899/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15899",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Methow 2013 BOR Stream Metabolism Study",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1031"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 15899,
+  "title": "Methow Metabolism Study in 2014",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15899",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2015-06-09T06:09:02-07:00"
+}

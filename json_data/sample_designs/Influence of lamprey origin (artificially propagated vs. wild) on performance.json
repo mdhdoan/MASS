@@ -1,0 +1,33 @@
+{
+  "description": "<p>the area of inference for this work is the full range of Pacific lamprey</p>\r\n",
+  "startYear": "2021",
+  "retirementYear": "",
+  "initiationYear": "2021",
+  "targetPopulation": null,
+  "ownerName": "Theresa \"Marty\" Liedtke",
+  "ownerEmail": "tliedtke@usgs.gov",
+  "images": [],
+  "panels": [],
+  "strata": [],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1785",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16685/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16685",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16685/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16685",
+  "masterSample": null,
+  "userSamples": null,
+  "areasOfInferences": [
+    {
+      "areaTypeName": "NPPC Provinces",
+      "areaDisplayName": "COLUMBIA GORGE"
+    }
+  ],
+  "id": 16685,
+  "title": "Influence of lamprey origin (artificially propagated vs. wild) on performance",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16685",
+  "spatialDesignCategory": "Inference",
+  "spatialDesignCategoryID": 16,
+  "lastUpdated": "2021-03-16T22:17:24-07:00"
+}

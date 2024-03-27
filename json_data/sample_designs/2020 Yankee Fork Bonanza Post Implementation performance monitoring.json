@@ -1,0 +1,63 @@
+{
+  "description": "<p>conduct fish habitat surveys in the Yankee Fork watershed to monitor status and trend of fish habitat for each major population group (MPG) (steelhead and Chinook) and effectiveness monitoring at six restoration and control sites using a standardized fish habitat monitoring protocol; the topographic habitat monitoring protocol&nbsp; will capture habitat features that drive fish population biology and will result in systematic habitat&nbsp; information used to assess habitat condition of restoration sites within the Yankee Fork. This information will be correlated with biological responses to evaluate habitat management strategies in the Yankee Fork watershed</p>\r\n",
+  "startYear": "2020",
+  "retirementYear": "2021",
+  "initiationYear": "2020",
+  "targetPopulation": null,
+  "ownerName": "Evelyn Galloway",
+  "ownerEmail": "egalloway@sbtribes.com",
+  "images": [
+    {
+      "type": "Photo",
+      "url": "http://www.monitoringresources.org/Designer/Design/UploadAsFile/6314",
+      "caption": "2020 Bonanza Implementation monitoring sites. JH"
+    }
+  ],
+  "panels": [
+    {
+      "id": 21390,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16595/panels/21390",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16595"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24160,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16595/strata/24160",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16595"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/58",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/359",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16595/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16595",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16595/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16595",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16595",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11507"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC5 - Watershed",
+      "areaDisplayName": "Yankee Fork"
+    }
+  ],
+  "id": 16595,
+  "title": "2020 Yankee Fork Bonanza Post Implementation performance monitoring",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16595",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2020-07-25T00:55:04-07:00"
+}

@@ -1,0 +1,50 @@
+{
+  "description": "No valid data",
+  "startYear": "2017",
+  "retirementYear": "2017",
+  "initiationYear": "2017",
+  "targetPopulation": null,
+  "ownerName": "Craig Hood",
+  "ownerEmail": "chood@loyno.edu",
+  "images": [],
+  "panels": [
+    {
+      "id": 19428,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15781/panels/19428",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15781"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21837,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15781/strata/21837",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15781"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/80",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1597",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15781/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15781",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15781/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15781",
+  "masterSample": {
+    "name": "Continental United States 10 KM Grid",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/10"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 15781,
+  "title": "d194db0c-0133-4ce4-9e4d-c4aa25fa405a Southeastern Louisiana Bat Monitoring Program Sample Design",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15781",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": "2018-07-30T21:39:36-07:00"
+}

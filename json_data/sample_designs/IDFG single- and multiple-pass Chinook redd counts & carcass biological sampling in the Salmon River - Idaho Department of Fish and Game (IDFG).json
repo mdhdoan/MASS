@@ -1,0 +1,52 @@
+{
+  "description": "<p>Stream transects will be targeted for sampling based on long-term monitoring conducted by the Idaho Department of Fish and Game (IDFG). Standardized sampling of trend transects began as early as 1957 (Copeland et al. 2019). Transects were selected to represent important production areas containing a large portion of available spawning habitat for spring-summer Chinook Salmon in Idaho. Transects have been added or dropped periodically over the course of the program&#39;s history, and any changes have been documented in IDFG annual reports. Currently, ground-based redd counts are scheduled to occur annually at 115 transects covering 1,116 km. Timing and intensity of counts falls into three categories: 1) Single pass peak counts occur&nbsp;at&nbsp; 57 transects and are timed to coincide with the period of peak spawning activity on a particular stream as estimated from historical observations (Copeland et al. 2019).&nbsp;2) Multiple pass counts occur at 38 transects where populations are targeted for intensive fish-in, fish-out monitoring. For these transects, one pass always occurs in line with the period of peak spawning activity so observations are comparable to counts where only single pass peak counts occur. However, additional passes occur approximately weekly throughout the spawning season such that the final pass occurs when spawning is complete. 3) Single pass counts at the end of the spawning season occurs at 20 transects in the Middle Fork Salmon River basin. These surveys are part of a complete count of the Middle Fork Basin and are targeted to occur from September 5-12, which coincides with the end of the spawning period while redds are still visible (Thurow 2010).&nbsp;</p>\r\n\r\n<p>Chinook Salmon carcasses encountered during ground-based redd counts are sampled to determine origin, to estimate age composition, and to collect tissue for genetic analysis. Carcass surveys are conducted in conjuction with redd counts so the study area and timing is identical.</p>\r\n",
+  "startYear": "2021",
+  "retirementYear": "",
+  "initiationYear": "2021",
+  "targetPopulation": null,
+  "ownerName": "Luciano Chiaramonte",
+  "ownerEmail": "luciano.chiaramonte@idfg.idaho.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 21792,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16696/panels/21792",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16696"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24362,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16696/strata/24362",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16696"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/73",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1818",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16696/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16696",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16696/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16696",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16696",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11548"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16696,
+  "title": "IDFG single- and multiple-pass Chinook redd counts & carcass biological sampling in the Salmon River - Idaho Department of Fish and Game (IDFG)",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16696",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2023-11-16T08:39:05-08:00"
+}

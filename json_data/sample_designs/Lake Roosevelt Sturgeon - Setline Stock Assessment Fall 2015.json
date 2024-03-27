@@ -1,0 +1,52 @@
+{
+  "description": "<p>Fall setline assessment on Lake Roosvelt collecting&nbsp;abundance of hatchery and wild components of the white sturgeon population\u200b,&nbsp;spatial and depth distributions of white sturgeon\u200b,&nbsp;growth and condition of hatchery and wild components of the white sturgeon population\u200b,&nbsp;survival rates in the hatchery and wild components of the white sturgeon population</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "startYear": "2015",
+  "retirementYear": "2015",
+  "initiationYear": "2015",
+  "targetPopulation": null,
+  "ownerName": "Joseph Cronrath",
+  "ownerEmail": "joseph.cronrath@spokanetribe.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 20142,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2015"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16498/panels/20142",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16498"
+    }
+  ],
+  "strata": [
+    {
+      "id": 23040,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16498/strata/23040",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16498"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/26",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1710",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16498/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16498",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16498/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16498",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16498",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11458"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16498,
+  "title": "Lake Roosevelt Sturgeon - Setline Stock Assessment Fall 2015",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16498",
+  "spatialDesignCategory": "Simple Random Sample, Non-Stratified",
+  "spatialDesignCategoryID": 1,
+  "lastUpdated": "2020-02-13T03:00:38-08:00"
+}

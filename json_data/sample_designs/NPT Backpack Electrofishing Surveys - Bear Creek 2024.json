@@ -1,0 +1,52 @@
+{
+  "description": "<p>Fish distribution data to be collected from probilistically located sites within the lower 13.8 km of Bear Creek, tributary to the Wallowa River, utilizing single-pass backpack electrofishing surveys.</p>\r\n",
+  "startYear": "2024",
+  "retirementYear": "2024",
+  "initiationYear": "2024",
+  "targetPopulation": null,
+  "ownerName": "Clint Chandler",
+  "ownerEmail": "clintc@nezperce.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 22373,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2024"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16985/panels/22373",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16985"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24654,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16985/strata/24654",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16985"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/24",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1668",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16985/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16985",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16985/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16985",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16985",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11625"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16985,
+  "title": "NPT Backpack Electrofishing Surveys - Bear Creek 2024",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16985",
+  "spatialDesignCategory": "Generalized Random Tessellation Stratified (GRTS), External",
+  "spatialDesignCategoryID": 19,
+  "lastUpdated": "2023-12-19T03:14:29-08:00"
+}

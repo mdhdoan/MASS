@@ -1,0 +1,52 @@
+{
+  "description": "<p>Site level monitoring locations for Benthic Macroinvertebrate sampling&nbsp;to monitor stream restoration effectiveness in the North Fork John Day, Umatilla, Upper Grande Ronde, Walla Walla, and Tucannon Basins.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "startYear": "2013",
+  "retirementYear": "2022",
+  "initiationYear": "2013",
+  "targetPopulation": "COPY: COPY: ",
+  "ownerName": "Kaylyn Costi",
+  "ownerEmail": "kaylyncosti@ctuir.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 19532,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2013"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16225/panels/19532",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16225"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21924,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16225/strata/21924",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16225"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/19",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1531",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16225/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16225",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16225/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16225",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "CTUIR Stream Habitat Restoration Monitoring Sites (BACI/BA)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11331"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16225,
+  "title": "CTUIR-Benthic Macroinvertebrate Sampling for Restoration Effectiveness Monitoring 2019",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16225",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2018-10-23T01:25:07-07:00"
+}

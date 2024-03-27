@@ -1,0 +1,56 @@
+{
+  "description": "<p>The Tribe&rsquo;s biomonitoring plan was created to evaluate the effectiveness of CTUIR habitat restoration projects on spring Chinook salmon (<em>Oncorhynchus tshawytscha)</em>, summer steelhead (<em>Oncorhynchus mykiss)</em>, and bull trout (<em>Salvelinus confluentus)</em> populations across the five subbasins of the Columbia River- Umatilla, Walla Walla, Grande Ronde, John Day and Tucannon.&nbsp;</p>\r\n\r\n<p>Habitat restoration actions and associated monitoring efforts are focused on addressing limiting factors with the greatest potential for improvement and include key stream characteristics, floodplain processes and associated hydrologic, geomorphologic, riparian, vegetative, and aquatic biota touchstones of the Umatilla River Vision.&nbsp; Projects as well as their associated control and treatment sites were selected using guidance from the Tribe&rsquo;s biomonitoring site selection protocol (Stillwater 2012). &nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "startYear": "2013",
+  "retirementYear": "2021",
+  "initiationYear": "2013",
+  "targetPopulation": "COPY: COPY: COPY: ",
+  "ownerName": "Kaylyn Costi",
+  "ownerEmail": "kaylyncosti@ctuir.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 19654,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2013"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16268/panels/19654",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16268"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21987,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16268/strata/21987",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16268"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/19",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1533",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16268/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16268",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16268/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16268",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "2018 Floodplain AEM/SRFB",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11291"
+    },
+    {
+      "name": "CTUIR Stream Habitat Restoration Monitoring Sites (BACI/BA)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11331"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16268,
+  "title": "Salmonid  Spawning Abundance and Distribution for Habitat Action Effectiveness Monitoring",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16268",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2019-01-11T05:35:28-08:00"
+}

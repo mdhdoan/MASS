@@ -1,0 +1,52 @@
+{
+  "description": "<p>Use the sort-by-code system to collect PIT-tagged juvenile fall Chinook salmon daily in alternating weeks from late May through mid-July and then daily during September and October. All fish will be collected at Lower Granite Dam.</p>\r\n",
+  "startYear": "2019",
+  "retirementYear": "2023",
+  "initiationYear": "2019",
+  "targetPopulation": null,
+  "ownerName": "Kenneth Tiffan",
+  "ownerEmail": "ktiffan@usgs.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 19959,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16424/panels/19959",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16424"
+    }
+  ],
+  "strata": [
+    {
+      "id": 22941,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16424/strata/22941",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16424"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/85",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1180",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16424/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16424",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16424/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16424",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16424",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11413"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16424,
+  "title": "PIT-tag detection at Lower Granite Dam - USGS",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16424",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2019-11-27T03:36:41-08:00"
+}

@@ -1,0 +1,33 @@
+{
+  "description": "<p>This will be a general model for Pacific lamprey.&nbsp; No specific area of inference</p>\r\n",
+  "startYear": "2023",
+  "retirementYear": "",
+  "initiationYear": "2023",
+  "targetPopulation": null,
+  "ownerName": "Joe Benjamin",
+  "ownerEmail": "jbenjamin@usgs.gov",
+  "images": [],
+  "panels": [],
+  "strata": [],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/85",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1871",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16898/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16898",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16898/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16898",
+  "masterSample": null,
+  "userSamples": null,
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Columbia River Basin",
+      "areaDisplayName": "Columbia River"
+    }
+  ],
+  "id": 16898,
+  "title": "lamprey general model",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16898",
+  "spatialDesignCategory": "Inference",
+  "spatialDesignCategoryID": 16,
+  "lastUpdated": "2023-08-09T04:36:49-07:00"
+}

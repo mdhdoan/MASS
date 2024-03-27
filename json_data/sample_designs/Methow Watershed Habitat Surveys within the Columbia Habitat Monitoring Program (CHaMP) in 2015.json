@@ -1,0 +1,122 @@
+{
+  "description": "<p>CHaMP&nbsp;is designed as a Columbia River basin-wide habitat status and trends monitoring program built around a single protocol with a programmatic approach to data collection and management (RM&amp;E Workgroup 2010).&nbsp;CHaMP&nbsp;will result in the collection and analysis of systematic habitat status and trends information that will be used to assess basin-wide habitat conditions. When coupled with biological response indicators, this status and trends information will be used to evaluate habitat management strategies. This program will be integrated with ongoing Pacific Northwest Aquatic Monitoring Program (PNAMP) recovery planning efforts and will be part of the collaborative process across Columbia Basin fish management agencies and tribes and other state and federal agencies that are monitoring&nbsp;anadromous&nbsp;salmonids&nbsp;and/or their habitat. The implementation of&nbsp;CHaMP&nbsp;will characterize stream responses to watershed restoration and/or management actions in at least one population within each steelhead and spring Chinook Major Population Group (MPG) which have, or will have, &ldquo;fish-in&rdquo; and &ldquo;fish-out&rdquo; monitoring (identified in&nbsp;RPA&nbsp;50.6), thereby meeting the requirements of&nbsp;RPA&nbsp;56.3,&nbsp;RPA&nbsp;57, and&nbsp;RPA&nbsp;3.&nbsp;CHaMP&nbsp;was designed to deliver trends in habitat indicators and requires that monitoring occurs for three cycles of a sampling panel (see section 1.6), at least 9 years.</p>\r\n\r\n<p>\u200b\u200bThe Methow sampling design adopted the standard CHaMP status and trends monitoring design, which includes a sample size of 25 sites per year with one annual and three rotating panels (sampled every three years). &nbsp;The Methow Steelhead population ( Steelhead-Upper Columbia River DPS-Methow River) is the listed population of interest.</p>\r\n\r\n<p>Methow&nbsp;initiated a&nbsp;GRTS&nbsp;based survey design in 2010 with sites selected from the&nbsp;CBW&nbsp;master sample.&nbsp; Twenty eight of the 30 legacy sites fell into the&nbsp;Depositional&nbsp;Valley Class (14 public and 14 private).&nbsp; This set of legacy sites is carried over into&nbsp;Methow&rsquo;s&nbsp;ChaMP&nbsp;design. Please disregard any indication within this documentation that legacy sites were not used.</p>\r\n\r\n<p><strong>2015 Design updates:</strong></p>\r\n\r\n<p>All core&nbsp;CHaMP&nbsp;designs were updated to accommodate effort that will go towards the&nbsp;<a href=\"https://isemp.egnyte.com/dl/EcV8YyGyV5\">10% repeat design for&nbsp;CHaMP</a>. &nbsp; The design update will result in 3 annual sites from the active design (e.g. 2014) and move one to each rotating panel. &nbsp;This will result in a net freeing of 2 visits each year that can be used to revisit 2 sites. &nbsp;This change preserves the annual sites within the design and adjusts the frequency of sampling. &nbsp;2 sites slated for sampling in the current year (e.g. 2015) will be randomly selected for repeat sampling.</p>\r\n\r\n<p>For the&nbsp;Methow&nbsp;</p>\r\n\r\n<p>CBW05583-383945, Source-Private, moved to&nbsp;RP3</p>\r\n\r\n<p>\u200bCBW05583-040217, Depositional-Public,&nbsp;moved to&nbsp;RP2</p>\r\n\r\n<p>CBW05583-266521, Depositional-Private, &nbsp;moved to&nbsp;RP1</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>2014 mid-season Sample Design Notes:</strong></p>\r\n\r\n<p>Site CBW05583-012569 was moved from Rotating Panel 3-Depositional Private, Use Order 3, to Annual-AEM-Depositional-Private, Use Order 1 to accommodate 2014 AEM sampling.</p>\r\n\r\n<p><em><strong>2014 Sample Design Notes:</strong></em></p>\r\n\r\n<p>There were no updates to the study design objectives, target frame, or site selection in 2014 as confirmed by SFR, WF Conservancy (John Crandall) and Terraqua. &nbsp;</p>\r\n\r\n<p><em><strong>2013 Sample Design Notes:</strong></em></p>\r\n\r\n<p>There were no changes to the 2013 sampling design or frame in 2013. &nbsp;However, in 2013 6 sites were added to the&nbsp;Methow&nbsp;watershed in the strata &quot;Restoration Tetra Tech&quot; to accommodate 6 effectiveness monitoring sites monitoring by Tetra Tech in the&nbsp;Methow&nbsp;that&nbsp;utilize&nbsp;the&nbsp;CHaMP&nbsp;protocol. &nbsp;This addition did not affect the sample design or draw of the Status and Trend sampling for the&nbsp;Methow&nbsp;that is described above.</p>\r\n\r\n<p><em><strong>2012 Sample Design Notes:</strong></em></p>\r\n\r\n<p>There were no changes to the&nbsp;Methow&nbsp;sampling design or frame in 2012.&nbsp;</p>\r\n\r\n<p><em><strong>2011 Sample Design Notes:</strong></em></p>\r\n\r\n<p>The finadd.str.pnl.r function was applied to each stratum separately generated a spatially balanced ordered site list with legacy sites at the top. &nbsp;A standard&nbsp;CHaMP&nbsp;temporal design was used, modified as indicated for lack of transport sites.&nbsp; No sites were allocated to transport stratum because master sample indicated proportion of transport sites was &lt; 1%.&nbsp; Source stratum accounted for about 7% of total.&nbsp; Approximately 92% of target domain is&nbsp;Depositional; site selection reflects this preponderance of&nbsp;Depositional&nbsp;domain.</p>\r\n\r\n<p><strong>Strata notes</strong></p>\r\n\r\n<p><strong>Source-Private:&nbsp;</strong>No legacy sites; assigned 2 sites from ordered list to annual panel<strong>.</strong></p>\r\n\r\n<p><strong>Source-Public: A</strong>ssigned&nbsp;the legacy site to annual panel, then the first one on the list of non-legacy sites</p>\r\n\r\n<p><strong>Transport:&nbsp;</strong><strong>No sites assigned; see comment above regarding proportion transport sites in domain.</strong></p>\r\n\r\n<p><strong>Depositional-Private: &nbsp;</strong>Assigned legacy sites as: A: 4,R1:4,R2:3,R3:3 then filled from non-legacy sites\u200b</p>\r\n\r\n<p><strong>Depositional-Public:</strong>&nbsp;Assigned legacy sites to panels as follows: &nbsp;A: 4,&nbsp;R1:4,&nbsp;R2:3,&nbsp;R3:3, then filled in with non-legacy sites</p>\r\n\r\n<p>Did not distinguish legacy annual from legacy RP sites because Methow began sampling in 2010, so each site had a 1 year history</p>\r\n\r\n<p><em><strong>Master sample GRTS&nbsp;input file</strong>:</em>&nbsp;Methow_MS_20110520.txt; &nbsp;Note that MS file excludes&nbsp;CBW&nbsp;sites that are in Legacy.</p>\r\n\r\n<p><em><strong>Legacy sample GRTS input file</strong></em>: Methow_Legacy_20110520.txt &nbsp;</p>\r\n\r\n<p><strong><em>R code</em>:</strong>&nbsp;Methow design 5.20.2011.r</p>\r\n\r\n<p><em><strong>Design Documentation Files:&nbsp;</strong></em></p>\r\n\r\n<div><a href=\"https://isemp.egnyte.com/h-s/20130731/c53b7994aa594b14\">MethowDesignDocs.zip&nbsp;</a></div>\r\n\r\n<div>&nbsp;</div>\r\n",
+  "startYear": "2011",
+  "retirementYear": "",
+  "initiationYear": "2011",
+  "targetPopulation": "<p>&nbsp;</p>\r\n\r\n<p>Sites were selected based on the&nbsp;wadable,&nbsp;anadromous&nbsp;area of the&nbsp;NHDPlus&nbsp;hydrography&nbsp;of&nbsp;Strahler&nbsp;order &gt;1 and gradients less than 12%. &nbsp;The frame was further refined by the Wild Fish Conservancy (John Crandall) to exclude areas that were inaccessible to crews due to distances greater than 6 miles from access points and include&nbsp;5th&nbsp;Strahler&nbsp;order sections that are&nbsp;wadable.</p>\r\n\r\n<p>The frame was not updated in 2012, 2013, &nbsp;2014 or 2015.</p>\r\n\r\n<p><em><strong>Frame file:</strong></em>&nbsp; Frame&nbsp;hydrography&nbsp;and strata lengths/locations are available in the following file:</p>\r\n\r\n<div><a href=\"https://isemp.egnyte.com/h-s/20140430/0zoUuxlbqb\">Methow_Frame.zip&nbsp;</a></div>\r\n\r\n<div>&nbsp;</div>\r\n",
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 3429,
+      "name": "Annual",
+      "abbreviation": "Annual",
+      "years": [
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15902/panels/3429",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15902"
+    },
+    {
+      "id": 3430,
+      "name": "Rotating Panel 1",
+      "abbreviation": "Rotating Panel 1",
+      "years": [
+        "2011",
+        "2014",
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15902/panels/3430",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15902"
+    },
+    {
+      "id": 3431,
+      "name": "Rotating Panel 2",
+      "abbreviation": "Rotating Panel 2",
+      "years": [
+        "2012",
+        "2015",
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15902/panels/3431",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15902"
+    },
+    {
+      "id": 3432,
+      "name": "Rotating Panel 3",
+      "abbreviation": "Rotating Panel 3",
+      "years": [
+        "2013",
+        "2016",
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15902/panels/3432",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15902"
+    }
+  ],
+  "strata": [
+    {
+      "id": 4550,
+      "name": "AEM-Depositional-Private",
+      "abbreviation": "AEM Dep-Pr",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15902/strata/4550",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15902"
+    },
+    {
+      "id": 4551,
+      "name": "Depositional-Private",
+      "abbreviation": "Depositional-Private",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15902/strata/4551",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15902"
+    },
+    {
+      "id": 4552,
+      "name": "Depositional-Public",
+      "abbreviation": "Depositional-Public",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15902/strata/4552",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15902"
+    },
+    {
+      "id": 4553,
+      "name": "Source-Private",
+      "abbreviation": "Source-Private",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15902/strata/4553",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15902"
+    },
+    {
+      "id": 4554,
+      "name": "Source-Public",
+      "abbreviation": "Source-Public",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15902/strata/4554",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15902"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/18",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/221",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15902/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15902",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15902/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15902",
+  "masterSample": {
+    "name": "Columbia Basin Master Sample",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/1"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 15902,
+  "title": "Methow Watershed Habitat Surveys within the Columbia Habitat Monitoring Program (CHaMP) in 2015",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15902",
+  "spatialDesignCategory": "Modified GRTS",
+  "spatialDesignCategoryID": 14,
+  "lastUpdated": "2015-05-05T04:34:12-07:00"
+}

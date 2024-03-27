@@ -1,0 +1,96 @@
+{
+  "description": "No valid data",
+  "startYear": "2013",
+  "retirementYear": "",
+  "initiationYear": "2013",
+  "targetPopulation": null,
+  "ownerName": "Matt Deniston",
+  "ownerEmail": "matt@sitkatech.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 124,
+      "name": "Annual",
+      "abbreviation": "A",
+      "years": [
+        "2013",
+        "2014",
+        "2015"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/46/panels/124",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/46"
+    },
+    {
+      "id": 125,
+      "name": "Rotating 1",
+      "abbreviation": "R1",
+      "years": [
+        "2013"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/46/panels/125",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/46"
+    },
+    {
+      "id": 126,
+      "name": "Rotating 2",
+      "abbreviation": "R2",
+      "years": [
+        "2014"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/46/panels/126",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/46"
+    },
+    {
+      "id": 127,
+      "name": "Rotating 3",
+      "abbreviation": "R3",
+      "years": [
+        "2015"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/46/panels/127",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/46"
+    }
+  ],
+  "strata": [
+    {
+      "id": 314,
+      "name": "Strahler 4",
+      "abbreviation": "S4",
+      "url": "http://www.monitoringresources.org/api/v1/designs/46/strata/314",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/46"
+    },
+    {
+      "id": 315,
+      "name": "Strahler 5",
+      "abbreviation": "S5",
+      "url": "http://www.monitoringresources.org/api/v1/designs/46/strata/315",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/46"
+    },
+    {
+      "id": 316,
+      "name": "Strahler 6",
+      "abbreviation": "S6",
+      "url": "http://www.monitoringresources.org/api/v1/designs/46/strata/316",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/46"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/46/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/46",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/46/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/46",
+  "masterSample": {
+    "name": "Columbia Basin Master Sample",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/1"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 46,
+  "title": "Deschutes GRTS",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/46",
+  "spatialDesignCategory": "Generalized Random Tessellation Stratified (GRTS)",
+  "spatialDesignCategoryID": 18,
+  "lastUpdated": "2018-04-18T02:41:38-07:00"
+}

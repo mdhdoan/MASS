@@ -1,0 +1,80 @@
+{
+  "description": "<p>Spawning Survey Sammple Design for the Umatilla River Watershed</p>\r\n",
+  "startYear": "2005",
+  "retirementYear": "2030",
+  "initiationYear": "2005",
+  "targetPopulation": null,
+  "ownerName": "Craig Contor",
+  "ownerEmail": "craigcontor@ctuir.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 21483,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2005"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16613/panels/21483",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16613"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24209,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16613/strata/24209",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16613"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/37",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/283",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16613/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16613",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16613/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16613",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 10736 (10491)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/4145"
+    },
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 5323 (14097)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/4493"
+    },
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 51292 (13909)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/5715"
+    },
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 40976 (13073)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/7105"
+    },
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 59523 (14613)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/8217"
+    },
+    {
+      "name": "BPA Sample for Study Design CTWS Hood River M&E - Spring Chinook Salmon Spawning Survey WSE 71442 (9306)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/10294"
+    },
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 27592 (11954)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/10355"
+    },
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 19380 (11329)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/10849"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16613,
+  "title": "Spawning Surveys - Umatilla Confederated Tribes (CTUIR)",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16613",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2020-10-12T23:57:07-07:00"
+}

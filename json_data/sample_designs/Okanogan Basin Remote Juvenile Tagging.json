@@ -1,0 +1,57 @@
+{
+  "description": "No valid data",
+  "startYear": "2020",
+  "retirementYear": "2021",
+  "initiationYear": "2020",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Andrea Pearl",
+  "ownerEmail": "andrea.pearl@colvilletribes.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 20060,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16463/panels/20060",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16463"
+    }
+  ],
+  "strata": [
+    {
+      "id": 22996,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16463/strata/22996",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16463"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/4",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1601",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16463/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16463",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16463/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16463",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16394",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11405"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC4 - Sub Basin",
+      "areaDisplayName": " OKANOGAN"
+    }
+  ],
+  "id": 16463,
+  "title": "Okanogan Basin Remote Juvenile Tagging",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16463",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2020-01-09T05:37:49-08:00"
+}

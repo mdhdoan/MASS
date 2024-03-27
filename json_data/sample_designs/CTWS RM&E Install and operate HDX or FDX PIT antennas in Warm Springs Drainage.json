@@ -1,0 +1,57 @@
+{
+  "description": "<p>Three new dual-reading PIT antennas will be installed in Warm Springs Drainage; one at the mouth of Warm Springs River to work in conjunction with an existing dual-reading antenna so that direction of fish movement can be determine; the other two antennas will be installed in Mill Creek, a tributary of Warm Springs River.&nbsp; Antenna arrays in Mill Creek will be used to detect salmon movement and document migration patterns.</p>\r\n",
+  "startYear": "2018",
+  "retirementYear": "",
+  "initiationYear": "2018",
+  "targetPopulation": null,
+  "ownerName": "Cyndi Baker",
+  "ownerEmail": "cyndi.baker@ctwsbnr.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 19243,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15684/panels/19243",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15684"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21654,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15684/strata/21654",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15684"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/35",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1513",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15684/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15684",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15684/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15684",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "CTWS RM&E - HDX/FDX PIT antenna in Warm Springs Drainage in 2018",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11275"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC5 - Watershed",
+      "areaDisplayName": "Warm Springs River"
+    }
+  ],
+  "id": 15684,
+  "title": "CTWS RM&E Install and operate HDX/FDX PIT antennas in Warm Springs Drainage",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15684",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2018-04-27T22:31:08-07:00"
+}

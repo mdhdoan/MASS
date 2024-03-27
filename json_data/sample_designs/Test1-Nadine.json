@@ -1,0 +1,57 @@
+{
+  "description": "<p>Nadine test</p>\r\n",
+  "startYear": "2019",
+  "retirementYear": "2024",
+  "initiationYear": "2019",
+  "targetPopulation": null,
+  "ownerName": "Trainee User",
+  "ownerEmail": "samuel.anthony.cimino@gmail.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 19734,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16339/panels/19734",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16339"
+    }
+  ],
+  "strata": [
+    {
+      "id": 22807,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16339/strata/22807",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16339"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/66",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1695",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16339/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16339",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16339/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16339",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16339",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11376"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.152467, -121.772414"
+    }
+  ],
+  "id": 16339,
+  "title": "Test1-Nadine",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16339",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2019-04-25T01:55:21-07:00"
+}

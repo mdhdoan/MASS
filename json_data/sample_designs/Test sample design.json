@@ -1,0 +1,52 @@
+{
+  "description": "<p>Test</p>\r\n",
+  "startYear": "2019",
+  "retirementYear": "2020",
+  "initiationYear": "2019",
+  "targetPopulation": null,
+  "ownerName": "Trainee User",
+  "ownerEmail": "samuel.anthony.cimino@gmail.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 19744,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16343/panels/19744",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16343"
+    }
+  ],
+  "strata": [
+    {
+      "id": 22816,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16343/strata/22816",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16343"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/621",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16343/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16343",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16343/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16343",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16343",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11380"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16343,
+  "title": "Test sample design",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16343",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2019-05-03T00:42:12-07:00"
+}

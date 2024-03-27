@@ -1,0 +1,52 @@
+{
+  "description": "<p>Acoustic telemetry receivers deployed throughout Lake Roosevelt to maximize spatial coverage for detecting fish movements.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "startYear": "2019",
+  "retirementYear": "2024",
+  "initiationYear": "2019",
+  "targetPopulation": null,
+  "ownerName": "Jason McLellan",
+  "ownerEmail": "jason.mclellan@colvilletribes.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 19842,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16383/panels/19842",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16383"
+    }
+  ],
+  "strata": [
+    {
+      "id": 22900,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16383/strata/22900",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16383"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/21",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1705",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16383/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16383",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16383/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16383",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16383",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11399"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16383,
+  "title": "CCT Lake Roosevelt Burbot acoustic telemetry",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16383",
+  "spatialDesignCategory": "Systematic, Non-Stratified",
+  "spatialDesignCategoryID": 4,
+  "lastUpdated": "2019-10-10T00:47:44-07:00"
+}

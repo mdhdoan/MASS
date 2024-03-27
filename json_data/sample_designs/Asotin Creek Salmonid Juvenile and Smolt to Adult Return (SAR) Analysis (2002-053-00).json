@@ -1,0 +1,33 @@
+{
+  "description": "<p>The goal of this project is to determine the abundance and current productivity of the Asotin Creek steelhead population and to estimate life stage survival rates in the mainstem Asotin Creek. This relates to work conducted under the Asotin Creek Juvenile Salmonid Sampling and Analysis (2002-053-00) v1.0 (ID: 791)&nbsp;&nbsp;and Asotin Adult Sampling(2002-053-00) v1.0 (ID: 295) protocols.&nbsp; The ESA, the TRT, the Snake River Salmon Recovery Plan (SRSRB 2007) and NOAA Fisheries included George Creek and several other small adjacent Snake River tributaries (Tenmile Creek, Couse Creek, Almota and Alpowa Creek) as part of the Asotin Creek Steelhead population. As such, a full understanding of the abundance and productivity of steelhead in those tributaries is necessary to adequately understand the status of the Asotin Creek steelhead population. This project also implements the research, monitoring and evaluation (RM&amp;E) criteria specified in the Asotin Subbasin Plan (ASP 2004), the MERR, and the Anadromous Salmonid Monitoring Strategy (ASMS 2010), by establishing a baseline of the salmonid population in Asotin Creek, upstream of the confluence with George Creek. The project provides estimates of abundance, productivity, survival rates, and additional information on temporal and spatial distribution of ESA-listed species, primarily for summer steelhead, and secondarily on spring Chinook salmon. In addition, this project will document the abundance of bull trout captured at the trapping locations. Future estimates of smolt-to-adult and adult-to-adult survival for the wild steelhead population in Asotin Creek will provide the data necessary to help determine if salmonid production in the subbasin is being limited by within- or out-of-basin factors. This protocol focuses on juvenile steelhead trapping, data collection and analysis. This protocol is closely tied with the Asotin Creek Adult Trapping and Analysis protocol(#295). For further information and detail please refer to that protocol. (Estimated cost refers to the cost of a rotary smolt trap)</p>\r\n",
+  "startYear": "2003",
+  "retirementYear": "",
+  "initiationYear": "2003",
+  "targetPopulation": null,
+  "ownerName": "Ethan Crawford",
+  "ownerEmail": "ethan.crawford@dfw.wa.gov",
+  "images": [],
+  "panels": [],
+  "strata": [],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/64",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1394",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16128/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16128",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16128/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16128",
+  "masterSample": null,
+  "userSamples": null,
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "Asotin Creek"
+    }
+  ],
+  "id": 16128,
+  "title": "Asotin Creek Salmonid Juvenile and Smolt to Adult Return (SAR) Analysis (2002-053-00)",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16128",
+  "spatialDesignCategory": "Inference",
+  "spatialDesignCategoryID": 16,
+  "lastUpdated": null
+}

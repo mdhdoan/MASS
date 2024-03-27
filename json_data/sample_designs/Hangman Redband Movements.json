@@ -1,0 +1,57 @@
+{
+  "description": "No valid data",
+  "startYear": "2018",
+  "retirementYear": "",
+  "initiationYear": "2018",
+  "targetPopulation": null,
+  "ownerName": "Thomas Biladeau",
+  "ownerEmail": "tbiladeau@cdatribe-nsn.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 19071,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15600/panels/19071",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15600"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21496,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15600/strata/21496",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15600"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/70",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1405",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15600/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15600",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15600/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15600",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Fluvial Redband Movements in the Hangman Watershed",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11254"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC5 - Watershed",
+      "areaDisplayName": "Upper Hangman Creek"
+    }
+  ],
+  "id": 15600,
+  "title": "Hangman Redband Movements",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15600",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2018-02-16T03:34:30-08:00"
+}

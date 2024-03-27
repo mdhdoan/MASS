@@ -1,0 +1,61 @@
+{
+  "description": "<p>Hook and line surveys (Monitoring Resources Method ID 201)&nbsp;will be conducted to mark and collect life history information, and biological data from returning adults. Hook and line surveys generally consisted of one to two individuals angling for one to three hours near the mouth. Fish were measured for TL, FL, weighed, and checked for fin clips and tags. Scale samples were also collected (Devries and Frie 1996). A PIT tag was applied to the pelvic girdle on all adult Redband Trout. Fish were allowed to recover in a live well with fresh stream water and were released back into the stream in close proximity to their capture location.</p>\r\n",
+  "startYear": "2019",
+  "retirementYear": "2025",
+  "initiationYear": "2019",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Nicholas Albrecht",
+  "ownerEmail": "nicholas.albrecht@dfw.wa.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 22347,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16969/panels/22347",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16969"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24631,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16969/strata/24631",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16969"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/64",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1830",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16969/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16969",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16969/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16969",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16799",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11580"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC3 - Basin",
+      "areaDisplayName": "Upper Columbia"
+    },
+    {
+      "areaTypeName": "HUC4 - Sub Basin",
+      "areaDisplayName": "Franklin D"
+    }
+  ],
+  "id": 16969,
+  "title": "Big Sheep Creek Adult Redband Trout Sampling 2019 - 2025",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16969",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2023-10-14T00:08:17-07:00"
+}

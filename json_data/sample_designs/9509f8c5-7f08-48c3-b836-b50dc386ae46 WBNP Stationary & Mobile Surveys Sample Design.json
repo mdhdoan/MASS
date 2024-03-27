@@ -1,0 +1,50 @@
+{
+  "description": "No valid data",
+  "startYear": "2017",
+  "retirementYear": "2017",
+  "initiationYear": "2017",
+  "targetPopulation": null,
+  "ownerName": "Sharon Irwin",
+  "ownerEmail": "sharon.irwin@pc.gc.ca",
+  "images": [],
+  "panels": [
+    {
+      "id": 19557,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16236/panels/19557",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16236"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21936,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16236/strata/21936",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16236"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/80",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1661",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16236/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16236",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16236/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16236",
+  "masterSample": {
+    "name": "Canada 10 KM Grid",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/11"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 16236,
+  "title": "9509f8c5-7f08-48c3-b836-b50dc386ae46 WBNP Stationary & Mobile Surveys Sample Design",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16236",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": "2018-11-10T07:43:52-08:00"
+}

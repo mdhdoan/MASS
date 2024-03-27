@@ -1,0 +1,37 @@
+{
+  "description": "<div>\r\n<p>Coupling salmon subsidies (e.g., live Chinook Salmon and/or Chinook Salmon carcasses) with the addition of habitat-forming natural in-stream structures like large wood, facilitates a synergy that addresses limiting factors and supports the ecological integrity of stream habitats.&nbsp; The implementation of a habitat action plan that pairs nutrient enrichment with large wood additions in an adaptive-management framework will protect, enhance, and restore aquatic and linked riparian habitats that support native resident and anadromous fishes, including ESA listed species.</p>\r\n\r\n<p>The Eightmile Creek Fish Habitat Restoration project will implement a before after sample design in which monitoring and evaluation will take place before (2018 - 2020) the implementation of habitat restoration actions (see below), as well as during and after the implementation of these actions (2020 - 2022).&nbsp; The area of impact will occur in the lower 2.03 km segment of Eightmile Creek; an upstream control segment will serve as a reference.&nbsp;&nbsp;&nbsp;</p>\r\n\r\n<p>The project will include monitoring to evaluate the effectiveness of the habitat action.&nbsp; This will include evaluating habitat changes with photopoints and habitat assessments, enumerating changes in large wood abundance with instream large wood counts, tracking the movement of large wood using radio tags and/or visual tags, monitoring changes in the fish community with electrofishing and snorkeling, and monitoring associated ecological responses using a variety of methods.</p>\r\n\r\n<p>The project goals are:</p>\r\n\r\n<p style=\"margin-left:.75in\">1) &nbsp;&nbsp; Restore large wood, associated habitat complexity attributes, and salmon subsidies in a 2.03 km stream segment of Eightmile Creek in an effort to increase habitat quantity and quality for native resident and ESA listed anadromous fishes.</p>\r\n\r\n<p style=\"margin-left:.75in\">2)&nbsp;&nbsp;&nbsp; Close and obliterate the lower portion of the East Eightmile Road (FS Road 40901) that is impacting the Eightmile Creek floodplain and riparian corridor and replace it with a new trail outside of the floodplain.</p>\r\n\r\n<p style=\"margin-left:.75in\">3)&nbsp;&nbsp;&nbsp; Implement effective and innovative approaches to salmon habitat restoration that directly address limiting factors and increase freshwater productivity and habitat carrying capacity.</p>\r\n\r\n<p style=\"margin-left:.75in\">4)&nbsp;&nbsp;&nbsp; Build workforce capacity by training Tribal crews; foster collaboration with State and Federal natural resource managers.</p>\r\n\r\n<p style=\"margin-left:.75in\">5)&nbsp;&nbsp;&nbsp; Generate sound, scientific information relevant to the protection and restoration of aquatic and linked riparian ecosystems.</p>\r\n\r\n<p style=\"margin-left:.75in\">6)&nbsp;&nbsp;&nbsp; Assess the efficacy of implemented habitat actions at improving habitat conditions and fish production in the Yankee Fork Salmon River watershed</p>\r\n</div>\r\n",
+  "startYear": "2018",
+  "retirementYear": "2022",
+  "initiationYear": "2020",
+  "targetPopulation": null,
+  "ownerName": "David Richardson",
+  "ownerEmail": "drichardson@sbtribes.com",
+  "images": [],
+  "panels": [],
+  "strata": [],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/579",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16517/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16517",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16517/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16517",
+  "masterSample": null,
+  "userSamples": null,
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC5 - Watershed",
+      "areaDisplayName": "Yankee Fork"
+    },
+    {
+      "areaTypeName": "Bull Trout Critical Habitat - Stream",
+      "areaDisplayName": "Eightmile Creek"
+    }
+  ],
+  "id": 16517,
+  "title": "Yankee Fork Salmon River Habitat Action Planning (v3.0)",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16517",
+  "spatialDesignCategory": "Inference",
+  "spatialDesignCategoryID": 16,
+  "lastUpdated": "2020-02-27T04:21:51-08:00"
+}

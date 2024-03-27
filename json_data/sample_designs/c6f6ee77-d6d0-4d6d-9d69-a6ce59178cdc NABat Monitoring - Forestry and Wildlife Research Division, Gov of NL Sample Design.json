@@ -1,0 +1,50 @@
+{
+  "description": "No valid data",
+  "startYear": "2017",
+  "retirementYear": "2017",
+  "initiationYear": "2017",
+  "targetPopulation": null,
+  "ownerName": "Jessica Humber",
+  "ownerEmail": "jessicahumber@gov.nl.ca",
+  "images": [],
+  "panels": [
+    {
+      "id": 19410,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15764/panels/19410",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15764"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21819,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15764/strata/21819",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15764"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/80",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1578",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15764/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15764",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15764/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15764",
+  "masterSample": {
+    "name": "Canada 10 KM Grid",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/11"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 15764,
+  "title": "c6f6ee77-d6d0-4d6d-9d69-a6ce59178cdc NABat Monitoring - Forestry and Wildlife Research Division, Gov of NL Sample Design",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15764",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": "2018-07-17T02:39:03-07:00"
+}

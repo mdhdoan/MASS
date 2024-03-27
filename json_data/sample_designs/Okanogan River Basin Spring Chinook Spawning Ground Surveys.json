@@ -1,0 +1,52 @@
+{
+  "description": "<p>Tributaries of the Okanogan River that are capable of supporting spring Chinook spawning are walked and/or floated in order to document redd construction and collect data from recovered carcasses.&nbsp; Surveys are carried out during the spirng Chinook spawning window (late-July through September).</p>\r\n",
+  "startYear": "2018",
+  "retirementYear": "2025",
+  "initiationYear": "2018",
+  "targetPopulation": null,
+  "ownerName": "John Rohrback",
+  "ownerEmail": "john.rohrback@colvilletribes.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 19749,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16349/panels/19749",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16349"
+    }
+  ],
+  "strata": [
+    {
+      "id": 22856,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16349/strata/22856",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16349"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/61",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1684",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16349/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16349",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16349/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16349",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16349",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11385"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16349,
+  "title": "Okanogan River Basin Spring Chinook Spawning Ground Surveys",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16349",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2019-05-21T04:40:27-07:00"
+}

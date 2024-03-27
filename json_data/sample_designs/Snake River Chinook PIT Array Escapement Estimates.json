@@ -1,0 +1,115 @@
+{
+  "description": "<p>This work is&nbsp;to: 1) Generate and perform quality assurance/quality control (QA/QC) on PIT tag detection data at Instream PIT tag Detection Systems (IPTDS) and at Lower Granite Dam (LGR). a. Develop &ldquo;Valid&rdquo; tag list based on the Idaho Department of Fish and Game (IDFG) LGR trap data base and Genetic Parentage analysis. b. Verify all PIT tag observation data is uploaded to PTAGIS. c. Generate PTAGIS observational histories for all tags in &ldquo;Valid&rdquo; tag list. 2) Employ PITCleaner R-package. a. Update configuration and parent/child relationship tables to account for changes in observational infrastructure. b. Identify &ldquo;final&rdquo; spawning locations for all observed PIT tags. c. Generate observational data set for use in the model. 3) Employ model to generate estimates of natural-origin spring/summer Chinook salmon annually ascending LGR and estimate variance associated with sampling error. 4) Employ model to generate estimates of natural-origin spring/summer Chinook salmon adults ascending LGR and associated variance based on proportions of natural vs. hatchery adults collected in the LGR trap. 5) Employ model to generate estimates of adults at IPTDS.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "startYear": "2017",
+  "retirementYear": "2018",
+  "initiationYear": "2017",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Christopher A. Beasley",
+  "ownerEmail": "chris@qcinc.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 19019,
+      "name": "Maintain & Operate PIT Tag Array WSE 127763",
+      "abbreviation": "Maintain & Operate PIT Tag Array WSE 127763",
+      "years": [],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16122/panels/19019",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16122"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21442,
+      "name": "Maintain & Operate PIT Tag Array WSE 127763",
+      "abbreviation": "Maintain & Operate PIT Tag Array WSE 127763",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16122/strata/21442",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16122"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/10",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1360",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16122/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16122",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16122/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16122",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design Maintain & Operate PIT Tag Array WSE 127763 (10268)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/10432"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "Joseph Creek"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "Wallowa River"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "Grande Ronde River upper mainstem"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "Imnaha River"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "Lolo Creek"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "Lochsa River"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "Selway River"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "South Fork Clearwater River"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "South Fork Salmon River"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "Secesh River"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "Big, Camas, and Loon Creek"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "Middle Fork Salmon River upper mainstem"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "Salmon River upper mainstem"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "Pahsimeroi River"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "Lemhi River"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "East Fork Salmon River"
+    }
+  ],
+  "id": 16122,
+  "title": "Snake River Chinook PIT Array Escapement Estimates",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16122",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2018-01-25T05:46:50-08:00"
+}

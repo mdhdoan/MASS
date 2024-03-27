@@ -1,0 +1,61 @@
+{
+  "description": "<p>The Winter assesment will develop a mean cold water condition Index for Jaunuary or Febrary.&nbsp; The area of inference&nbsp; will focus on extant ESA listed interior columbia salmonid species based on the 1:100K NHD Network..&nbsp; Additional expansion may occur to the Columbia River Basin.&nbsp;</p>\r\n",
+  "startYear": "2020",
+  "retirementYear": "",
+  "initiationYear": "2020",
+  "targetPopulation": null,
+  "ownerName": "Russell Scranton",
+  "ownerEmail": "rwscranton@bpa.gov",
+  "images": [],
+  "panels": [],
+  "strata": [],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1753",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16601/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16601",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16601/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16601",
+  "masterSample": null,
+  "userSamples": null,
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC3 - Basin",
+      "areaDisplayName": "John Day"
+    },
+    {
+      "areaTypeName": "HUC3 - Basin",
+      "areaDisplayName": "Middle Columbia"
+    },
+    {
+      "areaTypeName": "HUC3 - Basin",
+      "areaDisplayName": "Deschutes"
+    },
+    {
+      "areaTypeName": "HUC3 - Basin",
+      "areaDisplayName": "Clearwater"
+    },
+    {
+      "areaTypeName": "HUC3 - Basin",
+      "areaDisplayName": "Salmon"
+    },
+    {
+      "areaTypeName": "HUC3 - Basin",
+      "areaDisplayName": "Pend Oreille"
+    },
+    {
+      "areaTypeName": "HUC3 - Basin",
+      "areaDisplayName": "Upper Columbia"
+    },
+    {
+      "areaTypeName": "HUC3 - Basin",
+      "areaDisplayName": "Lower Snake"
+    }
+  ],
+  "id": 16601,
+  "title": "NorWest: Stream Temperature - Winter Impairment Index for Salmonids",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16601",
+  "spatialDesignCategory": "Inference",
+  "spatialDesignCategoryID": 16,
+  "lastUpdated": "2020-08-21T06:03:56-07:00"
+}

@@ -1,0 +1,69 @@
+{
+  "description": "<p>\u200bThis Sample Design (Tier 2) uses changes in gene frequencies through time in hatchery, natural and wild Chinook salmon and steelhead populations to evaluate the genetic effects of hatchery supplementation on a broad geographic scale. The samples needed for this Sample Design are collected by a number of different entities. Seven of these sites are sampled&nbsp;by our personnel (described in this protocol). Additional sites in the Salmon River basin are sampled by NOAA personnel from Pasco, WA (Protocol ID:3468). The remaining sites are sampled opportunistically.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "startYear": "2020",
+  "retirementYear": "2024",
+  "initiationYear": "2020",
+  "targetPopulation": null,
+  "ownerName": "Ewann Berntson",
+  "ownerEmail": "ewann.berntson@noaa.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 20263,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16476/panels/20263",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16476"
+    }
+  ],
+  "strata": [
+    {
+      "id": 23091,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16476/strata/23091",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16476"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/81",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/695",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16476/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16476",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16476/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16476",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design Relative reproductive success of Chinook and steelhead in the Snake River basin (1989-096-00) WSE 121889 (6878)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/9142"
+    },
+    {
+      "name": "Sample for Design #16476",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11431"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC3 - Basin",
+      "areaDisplayName": "Salmon"
+    },
+    {
+      "areaTypeName": "NPPC Subbasins",
+      "areaDisplayName": "GRANDE RONDE"
+    },
+    {
+      "areaTypeName": "HUC4 - Sub Basin",
+      "areaDisplayName": " IMNAHA"
+    }
+  ],
+  "id": 16476,
+  "title": "Salmon and steelhead tissue sampling and data collection, Tier 2 - National Oceanic and Atmospheric Administration",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16476",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2020-04-04T02:34:05-07:00"
+}

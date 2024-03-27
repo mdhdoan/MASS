@@ -1,0 +1,52 @@
+{
+  "description": "<p>This is the final year of Champ data collection in the John Day. This sample design was created by Sitka Technology to house specific sites that ODFW planned to monitor. With the ultimate status of the Champ program under question, we decided to create this as a one-time opportunistic design.</p>\r\n",
+  "startYear": "2018",
+  "retirementYear": "",
+  "initiationYear": "2018",
+  "targetPopulation": null,
+  "ownerName": "Michael Carnes",
+  "ownerEmail": "michael.carnes@sitkatech.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 19274,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15699/panels/19274",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15699"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21690,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15699/strata/21690",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15699"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/18",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/219",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15699/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15699",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15699/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15699",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "John Day Habitat Surveys within the Columbia Habitat Monitoring Program (2018)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11284"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 15699,
+  "title": "John Day Habitat Surveys within the Columbia Habitat Monitoring Program (2018)",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15699",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2018-05-24T03:42:18-07:00"
+}

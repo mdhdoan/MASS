@@ -1,0 +1,50 @@
+{
+  "description": "No valid data",
+  "startYear": "2017",
+  "retirementYear": "2017",
+  "initiationYear": "2017",
+  "targetPopulation": null,
+  "ownerName": "Helena Mahoney",
+  "ownerEmail": "helena.mahoney@pc.gc.ca",
+  "images": [],
+  "panels": [
+    {
+      "id": 19493,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16207/panels/19493",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16207"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21899,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16207/strata/21899",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16207"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/80",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1631",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16207/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16207",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16207/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16207",
+  "masterSample": {
+    "name": "Canada 10 KM Grid",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/11"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 16207,
+  "title": "dc8a3fa4-b1e4-4c95-927b-3e149ce0899e Waterton Lakes National Park NABat Data Sharing Sample Design",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16207",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": null
+}

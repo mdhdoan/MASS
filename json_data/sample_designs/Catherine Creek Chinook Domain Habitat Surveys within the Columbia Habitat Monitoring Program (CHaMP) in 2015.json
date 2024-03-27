@@ -1,0 +1,131 @@
+{
+  "description": "<p>CHaMP&nbsp;is designed as a Columbia River basin-wide habitat status and trends monitoring program built around a single protocol with a programmatic approach to data collection and management (RM&amp;E Workgroup 2010).&nbsp;CHaMP&nbsp;will result in the collection and analysis of systematic habitat status and trends information that will be used to assess basin-wide habitat conditions. When coupled with biological response indicators, this status and trends information will be used to evaluate habitat management strategies. This program will be integrated with ongoing Pacific Northwest Aquatic Monitoring Program (PNAMP) recovery planning efforts and will be part of the collaborative process across Columbia Basin fish management agencies and tribes and other state and federal agencies that are monitoring&nbsp;anadromous&nbsp;salmonids&nbsp;and/or their habitat. The implementation of&nbsp;CHaMP&nbsp;will characterize stream responses to watershed restoration and/or management actions in at least one population within each steelhead and spring Chinook Major Population Group (MPG) which have, or will have, &ldquo;fish-in&rdquo; and &ldquo;fish-out&rdquo; monitoring (identified in&nbsp;RPA&nbsp;50.6), thereby meeting the requirements of&nbsp;RPA&nbsp;56.3,&nbsp;RPA&nbsp;57, and&nbsp;RPA&nbsp;3.&nbsp;CHaMP&nbsp;was designed to deliver trends in habitat indicators and requires that monitoring occurs for three cycles of a sampling panel (see section 1.6), at least 9 years.</p>\r\n\r\n<p>The target populations are the Upper Grande&nbsp;Ronde&nbsp;Chinook, Catherine Creek Chinook, and Upper Grande&nbsp;Ronde&nbsp;Steelhead.&nbsp; Three study designs were generated to meet the sampling needs of each population. This design outlines the details of the Catherine Creek Chinook design.</p>\r\n\r\n<p><strong>2011 Design Notes:&nbsp;</strong></p>\r\n\r\n<p>ChaMP&rsquo;s&nbsp; Grande&nbsp;Ronde&nbsp;habitat monitoring program covers three distinct spatial domains, coordinating&nbsp;CHaMP,&nbsp;ODFW, and&nbsp;CRITFC&nbsp;habitat monitoring goals and interests.&nbsp;&nbsp;CRITFC&nbsp;coordinated the sampling for the Upper Grande&nbsp;Ronde&rsquo;s&nbsp;and Catherine Creek Chinook spawning and rearing habitat. The sampling domain for&nbsp;ODFW&nbsp; (also&nbsp;CHaMP) covers the steelhead spawning and rearing domain, part of which overlaps the Chinook spawning area in both Upper Grande&nbsp;Ronde&nbsp;and Catherine Creek.&nbsp; &nbsp;</p>\r\n\r\n<p><strong>2011 Design summary</strong>:</p>\r\n\r\n<p>Survey designs were created for each of the three major domains: Upper Grande&nbsp;Ronde&nbsp;and Catherine Creek Chinook&nbsp;spawning and rearing domains and steelhead alone domain (i.e., the portion of the Grande&nbsp;Ronde&nbsp;steelhead domain that did not overlap with the Upper Grande&nbsp;Ronde&nbsp;and Catherine Creek domains).</p>\r\n\r\n<p><strong>Design Strata:</strong></p>\r\n\r\n<p>Catherine Creek: No stratification</p>\r\n\r\n<p><strong>Legacy sites:</strong></p>\r\n\r\n<p>CRITFC&nbsp;surveyed the Upper Grande&nbsp;Ronde&nbsp;during 2010 using a&nbsp;GRTS&nbsp;design and a frame that&nbsp;CRITFC&nbsp;developed. &nbsp;These legacy sites were transferred to the 1:100 scale network used to develop the&nbsp;CBW&nbsp;master sample. Fifteen sites were targeted each year in each domain, 10 annual and 5 each year on a three year rotation. &nbsp;&nbsp;</p>\r\n\r\n<p>Detailed Design Notes File: CRITFC.ODFW design goals.docx contains the discussion about developing both 2011 and 2012 designs.</p>\r\n\r\n<p><strong>2012 Design Notes:</strong></p>\r\n\r\n<p>&nbsp;Reduce original annual panel from 10 to 5 sites; assign the released annual sites to supplement rotating panels 2 and 3 to 10 sites each.&nbsp; Assign the 5 dropped annual sites to rotating panel 1.\u200b</p>\r\n\r\n<p><strong>Strata updates for 2012:</strong>&nbsp; There were no changes to the Catherine Creek Chinook strata in 2012.</p>\r\n\r\n<p><strong>2012 Design updates: &nbsp;</strong></p>\r\n\r\n<p>Annual panel:&nbsp; 5 sites carried over from 2011; all were legacy sites sampled by&nbsp;CRITFC&nbsp;in 2010</p>\r\n\r\n<p>Rotating panel 1: 12 sites coming from 5 &ldquo;left over&rdquo; annual sites and 7 rotating panel 1 sites</p>\r\n\r\n<p>Rotating panel 2: 10 sites, selected from&nbsp;rerandomized&nbsp;list</p>\r\n\r\n<p>Rotating panel 3: 10 sites, selected from&nbsp;rerandomized&nbsp;list.</p>\r\n\r\n<p><strong>GRTS&nbsp;master sample input </strong></p>\r\n\r\n<p><strong>file:&nbsp;</strong>Catherine_Cr_chinook_domain_MS_legacy_coded_20120403.csv</p>\r\n\r\n<p><strong>R code:</strong>&nbsp;Catherine.Creek.r; used strat_panel_function10.2.r</p>\r\n\r\n<p><strong>GRTS&nbsp;design output file</strong>: Cath_Cr_redesign_20120507.version2.xlsx</p>\r\n\r\n<p><strong>2013 Design Updates</strong></p>\r\n\r\n<p><strong>Strata updates for 2013:&nbsp;</strong>There were no changes to the Chinook sampling designs in 2013. &nbsp;</p>\r\n\r\n<p>There were minimal changes to the Grande&nbsp;Ronde&nbsp;design in 2013. &nbsp;Minor changes included the addition of a stratum to add 3 sites for sampling by the Confederated Tribes of the&nbsp;Umatilla&nbsp;Indian Reservation (CTUIR) and a shift of site&nbsp;CBW-360346&nbsp;to the annual panel to also facilitate sampling by&nbsp;CTUIR.</p>\r\n\r\n<p><strong>2014 Design updates:</strong></p>\r\n\r\n<p>There were no updates to the study design, target frame, or site selection in 2014.</p>\r\n\r\n<p>6/24/2014: &nbsp;One site was moved from Rotating Panel 2-Catherine Creek Chinook to accommodate AEM sampling.</p>\r\n\r\n<p>CBW05583-340138, Use Order 4.&nbsp;</p>\r\n\r\n<p>Block allocation of RP2-Catherine&nbsp;Creek Chinook also changed from 10 to 9 to match this change.</p>\r\n\r\n<p><strong>2015 updates:</strong></p>\r\n\r\n<p>5/21/15:&nbsp;There were no changes to the design in 2015. &nbsp;The 2014 file will be referenced in champmonitoring.org. &nbsp;</p>\r\n\r\n<p>5/22/15: One discrepancy was found that was repaired that applies to both 2014 and 2015 sampling years. &nbsp;Site CBW05583-340138 that was moved from RP2&nbsp;to Annual in 2014 to accommodate AEM sampling was not actually sampled in 2014. &nbsp;This site was moved back to RP2 and RP2-Catherine&nbsp;Creek block allocation was changed back from 9 to 10.</p>\r\n\r\n<p>6/10/15: A new 2015 design was generated (cloned from 2014 design) to accommodate AEM sampling by CTUIR of site CBW05583-456106, which is a Rotating Panel 1 site for the Catherine Creek design. &nbsp;This site will be moved to the Annual-AEM-Catherine Creek RP1 block for out of sequence&nbsp;sampling in 2015. &nbsp;This site was Use Order 9 and will now be Use Order 1 in the new block. &nbsp;Oversample evaluation changed from 2 to 1 in the block size to meet cm.org criteria &nbsp;This site should be moved BACK into the original design for sampling in 2017.</p>\r\n\r\n<p><strong>2016 Updates:</strong> There were no design updates in 2016. &nbsp;</p>\r\n\r\n<p><strong>Design Documentation Files:&nbsp;</strong></p>\r\n\r\n<p><strong>&nbsp;</strong><strong>No new design files&nbsp;</strong><strong>were generated for 2013--changes to accommodate&nbsp;CTUIR&nbsp;sampling were made directly in&nbsp;champmonitoring&nbsp;desig</strong><strong>n documentation.</strong></p>\r\n\r\n<p>2012 redesign:&nbsp;</p>\r\n\r\n<div><a href=\"https://isemp.egnyte.com/h-s/20140130/cb95af9246ff4a4d\">GrandeRondeDesignDocs2012.zip&nbsp;</a></div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>&nbsp;</div>\r\n",
+  "startYear": "2011",
+  "retirementYear": "",
+  "initiationYear": "2012",
+  "targetPopulation": "<p><strong>Target Frame:&nbsp;</strong>&nbsp;</p>\r\n\r\n<p>In 2011, the target frame in the Grande&nbsp;Ronde&nbsp;was divided into three spatially distinct domains for study design development (spatial strata): Catherine Creek Chinook, Upper Grande&nbsp;Ronde&nbsp;Chinook, and the Grande&nbsp;Ronde&nbsp;Steelhead. &nbsp;However, for data&nbsp;analyses, the Chinook population domains can be used to inform the Steelhead domain as well. &nbsp;The Chinook frames were drafted by&nbsp;CRITFC&nbsp;as previous sampling in the area provided ample knowledge on Chinook distribution within the&nbsp;subbasin. &nbsp;No CHaMP specific criteria were used to refine the Chinook frame for either population.</p>\r\n\r\n<p>In 2012,&nbsp;the Chinook&nbsp;strata expanded to cover additional&nbsp;mileage&nbsp;previously part of the Steelhead-only frame. This did not incur significant mileage in Catherine Creek and no sites were specifically selected from this new area--it will only be used as part of the adjusted weights for the GRTS&nbsp;estimation process.</p>\r\n\r\n<p>In 2013, there were no updates to the frame.</p>\r\n\r\n<p>In 2014, there were no updates to the frame.</p>\r\n\r\n<p>In 2015, there were no updates to the frame.</p>\r\n\r\n<p>In 2016, there were no updates to the frame.</p>\r\n\r\n<p><strong>GIS frame file:</strong></p>\r\n\r\n<div><a href=\"https://isemp.egnyte.com/h-s/20140430/7813AwBaGy\">UpperGrandeRonde_Frame.zip</a></div>\r\n\r\n<div>&nbsp;</div>\r\n",
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 7047,
+      "name": "Annual",
+      "abbreviation": "Annual",
+      "years": [
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15933/panels/7047",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15933"
+    },
+    {
+      "id": 7048,
+      "name": "Extra",
+      "abbreviation": "Extra",
+      "years": [
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15933/panels/7048",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15933"
+    },
+    {
+      "id": 7049,
+      "name": "Rotating Panel 1",
+      "abbreviation": "Rotating Panel 1",
+      "years": [
+        "2011",
+        "2014",
+        "2017",
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15933/panels/7049",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15933"
+    },
+    {
+      "id": 7050,
+      "name": "Rotating Panel 2",
+      "abbreviation": "Rotating Panel 2",
+      "years": [
+        "2012",
+        "2015",
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15933/panels/7050",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15933"
+    },
+    {
+      "id": 7051,
+      "name": "Rotating Panel 3",
+      "abbreviation": "Rotating Panel 3",
+      "years": [
+        "2013",
+        "2016",
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15933/panels/7051",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15933"
+    }
+  ],
+  "strata": [
+    {
+      "id": 9017,
+      "name": "AEM Catherine Creek RP1 origin",
+      "abbreviation": "AEM",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15933/strata/9017",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15933"
+    },
+    {
+      "id": 9018,
+      "name": "Catherine Creek Chinook",
+      "abbreviation": "Catherine Creek Chinook",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15933/strata/9018",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15933"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/18",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/227",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15933/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15933",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15933/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15933",
+  "masterSample": {
+    "name": "Columbia Basin Master Sample",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/1"
+  },
+  "userSamples": [
+    {
+      "name": "dsgn4 Legacy Sample",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1011"
+    },
+    {
+      "name": "ORW03446 Legacy Sample",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1019"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 15933,
+  "title": "Catherine Creek Chinook Domain Habitat Surveys within the Columbia Habitat Monitoring Program (CHaMP) in 2015",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15933",
+  "spatialDesignCategory": "Modified GRTS",
+  "spatialDesignCategoryID": 14,
+  "lastUpdated": "2017-02-21T02:54:11-08:00"
+}

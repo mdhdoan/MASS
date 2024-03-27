@@ -1,0 +1,109 @@
+{
+  "description": "<p>Nearly all adult spring Chinook Salmon returning to the Entiat River spawn within the study area, between McKenzie Diversion (rkm 26.6) and Fox Creek Campground (rkm 48.1), with an occasional redd in the Mad River. Twelve study sites are within the current spawning areas in the mainstem Entiat River. One site was selected near Silver Falls (rkm 53.1), upstream of a potential natural barrier at Box Canyon. This site was selected to investigate the feasibility of possible future translocation efforts above Box Canyon. Spring Chinook Salmon are rarely documented above the canyon, but their viability would likely improve if they were to colonize the habitat between Box Canyon and Entiat Falls. The base study design consists of 13 sites, with three egg boxes per site, for a total of 39 egg boxes.</p>\r\n",
+  "startYear": "2021",
+  "retirementYear": "2022",
+  "initiationYear": "2021",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Ben Truscott",
+  "ownerEmail": "ben.truscott@dfw.wa.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 21680,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16698/panels/21680",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16698"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24308,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16698/strata/24308",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16698"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1195",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16698/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16698",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16698/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16698",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16698",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11538"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "47.957922,-120.538555"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "47.916798,-120.500545"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "47.902513,-120.473080"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "47.897574,-120.458181"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "47.886501,-120.441952"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "47.871259,-120.427255"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "47.859393,-120.423353"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "47.845911,-120.418536"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "47.826266,-120.423615"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "47.815559,-120.421139"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "47.810994,-120.412232"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "47.805037,-120.409101"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "47.799615,-120.405057"
+    },
+    {
+      "areaTypeName": "HUC4 - Sub Basin",
+      "areaDisplayName": " UPPER COLUMBIA-ENTIAT"
+    }
+  ],
+  "id": 16698,
+  "title": "Estimating spring Chinook egg-to-fry survival and development over large temporal and spatial scales in the Entiat River Basin",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16698",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2021-05-12T02:41:19-07:00"
+}

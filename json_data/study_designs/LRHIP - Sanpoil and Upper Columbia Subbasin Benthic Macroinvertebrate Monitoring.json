@@ -1,0 +1,50 @@
+{
+  "backgroundRationale": "<p>The Lake Roosevelt Habitat Improvement Project (LRHIP) was initiated in 1990 to increase the survival of migratory (adfluvial) rainbow trout <em>Oncorhynchus mykiss</em> and ultimately improve Tribal subsistence and recreational harvest opportunity in streams on the Colville Confederated Tribes&rsquo; (CCT) reservation (LeCaire and Peone 1991). The goal was to restore healthy and harvestable salmonid populations through rehabilitation of stream habitat and restoration of ecological function in the riparian corridors of streams. Numerous restoration actions were implemented and corresponding rainbow trout status and trend monitoring was conducted.</p>\r\n\r\n<p>In 2011, as part of the Northwest Power and Conservation Committee&rsquo;s Categorical Review process, there was an evaluation of project accomplishments and future direction. While it was obvious that the project made substantial attempts to improve habitat conditions and monitor trends in rainbow trout populations, it is was also apparent that the approach to both aspects was relatively haphazard. Monitoring study design lacked statistical rigor and prioritization of habitat restoration actions was unclear. In response to these shortcomings, we developed a new approach to habitat restoration and protection that focuses on restoring natural stream function and has a clearly defined prioritization strategy.</p>\r\n\r\n<p>We will use empirical observations of habitat conditions and current fish use from our monitoring efforts and an Ecosystem Diagnosis and Treatment (EDT) model to help us evaluate where the highest priority areas are for habitat restoration and protection. EDT is an analytical model relating habitat features and biological performance to support conservation and recovery planning for salmonids (Lichatowich et al. 1995; Lestelle et al. 1996; Mobrand et al. 1997; Mobrand et al. 1998). It acts as an analytical framework that brings together information from empirical observation, local experts, and other models and analysis to determine which reaches and habitat attributes are likely to have the most benefit for improving fish performance.</p>\r\n\r\n<p>Development of the EDT model requires the rating of Level II attributes for the current conditions. We place the highest confidence in Level II attribute ratings that are based on empirical data. Many of the Level II attributes are related to physical habitat and flow; however, there are also fish, macroinvertebrate, and water chemistry attributes. Benthic macroinvertebrate community data is limited for most reservation streams without anadromous fish, particularly in smaller streams.</p>\r\n\r\n<p>While status and trends monitoring is not currently an LRHIP objective, we wanted to collect baseline information on the benthic macroinvertebrate communities in a manner that would allow for future monitoring. With the future monitoring option in mind, we developed our protocol so that it was consistent with other monitoring programs in the Basin, such as the Columbia Habitat Monitoring Program (CHaMP) (Bouwes et al. 2011) and the Integrated Status and Effectiveness Monitoring Program (ISEMP) (Terraqua Inc. 2009).</p>\r\n",
+  "sampleDesigns": [
+    {
+      "id": 9964,
+      "title": "Assessment of benthic macroinvertebrates in select Upper Columbia and Sanpoil Subbasin streams - Colville Confederated Tribes",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/9964",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": null
+    }
+  ],
+  "objectives": [
+    "Describe benthic macroinvertebrate communities for use in EDT model development that will aid in habitat restoration and protection prioritization.",
+    "Provide a standardized protocol for future status and trend monitoring of benthic macroinvertebrate communities.",
+    "Provide baseline benthic macroinvertebrate data sets for use in EDT model development."
+  ],
+  "keyAssumptions": "<p>Sample sizes are large enough to provide high confidence in EDT Level II attribute ratings.</p>\r\n",
+  "dataHandlingConsiderations": "Data will be recorded on paper (waterproof) forms in the field in pencil. Data forms will be reviewed for completeness at the end of each data collection activity (e.g. electrofishing pass) and at the end of each day. Completed data forms will be returned to the office at the end of each field trip. In the event of extended field trips, data sheets will be placed in a designated folder and secured in a designated vehicle or lodging location. Completed data forms will not be transported back into the field. Upon return to the office all completed data forms will be scanned as a portable document file (.pdf), saved on a computer hard drive, and backed up on a server or portable storage device (e.g. USB hard drive). The original data form will then be filed in a designated secure location until such time as the data can be entered into the database. If scanning is not available, the original data form will be photocopied and the duplicate version will be filed in a separate designated secure location, preferably in a separate building. \r\nOriginal data will be transcribed from the paper forms into an electronic database. Personnel will initial each data form that they enter in the upper right hand corner. During data entry, the database will be saved on a regular basis (15 min.). The database will also be backed up on a server or portable storage device (e.g. USB hard drive).\r\n",
+  "qualityControlConsiderations": "All of the data are re-examined for quality assurance analysis. The quality assurance analysis procedure consists of comparing every data point entered into the excel database spreadsheet to the original datasheets.  Data from each site are separated into groups to isolate various types of data (e.g. monument, discharge, fish) and error rates are provided for each of these data groups.  Missing comments are not considered as data entry errors.  Tables are constructed identifying the number of data points for each data group within the database and a total error rate for each DCE is calculated.  Site table data is common to all of the year\u2019s data.  The data are examined for evidence of systematic errors that may have been repeated throughout the database. There are times when data cannot be collected.  This should be noted in the comment field to distinguish it from mistakenly missed data. Year to year comparisons of error rates are completed identify temporal variation in error rates and systematic errors.\r\n",
+  "reportingConsiderations": "Results will be reported in BPA annual technical reports, following their formatting requirements.",
+  "equipmentCleaningAndCalibration": "All nets, waders, and boots were used exclusively in the Lake Roosevelt basin. Equipment was dried between sampling efforts, any attached detritus was removed.  ",
+  "rolesAndResponsibilities": "Lead Field Biologist - day to day project oversight and implementation, field crew training and supervision, data collection, data analysis, reporting\r\n\r\nLead  Field Technician - day to day supervision of technicians, field crew training and general oversight, data collection, data entry, QA/QC, equipment procurement and maintenance\r\n\r\nField Technician - data collection, data entry, equipment construction and maintenance",
+  "qualifications": "Lead Field Biologist - minimum Bachelors Degree from and accredited university; experience implementing electrofishing studies, supervising field crews, collecting data efficiently and accurately, and analyzing fisheries data; knowledge of scientific method\r\n\r\nLead  Field Technician - minimum High School diploma and 48 months experience at the general field technician level; experience implementing electrofishing studies, supervising field crews, collecting data efficiently and accurately, and procuring and maintaining field equipment; knowledge of scientific method\r\n\r\nField Technician - minimum High School diploma; prefer experience implementing electrofishing studies, collecting scientific data, and maintaining field equipment; knowledge of scientific method",
+  "trainingRequirements": "All personnel are required to complete protocol specific training.",
+  "safetyConsiderations": "All field staff will maintain current First Aid/CPR certification. Safety equipment, such as fire extinguishers, accident signs, and first aid kits, will be carried in all vehicles. All sample preservative will be labeled appropriately and MSDS information will be retained with the samples and preservative.",
+  "fieldScheduleNotes": "The surveys are conducted during low flow periods, primarily between early July and mid-October. Access in areas with high proportion of private land ownership may be difficult. Recommend beginning to get access lined up well before sampling is scheduled to begin.",
+  "budgetConsiderations": "The most expensive equipment are the nets and frames, which can be somewhat difficult to source..",
+  "monitoringPurpose": null,
+  "estimatedCostPerSite": "$1,000 to $2,500",
+  "optionalMethodIDs": [],
+  "optionalMethods": [],
+  "id": 1192,
+  "name": "LRHIP - Sanpoil and Upper Columbia Subbasin Benthic Macroinvertebrate Monitoring",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/studyDesigns/1192",
+  "programID": null,
+  "programUrl": "[none]",
+  "protocolID": 2100,
+  "protocolUrl": "http://www.monitoringresources.org/api/v1/protocols/2100",
+  "ownerName": "Jason McLellan",
+  "ownerEmail": "jason.mclellan@colvilletribes.com",
+  "majorVersion": 1,
+  "minorVersion": 0,
+  "previousStudyDesignVersionId": null,
+  "previousStudyDesignVersionUrl": "[none]",
+  "mostRecentVersionId": null,
+  "mostRecentVersionUrl": "[none]"
+}

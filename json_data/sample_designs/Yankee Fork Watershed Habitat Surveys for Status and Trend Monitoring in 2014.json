@@ -1,0 +1,91 @@
+{
+  "description": "<p>The Yankee Fork Fish Habitat Monitoring Plan is part of the Shoshone-Bannock Tribes&rsquo; Research Monitoring and Evaluation (RM&amp;E) Plan that is being developed to support implementation of a comprehensive salmon and steelhead protection, restoration and mitigation program.&nbsp; This Habitat Monitoring Plan specifically addresses the Yankee Fork Restoration Project (#2002-059) that will be implemented in the Yankee Fork watershed to compliment the Yankee Fork Chinook Salmon and Steelhead fishery restoration projects currently underway in the Yankee Fork.&nbsp;&nbsp;</p>\r\n\r\n<p>The Yankee Fork Fish Habitat Monitoring Plan will implement the Columbia Habitat Monitoring Program (CHaMP) sampling protocol and sample design.&nbsp; CHaMP is a Columbia River basin-wide habitat status, trends and effectiveness monitoring program that was developed to capture habitat features that drive fish population biology in order to provide systematic habitat status and trends data.&nbsp; CHaMP is being implemented in the Yankee Fork watershed to evaluate the status and trend (quality and quantity) of fish habitat conditions and assess the effectiveness of restoration activities.</p>\r\n\r\n<p>The Yankee Fork Fish Habitat Monitoring study design will combine CHaMP with a modified before-after-control-impact (BACI) study design, used frequently for impact monitoring.&nbsp; Fish habitat data will be collected at control and impact sites before restoration and after restoration activities. These sites will be determined by using similar geomorphic reach types as established by the Bureau of Reclamation (Reclamation, 2012b and 2012c).&nbsp; The Lower Yankee Fork Implementation Plan 2008-2018 will inform the monitoring study design, specifically the spatial and temporal allocation of sites in the watershed.&nbsp;</p>\r\n",
+  "startYear": "2013",
+  "retirementYear": "",
+  "initiationYear": "2013",
+  "targetPopulation": null,
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 689,
+      "name": "Rotating Panel 1",
+      "abbreviation": "Rotating Panel 1",
+      "years": [
+        "2013",
+        "2016"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/266/panels/689",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/266"
+    },
+    {
+      "id": 690,
+      "name": "Rotating Panel 2",
+      "abbreviation": "Rotating Panel 2",
+      "years": [
+        "2014",
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/266/panels/690",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/266"
+    },
+    {
+      "id": 691,
+      "name": "Rotating Panel 3",
+      "abbreviation": "Rotating Panel 3",
+      "years": [
+        "2015"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/266/panels/691",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/266"
+    }
+  ],
+  "strata": [
+    {
+      "id": 1326,
+      "name": "Depositional",
+      "abbreviation": "Depositional",
+      "url": "http://www.monitoringresources.org/api/v1/designs/266/strata/1326",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/266"
+    },
+    {
+      "id": 1327,
+      "name": "Source",
+      "abbreviation": "Source",
+      "url": "http://www.monitoringresources.org/api/v1/designs/266/strata/1327",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/266"
+    },
+    {
+      "id": 1328,
+      "name": "Transport",
+      "abbreviation": "Transport",
+      "url": "http://www.monitoringresources.org/api/v1/designs/266/strata/1328",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/266"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/18",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/229",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/266/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/266",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/266/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/266",
+  "masterSample": {
+    "name": "Columbia Basin Master Sample",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/1"
+  },
+  "userSamples": [
+    {
+      "name": "YFI00001 Sample",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1053"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 266,
+  "title": "Yankee Fork Watershed Habitat Surveys for Status and Trend Monitoring in 2014",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/266",
+  "spatialDesignCategory": "Modified GRTS",
+  "spatialDesignCategoryID": 14,
+  "lastUpdated": "2014-06-21T04:10:12-07:00"
+}

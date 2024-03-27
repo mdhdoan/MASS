@@ -1,0 +1,37 @@
+{
+  "description": "<p>With the opening of Skaha Dam to fish passage in 2009, Penticton Channel became accessible to spawning sockeye salmong. This is a channelized section of the Okanagan River running through Penticton between Okanagan and Skaha Lakes. The upper end is marked by Okanagan Dam, whose closed fish ladder marks the current upstream limit to sockeye passage. To encourage spawning in the area, Chelan and Grant PUDs funded the placement of gravel spawning beds in 2014. Also encouraging spawning in this reach is the development of a sockeye hatchery in Penticton, also funded by the PUDs, that releases sockeye into Skaha Lake (from 0.9 million to 3.5 million 1 gram fry, typically in June). Returning Sockeye have been using the Penticton Channel for spawning since 2010 with an estimated escapement ranging from 1800 (2010) to over 20,000 (in 2014). Along with gravel placement for sockeye, substrate has been placed for kokanee, burbot and summer chinook, and recent observations demonstrate a shift dsibution by sockeye from the lower alluvial confluence of tributaries to the experimental gravel beds. This new spawning area is little studied. It is unknown how much spawning this area can support and, given that there is little to no gravel recruitment to the area, how much this spawning gravel will wash away in high spring flows (such as in 2017). We propose to quantify the amount of spawning gravel as well as the potential number of spawners this gravel could support through the use of a new technology, sidescan sonar. This will be used to map potential sockeye spawning areas in the reach and will be superimposed with observed spawner useage of the area as mapped with spawning ground surveys and video recorded from UAVs (aka drones) in fall of 2018. ONA subcontracted to assist on this WE.</p>\r\n",
+  "startYear": "2018",
+  "retirementYear": "",
+  "initiationYear": "2018",
+  "targetPopulation": null,
+  "ownerName": "Jeffrey Fryer",
+  "ownerEmail": "fryj@critfc.org",
+  "images": [],
+  "panels": [],
+  "strata": [],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/510",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15559/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15559",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15559/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15559",
+  "masterSample": null,
+  "userSamples": null,
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC6 - Sub Watershed",
+      "areaDisplayName": "Lake Wenatchee"
+    },
+    {
+      "areaTypeName": "HUC5 - Watershed",
+      "areaDisplayName": "Antoine Creek-Okanogan River"
+    }
+  ],
+  "id": 15559,
+  "title": "Estimate and map potential spawning area and sockeye redds",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15559",
+  "spatialDesignCategory": "Inference",
+  "spatialDesignCategoryID": 16,
+  "lastUpdated": "2017-12-20T02:21:05-08:00"
+}

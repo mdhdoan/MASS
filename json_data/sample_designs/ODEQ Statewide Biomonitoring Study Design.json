@@ -1,0 +1,363 @@
+{
+  "description": "No valid data",
+  "startYear": "2015",
+  "retirementYear": "",
+  "initiationYear": "2015",
+  "targetPopulation": "<p>All wadeable&nbsp;streams in the State of Oregon</p>\r\n",
+  "ownerName": "Shannon Hubler",
+  "ownerEmail": "hubler.shannon@deq.state.or.us",
+  "images": [],
+  "panels": [
+    {
+      "id": 3420,
+      "name": "Year 1",
+      "abbreviation": "2015",
+      "years": [
+        "2015"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15901/panels/3420",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15901"
+    },
+    {
+      "id": 3421,
+      "name": "Year 2",
+      "abbreviation": "2016",
+      "years": [
+        "2016"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15901/panels/3421",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15901"
+    },
+    {
+      "id": 3422,
+      "name": "Year 3",
+      "abbreviation": "2017",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15901/panels/3422",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15901"
+    },
+    {
+      "id": 3423,
+      "name": "Year 4",
+      "abbreviation": "2018",
+      "years": [
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15901/panels/3423",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15901"
+    },
+    {
+      "id": 3424,
+      "name": "Year 5",
+      "abbreviation": "2019",
+      "years": [
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15901/panels/3424",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15901"
+    }
+  ],
+  "strata": [
+    {
+      "id": 4505,
+      "name": "1-ClosedBasins_Klamath",
+      "abbreviation": "1-CK",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15901/strata/4505",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15901"
+    },
+    {
+      "id": 4506,
+      "name": "1-Deschutes_MiddleCol_Hood",
+      "abbreviation": "1-DMCH",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15901/strata/4506",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15901"
+    },
+    {
+      "id": 4507,
+      "name": "1-GrandeRonde_Powder",
+      "abbreviation": "1-GRP",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15901/strata/4507",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15901"
+    },
+    {
+      "id": 4508,
+      "name": "1-JohnDay_Umatilla_SpanishHollow",
+      "abbreviation": "1-JDUS",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15901/strata/4508",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15901"
+    },
+    {
+      "id": 4509,
+      "name": "1-Maheur_Owyhee",
+      "abbreviation": "1-MO",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15901/strata/4509",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15901"
+    },
+    {
+      "id": 4510,
+      "name": "1-Mid_North Coast",
+      "abbreviation": "1-MNC",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15901/strata/4510",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15901"
+    },
+    {
+      "id": 4511,
+      "name": "1-Rogue",
+      "abbreviation": "1-R",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15901/strata/4511",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15901"
+    },
+    {
+      "id": 4512,
+      "name": "1-South Coast",
+      "abbreviation": "1-SC",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15901/strata/4512",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15901"
+    },
+    {
+      "id": 4513,
+      "name": "1-Umpqua",
+      "abbreviation": "1-U",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15901/strata/4513",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15901"
+    },
+    {
+      "id": 4514,
+      "name": "1-Willamette_Sandy",
+      "abbreviation": "1-WS",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15901/strata/4514",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15901"
+    },
+    {
+      "id": 4515,
+      "name": "2-ClosedBasins_Klamath",
+      "abbreviation": "2-CK",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15901/strata/4515",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15901"
+    },
+    {
+      "id": 4516,
+      "name": "2-Deschutes_MiddleCol_Hood",
+      "abbreviation": "2-DMCH",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15901/strata/4516",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15901"
+    },
+    {
+      "id": 4517,
+      "name": "2-GrandeRonde_Powder",
+      "abbreviation": "2-GRP",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15901/strata/4517",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15901"
+    },
+    {
+      "id": 4518,
+      "name": "2-JohnDay_Umatilla_SpanishHollow",
+      "abbreviation": "2-JDUS",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15901/strata/4518",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15901"
+    },
+    {
+      "id": 4519,
+      "name": "2-Maheur_Owyhee",
+      "abbreviation": "2-MO",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15901/strata/4519",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15901"
+    },
+    {
+      "id": 4520,
+      "name": "2-Mid_North Coast",
+      "abbreviation": "2-MNC",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15901/strata/4520",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15901"
+    },
+    {
+      "id": 4521,
+      "name": "2-Rogue",
+      "abbreviation": "2-R",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15901/strata/4521",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15901"
+    },
+    {
+      "id": 4522,
+      "name": "2-South Coast",
+      "abbreviation": "2-SC",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15901/strata/4522",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15901"
+    },
+    {
+      "id": 4523,
+      "name": "2-Umpqua",
+      "abbreviation": "2-U",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15901/strata/4523",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15901"
+    },
+    {
+      "id": 4524,
+      "name": "2-Willamette_Sandy",
+      "abbreviation": "2-WS",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15901/strata/4524",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15901"
+    },
+    {
+      "id": 4525,
+      "name": "3-ClosedBasins_Klamath",
+      "abbreviation": "3-CK",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15901/strata/4525",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15901"
+    },
+    {
+      "id": 4526,
+      "name": "3-Deschutes_MiddleCol_Hood",
+      "abbreviation": "3-DMCH",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15901/strata/4526",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15901"
+    },
+    {
+      "id": 4527,
+      "name": "3-GrandeRonde_Powder",
+      "abbreviation": "3-GRP",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15901/strata/4527",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15901"
+    },
+    {
+      "id": 4528,
+      "name": "3-JohnDay_Umatilla_SpanishHollow",
+      "abbreviation": "3-JDUS",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15901/strata/4528",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15901"
+    },
+    {
+      "id": 4529,
+      "name": "3-Maheur_Owyhee",
+      "abbreviation": "3-MO",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15901/strata/4529",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15901"
+    },
+    {
+      "id": 4530,
+      "name": "3-Mid_North Coast",
+      "abbreviation": "3-MNC",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15901/strata/4530",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15901"
+    },
+    {
+      "id": 4531,
+      "name": "3-Rogue",
+      "abbreviation": "3-R",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15901/strata/4531",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15901"
+    },
+    {
+      "id": 4532,
+      "name": "3-South Coast",
+      "abbreviation": "3-SC",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15901/strata/4532",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15901"
+    },
+    {
+      "id": 4533,
+      "name": "3-Umpqua",
+      "abbreviation": "3-U",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15901/strata/4533",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15901"
+    },
+    {
+      "id": 4534,
+      "name": "3-Willamette_Sandy",
+      "abbreviation": "3-WS",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15901/strata/4534",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15901"
+    },
+    {
+      "id": 4535,
+      "name": "4-ClosedBasins_Klamath",
+      "abbreviation": "4-CK",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15901/strata/4535",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15901"
+    },
+    {
+      "id": 4536,
+      "name": "4-Deschutes_MiddleCol_Hood",
+      "abbreviation": "4-DMCH",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15901/strata/4536",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15901"
+    },
+    {
+      "id": 4537,
+      "name": "4-GrandeRonde_Powder",
+      "abbreviation": "4-GRP",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15901/strata/4537",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15901"
+    },
+    {
+      "id": 4538,
+      "name": "4-JohnDay_Umatilla_SpanishHollow",
+      "abbreviation": "4-JDUS",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15901/strata/4538",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15901"
+    },
+    {
+      "id": 4539,
+      "name": "4-Maheur_Owyhee",
+      "abbreviation": "4-MO",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15901/strata/4539",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15901"
+    },
+    {
+      "id": 4540,
+      "name": "4-Mid_North Coast",
+      "abbreviation": "4-MNC",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15901/strata/4540",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15901"
+    },
+    {
+      "id": 4541,
+      "name": "4-Rogue",
+      "abbreviation": "4-R",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15901/strata/4541",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15901"
+    },
+    {
+      "id": 4542,
+      "name": "4-South Coast",
+      "abbreviation": "4-SC",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15901/strata/4542",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15901"
+    },
+    {
+      "id": 4543,
+      "name": "4-Umpqua",
+      "abbreviation": "4-U",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15901/strata/4543",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15901"
+    },
+    {
+      "id": 4544,
+      "name": "4-Willamette_Sandy",
+      "abbreviation": "4-WS",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15901/strata/4544",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15901"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15901/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15901",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15901/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15901",
+  "masterSample": {
+    "name": "Columbia Basin Master Sample",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/1"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 15901,
+  "title": "ODEQ Statewide Biomonitoring Study Design",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15901",
+  "spatialDesignCategory": "Generalized Random Tessellation Stratified (GRTS)",
+  "spatialDesignCategoryID": 18,
+  "lastUpdated": "2015-04-07T03:52:20-07:00"
+}

@@ -1,0 +1,157 @@
+{
+  "description": "<p>Ages of Chinook Salmon and steelhead at LGR will be estimated using scales. Also, ages of steelhead at temporary weirs and hatchery traps will be estimated using scales. Estimate ages of adult Chinook Salmon and steelhead from scales collected by ISSMES and cooperating projects. Scales are examined for regeneration. For adults, eight non-regenerated scales are cleaned and mounted between two microscope slides. Saltwater age is estimated if the regeneration is confined to the freshwater zone. Scales are examined on a computer video monitor using a Leica DM4000B microscope and a Leica DC500 digital camera. The best scales are chosen for aging the fish and saved as a digitized image. Freshwater annuli are defined by pinching or cutting over of circuli within the freshwater zone in the center of the scale. The criterion for a saltwater annulus is the crowding of circuli outside of the check for ocean entry. Total age is the sum of freshwater and saltwater ages. Two technicians independently view each image to assign ages without reference to length. If there is no age consensus among the readers, a third reader views the image and all readers collectively examine the image to resolve their differences before a final age is assigned to the fish. If a consensus is not attained, the scale sample is excluded from further analysis.</p>\r\n\r\n<p>Age composition for Chinook Salmon on the spawning grounds will be estimated for most populations and will be based on fin rays collected at hatchery traps and from carcasses on the spawning grounds. Fin rays are dried, set in epoxy resin, cut into cross sections with a bone saw, and mounted on microscope slides. Mounted fin rays are read independently by two trained readers and discrepancies are re-examined in a referee session until both readers and a third party come to a consensus. If a consensus is not reached, the sample is removed from further analysis. Total age is assigned by adding assumed freshwater age to assigned saltwater age. All freshwater ages are assumed to be 2 years. To assess the accuracy of age assignments, fin ray samples from known-age fish are mixed into the overall sample. Smolts marked with PIT tags and CWTs and recovered during hatchery spawning or carcass surveys were considered known-age.&nbsp;</p>\r\n",
+  "startYear": "2020",
+  "retirementYear": "2040",
+  "initiationYear": "2040",
+  "targetPopulation": null,
+  "ownerName": "Eric Stark",
+  "ownerEmail": "eric.stark@idfg.idaho.gov",
+  "images": [],
+  "panels": [],
+  "strata": [],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/73",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1770",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16639/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16639",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16639/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16639",
+  "masterSample": null,
+  "userSamples": null,
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Secesh River"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "Secesh River"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "South Fork Salmon River"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "South Fork Salmon River mainstem"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "East Fork South Fork Salmon River"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Lemhi River"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "Lemhi River"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Pahsimeroi River"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "Pahsimeroi River"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "East Fork Salmon River"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "East Fork Salmon River"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Salmon River upper mainstem above Redfish Lake"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "Salmon River upper mainstem"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Yankee Fork"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Valley Creek"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Salmon River lower mainstem below Redfish Lake"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "North Fork Salmon River"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "North Fork Salmon River"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Chamberlain Creek"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "Chamberlain Creek"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "Big, Camas, and Loon Creek"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "Lochsa River"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "Selway River"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "South Fork Clearwater River"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "Clearwater River lower mainstem"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "Lolo Creek"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Big Creek"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "Panther Creek"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "Middle Fork Salmon River upper mainstem"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "Little Salmon and Rapid River"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Little Salmon River"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "Imnaha River"
+    }
+  ],
+  "id": 16639,
+  "title": "Adult Age Composition of wild Chinook Salmon and steelhead from scales and fin rays collected from Lower Granite Dam, temporary weirs, hatchery traps, and post-spawn carcasses",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16639",
+  "spatialDesignCategory": "Inference",
+  "spatialDesignCategoryID": 16,
+  "lastUpdated": "2020-11-11T03:48:28-08:00"
+}

@@ -1,0 +1,57 @@
+{
+  "description": "<p>30 adult Sockeye Salmon collected in July at Priest Rapids Dam will be implanted with acoustic transmitters, transported and released into Cooper Lake, as part of the Yakama Nation Sockeye Reintroduction in the Cle Elum Lake basin project (Copper Lake is a small lake loctaed several km upstream of Cle Elum Lake).&nbsp; Prior to release an array of acoustic receivers will be deployed in locations upstream in the Cooper River above the lake, within the lake, and downstream in the Cooper and Cle Elum rivers.&nbsp; On a weekly or bi-weekly basis, data will be downloaded from the receivers from time of release until early November (at the end of the spawning season).&nbsp; Timing and direction of movement will be identified for each individual fish, with the final location preseumed to correspond to the spawning location of the fish.&nbsp; Location of final detections in the Cooper River upstream of the lake will be followed by spawning ground surveys conducted to recover post-spawn carcasses from which tissue samples will be collected for genetic analyses.</p>\r\n",
+  "startYear": "2019",
+  "retirementYear": "2020",
+  "initiationYear": "2019",
+  "targetPopulation": null,
+  "ownerName": "Peter F. Galbreath",
+  "ownerEmail": "galp@critfc.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 19706,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16317/panels/19706",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16317"
+    }
+  ],
+  "strata": [
+    {
+      "id": 22036,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16317/strata/22036",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16317"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/77",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1693",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16317/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16317",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16317/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16317",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16316",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11362"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "47.426783, -121.177236"
+    }
+  ],
+  "id": 16317,
+  "title": "Acoustic tagging to track movement, survival and opportunity for tissue sample collection for genetic analyses",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16317",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2019-04-03T03:54:05-07:00"
+}

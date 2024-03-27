@@ -1,0 +1,52 @@
+{
+  "description": "No valid data",
+  "startYear": "2004",
+  "retirementYear": "2024",
+  "initiationYear": "2004",
+  "targetPopulation": null,
+  "ownerName": "Brent Nichols",
+  "ownerEmail": "bnichols@spokanetribe.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 22368,
+      "name": "Acoustic Array",
+      "abbreviation": "Acoustic Array",
+      "years": [
+        "2024"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16982/panels/22368",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16982"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24649,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16982/strata/24649",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16982"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/857",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16982/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16982",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16982/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16982",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16982",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11622"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16982,
+  "title": "Conduct white sturgeon telemetry monitoring, data entry, and data quality control - Spokane Tribe",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16982",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2023-12-06T02:03:38-08:00"
+}

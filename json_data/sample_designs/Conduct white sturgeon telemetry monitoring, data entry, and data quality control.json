@@ -1,0 +1,122 @@
+{
+  "description": "<p>This design will incorporate data retrieved from a Vemco VR2 array of acoustic receivers that monitor the movements of acoustically tagged White Sturgeon throughout the Transboundary Reach of Lake Roosevelt</p>\r\n",
+  "startYear": "2012",
+  "retirementYear": "",
+  "initiationYear": "2015",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Joseph Cronrath",
+  "ownerEmail": "joseph.cronrath@spokanetribe.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 20107,
+      "name": "Lake Roosevelt White Sturgeon - Acoustic Telemetry ( Longitudinal Array ) (1995-027-00) WSE 103435",
+      "abbreviation": "Lake Roosevelt White Sturgeon - Acoustic Telemetry ( Longitudinal Array ) (1995-027-00) WSE 103435",
+      "years": [
+        "2015"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16480/panels/20107",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16480"
+    },
+    {
+      "id": 20108,
+      "name": "Lake Roosevelt White Sturgeon - Acoustic Telemetry ( Longitudinal Array ) (1995-027-00) WSE 113108",
+      "abbreviation": "Lake Roosevelt White Sturgeon - Acoustic Telemetry ( Longitudinal Array ) (1995-027-00) WSE 113108",
+      "years": [
+        "2016"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16480/panels/20108",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16480"
+    },
+    {
+      "id": 20109,
+      "name": "Lake Roosevelt White Sturgeon - Acoustic Telemetry ( Longitudinal Array ) (1995-027-00) WSE 126531",
+      "abbreviation": "Lake Roosevelt White Sturgeon - Acoustic Telemetry ( Longitudinal Array ) (1995-027-00) WSE 126531",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16480/panels/20109",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16480"
+    },
+    {
+      "id": 20110,
+      "name": "Lake Roosevelt White Sturgeon - Acoustic Telemetry ( Longitudinal Array ) (1995-027-00) WSE 72674",
+      "abbreviation": "Lake Roosevelt White Sturgeon - Acoustic Telemetry ( Longitudinal Array ) (1995-027-00) WSE 72674",
+      "years": [
+        "2012"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16480/panels/20110",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16480"
+    },
+    {
+      "id": 20111,
+      "name": "Lake Roosevelt White Sturgeon - Acoustic Telemetry ( Longitudinal Array ) (1995-027-00) WSE 82739",
+      "abbreviation": "Lake Roosevelt White Sturgeon - Acoustic Telemetry ( Longitudinal Array ) (1995-027-00) WSE 82739",
+      "years": [
+        "2013"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16480/panels/20111",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16480"
+    },
+    {
+      "id": 20112,
+      "name": "Lake Roosevelt White Sturgeon - Acoustic Telemetry ( Longitudinal Array ) (1995-027-00) WSE 94265",
+      "abbreviation": "Lake Roosevelt White Sturgeon - Acoustic Telemetry ( Longitudinal Array ) (1995-027-00) WSE 94265",
+      "years": [
+        "2014"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16480/panels/20112",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16480"
+    }
+  ],
+  "strata": [
+    {
+      "id": 23025,
+      "name": "All Sites",
+      "abbreviation": "All Sites",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16480/strata/23025",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16480"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/26",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1711",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16480/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16480",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16480/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16480",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design Lake Roosevelt White Sturgeon - Acoustic Telemetry ( Longitudinal Array ) (1995-027-00) WSE 126531 (8397)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/3764"
+    },
+    {
+      "name": "BPA Sample for Study Design Lake Roosevelt White Sturgeon - Acoustic Telemetry ( Longitudinal Array ) (1995-027-00) WSE 72674 (8399)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/4738"
+    },
+    {
+      "name": "BPA Sample for Study Design Lake Roosevelt White Sturgeon - Acoustic Telemetry ( Longitudinal Array ) (1995-027-00) WSE 103435 (8393)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/6366"
+    },
+    {
+      "name": "BPA Sample for Study Design Lake Roosevelt White Sturgeon - Acoustic Telemetry ( Longitudinal Array ) (1995-027-00) WSE 94265 (8402)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/6367"
+    },
+    {
+      "name": "BPA Sample for Study Design Lake Roosevelt White Sturgeon - Acoustic Telemetry ( Longitudinal Array ) (1995-027-00) WSE 82739 (8400)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/6803"
+    },
+    {
+      "name": "BPA Sample for Study Design Lake Roosevelt White Sturgeon - Acoustic Telemetry ( Longitudinal Array ) (1995-027-00) WSE 113108 (8395)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/10615"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16480,
+  "title": "Conduct white sturgeon telemetry monitoring, data entry, and data quality control",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16480",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2020-02-05T05:09:10-08:00"
+}

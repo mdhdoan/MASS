@@ -1,0 +1,52 @@
+{
+  "description": "No valid data",
+  "startYear": "2019",
+  "retirementYear": "2030",
+  "initiationYear": "2019",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Kayla Morinaga",
+  "ownerEmail": "kayla@grmw.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 22179,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16894/panels/22179",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16894"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24559,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16894/strata/24559",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16894"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1236",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16894/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16894",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16894/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16894",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16773",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11563"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16894,
+  "title": "Collect stream flow measurements on twelve Grande Ronde Basin gaging stations - Grande Ronde Model Watershed Foundation",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16894",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2023-06-30T03:26:43-07:00"
+}

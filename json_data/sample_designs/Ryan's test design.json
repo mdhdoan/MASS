@@ -1,0 +1,80 @@
+{
+  "description": "<p>this is a test design.</p>\r\n",
+  "startYear": "2017",
+  "retirementYear": "2019",
+  "initiationYear": "2017",
+  "targetPopulation": null,
+  "ownerName": "Ryan Kinzer",
+  "ownerEmail": "ryank@nezperce.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 8894,
+      "name": "panel 1",
+      "abbreviation": "p1",
+      "years": [
+        "2017",
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2675/panels/8894",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2675"
+    },
+    {
+      "id": 8895,
+      "name": "panel 2",
+      "abbreviation": "p2",
+      "years": [
+        "2018",
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2675/panels/8895",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2675"
+    },
+    {
+      "id": 8896,
+      "name": "panel 3",
+      "abbreviation": "p3",
+      "years": [
+        "2019",
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2675/panels/8896",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2675"
+    }
+  ],
+  "strata": [
+    {
+      "id": 11324,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2675/strata/11324",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2675"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/1",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1109",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/2675/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/2675",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/2675/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/2675",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Logan Canyon R&D sites",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1069"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC5 - Watershed",
+      "areaDisplayName": "Logan River"
+    }
+  ],
+  "id": 2675,
+  "title": "Ryan's test design",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/2675",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2017-10-30T23:55:43-07:00"
+}

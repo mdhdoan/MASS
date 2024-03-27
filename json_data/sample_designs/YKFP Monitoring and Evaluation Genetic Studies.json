@@ -1,0 +1,57 @@
+{
+  "description": "<p>The Yakima/Klickitat Fisheries Project (YKFP)&nbsp;is, perhaps, the largest and most complex fisheries project in the Columbia Basin (Fast et al. 2015).&nbsp; The YKFP was designed to test the assumption that artificial production of targeted fish populations (initially spring Chinook salmon) could be used to increase natural production while maintaining the long term genetic fitness of the population and keeping adverse&nbsp;genetic and ecological interactions with non-target fish populations within acceptable limits (RASP 1992; BPA 1996; Fast et al. 2015).&nbsp; The YKFP genetic monitoring program supports the genetic monitoring component of the project.&nbsp; There are two genetic components of this protocol.&nbsp; First is collecting genetic samples on returning adult spring Chinook salmon from wild and hatchery fish.&nbsp; The samples are collected&nbsp;by Yakama Nation Biologists&nbsp;at the Roza Adult Monitoring Facility (RAMF) on the Yakima&nbsp;River,&nbsp;and processed in the Washington Department of Fish and Wildlife&nbsp;(WDFW) Molecular Genetics Laboratory (MGL).&nbsp; The genetic assignments&nbsp;are forwarded to the Columbia River Intertribal Fish Commission (CRITFC)&nbsp;lab&nbsp;to contribute to a whole river parentage analysis.&nbsp; The parentage analysis is designed to estimate differences in relative reproductive success of hatchery and wild origin chinook spawned in the wild at the population level.&nbsp; Second is a genetic stock population of origin assignment for juvenile spring Chinook.&nbsp;Smolt migrants that are represent&nbsp;three distinct populations of spring Chinook that are co-mingled are sampled at the Chandler juvenile Sampling Facility are sub-sampled throughout the out-migration.&nbsp; Subsampling includes genetic sample collections.&nbsp; The samples are sent to the WDFW MGL and genetic assignments were used to partition the annual basin-wide smolt production estimate to the contribution from population.</p>\r\n\r\n<p>\u200b</p>\r\n",
+  "startYear": "1997",
+  "retirementYear": "",
+  "initiationYear": "1997",
+  "targetPopulation": null,
+  "ownerName": "Gabriel Temple",
+  "ownerEmail": "gabriel.temple@dfw.wa.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 19110,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "1997"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15626/panels/19110",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15626"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21538,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15626/strata/21538",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15626"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1309",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15626/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15626",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15626/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15626",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "YKFP Monitoring and Evaluation: Genetic Studies Sampling Sites",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11261"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC3 - Basin",
+      "areaDisplayName": "Yakima"
+    }
+  ],
+  "id": 15626,
+  "title": "YKFP Monitoring and Evaluation: Genetic Studies",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15626",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2018-03-13T23:35:26-07:00"
+}

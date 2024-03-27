@@ -1,0 +1,37 @@
+{
+  "description": "<p>Abundance estimates will be calculated from hydroacoustic and trawl data for each age-class of kokanee.&nbsp; Production will be calculated by estimating the weight of all kokanee that produced between 2018 and 2019.&nbsp; &nbsp;Mortality rates of kokanee will be calculated based on the mid-water trawling estimates by dividing this years population estimate by the population estimate for that same cohort last year.&nbsp; Spawner count data will be compared to previous years.&nbsp; Kokanee growth rates, maturity, and origin (wild&nbsp; vs. hatchery) will all be analyzed to assess changes to the kokanee population.&nbsp; All results will be compared to data from previous years.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "startYear": "2019",
+  "retirementYear": "",
+  "initiationYear": "2019",
+  "targetPopulation": null,
+  "ownerName": "Pete Rust",
+  "ownerEmail": "Pete.Rust@idfg.idaho.gov",
+  "images": [],
+  "panels": [],
+  "strata": [],
+  "programUrl": "",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/890",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16286/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16286",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16286/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16286",
+  "masterSample": null,
+  "userSamples": null,
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC4 - Sub Basin",
+      "areaDisplayName": " PEND OREILLE LAKE"
+    },
+    {
+      "areaTypeName": "Mainstem Reaches and Dams",
+      "areaDisplayName": "Dworshak Reservoir"
+    }
+  ],
+  "id": 16286,
+  "title": "LPO and DWOR Analysis Status and Trend of Kokanee",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16286",
+  "spatialDesignCategory": "Inference",
+  "spatialDesignCategoryID": 16,
+  "lastUpdated": "2019-01-26T00:31:51-08:00"
+}

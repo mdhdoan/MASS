@@ -1,0 +1,52 @@
+{
+  "description": "<p>Initial list of broodstock collection sites for freshwater mussel propagation.&nbsp;</p>\r\n",
+  "startYear": "2018",
+  "retirementYear": "",
+  "initiationYear": "2028",
+  "targetPopulation": null,
+  "ownerName": "Beth Glidewell",
+  "ownerEmail": "ElizabethGlidewell@ctuir.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 19483,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16196/panels/19483",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16196"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21889,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16196/strata/21889",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16196"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/19",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1574",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16196/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16196",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16196/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16196",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "FWM Broodstock sites",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11319"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16196,
+  "title": "FWM Broodstock collection",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16196",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2018-09-01T01:17:50-07:00"
+}

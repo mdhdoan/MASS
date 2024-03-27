@@ -1,0 +1,81 @@
+{
+  "description": "<p>Primarily juvenile fall Chinook salmon mortalities will be collected at the Lower Granite Dam juvenile fish facility although some fish may be sacrificed to meet target sample sizes. Five fish will be collected each week from mid-August through the end of October for a total of 12 sampling weeks and a grand total of 60 (12 weeks x 5 fish/week) fish sampled. Fish will be weighed, measured, and have their livers removed. Livers will be frozen for later analysis of cyanotoxin presence and amount.</p>\r\n\r\n<p>A total of 40 SPATT sampler will be deployed in Lower Granite Reservoir. Ten samplers will be deployed on each of 4 occasions: once each in August, September, October, and November. During each month, a&nbsp;sampling string of 5 SPATTs, spaced at various depth intervals, will be deployed in the forebay of Lower Granite Dam. The remaining 5 samplers samplers will be deployed near the water surface at Wawawai, Blyton, Nisqually, Silcott, and Lewiston within the reservoir.</p>\r\n\r\n<p>A total of 3 mobile surveys will be conducted in the lower thrid of Lower Granite Reservoir during August, September, and October to map water quality parameters and algae distribution.</p>\r\n",
+  "startYear": "2024",
+  "retirementYear": "2030",
+  "initiationYear": "2024",
+  "targetPopulation": null,
+  "ownerName": "Kenneth Tiffan",
+  "ownerEmail": "ktiffan@usgs.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 22380,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2024"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16991/panels/22380",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16991"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24661,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16991/strata/24661",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16991"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1887",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16991/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16991",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16991/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16991",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16984",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11624"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.658298,-117.423080"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.627892,-117.384971"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.556643,-117.273048"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.497827,-117.231163"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.420253,-117.188591"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.416466,-117.034782"
+    },
+    {
+      "areaTypeName": "Chinook Fall Interior Columbia Pop. Name",
+      "areaDisplayName": "Snake River Lower Mainstem"
+    }
+  ],
+  "id": 16991,
+  "title": "Harmful Algal Blooms in the Snake River",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16991",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2023-12-21T23:57:59-08:00"
+}

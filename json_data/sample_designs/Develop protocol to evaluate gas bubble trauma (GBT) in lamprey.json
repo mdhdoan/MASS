@@ -1,0 +1,41 @@
+{
+  "description": "No valid data",
+  "startYear": "2021",
+  "retirementYear": "",
+  "initiationYear": "2021",
+  "targetPopulation": null,
+  "ownerName": "Theresa \"Marty\" Liedtke",
+  "ownerEmail": "tliedtke@usgs.gov",
+  "images": [],
+  "panels": [],
+  "strata": [],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1805",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16720/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16720",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16720/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16720",
+  "masterSample": null,
+  "userSamples": null,
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": " 45.6227, -121.9757"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": " 45.6438, -121.9524"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": " 45.6035, -121.1469"
+    }
+  ],
+  "id": 16720,
+  "title": "Develop protocol to evaluate gas bubble trauma (GBT) in lamprey",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16720",
+  "spatialDesignCategory": "Inference",
+  "spatialDesignCategoryID": 16,
+  "lastUpdated": "2021-07-02T23:22:19-07:00"
+}

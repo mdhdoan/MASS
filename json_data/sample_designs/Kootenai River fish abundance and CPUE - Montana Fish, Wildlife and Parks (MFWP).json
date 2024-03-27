@@ -1,0 +1,56 @@
+{
+  "description": "<p>Use a combination of electrofishing and various traps to assess trends in a variety of fish population metrics including abundance, CPUE, condition, growth, species composition and other when / where appropriate.</p>\r\n\r\n<p>Electrofishing will be performed in the fall (August / September) to assess trends in abundance / CPUE . condition and relative composition of various fish species (trout, whitefish, others depending on river section).&nbsp; This sampling technique will be used in all sections.</p>\r\n\r\n<p>Hoop trapping will be performed in the winter (December - February) to assess trends in the burbot population in the tailrace of Libby Dam (Dam-Fisher section only).</p>\r\n",
+  "startYear": "2020",
+  "retirementYear": "",
+  "initiationYear": "2020",
+  "targetPopulation": null,
+  "ownerName": "Ryan Sylvester",
+  "ownerEmail": "rsylvester@mt.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 22012,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16849/panels/22012",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16849"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24504,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16849/strata/24504",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16849"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/807",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16849/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16849",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16849/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16849",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design MFWP Fish Population Monitoring - Large Rivers WSE 94789 (7885)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/4289"
+    },
+    {
+      "name": "Sample for Design #16849",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11604"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16849,
+  "title": "Kootenai River fish abundance and CPUE - Montana Fish, Wildlife and Parks (MFWP)",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16849",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2023-02-08T02:25:51-08:00"
+}

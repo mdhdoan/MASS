@@ -1,0 +1,84 @@
+{
+  "description": "No valid data",
+  "startYear": "2017",
+  "retirementYear": "",
+  "initiationYear": "2017",
+  "targetPopulation": "<p>BLM perennial streams and rivers in the Kemmerer FO as defined by the master sample NHD version</p>\r\n",
+  "ownerName": "Scott Miller",
+  "ownerEmail": "scott.miller@usu.edu",
+  "images": [],
+  "panels": [
+    {
+      "id": 7430,
+      "name": "2017",
+      "abbreviation": "2017",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16019/panels/7430",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16019"
+    },
+    {
+      "id": 7431,
+      "name": "2018",
+      "abbreviation": "2018",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16019/panels/7431",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16019"
+    },
+    {
+      "id": 7432,
+      "name": "2019",
+      "abbreviation": "2019",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16019/panels/7432",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16019"
+    }
+  ],
+  "strata": [
+    {
+      "id": 9537,
+      "name": "Large Streams (3&4)",
+      "abbreviation": "LS",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16019/strata/9537",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16019"
+    },
+    {
+      "id": 9538,
+      "name": "Rivers (5+)",
+      "abbreviation": "RV",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16019/strata/9538",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16019"
+    },
+    {
+      "id": 9539,
+      "name": "Small Streams (1&2)",
+      "abbreviation": "SS",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16019/strata/9539",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16019"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/78",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1335",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16019/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16019",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16019/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16019",
+  "masterSample": {
+    "name": "Bureau of Land Management Lotic",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/8"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 16019,
+  "title": "Kemmerer",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16019",
+  "spatialDesignCategory": "Generalized Random Tessellation Stratified (GRTS)",
+  "spatialDesignCategoryID": 18,
+  "lastUpdated": "2017-04-13T11:19:30-07:00"
+}

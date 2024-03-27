@@ -1,0 +1,57 @@
+{
+  "description": "<p>This sampling design is for&nbsp;Willamette Falls lamprey PIT tag antenna locations.</p>\r\n",
+  "startYear": "2017",
+  "retirementYear": "",
+  "initiationYear": "2017",
+  "targetPopulation": null,
+  "ownerName": "Cyndi Baker",
+  "ownerEmail": "cyndi.baker@ctwsbnr.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 19011,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15560/panels/19011",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15560"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21434,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15560/strata/21434",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15560"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/35",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/568",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15560/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15560",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15560/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15560",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Willamette Falls Fish Ladder Antenna Arrays",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11212"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC3 - Basin",
+      "areaDisplayName": "Willamette"
+    }
+  ],
+  "id": 15560,
+  "title": "CTWS RM&E - Multiple Species - Multiple Subbasin - Monitoring using PIT tag Arrays",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15560",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2017-12-27T05:16:01-08:00"
+}

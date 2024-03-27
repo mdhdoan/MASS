@@ -1,0 +1,158 @@
+{
+  "description": "No valid data",
+  "startYear": "2016",
+  "retirementYear": "",
+  "initiationYear": "2016",
+  "targetPopulation": "<p>BLM perennial streams in the NW District, CO</p>\r\n",
+  "ownerName": "Scott Miller",
+  "ownerEmail": "scott.miller@usu.edu",
+  "images": [],
+  "panels": [
+    {
+      "id": 7010,
+      "name": "Year 1",
+      "abbreviation": "Yr1",
+      "years": [
+        "2016"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2543/panels/7010",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2543"
+    },
+    {
+      "id": 7011,
+      "name": "Year 2",
+      "abbreviation": "Yr2",
+      "years": [
+        "2016"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2543/panels/7011",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2543"
+    }
+  ],
+  "strata": [
+    {
+      "id": 8773,
+      "name": "COLORADO RIVER VALLEY FIELD OFFICE-Large Streams (3&4)",
+      "abbreviation": "S1",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2543/strata/8773",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2543"
+    },
+    {
+      "id": 8774,
+      "name": "COLORADO RIVER VALLEY FIELD OFFICE-Rivers (5+)",
+      "abbreviation": "S2",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2543/strata/8774",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2543"
+    },
+    {
+      "id": 8772,
+      "name": "COLORADO RIVER VALLEY FIELD OFFICE-Small Streams (1&2)",
+      "abbreviation": "S0",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2543/strata/8772",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2543"
+    },
+    {
+      "id": 8776,
+      "name": "GRAND JUNCTION FIELD OFFICE-Large Streams (3&4)",
+      "abbreviation": "S4",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2543/strata/8776",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2543"
+    },
+    {
+      "id": 8777,
+      "name": "GRAND JUNCTION FIELD OFFICE-Rivers (5+)",
+      "abbreviation": "S5",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2543/strata/8777",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2543"
+    },
+    {
+      "id": 8775,
+      "name": "GRAND JUNCTION FIELD OFFICE-Small Streams (1&2)",
+      "abbreviation": "S3",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2543/strata/8775",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2543"
+    },
+    {
+      "id": 8779,
+      "name": "KREMMLING FIELD OFFICE-Large Streams (3&4)",
+      "abbreviation": "S7",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2543/strata/8779",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2543"
+    },
+    {
+      "id": 8780,
+      "name": "KREMMLING FIELD OFFICE-Rivers (5+)",
+      "abbreviation": "S8",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2543/strata/8780",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2543"
+    },
+    {
+      "id": 8778,
+      "name": "KREMMLING FIELD OFFICE-Small Streams (1&2)",
+      "abbreviation": "S6",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2543/strata/8778",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2543"
+    },
+    {
+      "id": 8782,
+      "name": "LITTLE SNAKE FIELD OFFICE-Large Streams (3&4)",
+      "abbreviation": "S10",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2543/strata/8782",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2543"
+    },
+    {
+      "id": 8783,
+      "name": "LITTLE SNAKE FIELD OFFICE-Rivers (5+)",
+      "abbreviation": "S11",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2543/strata/8783",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2543"
+    },
+    {
+      "id": 8781,
+      "name": "LITTLE SNAKE FIELD OFFICE-Small Streams (1&2)",
+      "abbreviation": "S9",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2543/strata/8781",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2543"
+    },
+    {
+      "id": 8785,
+      "name": "WHITE RIVER FIELD OFFICE-Large Streams (3&4)",
+      "abbreviation": "S13",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2543/strata/8785",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2543"
+    },
+    {
+      "id": 8786,
+      "name": "WHITE RIVER FIELD OFFICE-Rivers (5+)",
+      "abbreviation": "S14",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2543/strata/8786",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2543"
+    },
+    {
+      "id": 8784,
+      "name": "WHITE RIVER FIELD OFFICE-Small Streams (1&2)",
+      "abbreviation": "S12",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2543/strata/8784",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2543"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/78",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1335",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/2543/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/2543",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/2543/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/2543",
+  "masterSample": {
+    "name": "Bureau of Land Management Lotic",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/8"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 2543,
+  "title": "NWD-CO-FINAL",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/2543",
+  "spatialDesignCategory": "Generalized Random Tessellation Stratified (GRTS)",
+  "spatialDesignCategoryID": 18,
+  "lastUpdated": "2017-10-03T05:40:02-07:00"
+}

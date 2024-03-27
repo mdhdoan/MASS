@@ -1,0 +1,56 @@
+{
+  "description": "No valid data",
+  "startYear": "2023",
+  "retirementYear": "2030",
+  "initiationYear": "2023",
+  "targetPopulation": null,
+  "ownerName": "Stuart Ellis",
+  "ownerEmail": "ells@critfc.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 22065,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2023"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16860/panels/22065",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16860"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24521,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16860/strata/24521",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16860"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/524",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16860/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16860",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16860/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16860",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 48989 (13709)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/3609"
+    },
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 64512 (15056)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/9644"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16860,
+  "title": "PIT Tag Monitoring - Columbia River Inter-Tribal Fish Commission (CRITFC)",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16860",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2023-02-16T05:49:50-08:00"
+}

@@ -1,0 +1,85 @@
+{
+  "description": "<p>There are two components of this Sample Design: 1) abundance&nbsp;assessment, 2) spatial distribution (extent)</p>\r\n\r\n<p>Within the&nbsp;stream being assessed, the habitat has been delineated into 1.0-1.2 km reaches (stratum). Within each reach there are 10-12 100m Sampling Units (sites). All reaches will be selected for the assessment, with a random (drawn) selection of one 100m site per&nbsp;reach.&nbsp; Abundance assessments of the Westslope Cutthroat Trout population will be conducted within each selected project site. Prior to conducting the assessments, each site will be evaluated in the field to ensure it contains representative habitat; if not, an alternative randomly sampled site will be chosen If no fish are observed in a selected site, a secondary site within the reach will be assessed.</p>\r\n\r\n<p>For the secondary component, single-pass electrofishing will be conducted in a non-random fashion within each reach to determine the spatial extent of the population; this is a simple presence/absence survey.</p>\r\n\r\n<p>The assessments will be conducted in a single event (one time) over the course of a two-week period (August-September timeframe) to ensure equal distribution of the population and limited movement.</p>\r\n",
+  "startYear": "2023",
+  "retirementYear": "2023",
+  "initiationYear": "2023",
+  "targetPopulation": null,
+  "ownerName": "Nick Bean",
+  "ownerEmail": "nbean@knrd.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 22003,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2023"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16839/panels/22003",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16839"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24497,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16839/strata/24497",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16839"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/89",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1853",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16839/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16839",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16839/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16839",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16839",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11600"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "48.412905,-117.253815"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "48.418070,-117.249632"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "48.425318,-117.244136"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "48.433662,-117.236374"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "48.440136,-117.229823"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "48.445565,-117.222727"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "48.453422,-117.217360"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "48.457304,-117.204760"
+    }
+  ],
+  "id": 16839,
+  "title": "Cee Cee Ah Creek Westslope Cutthroat Trout Assessment",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16839",
+  "spatialDesignCategory": "Simple Random Sample, Stratified",
+  "spatialDesignCategoryID": 2,
+  "lastUpdated": "2023-01-27T01:54:21-08:00"
+}

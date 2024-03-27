@@ -1,0 +1,52 @@
+{
+  "description": "<p>COPY:</p>\r\n\r\n<p>A temporary picket weir is installed in Fish Creek in early March prior to the entry of adult steelhead.&nbsp; Materials are delivered to the location and weir and associated trap is constructed. &nbsp;Hatchery steelhead are transported to the Lochsa River and released without processing.&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>The Rapid River trap tender assists hatchery personnel in the operation of the Rapid River adult trap and collects data from wild steelhead as described above for Fish Creek.&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Coordinate collection of biological data from adult steelhead handled by IDFG personnel at other hatchery weirs in the upper Salmon River, East Fork Salmon River, Pahsimeroi River, South Fork Salmon River, and Crooked River.&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Escapement monitoring of wild adult Chinook Salmon in portions of the Salmon River basin is conducted by utilizing existing hatchery adult trapping facilities at the following locations:</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&bull; South Fork Salmon River (McCall Fish Hatchery satellite facility)</p>\r\n\r\n<p>&bull; Pahsimeroi River (at Pahsimeroi Fish Hatchery)</p>\r\n\r\n<p>&bull; Upper Salmon River (at Sawtooth Fish Hatchery)</p>\r\n",
+  "startYear": "2019",
+  "retirementYear": "",
+  "initiationYear": "2019",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Luciano Chiaramonte",
+  "ownerEmail": "luciano.chiaramonte@idfg.idaho.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 21700,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16712/panels/21700",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16712"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24320,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16712/strata/24320",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16712"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/73",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1801",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16712/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16712",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16712/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16712",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design Wild adult steelhead monitoring in Idaho WSE 123220 (3963)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/7813"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16712,
+  "title": "IDFG data collection for wild adult steelhead abundance at select temporary weirs & hatchery traps - Idaho Department of Fish and Game (IDFG), cloned for Study Plan 1770",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16712",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2023-11-16T08:38:17-08:00"
+}

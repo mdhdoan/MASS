@@ -1,0 +1,33 @@
+{
+  "description": "<p>Lake trout were stocked in numerous lakes throughout western North America during the late 1800s and early 1900s (Crossman 1995), including Lake Pend Oreille in 1925. Lake trout present a threat to native salmonids, including kokanee and bull trout. Bull trout are particularly susceptible to negative interactions with lake trout, and bull trout populations cannot be sustained after lake trout introduction (Donald and Alger 1993; Fredenberg 2002) without human intervention. Lake trout predation resulted in drastic decreases in the kokanee population in Lake Pend Oreille since 2000 (Maiolie et al. 2002; Maiolie et al. 2006). Declines in kokanee abundance is especially concerning as they are the main prey source for ESA-listed bull trout. In 2000, IDFG removed all bag limits on lake trout and implemented an Angler Incentive Program (AIP), which pays anglers to harvest lake trout. To further reduce lake trout abundance, IDFG has contracted with Hickey Brothers Research, LLC (Bailey&rsquo;s Harbor, Wisconsin) since 2006 to fish gill and trap nets in Lake Pend Oreille. As the population decreases through overharvest, we evaluate the response by tracking growth rates, fecundity, catch rates, and size structure.</p>\r\n",
+  "startYear": "2019",
+  "retirementYear": "",
+  "initiationYear": "2019",
+  "targetPopulation": null,
+  "ownerName": "Pete Rust",
+  "ownerEmail": "Pete.Rust@idfg.idaho.gov",
+  "images": [],
+  "panels": [],
+  "strata": [],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/65",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1672",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16279/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16279",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16279/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16279",
+  "masterSample": null,
+  "userSamples": null,
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC4 - Sub Basin",
+      "areaDisplayName": " PEND OREILLE LAKE"
+    }
+  ],
+  "id": 16279,
+  "title": "LPO Evaluation of predator netting program",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16279",
+  "spatialDesignCategory": "Inference",
+  "spatialDesignCategoryID": 16,
+  "lastUpdated": "2019-01-25T03:51:14-08:00"
+}

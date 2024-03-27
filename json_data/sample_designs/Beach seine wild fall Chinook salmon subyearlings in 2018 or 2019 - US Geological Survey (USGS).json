@@ -1,0 +1,52 @@
+{
+  "description": "No valid data",
+  "startYear": "2018",
+  "retirementYear": "2023",
+  "initiationYear": "2018",
+  "targetPopulation": null,
+  "ownerName": "Kenneth Tiffan",
+  "ownerEmail": "ktiffan@usgs.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 19910,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16400/panels/19910",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16400"
+    }
+  ],
+  "strata": [
+    {
+      "id": 22926,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16400/strata/22926",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16400"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/85",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1180",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16400/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16400",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16400/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16400",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16400",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11409"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16400,
+  "title": "Beach seine wild fall Chinook salmon subyearlings in 2018/2019 - US Geological Survey (USGS)",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16400",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2019-11-08T03:55:11-08:00"
+}

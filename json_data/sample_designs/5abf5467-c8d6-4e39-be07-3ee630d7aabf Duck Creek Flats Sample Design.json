@@ -1,0 +1,50 @@
+{
+  "description": "No valid data",
+  "startYear": "2017",
+  "retirementYear": "2017",
+  "initiationYear": "2017",
+  "targetPopulation": null,
+  "ownerName": "Benjamin Davidson",
+  "ownerEmail": "bdavidson@swca.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 19573,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16242/panels/19573",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16242"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21942,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16242/strata/21942",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16242"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/80",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1665",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16242/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16242",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16242/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16242",
+  "masterSample": {
+    "name": "Continental United States 10 KM Grid",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/10"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 16242,
+  "title": "5abf5467-c8d6-4e39-be07-3ee630d7aabf Duck Creek Flats Sample Design",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16242",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": null
+}

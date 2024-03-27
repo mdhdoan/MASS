@@ -1,0 +1,100 @@
+{
+  "backgroundRationale": "<p>As described in SSO1 and SSO2, data collection and analysis in the South Fork Salmon River (SFSR) and Lemhi River are unified within a watershed model (QCInc 2005). The focus of ISEMP implementation in the SFSR is the development and testing of metrics and protocols to support habitat and population status and trend monitoring. Given the passive nature of habitat restoration actions implemented in the SFSR (see SSO1) and current hatchery supplementation effecting two of the three spring/summer Chinook salmon populations (see SSO1), a model-based approach was adopted as a means to partition variance contributed to freshwater productivity from hatchery releases in order to improve our ability to relate freshwater productivity to passive changes in habitat quality and quantity. The SFSR also provides an opportunity to test the impacts of spring/summer Chinook salmon supplementation on freshwater productivity of two listed and un-supplemented steelhead populations. Data collection in the SFSR includes four major components: 1. Probabilistically distributed remote juvenile capture/recapture and tagging efforts. 2. Probabilistically distributed habitat surveys. 3. Operation of rotary screw traps for the purposes of abundance estimation and as a re-sight opportunity for fish tagged in capture/recapture and tagging efforts. 4. Instream PIT tag arrays.</p>\r\n",
+  "sampleDesigns": [
+    {
+      "id": 2718,
+      "title": "Modeling and analysis of ISEMP fish data - South Fork Research_4",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2718",
+      "spatialDesignCategory": "Inference",
+      "spatialDesignCategoryID": 16,
+      "lastUpdated": null
+    },
+    {
+      "id": 2719,
+      "title": "Task 1B: Conduct habitat surveys at site-based restoration locations in the Lemhi and Secesh rivers. - Quantitative Consultants Inc 1",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2719",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": null
+    },
+    {
+      "id": 2721,
+      "title": "Modeling and analysis of regional ISEMP data - South Fork Research",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2721",
+      "spatialDesignCategory": "Inference",
+      "spatialDesignCategoryID": 16,
+      "lastUpdated": null
+    },
+    {
+      "id": 2728,
+      "title": "Modeling and analysis of ISEMP fish data - South Fork Research",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2728",
+      "spatialDesignCategory": "Inference",
+      "spatialDesignCategoryID": 16,
+      "lastUpdated": null
+    },
+    {
+      "id": 2729,
+      "title": "Modeling and analysis of ISEMP fish data - South Fork Research_2",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2729",
+      "spatialDesignCategory": "Inference",
+      "spatialDesignCategoryID": 16,
+      "lastUpdated": null
+    },
+    {
+      "id": 2730,
+      "title": "Modeling and analysis of ISEMP fish data - South Fork Research_3",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2730",
+      "spatialDesignCategory": "Inference",
+      "spatialDesignCategoryID": 16,
+      "lastUpdated": null
+    }
+  ],
+  "objectives": [
+    "Development and implementation of a coordinated habitat and population status and trends monitoring program in the South Fork Salmon River (SFSR).",
+    "Development and implementation of a coordinated habitat restoration effectiveness monitoring program in the John Day Basin",
+    "Development and implementation of a coordinated habitat restoration effectiveness monitoring program in the Lemhi River. ",
+    "Development and implementation of a coordinated watershed scale habitat restoration effectiveness monitoring program in Bridge Creek of the Joh",
+    "Development of a coordinated habitat and population status and trends monitoring program in the John Day Basin. ",
+    "Effectiveness Monitoring in the Entiat Intensively Monitored Watershed",
+    "Installation, operation, and maintenance of a coordinated Snake River PIT tag array system.",
+    "Status and trend monitoring program in the Upper Columbia "
+  ],
+  "keyAssumptions": null,
+  "dataHandlingConsiderations": null,
+  "qualityControlConsiderations": null,
+  "reportingConsiderations": null,
+  "equipmentCleaningAndCalibration": null,
+  "rolesAndResponsibilities": null,
+  "qualifications": null,
+  "trainingRequirements": null,
+  "safetyConsiderations": null,
+  "fieldScheduleNotes": null,
+  "budgetConsiderations": null,
+  "monitoringPurpose": "Action Effectiveness Monitoring",
+  "estimatedCostPerSite": null,
+  "optionalMethodIDs": [],
+  "optionalMethods": [],
+  "id": 53,
+  "name": "Salmon Subbasin watershed model implementation in the South Fork Salmon River and Lemhi River (2003-017-00) v1.0",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/studyDesigns/53",
+  "programID": 10,
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/10",
+  "protocolID": 322,
+  "protocolUrl": "http://www.monitoringresources.org/api/v1/protocols/322",
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org",
+  "majorVersion": 1,
+  "minorVersion": 0,
+  "previousStudyDesignVersionId": null,
+  "previousStudyDesignVersionUrl": "[none]",
+  "mostRecentVersionId": null,
+  "mostRecentVersionUrl": "[none]"
+}

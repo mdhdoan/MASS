@@ -1,0 +1,374 @@
+{
+  "description": "<p>COPY:</p>\r\n\r\n<p>Ecology&#39;s Environmental Assessment Program&rsquo;s Status and Trends Monitoring for Watershed Health and Salmon Recovery (WHSR) project collects data on river and stream health by region. Approximately 350 sites are sampled every four years.</p>\r\n\r\n<blockquote>\r\n<p><a href=\"http://www.ecy.wa.gov/programs/eap/stsmf/sampling.html\" style=\"color: rgb(0, 51, 102);\"><strong>Sampling Schedules for Watershed Health Monitoring</strong></a>\u200b&nbsp;explains the monitoring-sites rotation, sample design, and contains the latest Candidate Site List.</p>\r\n\r\n<p>\u200b<a href=\"http://www.ecy.wa.gov/programs/eap/stsmf/latest.html\" style=\"color: rgb(0, 51, 102);\"><strong>Latest River and Stream Monitoring for Watershed Health</strong></a>&nbsp;explains where Ecology staff are working during the monitoring season.</p>\r\n</blockquote>\r\n\r\n<p><img class=\"style2\" src=\"http://www.ecy.wa.gov/programs/eap/stsmf/images/wsh.jpg\" style=\"background-color:rgb(255, 255, 255); color:rgb(0, 51, 102); float:right; font-family:verdana,arial,sans-serif; font-size:11px; height:180px; line-height:16px; margin-left:4px; margin-right:4px; width:236px\" /></p>\r\n\r\n<p>WSHR also offers services to the public for objectively assessing watershed health. These include standard protocols for monitoring rivers and streams, training on these protocols, the Washington Master Sample site set, and the STREAM database for managing stream habitat data.</p>\r\n",
+  "startYear": "2009",
+  "retirementYear": "",
+  "initiationYear": "2009",
+  "targetPopulation": "COPY: ",
+  "ownerName": "PNAMP Support",
+  "ownerEmail": "pnamp.mm@gmail.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 7392,
+      "name": "Rotating 1",
+      "abbreviation": "RP1",
+      "years": [
+        "2009",
+        "2013"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2611/panels/7392",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2611"
+    },
+    {
+      "id": 7393,
+      "name": "Rotating 2",
+      "abbreviation": "RP2",
+      "years": [
+        "2010",
+        "2014"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2611/panels/7393",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2611"
+    },
+    {
+      "id": 7394,
+      "name": "Rotating 3",
+      "abbreviation": "RP3",
+      "years": [
+        "2011",
+        "2015"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2611/panels/7394",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2611"
+    },
+    {
+      "id": 7395,
+      "name": "Rotating 4",
+      "abbreviation": "RP4",
+      "years": [
+        "2012",
+        "2016"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2611/panels/7395",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2611"
+    },
+    {
+      "id": 7396,
+      "name": "Sentinel Sites",
+      "abbreviation": "Sentinel",
+      "years": [
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2611/panels/7396",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2611"
+    }
+  ],
+  "strata": [
+    {
+      "id": 9374,
+      "name": "Coastal-0",
+      "abbreviation": "CS-0",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2611/strata/9374",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2611"
+    },
+    {
+      "id": 9375,
+      "name": "Coastal-1",
+      "abbreviation": "CS-1",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2611/strata/9375",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2611"
+    },
+    {
+      "id": 9376,
+      "name": "Coastal-2",
+      "abbreviation": "CS-2",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2611/strata/9376",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2611"
+    },
+    {
+      "id": 9377,
+      "name": "Coastal-3",
+      "abbreviation": "CS-3",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2611/strata/9377",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2611"
+    },
+    {
+      "id": 9378,
+      "name": "Coastal-4-11",
+      "abbreviation": "CS-4+",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2611/strata/9378",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2611"
+    },
+    {
+      "id": 9379,
+      "name": "Lower Columbia-0",
+      "abbreviation": "LC-0",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2611/strata/9379",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2611"
+    },
+    {
+      "id": 9380,
+      "name": "Lower Columbia-1",
+      "abbreviation": "LC-1",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2611/strata/9380",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2611"
+    },
+    {
+      "id": 9381,
+      "name": "Lower Columbia-2",
+      "abbreviation": "LC-2",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2611/strata/9381",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2611"
+    },
+    {
+      "id": 9382,
+      "name": "Lower Columbia-3",
+      "abbreviation": "LC-3",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2611/strata/9382",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2611"
+    },
+    {
+      "id": 9383,
+      "name": "Lower Columbia-4-11",
+      "abbreviation": "LC-4+",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2611/strata/9383",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2611"
+    },
+    {
+      "id": 9384,
+      "name": "Mid Columbia-0",
+      "abbreviation": "MC-0",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2611/strata/9384",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2611"
+    },
+    {
+      "id": 9385,
+      "name": "Mid Columbia-1",
+      "abbreviation": "MC-1",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2611/strata/9385",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2611"
+    },
+    {
+      "id": 9386,
+      "name": "Mid Columbia-2",
+      "abbreviation": "MC-2",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2611/strata/9386",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2611"
+    },
+    {
+      "id": 9387,
+      "name": "Mid Columbia-3",
+      "abbreviation": "MC-3",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2611/strata/9387",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2611"
+    },
+    {
+      "id": 9388,
+      "name": "Mid Columbia-4-11",
+      "abbreviation": "MC-4+",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2611/strata/9388",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2611"
+    },
+    {
+      "id": 9389,
+      "name": "No Region-0",
+      "abbreviation": "NR-0",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2611/strata/9389",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2611"
+    },
+    {
+      "id": 9390,
+      "name": "No Region-1",
+      "abbreviation": "NR-1",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2611/strata/9390",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2611"
+    },
+    {
+      "id": 9391,
+      "name": "No Region-2",
+      "abbreviation": "NR-2",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2611/strata/9391",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2611"
+    },
+    {
+      "id": 9392,
+      "name": "No Region-3",
+      "abbreviation": "NR-3",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2611/strata/9392",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2611"
+    },
+    {
+      "id": 9393,
+      "name": "No Region-4-11",
+      "abbreviation": "NR-4+",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2611/strata/9393",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2611"
+    },
+    {
+      "id": 9394,
+      "name": "Northeast Washington-0",
+      "abbreviation": "NE-0",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2611/strata/9394",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2611"
+    },
+    {
+      "id": 9395,
+      "name": "Northeast Washington-1",
+      "abbreviation": "NE-1",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2611/strata/9395",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2611"
+    },
+    {
+      "id": 9396,
+      "name": "Northeast Washington-2",
+      "abbreviation": "NE-2",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2611/strata/9396",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2611"
+    },
+    {
+      "id": 9397,
+      "name": "Northeast Washington-3",
+      "abbreviation": "NE-3",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2611/strata/9397",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2611"
+    },
+    {
+      "id": 9398,
+      "name": "Northeast Washington-4-11",
+      "abbreviation": "NE-4+",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2611/strata/9398",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2611"
+    },
+    {
+      "id": 9399,
+      "name": "Puget Sound-0",
+      "abbreviation": "PS-0",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2611/strata/9399",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2611"
+    },
+    {
+      "id": 9400,
+      "name": "Puget Sound-1",
+      "abbreviation": "PS-1",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2611/strata/9400",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2611"
+    },
+    {
+      "id": 9401,
+      "name": "Puget Sound-2",
+      "abbreviation": "PS-2",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2611/strata/9401",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2611"
+    },
+    {
+      "id": 9402,
+      "name": "Puget Sound-3",
+      "abbreviation": "PS-3",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2611/strata/9402",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2611"
+    },
+    {
+      "id": 9403,
+      "name": "Puget Sound-4-11",
+      "abbreviation": "PS-4+",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2611/strata/9403",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2611"
+    },
+    {
+      "id": 9404,
+      "name": "Snake River-0",
+      "abbreviation": "SR-0",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2611/strata/9404",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2611"
+    },
+    {
+      "id": 9405,
+      "name": "Snake River-1",
+      "abbreviation": "SR-1",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2611/strata/9405",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2611"
+    },
+    {
+      "id": 9406,
+      "name": "Snake River-2",
+      "abbreviation": "SR-2",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2611/strata/9406",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2611"
+    },
+    {
+      "id": 9407,
+      "name": "Snake River-3",
+      "abbreviation": "SR-3",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2611/strata/9407",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2611"
+    },
+    {
+      "id": 9408,
+      "name": "Snake River-4-11",
+      "abbreviation": "SR-4+",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2611/strata/9408",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2611"
+    },
+    {
+      "id": 9409,
+      "name": "Upper Columbia-0",
+      "abbreviation": "UC-0",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2611/strata/9409",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2611"
+    },
+    {
+      "id": 9410,
+      "name": "Upper Columbia-1",
+      "abbreviation": "UC-1",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2611/strata/9410",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2611"
+    },
+    {
+      "id": 9411,
+      "name": "Upper Columbia-2",
+      "abbreviation": "UC-2",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2611/strata/9411",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2611"
+    },
+    {
+      "id": 9412,
+      "name": "Upper Columbia-3",
+      "abbreviation": "UC-3",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2611/strata/9412",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2611"
+    },
+    {
+      "id": 9413,
+      "name": "Upper Columbia-4-11",
+      "abbreviation": "UC-4+",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2611/strata/9413",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2611"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/2611/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/2611",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/2611/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/2611",
+  "masterSample": {
+    "name": "Washington Statewide Master Sample",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/3"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 2611,
+  "title": "Test Watershed Health and Salmon Recovery Study Design",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/2611",
+  "spatialDesignCategory": "Generalized Random Tessellation Stratified (GRTS)",
+  "spatialDesignCategoryID": 18,
+  "lastUpdated": "2017-03-16T21:15:00-07:00"
+}

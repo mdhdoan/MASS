@@ -1,0 +1,82 @@
+{
+  "description": "<p>Sample design for McKay Creek Fish Passage Impediment Surveys.&nbsp; Sample locations listed in the table and map represent the start of&nbsp;each&nbsp;survey reach.&nbsp; The bottom of the reach is denoted by the next sample location, or the mouth of the stream.&nbsp;</p>\r\n",
+  "startYear": "2021",
+  "retirementYear": "2024",
+  "initiationYear": "2021",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Craig Contor",
+  "ownerEmail": "craigcontor@ctuir.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 21510,
+      "name": "Panel 1",
+      "abbreviation": "Panel 1",
+      "years": [
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16619/panels/21510",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16619"
+    },
+    {
+      "id": 21511,
+      "name": "Panel 2",
+      "abbreviation": "Panel 2",
+      "years": [
+        "2022"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16619/panels/21511",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16619"
+    },
+    {
+      "id": 21512,
+      "name": "Panel 3",
+      "abbreviation": "Panel 3",
+      "years": [
+        "2023"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16619/panels/21512",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16619"
+    },
+    {
+      "id": 21513,
+      "name": "Panel 4",
+      "abbreviation": "Panel 4",
+      "years": [
+        "2024"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16619/panels/21513",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16619"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24221,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16619/strata/24221",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16619"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/19",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1762",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16619/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16619",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16619/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16619",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16614",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11517"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16619,
+  "title": "McKay Creek Fish Passage Impediment Survey",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16619",
+  "spatialDesignCategory": "Systematic, Non-Stratified",
+  "spatialDesignCategoryID": 4,
+  "lastUpdated": "2020-10-17T06:41:23-07:00"
+}

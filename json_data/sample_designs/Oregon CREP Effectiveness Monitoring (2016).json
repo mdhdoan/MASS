@@ -1,0 +1,59 @@
+{
+  "description": "<p>The Oregon Conservation Reserve Enhancement Program (CREP) is a cooperative venture between the Oregon Watershed Enhancement Board (OWEB) and the United States Department of Agriculture (USDA) in which enrolled landowners receive annual payments for conducting riparian restoration and livestock exclusion measures on their lands. The purpose of the program is to restore, maintain, and enhance&nbsp;streamside&nbsp;areas along agricultural lands to benefit fish, wildlife, and water quality. Landowners enrolled in&nbsp;CREP&nbsp;receive annual rental, incentive, and cost-share payments to implement conservation measures such as planting trees and shrubs, installing fencing and livestock watering facilities, and other approved conservation measures. Currently, approximately 41,000 acres of land are being conserved as a result of the nearly 1,600 contracts enacted to date. Given the overall investment in the program and the ongoing efforts to enroll additional landowners in&nbsp;CREP, it is critical to evaluate the program&rsquo;s success.</p>\r\n\r\n<p><span style=\"line-height:1.1875\">Stillwater Sciences has been contracted to develop and implement the&nbsp;</span>CREP<span style=\"line-height:1.1875\">&nbsp;Effectiveness Monitoring Project to evaluate the effect of conservation measures on riparian areas and fish and wildlife habitat. The results of this project evaluation will provide guidance on the development and implementation of future&nbsp;</span>CREP<span style=\"line-height:1.1875\">&nbsp;contracts. The project includes the development of a sampling methodology (henceforth cited as the sampling design) and field methods, development of a monitoring database, a two-phase data collection effort at treatment and control sites, an evaluation of the program success to date, and recommendations regarding the development and implementation of future&nbsp;</span>CREP<span style=\"line-height:1.1875\">&nbsp;contracts.</span></p>\r\n\r\n<p><span style=\"line-height:1.1875\">This sampling design is based on a preliminary assessment of the contracts and their&nbsp;</span>ecoregion<span style=\"line-height:1.1875\">, stream channel size as represented by contributing watershed area, and conservation practice. Stillwater Sciences worked with&nbsp;</span>OWEB<span style=\"line-height:1.1875\">&nbsp;and the&nbsp;</span>CREP<span style=\"line-height:1.1875\">&nbsp;Advisory Group in the initial project assessment, the preliminary review of proposed stratification, and the approach for selecting&nbsp;</span>CREP<span style=\"line-height:1.1875\">&nbsp;treatment sites (also known as &ldquo;contract sites&rdquo;) and control sites and collecting data.</span></p>\r\n\r\n<p><span style=\"line-height:1.1875\">This study design uses&nbsp;a stratified, randomized selection of sites. &nbsp;The selection and stratification was performed outside of the Monitoring Resources tool, and for these reasons, it is represented in Monitoring Resources as a non-stratified, non-panelized design. &nbsp;Consult the &quot;Documents&quot; section for additional documentation on the study design and selection process.</span></p>\r\n",
+  "startYear": "2016",
+  "retirementYear": "",
+  "initiationYear": "2016",
+  "targetPopulation": null,
+  "ownerName": "Amy Baur",
+  "ownerEmail": "baur@stillwatersci.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 7319,
+      "name": "2016",
+      "abbreviation": "2016",
+      "years": [
+        "2016"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15997/panels/7319",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15997"
+    }
+  ],
+  "strata": [
+    {
+      "id": 9269,
+      "name": "Control",
+      "abbreviation": "Control",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15997/strata/9269",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15997"
+    },
+    {
+      "id": 9270,
+      "name": "Treatment",
+      "abbreviation": "Treatment",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15997/strata/9270",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15997"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15997/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15997",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15997/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15997",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Oregon CREP Effectiveness Monitoring Sites (2016)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1082"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 15997,
+  "title": "Oregon CREP Effectiveness Monitoring (2016)",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15997",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2016-09-03T01:52:36-07:00"
+}

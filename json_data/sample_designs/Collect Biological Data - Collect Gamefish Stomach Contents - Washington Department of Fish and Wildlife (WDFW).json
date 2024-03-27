@@ -1,0 +1,52 @@
+{
+  "description": "No valid data",
+  "startYear": "2023",
+  "retirementYear": "2027",
+  "initiationYear": "2023",
+  "targetPopulation": null,
+  "ownerName": "Matt Polacek",
+  "ownerEmail": "polacmcp@dfw.wa.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 21954,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2023"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16610/panels/21954",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16610"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24452,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16610/strata/24452",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16610"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/876",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16610/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16610",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16610/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16610",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16610",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11516"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16610,
+  "title": "Collect Biological Data - Collect Gamefish Stomach Contents - Washington Department of Fish and Wildlife (WDFW)",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16610",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2022-06-22T01:56:49-07:00"
+}

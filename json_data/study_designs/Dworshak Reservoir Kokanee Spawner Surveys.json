@@ -1,0 +1,59 @@
+{
+  "backgroundRationale": "<p>An overall goal of the Dworshak Reservoir nutrient restoration project is to improve the efficiency of the foodweb, thereby increasing the size and abundance of&nbsp;kokanee&nbsp;in the reservoir to benefit the sport fishery and other resident fishes. In order to assess the effects of nutrient restoration on the abundance, size and fecundity of spawning&nbsp;kokanee, we examine a variety of metrics on an annual basis. Each fall, we conduct visual spawner counts for four index streams within three days of the historical peak of spawning activity. &nbsp;We also collect pre-spawn kokanee from these index streams to evaluate size and fecundity.</p>\r\n",
+  "sampleDesigns": [
+    {
+      "id": 9900,
+      "title": "Survey Kokanee spawners - Idaho Department of Fish and Game (IDFG)",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/9900",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": null
+    },
+    {
+      "id": 9901,
+      "title": "Analyze and interpret Kokanee spawner data - Idaho Department of Fish and Game (IDFG)",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/9901",
+      "spatialDesignCategory": "Inference",
+      "spatialDesignCategoryID": 16,
+      "lastUpdated": null
+    }
+  ],
+  "objectives": [
+    "Conduct spawner counts as an index of mature kokanee abundance.",
+    "Estimate mean length and weight of spawning Kokanee.",
+    "Estimate fecundity of spawning female Kokanee."
+  ],
+  "keyAssumptions": "<p>Trends in index streams are indicative of the watershed as a whole.</p>\r\n",
+  "dataHandlingConsiderations": "Data will be entered into standardized spreadsheets and databases.  Measures such as limiting the range of values that can be input or locking formulas will be used as appropriate. Data will be stored in multiple locations, including a network drive with a backup feature.",
+  "qualityControlConsiderations": "Data will be evaluated to make sure that values fall within expected ranges.",
+  "reportingConsiderations": "Progress reports will be prepared annually following the styles guideline for IDFG fisheries research reports. Manuscripts for peer reviewed journals will be prepared periodically following the style guidelines for the appropriate journal.",
+  "equipmentCleaningAndCalibration": "Waders and sampling equipment will be disinfected with Aquatic Virkon following spawner surveys.",
+  "rolesAndResponsibilities": "The technical lead will be responsible for planning and coordinating field surveys, oversee data collection and management, perform data analysis, and report results.  Crew members will be responsible for following data collection protocols and safety requirements.",
+  "qualifications": "The crew leader must have experience performing the particular survey.  Crew members must be able to follow data collection and safety protocols.  For spawner surveys, all crew members must be able to walk long distances over uneven, slippery terrain.",
+  "trainingRequirements": "On the job training will be provided for equipment and sampling techniques.  The technical lead should periodically attend workshops to stay current on sampling and analysis techniques.",
+  "safetyConsiderations": "Safety will be discussed with the crew prior to surveying, including appropriate responses to particular emergency situations.  Each surveyor, or team of surveyors, will carry a GPS and two-way radio.",
+  "fieldScheduleNotes": null,
+  "budgetConsiderations": null,
+  "monitoringPurpose": null,
+  "estimatedCostPerSite": "$1,000 to $2,500",
+  "optionalMethodIDs": [],
+  "optionalMethods": [],
+  "id": 1147,
+  "name": "Dworshak Reservoir Kokanee Spawner Surveys",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/studyDesigns/1147",
+  "programID": null,
+  "programUrl": "[none]",
+  "protocolID": 2016,
+  "protocolUrl": "http://www.monitoringresources.org/api/v1/protocols/2016",
+  "ownerName": "Sean Wilson",
+  "ownerEmail": "sean.wilson@idfg.idaho.gov",
+  "majorVersion": 1,
+  "minorVersion": 0,
+  "previousStudyDesignVersionId": null,
+  "previousStudyDesignVersionUrl": "[none]",
+  "mostRecentVersionId": null,
+  "mostRecentVersionUrl": "[none]"
+}

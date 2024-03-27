@@ -1,0 +1,61 @@
+{
+  "description": "<p>We are currently using this sampling design to monitor spring/summer chinook supplementation efforts in Johnson Creek, ID (Salmon River basin). The study is a multi-generational examination of individual productivity and relative reproductive success between natural-origin and hatchery-origin fish that spawn naturally. All natural-origin&nbsp;(NOR) adults that are intercepted at the Johnson Creek weir (operated by the Nez Perce Tribe)&nbsp;during study years&nbsp;are genetically sampled. All hatchery-origin (HOR) adults that were intercepted at the weir during relevant brood years are also sampled for genotyping. Juvenile samples from the smolt trap may also be included in genotyping and analysis to evaluate reproductive success given different progeny life stages.&nbsp;</p>\r\n\r\n<p>Tissue sampling is part of program monitoring protocols implemented by managers (the Nez Perce Tribe). Genotyping of these samples began in 1998, and CRITFC scientists have assisted with various aspects of the data generation and analysis process since that time.&nbsp;</p>\r\n",
+  "startYear": "1998",
+  "retirementYear": "2030",
+  "initiationYear": "1998",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Hayley Nuetzel",
+  "ownerEmail": "hnuetzel@critfc.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 21999,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "1998"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16838/panels/21999",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16838"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24493,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16838/strata/24493",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16838"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/647",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16838/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16838",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16838/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16838",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 386 (12878)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/8536"
+    },
+    {
+      "name": "BPA Sample for Study Design Relative Reproductive Success (RRS) (2009-009-00) WSE 74780 (6426)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/8695"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "47.027946,-120.629486"
+    }
+  ],
+  "id": 16838,
+  "title": "Sampling of spring chinook salmon to monitor supplementation program (Johnson Creek)",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16838",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2023-01-19T04:45:17-08:00"
+}

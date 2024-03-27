@@ -1,0 +1,41 @@
+{
+  "description": "<p>This sampling design is an opportunitstic design focused on habitat surveys within the CTWS&#39; properties in the John Day Basin.</p>\r\n",
+  "startYear": "1992",
+  "retirementYear": "2017",
+  "initiationYear": "1992",
+  "targetPopulation": null,
+  "ownerName": "Joe Lemanski",
+  "ownerEmail": "joe.lemanski@ctwsbnr.org",
+  "images": [],
+  "panels": [],
+  "strata": [],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/52",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1671",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16270/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16270",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16270/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16270",
+  "masterSample": null,
+  "userSamples": null,
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC5 - Watershed",
+      "areaDisplayName": "Camp Creek-Middle Fork John Day River"
+    },
+    {
+      "areaTypeName": "Bull Trout Critical Habitat - Stream",
+      "areaDisplayName": "Middle Fork John Day River"
+    },
+    {
+      "areaTypeName": "HUC5 - Watershed",
+      "areaDisplayName": "Reynolds Creek-John Day River"
+    }
+  ],
+  "id": 16270,
+  "title": "CTWS John Day Basin Properties Aquatic Inventories Surveys",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16270",
+  "spatialDesignCategory": "Inference",
+  "spatialDesignCategoryID": 16,
+  "lastUpdated": "2019-01-15T05:00:46-08:00"
+}

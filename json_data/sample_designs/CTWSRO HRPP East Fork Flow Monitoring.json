@@ -1,0 +1,52 @@
+{
+  "description": "<p>Monitor flows at the Bypass Reach of the East Fork Hood River during irrigation season.</p>\r\n",
+  "startYear": "2021",
+  "retirementYear": "2027",
+  "initiationYear": "2021",
+  "targetPopulation": null,
+  "ownerName": "Patrick Hayden",
+  "ownerEmail": "patrick.hayden@ctwsbnr.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 21841,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16770/panels/21841",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16770"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24395,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16770/strata/24395",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16770"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/52",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1819",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16770/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16770",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16770/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16770",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16770",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11561"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16770,
+  "title": "CTWSRO HRPP East Fork Flow Monitoring",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16770",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2021-12-28T06:22:38-08:00"
+}

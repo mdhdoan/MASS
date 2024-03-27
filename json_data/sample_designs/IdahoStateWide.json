@@ -1,0 +1,64 @@
+{
+  "description": "No valid data",
+  "startYear": "2016",
+  "retirementYear": "",
+  "initiationYear": "2016",
+  "targetPopulation": "<p>BLM perennial streams and rivers throughout ID</p>\r\n",
+  "ownerName": "Scott Miller",
+  "ownerEmail": "scott.miller@usu.edu",
+  "images": [],
+  "panels": [
+    {
+      "id": 7015,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2016"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15975/panels/7015",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15975"
+    }
+  ],
+  "strata": [
+    {
+      "id": 8877,
+      "name": "Large Streams (3&4)",
+      "abbreviation": "S1",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15975/strata/8877",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15975"
+    },
+    {
+      "id": 8878,
+      "name": "Rivers (5+)",
+      "abbreviation": "S2",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15975/strata/8878",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15975"
+    },
+    {
+      "id": 8879,
+      "name": "Small Streams (1&2)",
+      "abbreviation": "S0",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15975/strata/8879",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15975"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/78",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1335",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15975/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15975",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15975/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15975",
+  "masterSample": {
+    "name": "Bureau of Land Management Lotic",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/8"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 15975,
+  "title": "IdahoStateWide",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15975",
+  "spatialDesignCategory": "Generalized Random Tessellation Stratified (GRTS)",
+  "spatialDesignCategoryID": 18,
+  "lastUpdated": "2016-04-28T04:21:31-07:00"
+}

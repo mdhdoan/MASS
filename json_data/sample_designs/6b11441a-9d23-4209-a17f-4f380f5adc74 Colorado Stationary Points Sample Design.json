@@ -1,0 +1,50 @@
+{
+  "description": "No valid data",
+  "startYear": "2017",
+  "retirementYear": "2017",
+  "initiationYear": "2017",
+  "targetPopulation": null,
+  "ownerName": "Jeremy Siemers",
+  "ownerEmail": "jeremy.siemers@colostate.edu",
+  "images": [],
+  "panels": [
+    {
+      "id": 19252,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16143/panels/19252",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16143"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21667,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16143/strata/21667",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16143"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/80",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1496",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16143/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16143",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16143/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16143",
+  "masterSample": {
+    "name": "Continental United States 10 KM Grid",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/10"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 16143,
+  "title": "6b11441a-9d23-4209-a17f-4f380f5adc74 Colorado Stationary Points Sample Design",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16143",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": null
+}

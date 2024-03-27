@@ -1,0 +1,89 @@
+{
+  "description": "No valid data",
+  "startYear": "2016",
+  "retirementYear": "2022",
+  "initiationYear": "2016",
+  "targetPopulation": null,
+  "ownerName": "Brent Nichols",
+  "ownerEmail": "bnichols@spokanetribe.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 19751,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2016"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16350/panels/19751",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16350"
+    }
+  ],
+  "strata": [
+    {
+      "id": 22858,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16350/strata/22858",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16350"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/27",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/863",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16350/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16350",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16350/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16350",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design Lake Roosevelt Fisheries Evaluation Program\u2019s Annual Monitoring (1994-043-00) WSE 115493 (8437)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/10617"
+    },
+    {
+      "name": "Sample for Design #16345",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11382"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "NPPC Subbasins",
+      "areaDisplayName": "COLUMBIA UPPER"
+    },
+    {
+      "areaTypeName": "NPPC Provinces",
+      "areaDisplayName": "INTERMOUNTAIN"
+    },
+    {
+      "areaTypeName": "HUC4 - Sub Basin",
+      "areaDisplayName": " FRANKLIN D. ROOSEVELT LAKE"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Spokane River"
+    },
+    {
+      "areaTypeName": "HUC4 - Sub Basin",
+      "areaDisplayName": " LOWER SPOKANE"
+    },
+    {
+      "areaTypeName": "NPPC Subbasins",
+      "areaDisplayName": "SPOKANE"
+    },
+    {
+      "areaTypeName": "HUC3 - Basin",
+      "areaDisplayName": "Spokane"
+    },
+    {
+      "areaTypeName": "Tribal Boundary",
+      "areaDisplayName": "Spokane"
+    }
+  ],
+  "id": 16350,
+  "title": "Conduct Lake Roosevelt Northern Pike Relative Abundance and Targeted Gillnetting (ALL) - Spokane Tribe 1",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16350",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2019-05-24T04:51:31-07:00"
+}

@@ -1,0 +1,57 @@
+{
+  "description": "No valid data",
+  "startYear": "2019",
+  "retirementYear": "2025",
+  "initiationYear": "2019",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Jon Firehammer",
+  "ownerEmail": "jfirehammer@cdatribe-nsn.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 20085,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16472/panels/20085",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16472"
+    }
+  ],
+  "strata": [
+    {
+      "id": 23014,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16472/strata/23014",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16472"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/70",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/855",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16472/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16472",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16472/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16472",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16273",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11352"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC6 - Sub Watershed",
+      "areaDisplayName": "Lake Creek"
+    }
+  ],
+  "id": 16472,
+  "title": "2019 Electrofishing reaches in two subbasins of Lake Creek watershed",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16472",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2020-01-30T06:26:27-08:00"
+}

@@ -1,0 +1,79 @@
+{
+  "description": "No valid data",
+  "startYear": "2019",
+  "retirementYear": "",
+  "initiationYear": "2019",
+  "targetPopulation": "<p>streams</p>\r\n",
+  "ownerName": "Scott Miller",
+  "ownerEmail": "scott.miller@usu.edu",
+  "images": [],
+  "panels": [
+    {
+      "id": 8885,
+      "name": "2019",
+      "abbreviation": "2019",
+      "years": [
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2672/panels/8885",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2672"
+    },
+    {
+      "id": 8886,
+      "name": "2020",
+      "abbreviation": "2020",
+      "years": [
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2672/panels/8886",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2672"
+    }
+  ],
+  "strata": [
+    {
+      "id": 11317,
+      "name": "Large Streams (3&4)",
+      "abbreviation": "S0",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2672/strata/11317",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2672"
+    },
+    {
+      "id": 11318,
+      "name": "Rivers (5+)",
+      "abbreviation": "S1",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2672/strata/11318",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2672"
+    },
+    {
+      "id": 11319,
+      "name": "Small Streams (1&2)",
+      "abbreviation": "S2",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2672/strata/11319",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2672"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/78",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1335",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/2672/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/2672",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/2672/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/2672",
+  "masterSample": {
+    "name": "Bureau of Land Management Lotic",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/8"
+  },
+  "userSamples": [
+    {
+      "name": "Rawlins T3",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1114"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 2672,
+  "title": "RawinsUserTest3",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/2672",
+  "spatialDesignCategory": "Generalized Random Tessellation Stratified (GRTS)",
+  "spatialDesignCategoryID": 18,
+  "lastUpdated": "2017-10-27T03:12:22-07:00"
+}

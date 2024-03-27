@@ -1,0 +1,65 @@
+{
+  "description": "<p>Test #1 description</p>\r\n",
+  "startYear": "2019",
+  "retirementYear": "2024",
+  "initiationYear": "2019",
+  "targetPopulation": null,
+  "ownerName": "Trainee User",
+  "ownerEmail": "samuel.anthony.cimino@gmail.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 19735,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16340/panels/19735",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16340"
+    }
+  ],
+  "strata": [
+    {
+      "id": 22808,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16340/strata/22808",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16340"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/81",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1696",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16340/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16340",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16340/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16340",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Lower Columbia",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/5"
+    },
+    {
+      "name": "Sample for Design #16340",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11377"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.174215, -121.718598"
+    },
+    {
+      "areaTypeName": "Rivers - Streams 24k",
+      "areaDisplayName": "Oak Grove Fork Clackamas River"
+    }
+  ],
+  "id": 16340,
+  "title": "Task #1 test Sample Design Ewann Berntson",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16340",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2019-04-25T04:21:13-07:00"
+}

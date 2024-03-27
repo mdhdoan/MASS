@@ -1,0 +1,57 @@
+{
+  "description": "No valid data",
+  "startYear": "2012",
+  "retirementYear": "2025",
+  "initiationYear": "2017",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Jeffrey Fryer",
+  "ownerEmail": "fryj@critfc.org",
+  "images": [],
+  "panels": [],
+  "strata": [],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1741",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16530/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16530",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16530/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16530",
+  "masterSample": null,
+  "userSamples": null,
+  "areasOfInferences": [
+    {
+      "areaTypeName": "NPPC Subbasins",
+      "areaDisplayName": "SALMON"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "49.027514, -119.454346"
+    },
+    {
+      "areaTypeName": "HUC6 - Sub Watershed",
+      "areaDisplayName": "Lake Wenatchee"
+    },
+    {
+      "areaTypeName": "HUC4 - Sub Basin",
+      "areaDisplayName": "OKANOGAN"
+    },
+    {
+      "areaTypeName": "NPPC Subbasins",
+      "areaDisplayName": "OKANOGAN"
+    },
+    {
+      "areaTypeName": "HUC4 - Sub Basin",
+      "areaDisplayName": "WENATCHEE"
+    },
+    {
+      "areaTypeName": "NPPC Subbasins",
+      "areaDisplayName": "WENATCHEE"
+    }
+  ],
+  "id": 16530,
+  "title": "Adult Sockeye migration mortality and timing ( PIT tag data) - Columbia River Inter-Tribal Fish Commission (CRITFC), cloned for Study Design 510",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16530",
+  "spatialDesignCategory": "Inference",
+  "spatialDesignCategoryID": 16,
+  "lastUpdated": "2020-03-18T00:05:23-07:00"
+}

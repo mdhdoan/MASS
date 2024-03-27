@@ -1,0 +1,52 @@
+{
+  "description": "<p>Monitor stream flow at 24&nbsp;gauge stations&nbsp;within the Walla Walla Watershed.&nbsp;</p>\r\n",
+  "startYear": "2021",
+  "retirementYear": "",
+  "initiationYear": "2021",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Tara Patten",
+  "ownerEmail": "tara.patten@wwbwc.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 21876,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16779/panels/21876",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16779"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24418,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16779/strata/24418",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16779"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1074",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16779/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16779",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16779/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16779",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16779",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11567"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16779,
+  "title": "Collect Surface Flow Data, WWBWC, Study Plan 1074",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16779",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2022-01-27T05:12:52-08:00"
+}

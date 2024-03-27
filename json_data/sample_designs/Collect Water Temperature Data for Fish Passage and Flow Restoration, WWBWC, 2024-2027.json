@@ -1,0 +1,52 @@
+{
+  "description": "<p>Document seasonal water temperature in the Walla Walla River and its tributaries.</p>\r\n",
+  "startYear": "2023",
+  "retirementYear": "2027",
+  "initiationYear": "2023",
+  "targetPopulation": "COPY: COPY: COPY: ",
+  "ownerName": "Luke Adams",
+  "ownerEmail": "luke.adams@wwbwc.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 22178,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2023"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16892/panels/22178",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16892"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24558,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16892/strata/24558",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16892"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/94",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1752",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16892/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16892",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16892/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16892",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16780",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11568"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16892,
+  "title": "Collect Water Temperature Data for Fish Passage and Flow Restoration, WWBWC, 2024-2027",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16892",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2023-06-16T01:57:53-07:00"
+}

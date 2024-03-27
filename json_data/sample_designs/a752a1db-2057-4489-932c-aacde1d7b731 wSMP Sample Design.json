@@ -1,0 +1,50 @@
+{
+  "description": "No valid data",
+  "startYear": "2017",
+  "retirementYear": "2017",
+  "initiationYear": "2017",
+  "targetPopulation": null,
+  "ownerName": "Ted Weller",
+  "ownerEmail": "tweller@fs.fed.us",
+  "images": [],
+  "panels": [
+    {
+      "id": 19448,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15788/panels/19448",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15788"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21854,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15788/strata/21854",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15788"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/80",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1602",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15788/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15788",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15788/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15788",
+  "masterSample": {
+    "name": "Continental United States 10 KM Grid",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/10"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 15788,
+  "title": "a752a1db-2057-4489-932c-aacde1d7b731 wSMP Sample Design",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15788",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": "2018-08-02T05:00:08-07:00"
+}

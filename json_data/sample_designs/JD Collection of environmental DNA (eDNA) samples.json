@@ -1,0 +1,57 @@
+{
+  "description": "No valid data",
+  "startYear": "2020",
+  "retirementYear": "",
+  "initiationYear": "2020",
+  "targetPopulation": null,
+  "ownerName": "Andy Johnsen",
+  "ownerEmail": "andy.johnsen@ctwsbnr.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 19758,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16354/panels/19758",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16354"
+    }
+  ],
+  "strata": [
+    {
+      "id": 22864,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16354/strata/22864",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16354"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/67",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1239",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16354/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16354",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16354/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16354",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16354",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11389"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC4 - Sub Basin",
+      "areaDisplayName": " UPPER JOHN DAY"
+    }
+  ],
+  "id": 16354,
+  "title": "JD: Collection of environmental DNA (eDNA) samples",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16354",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2019-06-27T00:45:47-07:00"
+}

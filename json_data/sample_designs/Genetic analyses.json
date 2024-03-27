@@ -1,0 +1,33 @@
+{
+  "description": "<p>Previously collected tissue samples&nbsp;from subyearling Chinook salmon in Hells Canyon on the Snake River will be analyzed to determine whether fish are of the fall run or spring/summer run.</p>\r\n",
+  "startYear": "1991",
+  "retirementYear": "",
+  "initiationYear": "1991",
+  "targetPopulation": null,
+  "ownerName": "Kenneth Tiffan",
+  "ownerEmail": "ktiffan@usgs.gov",
+  "images": [],
+  "panels": [],
+  "strata": [],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/85",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1530",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15703/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15703",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15703/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15703",
+  "masterSample": null,
+  "userSamples": null,
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Chinook Fall Interior Columbia Pop. Bound",
+      "areaDisplayName": "Snake River Lower Mainstem"
+    }
+  ],
+  "id": 15703,
+  "title": "Genetic analyses",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15703",
+  "spatialDesignCategory": "Inference",
+  "spatialDesignCategoryID": 16,
+  "lastUpdated": "2018-05-30T20:44:00-07:00"
+}

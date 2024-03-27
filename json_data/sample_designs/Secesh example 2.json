@@ -1,0 +1,107 @@
+{
+  "description": "No valid data",
+  "startYear": "2012",
+  "retirementYear": "",
+  "initiationYear": "2012",
+  "targetPopulation": null,
+  "ownerName": "Phil Larsen",
+  "ownerEmail": "larsen.phil@epa.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 70,
+      "name": "annual",
+      "abbreviation": "A",
+      "years": [
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/32/panels/70",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/32"
+    },
+    {
+      "id": 71,
+      "name": "rotating 1",
+      "abbreviation": "RP1",
+      "years": [
+        "2012",
+        "2015",
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/32/panels/71",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/32"
+    },
+    {
+      "id": 72,
+      "name": "rotating 2",
+      "abbreviation": "RP2",
+      "years": [
+        "2013",
+        "2016",
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/32/panels/72",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/32"
+    },
+    {
+      "id": 73,
+      "name": "rotating 3",
+      "abbreviation": "RP3",
+      "years": [
+        "2017",
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/32/panels/73",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/32"
+    }
+  ],
+  "strata": [
+    {
+      "id": 320,
+      "name": "Depositional",
+      "abbreviation": "d",
+      "url": "http://www.monitoringresources.org/api/v1/designs/32/strata/320",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/32"
+    },
+    {
+      "id": 321,
+      "name": "Source",
+      "abbreviation": "s",
+      "url": "http://www.monitoringresources.org/api/v1/designs/32/strata/321",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/32"
+    },
+    {
+      "id": 322,
+      "name": "Transport",
+      "abbreviation": "t",
+      "url": "http://www.monitoringresources.org/api/v1/designs/32/strata/322",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/32"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/32/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/32",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/32/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/32",
+  "masterSample": {
+    "name": "Columbia Basin Master Sample",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/1"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 32,
+  "title": "Secesh example 2",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/32",
+  "spatialDesignCategory": "Generalized Random Tessellation Stratified (GRTS)",
+  "spatialDesignCategoryID": 18,
+  "lastUpdated": "2013-03-22T02:59:28-07:00"
+}

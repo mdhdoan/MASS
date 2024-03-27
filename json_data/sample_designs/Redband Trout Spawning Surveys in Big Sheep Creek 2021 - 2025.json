@@ -1,0 +1,61 @@
+{
+  "description": "<p>Redband Trout spawning ground surveys will be conducted at Big Sheep Creek following methods described by Gallagher et al. (2007) and <a href=\"https://www.monitoringresources.org/Document/Method/Details/131\">Monitoring Resources Method ID 131</a>. Spawning ground surveys were scheduled to be conducted on a weekly basis on an Index reach from&nbsp;the mouth to PIT Tag Interrogation System and an Extensive Reach extending from the&nbsp;PIT Tag Interrogation System on Big Sheep Creek to the Log Cabin&nbsp;to assess spawn timing, spawning distribution, and estimate spawner escapement beginning in March and continued until spawning concluded in June. Surveys were conducted on foot in an upstream direction. Redds were identified as areas of gravel disturbance with a distinguishable pit and tailspill area. Each redd was marked with colored flagging hung on nearby vegetation and redd descriptions were recorded, including length, width, presence of fish, and GPS coordinates.</p>\r\n",
+  "startYear": "2021",
+  "retirementYear": "2025",
+  "initiationYear": "2021",
+  "targetPopulation": "COPY: COPY: ",
+  "ownerName": "Nicholas Albrecht",
+  "ownerEmail": "nicholas.albrecht@dfw.wa.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 22344,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16967/panels/22344",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16967"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24628,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16967/strata/24628",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16967"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/64",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1830",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16967/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16967",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16967/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16967",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16798",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11579"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC3 - Basin",
+      "areaDisplayName": "Upper Columbia"
+    },
+    {
+      "areaTypeName": "HUC4 - Sub Basin",
+      "areaDisplayName": "Franklin D"
+    }
+  ],
+  "id": 16967,
+  "title": "Redband Trout Spawning Surveys in Big Sheep Creek 2021 - 2025",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16967",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2023-10-14T00:02:27-07:00"
+}

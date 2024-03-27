@@ -1,0 +1,95 @@
+{
+  "description": "No valid data",
+  "startYear": "2016",
+  "retirementYear": "",
+  "initiationYear": "2016",
+  "targetPopulation": "<p>Perennial streams and rivers in the Spokane District, WA</p>\r\n",
+  "ownerName": "Scott Miller",
+  "ownerEmail": "scott.miller@usu.edu",
+  "images": [],
+  "panels": [
+    {
+      "id": 6966,
+      "name": "Yea",
+      "abbreviation": "Yr2",
+      "years": [
+        "2016"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2531/panels/6966",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2531"
+    },
+    {
+      "id": 6965,
+      "name": "Year 1",
+      "abbreviation": "Yr1",
+      "years": [
+        "2016"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2531/panels/6965",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2531"
+    }
+  ],
+  "strata": [
+    {
+      "id": 8642,
+      "name": "SPOKANE BORDER FIELD OFFICE-Large Streams (3&4)",
+      "abbreviation": "S0",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2531/strata/8642",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2531"
+    },
+    {
+      "id": 8643,
+      "name": "SPOKANE BORDER FIELD OFFICE-Rivers (5+)",
+      "abbreviation": "S1",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2531/strata/8643",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2531"
+    },
+    {
+      "id": 8644,
+      "name": "SPOKANE BORDER FIELD OFFICE-Small Streams (1&2)",
+      "abbreviation": "S2",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2531/strata/8644",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2531"
+    },
+    {
+      "id": 8645,
+      "name": "SPOKANE WENATCHEE FIELD OFFICE-Large Streams (3&4)",
+      "abbreviation": "S3",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2531/strata/8645",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2531"
+    },
+    {
+      "id": 8646,
+      "name": "SPOKANE WENATCHEE FIELD OFFICE-Rivers (5+)",
+      "abbreviation": "S4",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2531/strata/8646",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2531"
+    },
+    {
+      "id": 8647,
+      "name": "SPOKANE WENATCHEE FIELD OFFICE-Small Streams (1&2)",
+      "abbreviation": "S5",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2531/strata/8647",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2531"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/78",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1335",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/2531/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/2531",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/2531/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/2531",
+  "masterSample": {
+    "name": "Bureau of Land Management Lotic",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/8"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 2531,
+  "title": "SpokaneFinal",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/2531",
+  "spatialDesignCategory": "Generalized Random Tessellation Stratified (GRTS)",
+  "spatialDesignCategoryID": 18,
+  "lastUpdated": "2017-10-03T05:53:55-07:00"
+}

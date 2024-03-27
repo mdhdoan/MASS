@@ -1,0 +1,52 @@
+{
+  "description": "<div>The objective of the Aquatic Habitat Condition Assessment and Fish Population Monitoring&nbsp;project is to provide an inventory of habitat conditions, establish a baseline for impact analyses,&nbsp;and to document fish distribution and relative abundance in the Clear Creek watershed on the Nez&nbsp;Perce-Clearwater National Forest near Kooskia, Idaho. Results from the assessment will serve as&nbsp;a reference point for comparison with future surveys to evaluate habitat conditions and processes,&nbsp;water quality parameters, and population changes over time as a result of resource management in&nbsp;the basin. Of particular importance is the current spatial distribution and relative abundance of</div>\r\n\r\n<div>salmonid species in the basin. The location of quality habitat for steelhead and salmon spawning&nbsp;and rearing, the overall importance of the drainage for these species, and the existence of&nbsp;upstream barriers will inform resource management decisions within the watershed.</div>\r\n",
+  "startYear": "2015",
+  "retirementYear": "",
+  "initiationYear": "2015",
+  "targetPopulation": null,
+  "ownerName": "Keith Steele",
+  "ownerEmail": "keith@sitkatech.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 6795,
+      "name": "Annual",
+      "abbreviation": "A",
+      "years": [
+        "2015"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15939/panels/6795",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15939"
+    }
+  ],
+  "strata": [
+    {
+      "id": 8027,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15939/strata/8027",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15939"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15939/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15939",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15939/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15939",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Clear Creek Aquatic Habitat Condition Assessment, Reach Level (2015)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1065"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 15939,
+  "title": "Clear Creek Aquatic Habitat Condition Assessment Reaches",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15939",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": "2015-08-13T04:17:24-07:00"
+}

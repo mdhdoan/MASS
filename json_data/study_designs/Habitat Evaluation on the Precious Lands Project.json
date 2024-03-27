@@ -1,0 +1,50 @@
+{
+  "backgroundRationale": "<p>Under the Northwest Power Planning Act, the Bonneville Power Administration was mandated to mitigate for wildlife habitat losses. In order to do that BPA must be able to measure the amount and quality of habitat lost and gained through their activities, including the Precious Lands project. The accounting system adopted by BPA is a habitat modeling strategy known as a Habitat Evaluation Procedure (HEP) developed by the U.S. Fish and Wildlife Service. This procedure uses models to measure the quality of a specific habitat for target wildlife species. The models are based on key habitat parameters (ex. shrub height, snag density, or distance to water) and provide a measure of the habitat quality for that particular species. One product of HEP is a quantitative evaluation of habitat quality that is provided in terms of a Habitat Unit (HU). One acre of optimum habitat equals one HU. This HU accounting system is used to determine the amount of credit BPA receives for the land being protected.</p>\r\n\r\n<p>While HSI models were initially used to evaluate the baseline condition of the Precious Lands Area, long-term monitoring will be conducted based on HEP data collection procedures, but not limited to particular wildlife variables. For example, percent microbiotic crust cover and percent bare ground are recorded for microplots in grasslands while the number of woody debris &gt;4&quot; diameter is recorded for transects in riparian and conifer cover types. Surveys will be used to assess long-term trends in plant community health, weedy encroachment, limiting factors for wildlife and identify/monitor areas of habitat degradation.</p>\r\n",
+  "sampleDesigns": [
+    {
+      "id": 9939,
+      "title": "Vegetation/Habitat Monitoring - Nez Perce Tribe",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/9939",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": null
+    }
+  ],
+  "objectives": [
+    "Develop trend data for plant community health and weed encroachment from long term monitoring of HEP transects.",
+    "Determine limiting factors for wildlife.",
+    "Identify and monitor areas of habitat degradation."
+  ],
+  "keyAssumptions": "<p>1. Personnel will be properly trained in HEP monitoring as well as identification of local flora.</p>\r\n\r\n<p>2. Transects, when revisited, will be run at the same time of year and phenological stage of the indicator plants as&nbsp;the baseline transects.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "dataHandlingConsiderations": "Data are collected and recorded in the field by hand using paper data forms and pencil. We use write-in-the-rain paper to ensure legibility. Field data is stored in house as hard copies and all data are tranferred to computer spreadsheets and copied to the tribe's server for backup purposes.",
+  "qualityControlConsiderations": "100' measuring tape should be run as close to the original line/azimuth as possible to ensure measurement of the same area. Ideally, transects should be measured and data analyzed by the same person to eliminate any bias",
+  "reportingConsiderations": "Four letter codes for the shrub and tree components must follow standardized formats.",
+  "equipmentCleaningAndCalibration": "Densitometer needs cleaned after each HEP transect. 0.5 m2 microplot needs repainted after all HEPs are completed for the season.",
+  "rolesAndResponsibilities": "A biologist and an assistant to help run measuring tape and record data.",
+  "qualifications": "Key personnel must be trained in HEP techniques and proficient at identifying local flora.",
+  "trainingRequirements": "Training in Botany; HEP training courses for all personnel. ",
+  "safetyConsiderations": "Terrain and access issues are routinely encountered in the project area. Wilderness first aid certification is required. A satellite phone is necessary for safety in case of injury or other emergencies encountered in remote canyon grasslands.",
+  "fieldScheduleNotes": "HEP plots average three to four plots a year starting in mid June and running into September, due to the proximity of sites coupled with the remoteness of the area.",
+  "budgetConsiderations": "There are many specialized equipment needs for this project (see equipment list) as well as a satellite phone. Some sites require use of ATVs. Sites are located so far apart, travel costs increase and personnel may need to stay overnight which will incur costs (tents, camp equipment, travel trailers, motel rooms and food). Anybody performing HEP must be trained at a cost including any refresher training.  ",
+  "monitoringPurpose": null,
+  "estimatedCostPerSite": "< $1,000",
+  "optionalMethodIDs": [],
+  "optionalMethods": [],
+  "id": 1179,
+  "name": "Habitat Evaluation on the Precious Lands Project",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/studyDesigns/1179",
+  "programID": null,
+  "programUrl": "[none]",
+  "protocolID": 2056,
+  "protocolUrl": "http://www.monitoringresources.org/api/v1/protocols/2056",
+  "ownerName": "Blair McClarin",
+  "ownerEmail": "blairm@nezperce.org",
+  "majorVersion": 1,
+  "minorVersion": 0,
+  "previousStudyDesignVersionId": null,
+  "previousStudyDesignVersionUrl": "[none]",
+  "mostRecentVersionId": null,
+  "mostRecentVersionUrl": "[none]"
+}

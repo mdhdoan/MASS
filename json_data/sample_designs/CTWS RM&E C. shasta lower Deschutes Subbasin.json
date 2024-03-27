@@ -1,0 +1,57 @@
+{
+  "description": "<p><strong>Warm Springs River</strong></p>\r\n\r\n<p>Water samples from six focus sites (Deschutes R. at mouth WSR; downstream WSNFH, WSR canyon, mouth Beaver Creek, upper WSR in spawning reach) and two less-frequently sampled sites (mouth Mill Ck. and mouth Badger Ck) will be collected bi-weekly (focus sites) or monthly (Mill and Badger creeks) from July through September 2017 and March through June 2018 (Objective 1).&nbsp;</p>\r\n\r\n<p><strong>Deschutes River</strong></p>\r\n\r\n<p>Water samples will be collected at nine sites from the town of Bend to Heritage Landing at the mouth of the Deschutes River.&nbsp; Many of the sites are named for the stream for which is converging with the Deschutes River but all nine samples will be collected within the Deschutes River.&nbsp; Two of the nine sites will be index sites with weekly or biweekly samples collected but also collected at the same time as longitudinal samples.&nbsp; These include Oak Springs, which will be sampled weekly, and Pelton, which will be sampled bi-weekly.&nbsp; In addition, during longitudinal sampling, water samples will be collected upstream and downstream of the mouth of the Deschutes for reference.&nbsp; All sites making up the longitudinal profile of C. shasta in the Deschutes River, plus reference sites outside the mouth, will be sampled once in the spring and once in the summer 2017.&nbsp; At each sampling location, quadruplicate samples are collected and the spores of <em>C. shasta</em> per liter reported as an average for the site.&nbsp; For each sample site and subsample, one-third are genotyped.&nbsp; The method for which water samples are collected, C. shasta spores are quantified and genotyped are as follows:</p>\r\n\r\n<p><strong>Sample collection and processing</strong></p>\r\n\r\n<p>At a given site, four one-liter water samples are collected in knee-deep water.&nbsp; Water temperature, day, time is recorded.&nbsp; Water samples are kept on ice until filtered at the office.&nbsp; Samples are filtered by vacuum pump (400 psi) using Millipore MF filters (5.0mm).&nbsp; Filters will be folded using forceps and inserted into 2.0ml microfuge tubes, which will be frozen until analyzed.&nbsp; Filters will be analyzed by quantitative polymerase chain reaction (PCRq) for C. shasta spore densities (Hallet and Bartholowmew 2006, Hallet et al. 2012).&nbsp; For every one out of three samples DNA will be extracted, amplified and genotyped by PCR assay (Atkinson and Bartholomew 2010).</p>\r\n",
+  "startYear": "2018",
+  "retirementYear": "",
+  "initiationYear": "2018",
+  "targetPopulation": null,
+  "ownerName": "Cyndi Baker",
+  "ownerEmail": "cyndi.baker@ctwsbnr.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 19156,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15649/panels/19156",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15649"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21595,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15649/strata/21595",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15649"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/35",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1321",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15649/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15649",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15649/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15649",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "CTWS RM&E C. shasta sample sites",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11264"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC4 - Sub Basin",
+      "areaDisplayName": "LOWER DESCHUTES"
+    }
+  ],
+  "id": 15649,
+  "title": "CTWS RM&E C. shasta lower Deschutes Subbasin",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15649",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2018-04-06T04:27:31-07:00"
+}

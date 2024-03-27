@@ -1,0 +1,52 @@
+{
+  "description": "<p>Assess spatial and temporal trends in water temperatures of the the Kootenai River downstream of Libby Dam.</p>\r\n",
+  "startYear": "2021",
+  "retirementYear": "2030",
+  "initiationYear": "2021",
+  "targetPopulation": null,
+  "ownerName": "Ryan Sylvester",
+  "ownerEmail": "rsylvester@mt.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 22013,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16782/panels/22013",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16782"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24505,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16782/strata/24505",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16782"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/92",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/984",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16782/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16782",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16782/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16782",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16711",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11540"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16782,
+  "title": "MFWP water temperature monitoring",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16782",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2023-02-08T02:29:04-08:00"
+}

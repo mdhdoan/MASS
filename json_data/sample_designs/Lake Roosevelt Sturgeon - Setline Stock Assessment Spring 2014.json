@@ -1,0 +1,52 @@
+{
+  "description": "<p>Spring setline assessment on Lake Roosvelt collecting&nbsp;abundance of hatchery and wild components of the white sturgeon population\u200b,&nbsp;spatial and depth distributions of white sturgeon\u200b,&nbsp;growth and condition of hatchery and wild components of the white sturgeon population\u200b,&nbsp;survival rates in the hatchery and wild components of the white sturgeon population</p>\r\n",
+  "startYear": "2014",
+  "retirementYear": "2014",
+  "initiationYear": "2014",
+  "targetPopulation": null,
+  "ownerName": "Joseph Cronrath",
+  "ownerEmail": "joseph.cronrath@spokanetribe.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 20144,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2014"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16502/panels/20144",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16502"
+    }
+  ],
+  "strata": [
+    {
+      "id": 23042,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16502/strata/23042",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16502"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/26",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1710",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16502/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16502",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16502/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16502",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16502",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11461"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16502,
+  "title": "Lake Roosevelt Sturgeon - Setline Stock Assessment Spring 2014",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16502",
+  "spatialDesignCategory": "Generalized Random Tessellation Stratified (GRTS), External",
+  "spatialDesignCategoryID": 19,
+  "lastUpdated": "2020-02-13T03:39:04-08:00"
+}

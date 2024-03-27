@@ -1,0 +1,48 @@
+{
+  "backgroundRationale": "<p>Objectives of the steelhead redd surveys are to: 1) Enumerate steelhead redds within index areas or within random sites. 2) Detect trends of redd abundance and distribution within larger reaches based upon enumeration of steelhead in index areas, and estimate adult populations.&nbsp;3) Identify steelhead spawning timing in the Entiat and Wenatchee River subbasins.</p>\r\n\r\n<p>This protocol includes methods for sighting redds and spawners.</p>\r\n",
+  "sampleDesigns": [
+    {
+      "id": 2853,
+      "title": "USFWS Steelhead redd surveys in Entiat River - US Fish and Wildlife Service (USFWS)",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2853",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": null
+    }
+  ],
+  "objectives": [
+    "Standardize surveys used to determine abundance and distribution of steelhead redds in the Upper Columbia Basin."
+  ],
+  "keyAssumptions": null,
+  "dataHandlingConsiderations": null,
+  "qualityControlConsiderations": null,
+  "reportingConsiderations": null,
+  "equipmentCleaningAndCalibration": null,
+  "rolesAndResponsibilities": "<p>Crew Lead Crew Member</p>\r\n",
+  "qualifications": "<p>The investigator should be familiar with the size of redds or nests produced by other species of fish that may be spawning at the time the surveys are conducted to be able to distinguish between redds of the target species and redds of other species.</p>\r\n",
+  "trainingRequirements": null,
+  "safetyConsiderations": "<p>Crew should be familiar with safety procedures when working around streams.</p>\r\n",
+  "fieldScheduleNotes": "<p>Steelhead spawning is thought to begin when water temperatures are near 4.00C and generally progresses upstream following favorable water temperatures. It is important that the first survey occurs just prior to the expected onset of steelhead spawning so that subsequent surveys count only newly formed steelhead redds. The survey is complete when no new redds have been detected for two consecutive surveys. Redd surveys are conducted by two-member teams on foot or by rafting in the spawning areas. Surveys are conducted in a downstream manner, taking care not to disturb spawning fish.</p>\r\n",
+  "budgetConsiderations": null,
+  "monitoringPurpose": "Status and Trends Monitoring",
+  "estimatedCostPerSite": null,
+  "optionalMethodIDs": [],
+  "optionalMethods": [],
+  "id": 89,
+  "name": "ISEMP Field Manual of Scientific Protocols for Steelhead Redd Surveys within the Upper Columbia Monitoring Strategy Copy v1.0",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/studyDesigns/89",
+  "programID": 10,
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/10",
+  "protocolID": 1969,
+  "protocolUrl": "http://www.monitoringresources.org/api/v1/protocols/1969",
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org",
+  "majorVersion": 1,
+  "minorVersion": 0,
+  "previousStudyDesignVersionId": null,
+  "previousStudyDesignVersionUrl": "[none]",
+  "mostRecentVersionId": null,
+  "mostRecentVersionUrl": "[none]"
+}

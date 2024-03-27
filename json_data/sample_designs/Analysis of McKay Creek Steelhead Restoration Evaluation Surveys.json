@@ -1,0 +1,33 @@
+{
+  "description": "<p>The area of inference is the McKay Creek Watershed in the Umaitlila River Subbasin where managers plan to reintroduce native steelhead into McKay Creek above McKay Dam.&nbsp;</p>\r\n",
+  "startYear": "2021",
+  "retirementYear": "2030",
+  "initiationYear": "2021",
+  "targetPopulation": null,
+  "ownerName": "Craig Contor",
+  "ownerEmail": "craigcontor@ctuir.org",
+  "images": [],
+  "panels": [],
+  "strata": [],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/19",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1764",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16621/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16621",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16621/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16621",
+  "masterSample": null,
+  "userSamples": null,
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC5 - Watershed",
+      "areaDisplayName": "McKay Creek"
+    }
+  ],
+  "id": 16621,
+  "title": "Analysis of McKay Creek Steelhead Restoration Evaluation Surveys",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16621",
+  "spatialDesignCategory": "Inference",
+  "spatialDesignCategoryID": 16,
+  "lastUpdated": "2020-10-22T07:13:33-07:00"
+}

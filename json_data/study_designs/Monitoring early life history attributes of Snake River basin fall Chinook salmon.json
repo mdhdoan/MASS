@@ -1,0 +1,151 @@
+{
+  "backgroundRationale": "<p>Maintenance of the life history characteristics of the natural juveniles that are part of the Snake River fall Chinook salmon population/ESU is important for assessing the diversity aspect of the draft recovery plan and assessing actions to recover the population/ESU.&nbsp; Specifically, adding additional years to the existing 1992-2014 data set collected on timing of juvenile presence, size, growth, and dispersal timing into the reservoir provides information for assessing evidence for density-dependent phenotypic change in Chinook Salmon subyearlings native to an 8th order river.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "sampleDesigns": [
+    {
+      "id": 16411,
+      "title": "Collect fall Chinook diet data - US Geological Survey (USGS)",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16411",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": "2019-11-27T01:51:51-08:00"
+    },
+    {
+      "id": 16412,
+      "title": "Beach seine wild fall Chinook salmon subyearlings in 2016/2017 - US Fish and Wildlife Service (USFWS), cloned for Study Design 1180",
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16412",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": "2019-11-27T00:03:24-08:00"
+    },
+    {
+      "id": 16413,
+      "title": "Analyze/Interpret the 1992-2016 beach seining and tagging data - US Fish and Wildlife Service (USFWS), cloned for Study Design 1180",
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16413",
+      "spatialDesignCategory": "Inference",
+      "spatialDesignCategoryID": 16,
+      "lastUpdated": "2019-11-27T00:03:24-08:00"
+    },
+    {
+      "id": 16414,
+      "title": "PIT tag detection at Lower Granite Dam - US Geological Survey (USGS), cloned for Study Design 1180",
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16414",
+      "spatialDesignCategory": "Inference",
+      "spatialDesignCategoryID": 16,
+      "lastUpdated": "2019-11-27T00:03:24-08:00"
+    },
+    {
+      "id": 16415,
+      "title": "Beach seine wild fall Chinook salmon subyearlings in 2018/2019 - US Geological Survey (USGS), cloned for Study Design 1180",
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16415",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": "2019-11-27T00:03:24-08:00"
+    },
+    {
+      "id": 16416,
+      "title": "Monitoring early life history attributes of Snake River basin fall Chinook salmon WSE 131946, cloned for Study Design 1180",
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16416",
+      "spatialDesignCategory": "Inference",
+      "spatialDesignCategoryID": 16,
+      "lastUpdated": "2019-11-27T00:03:25-08:00"
+    },
+    {
+      "id": 16417,
+      "title": "Monitoring early life history attributes of Snake River basin fall Chinook salmon WSE 132435, cloned for Study Design 1180",
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16417",
+      "spatialDesignCategory": "Inference",
+      "spatialDesignCategoryID": 16,
+      "lastUpdated": "2019-11-27T00:03:25-08:00"
+    },
+    {
+      "id": 16418,
+      "title": "Beach seine wild fall Chinook salmon subyearlings in 2018/2019 - US Geological Survey (USGS), cloned for Study Design 1180",
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16418",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": "2019-11-27T00:03:25-08:00"
+    },
+    {
+      "id": 16419,
+      "title": "Analyze/Interpret the 1992-2016 beach seining and tagging data - US Fish and Wildlife Service (USFWS), cloned for Study Design 1180",
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16419",
+      "spatialDesignCategory": "Inference",
+      "spatialDesignCategoryID": 16,
+      "lastUpdated": "2019-11-27T00:03:25-08:00"
+    },
+    {
+      "id": 16420,
+      "title": "PIT tag detection at Lower Granite Dam - US Geological Survey (USGS), cloned for Study Design 1180",
+      "status": "Draft",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16420",
+      "spatialDesignCategory": "Inference",
+      "spatialDesignCategoryID": 16,
+      "lastUpdated": "2019-11-27T00:03:25-08:00"
+    },
+    {
+      "id": 16422,
+      "title": "Analyze fall Chinook diets - US Geological Survey (USGS)",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16422",
+      "spatialDesignCategory": "Inference",
+      "spatialDesignCategoryID": 16,
+      "lastUpdated": "2019-11-27T01:03:54-08:00"
+    },
+    {
+      "id": 16760,
+      "title": "Collect fall Chinook diet data - US Geological Survey (USGS)",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16760",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": "2021-11-18T01:33:43-08:00"
+    }
+  ],
+  "objectives": [
+    "(5) Document trends in rate of downstream movement of natural juveniles measured between time of riverine rearing and passage at Lower Granite Dam.",
+    "(4) Document trends in passage timing of natural juveniles at Lower Granite Dam.",
+    "(3) Document trends in relative abundance of natural fall Chinook salmon juveniles along the shorelines of the free-flowing Snake River upstream of Lower Granite Reservoir.",
+    "(2) Document trends in growth of parr in length and weight during rearing along the shorelines of the free-flowing Snake River upstream of Lower Granite Reservoir.",
+    "(1) Document trends in time of presence of natural fry and parr along the shorelines of the free-flowing Snake River upstream of Lower Granite Reservoir."
+  ],
+  "keyAssumptions": "<p>(1) Our frame is representative of the target population.</p>\r\n\r\n<p>(2) Changes in timing of fish presence are affected more by changes in fish behavior than by flow-related changes in sampling efficiency.</p>\r\n\r\n<p>(3) Growth of juveniles is not strongly affected by PIT tagging.</p>\r\n\r\n<p>(4) Catch per unit effort reflects changes in abundance to a greater extent than flow-related changes in sampling efficiency.</p>\r\n\r\n<p>(5) Collection probability at Lower Granite Dam is affected more by outflow and spill than by fish size.</p>\r\n",
+  "dataHandlingConsiderations": "<p>Seining and tagging data are recorded in a PIT tag file built at each seining site as the fish are processed. Each tagging file is stored on the hard drive of a lap top and backed up on a flash drive. Each Monday the data are transcribed from the tagging files using a macro into a master data base in Excell. The master data base is stored on a hard drive and external drives of two personal computers in separate offices, and on the server on a third office. The same backup process is followed for analyses and reports.</p>\r\n",
+  "qualityControlConsiderations": "<p>Length is plotted against weight to check for transcription errors. Growth in fork length results are are examined for negative numbers to check for transcription erros as subyearling Chinook salmon do not become smaller in fork length as the become older. The number of fish tagged and recaptured and the associated tagging and recapture data in the master data base are checked against PTAGIS. Release and detection dates of PIT-tagged fish are compared to insure the fish were not detected before release. Such would be the case if incorrect release dates were recorded for a PIT tagged fish. All flow data used to estimate collection probability are plotted against date to check for continuity across the season. CPUE calculations are examined each year to insure that each sampling site is represented each week of the season to insure all site data have been recorded unless a site was not sampled. Rate of downstream movement values for individual fish are sorted in ascending order and examined for outliers.</p>\r\n",
+  "reportingConsiderations": "<p>Results are presently included in two forms to the Bonneville Power Administration. (1) Annual reports covering findings each calendar year are written each spring and posted on the BPA reporting site. (2) Reports on how the project addressed needs identified in the current Biological Opinion are also written and posted annually on the BPA reporting site.</p>\r\n",
+  "equipmentCleaningAndCalibration": "<p>All equipment is expected weekly for invasive species of plants and invertebrates during washing and disinfection. Scales for weighing fish are calibrated annually.</p>\r\n",
+  "rolesAndResponsibilities": "<p>The project leader writes proposals, administers the project, supervises the field crew, proofs data, analyzes data, and writes reports and peer-reviewed articles. The field crew supervisor schedules field activites, drives the boat, compiles the data. Two field crew members assist in field operations and maintain equipment.</p>\r\n",
+  "qualifications": "<p>The project leader has a B.S, M.S., and PhD in Fisheries Science All other crew members typically have a B.S. in Fisheries or related natural resources field. The field crew supervisor must have extensive experience operating boats on large rivers.</p>\r\n",
+  "trainingRequirements": "<p>Each crew member is required to pass two motorboat safety courses offered by the Department of Interior and update their certification every two years.</p>\r\n",
+  "safetyConsiderations": "<p>Each week the field crew supervisor provides the project leader with a sampling schedule. Each evening the field crew supervisor checks in with the project leader. All crew members wear life jackets. Each boat is fully equipped with safety devices.</p>\r\n",
+  "fieldScheduleNotes": null,
+  "budgetConsiderations": null,
+  "monitoringPurpose": null,
+  "estimatedCostPerSite": null,
+  "optionalMethodIDs": [],
+  "optionalMethods": [],
+  "id": 1713,
+  "name": "Monitoring early life history attributes of Snake River basin fall Chinook salmon",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/studyDesigns/1713",
+  "programID": 85,
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/85",
+  "protocolID": 2057,
+  "protocolUrl": "http://www.monitoringresources.org/api/v1/protocols/2057",
+  "ownerName": "Kenneth Tiffan",
+  "ownerEmail": "ktiffan@usgs.gov",
+  "majorVersion": 2,
+  "minorVersion": 0,
+  "previousStudyDesignVersionId": 1180,
+  "previousStudyDesignVersionUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1180",
+  "mostRecentVersionId": null,
+  "mostRecentVersionUrl": "[none]"
+}

@@ -1,0 +1,61 @@
+{
+  "description": "<p>Effectiveness monitoring for stream restoration in the Entiat during 2013</p>\r\n",
+  "startYear": "2013",
+  "retirementYear": "",
+  "initiationYear": "2013",
+  "targetPopulation": null,
+  "ownerName": "Steve Fortney",
+  "ownerEmail": "stephenfortney@terraqua.biz",
+  "images": [],
+  "panels": [
+    {
+      "id": 227,
+      "name": "Annual",
+      "abbreviation": "Ann",
+      "years": [
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/74/panels/227",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/74"
+    }
+  ],
+  "strata": [
+    {
+      "id": 654,
+      "name": "IMW Side Channel Restoration",
+      "abbreviation": "SCR",
+      "url": "http://www.monitoringresources.org/api/v1/designs/74/strata/654",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/74"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/18",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/146",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/74/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/74",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/74/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/74",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Entiat 2013 IMW Restoration Effectiveness Study",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1032"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 74,
+  "title": "Effectiveness Monitoring for Stream Restoration in the Entiat 2013",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/74",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2013-08-31T04:04:47-07:00"
+}

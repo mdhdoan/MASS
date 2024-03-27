@@ -1,0 +1,57 @@
+{
+  "description": "No valid data",
+  "startYear": "2020",
+  "retirementYear": "2040",
+  "initiationYear": "2020",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Ryan Klett",
+  "ownerEmail": "ryan.klett@colvilletribes.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 21831,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16393/panels/21831",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16393"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24388,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16393/strata/24388",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16393"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/4",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1356",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16393/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16393",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16393/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16393",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "OBMEP Habitat Status and Trend_Okanogan Subbasin StreamGage_Temperature",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11312"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC4 - Sub Basin",
+      "areaDisplayName": "Okanogan"
+    }
+  ],
+  "id": 16393,
+  "title": "OBMEP Habitat Status and Trend_Okanogan Subbasin StreamGage_Temperature_V.2020",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16393",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2021-12-16T02:08:55-08:00"
+}

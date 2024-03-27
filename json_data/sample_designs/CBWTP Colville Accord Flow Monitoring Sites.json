@@ -1,0 +1,52 @@
+{
+  "description": "<p>active transaction sites for FY21 for flow measurments, compliance and reach monitoring.&nbsp;</p>\r\n",
+  "startYear": "2021",
+  "retirementYear": "2021",
+  "initiationYear": "2021",
+  "targetPopulation": null,
+  "ownerName": "Kacy Markowitz",
+  "ownerEmail": "kacy.markowitz@nfwf.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 21401,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16598/panels/21401",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16598"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24169,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16598/strata/24169",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16598"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/760",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16598/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16598",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16598/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16598",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16598",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11513"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16598,
+  "title": "CBWTP Colville Accord Flow Monitoring Sites",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16598",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2020-08-15T06:52:57-07:00"
+}

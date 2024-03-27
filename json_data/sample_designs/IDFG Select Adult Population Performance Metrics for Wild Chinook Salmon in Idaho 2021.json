@@ -1,0 +1,101 @@
+{
+  "description": "<p>There are 3 extant&nbsp;major population groups (MPGs) within the Idaho portion of the Snake River Spring-Summer Chinook Salmon Evolutionarily Significant Unit where Chinook currently exhibit natural production.&nbsp;</p>\r\n\r\n<p>Assessments are completed for Chinook salmon populations in the following MPGs:</p>\r\n\r\n<p><strong>South Fork Salmon River MPG</strong> :</p>\r\n\r\n<p>East Fork South Fork Salmon River</p>\r\n\r\n<p>Secesh River</p>\r\n\r\n<p>South Fork Salmon River</p>\r\n\r\n<p><strong>Middle Fork Salmon River MPG:</strong></p>\r\n\r\n<p>Bear Valley Creek</p>\r\n\r\n<p>Big Creek</p>\r\n\r\n<p>Camas Creek</p>\r\n\r\n<p>Chamberlain Creek</p>\r\n\r\n<p>Loon Creek</p>\r\n\r\n<p>Marsh Creek</p>\r\n\r\n<p>Middle Fork Salmon River Lower Mainstem</p>\r\n\r\n<p>Middle Fork Salmon River Upper Mainstem</p>\r\n\r\n<p>Sulphur Creek</p>\r\n\r\n<p><strong>Upper Salmon River MPG:</strong></p>\r\n\r\n<p>East Fork Salmon River</p>\r\n\r\n<p>Lemhi River</p>\r\n\r\n<p>Pahsimeroi River</p>\r\n\r\n<p>Salmon River Lower Mainstem</p>\r\n\r\n<p>Salmon River Upper Mainstem</p>\r\n\r\n<p>Valley Creek</p>\r\n\r\n<p>Yankee Fork Salmon River&nbsp;</p>\r\n",
+  "startYear": "2021",
+  "retirementYear": "",
+  "initiationYear": "2021",
+  "targetPopulation": null,
+  "ownerName": "Luciano Chiaramonte",
+  "ownerEmail": "luciano.chiaramonte@idfg.idaho.gov",
+  "images": [],
+  "panels": [],
+  "strata": [],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/73",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1816",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16751/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16751",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16751/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16751",
+  "masterSample": null,
+  "userSamples": null,
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Lemhi River"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Pahsimeroi River"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "East Fork Salmon River"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Yankee Fork"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Salmon River Lower Mainstem"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Valley Creek"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Salmon River Upper Mainstem"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Big Creek"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Middle Fork Salmon River Lower Mainstem"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Camas Creek"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Loon Creek"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Middle Fork Salmon River Upper Mainstem"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Bear Valley Creek"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Sulphur Creek"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Chamberlain Creek"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "South Fork Salmon River"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Secesh River"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "East Fork South Fork Salmon River"
+    }
+  ],
+  "id": 16751,
+  "title": "IDFG Select Adult Population Performance Metrics for Wild Chinook Salmon in Idaho 2021",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16751",
+  "spatialDesignCategory": "Inference",
+  "spatialDesignCategoryID": 16,
+  "lastUpdated": "2023-11-16T08:40:47-08:00"
+}

@@ -1,0 +1,75 @@
+{
+  "backgroundRationale": "<p>The&nbsp;Colville&nbsp;Confederated Tribes (CCT) Resident Fish&nbsp;RM&amp;E project is a Columbia River Fish Accord project that began in 2008. The primary goal for the Resident Fish&nbsp;RM&amp;E Project is to conserve, enhance and restore native fish populations in the blocked area above Grand Coulee Dam in Lake Roosevelt and its tributaries, and where appropriate provide opportunities for subsistence harvest by the&nbsp;Colville&nbsp;Tribal members and recreational anglers. The current work of the&nbsp;RM&amp;E project focuses on the protection and conservation of&nbsp;Redband&nbsp;Trout populations on the&nbsp;Colville&nbsp;Confederated Tribes Reservation.</p>\r\n\r\n<p>Rainbow Trout are a focal species in the&nbsp;Sanpoil&nbsp;Subbasin&nbsp;under the Intermountain Province&nbsp;Subbasin&nbsp;Plan (IMP) due to their recreational value as a sport fish and their cultural significance to the CCT (Gillin&nbsp;and&nbsp;Pizzimenti&nbsp;2004). The Columbia River&nbsp;Redband&nbsp;Trout are a subspecies of rainbow trout native to the Columbia River drainage east of the Cascade Mountains as far as barrier falls on the Snake, Spokane, Pend Oreille, and&nbsp;Kootenai&nbsp;rivers (Allendorf&nbsp;et al. 1980;&nbsp;Behnke&nbsp;1992;&nbsp;McLellan&nbsp;and Lee 2010). Effective fisheries management of&nbsp;Redband&nbsp;Trout requires an understanding of population structure, complex historical management activities, geography, and life history strategies (McCusker&nbsp;et al. 2000;&nbsp;Spidle&nbsp;et al. 2003;&nbsp;Spruell&nbsp;et al. 2003; Small and Dean 2006; Small et al. 2007).</p>\r\n\r\n<p>In order to properly manage the Redband&nbsp;Trout&nbsp;populations managers require a basic&nbsp;understanding of population dynamics and an understanding of survival in trends during key life-histories. &nbsp;In 2010 the&nbsp;Colville&nbsp;Tribe began working with regional co-managers to develop a comprehensive plan to monitor the&nbsp;Redband&nbsp;Trout populations in the blocked area. The Washington Department of Fish and Wildlife (McLellan&nbsp;and Lee 2010) developed a&nbsp;Redband&nbsp;Trout Stock Assessment Plan that could be used by the co-managers to collect key life history information.&nbsp;</p>\r\n\r\n<p>This is the outline the CCT has used to develop the Resident Fish&nbsp;RM&amp;E program to conduct stock assessment study&nbsp;on&nbsp;Redband&nbsp;Trout in the&nbsp;Sanpoil&nbsp;River. The project plans to implement four primary tasks which include monitoring abundance, monitoring recruitment, monitoring harvest, and monitoring escapement to assist with management decisions. The development of a multi-year data set will enable managers to monitor trends over time and address potential limiting factors.</p>\r\n\r\n<p>This protocol describes recruitment of Redband Trout from the Sanpoil River to Lake Roosevelt.</p>\r\n",
+  "sampleDesigns": [
+    {
+      "id": 10006,
+      "title": "Redband Trout juvenile recruitment - Colville Confederated Tribes",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/10006",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": null
+    },
+    {
+      "id": 10007,
+      "title": "Redband Trout recruitment analysis - Colville Confederated Tribes",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/10007",
+      "spatialDesignCategory": "Inference",
+      "spatialDesignCategoryID": 16,
+      "lastUpdated": null
+    },
+    {
+      "id": 10010,
+      "title": "Redband Trout Recruitment - Colville Confederated Tribes",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/10010",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": null
+    },
+    {
+      "id": 10012,
+      "title": "Redband Trout Recruitment - Screw Trapping - Colville Confederated Tribes",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/10012",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": null
+    }
+  ],
+  "objectives": [
+    "The objective of this protocol is to estimate juvenile Redband Trout recruitment from the Sanpoil River into Lake Roosevelt."
+  ],
+  "keyAssumptions": "<p>The key assumption&nbsp;for this project is that the screw trap is an adequate method to collect migrating juvenile Redband Trout.</p>\r\n",
+  "dataHandlingConsiderations": "<p>All data are recorded on water proof paper data sheets or with an field computer. Paper data is entered into Excel or the resident fish database weekly. Data collected on field computers are uploaded to the database at the end of every day. PIT tag data is uploaded to PTAGIS monthly.</p>\r\n",
+  "qualityControlConsiderations": "<p>All data is reviewed by the lead filed biologist, then the project manager prior to all analysis or acceptance into the database.</p>\r\n",
+  "reportingConsiderations": "<p>All BPA funded projects utilize the RM&amp;E formatting process developed by BPA for annual reports. Data is summarized for the calendar year (Jan - Dec).</p>\r\n",
+  "equipmentCleaningAndCalibration": "<p>All equipment (boats, screw traps, waders, gloves and nets) are properly cleaned and stored after the field season is over. Boats that may travel between water ways are properly cleaned to reduce the spread of noxious weeds or other species.</p>\r\n",
+  "rolesAndResponsibilities": "<p>Project Manager: Manages contracts, SOW, budgets, hiring, study designs, attends meetings, and collaborates with regional groups. Field Biologist: Works with project lead to implement daily field activities, managers technicians, orders all equipment and ensures data is collected properly. Technicians: Works closely with field biologist to ensure data is collected, equipment is maintained, and problems are solved.</p>\r\n",
+  "qualifications": "<p>Field Biologist: Minimum four year accredited college degree. Typically field experience with appropriate methods, experience with data analysis, database management, and writing reports. Preference is given to applicants with boating (electrofishing) experience and PIT tag array design experience. Technicians: Minimum qualifications include: High school diploma, must maintain WA State Drivers license, have a good attendance record, work effectively in multicultural environments, must be willing to work late, weekend/holidays, and be physically fit enough to lift and pull heavy equipment. Preference is given to applicants with fisheries experience.</p>\r\n",
+  "trainingRequirements": "<p>Personnel are training in first aid and CPR classes, swift water rescue, and obtain WA State boaters card. If available, we attempt to provide access to excel training, word training, leadership training, and access to local conferences.</p>\r\n",
+  "safetyConsiderations": "<p>Electrofishing boat training is required if they operate an electrofishing boat. Swift water rescue if they&nbsp;will be on a screw trap. Ensuring staff are physically able to haul heavy items is required. Scuba training is required for all staff that are required to dive.</p>\r\n",
+  "fieldScheduleNotes": "<p>Field equipment schedules are developed in collaboration with the project lead and lead field biologist. All gear is fished when water flows are below 500 cfs. Special care is taken above 500 cfs, usually gear is removed from the water to reduce equipment loss and damage</p>\r\n",
+  "budgetConsiderations": null,
+  "monitoringPurpose": null,
+  "estimatedCostPerSite": "> $10,000",
+  "optionalMethodIDs": [],
+  "optionalMethods": [],
+  "id": 1215,
+  "name": "Redband Trout Recruitment in the Sanpoil River (2008-109-00)",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/studyDesigns/1215",
+  "programID": 21,
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/21",
+  "protocolID": 2140,
+  "protocolUrl": "http://www.monitoringresources.org/api/v1/protocols/2140",
+  "ownerName": "Holly McLellan",
+  "ownerEmail": "holly.mclellan@colvilletribes.com",
+  "majorVersion": 1,
+  "minorVersion": 0,
+  "previousStudyDesignVersionId": null,
+  "previousStudyDesignVersionUrl": "[none]",
+  "mostRecentVersionId": null,
+  "mostRecentVersionUrl": "[none]"
+}

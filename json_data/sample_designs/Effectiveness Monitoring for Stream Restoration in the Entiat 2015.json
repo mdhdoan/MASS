@@ -1,0 +1,472 @@
+{
+  "description": "<p>Columbia River Basin anadromous salmonids have exhibited precipitous declines over the past 30 years, with several populations now protected under the Endangered Species Act (ESA) (Schaller et al. 1999; McClure et al. 2003). &nbsp;The Entiat River subbasin has three listed populations: spring Chinook (Oncorhynchus tshawytscha; listed as endangered in 1999, NMFS 1999b), steelhead (O. mykiss; listed as endangered in 1997, upgraded to threatened in 2006, and relisted as endangered in 2007, NMFS 2007), and bull trout (Salvelinus confluentus; listed as threatened in 1999, USFWS 1999). &nbsp;The Upper Columbia Spring Chinook Salmon and Steelhead Recovery Plan (Recovery Plan, UCSRB 2007) has determined that these populations have a high risk of extinction (more than 25% in 100 years), low abundance and productivity, and are at risk for diversity and spatial structure. &nbsp; The Entiat River drains approximately 1100 km2 (425 mi2) of the eastern slope of the central Cascade Mountains in Washington State, and is a tributary to the Columbia River (Figure 1). &nbsp;The primary historic disturbance processes in the Entiat watershed have been wildfire, flooding, mass soil and debris movement, and land use. &nbsp;Land use has included floodplain and river channel modification projects and structures, grazing, roading, agriculture, timber harvesting, transport of logs within the river channel, dams for log storage ponds and hydropower generation, residential development, and recreation (CCCD 2004).&nbsp;</p>\r\n\r\n<div>After almost a year of discussion and development the ISEMP proposed a hybrid of a stairstep and hierarchical approach to implementing habitat actions in the Entiat IMW (See Section 5 for details). &nbsp;In March 2009 the ISEMP presented the recommended experimental design to the Upper Columbia RTT (see Section 5 for details). &nbsp;This design was chosen based on its robustness and flexibility. &nbsp;The hybrid design is the most logistically feasible of the various alternative designs considered2 and offers the highest resolution of effects from different action types. &nbsp;The hybrid design has the ability to reveal multi-scale mechanisms (e.g., effects of action types, geomorphic reaches, landuse) but can detect a response at a lower resolution (i.e., watershed scale) if a higher resolution is not possible due to, for example, implementation of restoration actions &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2 Four designs were considered: proceed with the current design, stairstep, hierarchical, hybrid stairstep/hierarchical&nbsp;</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>\r\n<div>We propose that a hybrid hierarchical/staircase statistical design be implemented to compare treatment and control sections within the Entiat River subbasin. &nbsp;This type of statistical design is like a BACI5 design conducted in a nested hierarchy and has been recommended as an alternative to standard BACI designs (Walters et al. 1988, Loughin 2006, Loughin et al. 2007). &nbsp;A staircase design involves a modification to the typical BACI design whereby treatments are staggered in time within the treatment area. &nbsp;Instead of a single treatment being initiated and compared to a control through time, the treatments are staggered so that treatment replicates are established in different time periods (Loughin 2006). &nbsp; The hierarchy that we will use is one based on temporal and spatial separation of actions, i.e., actions are implemented in different valley segments of the river over time, e.g., actions implemented in the upper river first and then in the lower river.&nbsp;</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>\r\n<div>Reach boundaries were determined using changes in slope and geological controls on a finer scale (USBR 2009, Table 1) and the hybrid experimental design uses these geomorphic reaches as the units of restoration actions. &nbsp;The mainstem Entiat will be divided into 10 monitoring units with one unit as a permanent control (i.e., 1G6) and the rest as treatments and temporary controls. &nbsp;Under the hybrid design structures will be placed in a fashion to provide contrast to non-treated areas in space and time. &nbsp;Structures will be placed in a clumped fashion to provide a large enough pulse to local populations to increase the power of the monitoring design. &nbsp;These areas will be compared to areas not treated (i.e., controls). &nbsp;Controls will eventually be treated (staircase element) to cause an overall larger response to the watershed (hierarchical element) but they will be spaced in time from the previous paired treatments to best evaluate local effects. &nbsp;All units will be monitored annually throughout the life of the project (see Section 6 for monitoring design details).</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>\r\n<div>The monitoring program we propose will follow the layout of the implementation design. &nbsp;Assuming the addition of 3 control reaches within the Mad River to the 10 proposed treatment and control reaches identified for monitoring (1B/1C, 1D, 1E, 1F, 1G, 2A, 2C/3A, 3C, 3D, 3F) in the Entiat River mainstem, 13 total reaches will be monitored within this IMW. &nbsp;The treatment/control reaches are approximately 3.4 km long. &nbsp;Assuming sample sites are 400m, it would take about 8 sites to completely monitor a reach. &nbsp;Six sites will cover nearly the same area if we provide a 100m buffer on either end of the site. &nbsp;Thus we have 13*6 = 78 sites to monitor a year. &nbsp;We suggest the random selection of 2 permanent sites within these 6 that will be monitored on an annual basis to assess year-to-year variability. &nbsp;In the first year of monitoring, an additional 2 sites will be picked at random to monitor, and in the second year the remaining two would be monitored with the permanent sites. &nbsp; Thus every two years a majority of the reach (all 6 sites) will be monitored for a total of 13 reaches * 4 sites = 52 sites per year. &nbsp;We believe this level of monitoring will provide information useful for effectiveness and status and trend monitoring questions. &nbsp;&nbsp;</div>\r\n\r\n<div>&nbsp;</div>\r\n</div>\r\n\r\n<div>This documentation is an excerpt from the&nbsp;<a href=\"https://isemp.egnyte.com/dl/N8exltlEvn\" style=\"font-size: 12px; line-height: 1.4em;\">Entiat Implementation Plan-2009</a>. &nbsp;The details of the study design are managed outside of the Sample Designer, but are included here as a system requirement of the <a href=\"http://www.champmonitoring.org\">Columbia Habitat Monitoring Program (CHaMP)</a>, which has been the protocol for habitat monitoring of the Entiat Intensively Monitored Watershed since 2011. &nbsp;From 2011-2013, the design for the Entiat IMW was loaded as a block of Annual-Entiat IMW sites, but in 2014, the design documentation was updated such that sites were loaded into the Sample Designer based on their geomorphic reaches, as described in the Entiat Implementation Plan. &nbsp;A few minor site adjustents were made in 2015 &nbsp;(Terraqua request May 2015).</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div><strong>2015 Updates:</strong></div>\r\n\r\n<div>In 2015, the design was updated to match Terraqua&#39;s tracking of sites within panels. &nbsp;</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>6/9/15: One update to block 2A 2016, 2018, 2019 was done to move site 2A8 to a new block (2A 2015, 2016, 2018, 2019) to make it available for 2015 sampling by AEM. &nbsp;This does not change the design for the Entiat IMW.</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>&nbsp;</div>\r\n</div>\r\n</div>\r\n",
+  "startYear": "2011",
+  "retirementYear": "",
+  "initiationYear": "2015",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 4626,
+      "name": "2015",
+      "abbreviation": "15",
+      "years": [
+        "2015"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15919/panels/4626",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15919"
+    },
+    {
+      "id": 4617,
+      "name": "2015, 2016",
+      "abbreviation": "15, 16",
+      "years": [
+        "2015",
+        "2016"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15919/panels/4617",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15919"
+    },
+    {
+      "id": 4615,
+      "name": "2015, 2016, 2017, 2018",
+      "abbreviation": "15, 16, 17, 18",
+      "years": [
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15919/panels/4615",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15919"
+    },
+    {
+      "id": 4614,
+      "name": "2015, 2016, 2017, 2019, 2020",
+      "abbreviation": "15, 16, 17, 19, 20",
+      "years": [
+        "2015",
+        "2016",
+        "2017",
+        "2019",
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15919/panels/4614",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15919"
+    },
+    {
+      "id": 4616,
+      "name": "2015, 2016, 2018",
+      "abbreviation": "15, 16, 18",
+      "years": [
+        "2015",
+        "2016",
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15919/panels/4616",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15919"
+    },
+    {
+      "id": 4639,
+      "name": "2015, 2016, 2018, 2019",
+      "abbreviation": "15,16,18, 19",
+      "years": [
+        "2015",
+        "2016",
+        "2018",
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15919/panels/4639",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15919"
+    },
+    {
+      "id": 4638,
+      "name": "2015, 2016, 2019",
+      "abbreviation": "15, 16, 19",
+      "years": [
+        "2015",
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15919/panels/4638",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15919"
+    },
+    {
+      "id": 4621,
+      "name": "2015, 2017",
+      "abbreviation": "15, 17",
+      "years": [
+        "2015",
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15919/panels/4621",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15919"
+    },
+    {
+      "id": 4619,
+      "name": "2015, 2017, 2018",
+      "abbreviation": "15, 17, 18",
+      "years": [
+        "2015",
+        "2017",
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15919/panels/4619",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15919"
+    },
+    {
+      "id": 4618,
+      "name": "2015, 2017, 2018, 2020",
+      "abbreviation": "15, 17, 18, 20",
+      "years": [
+        "2015",
+        "2017",
+        "2018",
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15919/panels/4618",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15919"
+    },
+    {
+      "id": 4620,
+      "name": "2015, 2017, 2020",
+      "abbreviation": "15, 17, 20",
+      "years": [
+        "2015",
+        "2017",
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15919/panels/4620",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15919"
+    },
+    {
+      "id": 4623,
+      "name": "2015, 2018",
+      "abbreviation": "15, 18",
+      "years": [
+        "2015",
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15919/panels/4623",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15919"
+    },
+    {
+      "id": 4622,
+      "name": "2015, 2018, 2020",
+      "abbreviation": "15, 18, 20",
+      "years": [
+        "2015",
+        "2018",
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15919/panels/4622",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15919"
+    },
+    {
+      "id": 4624,
+      "name": "2015, 2019",
+      "abbreviation": "15, 19",
+      "years": [
+        "2015",
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15919/panels/4624",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15919"
+    },
+    {
+      "id": 4625,
+      "name": "2015, 2020",
+      "abbreviation": "15, 20",
+      "years": [
+        "2015",
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15919/panels/4625",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15919"
+    },
+    {
+      "id": 4627,
+      "name": "2016, 2017, 2018, 2019, 2020",
+      "abbreviation": "16, 17, 18, 19, 20",
+      "years": [
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15919/panels/4627",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15919"
+    },
+    {
+      "id": 4629,
+      "name": "2016, 2017, 2019",
+      "abbreviation": "16, 17, 19",
+      "years": [
+        "2016",
+        "2017",
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15919/panels/4629",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15919"
+    },
+    {
+      "id": 4628,
+      "name": "2016, 2017, 2019, 2020",
+      "abbreviation": "16, 17, 19, 20",
+      "years": [
+        "2016",
+        "2017",
+        "2019",
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15919/panels/4628",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15919"
+    },
+    {
+      "id": 4630,
+      "name": "2016, 2018, 2019",
+      "abbreviation": "16, 18, 19",
+      "years": [
+        "2016",
+        "2018",
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15919/panels/4630",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15919"
+    },
+    {
+      "id": 4631,
+      "name": "2016, 2019",
+      "abbreviation": "16, 19",
+      "years": [
+        "2016",
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15919/panels/4631",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15919"
+    },
+    {
+      "id": 4632,
+      "name": "2016, 2020",
+      "abbreviation": "16, 20",
+      "years": [
+        "2016",
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15919/panels/4632",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15919"
+    },
+    {
+      "id": 4634,
+      "name": "2017, 2018",
+      "abbreviation": "17, 18",
+      "years": [
+        "2017",
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15919/panels/4634",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15919"
+    },
+    {
+      "id": 4633,
+      "name": "2017, 2018, 2020",
+      "abbreviation": "17, 18, 20",
+      "years": [
+        "2017",
+        "2018",
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15919/panels/4633",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15919"
+    },
+    {
+      "id": 4635,
+      "name": "2017, 2020",
+      "abbreviation": "17, 20",
+      "years": [
+        "2017",
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15919/panels/4635",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15919"
+    },
+    {
+      "id": 4636,
+      "name": "2018",
+      "abbreviation": "18",
+      "years": [
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15919/panels/4636",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15919"
+    },
+    {
+      "id": 4637,
+      "name": "2019",
+      "abbreviation": "19",
+      "years": [
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15919/panels/4637",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15919"
+    },
+    {
+      "id": 4612,
+      "name": "Annual",
+      "abbreviation": "A",
+      "years": [
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15919/panels/4612",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15919"
+    },
+    {
+      "id": 4613,
+      "name": "Extra",
+      "abbreviation": "E",
+      "years": [
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15919/panels/4613",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15919"
+    }
+  ],
+  "strata": [
+    {
+      "id": 5815,
+      "name": "1BC",
+      "abbreviation": "1BC",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15919/strata/5815",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15919"
+    },
+    {
+      "id": 5816,
+      "name": "1D",
+      "abbreviation": "1D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15919/strata/5816",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15919"
+    },
+    {
+      "id": 5817,
+      "name": "1E",
+      "abbreviation": "1E",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15919/strata/5817",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15919"
+    },
+    {
+      "id": 5818,
+      "name": "1F",
+      "abbreviation": "1F",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15919/strata/5818",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15919"
+    },
+    {
+      "id": 5819,
+      "name": "1G",
+      "abbreviation": "1G",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15919/strata/5819",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15919"
+    },
+    {
+      "id": 5820,
+      "name": "2A",
+      "abbreviation": "2A",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15919/strata/5820",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15919"
+    },
+    {
+      "id": 5821,
+      "name": "2C",
+      "abbreviation": "2C",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15919/strata/5821",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15919"
+    },
+    {
+      "id": 5822,
+      "name": "3A",
+      "abbreviation": "3A",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15919/strata/5822",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15919"
+    },
+    {
+      "id": 5823,
+      "name": "3C",
+      "abbreviation": "3C",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15919/strata/5823",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15919"
+    },
+    {
+      "id": 5824,
+      "name": "3D",
+      "abbreviation": "3D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15919/strata/5824",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15919"
+    },
+    {
+      "id": 5825,
+      "name": "3F",
+      "abbreviation": "3F",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15919/strata/5825",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15919"
+    },
+    {
+      "id": 5826,
+      "name": "IMW Side Channel Restoration",
+      "abbreviation": "Side Ch R",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15919/strata/5826",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15919"
+    },
+    {
+      "id": 5827,
+      "name": "Mad River",
+      "abbreviation": "Mad",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15919/strata/5827",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15919"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/18",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/218",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15919/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15919",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15919/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15919",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "ENT00001 Legacy Sample",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1013"
+    },
+    {
+      "name": "Entiat 2013 IMW Restoration Effectiveness Study",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1032"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 15919,
+  "title": "Effectiveness Monitoring for Stream Restoration in the Entiat 2015",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15919",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2015-06-10T05:47:28-07:00"
+}

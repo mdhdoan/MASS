@@ -1,0 +1,57 @@
+{
+  "description": "<p>Operation and maintenance of stream gages distributed throughout the Klickitat Basin.</p>\r\n",
+  "startYear": "2020",
+  "retirementYear": "2025",
+  "initiationYear": "2020",
+  "targetPopulation": null,
+  "ownerName": "David Lindley",
+  "ownerEmail": "dlindley@ykfp.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 20157,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16512/panels/20157",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16512"
+    }
+  ],
+  "strata": [
+    {
+      "id": 23055,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16512/strata/23055",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16512"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/85",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1238",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16512/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16512",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16512/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16512",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16512",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11485"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Rivers 100k",
+      "areaDisplayName": "Klickitat River"
+    }
+  ],
+  "id": 16512,
+  "title": "Klickitat River Gaging Stations and Operation",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16512",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2020-02-14T05:13:59-08:00"
+}

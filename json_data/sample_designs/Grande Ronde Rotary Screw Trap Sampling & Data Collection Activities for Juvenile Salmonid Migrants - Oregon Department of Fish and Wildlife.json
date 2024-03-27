@@ -1,0 +1,52 @@
+{
+  "description": "<p>This desigin is to collect data needed to understand important life functions associated with early life history of spring Chinook salmon and summer steelhead of the Grande Ronde River and Imnaha River basins. In this investigation we operate rotary screw traps to quantify and characterize migratory patterns and survival of migrants of both species. Traps will be operated at Catherine Creek (rkm 32), Upper Grande Ronde River (rkm 299), Lostine River (rkm 3), and Minam River (rkm 0.4)).&nbsp; In this performance period we will collect spring Chinook salmon and summer steelhead data that represent multiple migration years. Specifically, fish collected in spring will primarily migrate to the ocean in spring , whereas most fish collected in the fall&nbsp;will primarily migrate to the ocean in spring of the next year. Therefore, fish collected in fall during the&nbsp;performance period will be analyzed along with the fish collected in spring during this performance period, and likewise fish collected in fall during this performance period will be analyzed along with the fish collected during spring of the subsequent performance period. Given the diversity of summer steelhead early life history strategies, data for individual migration years may include small proportions of fish collected during as many as three past and or future performance periods, and potentially could be more.&nbsp;</p>\r\n",
+  "startYear": "2017",
+  "retirementYear": "2025",
+  "initiationYear": "2017",
+  "targetPopulation": null,
+  "ownerName": "Polly Gibson",
+  "ownerEmail": "polly.p.gibson@odfw.oregon.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 22007,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16847/panels/22007",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16847"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24501,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16847/strata/24501",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16847"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/20",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/580",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16847/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16847",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16847/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16847",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design Life history of spring Chinook salmon and summer steelhead (1992-026-04) WSE 123744 (5809)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/4607"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16847,
+  "title": "Grande Ronde Rotary Screw Trap Sampling & Data Collection Activities for Juvenile Salmonid Migrants - Oregon Department of Fish and Wildlife",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16847",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2023-02-06T21:45:04-08:00"
+}

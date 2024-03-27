@@ -1,0 +1,56 @@
+{
+  "description": "<p>Tributaries to Lake Pend Oreille will serve as the location of sampling to occur, where the sole component is the collection of salmonid eggs from naturally constructed redds.&nbsp;</p>\r\n",
+  "startYear": "2024",
+  "retirementYear": "2025",
+  "initiationYear": "2024",
+  "targetPopulation": null,
+  "ownerName": "Joseph Cronrath",
+  "ownerEmail": "jcronrath@kalispeltribe.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 22361,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2024"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16981/panels/22361",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16981"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24645,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16981/strata/24645",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16981"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/89",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1884",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16981/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16981",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16981/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16981",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 23726 (11648)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/6717"
+    },
+    {
+      "name": "Sample for Design #16981",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11621"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16981,
+  "title": "Kalispel Tribe - Conduct Salmonid Egg Collection within Lake Pend Oreille Tributaries",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16981",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2023-12-15T06:50:49-08:00"
+}

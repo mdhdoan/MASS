@@ -1,0 +1,61 @@
+{
+  "description": "<p>The detection system consists of 2 antennas, installed in a pass-over loop configuration approximately 170 feet apart. Each half duplex antenna spans the width of the channel which is approximately 80 feet and is operated by a Single-Antenna HDX Reader (Oregon RFID). This site is configured to detect half-duplex tags only. Data from the antennas is stored in the internal memory and is uploaded to PTAGIS on a monthly basis. A 24V DC battery bank connected to solar panel powers the detection system. The antennas were built and installed by WDFW staff. The site is operated year round.</p>\r\n",
+  "startYear": "2019",
+  "retirementYear": "2025",
+  "initiationYear": "2019",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Nicholas Albrecht",
+  "ownerEmail": "nicholas.albrecht@dfw.wa.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 22349,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16970/panels/22349",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16970"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24633,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16970/strata/24633",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16970"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/64",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1830",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16970/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16970",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16970/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16970",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16794",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11574"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC3 - Basin",
+      "areaDisplayName": "Upper Columbia"
+    },
+    {
+      "areaTypeName": "HUC4 - Sub Basin",
+      "areaDisplayName": "Franklin D"
+    }
+  ],
+  "id": 16970,
+  "title": "In-stream PIT Tag Detection System Operations and Maintenance in Big Sheep Creek 2019 - 2025",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16970",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2023-10-14T00:12:45-07:00"
+}

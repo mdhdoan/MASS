@@ -1,0 +1,37 @@
+{
+  "description": "<p>Beginning with brood years 2017 and 2018 (and then at subsequent ten-year intervals), testing statistical hypotheses associated with genetic components will be conducted with Chief Joseph&nbsp;hatchery-origin baseline samples (the earliest genetic samples available for each program) and hatchery-origin contemporary samples (brood years 2017 and 2018).</p>\r\n",
+  "startYear": "2021",
+  "retirementYear": "2022",
+  "initiationYear": "2021",
+  "targetPopulation": null,
+  "ownerName": "Andrea Pearl",
+  "ownerEmail": "andrea.pearl@colvilletribes.com",
+  "images": [],
+  "panels": [],
+  "strata": [],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/61",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1786",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16689/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16689",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16689/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16689",
+  "masterSample": null,
+  "userSamples": null,
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC4 - Sub Basin",
+      "areaDisplayName": " OKANOGAN"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Okanogan River"
+    }
+  ],
+  "id": 16689,
+  "title": "Chief Joseph Hatchery Chinook Population Genetic Analyses",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16689",
+  "spatialDesignCategory": "Inference",
+  "spatialDesignCategoryID": 16,
+  "lastUpdated": "2021-03-23T03:54:43-07:00"
+}

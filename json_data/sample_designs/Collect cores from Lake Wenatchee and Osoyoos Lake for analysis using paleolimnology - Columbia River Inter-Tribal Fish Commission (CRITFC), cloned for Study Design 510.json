@@ -1,0 +1,52 @@
+{
+  "description": "No valid data",
+  "startYear": "2014",
+  "retirementYear": "2025",
+  "initiationYear": "2014",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Jeffrey Fryer",
+  "ownerEmail": "fryj@critfc.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 20233,
+      "name": "Factors limiting production of Okanagan and Wenatchee sockeye stocks (2008-503-00) WSE 95571",
+      "abbreviation": "Factors limiting production of Okanagan and Wenatchee sockeye stocks (2008-503-00) WSE 95571",
+      "years": [
+        "2014"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16537/panels/20233",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16537"
+    }
+  ],
+  "strata": [
+    {
+      "id": 23082,
+      "name": "All Sites",
+      "abbreviation": "All Sites",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16537/strata/23082",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16537"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1741",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16537/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16537",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16537/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16537",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design Factors limiting production of Okanagan and Wenatchee sockeye stocks (2008-503-00) WSE 95571 (4835)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/3673"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16537,
+  "title": "Collect cores from Lake Wenatchee and Osoyoos Lake for analysis using paleolimnology - Columbia River Inter-Tribal Fish Commission (CRITFC), cloned for Study Design 510",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16537",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2020-03-18T00:15:28-07:00"
+}

@@ -1,0 +1,52 @@
+{
+  "description": "<p>Pre-implementation surveys of Lostine River MP 5.7 and South Fork Clearwater River mainstem floodplain and side channel reconnection projects.</p>\r\n",
+  "startYear": "2022",
+  "retirementYear": "2022",
+  "initiationYear": "2022",
+  "targetPopulation": null,
+  "ownerName": "Clint Chandler",
+  "ownerEmail": "clintc@nezperce.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 21826,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2022"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16763/panels/21826",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16763"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24383,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16763/strata/24383",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16763"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/24",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1667",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16763/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16763",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16763/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16763",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16763",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11555"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16763,
+  "title": "Lostine and SF Clearwater floodplain site assessments - 2022",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16763",
+  "spatialDesignCategory": "Other...",
+  "spatialDesignCategoryID": 17,
+  "lastUpdated": "2021-12-15T05:50:50-08:00"
+}

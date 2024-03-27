@@ -1,0 +1,50 @@
+{
+  "description": "No valid data",
+  "startYear": "2017",
+  "retirementYear": "2017",
+  "initiationYear": "2017",
+  "targetPopulation": null,
+  "ownerName": "Matthew Rustand",
+  "ownerEmail": "mrustand@blm.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 19516,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16219/panels/19516",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16219"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21918,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16219/strata/21918",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16219"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/80",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1642",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16219/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16219",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16219/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16219",
+  "masterSample": {
+    "name": "Continental United States 10 KM Grid",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/10"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 16219,
+  "title": "a24ef3f6-2a1b-4454-810d-1655284e5cce Bureau of Land Management-Royal Gorge Field Office Bat Monitoring Sample Design",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16219",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": "2018-10-11T05:26:08-07:00"
+}

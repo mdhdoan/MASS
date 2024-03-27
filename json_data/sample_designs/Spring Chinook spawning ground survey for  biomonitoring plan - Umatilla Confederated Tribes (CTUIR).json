@@ -1,0 +1,64 @@
+{
+  "description": "No valid data",
+  "startYear": "2015",
+  "retirementYear": "2030",
+  "initiationYear": "2015",
+  "targetPopulation": null,
+  "ownerName": "Leslie Naylor",
+  "ownerEmail": "lesnaylor@ctuir.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 21970,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2015"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16820/panels/21970",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16820"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24464,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16820/strata/24464",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16820"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/37",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/283",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16820/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16820",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16820/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16820",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design Walla Walla Salmonid Monitoring & Evaluation Salmonid Redd Surveys for CTUIR Biological Monitoring of Fish Habitat Action Effectiveness v1.0 WSE 131697 (3302)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1427"
+    },
+    {
+      "name": "BPA Sample for Study Design Fish Rescue Eval - Mason Creek Steelhead Redd Surveys (WDFW) SE Washington v1.0 WSE 112657 (3527)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/2181"
+    },
+    {
+      "name": "BPA Sample for Study Design CTUIR - Biomonitoring Project Spawning Surveys (1990-005-01) v1.0 WSE 101980 (3306)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/2507"
+    },
+    {
+      "name": "BPA Sample for Study Design Inseason Interview Survey Method (2002-060-00) WSE 70055 (6858)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/7875"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16820,
+  "title": "Spring Chinook spawning ground survey for  biomonitoring plan - Umatilla Confederated Tribes (CTUIR)",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16820",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2022-10-18T02:21:57-07:00"
+}

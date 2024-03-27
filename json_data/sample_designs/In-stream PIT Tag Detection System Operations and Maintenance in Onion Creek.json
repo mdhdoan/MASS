@@ -1,0 +1,52 @@
+{
+  "description": "<p>The detection system consists of 2 antennas, installed in a pass-through loop configuration. Each antenna spans the width of the channel which is approximately 10 feet. The two half duplex antennas are operated by a Multi-Antenna HDX Reader (Oregon RFID). This site is configured to detect half-duplex tags only. Data from the antennas is stored in the internal memory and is uploaded to PTAGIS on a monthly basis. A 24V DC battery bank connected to solar panel powers the detection system. The antennas were built and installed by WDFW staff. The site is operated year round.</p>\r\n",
+  "startYear": "2015",
+  "retirementYear": "2016",
+  "initiationYear": "2015",
+  "targetPopulation": null,
+  "ownerName": "Nicholas Albrecht",
+  "ownerEmail": "nicholas.albrecht@dfw.wa.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 21913,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2015"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16793/panels/21913",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16793"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24435,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16793/strata/24435",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16793"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/64",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1830",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16793/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16793",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16793/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16793",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16793",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11575"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16793,
+  "title": "In-stream PIT Tag Detection System Operations and Maintenance in Onion Creek",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16793",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2022-04-03T02:44:26-07:00"
+}

@@ -1,0 +1,52 @@
+{
+  "description": "No valid data",
+  "startYear": "2018",
+  "retirementYear": "",
+  "initiationYear": "2018",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Jennifer Gosselin",
+  "ownerEmail": "gosselin@uw.edu",
+  "images": [],
+  "panels": [
+    {
+      "id": 19463,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16173/panels/19463",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16173"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21869,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16173/strata/21869",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16173"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1616",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16173/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16173",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16173/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16173",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Opportunistic subsampling",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11316"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16173,
+  "title": "Fish scales, cloned for Study Design 1605",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16173",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2018-08-15T00:33:07-07:00"
+}

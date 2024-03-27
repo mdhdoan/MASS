@@ -1,0 +1,97 @@
+{
+  "description": "<p>This desigin is to collect data needed to understand important life functions associated with early life history of spring Chinook salmon and summer steelhead of the Grande Ronde River and Imnaha River basins. In this investigation we operate rotary screw traps to quantify and characterize migratory patterns and survival of migrants of both species. Traps will be operated at Catherine Creek (rkm 32), Upper Grande Ronde River (rkm 299), Lostine River (rkm 3), and Minam River (rkm 0.4)).&nbsp; In this performance period we will collect spring Chinook salmon and summer steelhead data that represent multiple migration years. Specifically, fish collected in spring will primarily migrate to the ocean in spring , whereas most fish collected in the fall&nbsp;will primarily migrate to the ocean in spring of the next year. Therefore, fish collected in fall during the&nbsp;performance period will be analyzed along with the fish collected in spring during this performance period, and likewise fish collected in fall during this performance period will be analyzed along with the fish collected during spring of the subsequent performance period. Given the diversity of summer steelhead early life history strategies, data for individual migration years may include small proportions of fish collected during as many as three past and or future performance periods, and potentially could be more.&nbsp;</p>\r\n",
+  "startYear": "2024",
+  "retirementYear": "2040",
+  "initiationYear": "2024",
+  "targetPopulation": null,
+  "ownerName": "Ian Tattam",
+  "ownerEmail": "Ian.A.Tattam@state.or.us",
+  "images": [],
+  "panels": [
+    {
+      "id": 22326,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2024"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16957/panels/22326",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16957"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24611,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16957/strata/24611",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16957"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/66",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/700",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16957/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16957",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16957/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16957",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design Steelhead Escapement (1998-016-00) WSE 100510 (6892)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/7879"
+    },
+    {
+      "name": "Sample for Design #16957",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11617"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "South Fork John Day River"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "John Day River Upper Mainstem"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "Grande Ronde River Upper Mainstem"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "Middle Fork John Day River"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Catherine Creek"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Salmon, Chinook (Snake River spring/summer-run ESU)"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Wallowa/Lostine Rivers"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "Wallowa River"
+    },
+    {
+      "areaTypeName": "HUC4 - Sub Basin",
+      "areaDisplayName": "Upper John Day"
+    },
+    {
+      "areaTypeName": "HUC5 - Watershed",
+      "areaDisplayName": "Eight Mile Creek-Middle Fork John Day River"
+    }
+  ],
+  "id": 16957,
+  "title": "Rotary Screw Trap Operation - Oregon Department of Fish and Wildlife: Project 2023-007-00",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16957",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2023-09-22T02:54:41-07:00"
+}

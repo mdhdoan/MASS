@@ -1,0 +1,54 @@
+{
+  "description": "<p>second year of sampling for BOR&#39;s&nbsp;metabolism study</p>\r\n",
+  "startYear": "2014",
+  "retirementYear": "",
+  "initiationYear": "2014",
+  "targetPopulation": null,
+  "ownerName": "Steve Fortney",
+  "ownerEmail": "stephenfortney@terraqua.biz",
+  "images": [],
+  "panels": [
+    {
+      "id": 2318,
+      "name": "Annual",
+      "abbreviation": "Ann",
+      "years": [
+        "2014",
+        "2015",
+        "2016"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15898/panels/2318",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15898"
+    }
+  ],
+  "strata": [
+    {
+      "id": 3141,
+      "name": "Twisp River",
+      "abbreviation": "TR",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15898/strata/3141",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15898"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/18",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/221",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15898/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15898",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15898/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15898",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Methow 2013 BOR Stream Metabolism Study",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1031"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 15898,
+  "title": "Methow 2014 Metabolism Study",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15898",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2014-08-06T12:15:39-07:00"
+}

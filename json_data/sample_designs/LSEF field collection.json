@@ -1,0 +1,57 @@
+{
+  "description": "<p>Lab study, so no specific site collections apart from collecting lamprey to use in lab testing</p>\r\n",
+  "startYear": "2022",
+  "retirementYear": "2023",
+  "initiationYear": "2022",
+  "targetPopulation": null,
+  "ownerName": "Theresa \"Marty\" Liedtke",
+  "ownerEmail": "tliedtke@usgs.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 21909,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2022"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16790/panels/21909",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16790"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24431,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16790/strata/24431",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16790"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1827",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16790/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16790",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16790/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16790",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16790",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11572"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Columbia River Basin",
+      "areaDisplayName": "Columbia River"
+    }
+  ],
+  "id": 16790,
+  "title": "LSEF field collection",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16790",
+  "spatialDesignCategory": "Census: Restricted",
+  "spatialDesignCategoryID": 6,
+  "lastUpdated": "2022-03-18T01:37:12-07:00"
+}

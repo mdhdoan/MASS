@@ -1,0 +1,52 @@
+{
+  "description": "<p>Quantify adult / migratory bull trout redd counts in index stream within the Kootenai River drainage upstream and downstream of Libby Dam.&nbsp; Redds are typically counted in the 1st to 2nd week of October.</p>\r\n",
+  "startYear": "2021",
+  "retirementYear": "",
+  "initiationYear": "2021",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Ryan Sylvester",
+  "ownerEmail": "rsylvester@mt.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 21708,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16714/panels/21708",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16714"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24322,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16714/strata/24322",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16714"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/92",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1802",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16714/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16714",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16714/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16714",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16714",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11541"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16714,
+  "title": "MFWP Bull Trout Redd Counts",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16714",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2021-05-18T21:32:44-07:00"
+}

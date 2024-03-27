@@ -1,0 +1,56 @@
+{
+  "description": "No valid data",
+  "startYear": "2022",
+  "retirementYear": "2027",
+  "initiationYear": "2022",
+  "targetPopulation": null,
+  "ownerName": "Joseph Oatman",
+  "ownerEmail": "joeo@nezperce.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 21820,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2022"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16759/panels/21820",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16759"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24377,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16759/strata/24377",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16759"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/705",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16759/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16759",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16759/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16759",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design Gillnet Inseason Interview Survey (2002-060-00) WSE 89877 (6950)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/10921"
+    },
+    {
+      "name": "Sample for Design #16759",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11552"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16759,
+  "title": "Implement Harvest Monitoring methodology and Disseminate Harvest Monitoring Results (Gill net) - Nez Perce Tribe",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16759",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2021-11-11T00:35:41-08:00"
+}

@@ -1,0 +1,50 @@
+{
+  "description": "No valid data",
+  "startYear": "2017",
+  "retirementYear": "2017",
+  "initiationYear": "2017",
+  "targetPopulation": null,
+  "ownerName": "Brian Dailey",
+  "ownerEmail": "bdailey@osmre.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 19494,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16209/panels/19494",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16209"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21900,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16209/strata/21900",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16209"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/80",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1634",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16209/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16209",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16209/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16209",
+  "masterSample": {
+    "name": "Continental United States 10 KM Grid",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/10"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 16209,
+  "title": "b0afc65a-340c-4768-8ab4-ccb044691bee Bat Activity within the Flight 93 National Memorial Grounds Sample Design",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16209",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": null
+}

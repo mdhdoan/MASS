@@ -1,0 +1,33 @@
+{
+  "description": "<p>Perform age and growth analyses on rainbow trout bony structures collected by anglers or from netting operations. Evaluate growth relative to prior years&#39; collections.</p>\r\n\r\n<p>Evaluate movement and fishery escapement of telemetered rainbow trout.</p>\r\n",
+  "startYear": "2019",
+  "retirementYear": "",
+  "initiationYear": "2019",
+  "targetPopulation": null,
+  "ownerName": "Pete Rust",
+  "ownerEmail": "Pete.Rust@idfg.idaho.gov",
+  "images": [],
+  "panels": [],
+  "strata": [],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/65",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/866",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16284/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16284",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16284/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16284",
+  "masterSample": null,
+  "userSamples": null,
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC4 - Sub Basin",
+      "areaDisplayName": " PEND OREILLE LAKE"
+    }
+  ],
+  "id": 16284,
+  "title": "LPO Status and trend of rainbow trout",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16284",
+  "spatialDesignCategory": "Inference",
+  "spatialDesignCategoryID": 16,
+  "lastUpdated": "2019-01-26T00:20:18-08:00"
+}

@@ -1,0 +1,101 @@
+{
+  "description": "<p>IDFG installs and operates rotary screw traps (RSTs) as a collection tool for capturing and marking juvenile Chinook Salmon and steelhead for determination of abundance, survival and life history characteristics at the following locations:<br />\r\n<br />\r\nClearwater River Drainage:<br />\r\n&bull; Big Bear Creek - lower Potlatch River (BBCTRP)**<br />\r\n&bull; East Fork Potlatch River - lower Clearwater River (EFPTRP)**<br />\r\n&bull; Lower Lochsa River - Clearwater River (LOCTRP)<br />\r\n&bull; Fish Creek - Lochsa River (FISHTRP)<br />\r\n&bull; Crooked River - South Fork Clearwater River (CROTRP)<br />\r\n<br />\r\nSalmon River Drainage:<br />\r\n&bull; Rapid River - Little Salmon River (RPDTRP)<br />\r\n&bull; Lower South Fork Salmon River - South Fork Salmon River (SFSRKT)<br />\r\n&bull; Big Creek &ndash; Lower Middle Fork Salmon River (BIG2C)<br />\r\n&bull; Lower Marsh Creek &ndash; Upper Middle Fork Salmon River (MARTR2)<br />\r\n&bull; North Fork Salmon River (SALRNF)<br />\r\n&bull; Lower Lemhi River (LLRTP) - transferred from project 2018-002-00 in FY20<br />\r\n&bull; Hayden Creek - Lemhi River (HYDTRP)<br />\r\n&bull; Upper Lemhi River (LEMTRP)<br />\r\n&bull; Pahsimeroi River (PAHTRP)<br />\r\n&bull; Upper Salmon River at Sawtooth Fish Hatchery (SAWTRP)<br />\r\n<br />\r\nTraps are deployed in March as soon as conditions allow. Trap boxes are checked daily, and the number of Chinook Salmon and steelhead captured and tagged recorded. Each salmon or steelhead is scanned for a PIT tag before tagging to verify that it had not been previously tagged. All juvenile Chinook Salmon &gt;60 mm and steelhead &gt;80 mm are PIT tagged, and measured (FL, nearest mm). Tag files are uploaded to the PTAGIS database (www.ptagis.org). After PIT-tagging, fish are released approximately 0.4 km or at least two riffles and a pool upstream of the trap to maximize the probability that marked fish would mix randomly with the general population prior to their recapture. Recaptured fish are released downstream of the traps. When &gt;50 salmon or &gt;50 steelhead are tagged in a day, only 50 fish of a given species are released upstream of the trap and the remainder are released downstream of the trap. When &lt;50 salmon or &lt;50 steelhead are tagged in a day, all of the newly tagged fish are released upstream of the trap. Flow conditions are recorded, either as flow at nearby stream gauges or as depth below the sill of the trap.<br />\r\n<br />\r\nIDFG&#39;s Potlatch River Steelhead Monitoring and Evaluation Project, funded through Pacific Coast Salmon Recovery Funds (PCSRF) and NOAA Intensively Monitored Watershed (IMW) Funds installs and operates the BBCTRP and EFPTRP RSTs in the Potlatch River. Although staff partially funded by other projects (ex: PCSRF/IMW ) collect juvenile salmonid data at the above sites, ISSMES project staff analyze and interpret the wild juvenile Chinook Salmon and steelhead abundance, survival, and life history findings. The main purpose of this work element is to support estimation of population productivity by collecting scales with which to assign ages to individuals after the season. Juveniles will be sampled where fish-in fish-out monitoring is conducted at juvenile traps where the current age record is deemed insufficient (in general 5 years of data within the last two decades). Site development for new trapping locations will continue in 2020, with possible RST locations including the Selway River and Moose Creek (Selway).</p>\r\n",
+  "startYear": "2020",
+  "retirementYear": "2040",
+  "initiationYear": "2020",
+  "targetPopulation": null,
+  "ownerName": "Eric Stark",
+  "ownerEmail": "eric.stark@idfg.idaho.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 21533,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16627/panels/21533",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16627"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24227,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16627/strata/24227",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16627"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/73",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/467",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16627/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16627",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16627/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16627",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 48451 (13658)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/6410"
+    },
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 38840 (12922)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/6956"
+    },
+    {
+      "name": "BPA Sample for Study Design Screw trap sampling for wild steelhead smolts in Idaho WSE 100410 (3941)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/6975"
+    },
+    {
+      "name": "BPA Sample for Study Design Screw trap sampling for wild steelhead smolts in Idaho WSE 131566 (3949)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/8373"
+    },
+    {
+      "name": "BPA Sample for Study Design Screw trap sampling for wild steelhead smolts in Idaho WSE 123221 (3945)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/9433"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Lemhi River"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Pahsimeroi River"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Marsh Creek"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Salmon River upper mainstem above Redfish Lake"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "North Fork Salmon River"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Big Creek"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "South Fork Salmon River mainstem"
+    },
+    {
+      "areaTypeName": "Chinook Spring-Summer Interior Columbia Pop. Name",
+      "areaDisplayName": "Little Salmon River"
+    }
+  ],
+  "id": 16627,
+  "title": "Operate Screw Traps  Idaho Department of Fish and Game (IDFG)",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16627",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2020-11-05T06:54:47-08:00"
+}

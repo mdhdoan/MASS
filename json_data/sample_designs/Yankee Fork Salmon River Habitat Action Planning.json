@@ -1,0 +1,68 @@
+{
+  "description": "<p>Coupling nutrient enrichment with the addition of habitat-forming natural in-stream structures that retain CPOM materials, like large wood, represents a synergistic partnership that addresses limiting factors and supports the ecological integrity of stream habitats. The development of a habitat action plan that couples nutrient enrichment with large wood additions in an adaptive-management framework will be the focus of this work.</p>\r\n",
+  "startYear": "2018",
+  "retirementYear": "",
+  "initiationYear": "2018",
+  "targetPopulation": null,
+  "ownerName": "David Richardson",
+  "ownerEmail": "drichardson@sbtribes.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 19223,
+      "name": "Annual",
+      "abbreviation": "A",
+      "years": [
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16150/panels/19223",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16150"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21634,
+      "name": "Fish population",
+      "abbreviation": "Population",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16150/strata/21634",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16150"
+    },
+    {
+      "id": 21635,
+      "name": "Habitat attributes",
+      "abbreviation": "Habitat",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16150/strata/21635",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16150"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/579",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16150/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16150",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16150/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16150",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design Salmon River Basin Nutrient Enhancement (2008-904-00) WSE 102471 (5787)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/2242"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC5 - Watershed",
+      "areaDisplayName": "Yankee Fork"
+    }
+  ],
+  "id": 16150,
+  "title": "Yankee Fork Salmon River Habitat Action Planning",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16150",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2018-04-20T03:34:16-07:00"
+}

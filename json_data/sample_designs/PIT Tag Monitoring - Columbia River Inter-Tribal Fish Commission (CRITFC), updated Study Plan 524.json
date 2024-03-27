@@ -1,0 +1,61 @@
+{
+  "description": "<p>Versioned, end year extended</p>\r\n",
+  "startYear": "2023",
+  "retirementYear": "2030",
+  "initiationYear": "2023",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Stuart Ellis",
+  "ownerEmail": "ells@critfc.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 22043,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2023"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16857/panels/22043",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16857"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24516,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16857/strata/24516",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16857"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1859",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16857/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16857",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16857/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16857",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 48989 (13709)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/3609"
+    },
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 64512 (15056)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/9644"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Columbia River Basin",
+      "areaDisplayName": "Columbia River"
+    }
+  ],
+  "id": 16857,
+  "title": "PIT Tag Monitoring - Columbia River Inter-Tribal Fish Commission (CRITFC), updated Study Plan 524",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16857",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2023-02-18T07:22:06-08:00"
+}

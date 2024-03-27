@@ -1,0 +1,125 @@
+{
+  "description": "<p>This sample design refers to the monitoring and sampling of coho salmon associated with the Lostine River reintroduction effort (NPT).&nbsp;</p>\r\n\r\n<p>We intend to perform redd surveys along the Lostine River, and tissue sample post-spawned carcass samples when possible, to map the spawning riverscape of coho salmon reintroduced to the Grande Ronde basin. Redd surveys will be expanded into nearby tributaries as time and personnel allow. Surveys will allow for identification of&nbsp;highly productive reaches and data will be&nbsp;uploaded to the Grande Ronde Model Watershed and mapped alongside already collected data, such as chinook redd surveys, to better visualize habitat usage, inter-species interaction and ecosystem-scale effects of this reintroduction effort.</p>\r\n\r\n<p>We also intend to analyze Coded Wire Tag (CWT) data to estimate contribution to harvest, smolt-to-adult survival and stray rates. A proportion of the smolt releases have received a CWT since program initiation in 2017, and these tag codes can be compared to records in CWT recovery databases, such as RMIS, to estimate harvest and map movement in the basin.&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "startYear": "2022",
+  "retirementYear": "2027",
+  "initiationYear": "2022",
+  "targetPopulation": null,
+  "ownerName": "Hayley Nuetzel",
+  "ownerEmail": "hnuetzel@critfc.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 21871,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2022"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16776/panels/21871",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16776"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24413,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16776/strata/24413",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16776"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/50",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1282",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16776/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16776",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16776/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16776",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design Adult Spring Chinook Salmon: Performance Measures  (1983-350-03) WSE 67798 (4674)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/2308"
+    },
+    {
+      "name": "BPA Sample for Study Design Action Effectiveness Monitoring BPA \u2013 MBACI Protocol for Monitoring the Effectiveness of Partial Barrier Projects v1.0 WSE 97822 (3393)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/2570"
+    },
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 28572 (12068)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/2853"
+    },
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 13174 (10804)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/3313"
+    },
+    {
+      "name": "BPA Sample for Study Design Life history of spring Chinook salmon and summer steelhead (1992-026-04) WSE 123744 (5809)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/4607"
+    },
+    {
+      "name": "BPA Sample for Study Design Relative reproductive success of Chinook and steelhead in the Snake River basin (1989-096-00) WSE 126929 (6879)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/7364"
+    },
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 23466 (11606)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/8015"
+    },
+    {
+      "name": "Sample for Design #16773",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11563"
+    },
+    {
+      "name": "Sample for Design #16774",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11564"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC3 - Basin",
+      "areaDisplayName": "Lower Snake"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.537090,-117.479628"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.342410,-117.408900"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.565542,-117.516843"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.452617,-117.425531"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.478500,-117.428000"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.410147,-117.427866"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.552651,-117.490962"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.526811,-117.552411"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.250105,-117.377396"
+    }
+  ],
+  "id": 16776,
+  "title": "Monitor and evaluate coho salmon reintroduced to Lostine River, OR",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16776",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2022-01-26T02:39:21-08:00"
+}

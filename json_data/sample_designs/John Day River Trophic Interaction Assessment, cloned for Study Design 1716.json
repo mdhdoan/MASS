@@ -1,0 +1,57 @@
+{
+  "description": "<p>&nbsp;</p>\r\n\r\n<p>Sample sites will be located in the Middle Fork John Day River.&nbsp; Sites will be stratified by restoration project (Oxbow Conservation Area) and non-restoration (control reaches).&nbsp; Within these strata, reach start points&nbsp;will be randomly selected.&nbsp; Reaches will encompass at least 20x bankfull width, and may extend further depending on number of fish captured.</p>\r\n\r\n<p>Sites will be sampled multiple times per year, beginning in late Spring.&nbsp; The start of sampling will be dependent on streamflow conditions.</p>\r\n",
+  "startYear": "2020",
+  "retirementYear": "2021",
+  "initiationYear": "2020",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Ian Tattam",
+  "ownerEmail": "Ian.A.Tattam@state.or.us",
+  "images": [],
+  "panels": [
+    {
+      "id": 20008,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16448/panels/20008",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16448"
+    }
+  ],
+  "strata": [
+    {
+      "id": 22978,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16448/strata/22978",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16448"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/20",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1720",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16448/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16448",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16448/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16448",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16446",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11422"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC5 - Watershed",
+      "areaDisplayName": "Camp Creek-Middle Fork John Day River"
+    }
+  ],
+  "id": 16448,
+  "title": "John Day River Trophic Interaction Assessment, cloned for Study Design 1716",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16448",
+  "spatialDesignCategory": "Simple Random Sample, Stratified",
+  "spatialDesignCategoryID": 2,
+  "lastUpdated": "2019-12-20T06:19:15-08:00"
+}

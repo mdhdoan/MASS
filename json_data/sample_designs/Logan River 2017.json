@@ -1,0 +1,53 @@
+{
+  "description": "No valid data",
+  "startYear": "2016",
+  "retirementYear": "",
+  "initiationYear": "2016",
+  "targetPopulation": null,
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 7407,
+      "name": "annual",
+      "abbreviation": "annual",
+      "years": [
+        "2016",
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16015/panels/7407",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16015"
+    }
+  ],
+  "strata": [
+    {
+      "id": 9459,
+      "name": "Logan River",
+      "abbreviation": "LOG",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16015/strata/9459",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16015"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/18",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/134",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16015/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16015",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16015/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16015",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Logan River Sites",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1093"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16015,
+  "title": "Logan River 2017",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16015",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2017-03-18T19:49:32-07:00"
+}

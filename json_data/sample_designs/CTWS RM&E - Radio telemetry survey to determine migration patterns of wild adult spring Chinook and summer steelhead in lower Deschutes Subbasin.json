@@ -1,0 +1,57 @@
+{
+  "description": "<p>Spring Chinook and summer steelhead will be captured in ODFWs fish trap at Sherar Falls. &nbsp;They will implanted with a radio tag and/or PIT tag. &nbsp;Radio tagged fish will be tracked as they move up the Deschutes River and into tributaries. &nbsp;Of interest is overwinter holding locations for summer steelhead and summer holding areas for spring Chinook. &nbsp;PIT tags will be recorded at several arrays within the Deschutes Subbasin. &nbsp;Data will be used to characterize migration patterns and spawning areas.</p>\r\n\r\n<p>Radio telemetry efforts will include fixed telemetry sites (in user sample 11269), boat surveys between Pelton Re-regulating Dam and Warm Springs River (rkm 161 to rkm 136), road surveys along the Deschutes River, Warm Springs River and Shitike Creek, and aerial surveys over the subbasin.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "startYear": "2018",
+  "retirementYear": "",
+  "initiationYear": "2018",
+  "targetPopulation": null,
+  "ownerName": "Cyndi Baker",
+  "ownerEmail": "cyndi.baker@ctwsbnr.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 19220,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15673/panels/19220",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15673"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21631,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15673/strata/21631",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15673"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/35",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1322",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15673/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15673",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15673/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15673",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "CTWS RM&E - Sample area for spring Chinook and summer steelhead migration patterns",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11269"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC4 - Sub Basin",
+      "areaDisplayName": "LOWER DESCHUTES"
+    }
+  ],
+  "id": 15673,
+  "title": "CTWS RM&E - Radio telemetry survey to determine migration patterns of wild adult spring Chinook and summer steelhead in lower Deschutes Subbasin",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15673",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2018-04-20T23:32:49-07:00"
+}

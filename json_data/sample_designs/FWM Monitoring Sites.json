@@ -1,0 +1,67 @@
+{
+  "description": "<p>Long-term monitoring sites for freshwater mussels have been established to detect changes in population status over decade-plus intervals. Four primary sites are monitored in the John Day system and one in the Tucannon River. These sites include populations of Margaritifera falcata only, recovering populations of Anodonta and Margaritifera, and a previously stable site containing all three genera of Western mussels. Worldwide, freshwater mussel fauna are experiencing declines across their ranges, likely due to a variety of anthropogenic impacts, and the mussel species and populations in the Western U.S. face similar circumstances. Detecting changes in mussel population status in rivers of the CTUIR&#39;s ceded territory will help guide management and conservation decisions regarding these freshwater mussel populations.&nbsp; Additional sites are considered each year to more fully monitor various mussel populations, and may be added to yearly or semi-yearly evaluation schedules.&nbsp;</p>\r\n",
+  "startYear": "2018",
+  "retirementYear": "",
+  "initiationYear": "2018",
+  "targetPopulation": null,
+  "ownerName": "Beth Glidewell",
+  "ownerEmail": "ElizabethGlidewell@ctuir.org",
+  "images": [
+    {
+      "type": "Photo",
+      "url": "http://www.monitoringresources.org/Designer/Design/UploadAsFile/5669",
+      "caption": null
+    }
+  ],
+  "panels": [
+    {
+      "id": 19327,
+      "name": "LTM Sites",
+      "abbreviation": "LTM",
+      "years": [
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026",
+        "2027"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15741/panels/19327",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15741"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21808,
+      "name": "LTM Sites",
+      "abbreviation": "LTM",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15741/strata/21808",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15741"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/19",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1534",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15741/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15741",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15741/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15741",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "FWM LTM Sites",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11305"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 15741,
+  "title": "FWM Monitoring Sites",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15741",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2018-07-02T22:12:36-07:00"
+}

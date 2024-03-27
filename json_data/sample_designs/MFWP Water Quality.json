@@ -1,0 +1,52 @@
+{
+  "description": "<p>Assess spatial and temporal trends in water quality parameters at 12 sites downstream of Libby Dam before and after implementation of a proposed nutrient addition project. The Dam-Fisher section includes 6 sites between Libby Dam and the Fisher River and the Rereg, Flower-Pipe and Troy section each have 2 sites.</p>\r\n\r\n<p>Monitoring will occur 1-2 times per month to align with other monitoring of the periphyton community.</p>\r\n\r\n<p>Monitoring will occur 1X per month from January-May at all 12 sites.</p>\r\n\r\n<p>Monitoring will occur 2X per month from June -October at all 12 sites</p>\r\n\r\n<p>Monitoring will occur 1X per month in November and December at only site 1</p>\r\n",
+  "startYear": "2022",
+  "retirementYear": "2030",
+  "initiationYear": "2022",
+  "targetPopulation": null,
+  "ownerName": "Ryan Sylvester",
+  "ownerEmail": "rsylvester@mt.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 22014,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2022"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16850/panels/22014",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16850"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24506,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16850/strata/24506",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16850"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/92",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1858",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16850/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16850",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16850/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16850",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16850",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11605"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16850,
+  "title": "MFWP Water Quality",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16850",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2023-02-08T03:19:52-08:00"
+}

@@ -1,0 +1,50 @@
+{
+  "description": "No valid data",
+  "startYear": "2017",
+  "retirementYear": "2017",
+  "initiationYear": "2017",
+  "targetPopulation": null,
+  "ownerName": "Christen Long",
+  "ownerEmail": "clong@batcon.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 19456,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15795/panels/19456",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15795"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21862,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15795/strata/21862",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15795"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/80",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1609",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15795/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15795",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15795/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15795",
+  "masterSample": {
+    "name": "Continental United States 10 KM Grid",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/10"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 15795,
+  "title": "94dd7e84-7ac0-4977-ab06-190d3f6ca6a0 California USFS Sample Design",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15795",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": "2018-08-08T05:22:40-07:00"
+}

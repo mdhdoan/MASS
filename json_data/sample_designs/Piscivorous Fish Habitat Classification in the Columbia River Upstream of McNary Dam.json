@@ -1,0 +1,33 @@
+{
+  "description": "<p>Fish location and habitat data will be input into GIS layers.&nbsp; This will enable us to define which habitat types fish were occupying during the sampling season. Habitat classes will be integrated into a GIS database for the study area. Fish capture locations will be paired to habitat type to determine fish density per habitat type. This will provide the most efficient method to link fish to habitat and strengthen proposal methods/analysis.</p>\r\n\r\n<p>Using mapping and imagery programs, assign shoreline habitats into pre-defined habitat classifications for&nbsp; Walleye, Smallmouth Bass, Northern Pikeminnow, and/or Channel Catfish from the Yakima confluence to the tailrace of the Priest Rapids Dam on the McNary Pool, Columbia River.&nbsp; Where habitat cannot be viewed, ground truth with field visits to verify. Coordinate with other agencies who may have GIS habitat layers.</p>\r\n",
+  "startYear": "2020",
+  "retirementYear": "",
+  "initiationYear": "2020",
+  "targetPopulation": null,
+  "ownerName": "Russell Scranton",
+  "ownerEmail": "rwscranton@bpa.gov",
+  "images": [],
+  "panels": [],
+  "strata": [],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/64",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1758",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16612/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16612",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16612/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16612",
+  "masterSample": null,
+  "userSamples": null,
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Mainstem Reaches and Dams",
+      "areaDisplayName": "Confluence of Snake and Columbia River to Priest Rapids Dam"
+    }
+  ],
+  "id": 16612,
+  "title": "Piscivorous Fish Habitat Classification in the Columbia River Upstream of McNary Dam",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16612",
+  "spatialDesignCategory": "Inference",
+  "spatialDesignCategoryID": 16,
+  "lastUpdated": "2020-09-26T11:10:32-07:00"
+}

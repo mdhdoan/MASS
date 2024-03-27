@@ -1,0 +1,61 @@
+{
+  "description": "No valid data",
+  "startYear": "2018",
+  "retirementYear": "",
+  "initiationYear": "2018",
+  "targetPopulation": null,
+  "ownerName": "Jon Firehammer",
+  "ownerEmail": "jfirehammer@cdatribe-nsn.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 19059,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15595/panels/19059",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15595"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21482,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15595/strata/21482",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15595"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/70",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1297",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15595/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15595",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15595/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15595",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "PIT array locations in sub-watersheds of CDA Basin",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11247"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC6 - Sub Watershed",
+      "areaDisplayName": "Lake Creek"
+    },
+    {
+      "areaTypeName": "HUC6 - Sub Watershed",
+      "areaDisplayName": "Benewah Creek"
+    }
+  ],
+  "id": 15595,
+  "title": "PIT array data collection in Lake and Benewah creeks",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15595",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2018-02-15T06:06:51-08:00"
+}

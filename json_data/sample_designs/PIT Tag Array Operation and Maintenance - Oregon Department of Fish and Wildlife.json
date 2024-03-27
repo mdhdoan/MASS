@@ -1,0 +1,52 @@
+{
+  "description": "<p>This work element covers the operation and maintenance of all Select Grande Ronde River Basin Instream PIT-tag detection arrays funded under this project.&nbsp; These arrays are to help estimate Spring/Summer run Chinook salmon and Steelhead populations in&nbsp; the Imnaha, Upper Grander Ronde, Minam.&nbsp;&nbsp;Routine maintenance will include tuning, fixing or replacing damaged antennas, cables, and monitoring equipment at existing sites.&nbsp; The goal of this work element is to ensure Instream PIT-tag detection arrays are operating and performing at the highest level, and during critical time periods.</p>\r\n",
+  "startYear": "2017",
+  "retirementYear": "",
+  "initiationYear": "2017",
+  "targetPopulation": null,
+  "ownerName": "Polly Gibson",
+  "ownerEmail": "polly.p.gibson@odfw.oregon.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 20068,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16468/panels/20068",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16468"
+    }
+  ],
+  "strata": [
+    {
+      "id": 23002,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16468/strata/23002",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16468"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/113",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16468/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16468",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16468/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16468",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16468",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11426"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16468,
+  "title": "PIT Tag Array Operation and Maintenance - Oregon Department of Fish and Wildlife",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16468",
+  "spatialDesignCategory": "Census: Restricted",
+  "spatialDesignCategoryID": 6,
+  "lastUpdated": "2022-12-10T06:48:47-08:00"
+}

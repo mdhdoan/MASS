@@ -1,0 +1,67 @@
+{
+  "description": "<p>Confederated Tribes of the Warm Springs (CTWS) &nbsp;has implemented numerous Habitat Enhancement projects within Mountain Creek. &nbsp;In 2013, CTWS&nbsp;began structuring an effectiveness monitoring program to document habitat changes due to restoration work. &nbsp;Current and proposed habitat enhancement areas were included in the effectiveness monitoring design. &nbsp;The original design was planned using a GRTS-based approach, but after initial sampling in 2013 the design was changed to a census-based approach. &nbsp;The original GRTS sites were used in sequential order (downstream to upstream order) and sampled in a census-based approach, overlapping start and end transects using the 2013 CHaMP protocol. &nbsp;Sampling of Habitat Enhancement areas was originally designed to capture habitat before and after restoration. All sites were assigned to an &#39;annual&#39; panel to provide flexibility in sampling around restoration implementation. &nbsp;Sampling ideally follows the before and 1,3, 5&nbsp;</p>\r\n\r\n<p>The effectiveness monitoring design for the habitat enhancement areas were paired with a status and trend monitoring design covering the rest of the Mountain Creek watershed. A separate sampling design describes this sampling approach. &nbsp;Both effectiveness and status and trend monitoring designs for Mountain Creek were designed to work in tandem.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "startYear": "2013",
+  "retirementYear": "",
+  "initiationYear": "2013",
+  "targetPopulation": null,
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 226,
+      "name": "MTC Annual",
+      "abbreviation": "Annual",
+      "years": [
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/73/panels/226",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/73"
+    }
+  ],
+  "strata": [
+    {
+      "id": 653,
+      "name": "Badger Creek 1",
+      "abbreviation": "Badger 1",
+      "url": "http://www.monitoringresources.org/api/v1/designs/73/strata/653",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/73"
+    },
+    {
+      "id": 652,
+      "name": "Badger Creek 2",
+      "abbreviation": "Badger 2",
+      "url": "http://www.monitoringresources.org/api/v1/designs/73/strata/652",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/73"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/73/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/73",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/73/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/73",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "MTC00001 Sample",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1030"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 73,
+  "title": "Effectiveness Monitoring of Habitat Enhancement Projects in Mountain Creek (John Day Subbasin)",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/73",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2017-01-12T03:12:01-08:00"
+}

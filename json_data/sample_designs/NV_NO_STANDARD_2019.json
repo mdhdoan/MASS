@@ -1,0 +1,90 @@
+{
+  "description": "<p>This Design was developed as part of the AIM strategy to assess Land Use Plan/ Resource Management Plan effectiveness. Includes only&nbsp;points on all perennial BLM streams and rivers in the Elko BLM District office. Previously assessed points&nbsp; from the NV statewide and WRSA projects 2013-2015 will be used as a user sampled to ensure spatial balance of new points aroung locations we have visited previously. These location include non-target (e.g., dry sites), inaccessible, and sampled sites. See the AIM strategy to understand our rejection criteria (reason a point is not sampled).&nbsp;</p>\r\n",
+  "startYear": "2019",
+  "retirementYear": "",
+  "initiationYear": "2019",
+  "targetPopulation": "<p>All perennial streams and rivers on BLM land in the Elko district office.&nbsp;</p>\r\n",
+  "ownerName": "Nicole Cappuccio",
+  "ownerEmail": "ncappuccio@blm.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 19717,
+      "name": "2019",
+      "abbreviation": "2019",
+      "years": [
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16329/panels/19717",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16329"
+    }
+  ],
+  "strata": [
+    {
+      "id": 22572,
+      "name": "Large Streams (3&4)-Tuscarora Field Office",
+      "abbreviation": "T-LS",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16329/strata/22572",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16329"
+    },
+    {
+      "id": 22573,
+      "name": "Large Streams (3&4)-Wells Field Office",
+      "abbreviation": "W-LS",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16329/strata/22573",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16329"
+    },
+    {
+      "id": 22574,
+      "name": "Rivers (5+)-Tuscarora Field Office",
+      "abbreviation": "T-RO",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16329/strata/22574",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16329"
+    },
+    {
+      "id": 22575,
+      "name": "Rivers (5+)-Wells Field Office",
+      "abbreviation": "W-RO",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16329/strata/22575",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16329"
+    },
+    {
+      "id": 22576,
+      "name": "Small Streams (1&2)-Tuscarora Field Office",
+      "abbreviation": "T-SS",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16329/strata/22576",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16329"
+    },
+    {
+      "id": 22577,
+      "name": "Small Streams (1&2)-Wells Field Office",
+      "abbreviation": "W-SS",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16329/strata/22577",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16329"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/78",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1335",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16329/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16329",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16329/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16329",
+  "masterSample": {
+    "name": "Bureau of Land Management Lotic",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/8"
+  },
+  "userSamples": [
+    {
+      "name": "NV_NO_16April2019",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11370"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16329,
+  "title": "NV_NO_STANDARD_2019",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16329",
+  "spatialDesignCategory": "Generalized Random Tessellation Stratified (GRTS)",
+  "spatialDesignCategoryID": 18,
+  "lastUpdated": "2019-04-17T05:26:06-07:00"
+}

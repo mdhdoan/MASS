@@ -1,0 +1,50 @@
+{
+  "description": "No valid data",
+  "startYear": "2017",
+  "retirementYear": "2017",
+  "initiationYear": "2017",
+  "targetPopulation": null,
+  "ownerName": "Jason Rae",
+  "ownerEmail": "Jrae@wcs.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 19030,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15578/panels/19030",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15578"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21453,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15578/strata/21453",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15578"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/80",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1385",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15578/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15578",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15578/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15578",
+  "masterSample": {
+    "name": "Canada 10 KM Grid",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/11"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 15578,
+  "title": "a1dcbc72-db16-4f07-a376-f7b9c40d7324 NABat in British Columbia Sample Design",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15578",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": "2018-01-26T05:09:11-08:00"
+}

@@ -1,0 +1,33 @@
+{
+  "description": "<p>Will model steelhead population abundance and productivity for virtually the entire&nbsp;Hood River subbasin. Data can be sourced from all juvenile and adult collection facilities, past present and future.</p>\r\n",
+  "startYear": "2022",
+  "retirementYear": "",
+  "initiationYear": "2022",
+  "targetPopulation": null,
+  "ownerName": "Ryan Gerstenberger",
+  "ownerEmail": "rgerstenberger@hrecn.net",
+  "images": [],
+  "panels": [],
+  "strata": [],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/38",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1834",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16805/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16805",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16805/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16805",
+  "masterSample": null,
+  "userSamples": null,
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC5 - Watershed",
+      "areaDisplayName": "Hood River"
+    }
+  ],
+  "id": 16805,
+  "title": "Hood River steelhead population abundance and productivity modeling",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16805",
+  "spatialDesignCategory": "Inference",
+  "spatialDesignCategoryID": 16,
+  "lastUpdated": "2022-06-10T23:53:33-07:00"
+}

@@ -1,0 +1,69 @@
+{
+  "description": "No valid data",
+  "startYear": "2018",
+  "retirementYear": "",
+  "initiationYear": "2018",
+  "targetPopulation": "<p>test</p>\r\n",
+  "ownerName": "Scott Miller",
+  "ownerEmail": "scott.miller@usu.edu",
+  "images": [],
+  "panels": [
+    {
+      "id": 8887,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2673/panels/8887",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2673"
+    }
+  ],
+  "strata": [
+    {
+      "id": 11320,
+      "name": "Large Streams (3&4)",
+      "abbreviation": "S0",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2673/strata/11320",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2673"
+    },
+    {
+      "id": 11321,
+      "name": "Rivers (5+)",
+      "abbreviation": "S1",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2673/strata/11321",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2673"
+    },
+    {
+      "id": 11322,
+      "name": "Small Streams (1&2)",
+      "abbreviation": "S2",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2673/strata/11322",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2673"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/78",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1335",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/2673/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/2673",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/2673/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/2673",
+  "masterSample": {
+    "name": "Bureau of Land Management Lotic",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/8"
+  },
+  "userSamples": [
+    {
+      "name": "WRSA_Rawlins",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1116"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 2673,
+  "title": "WRSA_RawlinsTest",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/2673",
+  "spatialDesignCategory": "Generalized Random Tessellation Stratified (GRTS)",
+  "spatialDesignCategoryID": 18,
+  "lastUpdated": "2017-10-27T03:33:01-07:00"
+}

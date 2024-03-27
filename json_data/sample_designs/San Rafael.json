@@ -1,0 +1,50 @@
+{
+  "description": "No valid data",
+  "startYear": "2016",
+  "retirementYear": "",
+  "initiationYear": "2016",
+  "targetPopulation": "<p>San Rafael Basin</p>\r\n",
+  "ownerName": "Jacob Wirtz",
+  "ownerEmail": "jake.wirtz@ecologicalresearch.net",
+  "images": [],
+  "panels": [
+    {
+      "id": 6942,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2016"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2517/panels/6942",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2517"
+    }
+  ],
+  "strata": [
+    {
+      "id": 8504,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2517/strata/8504",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2517"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/78",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1336",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/2517/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/2517",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/2517/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/2517",
+  "masterSample": {
+    "name": "Bureau of Land Management Terrestrial",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/9"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 2517,
+  "title": "San Rafael",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/2517",
+  "spatialDesignCategory": "Proportional to Size",
+  "spatialDesignCategoryID": 13,
+  "lastUpdated": "2017-10-03T06:08:01-07:00"
+}

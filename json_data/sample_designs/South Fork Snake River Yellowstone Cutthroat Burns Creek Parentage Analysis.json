@@ -1,0 +1,33 @@
+{
+  "description": "<p>Genotype 5,586 tissue samples collected over the past few years via routine sampling at Burns Creek weir from 2018-2021. All the samples collected at the weir in 2016 and 2017 have been genotyped and the findings are detailed Hargrove et al. (2021). Genotyping these additional samples from 2018-2021 would make it possible to expand our PBT baseline, perform parentage analysis on wild returning adults, determine adult sex ratios through time, and identify reproductive behaviors over 5 spawn years (e.g., repeat spawning). Furthermore, these genetic data could be used to document trends in levels of genetic diversity and effective population size.&nbsp;</p>\r\n",
+  "startYear": "2022",
+  "retirementYear": "2022",
+  "initiationYear": "2022",
+  "targetPopulation": null,
+  "ownerName": "Patrick Kennedy",
+  "ownerEmail": "pat.kennedy@idfg.idaho.gov",
+  "images": [],
+  "panels": [],
+  "strata": [],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/65",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1826",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16785/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16785",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16785/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16785",
+  "masterSample": null,
+  "userSamples": null,
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC6 - Sub Watershed",
+      "areaDisplayName": "Burns Canyon"
+    }
+  ],
+  "id": 16785,
+  "title": "South Fork Snake River Yellowstone Cutthroat Burns Creek Parentage Analysis",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16785",
+  "spatialDesignCategory": "Inference",
+  "spatialDesignCategoryID": 16,
+  "lastUpdated": "2022-03-11T02:49:29-08:00"
+}

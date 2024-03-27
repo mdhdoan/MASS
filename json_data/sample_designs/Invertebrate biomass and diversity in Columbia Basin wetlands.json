@@ -1,0 +1,52 @@
+{
+  "description": "<p>Fish inhabited wetlands versus fish free wetlands and the effects that fish have on invertebrate populations and waterfowl production has been an ongoing investigation for decades.&nbsp; In North America most studies pertaining to this issue are conducted in the prairie pothole region.&nbsp; This region is considered the most important duck production habitat in North America because it can account for 50% of annual production of ducks on this continent (Smith et al. 1964) and 20 of 34 species of ducks that breed in North America are present in the area (Batt et al. 1989).&nbsp; Much of the importance of the prairie pothole region to breeding ducks stems from high biomass and secondary productivity of macroinvertebrates in prairie potholes (Bataille and Baldassarre 1993). The Columbia Basin Irrigation Project (CBIP) has created attractive wetland habitat for breeding ducks, and after completion of CBIP, breeding duck pairs increased significantly (Foster and Myers 1984).&nbsp; In 1985, when weighted breeding population indices were around 200,000 the wasteway stratum (primarily in the Desert unit of the Wildlife Area) supported 77 breeding duck pairs/km2, which is comparable to densities in the prairie pothole region (M. Monda, WDFW, unpublished data, Giudice et al. 2000).&nbsp; However, waterfowl productivity and wetland diversity within the Columbia Basin have consistently declined in recent years (Columbia Basin Wildlife Area Wetland Management Plan, WDFW, 2006).&nbsp; Fish are believed to be a culprit for this decline because they depress vegetative and invertebrate communities.&nbsp; Fish presence significantly alters composition and abundance of invertebrate communities (Batzer et al. 2000, Zimmer et al. 2001) and typically reduces invertebrate availability to waterfowl (Bendell and McNicol 1995, Bouffard and Hanson 1997).&nbsp; Most wetlands within the CBIP are currently inhabited by fish.&nbsp; However, there are a few isolated wetlands that do not include fish and others that have potential to be rehabilitated and managed as fish-free.&nbsp; Our hypothesis that we tested is that relative abundance of invertebrates differs between ponds with and without fish.\u200b</p>\r\n\r\n<p>Invertebrate sampling was conducted April 2016 to June 2016, sampling was split into three rounds; each round consisted of two weeks of sampling.&nbsp; Collection of invertebrates involved using Surface-associated Activity Traps (SAT) in both open and vegetated aquatic habitats and evenly distributed through study sites.&nbsp; SATs are effective for characterizing wetland invertebrate communities and provide considerable improvement over conventional activity traps for measures of relative abundance (Hanson et al. 2000).&nbsp; SATs performed well for this project since traps replicate the feeding zone of most duck species and especially ducklings feeding zone. &nbsp; \u200b</p>\r\n",
+  "startYear": "2016",
+  "retirementYear": "2016",
+  "initiationYear": "2016",
+  "targetPopulation": null,
+  "ownerName": "Chattan McPherson",
+  "ownerEmail": "Chattan.Mcpherson@dfw.wa.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 20262,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2016"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16544/panels/20262",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16544"
+    }
+  ],
+  "strata": [
+    {
+      "id": 23090,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16544/strata/23090",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16544"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/64",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1742",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16544/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16544",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16544/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16544",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Invertebrate trap locations",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11494"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16544,
+  "title": "Invertebrate biomass and diversity in Columbia Basin wetlands",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16544",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2020-04-03T05:24:25-07:00"
+}

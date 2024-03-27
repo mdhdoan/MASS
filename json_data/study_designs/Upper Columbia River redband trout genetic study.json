@@ -1,0 +1,66 @@
+{
+  "backgroundRationale": "<p>The Columbia River&nbsp;Redband&nbsp;Trout&nbsp;<em>Oncorhynchus</em><em>&nbsp;</em><em>mykiss</em><em>&nbsp;</em><em>gairdneri</em>&nbsp;are a subspecies of Rainbow Trout native to the Columbia River drainage east of the Cascade Mountains. Their known distribution extends upstream as far as barrier falls on the Snake, Spokane, Pend Oreille, and&nbsp;Kootenai&nbsp;rivers (Allendorf&nbsp;et al. 1980;&nbsp;Behnke&nbsp;1992). There is considerable variability in the life history of Columbia River&nbsp;Redband&nbsp;Trout (Redband&nbsp;Trout) including both&nbsp;anadromous&nbsp;(<em>O.</em><em>&nbsp;</em><em>mykiss</em>&nbsp;that migrate to the ocean) and&nbsp;potamodromous&nbsp;(<em>O.</em><em>&nbsp;</em><em>mykiss</em>&nbsp;that migrate solely within fresh water) forms (Behnke&nbsp;1992). Recently,&nbsp;potamodromous&nbsp;Redband&nbsp;Trout were estimated to occur in 42% of their historic range with invasive species habitat degradation and fragmentation, and climate change being the primary threats to their long term survival (Muhlfeld&nbsp;2015). Redband Trout are classified as a sensitive species or species of special concern by several states and federal agencies and the American Fisheries Society Endangered Species Committee (Williams et al. 1989;&nbsp;Muhlfeld&nbsp;et al. 2001).</p>\r\n\r\n<p>The construction of Grand Coulee Dam in 1939 eliminated the opportunity for&nbsp;Redband&nbsp;Trout in the Upper Columbia River to express&nbsp;anadromy&nbsp;(Scholz&nbsp;et al. 1985) and likely blocked migration routes and isolated populations and habitats of&nbsp;potamodromous&nbsp;Redband&nbsp;Trout. Lake Roosevelt formed in the impounded portion of the Columbia River behind Grand Coulee Dam and supports important tribal and recreational fisheries.&nbsp;Non-native hatchery Rainbow Trout (McCloud&nbsp;River, California &nbsp;<em>O.</em><em>&nbsp;</em><em>stonei</em>) have been stocked in the upper Columbia River and its tributaries to provide angling opportunities and as mitigation for hydropower related impacts (Stober&nbsp;et al. 1977;&nbsp;Peone&nbsp;et al. 1989). Naturally reproducing Rainbow Trout still occur in the upper Columbia River drainage upstream of Grand Coulee Dam.&nbsp;</p>\r\n\r\n<p>Potamodromy can be divided into four types: fluvial, fluvial-adfluvial, lacustrine-adfluvial, and allacustrine (Varley and Gresswell 1988; Northcote 1997). Lake Roosevelt and its tributaries support fluvial, fluvial-adfluvial, and lacustrine-adfluvial&nbsp;life history types. All three life history types have also been documented within the&nbsp;Sanpoil&nbsp;River drainage, including a small fall run of&nbsp;lacustrine&nbsp;adfluvial&nbsp;fish (Brown et al. 2013). The Sanpoil is the only documented tributary in Lake Roosevelt supporting fall migrating adult&nbsp;Redband&nbsp;Trout.</p>\r\n\r\n<p>Microsatellite&nbsp;DNA analysis conducted on wild-born Rainbow Trout in the upper Columbia River drainage indicated that some stocks were pure&nbsp;Redband&nbsp;Trout (Powell and&nbsp;Faler&nbsp;2002; Taylor 2002; Small and Dean 2006, 2007; Small et al. 2007). Redband Trout persisted in many tributaries with no history of coastal-lineage hatchery Rainbow Trout introductions and where barriers prevented hatchery fish from moving into tributaries (Small et al. 2007).</p>\r\n\r\n<p>The Redband Trout Stock Assessment Project (RTSAP) was initiated in Lake Roosevelt by the three co-managers in 2010, Washington Department of Fish and Wildlife (WDFW),&nbsp;Colville&nbsp;Confederated Tribes (CCT), and the Spokane Tribe of Indians (STI). One of the objectives of RTSAP study is to develop a basin wide genetic stock inventory of the remnant Redband Trout populations in the Lake Roosevelt watershed. This information will be used by regional fisheries managers to assist with habitat restoration plans, conservation needs, and harvest regulation changes.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<h2>&nbsp;</h2>\r\n",
+  "sampleDesigns": [
+    {
+      "id": 10014,
+      "title": "Redband Trout Genetics Study - Colville Confederated Tribes",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/10014",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": null
+    },
+    {
+      "id": 10015,
+      "title": "Redband Trout Genetics Analysis - Colville Confederated Tribes",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/10015",
+      "spatialDesignCategory": "Inference",
+      "spatialDesignCategoryID": 16,
+      "lastUpdated": null
+    },
+    {
+      "id": 10018,
+      "title": "Collect Genetic Tissue Samples from wild Rainbow Trout  in Deep Creek - Washington Department of Fish and Wildlife (WDFW)",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/10018",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": null
+    }
+  ],
+  "objectives": [
+    "Determine the genetic status (pure, introgressed, or naturalized non-native) of wild trout populations within the Lake Roosevelt watershed."
+  ],
+  "keyAssumptions": "<p>The tissue samples collected for each population are representative of the entire genetic diversity found within the population and not just a small sample representing siblings.</p>\r\n\r\n<p>The 192 SNPs are appropriate for determining Redband&nbsp;Trout population level distinctions.</p>\r\n",
+  "dataHandlingConsiderations": "<p>Data will be processed by the WDFW Genetics Lab, Olympia, Washington</p>\r\n",
+  "qualityControlConsiderations": "<p>??</p>\r\n\r\n<p>Tissue samples will be collected according to WDFW genetics laboratory protocols. Samples will be preserved&nbsp;dry on blotter paper.</p>\r\n",
+  "reportingConsiderations": "<p>Results will be included in annual progress reports.</p>\r\n",
+  "equipmentCleaningAndCalibration": "<p>All equipment will be cleaned and disinfected after each sampling event.</p>\r\n",
+  "rolesAndResponsibilities": "<p>Project lead biologist: responsible for project development, project reporting, budget management, and data quality control. Field biologist: responsible for project implementation, specified data collections, field crew supervision, and equipment ordering. Scientific technicians: responsible for daily data collection, equipment maintenance, and data entry.</p>\r\n",
+  "qualifications": "<p>Project Lead: M.S. degree in fisheries or related discipline and minimum 5 years field experience and supervising technicians. Field Lead: B.S. degree in fisheries or related discipline and field experience with fish trapping preferred Crew Members: H.S. diploma and field experience preferred</p>\r\n",
+  "trainingRequirements": "<p>Crew Lead: Proficient in Microsoft Office (including Excel, Word, Powerpoint), GIS, and statistical software. Trained in operating boats and completion of Motorboat Operator Certification Course. Proficient in regional fish identification and ability to trouble shoot gear and equipment issues. Trained in use of hazardous chemicals.</p>\r\n",
+  "safetyConsiderations": null,
+  "fieldScheduleNotes": "<p>Tissue samples should be collected from adult fish&nbsp;during the upstream spawing migrations, creel surveys on Lake Roosevelt,&nbsp;or collected at multiple locations to ensure the full populations genetic variation is captured.</p>\r\n",
+  "budgetConsiderations": "<p>Genetic analysis is expensive and requires a minimum sample number; however, analysis of collections from each tributary only needs to be conducted once.</p>\r\n",
+  "monitoringPurpose": null,
+  "estimatedCostPerSite": "> $10,000",
+  "optionalMethodIDs": [],
+  "optionalMethods": [],
+  "id": 1216,
+  "name": "Upper Columbia River redband trout genetic study",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/studyDesigns/1216",
+  "programID": 21,
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/21",
+  "protocolID": 3513,
+  "protocolUrl": "http://www.monitoringresources.org/api/v1/protocols/3513",
+  "ownerName": "Holly McLellan",
+  "ownerEmail": "holly.mclellan@colvilletribes.com",
+  "majorVersion": 1,
+  "minorVersion": 0,
+  "previousStudyDesignVersionId": null,
+  "previousStudyDesignVersionUrl": "[none]",
+  "mostRecentVersionId": null,
+  "mostRecentVersionUrl": "[none]"
+}

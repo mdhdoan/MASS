@@ -1,0 +1,63 @@
+{
+  "description": "No valid data",
+  "startYear": "2011",
+  "retirementYear": "",
+  "initiationYear": "2011",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Ben Truscott",
+  "ownerEmail": "ben.truscott@dfw.wa.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 19247,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2011"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16152/panels/19247",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16152"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21660,
+      "name": "Methow River Basin IPTDS",
+      "abbreviation": "Met IPTDS",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16152/strata/21660",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16152"
+    },
+    {
+      "id": 21661,
+      "name": "Wenatchee River Basin IPTDS",
+      "abbreviation": "Wen IPTDS",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16152/strata/21661",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16152"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1503",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16152/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16152",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16152/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16152",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "WDFW In-stream PIT tag Detection System Operations and Maintenance in the Wenatchee River Basin v3",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11278"
+    },
+    {
+      "name": "WDFW In-stream PIT tag Detection System Operations and Maintenance in the Methow River Basin",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11279"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16152,
+  "title": "WDFW In-stream PIT tag Detection System Design, Build, Install and Repair in the Upper Columbia River Basin",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16152",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2018-04-28T01:28:06-07:00"
+}

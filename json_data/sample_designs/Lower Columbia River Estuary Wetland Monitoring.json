@@ -1,0 +1,52 @@
+{
+  "description": "<p>Nine sites along the Lower Columbia estuary to tidal river gradient are sampled quarterly for wetland elevation, turbidity, and inundation.</p>\r\n",
+  "startYear": "2022",
+  "retirementYear": "2024",
+  "initiationYear": "2022",
+  "targetPopulation": null,
+  "ownerName": "Maggie McKeon",
+  "ownerEmail": "maggie.mckeon@pnnl.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 21962,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2022"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16815/panels/21962",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16815"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24460,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16815/strata/24460",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16815"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1811",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16815/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16815",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16815/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16815",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16815",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11590"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16815,
+  "title": "Lower Columbia River Estuary Wetland Monitoring",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16815",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2022-08-09T01:22:53-07:00"
+}

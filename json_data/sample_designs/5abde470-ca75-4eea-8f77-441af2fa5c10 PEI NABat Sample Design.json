@@ -1,0 +1,50 @@
+{
+  "description": "No valid data",
+  "startYear": "2017",
+  "retirementYear": "2017",
+  "initiationYear": "2017",
+  "targetPopulation": null,
+  "ownerName": "Jordi Segers",
+  "ownerEmail": "jsegers@cwhc-rcsf.ca",
+  "images": [],
+  "panels": [
+    {
+      "id": 19234,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15679/panels/19234",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15679"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21645,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15679/strata/21645",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15679"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/80",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1509",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15679/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15679",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15679/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15679",
+  "masterSample": {
+    "name": "Canada 10 KM Grid",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/11"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 15679,
+  "title": "5abde470-ca75-4eea-8f77-441af2fa5c10 PEI NABat Sample Design",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15679",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": "2018-04-26T23:34:51-07:00"
+}

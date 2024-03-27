@@ -1,0 +1,52 @@
+{
+  "description": "<p>Monitoring Effects to CCP Objective 6a: Refuge Islands provide nesting habitat for large numbers of colonial waterbirds. These islands also provide vital resting and loafing areas for large concentrations of waterfowl and stopover sites for migrating songbirds. Altered pool hydrology may cause significant erosion to these islands. Islands will be measured to assess loss or gain.&nbsp;<br />\r\nMonitoring effects to CCP Objective 10a: Umatilla NWR is one of the most popular waterfowl hunting destinations in OR and WA. Pool elevations may have profound effects to the abundance of ducks and geese, which will reduce the quality of the hunters&rsquo; experience and the overall number of hunters. Hunter numbers and satisfaction with program will be monitored.</p>\r\n",
+  "startYear": "2021",
+  "retirementYear": "",
+  "initiationYear": "2021",
+  "targetPopulation": null,
+  "ownerName": "Steven Kahl",
+  "ownerEmail": "steve_kahl@fws.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 21614,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16675/panels/21614",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16675"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24280,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16675/strata/24280",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16675"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1779",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16675/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16675",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16675/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16675",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16675",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11531"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16675,
+  "title": "Umatilla National Wildlife Refuge Waterfowl Monitoring",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16675",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": "2021-02-26T08:02:01-08:00"
+}

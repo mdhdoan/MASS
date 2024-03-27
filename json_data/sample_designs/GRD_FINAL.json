@@ -1,0 +1,95 @@
+{
+  "description": "No valid data",
+  "startYear": "2016",
+  "retirementYear": "",
+  "initiationYear": "2016",
+  "targetPopulation": "<p>Perennial streams and rivers in the Green River District, UT and on BLM lands</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "ownerName": "Scott Miller",
+  "ownerEmail": "scott.miller@usu.edu",
+  "images": [],
+  "panels": [
+    {
+      "id": 6994,
+      "name": "Year 1",
+      "abbreviation": "Yr1",
+      "years": [
+        "2016"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2534/panels/6994",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2534"
+    },
+    {
+      "id": 6995,
+      "name": "Year 2",
+      "abbreviation": "Yr2",
+      "years": [
+        "2016"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2534/panels/6995",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2534"
+    }
+  ],
+  "strata": [
+    {
+      "id": 8698,
+      "name": "Price-Large Streams (3&4)",
+      "abbreviation": "S1",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2534/strata/8698",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2534"
+    },
+    {
+      "id": 8699,
+      "name": "Price-Rivers (5+)",
+      "abbreviation": "S2",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2534/strata/8699",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2534"
+    },
+    {
+      "id": 8697,
+      "name": "Price-Small Streams (1&2)",
+      "abbreviation": "S0",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2534/strata/8697",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2534"
+    },
+    {
+      "id": 8701,
+      "name": "Vernal-Large Streams (3&4)",
+      "abbreviation": "S4",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2534/strata/8701",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2534"
+    },
+    {
+      "id": 8702,
+      "name": "Vernal-Rivers (5+)",
+      "abbreviation": "S5",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2534/strata/8702",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2534"
+    },
+    {
+      "id": 8700,
+      "name": "Vernal-Small Streams (1&2)",
+      "abbreviation": "S3",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2534/strata/8700",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2534"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/78",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1335",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/2534/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/2534",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/2534/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/2534",
+  "masterSample": {
+    "name": "Bureau of Land Management Lotic",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/8"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 2534,
+  "title": "GRD_FINAL",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/2534",
+  "spatialDesignCategory": "Generalized Random Tessellation Stratified (GRTS)",
+  "spatialDesignCategoryID": 18,
+  "lastUpdated": "2017-10-03T05:40:52-07:00"
+}

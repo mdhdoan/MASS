@@ -1,0 +1,57 @@
+{
+  "description": "<p>Site where larval lamprey used in lab testa are collected.&nbsp;</p>\r\n",
+  "startYear": "2022",
+  "retirementYear": "2023",
+  "initiationYear": "2022",
+  "targetPopulation": null,
+  "ownerName": "Theresa \"Marty\" Liedtke",
+  "ownerEmail": "tliedtke@usgs.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 21910,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2022"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16792/panels/21910",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16792"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24432,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16792/strata/24432",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16792"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1828",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16792/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16792",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16792/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16792",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16792",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11573"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Columbia River Basin",
+      "areaDisplayName": "Columbia River"
+    }
+  ],
+  "id": 16792,
+  "title": "Larval lamprey collection for lab testing",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16792",
+  "spatialDesignCategory": "Census: Restricted",
+  "spatialDesignCategoryID": 6,
+  "lastUpdated": "2022-03-18T01:55:51-07:00"
+}

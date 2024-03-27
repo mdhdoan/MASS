@@ -1,0 +1,104 @@
+{
+  "backgroundRationale": "<p>In-stream PIT tag Detection Systems (IPTDS) have been installed across the Columbia River Basin for the purpose of estimating juvenile and adult abundance, survival, and distribution. For most applications individual tag detections have limited value without accompanying information about detection probability (i.e., fraction of PIT tags that may have transited an array without detection). This protocol describes how standard diagnostic data can be reported and utilized to support estimates of detection probability.</p>\r\n\r\n<p>For this protocol, we assume that IPTDS are intended to operate in a temporally continuous manner for a given time period (i.e., 365 days/year; during the spawning migration, etc.). We also assume that the analysis of interrogation data requires the ability to estimate detection probabilities. Given these assumptions it is critical that site diagnostic and detection data can be accessed in near-real-time. In other words, periods of in-operation resulting from equipment or power failures are assumed to be detrimental.</p>\r\n\r\n<p>Although IPTDS are typically installed to address the information needs of a specific project, interrogation data from IPTDS are often leveraged in other forums or designs. In order for IPTDS interrogation data to be useful for meta-analyses, users without specific familiarity with a given IPTDS must be able to assess the statistical reliability of the interrogation data. IPTDS site metadata standards are enforced by IPTDS registration as a &ldquo;small-scale site&rdquo; in the PIT Tag Information System (PTAGIS; www.ptagis.org). PTAGIS displays IPTDS site maps, summarizes IPTDS infrastructure, and allows for &ldquo;event log&rdquo; entries that describe system failures and alert data consumers to potential gaps in information resulting from site failure or routine periods of in-operation. The site maps displayed in PTAGIS can be used to determine whether detection data are sufficient to meet the assumptions of commonly-used statistical analyses.</p>\r\n\r\n<p>This protocol also requires the use of routine diagnostic and interrogation file downloads from a given IPTDS. We recommend a daily download interval, which typically requires the use of a cellular or satellite modem. Routine download and review of diagnostic and interrogation data provides advanced warning of impending system failure, thus reducing repair costs, and reduces the potential for lost data resulting from system failure. Analyzing and interpreting diagnostic data from IPTDS system components can be challenging. We recommend using a commercially available service that automates data downloads, performs routine data summaries, and provides automated email or text alerts when diagnostic data indicate potential system failures (e.g., the Biomark, Inc. &ldquo;Data Manager&rdquo; service).</p>\r\n",
+  "sampleDesigns": [
+    {
+      "id": 2872,
+      "title": "Operate and maintain ISEMP IPTDS throughout the Columbia River basin  (Priorities 4.3 - 4.4) - Quantitative Consultants Inc 1",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2872",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": null
+    },
+    {
+      "id": 2874,
+      "title": "Operate & maintain Tucannon River PIT tag array - Washington Department of Fish and Wildlife (WDFW): Evaluation of the Tucannon endemic stock - BPA project 2010-050-00",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2874",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": null
+    },
+    {
+      "id": 2877,
+      "title": "PIT Tag Array Operation and Maintenance - Yakama Confederated Tribes",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2877",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": "2019-04-26T03:54:58-07:00"
+    },
+    {
+      "id": 2878,
+      "title": "PIT Array O&M Tucannon River",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2878",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": "2020-04-10T00:17:17-07:00"
+    },
+    {
+      "id": 16336,
+      "title": "PIT Tag Array Operation and Maintenance - Yakama Confederated Tribes (Toppenish Creek Steelhead Population)",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16336",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": "2019-04-26T04:21:37-07:00"
+    },
+    {
+      "id": 16468,
+      "title": "PIT Tag Array Operation and Maintenance - Oregon Department of Fish and Wildlife",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16468",
+      "spatialDesignCategory": "Census: Restricted",
+      "spatialDesignCategoryID": 6,
+      "lastUpdated": "2022-12-10T06:48:47-08:00"
+    },
+    {
+      "id": 16741,
+      "title": "PIT Array O&M Lower Snake River Mainstem Tributaries for the Asotin and Tucannon River",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16741",
+      "spatialDesignCategory": "Census: Restricted",
+      "spatialDesignCategoryID": 6,
+      "lastUpdated": "2021-09-29T04:29:01-07:00"
+    }
+  ],
+  "objectives": [
+    "Describe standard infrastructure, data collection, and data management to generate detection data with known detection probability.",
+    "Support assessment of abundance, movements and timing of fish emigration and immigration and origin",
+    "Ensure operation of the array and upload of Data for operation data"
+  ],
+  "keyAssumptions": "<p>This protocol describes a standard for IPTDS infrastructure and data management, and therefore is not accompanied by assumptions. However the use of IPTDS interrogation data is subject to the assumptions of whatever statistical framework is employed.</p>\r\n",
+  "dataHandlingConsiderations": "<p>This protocol relies on automated parsing of IPTDS interrogation and diagnostic data to create PTAGIS interrogation upload files and user alerts generated when diagnostic data indicate that one or more IPTDS components is not operating within specification. In order to generate reliable data, it is critical that site diagnostics and interrogation data are downloaded on a continuous and routine basis; preferably daily. It is often most cost-effective to utilize cellular, satellite, or Ethernet modems to download data, particularly for IPTDS in remote locations. Data is uploaded into PTAGIS (http://www.ptagis.org/)</p>\r\n",
+  "qualityControlConsiderations": "<p>We strongly recommend the use of commercially available software (e.g., Biomark, Inc. &quot;Data Manager&quot;) to manage IPTDS interrogation and diagnostic data. The process of converting standard site downloads into PTAGIS upload files is reasonably straightforward, but can be time consuming; doing so also introduces the potential for human error. Additionally, site diagnostic data are voluminous and may be difficult to interpret. The commercially available service referenced here automates the reduction and display of these data in a user-friendly format and generates email alerts when diagnostic data indicate potential system failure. Data is recorded and uploaded, if there is a misread the data does not get uploaded (QA/QC done by BioMark)</p>\r\n",
+  "reportingConsiderations": "<p>It is crucial that IPTDS operators consistently maintain their site metadata in PTAGIS. Changes in site &quot;architecture&quot; (i.e., location of antennas within the stream channel), infrastructure, and periods of system failure all must be known to analyze interrogation data. Similarly, timely (e.g., daily) interrogation data uploads to PTAGIS are recommended.</p>\r\n",
+  "equipmentCleaningAndCalibration": null,
+  "rolesAndResponsibilities": "<p>We strongly recommend that one individual is identified to be the primary &quot;site steward&quot; for a given IPTDS. A backup site steward should be identified for periods when the primary steward is unavailable. The site steward is responsible for reviewing interrogation and diagnostic data on a daily basis to ensure that the IPTDS is functioning properly.</p>\r\n",
+  "qualifications": "<p>Data management requires strong computer skills including the ability to manipulate complex spreadsheets and/or simple databases. IPTDS maintenance requires: advanced electrical skills; a strong understanding of low-frequency radio frequency identification theory and common components; a strong understanding of common communications protocols such as TCP/IP, terminal, and terminal emulators; familiarity with commonly used power sources such as alternating current (grid power) and direct current (thermoelectric generators and solar); understanding of AC/DC conversion; and attention to detail.</p>\r\n",
+  "trainingRequirements": "<p>See qualifications.</p>\r\n",
+  "safetyConsiderations": "<p>Some IPTDS components generate extremely high voltages/amperages. Site stewards will commonly find themselves working in remote locations in inclement weather. Where possible, we strongly recommend that a minimum of two individuals conduct maintenance activities.</p>\r\n",
+  "fieldScheduleNotes": "<p>We recommend budgeting labor and travel for one routine maintenance visit per year and one emergency visit every other year. If communication with the site cannot be conducted remotely (e.g., using a satellite or cellular modem), we strongly recommend daily site visits to download interrogation and diagnostic data.</p>\r\n",
+  "budgetConsiderations": "<p>As a rule of thumb, we recommend budgeting replacement parts at 5% of total infrastructure costs per year. Note that catastrophic failures resulting from downed trees or flood conditions are not uncommon and may result in repair costs that approach complete replacement.</p>\r\n",
+  "monitoringPurpose": "Status and Trends Monitoring",
+  "estimatedCostPerSite": "$2,500 to $5,000",
+  "optionalMethodIDs": [],
+  "optionalMethods": [],
+  "id": 113,
+  "name": "In-Stream PIT tag Detection System (IPTDS) Data Standards",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/studyDesigns/113",
+  "programID": 40,
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40",
+  "protocolID": 2262,
+  "protocolUrl": "http://www.monitoringresources.org/api/v1/protocols/2262",
+  "ownerName": "Kyle Meier",
+  "ownerEmail": "kyle.meier@biomark.com",
+  "majorVersion": 1,
+  "minorVersion": 0,
+  "previousStudyDesignVersionId": null,
+  "previousStudyDesignVersionUrl": "[none]",
+  "mostRecentVersionId": null,
+  "mostRecentVersionUrl": "[none]"
+}

@@ -1,0 +1,52 @@
+{
+  "description": "<p>Fish species distribution data to be collected within the Lolo Creek watershed utilizing unblocked, single-pass backpack electrofishing surveys. Survey site locations to be established spring of 2019 following analysis of 2018 eDNA samples and identification of salmonid distribution data gaps through application of BPA&rsquo;s Atlas habitat restoration prioritization tool. Sample site location represents approximated center of 2019 electrofishing activities.</p>\r\n",
+  "startYear": "2019",
+  "retirementYear": "2019",
+  "initiationYear": "2019",
+  "targetPopulation": null,
+  "ownerName": "Clint Chandler",
+  "ownerEmail": "clintc@nezperce.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 19612,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16256/panels/19612",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16256"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21961,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16256/strata/21961",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16256"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/24",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1668",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16256/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16256",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16256/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16256",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16256",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11344"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16256,
+  "title": "Lolo Creek Electrofishing - 2019",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16256",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2019-01-08T03:36:25-08:00"
+}

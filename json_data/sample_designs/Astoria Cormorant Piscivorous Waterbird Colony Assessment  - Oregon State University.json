@@ -1,0 +1,57 @@
+{
+  "description": "<p>Assess colony size at selected unmanaged piscivorous waterbird colonies in the Columbia River estuary to estimate per-capita predation rates by double-crested cormorants nesting on the Astoria-Megler Bridge</p>\r\n\r\n<p>We will conduct several boat-based surveys&nbsp;(May- July) to estimate the size of the double-crested cormorant colony on the Astoria-Megler Bridge in 2021; this colony is currently the largest for the species throughout the Pacific Flyway of North America. This will allow us to estimate the per-capita smolt predation rates of double-crested cormorants nesting at the Bridge colony. This new analysis will provide resource managers with the information needed to adaptively manage current plans to reduce double-crested cormorant predation on juvenile salmonids in the CRE.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "startYear": "2021",
+  "retirementYear": "",
+  "initiationYear": "2021",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Ken Collis",
+  "ownerEmail": "ken@realtimeresearch.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 21599,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16669/panels/21599",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16669"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24273,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16669/strata/24273",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16669"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/9",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1721",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16669/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16669",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16669/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16669",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16669",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11527"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Lower Columbia Estuary (LCREP)",
+      "areaDisplayName": "Coastal Lowlands Entrance-Mixing"
+    }
+  ],
+  "id": 16669,
+  "title": "Astoria Cormorant Piscivorous Waterbird Colony Assessment  - Oregon State University",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16669",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": "2021-01-21T02:50:40-08:00"
+}

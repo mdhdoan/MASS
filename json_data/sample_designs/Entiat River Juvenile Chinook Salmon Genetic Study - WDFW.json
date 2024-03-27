@@ -1,0 +1,52 @@
+{
+  "description": "<p>The existence of both spring and summer run juvenile Chinook Salmon outmigrants from the Entiat River has resulted in classification uncertainty when juvenile Chinook Salmon are captured during portions of the outmigration period. Differentiation between yearling and subyearling Chinook Salmon captured during the spring and early summer months is based on differences in body length, and all yearlings are classified as spring run. To partition between subyearling run types encountered later in the season, daily catch rates are evaluated to determine the date at which catch-frequency is lowest representing a date-nadir between runs. All subyearling Chinook Salmon captured after the date-nadir are considered spring Chinook Salmon while preceding captures are classified as summer Chinook Salmon.&nbsp;The date-nadir method of run classification was formally assessed through genetic analysis in 2018 (Desgroseillier et al. 2018). This assessment indicated a moderate to high amount of variability in juvenile out-migration timing which impacted run assignment accuracy&nbsp;and subsequent outmigrant abundance estimates.</p>\r\n",
+  "startYear": "2021",
+  "retirementYear": "2022",
+  "initiationYear": "2021",
+  "targetPopulation": "COPY: COPY: COPY: ",
+  "ownerName": "Tom Desgroseillier",
+  "ownerEmail": "Thomas.Desgroseillier@dfw.wa.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 21710,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16716/panels/21710",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16716"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24324,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16716/strata/24324",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16716"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/64",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1784",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16716/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16716",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16716/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16716",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Operate smolt traps to capture juvenile Salmonids in the Entiat River - WDFW",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11318"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16716,
+  "title": "Entiat River Juvenile Chinook Salmon Genetic Study - WDFW",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16716",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2021-05-20T00:54:07-07:00"
+}

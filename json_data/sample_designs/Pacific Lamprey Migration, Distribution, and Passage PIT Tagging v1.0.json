@@ -1,0 +1,173 @@
+{
+  "description": "<p>Complex life cycles make anadromous fishes particularly susceptible to environmental and anthropogenic change. Anadromous lampreys (family: Petromyzontidae), for example, move over extensive spatial and temporal scales in order to successfully complete their life cycles. They use freshwater benthic habitats as larvae, freshwater streams and rivers as downstream migrating juveniles, the ocean as parasitic juveniles adults, and then freshwater again during their upstream migration prior to spawning. Human impacts on habitats and ecological communities potentially affect these fish at each life history stage.</p>\r\n\r\n<p>PIT telemetry has been used widely to document passage efficiency of anadromous fishes within&nbsp;mainstem rivers, tributaries, and at barriers within these environments. The data are used to evaluate structural and operational modifications made to improve passage success of adult Pacific Lamprey&nbsp;at mainstem and tributary dams. Fixed-site PIT arrays are strategically positioned to detect PIT tagged fish passing at specific areas of interest in the fishways. The resulting detections are then used to document passage success, passage duration, and timing of fish movements. The original fishway design and sub-sequent modifications have focused on maximizing salmonid passage efficiencies. However, fishes that do not share salmonid migration behaviors may not respond positively to these configurations.</p>\r\n\r\n<p>Passive Integrated Transponder (PIT) tags can be used for a variety of monitoring purposes such as determining migration timing, passage through fish ladders, and assisting in mark-recapture studies. PIT tags are inexpensive, and the tagging procedure is relatively non-invasive, quick, and has a short recovery time. PIT tags do not have an internal battery, instead relying on power supplied by the antenna array on which they are detected to activate them. This allows for indefinite tag life as well as a very small size. PIT tags are also feature a unique alpha-numeric ID number that allows an individually tagged lamprey to be identified whenever it is detected.</p>\r\n\r\n<p>The CRITFC Member Tribes utilize radio PIT&nbsp;to gather information from returning anadromous adult Pacific Lamprey. Information is used compare the relative passage performance of adult Pacific Lamprey at mainstem and tributary barriers with the focus on adult distribution (upstream&nbsp;and downstream of barriers). Data are utilized for determination of abundance, survival and life history characteristics, restoration effectiveness and status and trends evaluations. Population status and trend monitoring of natural and hatchery origin fish is used for effective population management, assessing effectiveness of restoration actions, viability, and recovery metric monitoring.</p>\r\n\r\n<h3>Objectives</h3>\r\n\r\n<ol>\r\n\t<li>Evaluate the relative passage performance of Pacific Lamprey at mainstem and tributary barriers.</li>\r\n\t<li>Evaluate behavior and distribution patterns of migrating Pacific Lamprey at mainstem and tributary barriers.</li>\r\n\t<li>Evaluate behavior, distribution patterns, and final fates of migrating Pacific Lamprey within mainstem and tributary river environments.</li>\r\n</ol>\r\n",
+  "startYear": "2023",
+  "retirementYear": "2024",
+  "initiationYear": "2023",
+  "targetPopulation": null,
+  "ownerName": "Brian McIlraith",
+  "ownerEmail": "bjmcilraith@bpa.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 22163,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2023"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16888/panels/22163",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16888"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24551,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16888/strata/24551",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16888"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/96",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1861",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16888/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16888",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16888/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16888",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16861",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11610"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.317630,-122.664511"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.852743,-119.321231"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.422738,-117.017536"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.413508,-117.036075"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.639143,-121.957190"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.268115,-119.308563"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "47.464467,-120.345570"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "48.047318,-119.907283"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.712577,-121.263237"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.739180,-121.808090"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.746548,-121.522875"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.592851,-122.343246"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "47.663054,-120.241306"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.689427,-120.568721"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.613110,-120.906207"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.610138,-121.075903"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.703964,-121.508438"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.076753,-116.987043"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.334891,-117.061617"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.795468,-116.754081"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.070702,-118.792446"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.527072,-118.144253"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.946855,-115.496790"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.032814,-115.714105"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.737348,-120.430595"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.612317,-121.131419"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.715370,-120.693254"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.935474,-119.297561"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.250399,-118.880208"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.643728,-119.909900"
+    }
+  ],
+  "id": 16888,
+  "title": "Pacific Lamprey Migration, Distribution, and Passage PIT Tagging v1.0",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16888",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2023-06-07T00:58:41-07:00"
+}

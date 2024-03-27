@@ -1,0 +1,52 @@
+{
+  "description": "<p>A spatially continuous mark-recapture study design utilizing backpack electrofishing was used in the fall to estimate abundance, distribution, and age structure of Redband Trout in Onion Creek (Cram and Rawding 2018; Wathen et al. 2017;&nbsp;<a href=\"https://www.monitoringresources.org/Document/Method/Details/118\">Monitoring Resources Method ID 118</a>). This study design was chosen because it would allow the entire stream (mouth to terminal falls) to be sampled in about the same amount of time while providing a more precise and less biased estimate of Redband Trout abundance than previously used removal methodology. Prior to sampling, the study area from the mouth to the terminal waterfalls was delineated into 4 strata consisting of 6-8 100-meter sites. Block nets were not used during sampling to improve efficiency; however, all efforts were made to condense the sampling temporally to meet the assumptions of a closed population abundance model. Furthermore, PIT tagging along with differential fin clipping were used at different spatial scales to validate the closure assumptions of the model and provide a means to evaluate fish distribution and abundance at finer spatial scales.&nbsp;</p>\r\n",
+  "startYear": "2019",
+  "retirementYear": "2022",
+  "initiationYear": "2019",
+  "targetPopulation": null,
+  "ownerName": "Nicholas Albrecht",
+  "ownerEmail": "nicholas.albrecht@dfw.wa.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 21915,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16796/panels/21915",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16796"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24437,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16796/strata/24437",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16796"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/64",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1830",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16796/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16796",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16796/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16796",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16796",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11577"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16796,
+  "title": "Tributary Abundance Monitoring in Onion Creek",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16796",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": "2022-04-03T02:47:56-07:00"
+}

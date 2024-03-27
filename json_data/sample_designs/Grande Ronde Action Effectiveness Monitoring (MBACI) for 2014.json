@@ -1,0 +1,59 @@
+{
+  "description": "<p>COPY:</p>\r\n",
+  "startYear": "2014",
+  "retirementYear": "",
+  "initiationYear": "2014",
+  "targetPopulation": "COPY: <p>test</p>\r\n",
+  "ownerName": "Steve Rentmeester",
+  "ownerEmail": "steve@sitkatech.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 5649,
+      "name": "Annual",
+      "abbreviation": "Ann",
+      "years": [
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15889/panels/5649",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15889"
+    }
+  ],
+  "strata": [
+    {
+      "id": 6836,
+      "name": "Rock Creek Off-Channel/Floodplain",
+      "abbreviation": "Off-Channel",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15889/strata/6836",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15889"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15889/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15889",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15889/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15889",
+  "masterSample": {
+    "name": "Columbia Basin Master Sample",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/1"
+  },
+  "userSamples": [
+    {
+      "name": "SFT00001 Sample",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1044"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 15889,
+  "title": "Grande Ronde Action Effectiveness Monitoring (MBACI) for 2014",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15889",
+  "spatialDesignCategory": "Modified GRTS",
+  "spatialDesignCategoryID": 14,
+  "lastUpdated": "2015-06-13T02:26:31-07:00"
+}

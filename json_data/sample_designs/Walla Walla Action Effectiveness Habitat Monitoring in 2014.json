@@ -1,0 +1,61 @@
+{
+  "description": "<p>Fish Habitat Monitoring conducted by the Confederated Tribes of the Umatilla Indian Reservation.&nbsp;</p>\r\n",
+  "startYear": "2013",
+  "retirementYear": "",
+  "initiationYear": "2014",
+  "targetPopulation": "COPY: COPY: ",
+  "ownerName": "Gene Shippentower",
+  "ownerEmail": "geneshippentower@ctuir.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 2313,
+      "name": "Annual",
+      "abbreviation": "Ann",
+      "years": [
+        "2013",
+        "2014",
+        "2015"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15897/panels/2313",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15897"
+    }
+  ],
+  "strata": [
+    {
+      "id": 3130,
+      "name": "SF Touchet Control",
+      "abbreviation": "SFT-Cntrl",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15897/strata/3130",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15897"
+    },
+    {
+      "id": 3131,
+      "name": "SF Touchet Treatment",
+      "abbreviation": "SFT-Trt",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15897/strata/3131",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15897"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/58",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/365",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15897/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15897",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15897/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15897",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "SFT00001 Sample",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1044"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 15897,
+  "title": "Walla Walla Action Effectiveness Habitat Monitoring in 2014",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15897",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2014-07-31T06:18:40-07:00"
+}

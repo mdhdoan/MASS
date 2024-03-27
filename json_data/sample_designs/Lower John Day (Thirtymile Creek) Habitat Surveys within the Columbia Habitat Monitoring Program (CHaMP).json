@@ -1,0 +1,61 @@
+{
+  "description": "<p>The majority of sites were chosen from the Columbia_Basin_Master_Sample_20100411 shapefile found on the MonitoringResources.org website:&nbsp; <a href=\"https://www.monitoringresources.org/Designer/Design/Index\">https://www.monitoringresources.org/Designer/Design/Index</a>&nbsp;</p>\r\n\r\n<ul>\r\n\t<li>First created new feature class in the ThirtyMile.gdb to include only sites found on Thirtymile within the surveyed area (ThirtyMile_AllSites)</li>\r\n\t<li>Used the 30MileSections shapefile (created from the GPS waypoints collected during the dry/wet survey) to populate fields in the sites shapefiles for what stratum each point fell on (Fenced/Perennial, Fenced/Ephemeral, Unfenced/Perennial, Unfenced/Ephemeral)</li>\r\n</ul>\r\n\r\n<p>We were 1 site short in Unfenced Ephemeral section, so we had to create new sites.&nbsp; For extra Unfenced Ephemeral Sites:</p>\r\n\r\n<ul>\r\n\t<li>Split Dry/Wet line to isolate stream section of unfenced ephemeral creek (only 1.4 km)</li>\r\n\t<li>Created a new shapefile with only this section</li>\r\n\t<li>Created a new point feature class\r\n\t<ul style=\"list-style-type:circle\">\r\n\t\t<li>Constructed points using isolated stream section and created points every 100 m starting at the downstream extent</li>\r\n\t</ul>\r\n\t</li>\r\n\t<li>Used this feature class to run grts sample design for finite resources in R to get ranking for sites in just Dry/Wet section.</li>\r\n</ul>\r\n",
+  "startYear": "2017",
+  "retirementYear": "",
+  "initiationYear": "2017",
+  "targetPopulation": "<p>The target population of the John Day design was generally defined as the current Steelhead domain recognized by&nbsp;ODFW&nbsp;(John Day). &nbsp;This follows the&nbsp;CHaMP&nbsp;domain of no&nbsp;1st&nbsp;order streams, no intermittent streams, and gradient &lt;12%, however the GIS frame was custom-made by&nbsp;ODFW&nbsp;and some exceptions to these rules may occur.&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "ownerName": "Ian Tattam",
+  "ownerEmail": "Ian.A.Tattam@state.or.us",
+  "images": [
+    {
+      "type": "Document",
+      "url": "http://www.monitoringresources.org/Designer/Design/UploadAsFile/5350",
+      "caption": "Description of the Site Selection "
+    }
+  ],
+  "panels": [
+    {
+      "id": 8884,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2669/panels/8884",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2669"
+    }
+  ],
+  "strata": [
+    {
+      "id": 11316,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2669/strata/11316",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2669"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/18",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/219",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/2669/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/2669",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/2669/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/2669",
+  "masterSample": {
+    "name": "Columbia Basin Master Sample",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/1"
+  },
+  "userSamples": [
+    {
+      "name": "Lower John Day (Thirtymile Creek) Habitat Surveys within the Columbia Habitat Monitoring Program (CHaMP) in 2017",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1109"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 2669,
+  "title": "Lower John Day (Thirtymile Creek) Habitat Surveys within the Columbia Habitat Monitoring Program (CHaMP)",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/2669",
+  "spatialDesignCategory": "Modified GRTS",
+  "spatialDesignCategoryID": 14,
+  "lastUpdated": "2017-12-23T00:52:47-08:00"
+}

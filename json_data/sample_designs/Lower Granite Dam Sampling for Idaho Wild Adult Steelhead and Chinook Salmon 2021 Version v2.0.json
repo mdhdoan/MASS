@@ -1,0 +1,52 @@
+{
+  "description": "<p>Adult spring/summer Chinook Salmon and steelhead are captured and sampled at the adult trap facility at Lower Granite Dam (LGR); (project 2005-00-200). Adult spring/summer Chinook Salmon are captured daily from March 1 through August 17. Most steelhead pass LGR during the fall (August-October) but are present year-round. Samples are taken systematically by opening the trap for a specified percentage of the time each hour. Fall LGR adult sample rates for steelhead are partially dependent upon the trapping rate for fall Chinook Salmon. A small component passes in the spring (March-June). Trapping rates are typically kept at fall rates until the spring Chinook run commences in March. All salmon and steelhead captured are identified by origin (wild, marked hatchery, or unmarked hatchery) by the presence of the adipose fin, coded wire tag, or fin erosion and measured to fork length (FL, nearest cm). A small tissue sample is taken from the anal fin and stored on vacuum-sealed Whatman sheets. Tissue samples and ancillary fish data are delivered to IDFG Eagle Genetics Lab and analyzed by the Genetic Stock Identification project (2010-026-00). Six to eight scales are collected from both sides of each fish, above the lateral line and posterior to the dorsal fin, and stored in coin envelopes for transport to the Nampa Research Anadromous Ageing laboratory along with ancillary fish data.&nbsp; IDFG personnel will collect and transport samples and also assist with field operations as necessary. These adult data will be reported on a spawn year basis [ex: steelhead spawn year 2020 (SY20) is July 2019-June 2020] in the Wild Adult Steelhead and Chinook Salmon Abundance and Composition at Lower Granite Dam annual report.&nbsp;</p>\r\n",
+  "startYear": "2021",
+  "retirementYear": "",
+  "initiationYear": "2021",
+  "targetPopulation": null,
+  "ownerName": "Luciano Chiaramonte",
+  "ownerEmail": "luciano.chiaramonte@idfg.idaho.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 21791,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16750/panels/21791",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16750"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24361,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16750/strata/24361",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16750"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/73",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1815",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16750/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16750",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16750/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16750",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 36003 (12665)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/6925"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16750,
+  "title": "Lower Granite Dam Sampling for Idaho Wild Adult Steelhead and Chinook Salmon: 2021 Version v2.0",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16750",
+  "spatialDesignCategory": "Census: Restricted",
+  "spatialDesignCategoryID": 6,
+  "lastUpdated": "2023-11-16T06:57:19-08:00"
+}

@@ -1,0 +1,57 @@
+{
+  "description": "No valid data",
+  "startYear": "2023",
+  "retirementYear": "2030",
+  "initiationYear": "2023",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Stuart Ellis",
+  "ownerEmail": "ells@critfc.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 22055,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2023"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16859/panels/22055",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16859"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24519,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16859/strata/24519",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16859"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/77",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1860",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16859/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16859",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16859/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16859",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16859",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11609"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Columbia River Basin",
+      "areaDisplayName": "Columbia River"
+    }
+  ],
+  "id": 16859,
+  "title": "Mainstem Treaty Fishery Monitoring, updated Study Plan 1343",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16859",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2023-02-16T05:47:13-08:00"
+}

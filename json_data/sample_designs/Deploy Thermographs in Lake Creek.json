@@ -1,0 +1,69 @@
+{
+  "description": "<p>Collection of water temperature data assess fisheries attributes.</p>\r\n",
+  "startYear": "2021",
+  "retirementYear": "",
+  "initiationYear": "2021",
+  "targetPopulation": null,
+  "ownerName": "Lyman Jim",
+  "ownerEmail": "lyman.jim@ctwsbnr.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 21607,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16672/panels/21607",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16672"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24277,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16672/strata/24277",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16672"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/35",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1777",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16672/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16672",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16672/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16672",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16672",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11529"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.435293,-121.705905"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.427210,-121.725641"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.452673,-121.642728"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.456472,-121.643673"
+    }
+  ],
+  "id": 16672,
+  "title": "Deploy Thermographs in Lake Creek",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16672",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2021-02-10T03:23:16-08:00"
+}

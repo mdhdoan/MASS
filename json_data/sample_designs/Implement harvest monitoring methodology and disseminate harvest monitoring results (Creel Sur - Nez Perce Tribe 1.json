@@ -1,0 +1,52 @@
+{
+  "description": "No valid data",
+  "startYear": "2022",
+  "retirementYear": "2027",
+  "initiationYear": "2022",
+  "targetPopulation": null,
+  "ownerName": "Joseph Oatman",
+  "ownerEmail": "joeo@nezperce.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 21818,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2022"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16756/panels/21818",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16756"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24375,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16756/strata/24375",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16756"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/693",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16756/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16756",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16756/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16756",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design Creel Survey (2002-060-00) WSE 100122 (6840)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/4061"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16756,
+  "title": "Implement harvest monitoring methodology and disseminate harvest monitoring results (Creel Sur - Nez Perce Tribe 1",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16756",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2021-11-11T00:33:06-08:00"
+}

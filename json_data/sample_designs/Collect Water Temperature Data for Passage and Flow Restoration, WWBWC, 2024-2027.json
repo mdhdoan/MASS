@@ -1,0 +1,173 @@
+{
+  "description": "<p>Document seasonal water temperature in the Walla Walla River and its tributaries.</p>\r\n",
+  "startYear": "2023",
+  "retirementYear": "2024",
+  "initiationYear": "2023",
+  "targetPopulation": "COPY: COPY: COPY: COPY: ",
+  "ownerName": "Tara Patten",
+  "ownerEmail": "tara.patten@wwbwc.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 22181,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2023"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16895/panels/22181",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16895"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24561,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16895/strata/24561",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16895"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/94",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1752",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16895/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16895",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16895/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16895",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16780",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11568"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.941362,-117.968006"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.876329,-117.985380"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.877147,-117.986180"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.875790,-117.985281"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.851780,-118.025112"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.851823,-118.025149"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.842288,-118.058450"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.842468,-118.058333"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.839617,-118.077709"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.839582,-118.077691"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.844286,-118.104744"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.825299,-118.154185"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.830500,-118.170870"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.858140,-118.222730"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.896048,-118.306741"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.900503,-118.297254"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.900860,-118.334540"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.901210,-118.351890"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.921431,-118.374101"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.924100,-118.376140"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.927530,-118.378880"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.937130,-118.382670"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.947310,-118.385600"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.956290,-118.385060"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.956520,-118.385470"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.964470,-118.382970"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.971770,-118.380250"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.977350,-118.376310"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.986050,-118.376510"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.995360,-118.379830"
+    }
+  ],
+  "id": 16895,
+  "title": "Collect Water Temperature Data for Passage and Flow Restoration, WWBWC, 2024-2027",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16895",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2023-07-04T04:45:22-07:00"
+}

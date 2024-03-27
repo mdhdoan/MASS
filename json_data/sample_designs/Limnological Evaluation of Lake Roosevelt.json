@@ -1,0 +1,52 @@
+{
+  "description": "<p>Sample sites are selected based on a stratified random design by dividing the reservoir into five reaches; mainstem upper, middle, and lower, Spokane River Arm, and Sanpoil River Arm, and subdividing reaches into sections that correspond with fish sampling under the LRFEP. The three mainstem&nbsp;reaches, the Spokane Arm, and the Sanpoil Arm are each assigned three sites. Sample sites are then randomly selected by river mile within each reach. Sampling is conducted throughout the reservoir. Sampling is conducted in the thalweg at each site.&nbsp;Macronutrient and chlorophyll samples are composited from the approximate top, middle and bottom of the photic zone. Physiochemical&nbsp;profiles and zooplankton tows are taken from the full water column.</p>\r\n\r\n<p>Sampling is conducted at each site monthly from May to October. Exact number of sites may vary. Currently, 15 sites are sampled for 6 months producing a total of 90 sampling events annually.</p>\r\n",
+  "startYear": "2019",
+  "retirementYear": "2020",
+  "initiationYear": "2019",
+  "targetPopulation": null,
+  "ownerName": "Alex Kain",
+  "ownerEmail": "alexander.kain@spokanetribe.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 19975,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16429/panels/19975",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16429"
+    }
+  ],
+  "strata": [
+    {
+      "id": 22954,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16429/strata/22954",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16429"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/27",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/863",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16429/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16429",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16429/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16429",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16429",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11415"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16429,
+  "title": "Limnological Evaluation of Lake Roosevelt",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16429",
+  "spatialDesignCategory": "Simple Random Sample, Stratified",
+  "spatialDesignCategoryID": 2,
+  "lastUpdated": "2019-12-06T04:29:15-08:00"
+}

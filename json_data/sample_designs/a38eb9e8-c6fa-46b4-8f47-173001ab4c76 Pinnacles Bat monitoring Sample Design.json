@@ -1,0 +1,50 @@
+{
+  "description": "No valid data",
+  "startYear": "2017",
+  "retirementYear": "2017",
+  "initiationYear": "2017",
+  "targetPopulation": null,
+  "ownerName": "Lizzy Edson",
+  "ownerEmail": "ledson@parksconservancy.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 19408,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15762/panels/19408",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15762"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21817,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15762/strata/21817",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15762"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/80",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1576",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15762/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15762",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15762/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15762",
+  "masterSample": {
+    "name": "Continental United States 10 KM Grid",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/10"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 15762,
+  "title": "a38eb9e8-c6fa-46b4-8f47-173001ab4c76 Pinnacles Bat monitoring Sample Design",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15762",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": "2018-07-17T01:44:53-07:00"
+}

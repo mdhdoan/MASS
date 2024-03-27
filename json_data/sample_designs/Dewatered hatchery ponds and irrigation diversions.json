@@ -1,0 +1,89 @@
+{
+  "description": "<p>Sites were selected based on known presence of larval lamprey and scheduled dewatering events. Each site will be visited only once during the annual dewatering event.</p>\r\n",
+  "startYear": "2020",
+  "retirementYear": "",
+  "initiationYear": "2020",
+  "targetPopulation": null,
+  "ownerName": "Lisa Weiland",
+  "ownerEmail": "lweiland@usgs.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 21302,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16562/panels/21302",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16562"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24105,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16562/strata/24105",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16562"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1747",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16562/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16562",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16562/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16562",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 9293 (15473)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/2743"
+    },
+    {
+      "name": "BPA Sample for Study Design Harvest Monitoring (1995-063-25) WSE 81704 (4557)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/3807"
+    },
+    {
+      "name": "BPA Sample for Study Design Mainstem Fisherie Sampling (2010-036-00) WSE 75621 (7130)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/6310"
+    },
+    {
+      "name": "BPA Sample for Study Design VSP data collection (2010-030-00) WSE 71481 (6663)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/7345"
+    },
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 11265 (10567)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/10457"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.045665, -122.804339"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.112450, -123.784889"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.652539, -122.167840"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.748218, -120.779413"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.498843, -120.445885"
+    }
+  ],
+  "id": 16562,
+  "title": "Dewatered hatchery ponds and irrigation diversions",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16562",
+  "spatialDesignCategory": "Simple Random Sample, Non-Stratified",
+  "spatialDesignCategoryID": 1,
+  "lastUpdated": "2020-04-11T05:10:28-07:00"
+}

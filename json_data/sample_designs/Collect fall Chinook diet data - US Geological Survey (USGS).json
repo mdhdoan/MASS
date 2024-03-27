@@ -1,0 +1,60 @@
+{
+  "description": "No valid data",
+  "startYear": "2015",
+  "retirementYear": "2023",
+  "initiationYear": "2015",
+  "targetPopulation": null,
+  "ownerName": "Kenneth Tiffan",
+  "ownerEmail": "ktiffan@usgs.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 21822,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2015"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16760/panels/21822",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16760"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24379,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16760/strata/24379",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16760"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/85",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1713",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16760/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16760",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16760/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16760",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design Estimate subyearling loss to smallmouth bass predation in the Snake River WSE 106225 (6091)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/6641"
+    },
+    {
+      "name": "Sample for Design #16411",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11412"
+    },
+    {
+      "name": "Sample for Design #16760",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11553"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16760,
+  "title": "Collect fall Chinook diet data - US Geological Survey (USGS)",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16760",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2021-11-18T01:33:43-08:00"
+}

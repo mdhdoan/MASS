@@ -1,0 +1,52 @@
+{
+  "description": "<p>During FY20, PNNL will collect temperature and water level data at one paired location (one riverbed sensor and one river sensor) at the same location where the real-time buoy based system was deployed during FY19.&nbsp; During FY20, the data will not be accessible via telemetry; the data will be recorded throughout the chum salmon spawning, incubation, and emergence time periods and will be recovered during the latter portion of FY20.&nbsp; &nbsp;&nbsp;</p>\r\n\r\n<p>Data from the life of this project (1999 to 2020) will be summarized in a digital appendix and provided to BPA following sensor recovery during September, 2020.</p>\r\n\r\n<p>Data will be collected using 1.25 inch well points.&nbsp; The riverbed monitoring well point is screened over an interval approximately 15-45 cm below the riverbed.&nbsp; The river monitoring location is screened within the surface water column.&nbsp; Piezometers will be used similar to previous efforts (Arntzen 2016).&nbsp; &nbsp;&nbsp;</p>\r\n\r\n<p>LevelScout (Instrumentation Northwest, Inc.) sensors will be used to record absolute pressure and temperature.&nbsp; LevelScout sensors will not be vented.&nbsp; LevelScout sensors record&nbsp; temperature with an&nbsp; accuracy of&nbsp; +/- 0.75 &deg;C and with a resolution of 0.1 &deg;C.</p>\r\n\r\n<p>The project is scheduled to end following this effort, and when sensors are recovered during September 2020, all remaining piezometers and related equipment will also be removed from the field site.</p>\r\n\r\n<p>This protocol is implemented in partnership with PSMFC see protocol version 1.</p>\r\n",
+  "startYear": "2019",
+  "retirementYear": "2025",
+  "initiationYear": "2019",
+  "targetPopulation": null,
+  "ownerName": "Kenneth Keller",
+  "ownerEmail": "Ken.Keller@dfw.wa.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 19816,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16367/panels/19816",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16367"
+    }
+  ],
+  "strata": [
+    {
+      "id": 22884,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16367/strata/22884",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16367"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/64",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1703",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16367/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16367",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16367/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16367",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16367",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11395"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16367,
+  "title": "Temperature and water surface elevation monitoring (1999-003-01) v2.0",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16367",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2019-09-24T02:11:00-07:00"
+}

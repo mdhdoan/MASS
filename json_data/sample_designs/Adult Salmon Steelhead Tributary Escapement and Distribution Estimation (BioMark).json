@@ -1,0 +1,52 @@
+{
+  "description": "<p>This supports routine O&amp;M actions and emergency IPTDS repair for Snake River and Upper Columbia River salmonid population escapement and distribution.&nbsp; Spatial Distribution is limited to Upper Columbia sites.&nbsp;</p>\r\n",
+  "startYear": "2021",
+  "retirementYear": "2031",
+  "initiationYear": "2021",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Kyle Meier",
+  "ownerEmail": "kyle.meier@biomark.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 21764,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16736/panels/21764",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16736"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24349,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16736/strata/24349",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16736"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1807",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16736/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16736",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16736/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16736",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16736",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11545"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16736,
+  "title": "Adult Salmon Steelhead Tributary Escapement and Distribution Estimation (BioMark)",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16736",
+  "spatialDesignCategory": "Census: Restricted",
+  "spatialDesignCategoryID": 6,
+  "lastUpdated": "2021-08-18T04:56:11-07:00"
+}

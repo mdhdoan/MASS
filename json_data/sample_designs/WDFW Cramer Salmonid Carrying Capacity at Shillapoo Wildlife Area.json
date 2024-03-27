@@ -1,0 +1,37 @@
+{
+  "description": "<p>The area of inference is the Shillapoo Wildlife Area, Vancouver, WA.</p>\r\n",
+  "startYear": "2023",
+  "retirementYear": "",
+  "initiationYear": "2023",
+  "targetPopulation": null,
+  "ownerName": "Laura Brown",
+  "ownerEmail": "laura.brown@dfw.wa.gov",
+  "images": [],
+  "panels": [],
+  "strata": [],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/64",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1870",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16893/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16893",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16893/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16893",
+  "masterSample": null,
+  "userSamples": null,
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": " 45.7017, -122.7463"
+    },
+    {
+      "areaTypeName": "Lower Columbia Estuary (LCREP)",
+      "areaDisplayName": "Middle Tidal Flood Plain Basin"
+    }
+  ],
+  "id": 16893,
+  "title": "WDFW Cramer Salmonid Carrying Capacity at Shillapoo Wildlife Area",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16893",
+  "spatialDesignCategory": "Inference",
+  "spatialDesignCategoryID": 16,
+  "lastUpdated": "2023-06-29T23:48:06-07:00"
+}

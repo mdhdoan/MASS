@@ -1,0 +1,95 @@
+{
+  "description": "No valid data",
+  "startYear": "2016",
+  "retirementYear": "",
+  "initiationYear": "2016",
+  "targetPopulation": "<p>Perennial streams and rivers within the BLM West Desert District</p>\r\n",
+  "ownerName": "Scott Miller",
+  "ownerEmail": "scott.miller@usu.edu",
+  "images": [],
+  "panels": [
+    {
+      "id": 6957,
+      "name": "Year 1",
+      "abbreviation": "Yr1",
+      "years": [
+        "2016"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2528/panels/6957",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2528"
+    },
+    {
+      "id": 6958,
+      "name": "Year 2",
+      "abbreviation": "Yr2",
+      "years": [
+        "2016"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2528/panels/6958",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2528"
+    }
+  ],
+  "strata": [
+    {
+      "id": 8605,
+      "name": "Fillmore-Large Streams (3&4)",
+      "abbreviation": "S0",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2528/strata/8605",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2528"
+    },
+    {
+      "id": 8606,
+      "name": "Fillmore-Rivers (5+)",
+      "abbreviation": "S1",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2528/strata/8606",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2528"
+    },
+    {
+      "id": 8607,
+      "name": "Fillmore-Small Streams (1&2)",
+      "abbreviation": "S2",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2528/strata/8607",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2528"
+    },
+    {
+      "id": 8608,
+      "name": "Salt Lake -Large Streams (3&4)",
+      "abbreviation": "S3",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2528/strata/8608",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2528"
+    },
+    {
+      "id": 8609,
+      "name": "Salt Lake -Rivers (5+)",
+      "abbreviation": "S4",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2528/strata/8609",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2528"
+    },
+    {
+      "id": 8610,
+      "name": "Salt Lake -Small Streams (1&2)",
+      "abbreviation": "S5",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2528/strata/8610",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2528"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/78",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1335",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/2528/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/2528",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/2528/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/2528",
+  "masterSample": {
+    "name": "Bureau of Land Management Lotic",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/8"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 2528,
+  "title": "WDD_Final",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/2528",
+  "spatialDesignCategory": "Generalized Random Tessellation Stratified (GRTS)",
+  "spatialDesignCategoryID": 18,
+  "lastUpdated": "2017-10-03T05:48:59-07:00"
+}

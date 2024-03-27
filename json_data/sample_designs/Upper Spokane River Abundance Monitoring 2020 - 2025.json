@@ -1,0 +1,63 @@
+{
+  "description": "<p>A multiple pass mark-recapture study is conducted to estimate abundance of Redband Trout in an index area of the Upper Spokane River. Redband Trout are captured by electrofishing using a drift boat mounted with a Smith-Root 2.5 GPP electrofishing unit.&nbsp; A crew of 2-3 individuals, one rower and 1-2 netters, conduct the electrofishing surveys. A total of three sampling passes are conducted during the survey. A sampling pass, or capture-recapture occasion, consists of sampling each shoreline of the sampling area. Electrofishing transects were established prior to the initial capture effort using a recreational grade handheld GPS. Two float trips are required to sample both shorelines during each pass. The initial sampling float starts on either the north or south shoreline and alternates&nbsp;to the opposite shoreline at intervals of approximately 600 seconds (500 m). The subsequent float begins on the opposite shoreline and alternates to the shoreline segments that were not sample&nbsp;on the previous float, ensuring that the entire shoreline iss sampled. This strategy is employed to avoid electrofishing over recently released Redband Trout. All float trips commence&nbsp;at least 0.5 hours after sunset and continue&nbsp;until all transects for that float are complete.&nbsp;</p>\r\n",
+  "startYear": "2020",
+  "retirementYear": "2025",
+  "initiationYear": "2020",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Nicholas Albrecht",
+  "ownerEmail": "nicholas.albrecht@dfw.wa.gov",
+  "images": [
+    {
+      "type": "Photo",
+      "url": "http://www.monitoringresources.org/Designer/Design/UploadAsFile/8358",
+      "caption": null
+    }
+  ],
+  "panels": [
+    {
+      "id": 22345,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16968/panels/22345",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16968"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24629,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16968/strata/24629",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16968"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/64",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1847",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16968/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16968",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16968/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16968",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16831",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11596"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC3 - Basin",
+      "areaDisplayName": "Spokane"
+    }
+  ],
+  "id": 16968,
+  "title": "Upper Spokane River Abundance Monitoring 2020 - 2025",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16968",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": "2023-10-14T00:05:48-07:00"
+}

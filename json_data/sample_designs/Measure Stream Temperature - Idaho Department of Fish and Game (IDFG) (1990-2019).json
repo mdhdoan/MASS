@@ -1,0 +1,69 @@
+{
+  "description": "<div>IDFG collects stream temperature data from selected sites in the Clearwater River and Salmon River drainages.&nbsp; Sites include most streams in which IDFG performs fish-in/fish-out monitoring of wild steelhead.&nbsp; Additions streams are also sampled that span a range of elevation, geomorphic, and vegetative cover found in Idaho&rsquo;s steelhead streams. Data is analyzed and available for use as environmental co-variates for steelhead effectiveness evaluations across Idaho and for general environmental status and trends monitoring.</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>Objective for this Protocol</div>\r\n\r\n<div>1. Provide support and perform hatchery effectiveness monitoring and evaluation to adaptively manage programs across the Clearwater River and Salmon River drainages.</div>\r\n\r\n<div>2. Provide support and perform status and trends monitoring of environmental conditions to inform habitat restoration or climate change.</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>Clearwater River Drainage</div>\r\n\r\n<div>&nbsp; &nbsp;&bull;Red River (SF Clearwater R.)</div>\r\n\r\n<div>&nbsp; &nbsp;&bull;Fish Creek, at trap, 2 monitors (Lochsa R.)</div>\r\n\r\n<div>&nbsp; &nbsp;&bull;Willow Creek (Fish Cr.)</div>\r\n\r\n<div>&nbsp; &nbsp;&bull;Hungery Creek (Fish Cr.)</div>\r\n\r\n<div>&nbsp; &nbsp;&bull;Fish Creek, 2 km above Hungry Creek (Lochsa R.)</div>\r\n\r\n<div>&nbsp; &nbsp;&bull;Boulder Creek (Lochsa R.)</div>\r\n\r\n<div>&nbsp; &nbsp;&bull;Brushy Fork Creek (Lochsa R.)</div>\r\n\r\n<div>&nbsp; &nbsp;&bull;Crooked Fork Creek (Lochsa R.)</div>\r\n\r\n<div>&nbsp; &nbsp;&bull;Gedney Creek (Selway R.)</div>\r\n\r\n<div>&nbsp; &nbsp;&bull;Selway River, at Selway Falls</div>\r\n\r\n<div>&nbsp; &nbsp;&bull;White Cap Creek (Selway R.)</div>\r\n\r\n<div>&nbsp; &nbsp;&bull;Indian Creek (Selway R.)</div>\r\n\r\n<div>&nbsp; &nbsp;&bull;Little Clearwater River (Selway R.)</div>\r\n\r\n<div>&nbsp; &nbsp;&bull;Selway River, upper mainstem</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>Salmon River Drainage</div>\r\n\r\n<div>&nbsp; &nbsp;&bull;Rapid River (Little Salmon R.)</div>\r\n\r\n<div>&nbsp; &nbsp;&bull;Secesh River (SF Salmon R.)</div>\r\n\r\n<div>&nbsp; &nbsp;&bull;Big Creek, at Taylor Ranch (MF Salmon R.)</div>\r\n\r\n<div>&nbsp; &nbsp;&bull;Rapid River (MF Salmon R.)</div>\r\n\r\n<div>&nbsp; &nbsp;&bull;Marsh Creek (MF Salmon R.)</div>\r\n\r\n<div>&nbsp; &nbsp;&bull;Pahsimeroi River (Upper Salmon R.)</div>\r\n\r\n<div>&nbsp; &nbsp;&bull;Valley Creek (Upper Salmon R.)</div>\r\n\r\n<div>&nbsp; &nbsp;&bull;Redfish Lake Creek (Upper Salmon R.)</div>\r\n\r\n<div>&nbsp; &nbsp;&bull;Salmon River, at Sawtooth FH (Upper Salmon R.)</div>\r\n",
+  "startYear": "2020",
+  "retirementYear": "2040",
+  "initiationYear": "2020",
+  "targetPopulation": null,
+  "ownerName": "Eric Stark",
+  "ownerEmail": "eric.stark@idfg.idaho.gov",
+  "images": [],
+  "panels": [],
+  "strata": [],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/73",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/471",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16404/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16404",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16404/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16404",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 27401 (11938)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1242"
+    },
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 48448 (13655)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/4451"
+    },
+    {
+      "name": "BPA Sample for Study Design Monitoring water temperatures in key Idaho steelhead streams WSE 123219 (4040)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/4536"
+    },
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 48447 (13654)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/7572"
+    },
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 38837 (12919)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/7794"
+    },
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 38838 (12920)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/8541"
+    },
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 18875 (11280)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/8707"
+    },
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 18863 (11274)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/8817"
+    },
+    {
+      "name": "BPA Sample for Study Design BPA Fish and Wildlife Program Monitoring  WSE 57712 (14477)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/9485"
+    },
+    {
+      "name": "Sample for Design #16404",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11417"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16404,
+  "title": "Measure Stream Temperature - Idaho Department of Fish and Game (IDFG) (1990-2019)",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16404",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2019-12-11T16:22:18-08:00"
+}

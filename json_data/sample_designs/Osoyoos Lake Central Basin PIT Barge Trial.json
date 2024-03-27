@@ -1,0 +1,52 @@
+{
+  "description": "<p>COPY of the Osoyoos Lake PIT Barge Trial Sample Design</p>\r\n",
+  "startYear": "2020",
+  "retirementYear": "2025",
+  "initiationYear": "2020",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Jeffrey Fryer",
+  "ownerEmail": "fryj@critfc.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 20249,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16541/panels/20249",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16541"
+    }
+  ],
+  "strata": [
+    {
+      "id": 23084,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16541/strata/23084",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16541"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1741",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16541/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16541",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16541/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16541",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16521",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11488"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16541,
+  "title": "Osoyoos Lake Central Basin PIT Barge Trial",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16541",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2021-02-19T05:31:51-08:00"
+}

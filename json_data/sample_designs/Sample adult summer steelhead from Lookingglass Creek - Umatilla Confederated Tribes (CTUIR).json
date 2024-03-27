@@ -1,0 +1,57 @@
+{
+  "description": "<p>Adult steelhead collection at the Lookingglass Creek Weir</p>\r\n",
+  "startYear": "2013",
+  "retirementYear": "2025",
+  "initiationYear": "2013",
+  "targetPopulation": null,
+  "ownerName": "Leslie Naylor",
+  "ownerEmail": "lesnaylor@ctuir.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 19755,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2013"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16214/panels/19755",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16214"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21912,
+      "name": "Adult broodstock collection (1998-007-03) WSE 122437",
+      "abbreviation": "Adult broodstock collection (1998-007-03) WSE 122437",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16214/strata/21912",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16214"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/19",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1650",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16214/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16214",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16214/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16214",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Lookingglass Creek Adult Steelhead Trap",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11330"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC6 - Sub Watershed",
+      "areaDisplayName": "Lookingglass Creek"
+    }
+  ],
+  "id": 16214,
+  "title": "Sample adult summer steelhead from Lookingglass Creek - Umatilla Confederated Tribes (CTUIR)",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16214",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2019-06-21T23:53:48-07:00"
+}

@@ -1,0 +1,56 @@
+{
+  "description": "<p>Collect PIT tag detection data from PTAGIS from Accords project funded sites.</p>\r\n",
+  "startYear": "2018",
+  "retirementYear": "2026",
+  "initiationYear": "2018",
+  "targetPopulation": null,
+  "ownerName": "Jeffrey Fryer",
+  "ownerEmail": "fryj@critfc.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 20251,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16542/panels/20251",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16542"
+    }
+  ],
+  "strata": [
+    {
+      "id": 23086,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16542/strata/23086",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16542"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1741",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16542/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16542",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16542/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16542",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design Factors limiting production of Okanagan and Wenatchee sockeye stocks (2008-503-00) WSE 133792 (4802)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/3672"
+    },
+    {
+      "name": "Sample for Design #16542",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11491"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16542,
+  "title": "Collect PIT tag detection data from PTAGIS from Accords project funded sites (OKC, SKA, ZSL, OKC, OKP, McIntyre) - Columbia River Inter-Tribal Fish Commission (CRITFC)",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16542",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2022-02-15T07:47:12-08:00"
+}

@@ -1,0 +1,52 @@
+{
+  "description": "<p>Quantify spatial and temporal trends in aquatic invertebrate metrics by sampling in the spring and or fall season(s) in each section(s) of the Kootenai River.&nbsp; Measure site specific habitat conditions at the time of collection and attempt to rlate annual trends / chnages to dam operations, water quality parameters, and site specific conditions.</p>\r\n",
+  "startYear": "2021",
+  "retirementYear": "",
+  "initiationYear": "2021",
+  "targetPopulation": null,
+  "ownerName": "Ryan Sylvester",
+  "ownerEmail": "rsylvester@mt.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 21698,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16673/panels/21698",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16673"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24318,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16673/strata/24318",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16673"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/92",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/983",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16673/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16673",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16673/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16673",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16673",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11530"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16673,
+  "title": "MFWP Aquatic Invertebrates",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16673",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2021-05-18T00:43:37-07:00"
+}

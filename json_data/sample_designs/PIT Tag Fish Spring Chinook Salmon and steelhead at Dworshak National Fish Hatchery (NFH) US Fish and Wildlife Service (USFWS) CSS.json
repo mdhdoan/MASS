@@ -1,0 +1,56 @@
+{
+  "description": "<p>\u200b</p>\r\n\r\n<div>Implant PIT tags into 42,000 hatchery spring Chinook salmon at Dworshak NFH.</div>\r\n\r\n<div>Implant PIT tags into 11,400 hatchery steelhead at Dworshak NFH.</div>\r\n\r\n<div>Uploaded data files to PTAGIS database.&nbsp; Process Adult Returnees and Submit Recapture Files</div>\r\n",
+  "startYear": "2020",
+  "retirementYear": "",
+  "initiationYear": "2020",
+  "targetPopulation": null,
+  "ownerName": "Erin Cooper",
+  "ownerEmail": "ecooper@fpc.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 19821,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16369/panels/19821",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16369"
+    }
+  ],
+  "strata": [
+    {
+      "id": 22888,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16369/strata/22888",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16369"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/71",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/480",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16369/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16369",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16369/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16369",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design Comparative Survival Study (1996-020-00) WSE 70949 (4333)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/10399"
+    },
+    {
+      "name": "Sample for Design #16369",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11397"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16369,
+  "title": "PIT Tag Fish Spring Chinook Salmon and steelhead at Dworshak National Fish Hatchery (NFH) US Fish and Wildlife Service (USFWS): CSS",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16369",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2019-09-26T22:45:26-07:00"
+}

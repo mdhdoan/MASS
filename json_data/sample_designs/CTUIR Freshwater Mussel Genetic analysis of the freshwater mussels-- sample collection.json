@@ -1,0 +1,52 @@
+{
+  "description": "<p>Collect genetic samples from mussels used as broodstock and other individuals from same population.</p>\r\n",
+  "startYear": "2020",
+  "retirementYear": "2030",
+  "initiationYear": "2020",
+  "targetPopulation": null,
+  "ownerName": "Alexa Maine",
+  "ownerEmail": "alexamaine@ctuir.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 21374,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16587/panels/21374",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16587"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24153,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16587/strata/24153",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16587"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/19",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/247",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16587/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16587",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16587/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16587",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16587",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11506"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16587,
+  "title": "CTUIR Freshwater Mussel: Genetic analysis of the freshwater mussels-- sample collection",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16587",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2020-06-30T05:07:43-07:00"
+}

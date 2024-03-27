@@ -1,0 +1,52 @@
+{
+  "description": "<p>Fall setline assessment on Lake Roosvelt collecting&nbsp;abundance of hatchery and wild components of the white sturgeon population\u200b,&nbsp;spatial and depth distributions of white sturgeon\u200b,&nbsp;growth and condition of hatchery and wild components of the white sturgeon population\u200b,&nbsp;survival rates in the hatchery and wild components of the white sturgeon population</p>\r\n",
+  "startYear": "2016",
+  "retirementYear": "2016",
+  "initiationYear": "2016",
+  "targetPopulation": null,
+  "ownerName": "Joseph Cronrath",
+  "ownerEmail": "joseph.cronrath@spokanetribe.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 20141,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2016"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16499/panels/20141",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16499"
+    }
+  ],
+  "strata": [
+    {
+      "id": 23039,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16499/strata/23039",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16499"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/26",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1710",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16499/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16499",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16499/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16499",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16499",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11459"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16499,
+  "title": "Lake Roosevelt Sturgeon - Setline Stock Assessment Fall 2016",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16499",
+  "spatialDesignCategory": "Simple Random Sample, Non-Stratified",
+  "spatialDesignCategoryID": 1,
+  "lastUpdated": "2020-02-13T03:00:44-08:00"
+}

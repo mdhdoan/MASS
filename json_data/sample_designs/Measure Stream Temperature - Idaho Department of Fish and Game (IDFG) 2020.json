@@ -1,0 +1,145 @@
+{
+  "description": "<p>IDFG collects stream temperature data from selected sites in the Clearwater River and Salmon River drainages.&nbsp; Sites include most streams in which IDFG performs fish-in/fish-out monitoring of wild steelhead.&nbsp; Additions streams are also sampled that span a range of elevation, geomorphic, and vegetative cover found in Idaho&rsquo;s steelhead streams. Data is analyzed and available for use as environmental co-variates for steelhead effectiveness evaluations across Idaho and for general environmental status and trends monitoring.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Objective for this Protocol</p>\r\n\r\n<p>1. Provide support and perform hatchery effectiveness monitoring and evaluation to adaptively manage programs across the Clearwater River and Salmon River drainages.</p>\r\n\r\n<p>2. Provide support and perform status and trends monitoring of environmental conditions to inform habitat restoration or climate change.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Clearwater River Drainage</p>\r\n\r\n<p>&nbsp; &nbsp;&bull;Red River (SF Clearwater R.)</p>\r\n\r\n<p>&nbsp; &nbsp;&bull;Fish Creek, at trap, 2 monitors (Lochsa R.)</p>\r\n\r\n<p>&nbsp; &nbsp;&bull;Willow Creek (Fish Cr.)</p>\r\n\r\n<p>&nbsp; &nbsp;&bull;Hungery Creek (Fish Cr.)</p>\r\n\r\n<p>&nbsp; &nbsp;&bull;Fish Creek, 2 km above Hungry Creek (Lochsa R.)</p>\r\n\r\n<p>&nbsp; &nbsp;&bull;Boulder Creek (Lochsa R.)</p>\r\n\r\n<p>&nbsp; &nbsp;&bull;Brushy Fork Creek (Lochsa R.)</p>\r\n\r\n<p>&nbsp; &nbsp;&bull;Crooked Fork Creek (Lochsa R.)</p>\r\n\r\n<p>&nbsp; &nbsp;&bull;Gedney Creek (Selway R.)</p>\r\n\r\n<p>&nbsp; &nbsp;&bull;Selway River, at Selway Falls</p>\r\n\r\n<p>&nbsp; &nbsp;&bull;White Cap Creek (Selway R.)</p>\r\n\r\n<p>&nbsp; &nbsp;&bull;Indian Creek (Selway R.)</p>\r\n\r\n<p>&nbsp; &nbsp;&bull;Little Clearwater River (Selway R.)</p>\r\n\r\n<p>&nbsp; &nbsp;&bull;Selway River, upper mainstem</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Salmon River Drainage</p>\r\n\r\n<p>&nbsp; &nbsp;&bull;Rapid River (Little Salmon R.)</p>\r\n\r\n<p>&nbsp; &nbsp;&bull;Secesh River (SF Salmon R.)</p>\r\n\r\n<p>&nbsp; &nbsp;&bull;Big Creek, at Taylor Ranch (MF Salmon R.)</p>\r\n\r\n<p>&nbsp; &nbsp;&bull;Rapid River (MF Salmon R.)</p>\r\n\r\n<p>&nbsp; &nbsp;&bull;Marsh Creek (MF Salmon R.)</p>\r\n\r\n<p>&nbsp; &nbsp;&bull;Pahsimeroi River (Upper Salmon R.)</p>\r\n\r\n<p>&nbsp; &nbsp;&bull;Valley Creek (Upper Salmon R.)</p>\r\n\r\n<p>&nbsp; &nbsp;&bull;Redfish Lake Creek (Upper Salmon R.)</p>\r\n\r\n<p>&nbsp; &nbsp;&bull;Salmon River, at Sawtooth FH (Upper Salmon R.)</p>\r\n",
+  "startYear": "2020",
+  "retirementYear": "",
+  "initiationYear": "2020",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Luciano Chiaramonte",
+  "ownerEmail": "luciano.chiaramonte@idfg.idaho.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 20000,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16445/panels/20000",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16445"
+    }
+  ],
+  "strata": [
+    {
+      "id": 22971,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16445/strata/22971",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16445"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/73",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/471",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16445/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16445",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16445/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16445",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #4032",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11416"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.821670,-115.527630"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.711560,-115.346850"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.143880,-115.598190"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.340270,-115.355220"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.340100,-115.354240"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.352230,-115.413020"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.360900,-115.382500"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.357580,-115.397900"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.336040,-115.313110"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.577540,-114.610240"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.578850,-114.612300"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.077820,-115.394690"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.058470,-115.314260"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.862840,-114.735200"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.790860,-114.764030"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.753070,-114.775590"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.701920,-114.717370"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.351620,-116.398700"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.394330,-115.168200"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.684520,-114.040310"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.260730,-114.318430"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.305530,-115.052160"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.153270,-114.884090"
+    }
+  ],
+  "id": 16445,
+  "title": "Measure Stream Temperature - Idaho Department of Fish and Game (IDFG) 2020",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16445",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2023-11-16T08:43:18-08:00"
+}

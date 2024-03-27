@@ -1,0 +1,37 @@
+{
+  "description": "No valid data",
+  "startYear": "2018",
+  "retirementYear": "2025",
+  "initiationYear": "2018",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Jeffrey Fryer",
+  "ownerEmail": "fryj@critfc.org",
+  "images": [],
+  "panels": [],
+  "strata": [],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1741",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16533/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16533",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16533/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16533",
+  "masterSample": null,
+  "userSamples": null,
+  "areasOfInferences": [
+    {
+      "areaTypeName": "NPPC Subbasins",
+      "areaDisplayName": "OKANOGAN"
+    },
+    {
+      "areaTypeName": "NPPC Subbasins",
+      "areaDisplayName": "WENATCHEE"
+    }
+  ],
+  "id": 16533,
+  "title": "Adult Sockeye migration mortality and timing (PIT tag data) - Columbia River Inter-Tribal Fish Commission (CRITFC), cloned for Study Design 510",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16533",
+  "spatialDesignCategory": "Inference",
+  "spatialDesignCategoryID": 16,
+  "lastUpdated": "2020-03-18T00:09:47-07:00"
+}

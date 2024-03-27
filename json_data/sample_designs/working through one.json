@@ -1,0 +1,56 @@
+{
+  "description": "No valid data",
+  "startYear": "2019",
+  "retirementYear": "",
+  "initiationYear": "2019",
+  "targetPopulation": null,
+  "ownerName": "Sam Cimino",
+  "ownerEmail": "scimino@usgs.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 20061,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16430/panels/20061",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16430"
+    }
+  ],
+  "strata": [
+    {
+      "id": 22997,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16430/strata/22997",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16430"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/78",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1335",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16430/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16430",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16430/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16430",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Columbia Basin Master Sample",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1"
+    },
+    {
+      "name": "Washington Statewide Master Sample",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/3"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16430,
+  "title": "working through one",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16430",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2020-01-11T06:43:01-08:00"
+}

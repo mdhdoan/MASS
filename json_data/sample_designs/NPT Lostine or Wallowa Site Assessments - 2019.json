@@ -1,0 +1,52 @@
+{
+  "description": "<p>Single-year pre-implementation survey for proposed habitat restoration sites.</p>\r\n\r\n<p>Timing of post-implementation surveys not currently available.</p>\r\n",
+  "startYear": "2019",
+  "retirementYear": "2019",
+  "initiationYear": "2019",
+  "targetPopulation": null,
+  "ownerName": "Clint Chandler",
+  "ownerEmail": "clintc@nezperce.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 19610,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16258/panels/19610",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16258"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21959,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16258/strata/21959",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16258"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/24",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1667",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16258/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16258",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16258/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16258",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16258",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11345"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16258,
+  "title": "NPT Lostine/Wallowa Site Assessments - 2019",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16258",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2019-01-08T04:49:50-08:00"
+}

@@ -1,0 +1,181 @@
+{
+  "description": "<p>A GRTS sample will be obtained for sites along each bank of the river that can be effectively sampled using a boat electroshocker.&nbsp; The length of sties will initially be based on the observed or expected bass density (i.e., low, moderate or high), but consistent within each strata. Minor adjustments to the site location may also be necessary to ensure each sample site encompasses an adequate area.&nbsp;</p>\r\n",
+  "startYear": "2021",
+  "retirementYear": "2027",
+  "initiationYear": "2021",
+  "targetPopulation": null,
+  "ownerName": "Matt Polacek",
+  "ownerEmail": "polacmcp@dfw.wa.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 21961,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16609/panels/21961",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16609"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24459,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16609/strata/24459",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16609"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/64",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1757",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16609/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16609",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16609/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16609",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16609",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11515"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.570400,-119.336104"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.643334,-119.735272"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.565020,-119.317381"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.677165,-119.577516"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.691240,-119.553560"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.494900,-119.269156"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.648050,-119.429569"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.638721,-119.645704"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.351579,-119.256617"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.254865,-119.226234"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.377578,-119.262409"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.266982,-119.243477"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.333230,-119.261920"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.337411,-119.263502"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.315906,-119.259743"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.384077,-119.273857"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.161466,-118.946702"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.194659,-119.018109"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.152082,-118.943233"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.096665,-118.914818"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.188077,-119.044292"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.227115,-119.174966"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.201399,-119.069792"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.247454,-119.230499"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.957607,-119.036980"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.047096,-118.939745"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.988148,-118.988183"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.920436,-119.180182"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.942465,-119.117863"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.030691,-118.960398"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.972382,-119.035878"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.956486,-119.082260"
+    }
+  ],
+  "id": 16609,
+  "title": "Piscivorous Fish Status and Trend Monitoring in the Columbia River Upstream of McNary Dam",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16609",
+  "spatialDesignCategory": "Generalized Random Tessellation Stratified (GRTS), External",
+  "spatialDesignCategoryID": 19,
+  "lastUpdated": "2022-06-24T02:57:08-07:00"
+}

@@ -1,0 +1,52 @@
+{
+  "description": "<p>Juvenile salmonid distribution data to be collected within the Lolo Creek watershed utilizing single-pass backpack electrofishing surveys contingent on status of Covid-19 social distancing guidelines during summer months of 2021. Survey site locations scheduled to be established in the spring of 2021 through multi-agency determinations of priority data gaps following continuation of BPA&rsquo;s Atlas process for the Lolo Creek watershed.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "startYear": "2021",
+  "retirementYear": "2021",
+  "initiationYear": "2021",
+  "targetPopulation": null,
+  "ownerName": "Clint Chandler",
+  "ownerEmail": "clintc@nezperce.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 21572,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16651/panels/21572",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16651"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24253,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16651/strata/24253",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16651"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/24",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1668",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16651/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16651",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16651/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16651",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16651",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11524"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16651,
+  "title": "NPT Backpack Electrofishing Surveys - 2021",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16651",
+  "spatialDesignCategory": "Systematic, Non-Stratified",
+  "spatialDesignCategoryID": 4,
+  "lastUpdated": "2020-12-19T03:44:26-08:00"
+}

@@ -1,0 +1,57 @@
+{
+  "description": "No valid data",
+  "startYear": "2018",
+  "retirementYear": "",
+  "initiationYear": "2018",
+  "targetPopulation": null,
+  "ownerName": "Thomas Biladeau",
+  "ownerEmail": "tbiladeau@cdatribe-nsn.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 19072,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15601/panels/19072",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15601"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21497,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15601/strata/21497",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15601"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/70",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1406",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15601/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15601",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15601/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15601",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Water Quality Monitoring in Hangman Creek",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11255"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC5 - Watershed",
+      "areaDisplayName": "Upper Hangman Creek"
+    }
+  ],
+  "id": 15601,
+  "title": "Hangman Creek Water Quality",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15601",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2018-02-16T04:48:34-08:00"
+}

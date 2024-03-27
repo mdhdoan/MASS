@@ -1,0 +1,64 @@
+{
+  "description": "<p>AEM Extentensive&nbsp;Post Treatment study design sites to be sampled in 2017. Each site is only sampled one time, so no panels are needed.&nbsp;</p>\r\n",
+  "startYear": "2018",
+  "retirementYear": "",
+  "initiationYear": "2018",
+  "targetPopulation": null,
+  "ownerName": "Christopher Clark",
+  "ownerEmail": "christopher.clark@fishsciences.net",
+  "images": [],
+  "panels": [
+    {
+      "id": 19271,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16073/panels/19271",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16073"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21687,
+      "name": "EPT LWD Sites",
+      "abbreviation": "EPT-LWD",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16073/strata/21687",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16073"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/58",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/374",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16073/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16073",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16073/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16073",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "AEM EPT Sites 2016",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1084"
+    },
+    {
+      "name": "AEM 2017 Instream LWD sites",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1105"
+    },
+    {
+      "name": "AEM-LWD-2017_2",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1106"
+    },
+    {
+      "name": "AEM_2017_3",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1108"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16073,
+  "title": "Action Effectiveness Monitoring (EPT) 2017",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16073",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2018-05-23T06:50:20-07:00"
+}

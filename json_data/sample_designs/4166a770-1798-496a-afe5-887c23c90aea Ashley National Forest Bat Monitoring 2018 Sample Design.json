@@ -1,0 +1,50 @@
+{
+  "description": "No valid data",
+  "startYear": "2017",
+  "retirementYear": "2017",
+  "initiationYear": "2017",
+  "targetPopulation": null,
+  "ownerName": "Jason Kelton",
+  "ownerEmail": "jkelton@fs.fed.us",
+  "images": [],
+  "panels": [
+    {
+      "id": 19492,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16206/panels/19492",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16206"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21898,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16206/strata/21898",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16206"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/80",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1630",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16206/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16206",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16206/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16206",
+  "masterSample": {
+    "name": "Continental United States 10 KM Grid",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/10"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 16206,
+  "title": "4166a770-1798-496a-afe5-887c23c90aea Ashley National Forest Bat Monitoring 2018 Sample Design",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16206",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": null
+}

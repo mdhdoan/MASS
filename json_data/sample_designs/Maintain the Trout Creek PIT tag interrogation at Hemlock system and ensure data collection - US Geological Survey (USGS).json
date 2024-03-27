@@ -1,0 +1,67 @@
+{
+  "description": "<p>This site (Code TRC) will be maintained to provide continuous monitoring for detection of PIT-tagged juvenile and adult Steelhead to provide estimates of abundance and life-stage survival. The site consists of a 1001M Transceiver and 3 arrays of 2 antennas each. The site is on grid power. Juvenile fish are PIT-tagged as age-0 and age-1 parr in headwaters areas upstream of the site during late summer and fall instream sampling each year. Adult fish may have been tagged as juveniles through instream sampling or at screw traps, or as adults at the Shipherd Falls trap in the Wind River or adult sampling at Bonneville Dam. This site serves as downstream detection site for direct estimation of juvenile detection efficiency at the TC4 site&nbsp;and thus to estimate probability of downstream migration from headwaters to the upper detection sites. This site serves as the location to determine adult Steelhead escapement to the Trout Creek watershed.</p>\r\n\r\n<p>The site is visited at least once every two weeks to download data and provide any maintenance to antennas or power system to maintain operations. Data are uploaded to the PTAGIS website under Interrogation Site Code TRC.</p>\r\n",
+  "startYear": "2011",
+  "retirementYear": "2030",
+  "initiationYear": "2011",
+  "targetPopulation": null,
+  "ownerName": "Ian Jezorek",
+  "ownerEmail": "ijezorek@usgs.gov",
+  "images": [
+    {
+      "type": "Photo",
+      "url": "http://www.monitoringresources.org/Designer/Design/UploadAsFile/6215",
+      "caption": "Plan view of TRC PTIS site"
+    }
+  ],
+  "panels": [
+    {
+      "id": 21344,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2011"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16565/panels/21344",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16565"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24129,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16565/strata/24129",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16565"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/85",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1748",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16565/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16565",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16565/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16565",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design PTAGIS (1990-080-00) WSE 99509 (4514)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/4000"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Steelhead Summer Lower Columbia Pop. Name",
+      "areaDisplayName": "Wind River"
+    },
+    {
+      "areaTypeName": "NPPC Subbasins",
+      "areaDisplayName": "WIND"
+    }
+  ],
+  "id": 16565,
+  "title": "Maintain the Trout Creek PIT tag interrogation at Hemlock system and ensure data collection - US Geological Survey (USGS)",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16565",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2020-05-28T04:55:38-07:00"
+}

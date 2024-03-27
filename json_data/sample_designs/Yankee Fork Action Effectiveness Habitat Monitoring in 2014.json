@@ -1,0 +1,263 @@
+{
+  "description": "<p>The Yankee Fork Fish Habitat Monitoring Plan is part of the Shoshone-Bannock Tribes&rsquo; Research Monitoring and Evaluation (RM&amp;E) Plan that is being developed to support implementation of a comprehensive salmon and steelhead protection, restoration and mitigation program.&nbsp; This Habitat Monitoring Plan specifically addresses the Yankee Fork Restoration Project (#2002-059) that will be implemented in the Yankee Fork watershed to compliment the Yankee Fork Chinook Salmon and Steelhead fishery restoration projects currently underway in the Yankee Fork.&nbsp;&nbsp;</p>\r\n\r\n<p>The Yankee Fork Fish Habitat Monitoring Plan will implement the Columbia Habitat Monitoring Program (CHaMP) sampling protocol and sample design.&nbsp; CHaMP is a Columbia River basin-wide habitat status, trends and effectiveness monitoring program that was developed to capture habitat features that drive fish population biology in order to provide systematic habitat status and trends data.&nbsp; CHaMP is being implemented in the Yankee Fork watershed to evaluate the status and trend (quality and quantity) of fish habitat conditions and assess the effectiveness of restoration activities.</p>\r\n\r\n<p>The Yankee Fork Fish Habitat Monitoring study design will combine CHaMP with a modified before-after-control-impact (BACI) study design, used frequently for impact monitoring.&nbsp; Fish habitat data will be collected at control and impact sites before restoration and after restoration activities. These sites will be determined by using similar geomorphic reach types as established by the Bureau of Reclamation (Reclamation, 2012b and 2012c).&nbsp; The Lower Yankee Fork Implementation Plan 2008-2018 will inform the monitoring study design, specifically the spatial and temporal allocation of sites in the watershed.</p>\r\n\r\n<p>Fish habitat monitoring in the Yankee Fork watershed will begin in 2013 and continue through 2018. The first year, 25 sites will be sampled (15 effectiveness monitoring sites and 10 status and trend sites); ten sites will be added in 2014 and again in 2015 for a total of 45 sites, based on the CHaMP three-year rotating panel design. Subsequent years will be re-visits to these 45 sample sites. &nbsp;</p>\r\n\r\n<p>2014 Mid Season Updates:</p>\r\n\r\n<p>1) 8/14/2014:&nbsp;YF100001-1013 &nbsp;updated to be reconnected in 2015. Panel changed from 2013, 2016, 2019 to 2013, 2014, 2015, 2019.&nbsp;</p>\r\n\r\n<p>2) 8/14/2014:&nbsp;YF100001-837 removed from sampling in 2014 to accommodate site 2013 sampling. &nbsp;Panel name changed from 2014, 2017, 2021 to 2015, 2017, 2021.</p>\r\n\r\n<p>These were the only sites affected by the panel changes.</p>\r\n",
+  "startYear": "2013",
+  "retirementYear": "",
+  "initiationYear": "2014",
+  "targetPopulation": null,
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 2235,
+      "name": "Annual",
+      "abbreviation": "Annual",
+      "years": [
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15809/panels/2235",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15809"
+    },
+    {
+      "id": 2236,
+      "name": "Step Panel 2013,2014,2015",
+      "abbreviation": "SP1",
+      "years": [
+        "2013",
+        "2014",
+        "2015"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15809/panels/2236",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15809"
+    },
+    {
+      "id": 2237,
+      "name": "Step Panel 2013,2014,2015,2016,2019",
+      "abbreviation": "SP2",
+      "years": [
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15809/panels/2237",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15809"
+    },
+    {
+      "id": 2238,
+      "name": "Step Panel 2013,2014,2015,2018,2021",
+      "abbreviation": "SP3",
+      "years": [
+        "2013",
+        "2014",
+        "2015",
+        "2018",
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15809/panels/2238",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15809"
+    },
+    {
+      "id": 2241,
+      "name": "Step Panel 2013,2014,2015,2019",
+      "abbreviation": "SP6",
+      "years": [
+        "2013",
+        "2014",
+        "2016",
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15809/panels/2241",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15809"
+    },
+    {
+      "id": 2239,
+      "name": "Step Panel 2013,2014,2016,2017,2018,2021",
+      "abbreviation": "SP4",
+      "years": [
+        "2013",
+        "2014",
+        "2016",
+        "2017",
+        "2018",
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15809/panels/2239",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15809"
+    },
+    {
+      "id": 2240,
+      "name": "Step Panel 2013,2014,2017,2020",
+      "abbreviation": "SP5",
+      "years": [
+        "2013",
+        "2014",
+        "2017",
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15809/panels/2240",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15809"
+    },
+    {
+      "id": 2242,
+      "name": "Step Panel 2014,2015,2016,2017,2018,2019,2020,2021",
+      "abbreviation": "SP7",
+      "years": [
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15809/panels/2242",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15809"
+    },
+    {
+      "id": 2244,
+      "name": "Step Panel 2015,2016,2017,2018,2019,2020,2021",
+      "abbreviation": "SP9",
+      "years": [
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15809/panels/2244",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15809"
+    },
+    {
+      "id": 2245,
+      "name": "Step Panel 2015,2016,2017,2020",
+      "abbreviation": "SP10",
+      "years": [
+        "2015",
+        "2016",
+        "2017",
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15809/panels/2245",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15809"
+    },
+    {
+      "id": 2246,
+      "name": "Step Panel 2015,2017,2021",
+      "abbreviation": "SP11",
+      "years": [
+        "2015",
+        "2017",
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15809/panels/2246",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15809"
+    },
+    {
+      "id": 2247,
+      "name": "Step Panel 2018,2019,2020",
+      "abbreviation": "SP12",
+      "years": [
+        "2018",
+        "2019",
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15809/panels/2247",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15809"
+    },
+    {
+      "id": 2248,
+      "name": "Step Panel 2018,2019,2020,2021",
+      "abbreviation": "SP13",
+      "years": [
+        "2018",
+        "2019",
+        "2020",
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15809/panels/2248",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15809"
+    }
+  ],
+  "strata": [
+    {
+      "id": 2990,
+      "name": "Adaptive Management-Control",
+      "abbreviation": null,
+      "url": "http://www.monitoringresources.org/api/v1/designs/15809/strata/2990",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15809"
+    },
+    {
+      "id": 2991,
+      "name": "Adaptive Management-Treatment",
+      "abbreviation": null,
+      "url": "http://www.monitoringresources.org/api/v1/designs/15809/strata/2991",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15809"
+    },
+    {
+      "id": 2992,
+      "name": "Floodplain Enhancement-Control",
+      "abbreviation": null,
+      "url": "http://www.monitoringresources.org/api/v1/designs/15809/strata/2992",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15809"
+    },
+    {
+      "id": 2993,
+      "name": "Floodplain Enhancement-Treatment",
+      "abbreviation": null,
+      "url": "http://www.monitoringresources.org/api/v1/designs/15809/strata/2993",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15809"
+    },
+    {
+      "id": 2994,
+      "name": "Reconnection-Control",
+      "abbreviation": null,
+      "url": "http://www.monitoringresources.org/api/v1/designs/15809/strata/2994",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15809"
+    },
+    {
+      "id": 2995,
+      "name": "Reconnection-Treatment",
+      "abbreviation": null,
+      "url": "http://www.monitoringresources.org/api/v1/designs/15809/strata/2995",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15809"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/18",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/229",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15809/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15809",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15809/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15809",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "YFT00001 Sample",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1049"
+    },
+    {
+      "name": "YFI00001 Sample",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1053"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 15809,
+  "title": "Yankee Fork Action Effectiveness Habitat Monitoring in 2014",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15809",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2014-08-14T21:28:03-07:00"
+}

@@ -1,0 +1,52 @@
+{
+  "description": "<p>Juvenile salmonid distribution data to be collected within the Lolo Creek watershed utilizing single-pass backpack electrofishing surveys (contingent on status of Covid-19 social distancing guidelines during summer months of 2022). Survey site locations to be established prior to the 2022 field season by project area manager for the NPT Lolo Creek Watershed Restoration Project.</p>\r\n",
+  "startYear": "2022",
+  "retirementYear": "2022",
+  "initiationYear": "2022",
+  "targetPopulation": null,
+  "ownerName": "Clint Chandler",
+  "ownerEmail": "clintc@nezperce.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 21829,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2022"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16765/panels/21829",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16765"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24386,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16765/strata/24386",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16765"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/24",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1668",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16765/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16765",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16765/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16765",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16765",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11557"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16765,
+  "title": "NPT Backpack Electrofishing Surveys - 2022",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16765",
+  "spatialDesignCategory": "Other...",
+  "spatialDesignCategoryID": 17,
+  "lastUpdated": "2021-12-16T00:35:42-08:00"
+}

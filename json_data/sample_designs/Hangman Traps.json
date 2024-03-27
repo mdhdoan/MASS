@@ -1,0 +1,61 @@
+{
+  "description": "No valid data",
+  "startYear": "2018",
+  "retirementYear": "",
+  "initiationYear": "2018",
+  "targetPopulation": null,
+  "ownerName": "Thomas Biladeau",
+  "ownerEmail": "tbiladeau@cdatribe-nsn.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 19058,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15594/panels/19058",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15594"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21481,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15594/strata/21481",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15594"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/70",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1403",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15594/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15594",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15594/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15594",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Hangman Creek Trap Sites",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11250"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Rivers 100k",
+      "areaDisplayName": "Squaw Creek"
+    },
+    {
+      "areaTypeName": "Rivers 100k",
+      "areaDisplayName": "Indian Creek"
+    }
+  ],
+  "id": 15594,
+  "title": "Hangman Traps",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15594",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2018-02-15T04:27:46-08:00"
+}

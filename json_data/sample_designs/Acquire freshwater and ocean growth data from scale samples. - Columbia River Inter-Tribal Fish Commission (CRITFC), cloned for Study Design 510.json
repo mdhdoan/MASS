@@ -1,0 +1,76 @@
+{
+  "description": "<p>COPY:</p>\r\n",
+  "startYear": "2012",
+  "retirementYear": "2025",
+  "initiationYear": "2012",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Jeffrey Fryer",
+  "ownerEmail": "fryj@critfc.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 20245,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2012"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16528/panels/20245",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16528"
+    }
+  ],
+  "strata": [
+    {
+      "id": 23075,
+      "name": "All Sites",
+      "abbreviation": "All Sites",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16528/strata/23075",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16528"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1741",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16528/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16528",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16528/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16528",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design Factors limiting production of Okanagan and Wenatchee sockeye stocks (2008-503-00) WSE 103902 (4778)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1383"
+    },
+    {
+      "name": "BPA Sample for Study Design Factors limiting production of Okanagan and Wenatchee sockeye stocks (2008-503-00) WSE 115858 (4787)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1385"
+    },
+    {
+      "name": "BPA Sample for Study Design Factors limiting production of Okanagan and Wenatchee sockeye stocks (2008-503-00) WSE 93018 (4833)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1947"
+    },
+    {
+      "name": "BPA Sample for Study Design Factors limiting production of Okanagan and Wenatchee sockeye stocks (2008-503-00) WSE 125084 (4796)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/2323"
+    },
+    {
+      "name": "BPA Sample for Study Design Factors limiting production of Okanagan and Wenatchee sockeye stocks (2008-503-00) WSE 74037 (4815)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/4021"
+    },
+    {
+      "name": "BPA Sample for Study Design Factors limiting production of Okanagan and Wenatchee sockeye stocks (2008-503-00) WSE 83479 (4824)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/4022"
+    },
+    {
+      "name": "BPA Sample for Study Design Factors limiting production of Okanagan and Wenatchee sockeye stocks (2008-503-00) WSE 133797 (4806)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/5446"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16528,
+  "title": "Acquire freshwater and ocean growth data from scale samples. - Columbia River Inter-Tribal Fish Commission (CRITFC), cloned for Study Design 510",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16528",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2020-03-17T23:57:58-07:00"
+}

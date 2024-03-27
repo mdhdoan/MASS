@@ -1,0 +1,45 @@
+{
+  "description": "<p>Analysis of Adults will depend on field&nbsp;data collection protocols implemented on a given year.&nbsp; Assessments may be conduced for Joseph Creek, the Secesh River, SF Clearwater and Lolo Creek Steelhead populations.</p>\r\n",
+  "startYear": "2017",
+  "retirementYear": "2040",
+  "initiationYear": "2017",
+  "targetPopulation": null,
+  "ownerName": "Ryan Kinzer",
+  "ownerEmail": "ryank@nezperce.org",
+  "images": [],
+  "panels": [],
+  "strata": [],
+  "programUrl": "",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1273",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16647/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16647",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16647/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16647",
+  "masterSample": null,
+  "userSamples": null,
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "Joseph Creek"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "Secesh River"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "Lolo Creek"
+    },
+    {
+      "areaTypeName": "Steelhead Summer-Winter Interior Columbia Pop. Name",
+      "areaDisplayName": "South Fork Clearwater River"
+    }
+  ],
+  "id": 16647,
+  "title": "Nez Perce Tribe Adult Abundance and Life History Data Analysis - SR Steelhead",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16647",
+  "spatialDesignCategory": "Inference",
+  "spatialDesignCategoryID": 16,
+  "lastUpdated": "2020-11-17T02:09:36-08:00"
+}

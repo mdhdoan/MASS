@@ -1,0 +1,55 @@
+{
+  "description": "<p>Exploring functionality of adding GRTS points to existing points</p>\r\n",
+  "startYear": "2018",
+  "retirementYear": "",
+  "initiationYear": "2018",
+  "targetPopulation": "<p>Some points along streams near Eugene</p>\r\n",
+  "ownerName": "Jeremy Groom",
+  "ownerEmail": "jeremy@groomanalytics.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 19314,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2018"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15729/panels/19314",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15729"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21734,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15729/strata/21734",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15729"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/602",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15729/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15729",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15729/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15729",
+  "masterSample": {
+    "name": "Columbia Basin Master Sample",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/1"
+  },
+  "userSamples": [
+    {
+      "name": "Addl_pts",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11298"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 15729,
+  "title": "Addl_PtsTest1",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15729",
+  "spatialDesignCategory": "Generalized Random Tessellation Stratified (GRTS)",
+  "spatialDesignCategoryID": 18,
+  "lastUpdated": "2018-06-09T01:48:32-07:00"
+}

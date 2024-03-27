@@ -1,0 +1,87 @@
+{
+  "description": "No valid data",
+  "startYear": "2019",
+  "retirementYear": "2022",
+  "initiationYear": "2019",
+  "targetPopulation": null,
+  "ownerName": "Clint Chandler",
+  "ownerEmail": "clintc@nezperce.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 21566,
+      "name": "Cox Creek",
+      "abbreviation": "Cox Creek",
+      "years": [
+        "2020",
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16649/panels/21566",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16649"
+    },
+    {
+      "id": 21564,
+      "name": "Sheep Ridge & Buford",
+      "abbreviation": "Sheep Ridge & Buford",
+      "years": [
+        "2019",
+        "2021"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16649/panels/21564",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16649"
+    },
+    {
+      "id": 21565,
+      "name": "Tulley Hill",
+      "abbreviation": "Tulley Hill",
+      "years": [
+        "2020",
+        "2022"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16649/panels/21565",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16649"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24247,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16649/strata/24247",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16649"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/58",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/358",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16649/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16649",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16649/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16649",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design Action Effectiveness Monitoring BPA \u2013 MBACI Protocol for Monitoring the Effectiveness of Partial Barrier Projects v1.0 WSE 103042 (3388)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1674"
+    },
+    {
+      "name": "BPA Sample for Study Design Action Effectiveness Monitoring BPA \u2013 MBACI Protocol for Monitoring the Effectiveness of Partial Barrier Projects v1.0 WSE 134543 (3391)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1675"
+    },
+    {
+      "name": "BPA Sample for Study Design Action Effectiveness Monitoring BPA \u2013 MBACI Protocol for Monitoring the Effectiveness of Partial Barrier Projects v1.0 WSE 118747 (3389)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/2968"
+    },
+    {
+      "name": "Sample for Design #16253",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11342"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16649,
+  "title": "Partial Barrier AEM MBACI data collection - Nez Perce Tribe",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16649",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2020-12-19T01:57:45-08:00"
+}

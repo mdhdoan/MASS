@@ -1,0 +1,52 @@
+{
+  "description": "<p>Invertebrate prey consumed by subyearling fall chinook salmon will be analyzed from monthly collections from July through October in Lower Granite Reservoir. Fish will be collected in shoreline habitats with a beach seine and from pelagic habitats with a lampara seine. Three random samples from each habitat type will be made in the lower, middle, and upper portions of the reservoir during each monthly sampling. Fifteen fish from each sample will have their stomach contents removed for analysis.</p>\r\n",
+  "startYear": "2019",
+  "retirementYear": "2020",
+  "initiationYear": "2019",
+  "targetPopulation": null,
+  "ownerName": "Kenneth Tiffan",
+  "ownerEmail": "ktiffan@usgs.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 19676,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2019"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16290/panels/19676",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16290"
+    }
+  ],
+  "strata": [
+    {
+      "id": 22008,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16290/strata/22008",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16290"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/40",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1035",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16290/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16290",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16290/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16290",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16290",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11354"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16290,
+  "title": "Prey analysis",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16290",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2019-02-01T23:04:20-08:00"
+}

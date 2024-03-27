@@ -1,0 +1,65 @@
+{
+  "description": "<p>Both adult spring chinook and coho returning the Warm Springs River and a proportion of emigrating juveniles from broodyears 2015-2019 are to be tissue sampled for genotyping and subsequent parentage analyses. All samples will be sent to the Hagerman Fish Culture Experiment Station in Hagerman, ID for genotyping across a standardized panel of single nucleotide polymorphism (SNP) DNA markers. Resulting genotypes will then be supplied to appropriate pedigree reconstruction softwares to construct sibling groups amongst juveniles and perform juvenile-to-adult parentage assignment where possible. Results from these pedigree reconstruction analyses will be summarized to infer effective population size and productivity, which will be compared&nbsp;to estimates provided by redd and weir counts.&nbsp;</p>\r\n\r\n<p>These results will ultimately inform management opportunities, including whether the initiation of a spring chinook hatchery supplementation program may be appropriate and timely to avoid high extinction risk.&nbsp;For coho salmon, the productivity estimates for this naturally reintroduced population can be compared to estimates made for other interior Columbia Basin coho populations, all of which have been reintroduced over the past 20 years via hatchery supplementation (which is currently ongoing).</p>\r\n",
+  "startYear": "2015",
+  "retirementYear": "2021",
+  "initiationYear": "2015",
+  "targetPopulation": null,
+  "ownerName": "Hayley Nuetzel",
+  "ownerEmail": "hnuetzel@critfc.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 21581,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2015"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16663/panels/21581",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16663"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24262,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16663/strata/24262",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16663"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/35",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1680",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16663/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16663",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16663/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16663",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design CTWS RM&E - Multiple Species - Multiple Subbasin - Monitoring using PIT tag Arrays WSE 76048 (5691)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/4600"
+    },
+    {
+      "name": "CTWS RM&E C. shasta sample sites",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11264"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.861909,-121.246190"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "44.873363,-121.342500"
+    }
+  ],
+  "id": 16663,
+  "title": "Perform molecular genetic analyses of spring chinook and coho in the Warm Springs River",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16663",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2021-01-12T02:31:33-08:00"
+}

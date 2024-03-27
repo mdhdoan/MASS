@@ -1,0 +1,52 @@
+{
+  "description": "<p>Hook and line surveys (Monitoring Resources Method ID 201)&nbsp;will be conducted to mark and collect life history information, and biological data from returning adults. Hook and line surveys generally consisted of one to two individuals angling for one to three hours near the mouth. Fish were measured for TL, FL, weighed, and checked for fin clips and tags. Scale samples were also collected (Devries and Frie 1996). A PIT tag was applied to the pelvic girdle on all adult Redband Trout. Fish were allowed to recover in a live well with fresh stream water and were released back into the stream in close proximity to their capture location.</p>\r\n",
+  "startYear": "2014",
+  "retirementYear": "2025",
+  "initiationYear": "2014",
+  "targetPopulation": null,
+  "ownerName": "Nicholas Albrecht",
+  "ownerEmail": "nicholas.albrecht@dfw.wa.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 21918,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2014"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16799/panels/21918",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16799"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24440,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16799/strata/24440",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16799"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/64",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1830",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16799/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16799",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16799/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16799",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16799",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11580"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16799,
+  "title": "Big Sheep Creek Adult Redband Trout Sampling",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16799",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2022-04-03T02:52:25-07:00"
+}

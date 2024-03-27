@@ -1,0 +1,52 @@
+{
+  "description": "<p>&nbsp;</p>\r\n\r\n<p>The Oregon Department of Fish and Wildlife (ODFW), the Washington Department of Fish and Wildlife (WDFW), and the Idaho Department of Fish and Game, on behalf of their respective states (hereafter called &ldquo;the States&rdquo;), and the Nez Perce Tribe (NPT), the Confederated Tribes of the Umatilla Indian Reservation (CTUIR), the Confederated Tribes of the Warm Springs Reservation of Oregon (CTWSR), the Confederated Tribes and Bands of the Yakama Nation (YN), and the 3.6.D Committee1 submit this application under subsection 120(f) of the Marine Mammal Protection Act of 1972 (MMPA; 16 USC 1389 et seq.; section 120 of the MMPA) to the National Marine Fisheries Service (NMFS) for the intentional lethal removal of individually identifiable California sea lions (<em>Zalophus californianus</em>) and Steller sea lions (<em>Eumetopias jubatus</em>: Eastern stock) that are located in the mainstem of the Columbia River between river mile 112 and McNary Dam, or in any tributary to the Columbia River that includes spawning habitat of salmon or steelhead (<em>Onchorynchus </em>spp.) that are listed as threatened and endangered under the Endangered Species Act of 1973 (ESA; 16 U.S.C. &sect;1531 et seq.), and which are having a significant negative impact on the following stocks:&nbsp;</p>\r\n\r\n<p>\uf0b7 Upper Columbia River Spring Chinook (Endangered)&nbsp;</p>\r\n\r\n<p>\uf0b7 Snake R. Spring/Summer Chinook (Threatened)&nbsp;</p>\r\n\r\n<p>\uf0b7 Lower Columbia River Steelhead (Threatened)&nbsp;</p>\r\n\r\n<p>\uf0b7 Mid-Columbia River Steelhead (Threatened)&nbsp;</p>\r\n\r\n<p>\uf0b7 Snake River Steelhead (Threatened)&nbsp;</p>\r\n\r\n<p>\uf0b7 Lower Columbia River Chinook (Threatened)&nbsp;</p>\r\n\r\n<p>\uf0b7 Upper Willamette River Spring Chinook (Threatened)&nbsp;</p>\r\n\r\n<p>\uf0b7 Upper Willamette River Winter Steelhead (Threatened)&nbsp;</p>\r\n\r\n<p>\uf0b7 Upper Columbia River Steelhead (Threatened)&nbsp;</p>\r\n\r\n<p>\uf0b7 Snake River Fall Chinook (Threatened)&nbsp;</p>\r\n\r\n<p>\uf0b7 Columbia River Chum (Threatened)&nbsp;</p>\r\n\r\n<p>\uf0b7 Lower Columbia River Coho (Threatened)&nbsp;</p>\r\n\r\n<p>\uf0b7 Snake River Sockeye (Endangered)&nbsp;</p>\r\n\r\n<p>\uf0b7 Southern Distinct Population Segment of Eulachon (Threatened)&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Removal of these sea lions is also intended to protect species of lamprey or sturgeon that may not be listed as endangered or threatened but are listed as a species of concern.</p>\r\n\r\n<p>This is a monitoring program without a statistic sampling design.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "startYear": "2020",
+  "retirementYear": "2025",
+  "initiationYear": "2020",
+  "targetPopulation": null,
+  "ownerName": "Doug Hatch",
+  "ownerEmail": "hatd@critfc.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 21405,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16602/panels/21405",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16602"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24172,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16602/strata/24172",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16602"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/51",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1754",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16602/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16602",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16602/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16602",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16602",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11514"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16602,
+  "title": "Sea lion removal",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16602",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2020-08-21T22:40:07-07:00"
+}

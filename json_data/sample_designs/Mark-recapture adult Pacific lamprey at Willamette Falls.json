@@ -1,0 +1,52 @@
+{
+  "description": "<p>Since 2010, the Confederated Tribes of the Warm Springs Reservation has been estimating escapement of adult Pacific lamprey (<em>Entosphenus tridentatus</em>)&nbsp;at Willamette Falls In Oregon City (rkm 42.6) for population status and trends monitoring.&nbsp; Adult lamprey are captured in the fish ladder, marked using PIT and dart tags and a caudal clip, and released 1.6 km downstream at SportCraft Marina.&nbsp; Pacific lamprey are captured and tagged February - September, with some variation according to migration timing.&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "startYear": "2010",
+  "retirementYear": "2011",
+  "initiationYear": "2010",
+  "targetPopulation": null,
+  "ownerName": "Cyndi Baker",
+  "ownerEmail": "cyndi.baker@ctwsbnr.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 19667,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2010"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16276/panels/19667",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16276"
+    }
+  ],
+  "strata": [
+    {
+      "id": 22000,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16276/strata/22000",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16276"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/35",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/525",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16276/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16276",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16276/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16276",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": " Mark-recapture adult Pacific lamprey at Willamette Falls",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11353"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16276,
+  "title": "Mark-recapture adult Pacific lamprey at Willamette Falls",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16276",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2019-01-19T05:59:03-08:00"
+}

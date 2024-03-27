@@ -1,0 +1,52 @@
+{
+  "description": "<p>Aquatic habitat surveys to be conducted at probabillistically located sites within Lolo Creek watershed reaches which are to be delineated by a multiagency Lolo Atlas data-gap monitoring workgroup prior to the 2023 field season.</p>\r\n",
+  "startYear": "2023",
+  "retirementYear": "2024",
+  "initiationYear": "2023",
+  "targetPopulation": null,
+  "ownerName": "Clint Chandler",
+  "ownerEmail": "clintc@nezperce.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 21991,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2023"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16833/panels/21991",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16833"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24488,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16833/strata/24488",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16833"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/24",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1667",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16833/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16833",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16833/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16833",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Sample for Design #16833",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11598"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16833,
+  "title": "Lolo Creek Watershed habitat assessments - 2023",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16833",
+  "spatialDesignCategory": "Generalized Random Tessellation Stratified (GRTS), External",
+  "spatialDesignCategoryID": 19,
+  "lastUpdated": "2022-12-15T01:04:27-08:00"
+}

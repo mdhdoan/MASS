@@ -1,0 +1,61 @@
+{
+  "description": "<p>An inclined plane trap in the juvenile bypass facility within the West Extension Canal at Three Mile Falls Dam and a 5 ft rotary screw trap near the mouth of Birch Creek will be used to monitor smolt production for the Middle Columbia River DPS Umatilla River steelhead MPG. Traps will be operated 24 hours per day and 7 days per week. Captured fish will be enumerated and biological data (fork length, mass, etc.) will be collected.</p>\r\n",
+  "startYear": "1995",
+  "retirementYear": "",
+  "initiationYear": "1995",
+  "targetPopulation": null,
+  "ownerName": "Josh Hanson",
+  "ownerEmail": "Josh.hanson@odfw.oregon.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 19528,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "1995"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16222/panels/19528",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16222"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21920,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16222/strata/21920",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16222"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/777",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16222/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16222",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16222/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16222",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "Umatilla River ODFW smolt traps",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11329"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Rivers - Streams 24k",
+      "areaDisplayName": "Umatilla River"
+    },
+    {
+      "areaTypeName": "Rivers - Streams 24k",
+      "areaDisplayName": "Birch Creek"
+    }
+  ],
+  "id": 16222,
+  "title": "TMF & Birch smolt trapping",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16222",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2018-10-19T01:17:36-07:00"
+}

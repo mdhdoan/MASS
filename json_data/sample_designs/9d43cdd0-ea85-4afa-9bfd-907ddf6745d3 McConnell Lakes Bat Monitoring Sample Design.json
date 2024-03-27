@@ -1,0 +1,50 @@
+{
+  "description": "No valid data",
+  "startYear": "2017",
+  "retirementYear": "2017",
+  "initiationYear": "2017",
+  "targetPopulation": null,
+  "ownerName": "Rebecca Geauvreau",
+  "ownerEmail": "rebecca.geauvreau@fricorp.com",
+  "images": [],
+  "panels": [
+    {
+      "id": 19462,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15800/panels/19462",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15800"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21868,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15800/strata/21868",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15800"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/80",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1615",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15800/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15800",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15800/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15800",
+  "masterSample": {
+    "name": "Canada 10 KM Grid",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/11"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 15800,
+  "title": "9d43cdd0-ea85-4afa-9bfd-907ddf6745d3 McConnell Lakes Bat Monitoring Sample Design",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15800",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": "2018-08-13T19:31:22-07:00"
+}

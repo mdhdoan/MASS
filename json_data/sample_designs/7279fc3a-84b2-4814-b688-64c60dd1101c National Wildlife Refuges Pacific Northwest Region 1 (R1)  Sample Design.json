@@ -1,0 +1,50 @@
+{
+  "description": "No valid data",
+  "startYear": "2017",
+  "retirementYear": "2017",
+  "initiationYear": "2017",
+  "targetPopulation": null,
+  "ownerName": "Brian Reichert",
+  "ownerEmail": "breichert@usgs.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 19184,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/15652/panels/19184",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15652"
+    }
+  ],
+  "strata": [
+    {
+      "id": 21600,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/15652/strata/21600",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/15652"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/80",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1481",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/15652/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/15652",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/15652/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/15652",
+  "masterSample": {
+    "name": "Continental United States 10 KM Grid",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/10"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 15652,
+  "title": "7279fc3a-84b2-4814-b688-64c60dd1101c National Wildlife Refuges Pacific Northwest Region 1 (R1)  Sample Design",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/15652",
+  "spatialDesignCategory": "Census: Full",
+  "spatialDesignCategoryID": 5,
+  "lastUpdated": "2018-04-05T04:44:56-07:00"
+}

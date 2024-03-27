@@ -1,0 +1,64 @@
+{
+  "description": "No valid data",
+  "startYear": "2017",
+  "retirementYear": "",
+  "initiationYear": "2017",
+  "targetPopulation": "<p>BLM perennial streams and rivers in the&nbsp;Moab FO, UT</p>\r\n",
+  "ownerName": "Scott Miller",
+  "ownerEmail": "scott.miller@usu.edu",
+  "images": [],
+  "panels": [
+    {
+      "id": 8476,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2637/panels/8476",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2637"
+    }
+  ],
+  "strata": [
+    {
+      "id": 10633,
+      "name": "Large Streams (3&4)",
+      "abbreviation": "LS",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2637/strata/10633",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2637"
+    },
+    {
+      "id": 10634,
+      "name": "Rivers (5+)",
+      "abbreviation": "RV",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2637/strata/10634",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2637"
+    },
+    {
+      "id": 10635,
+      "name": "Small Streams (1&2)",
+      "abbreviation": "SS",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2637/strata/10635",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2637"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/78",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1335",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/2637/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/2637",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/2637/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/2637",
+  "masterSample": {
+    "name": "Bureau of Land Management Lotic",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/8"
+  },
+  "userSamples": null,
+  "areasOfInferences": [],
+  "id": 2637,
+  "title": "Moab_FINAL",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/2637",
+  "spatialDesignCategory": "Generalized Random Tessellation Stratified (GRTS)",
+  "spatialDesignCategoryID": 18,
+  "lastUpdated": "2017-10-03T05:45:37-07:00"
+}

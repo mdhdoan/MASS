@@ -1,0 +1,56 @@
+{
+  "description": "<p>Action Effectiveness Monitoring and Research (AEMR) for Level 3 project sites</p>\r\n",
+  "startYear": "2023",
+  "retirementYear": "2025",
+  "initiationYear": "2023",
+  "targetPopulation": "COPY: ",
+  "ownerName": "Tom Josephson",
+  "ownerEmail": "tjosephson@columbiaestuary.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 22157,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2023"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16885/panels/22157",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16885"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24546,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16885/strata/24546",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16885"
+    }
+  ],
+  "programUrl": "",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/780",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16885/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16885",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16885/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16885",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design Action Effectiveness Monitoring Columbia Estuary Ecosystem Restoration Program (CEERP) Level 3 Standard Monitoring Indicators v1.0 WSE 126064 (3425)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/2407"
+    },
+    {
+      "name": "Sample for Design #16885",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/11614"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16885,
+  "title": "AEMR (Level 3): Collect POST-Construction AEMR Level 3 data - Columbia River Estuary Study Taskforce (CREST) 2023-2025 sites",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16885",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2023-04-18T05:06:57-07:00"
+}

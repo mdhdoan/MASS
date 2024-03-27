@@ -1,0 +1,77 @@
+{
+  "description": "No valid data",
+  "startYear": "2010",
+  "retirementYear": "2030",
+  "initiationYear": "2010",
+  "targetPopulation": null,
+  "ownerName": "Catherine Corbett",
+  "ownerEmail": "ccorbett@estuarypartnership.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 21745,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2010"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16721/panels/21745",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16721"
+    }
+  ],
+  "strata": [
+    {
+      "id": 24340,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16721/strata/24340",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16721"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/68",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/466",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16721/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16721",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16721/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16721",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design Lower Columbia River Habitat Status and Trends (2003-007-00) WSE 77595 (3904)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/6739"
+    },
+    {
+      "name": "BPA Sample for Study Design Lower Columbia River Habitat Status and Trends (2003-007-00) WSE 68898 (3888)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/10053"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.151608,-123.336819"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.601726,-122.095334"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "45.782572,-122.769462"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.300550,-124.047000"
+    },
+    {
+      "areaTypeName": "Latitude, Longitude",
+      "areaDisplayName": "46.251000,-123.481000"
+    }
+  ],
+  "id": 16721,
+  "title": "NOAA Otolith Analyses, Biochemical Measures of Fish Growth, and Genetic Stock Identification - Lower Columbia Estuary Partnership",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16721",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2021-07-26T23:38:37-07:00"
+}

@@ -1,0 +1,190 @@
+{
+  "backgroundRationale": "<p>One of the main purposes of a monitoring program is to detect changes in a particular variable of interest over time. Serious concerns have been raised about the ability of many fish and stream habitat monitoring programs to detect biologically meaningful changes due to confounding factors such as high natural variability in many ecological variables, poorly designed monitoring programs, inconsistent monitoring protocols, and low statistical power (Larsen et al. 2004, Roni et al. 2008). ISEMP has developed a hierarchical- staircase experimental design for the implementation of the proposed restoration action.</p>\r\n",
+  "sampleDesigns": [
+    {
+      "id": 2767,
+      "title": "Collect field data for monitoring vegetation in Bridge Creek - South Fork Research_3",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2767",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": null
+    },
+    {
+      "id": 2768,
+      "title": "Bridge Creek analysis of climate, groundwater, and riparian planting data - South Fork Research_4",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2768",
+      "spatialDesignCategory": "Inference",
+      "spatialDesignCategoryID": 16,
+      "lastUpdated": null
+    },
+    {
+      "id": 2769,
+      "title": "Conduct juvenile seining and PIT tagging activities in Bridge Creek IMW - Eco Logical Research",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2769",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": null
+    },
+    {
+      "id": 2770,
+      "title": "Conduct juvenile seining in intensively surveyed watersheds - Eco Logical Research",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2770",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": null
+    },
+    {
+      "id": 2771,
+      "title": "Collect monitoring field data in Bridge Creek - South Fork Research",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2771",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": null
+    },
+    {
+      "id": 2774,
+      "title": "Modeling and analysis of Bridge Creek data - South Fork Research",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2774",
+      "spatialDesignCategory": "Inference",
+      "spatialDesignCategoryID": 16,
+      "lastUpdated": null
+    },
+    {
+      "id": 2775,
+      "title": "Conduct juvenile shocking and PIT tagging activities in Bridge Creek IMW - Eco Logical Research 1",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2775",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": null
+    },
+    {
+      "id": 2776,
+      "title": "Collect monitoring field data in Bridge Creek - South Fork Research_2",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2776",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": null
+    },
+    {
+      "id": 2777,
+      "title": "Modeling and analysis of Bridge Creek data - South Fork Research_2",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2777",
+      "spatialDesignCategory": "Inference",
+      "spatialDesignCategoryID": 16,
+      "lastUpdated": null
+    },
+    {
+      "id": 2778,
+      "title": "COPY: Evaluation of BDAs to improve juvenile steelhead production by maintaining perennial flows to provide a migration corridor and suitable habitat in Bear Creek - Confederated Tribes of Warm Springs",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2778",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": null
+    },
+    {
+      "id": 2781,
+      "title": "Collect field data for monitoring BDS structures and vegetation in Bridge Creek - South Fork Research",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2781",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": null
+    },
+    {
+      "id": 2782,
+      "title": "Bridge Creek analysis of climate, groundwater, and riparian planting data - South Fork Research",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2782",
+      "spatialDesignCategory": "Inference",
+      "spatialDesignCategoryID": 16,
+      "lastUpdated": null
+    },
+    {
+      "id": 2783,
+      "title": "Collect field data for monitoring vegetation in Bridge Creek - South Fork Research",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2783",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": null
+    },
+    {
+      "id": 2784,
+      "title": "Bridge Creek analysis of climate, groundwater, and riparian planting data - South Fork Research_2",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2784",
+      "spatialDesignCategory": "Inference",
+      "spatialDesignCategoryID": 16,
+      "lastUpdated": null
+    },
+    {
+      "id": 2789,
+      "title": "Collect field data for monitoring vegetation in Bridge Creek - South Fork Research_2",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2789",
+      "spatialDesignCategory": "Ease of Access",
+      "spatialDesignCategoryID": 9,
+      "lastUpdated": null
+    },
+    {
+      "id": 2790,
+      "title": "Bridge Creek analysis of climate, groundwater, and riparian planting data - South Fork Research_3",
+      "status": "Finalized",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2790",
+      "spatialDesignCategory": "Inference",
+      "spatialDesignCategoryID": 16,
+      "lastUpdated": null
+    }
+  ],
+  "objectives": [
+    "Development and implementation of a coordinated habitat and population status and trends monitoring program in the South Fork Salmon River (SFSR).",
+    "Development and implementation of a coordinated habitat restoration effectiveness monitoring program in the John Day Basin",
+    "Development and implementation of a coordinated habitat restoration effectiveness monitoring program in the Lemhi River. ",
+    "Development and implementation of a coordinated watershed scale habitat restoration effectiveness monitoring program in Bridge Creek of the Joh",
+    "Development of a coordinated habitat and population status and trends monitoring program in the John Day Basin. ",
+    "Effectiveness Monitoring in the Entiat Intensively Monitored Watershed",
+    "Installation, operation, and maintenance of a coordinated Snake River PIT tag array system.",
+    "Status and trend monitoring program in the Upper Columbia "
+  ],
+  "keyAssumptions": null,
+  "dataHandlingConsiderations": null,
+  "qualityControlConsiderations": null,
+  "reportingConsiderations": null,
+  "equipmentCleaningAndCalibration": null,
+  "rolesAndResponsibilities": null,
+  "qualifications": null,
+  "trainingRequirements": null,
+  "safetyConsiderations": null,
+  "fieldScheduleNotes": null,
+  "budgetConsiderations": null,
+  "monitoringPurpose": "Action Effectiveness Monitoring",
+  "estimatedCostPerSite": null,
+  "optionalMethodIDs": [],
+  "optionalMethods": [],
+  "id": 65,
+  "name": "Bridge Creek Intensively Monitored Watershed Study (2003-017-00) v1.0",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/studyDesigns/65",
+  "programID": 10,
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/10",
+  "protocolID": 347,
+  "protocolUrl": "http://www.monitoringresources.org/api/v1/protocols/347",
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org",
+  "majorVersion": 1,
+  "minorVersion": 0,
+  "previousStudyDesignVersionId": null,
+  "previousStudyDesignVersionUrl": "[none]",
+  "mostRecentVersionId": null,
+  "mostRecentVersionUrl": "[none]"
+}

@@ -1,0 +1,69 @@
+{
+  "description": "No valid data",
+  "startYear": "2017",
+  "retirementYear": "",
+  "initiationYear": "2017",
+  "targetPopulation": "<p>Perennial BLM&nbsp;streams and rivers in the Upper Snake FO, ID</p>\r\n",
+  "ownerName": "Scott Miller",
+  "ownerEmail": "scott.miller@usu.edu",
+  "images": [],
+  "panels": [
+    {
+      "id": 8464,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16026/panels/8464",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16026"
+    }
+  ],
+  "strata": [
+    {
+      "id": 10609,
+      "name": "Large Streams (3&4)",
+      "abbreviation": "LS",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16026/strata/10609",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16026"
+    },
+    {
+      "id": 10610,
+      "name": "Rivers (5+)",
+      "abbreviation": "RV",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16026/strata/10610",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16026"
+    },
+    {
+      "id": 10611,
+      "name": "Small Streams (1&2)",
+      "abbreviation": "SS",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16026/strata/10611",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16026"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/78",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/1335",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16026/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16026",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16026/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16026",
+  "masterSample": {
+    "name": "Bureau of Land Management Lotic",
+    "html": "https://www.monitoringresources.org/Sites/Master/Detail/8"
+  },
+  "userSamples": [
+    {
+      "name": "Upper Snake User File",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1100"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 16026,
+  "title": "Upper Snake User",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16026",
+  "spatialDesignCategory": "Generalized Random Tessellation Stratified (GRTS)",
+  "spatialDesignCategoryID": 18,
+  "lastUpdated": "2017-04-19T20:24:32-07:00"
+}

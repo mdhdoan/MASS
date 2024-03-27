@@ -1,0 +1,61 @@
+{
+  "description": "<p>\u200b</p>\r\n\r\n<p>To begin to understand the role walleye will play in the lake, we will evaluate their diet, origin (micro-chemistry), age and growth rates, abundance, habitat selection, use, and residency, as well as spawning location and timing.&nbsp; We will prioritize developing efficient and practical methods to sample walleye&nbsp; through electro-fishing, angling, or various netting techniques.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "startYear": "2017",
+  "retirementYear": "2018",
+  "initiationYear": "2017",
+  "targetPopulation": null,
+  "ownerName": "Matthew  Corsi",
+  "ownerEmail": "matthew.corsi@idfg.idaho.gov",
+  "images": [],
+  "panels": [
+    {
+      "id": 19675,
+      "name": "Default",
+      "abbreviation": "D",
+      "years": [
+        "2017"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/16277/panels/19675",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16277"
+    }
+  ],
+  "strata": [
+    {
+      "id": 22007,
+      "name": "Default",
+      "abbreviation": "D",
+      "url": "http://www.monitoringresources.org/api/v1/designs/16277/strata/22007",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/16277"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/65",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/861",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/16277/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/16277",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/16277/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/16277",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "BPA Sample for Study Design LPO Evaluate Lake Trout Removal Program (1994-047-00) WSE 126150 (8407)",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/3765"
+    }
+  ],
+  "areasOfInferences": [
+    {
+      "areaTypeName": "HUC4 - Sub Basin",
+      "areaDisplayName": " PEND OREILLE LAKE"
+    },
+    {
+      "areaTypeName": "NPPC Subbasins",
+      "areaDisplayName": "PEND OREILLE"
+    }
+  ],
+  "id": 16277,
+  "title": "Walleye population dynamics evaluation - Idaho Department of Fish and Game (IDFG)",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/16277",
+  "spatialDesignCategory": "Ease of Access",
+  "spatialDesignCategoryID": 9,
+  "lastUpdated": "2019-01-26T01:05:30-08:00"
+}

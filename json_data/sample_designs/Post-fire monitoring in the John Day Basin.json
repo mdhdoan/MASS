@@ -1,0 +1,56 @@
+{
+  "description": "<p>ODFW&nbsp;plans to sample two previously visited CHaMP sites in 2016 as post-fire monitoring. &nbsp;These sites are OJD-109 and OJD 15.</p>\r\n",
+  "startYear": "2016",
+  "retirementYear": "",
+  "initiationYear": "2016",
+  "targetPopulation": null,
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 7097,
+      "name": "Annual",
+      "abbreviation": "Annual",
+      "years": [
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2561/panels/7097",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2561"
+    }
+  ],
+  "strata": [
+    {
+      "id": 9135,
+      "name": "Post Fire",
+      "abbreviation": "PostFire",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2561/strata/9135",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2561"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/18",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/219",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/2561/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/2561",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/2561/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/2561",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "OJD Legacy Sample",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1009"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 2561,
+  "title": "Post-fire monitoring in the John Day Basin",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/2561",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2016-12-07T06:37:53-08:00"
+}

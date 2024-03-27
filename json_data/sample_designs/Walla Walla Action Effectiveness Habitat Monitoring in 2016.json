@@ -1,0 +1,66 @@
+{
+  "description": "<p>Fish Habitat Monitoring conducted by the Confederated Tribes of the Umatilla Indian Reservation.&nbsp;</p>\r\n\r\n<p>This is the same design as 2014 and it was copied by Carol Volk on 6/24/16 so that panels could be extended to 2016 for 2016 sampling.</p>\r\n",
+  "startYear": "2013",
+  "retirementYear": "",
+  "initiationYear": "2014",
+  "targetPopulation": "COPY: COPY: COPY: ",
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org",
+  "images": [],
+  "panels": [
+    {
+      "id": 7151,
+      "name": "Annual",
+      "abbreviation": "Ann",
+      "years": [
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020"
+      ],
+      "url": "http://www.monitoringresources.org/api/v1/designs/2579/panels/7151",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2579"
+    }
+  ],
+  "strata": [
+    {
+      "id": 9192,
+      "name": "SF Touchet Control",
+      "abbreviation": "SFT-Cntrl",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2579/strata/9192",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2579"
+    },
+    {
+      "id": 9193,
+      "name": "SF Touchet Treatment",
+      "abbreviation": "SFT-Trt",
+      "url": "http://www.monitoringresources.org/api/v1/designs/2579/strata/9193",
+      "designUrl": "http://www.monitoringresources.org/api/v1/designs/2579"
+    }
+  ],
+  "programUrl": "http://www.monitoringresources.org/api/v1/programs/37",
+  "studyDesignUrl": "http://www.monitoringresources.org/api/v1/studyDesigns/288",
+  "sitesUrl": "http://www.monitoringresources.org/api/v1/designs/2579/sites",
+  "dataRepositoryUrl": "http://www.monitoringresources.org/api/v1/repositories/2579",
+  "targetPopulationSitesUrl": "http://www.monitoringresources.org/api/v1/designs/2579/targetPopulation",
+  "html": "http://www.monitoringresources.org/Designer/Design/Detail/2579",
+  "masterSample": null,
+  "userSamples": [
+    {
+      "name": "SFT00001 Sample",
+      "html": "https://www.monitoringresources.org/Sites/Master/Detail/1044"
+    }
+  ],
+  "areasOfInferences": [],
+  "id": 2579,
+  "title": "Walla Walla Action Effectiveness Habitat Monitoring in 2016",
+  "status": "Finalized",
+  "url": "http://www.monitoringresources.org/api/v1/designs/2579",
+  "spatialDesignCategory": "Historic Precedent",
+  "spatialDesignCategoryID": 10,
+  "lastUpdated": "2016-06-24T22:28:57-07:00"
+}

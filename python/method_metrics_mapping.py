@@ -169,3 +169,4 @@ if __name__ == '__main__':
     print('Completed with fail rate: ' + str(fail_counter) + 'metrics out of ' + str(metric_counter) + ' with ' + str(total_protocol) + ' protocols')
     with open('bad_metrics.txt', 'w+') as bad_metric_records:
         bad_metric_records.write(str(bad_metric_list))
+    # Mar 28 Completed with fail rate: 63metrics out of 2108 with 322 protocols

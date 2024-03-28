@@ -92,34 +92,41 @@ if __name__ == '__main__':
     metric_counter = 0
     for protocol_id, metrics in protocol_dict.items():
         print('protocol #', protocol_counter, 'out of', total_protocol)
-        print('List of Metrics: ', metrics)
-        print('Begin mistral with protocol number ' + protocol_id + ' and metric:', end = ' ')
+        total_metrics_in_protocol = len(metrics)
+        # print('List of Metrics: ', metrics)
+        # print('Begin mistral with protocol number ' + protocol_id + ' and metric:', end = ' ')
         # break
+        metric_total_fail_counter = 0
         for metric in metrics:
+            metric_fail_counter = 0
             metric_counter += 1
-            print(metric + ' and a list of ', len(metric_dict[metric]), ' methods')
+            print('Metric:', metric, end = '... ')
+            # print(metric + ' and a list of ', len(metric_dict[metric]), ' methods')
             # print(metric + ' and a list of methods: ' + str(metric_dict[metric]))
             comparable_method_dict = {}
             for method in metric_dict[metric]:
                 # print(method) #, method_dict[method])
                 comparable_method_dict[method] = method_dict[method]
             # result['text'] = 'holder'
-            print('--- BEGIN Mistral work --- ')
+            # print('--- BEGIN Mistral work --- ')
             result = llm_chain.invoke({'metric_dict': metric, "method_dict": comparable_method_dict})
             matching_title = result['text']
-            print('--- END Mistral work --- ')
-            print(metric + ' has the closest matching result as: \n\t' + matching_title)
+            # print('--- END Mistral work --- ')
+            # print(metric + ' has the closest matching result as: \n\t' + matching_title)
             test_result = {}
             # test_result[metric] = matching_title
             try:
                 json_matching_result = eval(matching_title)
             except:
                 fail_counter += 1
+                metric_fail_counter +=1
                 with open('METRIC_METHOD_MATCHING_TEST_LIST_Interrupted.json', 'a') as test_result_file:
                     test_result['ERROR NOTE'] = 'MISTRAL DID NOT GIVE A USABLE LIST\n' + matching_title
                     writing_data = json.dumps(test_result, indent = 4)
                     test_result_file.write(writing_data)
-                    print('Writing to FAILED file...')
+                    print('fail - bad list')
+                    print('Completed with fail rate: ' + str(metric_fail_counter) + ' out of ' + str(total_metrics_in_protocol) + ' with metric ' + str(metric))
+                    # print('Writing to FAILED file...')
                     continue
             for method in json_matching_result:
                 # print(method_dict[method])
@@ -132,19 +139,22 @@ if __name__ == '__main__':
                     description = method_dict[method]
 
                 if metric not in test_result:
-                    print('Metric ', metric, ' not included yet')
+                    # print('Metric ', metric, ' not included yet')
                     test_result[metric] = [[method, description]]
                 else:
                     test_result[metric].append([method, description])
-                
-            print('Writing to PASS file...')
+            print('PASS')
+            # print('Writing to PASS file...')
             with open('METRIC_METHOD_MATCHING_TEST_LIST_PASS.json', 'a+') as test_result_file:
                 writing_data = json.dumps(test_result, indent = 4)
                 test_result_file.write(writing_data)
-            print('NEXT METRIC\n\n')
+            print('Completed with fail rate: ' + str(metric_fail_counter) + ' out of ' + str(total_metrics_in_protocol) + ' with metric ' + str(metric))
+            print('NEXT METRIC\n')
+            metric_total_fail_counter += metric_fail_counter
+        print('Completed with fail rate: ' + str(metric_total_fail_counter) + ' out of ' + str(metric_counter) + ' with protocol ID ' + str(protocol_id) +'\n\n')
         protocol_counter = protocol_counter + 1
         # if protocol_counter == 2:
         #     break
         # else:
         #     continue
-    print('Completed with fail rate: ' + str(fail_counter) + ' out of ' + str(metric_counter) + ' with ' + str(protocol_counter) + ' protocols')
+    print('Completed with fail rate: ' + str(fail_counter) + 'metrics out of ' + str(metric_counter) + ' with ' + str(total_protocol) + ' protocols')

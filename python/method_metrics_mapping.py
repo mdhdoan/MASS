@@ -1,6 +1,7 @@
 import csv
 import json
 from neo4j import GraphDatabase
+from pathlib import Path
 import sys
 
 from langchain.chains.llm import LLMChain
@@ -39,11 +40,10 @@ prompt_template = """
 
         I need you to match each metric to the closest matching method given their description
         Return for me a list of methods name ONLY.
-        First take out the method titles in their entirety, then write them into the desired format below
-        Desired format:
+        Please return in a python list with each method title same as below
             [comma separated list of methods name, each surrounded by single quotation mark]
         Check on your list within the desired format that it only contains method titles, and nothing else. 
-        In your response, no need to include any additional words besides the Desired format.
+        In your response, no need to include any additional words besides the desired output.
         """
 
 
@@ -61,7 +61,14 @@ if __name__ == '__main__':
     metric_dict = {}
     protocol_dict = {}
     protocol_list = []
-    prev_metric = ''
+    path = Path('./bad_metrics.txt')
+    if path.exists():
+        with open('bad_metrics.txt', 'r') as bad_metric_records:
+            content = bad_metric_records.read()
+            bad_metric_list = content.strip('[]').split(',')
+    else:
+        bad_metric_list = []
+
     for row in metric_matching_data:
         # print(row)
         # print('metric: ' + row['metric_title'] + ' | pid: ' + row['pid'] + ' | method_title: ' + row['method_title'])
@@ -91,7 +98,7 @@ if __name__ == '__main__':
     fail_counter = 0
     metric_counter = 0
     for protocol_id, metrics in protocol_dict.items():
-        print('protocol #', protocol_counter, 'out of', total_protocol)
+        print('protocol #', protocol_counter, 'out of', total_protocol, 'id:', protocol_id)
         total_metrics_in_protocol = len(metrics)
         # print('List of Metrics: ', metrics)
         # print('Begin mistral with protocol number ' + protocol_id + ' and metric:', end = ' ')
@@ -118,6 +125,7 @@ if __name__ == '__main__':
             try:
                 json_matching_result = eval(matching_title)
             except:
+                bad_metric_list.append(metric)
                 fail_counter += 1
                 metric_fail_counter +=1
                 with open('METRIC_METHOD_MATCHING_TEST_LIST_Interrupted.json', 'a') as test_result_file:
@@ -134,6 +142,7 @@ if __name__ == '__main__':
                     try:
                         description = method_dict[method + str(' v1.0')]
                     except: 
+                        bad_metric_list.append(metric)
                         description = 'DESCRIPTION NOT FOUND, TITLE MIGHT BE HALLUCINATING'
                 else:
                     description = method_dict[method]
@@ -158,3 +167,5 @@ if __name__ == '__main__':
         # else:
         #     continue
     print('Completed with fail rate: ' + str(fail_counter) + 'metrics out of ' + str(metric_counter) + ' with ' + str(total_protocol) + ' protocols')
+    with open('bad_metrics.txt', 'w+') as bad_metric_records:
+        bad_metric_records.write(str(bad_metric_list))

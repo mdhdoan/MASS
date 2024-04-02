@@ -3,7 +3,7 @@
 // Connect organizations to programs
 MATCH (o:Organizations)
 MATCH (p:Programs)
-WHERE o.programs_url = p.url
+WHERE o.title in p.organization
 MERGE (o)-[:SPONSORS]->(p)
 
 // Connect methods to protocols

@@ -69,7 +69,10 @@ if __name__ == '__main__':
             relevant_text = str(doc['background']) + str(doc['assumptions'] + ' '.join(doc['objectives']))
             try:
                 result = feed_llm(relevant_text)
-                with open('synth ' + file_name + '.txt', 'w+') as synth_file:
+                save_path = 'synth_data/protocols/'
+                os.makedirs('synth_data/protocols/', exist_ok = True)
+                result_file_name = os.path.join(save_path, '.\synth_data\synth ' + file_name + '.txt')
+                with open(result_file_name, 'w+') as synth_file:
                     synth_file.write(result)
             except Exception as e:
                 print(f"\n{file_name}")

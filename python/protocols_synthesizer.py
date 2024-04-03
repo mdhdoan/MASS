@@ -24,7 +24,7 @@ random.seed(2024)
 
 HEADERS = [
     "background",
-    "assumptions"
+    "assumptions", 
 ]
 
 def increase_count(count, character):
@@ -32,92 +32,47 @@ def increase_count(count, character):
     print(character, end="", flush=True)
     return count
 
-
-if __name__ == '__main__':
-    in_path, documents, count = sys.argv[1], [], 0
-    for file in os.listdir(in_path):
-        file_name = os.path.join(in_path, file)
-        if not os.path.isfile(file_name) or not file_name.endswith('.json'):
-            continue
-            
-        with open(file_name, 'rt', encoding='utf-8') as in_file:
-            doc = json.load(in_file)
-            try:
-                documents.append('\n'.join([doc[k] for k in HEADERS if doc[k]]))
-            except Exception as e:
-                print(f"\n{file_name}")
-            count = increase_count(count, '.')
-    print(f"\nRead {count} documents.\n")
-
-    # Step 1 - Extract embeddings
-    embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
-    embeddings = embedding_model.encode(documents, show_progress_bar=True)
-
-    # Step 2 - Reduce dimensionality
-    umap_model = UMAP(n_neighbors=15, n_components=5, min_dist=0.0, metric='cosine')
-
-    # Step 3 - Cluster reduced embeddings
-    hdbscan_model = HDBSCAN(min_cluster_size=15, metric='euclidean', cluster_selection_method='eom', prediction_data=True)
-
-    # Step 4 - Tokenize topics
-    vectorizer_model = CountVectorizer(stop_words="english")
-
-    # Step 5 - Create topic representation
-    ctfidf_model = ClassTfidfTransformer()
-
-    # Step 6 - (Optional) Fine-tune topic representations with 
-    # a `bertopic.representation` model
-    representation_model = KeyBERTInspired()
-    
-    # All steps together
-    topic_model = BERTopic(
-        embedding_model=embedding_model,          # Step 1 - Extract embeddings
-        umap_model=umap_model,                    # Step 2 - Reduce dimensionality
-        hdbscan_model=hdbscan_model,              # Step 3 - Cluster reduced embeddings
-        vectorizer_model=vectorizer_model,        # Step 4 - Tokenize topics
-        ctfidf_model=ctfidf_model,                # Step 5 - Extract topic words
-        representation_model=representation_model # Step 6 - (Optional) Fine-tune topic represenations
-    )
-    
-    topics, probs = topic_model.fit_transform(documents, embeddings)
-
+def feed_llm(text_content):
     prompt_template = """
     You are a helpful, respectful and succinct assistant for labeling topics.
 
-    I have a text body that contains the following documents delimited by triple backquotes (```). 
-    ```{documents}```
-    
-    The topic is described by the following keywords delimited by triple backquotes (```):
-    ```{keywords}```
+    I have a text body as seen below:
+    {content}
 
-    Return the list of keywords, a high level abstract, and the answers to these following questions:
-        1/ What are the value of this protocol
-        2/ What are the problem stated from this protocol
-        3/ What are potential solutions suggested by the protocol
+    Keywords
+    Include a list of highly relevant keywords relevant to the protocol. These keywords can serve as quick references to the main topics and themes covered. Aiming to limit to 5. Then please fill out the following parts:
+    1.  Abstract: The Abstract section provides a comprehensive high-level, non-technical focus overview of the protocol, explaining its necessity and offering a succinct solution. 
+    2.	Values, Statements and Outcomes: Values that describe why we are putting money into this, Problem Statement of what problem are they trying to solve, Desired outcomes such as what kind of outcomes are specified or desired from the text body.
+    3.	Description: Provide a more technical focus, more detailed description of the text body. Focus and depth into why certain methods, metrics, and indicators are used, if any are mentioned. Also explaining why, mechanics, processes, and specifics. Contains more specific details such as project#, protocols#, etc.
+    4.	Objectives: Describe the objective in detail, Summary of Solution Coverage: How much of the problem statement is this objective covering, and Keywords: List specific keywords or specifics related to the objective. 
+    5.	Target: Specifies the primary focus or goal of the protocol in a few words.
+    6.	Constraints: whatever kind of constraints for the current protocol
 
     If your answer has any code in it, generate again. 
-    If the label includes any character such as [ and ] and ' and " remove those characters
     """
-
     llm = Ollama(model="mixtral")
-    prompt = PromptTemplate(input_variables=["documents", "keywords"], template=prompt_template)
+    prompt = PromptTemplate(input_variables=["content"], template=prompt_template)
     llm_chain = LLMChain(llm=llm, prompt=prompt)
-    
-    print(topic_model.get_topic_info())
-    label_dict = dict()
-    for i in range(-1, len(topic_model.get_topic_info())-1):
-        if i == -1:
-            label_dict[i] = 'Outlier Topic'
-        else:
-            keywords = topic_model.topic_labels_[i].split('_')[1:]
-            docs = topic_model.representative_docs_[i]
-            result = llm_chain.invoke({'documents': docs, 'keywords': keywords})
-            label = result['text']
-            print(f"[{i}] --- {topic_model.topic_labels_[i]} --- {label}")
-            bad_string_list = ['[',']','"','\n']
-            for bad_string in bad_string_list:
-                label = label.replace(bad_string, '')
-            label_dict[i] = label
-            with open('synth' + str(i) + '.json', 'w+') as test_result_file:
-                writing_data = json.dumps(label_dict, indent = 4)
-                test_result_file.write(writing_data)
+    result = llm_chain.invoke({'content': text_content})
+    print('Mixtral complete')
+    label = result['text']
+    return label
+
+if __name__ == '__main__':
+    dir, count = sys.argv[1], 0
+    for file in os.listdir(dir):
+        file_name = os.path.join(dir, file)
+        if not os.path.isfile(file_name) or not file_name.endswith('.json'):
+            continue
+        with open(file_name, 'rt', encoding='utf-8') as in_file:
+            doc = json.load(in_file)
+            relevant_text = str(doc['background']) + str(doc['assumptions'] + ' '.join(doc['objectives']))
+            try:
+                result = feed_llm(relevant_text)
+                with open('synth ' + file_name + '.txt', 'w+') as synth_file:
+                    synth_file.write(result)
+            except Exception as e:
+                print(f"\n{file_name}")
+        count = increase_count(count, '.')
+        break
+    print(f"\nRead {count} documents.\n")

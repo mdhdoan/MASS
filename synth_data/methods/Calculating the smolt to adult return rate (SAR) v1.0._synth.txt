@@ -1,0 +1,22 @@
+ 1. Relevant keywords:
+   - Smolt-to-Adult return ratio (SAR)
+   - PIT tag technology
+   - Direct counts
+   - Tributary estimates
+   - Life stage specific SARs
+
+2. Abstract:
+Smolt-to-Adult Return Ratio (SAR) is a key metric for evaluating the survival and population health of fish species in the Columbia Basin. Using a combination of PIT tag technology and direct counts, tributary-specific SAR estimates are calculated for both natural and hatchery-origin fish. By averaging individual life stage specific SARs, overall PIT tag SAR estimates for natural fish are determined. Direct counts involve estimating the number of returning adults, classified by length for natural fish, and comparing it to the known number of hatchery-origin fish leaving the tributary. This method is crucial in assessing population viability and the effectiveness of smolt transport efforts.
+
+3. Description:
+The text discusses Smolt-to-Adult Return Ratio (SAR) as a measure for evaluating fish population health and transport efforts in the Columbia Basin. SAR estimates are derived using two methods: PIT tag technology and direct counts. PIT tag SAR estimates are obtained by dividing the number of PIT tag adults returning to the tributary by the number of PIT tagged juvenile fish migrating from the tributary. Individual life stage specific SARs are then averaged to determine overall PIT tag SAR estimates for natural fish. Direct counts involve estimating the number of natural and hatchery-origin adults returning to the tributary, categorized by length break-out for natural fish, and comparing it with the known number of hatchery-origin fish leaving the tributary (Beasley et al., 2008). Tributary to tributary SAR estimates for both natural and hatchery origin fish are calculated using PIT tag technology as well as direct counts of fish returning to the drainage.
+
+4. Target:
+The primary focus is to determine accurate Smolt-to-Adult Return Ratio (SAR) estimates to assess the viability of fish populations in the Columbia Basin and evaluate the effectiveness of smolt transport efforts.
+
+5. Constraints:
+The main constraints for this method include:
+   - Accuracy and reliability of PIT tag data
+   - Estimation errors in direct count methods
+   - Variations in life stage specific SARs
+   - Ensuring proper identification of natural and hatchery-origin fish.

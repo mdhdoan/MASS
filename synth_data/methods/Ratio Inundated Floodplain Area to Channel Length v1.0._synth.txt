@@ -1,0 +1,9 @@
+ 1. Keywords: Stream restoration, floodplain engagement, inundated floodplain area, channel length, Hydraulic Modeling.
+
+2. Abstract: Floodplains play a crucial role in stream ecosystems and their reconnection to the main channel is an important goal for many restoration projects. Monitoring the ratio of inundated floodplain area to channel length helps assess the success of these efforts by providing a quantitative measure of floodplain engagement at various flow levels. This analysis is typically performed alongside hydraulic modeling, which predicts floodplain inundation under different stream flow conditions.
+
+3. Description: The text discusses a method used to evaluate the effectiveness of stream restoration projects aimed at reconnecting floodplains. A key metric for this assessment is the ratio of inundated floodplain area to channel length, which offers an indication of how actively engaged the floodplain is across different flow levels. To calculate this ratio, it's necessary to analyze floodplain inundation under various stream flow scenarios, a task that falls within the scope of hydraulic modeling. This approach enables managers and researchers to gauge the success of restoration efforts over time and adjust their strategies as needed to promote optimal floodplain reconnection.
+
+4. Target: The primary focus of this method is to assess and monitor floodplain reconnection in stream restoration projects by analyzing the ratio of inundated floodplain area to channel length.
+
+5. Constraints: This method requires accurate data on both floodplain inundation and channel length under various flow conditions, which can be challenging to obtain. Additionally, it relies on hydraulic modeling expertise for predicting floodplain inundation at different stream flow levels.

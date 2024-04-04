@@ -1,0 +1,18 @@
+ 1. Keywords: Vegetation cover type mapping, restoration project, floodplain vegetation, field surveys, aerial imagery interpretation.
+
+2. Abstract: Vegetation cover type mapping is a crucial method for evaluating and planning the composition and distribution of vegetation within restoration project areas, particularly in floodplains. This process involves collecting data through field surveys and interpreting aerial imagery to create digital spatial data representing distinct cover types. The desired vegetation distribution is then determined based on the specific ecological setting and project objectives. Comparing the actual post-project cover type distribution with the desired one helps assess progress toward restoration goals and inform future management measures.
+
+3. Description: Vegetation cover type mapping for restoration projects focuses on evaluating and establishing appropriate vegetation distributions within specific project areas, especially floodplains. The method is adapted from Hauer et al. (2002) and entails data collection using field surveys and aerial imagery interpretation. These methods help create digital spatial data that depict the extents of different floodplain cover types.
+
+When designing a restoration project, the desired vegetation cover type distribution is determined based on the project's ecological setting. For instance, streambank restoration projects may include cover types such as mature cottonwood, pole cottonwood, cottonwood/willow seedling, and exposed alluvial surfaces. A percent abundance or expected percentage range is established for each cover type to suit the specific restoration location.
+
+Comparing the post-project cover type distribution over multiple years with the desired distribution allows for the evaluation of trends towards achieving project objectives and helps identify necessary maintenance and adaptive management measures.
+
+4. Target: The primary focus of this method is to establish and evaluate suitable vegetation cover type distributions within restoration project areas, ensuring ecological compatibility and progress toward restoration goals.
+
+5. Constraints: Several constraints may affect the implementation and effectiveness of this method, including:
+
+* Data quality and availability, particularly for aerial imagery and field survey data
+* Changes in environmental conditions that may influence vegetation distribution and growth
+* The need for expert interpretation and analysis of data for accurate cover type identification and mapping
+* Time and resource constraints for data collection, analysis, and monitoring activities.

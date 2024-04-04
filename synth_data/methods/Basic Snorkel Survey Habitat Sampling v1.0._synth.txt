@@ -1,0 +1,9 @@
+ 1. Keywords: Snorkel Surveys, fish count, habitat measurements, physical habitat measurements, fish density estimation.
+
+2. Abstract: Snorkel Surveys are a standard method for estimating fish populations and assessing underwater habitats. This non-intrusive technique involves both counting fish and measuring various aspects of the environment in which they live. By requiring minimal physical habitat measurements, this approach allows researchers to efficiently estimate fish density from fish counts while minimizing disturbance to marine life.
+
+3. Description: Snorkel Surveys consist of underwater visual assessments for fish count and habitat measurement purposes. The primary goal is to gather data that can be used to derive fish density estimates at a given location, thereby enabling the monitoring and management of fish populations. By mandating only a minimal set of physical habitat measurements, this method minimizes operational costs and effort while ensuring reliable data collection.
+
+4. Target: The main objective of Snorkel Surveys is to provide an efficient, cost-effective, and non-invasive means of estimating fish density through underwater visual assessments.
+
+5. Constraints: While Snorkel Surveys are advantageous in many ways, they may be limited by factors such as water clarity, depth, and the presence of aquatic vegetation or other obstacles that hinder visibility. Additionally, certain species of fish might be difficult to observe due to their elusive behavior, nocturnal habits, or camouflage. Lastly, weather conditions and site accessibility could further constrain the application of this method.

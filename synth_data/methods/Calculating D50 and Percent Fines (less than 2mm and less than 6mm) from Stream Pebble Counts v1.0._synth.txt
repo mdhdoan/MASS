@@ -1,0 +1,18 @@
+ 1. Keywords: 
+   - D50 calculation
+   - Percent fines <2mm and 6mm
+   - Stream pebble counts
+   - Method 6797: Physical Habitat
+   - Substrate - Pebble Counts v2.0
+
+2. Abstract:
+Method 6797, titled "Physical Habitat: Substrate - Pebble Counts v2.0," offers a systematic approach for determining D50 and the percent fines smaller than 2mm and 6mm using stream pebble counts at a site. This method is essential for assessing particle size distribution, providing valuable information for various applications in geology, environmental science, and engineering.
+
+3. Description:
+The given text introduces Method 6797 as the recommended approach for calculating D50 (the median particle size) and percent fines (particles smaller than 2mm and 6mm) based on stream pebble counts at a site. This method's primary objective is to offer a standardized procedure for assessing particle size distribution within a substrate. Following the guidelines of Method 6797 enables accurate data collection, which can then be used to compute D50 and percent fines, providing crucial insights into sediment composition.
+
+4. Target:
+The primary focus or goal of Method 6797 is to offer a standardized approach for calculating D50 and percent fines within stream pebble counts, ultimately contributing to a comprehensive understanding of the substrate's particle size distribution.
+
+5. Constraints:
+The method does not mention specific constraints; however, its successful implementation relies on proper adherence to guidelines regarding data collection and calculation procedures. Users must accurately follow Method 6797's instructions to ensure valid results for D50 and percent fines values.

@@ -1,0 +1,9 @@
+ 1. Keywords: Traditional fishery techniques, environmental DNA (eDNA), water samples, PCR assays, species-specific mitochondrial DNA markers.
+
+2. Abstract: The traditional fishery techniques used to detect invasive species populations have limitations, particularly in identifying low-density species. A new method developed by the University of Notre Dame, with funding from the USACE, addresses this issue. This method involves detecting environmental DNA (eDNA) left behind in the aquatic system by the targeted species. The eDNA enters the system through various mechanisms and is detected using whole DNA extraction and polymerase chain reaction (PCR) assays for species-specific mitochondrial DNA markers in water samples.
+
+3. Description: The text describes a method developed to overcome the limitations of traditional fishery techniques in detecting invasive species populations at low densities. This new approach uses environmental DNA (eDNA) left behind in the aquatic system by the targeted species. eDNA enters the system through different mechanisms, including sloughing of external epidermal cells into the water, sloughing of internal epidermal cells into feces and into the water, and tissue residues following injury or predation. The detection of eDNA in water samples involves whole DNA extraction from organic and inorganic matter found in the water and PCR assays for species-specific mitochondrial DNA markers.
+
+4. Target: The primary focus of this method is to detect invasive species populations, even at low densities, by using eDNA left behind in the aquatic system.
+
+5. Constraints: This method has some constraints, including the possibility that eDNA may not be uniformly distributed in the water column and the potential for degradation of eDNA over time. Additionally, the accuracy of this method depends on the specificity and sensitivity of the PCR assays used for species-specific mitochondrial DNA markers.

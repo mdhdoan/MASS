@@ -1,0 +1,21 @@
+ 1. Keyword list:
+   - Bankfull elevation
+   - Channel width
+   - Thalweg
+   - Transects
+   - Floodplain connectivity
+   - Channel dimensions
+
+2. Abstract:
+Bankfull measurement method is a technique used to determine the channel's width and height at the bankfull elevation, which plays a crucial role in understanding the reach length and floodplain connectivity. This method measures the perpendicular distance between the bankfull elevations on both sides of the channel at 11 main transects. Bankfull corresponds to the discharge associated with channel formation, maintenance, and observed dimensions under current climatic conditions, making it an essential parameter in geomorphology and hydrology studies.
+
+3. Description:
+Bankfull elevation is the height of the water surface that corresponds to the discharge associated with channel formation, maintenance, and thus the observed channel dimensions under current climatic conditions. To measure bankfull width, one must identify the 11 main transects perpendicular to the thalweg (the line representing the deepest point along the length of a river channel) and then measure the distance between the bankfull elevations on both sides at each transect. These measurements are used to determine reach length, as well as floodplain connectivity and channel dimensions. Bankfull width is an important parameter in geomorphology and hydrology studies because it provides valuable information about a river's behavior under various flow conditions.
+
+4. Target:
+The primary focus of the bankfull measurement method is to determine and analyze the channel's width and height at the bankfull elevation, which serves as a foundation for understanding reach length, floodplain connectivity, and overall channel dimensions.
+
+5. Constraints:
+- The thalweg must be accurately identified as it represents the deepest point along the river channel.
+- Measurements must be taken perpendicular to the thalweg at all 11 main transects to ensure accurate representation of bankfull width.
+- Careful identification and measurement of bankfull elevation are crucial, as they correspond directly to the discharge associated with channel formation and maintenance under current climatic conditions.

@@ -1,0 +1,9 @@
+ 1. Keywords: Total length measurement, fish anatomy, caudal fin, dorsoventral compression, natural position.
+
+2. Abstract: The method of measuring a fish's total length is crucial for various scientific studies and management purposes. This can be done by two conventions - leaving the caudal fin spread in a natural position or compressing the lobes of the caudal fin dorsoventrally. Choosing the appropriate convention is essential to ensure standardization and accuracy in data collection.
+
+3. Description: The total length of a fish is measured from the most anterior part of the fish to the tip of the longest caudal fin rays. This measurement can be carried out using two conventions. The first one involves leaving the caudal fin spread in its natural position, while the second method requires compressing the lobes of the caudal fin dorsoventrally. Both methods aim to determine the actual length of the fish accurately and consistently. Researchers and managers should be aware of these conventions and apply them appropriately depending on their study objectives and standardization requirements.
+
+4. Target: The primary goal of this method is to establish a consistent and accurate approach to measuring a fish's total length, which can be applied in various scientific research and management contexts.
+
+5. Constraints: Potential constraints for this method include ensuring the correct identification of the most anterior part of the fish and accurately determining the tip of the longest caudal fin rays. Additionally, researchers must decide whether to use the natural position or dorsoventral compression convention, considering factors such as their study objectives, available equipment, and standardization requirements.

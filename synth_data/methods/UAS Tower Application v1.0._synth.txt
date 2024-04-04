@@ -1,0 +1,9 @@
+ 1. Relevant keywords: Tower app, 3DR Solo UAS, preestablished flight paths, Android tablet.
+
+2. Abstract: The use of an application called Tower, compatible with the 3DR Solo Unmanned Aerial System (UAS), enables operators to fly preestablished flight paths with ease and accuracy. This method simplifies the process of controlling a UAS, as it only requires an Android tablet to manage the device. By using this app-based approach, operators can enhance efficiency and safety during UAS flights, particularly when executing repetitive or complex maneuvers.
+
+3. Description: The Tower app is used in conjunction with the 3DR Solo UAS, providing a user-friendly interface for flying preestablished flight paths on an Android tablet. This method assumes that operators have installed and set up the Tower app on their Android device, allowing them to remotely control the UAS using the tablet's capabilities. By employing this approach, operators can rely on automated flight path execution, reducing human error and increasing operational efficiency.
+
+4. Target: The primary focus of the Tower app method is to facilitate accurate, safe, and efficient UAS flights through preprogrammed paths.
+
+5. Constraints: While utilizing the Tower app with the 3DR Solo UAS offers numerous benefits, potential constraints include the requirement for a compatible Android tablet and ensuring proper app configuration before flight operations. Additionally, operators must maintain a stable connection between the tablet and UAS to ensure accurate command transmission during flights.

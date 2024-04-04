@@ -1,0 +1,18 @@
+ 1. Relevant keywords:
+   - Scale collection
+   - Age determination
+   - Salmonid population
+   - Run reconstruction
+   - Forecasting
+
+2. Abstract:
+Fish scales are crucial for determining the age of captured fish, which in turn helps in reconstructing and forecasting the run of a salmonid population. By collecting high-quality scales and standardizing the process, the accuracy of scale age analysis can be significantly improved. This method serves as an essential tool for fisheries management and conservation efforts, providing valuable insights into the health and sustainability of fish populations.
+
+3. Description:
+The text highlights the importance of using fish scales to estimate the age of a salmonid population at the time of capture. Scales are collected and analyzed for their growth patterns, which reveal distinct rings similar to those found in tree trunks. The age distribution derived from these analyses can be used to reconstruct runs and forecast future trends. Ensuring standardization and collecting good-quality scales increases the accuracy of scale age analysis, ultimately benefiting fisheries management and conservation efforts.
+
+4. Target:
+The primary focus or goal of this method is to accurately determine the age distribution of salmonid populations using fish scales for better run reconstruction and forecasting.
+
+5. Constraints:
+The success of this method depends on several factors, including the availability of high-quality scales, standardized collection processes, and accurate interpretation of growth patterns. Additionally, the method assumes that the sample size is representative of the overall population and that external factors (e.g., water temperature, food supply) do not significantly affect growth rates.

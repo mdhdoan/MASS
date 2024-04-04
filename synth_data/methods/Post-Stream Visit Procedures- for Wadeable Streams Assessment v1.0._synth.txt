@@ -1,0 +1,19 @@
+ 1. Relevant keywords:
+   - Data form review
+   - Sample inspection
+   - Information completeness
+   - Equipment cleaning
+   - Sample shipping
+
+2. Abstract:
+Upon completing a field sampling task, the team meticulously checks all data forms and sample labels for accuracy, legibility, and completeness. Any missing information is filled in by the team leader. After reviewing the forms, the team leader initials them as confirmation of their accuracy. The other team member cleans the sampling equipment, takes inventory of supplies, and prepares samples for shipping. Additional activities include shipping the samples, submitting sampling status and tracking information to Tetra Tech, and maintaining communication with the field coordinator or other central contact person. This process ensures that all data collected is accurate, reliable, and ready for further analysis.
+
+3. Description:
+The text describes a post-sampling procedure in which a team reviews and verifies the accuracy and completeness of their data forms and sample labels. The team leader is responsible for filling in any missing information as accurately as possible and initialing all reviewed forms. Another team member cleans and checks the sampling equipment, takes inventory of supplies, and prepares the samples for shipment.
+   Additional tasks include shipping the samples to a designated location, submitting sampling status and tracking information to Tetra Tech, and maintaining open communication with the field coordinator or other central contact person. This process ensures that all data is accurate, reliable, and ready for further analysis, while also preparing the team for future sampling activities.
+
+4. Target:
+The primary focus of this method is to ensure the accuracy, completeness, and legibility of collected data and samples after a field sampling task.
+
+5. Constraints:
+Potential constraints for this method include time limitations, resource availability, and potential human errors during data entry or sample handling.

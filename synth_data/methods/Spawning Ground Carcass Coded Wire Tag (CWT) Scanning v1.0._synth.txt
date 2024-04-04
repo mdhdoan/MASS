@@ -1,0 +1,13 @@
+ 1. Keywords: electronic equipment, spawning ground surveys, coded wire tag (CWT) T-wand, blue wand, salmonid carcass scanning.
+
+2. Abstract: The use of electronic equipment is crucial for conducting spawning ground and carcass surveys in fisheries management. This method outlines the proper application of a coded wire tag (CWT) T-wand and blue wand to scan adult salmonid carcasses, ensuring accurate data collection on individual fish. Familiarity with this equipment and adherence to maintenance guidelines contribute to successful surveys and informed decision-making in fisheries conservation.
+
+3. Description: The text details the use of a coded wire tag (CWT) T-wand and blue wand for scanning adult salmonid carcasses during spawning ground and carcass surveys. Surveyors must be proficient in operating this equipment and follow strict maintenance protocols to maintain proper functionality. A step-by-step process is provided on how to scan a carcass using the CWT T-wand and blue wand, which involves inserting the tagging wand into the carcass and scanning it with the blue wand to detect a CWT tag.
+
+4. Target: The primary focus of this method is providing clear instructions for the proper use and maintenance of coded wire tag (CWT) T-wands and blue wands, ensuring accurate data collection on individual fish during spawning ground and carcass surveys.
+
+5. Constraints: Successful application of this method depends on several constraints:
+   - Surveyors must be well-versed in handling and using electronic equipment safely and efficiently.
+   - Adequate maintenance procedures need to be followed for proper functionality of the equipment.
+   - Carcasses must be scanned thoroughly with both wands for accurate tag detection.
+   - Environmental factors may impact the performance or accuracy of electronic equipment, necessitating contingency plans in challenging conditions.

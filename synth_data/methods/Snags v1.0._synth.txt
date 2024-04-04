@@ -1,0 +1,9 @@
+ 1. Relevant keywords: snag data, belt transects, dbh (diameter breast height), field technicians, canopy closure, classes
+
+2. Abstract: Snag data collection is an essential method for monitoring forest health and structure. This process involves the measurement of tree trunk diameter within tenth-acre belt transects, considering both actual measurements and categorization by predefined size classes. The use of dbh (diameter breast height) facilitates standardized and accurate data collection. Field technicians working with canopy closure assessments collect this snag data under the guidance of crew supervisors, who determine whether specific dbh or class-based reporting should be used.
+
+3. Description: The snag data collection method is carried out by field technicians within belt transects spanning tenth-acre areas in forests or similar environments. These professionals gather snag data in conjunction with canopy closure measurements, which help assess the overall forest structure and health. Central to this process is the dbh (diameter breast height) measurement of all snags found within these transects, either recorded as specific values or reported by predefined classes (e.g., "5 snags <4dbh, 2 snags >20 dbh"). The choice between class-based and specific reporting depends on the guidance provided by crew supervisors.
+
+4. Target: The primary goal of this method is to collect precise, standardized snag data that aids in understanding forest health and structure.
+
+5. Constraints: The main constraints for this method include ensuring appropriately trained field technicians, obtaining accurate dbh measurements, and determining the correct reporting method (class-based or specific) as directed by crew supervisors.

@@ -1,0 +1,9 @@
+ 1. Keywords: Modified frame net, slow moving tributaries, salmonid emergence, spawning areas, drifting timing.
+
+2. Abstract: The use of a modified frame net is a valuable method for studying emerging salmonids in slow moving tributaries. By placing the nets below spawning areas, researchers can gather important data on salmonid emergence timing, drifting timing, growth, and movement patterns from tributary to river. This information helps scientists understand and track the life cycle and behavior of these fish, contributing to their conservation and management efforts.
+
+3. Description: A modified frame net is a tool used in aquatic research for studying emerging salmonids in slow moving tributaries (Kelso & Rutherford, 1996). These nets can be placed strategically below spawning areas to capture data on various aspects of the emergence and movement patterns of salmonids. The net's design allows it to effectively trap emerging salmonids while minimizing harm to the fish. Researchers can then analyze the collected data to gain insights into the timing of salmonid emergence, drifting behavior, growth patterns, and migration from tributaries to rivers. This information is crucial for understanding and preserving salmonid populations in their natural habitats.
+
+4. Target: The primary focus of this method is to gather detailed data on emerging salmonids in slow moving tributaries, with the goal of advancing knowledge about their life cycle, behavior, and conservation status.
+
+5. Constraints: Some constraints for using a modified frame net include potential impacts on fish populations due to handling and confinement, the need for proper placement and maintenance of nets, and limitations in the duration of data collection due to factors such as water levels and weather conditions. Additionally, this method may not be suitable for studying salmonids in fast-moving or large bodies of water where the nets cannot effectively trap the fish.

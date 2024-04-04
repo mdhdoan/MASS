@@ -1,0 +1,9 @@
+ 1. Keywords: Creel surveys, fishery performance, fishing effort, catch estimation, access-restricted lakes/reservoirs.
+
+2. Abstract: Creel surveys are a vital tool for measuring the performance of fisheries, including catch and angler effort. For lakes and reservoirs with limited access points, access-access creel surveys offer an effective solution. These surveys facilitate unbiased data collection on fishing effort, catch, fish size, tags, and other biological information, ensuring proper assessment of management actions' impacts.
+
+3. Description: Access-access creel surveys are designed for lakes and reservoirs with a restricted number of entry points to estimate fishing effort and catch accurately. By employing this method, fisheries managers and researchers can collect various data types that help assess fishery performance indicators and inform management decisions. The survey should be conducted correctly to avoid bias in the results. Additional information may include collecting fish size, tagging or marking, and gathering other biological details.
+
+4. Target: Primary goal is to estimate fishing effort and catch from lakes and reservoirs with limited access points while facilitating the collection of supplementary data like fish size and biological characteristics.
+
+5. Constraints: Careful planning, training, and implementation are crucial for unbiased results. Factors such as seasonal variations in angler behavior, weather conditions, and public awareness about surveys can impact survey outcomes and should be taken into account during the design and execution of access-access creel surveys.

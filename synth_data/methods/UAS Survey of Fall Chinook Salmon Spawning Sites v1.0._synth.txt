@@ -1,0 +1,18 @@
+ 1. Relevant keywords:
+   - Unmanned Aerial System (UAS)
+   - Drone technology
+   - Salmon redds survey
+   - Video imagery analysis
+   - Annual redd count
+
+2. Abstract:
+   The use of unmanned aerial systems (drones) has become increasingly popular in various fields, including wildlife monitoring. Beginning in 2015, Hells Canyon on the Snake River switched from traditional manned helicopter surveys to UAS for counting fall Chinook salmon redds. This new approach involves selecting spawning sites beforehand and using drones to collect video imagery of each location. The collected footage is later analyzed to determine a total annual redd count, providing an efficient, non-invasive, and cost-effective solution compared to manned helicopter surveys.
+
+3. Description:
+   In 2015, Hells Canyon on the Snake River began using unmanned aerial systems (UAS) for fall Chinook salmon redds counts. The UAS technology offers several advantages over traditional manned helicopter surveys, such as reduced disturbance to wildlife and lower costs. To perform the survey, a preseason selection of sites to be examined is made. Then, an unmanned aerial system collects video imagery of each spawning site for later analysis. This approach provides high-resolution footage necessary for identifying and counting redds accurately, resulting in a more precise total annual redd count compared to previous methods.
+
+4. Target:
+   The primary focus of this method is to improve the accuracy and efficiency of fall Chinook salmon redds counts in Hells Canyon on the Snake River while reducing costs and minimizing disturbance to wildlife.
+
+5. Constraints:
+   Although UAS technology offers several benefits, there might be some constraints such as limitations in flight time, weather conditions affecting image quality, and potential regulatory restrictions on drone use in specific areas. Additionally, the success of this method relies heavily on accurate preseason site selection and thorough video imagery analysis.

@@ -1,0 +1,26 @@
+ 1. Relevant keywords:
+   - ORBS dockside interviews
+   - Anglers per boat and catch by species per boat
+   - Coded wire tags (CWTs)
+   - Sampling rate standard
+   - Data stratification
+   - Estimate generation
+
+2. Abstract:
+The ORBS dockside interview method is a crucial approach to gather unbiased data on anglers, catches, and coded wire tags (CWTs) in the ocean recreational boat fishery. This systematic sampling process aims to generate accurate estimates of anglers per boat and catch by species per boat, while also recovering CWTs for monitoring purposes. The method ensures adequate salmon sampling and represents the actual fishery interceptions through a 20% minimum standard. Additional data collection includes information on released fish, lengths, weights, departure/interview times, and estuary trips, which are then stratified by port and summarized for catch areas and the entire state.
+
+3. Description:
+The ORBS dockside interviews focus on estimating anglers per boat and catches by species per boat for the ocean recreational boat fishery, as well as sampling coded wire tags (CWTs) from the ocean recreational salmon fishery. The interviews involve collecting various data points, including released fish numbers, lengths, weights, departure time, interview time, and estuary trips information.
+
+To ensure adequate salmon sampling for CWT recovery, a minimum sampling rate standard of 20% has been established for landed salmon by port and week. This standard is generally adopted as the minimum for all fisheries and time periods sampled. The data collected through these interviews are then stratified by port and aggregated over ports to generate estimates for catch areas and the entire state.
+
+This methodology enables a more comprehensive understanding of recreational boat fishing activities, providing valuable insights into species distribution, population dynamics, and fishery management. By adhering to the established sampling rate standards, the ORBS dockside interviews offer reliable data sources that help monitor the health and sustainability of the ocean recreational boat fishery.
+
+4. Target:
+The primary focus of the ORBS dockside interviews is to generate accurate estimates of anglers per boat and catch by species per boat, while recovering CWTs for monitoring purposes in the ocean recreational boat fishery.
+
+5. Constraints:
+- Ensuring adequate sampling rates, especially during periods of low salmon abundance or participation
+- Maintaining a consistent interview process across various ports and timeframes to minimize bias
+- Managing data quality control and ensuring accurate data entry
+- Adapting the methodology for seasonal and regional variations in fishery activities.

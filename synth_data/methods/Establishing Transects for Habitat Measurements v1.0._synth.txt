@@ -1,0 +1,9 @@
+ 1. Keywords: stratified random strategy, cover type mapping, proportional allocation, transect start points, random number generator.
+
+2. Abstract: This method outlines the process of establishing transects for data collection in a systematic and unbiased manner. By using a stratified random strategy, project areas are divided based on cover type, ensuring accurate representation. Transect start points are determined through grid-based or computer-generated methods, with occasional adjustments to accommodate missed cover types. This approach adheres to the proportional allocation strategy proposed by Husch et al. (2003), ensuring a fair distribution of transects across different cover types.
+
+3. Description: The method begins by stratifying project areas according to cover type(s). Transect start points are then generated using one of two methods: superimposing a grid over cover type maps and selecting X/Y coordinates with a random numbers table, or utilizing a computer-generated random number generator point locater program. To ensure accurate representation, transect locations may be adjusted if cover types are missed during the initial random assignment. The number of transect start points for each cover type is determined by the proportional allocation strategy suggested by Husch et al. (2003), which distributes transects fairly across different cover types based on their prevalence in the project area.
+
+4. Target: The primary focus of this method is to create a systematic, unbiased sampling design for data collection in projects involving multiple cover types.
+
+5. Constraints: Potential constraints for this method include limited access to certain cover types due to terrain or ownership issues, as well as potential human error in the manual selection of transect start points using a grid-based method.

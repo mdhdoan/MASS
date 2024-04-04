@@ -1,0 +1,9 @@
+ 1. Keywords: redd survey data, species, reaches, tables, graphs, maps, flow restoration, management activities.
+
+2. Abstract: The use of redd survey data is crucial in understanding the number, density, and distribution of redds (fish spawning nests) in different species and reaches. This data is presented descriptively through tables, graphs, and maps to provide a comprehensive view of the status and trends of redds over time. By analyzing multiple years of redd data in index reaches, managers can gain valuable insights into how redd densities and distribution change in relation to flow and habitat restoration efforts and other management activities.
+
+3. Description: The text describes the importance of analyzing redd survey data in understanding the status and trends of fish spawning nests. This is achieved through the presentation of data in tables, graphs, and maps, which provide a descriptive overview of the number, density, and distribution of redds by species and reaches. By comparing multiple years of redd data in index reaches, managers can assess the impact of flow and habitat restoration efforts and other management activities on redd densities and distribution over time.
+
+4. Target: The primary focus of this method is to document and analyze the status and trends of redds in different species and reaches, and to understand how these change in relation to management activities.
+
+5. Constraints: The constraints for this method include the availability and quality of redd survey data, as well as the resources required to collect, analyze, and present the data in a meaningful way. Additionally, there may be limitations in the ability to accurately measure and interpret changes in redd densities and distribution over time due to various environmental and biological factors.

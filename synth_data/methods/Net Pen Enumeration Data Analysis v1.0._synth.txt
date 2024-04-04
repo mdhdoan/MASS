@@ -1,0 +1,9 @@
+ 1. Keywords: net pen enumeration surveys, fish release, rearing survival characterization, high-level overview, technical description.
+
+2. Abstract: Net pen enumeration surveys are a crucial method for determining rearing survival of fish prior to their release from net pens. This process typically takes place in late May or mid-June. The data collected from these surveys provides valuable insights into the success of the rearing process and helps ensure sustainable fish populations.
+
+3. Description: Net pen enumeration surveys are conducted just before releasing fish from net pens to estimate rearing survival. These surveys involve carefully counting and recording the number of fish in each net pen, which allows for accurate characterization of rearing survival. The timing of the release is typically between late May or mid-June, as this is when the fish have reached a suitable size and are ready to be released into the wild. This method provides important data that can inform management decisions and help ensure sustainable fish populations.
+
+4. Target: The primary focus of net pen enumeration surveys is to characterize rearing survival of fish prior to their release from net pens, ensuring sustainable fish populations.
+
+5. Constraints: The main constraint for net pen enumeration surveys is the need for careful and accurate counting of the fish in each net pen. This requires trained personnel and may be time-consuming. Additionally, weather conditions and other environmental factors can impact the feasibility of conducting these surveys.

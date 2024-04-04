@@ -1,0 +1,18 @@
+ 1. Relevant keywords:
+   - Radio tagged fish
+   - Telemetry tools
+   - Spatial and temporal distribution
+   - Migratory information
+   - Fish passage impediments
+
+2. Abstract:
+Radio tagging is a method used for tracking fish, providing valuable data on their spatial and temporal distribution as well as migratory patterns. This technique helps in understanding the routes taken by fish and identifying any delays at fish passage impediments using telemetry tools. By attaching or inserting uniquely coded radio tags, scientists can monitor and follow tagged fish via mobile tracking and triangulation techniques. Fixed site receivers are also used to continuously track tagged fish at strategic locations such as stream confluences and migration barriers. This method is essential for understanding fish behavior, conserving species, and managing aquatic ecosystems.
+
+3. Description:
+Radio tagging fish involves the insertion or attachment of uniquely coded radio tags to individual fish, allowing for their tracking through mobile tracking and triangulation techniques. The spatial and temporal distribution of radio tagged fish is documented using telemetry tools which help in understanding their migratory patterns. Fixed site receivers are placed at strategic locations such as stream confluences and migration barriers, providing continuous monitoring of tagged fish at these points. Delays encountered by fish at passage impediments can also be identified and analyzed with this method, offering insights into the impact of man-made structures on fish migration and population distribution.
+
+4. Target:
+The primary focus of radio tagging is to gather detailed data on the spatial and temporal distribution, migratory routes, and behavior of fish in various aquatic ecosystems.
+
+5. Constraints:
+Despite its advantages, radio tagging has some limitations which include the cost of the equipment, potential harm or stress caused to the fish during tag insertion, limited battery life of tags, and potential loss or damage of tags due to environmental factors. Additionally, this method might not be suitable for small-bodied fish species as the tag size could affect their swimming ability and overall survival rate.

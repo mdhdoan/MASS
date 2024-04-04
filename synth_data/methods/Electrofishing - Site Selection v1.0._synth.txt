@@ -1,0 +1,9 @@
+ 1. Keywords: Electrofishing, sampling, salmonid fishes, electricity, stun, capture.
+
+2. Abstract: Electrofishing is a widely used method for sampling salmonid fishes due to its cost-effectiveness, ease of use in various conditions, and minimal impact on fish and other animals. It works by using electricity to stun and capture fish within the electrical fields produced by two electrodes. This method allows for efficient data collection to support management and conservation efforts for these important species.
+
+3. Description: Electrofishing is a sampling technique that relies on the application of electricity to momentarily stun and facilitate the capture of fish. The process involves placing two electrodes in the water, creating an electrical field that affects nearby fish. As they enter this field, the electrical current disrupts their nervous system, causing them to lose mobility and making it easier for researchers to catch and handle them. This method is particularly useful for sampling salmonid fishes, which are known for their ability to inhabit diverse aquatic environments. By utilizing electrofishing, scientists can gather valuable information about fish populations with minimal harm to the organisms or disruption of their habitats.
+
+4. Target: The primary goal of electrofishing is to effectively sample salmonid fishes in a variety of conditions with minimal impact on the environment and other wildlife.
+
+5. Constraints: Electrofishing has some limitations, including restrictions on its use in certain water bodies due to potential impacts on non-target species or sensitive ecosystems. Additionally, factors such as water temperature, pH, turbidity, and electrical conductivity can affect electrofishing efficiency and may require adjustments to the technique for optimal results.

@@ -1,0 +1,21 @@
+ Sure, I'd be happy to help you summarize and organize the information in the text you provided. Here are the keywords I identified as being most relevant to the method described:
+
+1. Visible implant elastomer (VIE) tagging
+2. Fish marking technique
+3. Non-lethal identification
+4. Small bodied fish and juveniles
+5. Fluorescent pigments
+
+Now, let's move on to the other sections you requested:
+
+2. Abstract:
+Visible implant elastomer (VIE) tagging is a two-component biologically inert silicone polymer that has shown good detection rates in short-term evaluations of various fish species. This method is an appropriate mass marking technique for identifying small bodied fish and juveniles, as it avoids the issues associated with fin clipping such as limited number of fins, fin regeneration, and mortality caused by fin removal. VIE tags are injected as a liquid that soon cures into a pliable, biocompatible solid, and remain externally visible after implantation. Although tag detection can become difficult in certain conditions, the use of appropriate lighting can enhance detection rates. Overall, VIE tagging is a non-lethal and effective method for identifying small fish, making it a valuable tool for fisheries management and research.
+
+3. Description:
+Visible implant elastomer (VIE) tags are a type of two-component biologically inert silicone polymer that has been shown to have good detection rates in short-term evaluations of various fish species such as bluegills, coho salmon smolts, and various trout. VIE tagging is an appropriate mass marking technique for identifying small bodied fish and juveniles, as it avoids the issues associated with fin clipping such as limited number of fins, fin regeneration, and mortality caused by fin removal. The tags are injected beneath transparent or translucent tissue and remain externally visible after implantation. Although tag detection can become difficult in certain conditions (e.g., if growth is considerable and pigmented tissue is laid down over the tag), some of the colored pigments used are fluorescent, and use of appropriate lighting can significantly enhance detection rates.
+
+4. Target:
+The primary focus or goal of VIE tagging is to provide a non-lethal and effective method for identifying small fish, making it a valuable tool for fisheries management and research.
+
+5. Constraints:
+One constraint of VIE tagging is that tags may become difficult to detect in ambient light if growth is considerable and pigmented tissue is laid down over the tag. However, this issue can be mitigated by using appropriate lighting to enhance detection rates. Additionally, the use of VIE tags requires careful handling and injection techniques to ensure proper implantation and minimize potential negative effects on fish health and behavior.

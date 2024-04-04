@@ -1,0 +1,9 @@
+ 1. Keywords: Spawning ground survey, survey events, GPS, environmental conditions, water temperature, water visibility, cloud cover.
+
+2. Abstract: The spawning ground survey method is a critical tool for gathering essential information about fish spawning sites. It involves conducting surveys to capture important characteristics such as date and time, GPS location, crew members, water temperature, water visibility, and cloud cover. This data helps monitor and manage fish populations by identifying key spawning areas and understanding the environmental conditions that affect their success.
+
+3. Description: The text describes a method for conducting spawning ground surveys, focusing on the important characteristics captured during the survey event. These include the date and time of the survey, GPS unit, crew members, water temperature at the start of the survey, water visibility, and cloud cover. By gathering this information, researchers can better understand the environmental conditions that influence fish spawning and develop appropriate management strategies to protect these vital areas.
+
+4. Target: The primary goal of this method is to gather comprehensive data on fish spawning sites and their environmental conditions.
+
+5. Constraints: The success of this method depends on several factors, including the availability of trained personnel to conduct the surveys, reliable GPS and environmental monitoring equipment, and access to the survey locations. Additionally, weather conditions and seasonal variations may limit the frequency and timing of surveys.

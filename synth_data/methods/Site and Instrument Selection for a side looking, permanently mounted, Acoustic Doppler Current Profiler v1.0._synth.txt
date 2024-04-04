@@ -1,0 +1,9 @@
+ 1. Keywords: California DWR, Site and Instrument Selection, Side Looking ADCP, Acoustic Doppler Current Profiler, Process
+
+2. Abstract: The text outlines the method used by the California Department of Water Resources (DWR) to determine site and instrument selection for a side looking, permanently mounted Acoustic Doppler Current Profiler (ADCP). This method is crucial in providing accurate and reliable data for monitoring water currents, which helps in effective water resource management.
+
+3. Description: The text details the process used by California DWR for selecting sites and instruments for a side looking, permanently mounted ADCP. The process involves several steps, including site selection, which takes into account various factors such as accessibility, availability of power, and proximity to potential sources of interference. Instrument selection includes choosing an appropriate ADCP based on the desired measurement parameters, environmental conditions, and budget constraints. The text also highlights the importance of proper installation and maintenance in ensuring accurate data collection.
+
+4. Target: The primary focus of this method is to provide a systematic approach for selecting sites and instruments for a side looking, permanently mounted ADCP, with the aim of obtaining accurate and reliable data for monitoring water currents.
+
+5. Constraints: Some constraints for this method include limited budget, accessibility issues for site selection, potential sources of interference that may affect data quality, and environmental conditions that may impact instrument performance. Proper planning, installation, and maintenance can help mitigate these constraints and ensure successful data collection.

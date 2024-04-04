@@ -1,0 +1,9 @@
+ 1. Keywords: juvenile salmon otoliths, marine entry, growth rates, laser ablation-inductively coupled plasma mass spectrometer, training and supervision.
+
+2. Abstract: This method outlines the process of utilizing juvenile salmon otoliths to reconstruct the timing of marine entry and marine growth rates. The importance of this technique lies in its ability to provide insights into the life history of salmon, which can be crucial for conservation efforts. However, it requires specialized instrumentation, such as a laser ablation-inductively coupled plasma mass spectrometer, and necessitates proper training and supervision.
+
+3. Description: The method described involves the use of juvenile salmon otoliths to determine the timing of marine entry and marine growth rates. Otoliths are ear stones that can provide a record of a fish's life history, including its age and growth patterns. The process involves several steps, including the preparation of the otoliths, the use of a laser ablation-inductively coupled plasma mass spectrometer to analyze the chemical composition of the otoliths, and the interpretation of the results to determine the timing of marine entry and marine growth rates. This technique requires specialized instrumentation and expertise, as improper use can lead to inaccurate results.
+
+4. Target: The primary focus of this method is to provide a procedure for using juvenile salmon otoliths to reconstruct timing of marine entry and marine growth rates.
+
+5. Constraints: The use of this method requires specialized instrumentation, such as a laser ablation-inductively coupled plasma mass spectrometer, which may not be readily available or affordable for all researchers. Additionally, the proper use of this instrumentation requires training and supervision, which can also be a constraint on the use of this method.

@@ -1,0 +1,18 @@
+ 1. Keywords:
+   - Aerial surveys
+   - Carcass retrieval
+   - Systematic sampling
+   - Jet boat survey
+   - Underwater video searches
+
+2. Abstract:
+This method involves conducting weekly to bi-monthly aerial surveys in streams to count and record new redds, live fish, and carcasses using helicopter flights. Carcasses are identified, retrieved when possible, and used for biological measurements. A systematic sampling strategy is employed for underwater video searches in deep water areas where fall Chinook salmon redds are expected. This approach allows for assessing adult carcasses, evaluating spawning success, age at ocean entry, hatchery contribution to natural production, and identifying potential deep-water spawning areas using jet boats and video cameras.
+
+3. Description:
+The method consists of a combination of aerial surveys and underwater video searches to monitor and assess the health of fish populations in streams. Aerial surveys are conducted weekly to bi-monthly at approximately 200' above water level, counting new redds, live fish, and carcasses. Carcass retrieval is carried out using jet or drift boats when possible for further biological measurements, including size, spawning success, age at ocean entry, and hatchery contribution to natural production. A systematic sampling strategy is utilized to perform underwater video searches in deep-water areas where fall Chinook salmon redds are expected. This technique employs jet boats equipped with video cameras mounted on weighted in-stream flow equipment for searching potential deep-water spawning areas. The method targets the assessment of fish populations and their spawning habits while facing constraints related to weather conditions, accessibility, and carcass retrieval limitations.
+
+4. Target:
+The primary focus of this method is assessing fish population counts, spawning success, and habitat preferences in streams using a combination of aerial surveys and underwater video searches.
+
+5. Constraints:
+The constraints for this method include weather conditions affecting aerial surveys, limited accessibility to certain areas of the rivers for boat-based observations, potential difficulties in retrieving carcasses from the water, and possible limitations due to seasonal variations or external factors impacting fish populations.

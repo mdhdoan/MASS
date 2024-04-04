@@ -1,0 +1,20 @@
+ 1. Keyword list:
+   - Invasive species
+   - Native flora and fauna
+   - Indicator of degraded watershed condition
+   - Survey
+   - Incidental occurrences
+
+2. Abstract:
+Invasive species can have detrimental effects on local ecosystems, impacting native flora and fauna. Monitoring invasive species is crucial for understanding the health of a watershed and preserving biodiversity. This method involves regularly surveying sites at different times to identify listed invasive species and record any incidental findings of non-native plants or animals. By actively tracking invasive species, this approach helps maintain the balance in ecosystems and prevent further degradation.
+
+3. Description:
+This passage discusses the importance of monitoring invasive species as an indicator of watershed condition. Three different surveys will be conducted at each site to target various invasive species and their preferred habitats, with additional recording of any non-native plants or animals encountered. The presence of invasive species can signal degraded watershed conditions, emphasizing the need for consistent monitoring. By thoroughly examining sites according to Table 6, this method aims to detect invasive species early, mitigate their impact on native species, and preserve overall ecosystem health.
+
+4. Target:
+The primary focus of this method is monitoring and surveying invasive species in various habitats as an indicator of watershed condition and for maintaining biodiversity.
+
+5. Constraints:
+- Regularly scheduling surveys at each site according to specified protocols
+- Accurately identifying invasive species from Table 6 and non-native plants or animals during incidental occurrences
+- Ensuring thorough documentation of findings for further analysis and tracking.

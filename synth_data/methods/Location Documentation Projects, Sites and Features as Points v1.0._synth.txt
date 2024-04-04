@@ -1,0 +1,24 @@
+ 1. Relevant keywords:
+* Latitude and longitude coordinates
+* GIS (Geographic Information System)
+* GPS (Global Positioning System)
+* USGS (United States Geological Survey) quad sheets
+* Web mapping services
+* Geocoding
+* Spatial information
+
+2. Abstract:
+This method discusses the importance of identifying locations in projects, sites, and features using detailed latitude and longitude coordinates. The use of GIS and GPS technology is highlighted as a means to acquire this information. Various sources for obtaining coordinate information are provided, including hardcopy maps such as USGS quad sheets, digital map data from computers, free online map sources, and web mapping services. These tools enable accurate geocoding and can improve the tracking of project information at a simple level.
+
+3. Description:
+The text begins by emphasizing the importance of identifying locations for projects, sites, and features using detailed latitude and longitude coordinates in order to build attributes in a database for tracking project information at a basic level. The text then explains that this guide is not meant to be a comprehensive resource on GIS or GPS but rather an overview of building needed attributes for project information tracking.
+
+The author suggests three sources of coordinate information: hardcopy maps, map data from computers, and free online map sources. Hardcopy maps, specifically USGS quad sheets, have latitude and longitude grids along the sides of the map. Map data from computers can be obtained through National Geographic, which sells USGS quad data on CD/DVDs for individual states that can be loaded onto a PC. Free online map sources such as TopoZone, MapTechs, and Microsoft's Terraserver allow users to search for their area of interest, display the selected area, and obtain latitude and longitude coordinates by holding the mouse over a point on the map.
+
+Finally, web mapping services are mentioned as an option for organizations that require frequent and accurate geocoding information. ArcWeb Services for Geocoding is given as an example of such a service. The text concludes with two links to glossaries for more information about spatial information.
+
+4. Target:
+The primary focus or goal of this method is to provide guidance on acquiring latitude and longitude coordinates for projects, sites, and features using various sources, including hardcopy maps, map data from computers, free online map sources, and web mapping services.
+
+5. Constraints:
+One constraint of this method is the requirement of access to physical maps or digital tools to obtain coordinate information. Additionally, users may need some technical knowledge to navigate online map sources and web mapping services effectively. The text does not provide a comprehensive guide for working with GIS or GPS technology, so further research or expertise may be required for more complex projects.

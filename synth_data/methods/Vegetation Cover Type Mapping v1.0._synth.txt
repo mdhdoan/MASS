@@ -1,0 +1,19 @@
+ Sure, I can help you with that! Here are five highly relevant keywords related to the text body:
+
+1. Vegetation cover type mapping
+2. Floodplain vegetation
+3. Aerial imagery interpretation
+4. Geographic information systems (GIS)
+5. National Agriculture Imagery Program (NAIP)
+
+Now, let's move on to the other sections you requested:
+
+2. Abstract:
+Vegetation cover type mapping is a critical process in evaluating the composition and distribution of vegetation within restoration project areas, particularly in floodplains. This method involves using a combination of field surveys and aerial imagery interpretation to develop digital spatial data representing distinct floodplain cover types. By comparing the proportional abundance of established and developing cover types with desired cover type distribution, this process helps ensure that the restoration project is on track to meet its goals. Cover type mapping is conducted in coordination with aerial imagery collection schedules, using data from programs such as NAIP, to enable ground verification within the same growing season as reference images.
+
+3. Description:
+The text body outlines a method for vegetation cover type mapping that is specifically focused on floodplain areas. This process involves using a combination of field surveys and aerial imagery interpretation to develop digital spatial data representing distinct floodplain cover types. Field surveys used to inform this mapping include field mapping of distinct vegetation community boundaries, evaluation of channel cross section elevation data, and interpretation of percent cover vegetation data collected in monitoring plots established along floodplain transects. These data are then incorporated into geographic information systems (GIS) programs with aerial imagery to support digitization of the cover type polygons. Once the floodplain cover type data are evaluated, the proportional abundance of established and developing cover types is compared with desired cover type distribution. Cover type mapping is conducted in coordination with aerial imagery collection schedules so that ground verification of vegetation communities can occur within the same growing season as reference images. Specifically, the National Agriculture Imagery Program (NAIP) acquires aerial imagery during the growing season throughout the United States on a variable schedule based on available funding.
+4. Target:
+The primary focus or goal of this method is to evaluate the composition and distribution of vegetation cover types within floodplain restoration project areas, ensuring that the restoration project is on track to meet its goals.
+5. Constraints:
+There are several constraints for this method, including the availability of aerial imagery data from programs such as NAIP, which can vary based on available funding. Additionally, cover type mapping will only occur as distinct vegetation communities begin to establish in the restoration project areas, which is expected to occur within approximately 5 years after implementation. If aerial imagery is not available for year-5 after implementation, cover type mapping will be delayed until the next available aerial imagery acquisition for the project area.

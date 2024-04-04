@@ -1,0 +1,9 @@
+ 1. Relevant keywords: Lotic cover, instream shelter, fish size, Simonson et al. (1994), water depth requirements.
+
+2. Abstract: The text describes a method for defining and categorizing cover for larger fishes in a riverine ecosystem. This is crucial to understand and protect the habitat of these fishes, particularly those at least 0.2 m (8 in) in total length. The method presented here builds upon previous work by Simonson et al. (1994), with some modifications related to water depth requirements.
+
+3. Description: The text first introduces the concept of lotic cover, specifically referring to an object that provides instream shelter for a fish with a total length of at least 0.2 m (8 in). This object must be at least 0.3 m (12 in) long and wide. The authors clarify that their definition is based on the work of Simonson et al. (1994), but includes modifications to water depth requirements. A significant portion of the text was copied directly from Simonson et al. (1994), indicating a strong reliance on this foundational study for the development of the current method.
+
+4. Target: The primary focus of this method is to establish a standard definition and criteria for identifying instream shelters that cater specifically to larger fish species in freshwater ecosystems.
+
+5. Constraints: While not explicitly stated, potential constraints include the availability of accurate fish size data, challenges in objectively measuring water depth and shelter dimensions, as well as the need for further refinement of water depth requirements in different aquatic environments.

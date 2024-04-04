@@ -1,0 +1,20 @@
+ 1. Keyword list:
+   - Genetic classification techniques
+   - Mixed stock analyses (MSA)
+   - Allele frequencies
+   - Individual assignment (IA) methods
+   - Stock proportions
+
+2. Abstract:
+   Genetic classification techniques are crucial in mixed stock analyses (MSA), which deal with identifying contributing stocks to a mixture using allele frequency references from baseline populations. The individual assignment (IA) method is one such technique that assigns individual samples to their most probable source stock, thereby estimating stock proportions through cumulative assignments.
+
+3. Description:
+   Mixed stock analyses (MSA) involve two primary genetic classification techniques that utilize allele frequencies from baseline populations as reference information for characterizing potentially contributing stocks. Individual assignment (IA) methods are one of these techniques, which assign individual samples to their most likely source stock based on the highest probability of an individual's genotype occurring in the reference population. The sum of all individual assignments then provides an estimate of the proportion contributed by each stock.
+
+4. Target:
+   The primary focus or goal of this method is to characterize and estimate contributing stocks within mixed stock populations using genetic data.
+
+5. Constraints:
+   - Accurate baseline population reference data for allele frequencies
+   - A sufficient number of genetic markers with informative allele frequencies
+   - High-quality genotyping data from samples under analysis.

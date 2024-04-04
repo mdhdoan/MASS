@@ -1,0 +1,9 @@
+ 1. Keywords: whole-genome, gene expression, hatchery fish, wild fish, common environment, selection, captivity adaptation.
+
+2. Abstract: This study aims to compare whole-genome patterns of gene expression between hatchery and wild fish raised in a shared environment. By analyzing the differences in gene expression, the researchers hope to identify genes that have responded to selection during adaptation to captivity. This method is crucial for understanding the genetic basis of captivity adaptation and its impact on fish populations.
+
+3. Description: The text describes a study that compares whole-genome patterns of gene expression between hatchery and wild fish, raised in a common environment to determine the genes that may have responded to selection during adaptation to captivity (Method 607). The researchers are focusing on identifying genetic differences between the two groups to understand how captivity affects fish populations better. This method allows for a detailed analysis of gene expression patterns, providing insights into the genetic basis of captivity adaptation.
+
+4. Target: The primary focus of this method is determining genes that have responded to selection during adaptation to captivity in fish.
+
+5. Constraints: The constraints for this method include the need for accurate and reliable gene expression data, as well as a common environment for both hatchery and wild fish to minimize environmental influences on gene expression. Additionally, the method assumes that there is a significant genetic difference between hatchery and wild fish in response to captivity adaptation.

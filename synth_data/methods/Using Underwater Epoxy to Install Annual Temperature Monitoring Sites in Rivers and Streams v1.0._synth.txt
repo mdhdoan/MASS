@@ -1,0 +1,18 @@
+ Sure, I'd be happy to help! Here are five relevant keywords for the text body you provided:
+
+1. Thermal monitoring
+2. Underwater epoxy
+3. Miniature sensors
+4. Temperature sensors
+5. Regulatory compliance
+
+Now, let's move on to the other sections you requested:
+
+2. Abstract:
+Thermal regimes in rivers and streams play a crucial role in biological processes and are often monitored for regulatory compliance. This method describes a simple technique for establishing annual monitoring sites that uses underwater epoxy to attach miniature sensors to large rocks and cement bridge supports. The FX-764 Hydro-Ester Splash Zone Epoxy manufactured by Fox Industries was found to have superior adhesive strength and ease of use, making it the ideal choice for this protocol. The TidbiT v2 temperature sensor manufactured by Onset Computer Corporation is preferred due to its small size, accuracy, low drift rate, large memory, long battery life, waterproof casing, and ease of data retrieval. This method provides a reliable and efficient way to monitor thermal regimes in aquatic ecosystems for regulatory compliance and scientific research.
+3. Description:
+The text describes a technique for establishing annual monitoring sites for thermal regimes in rivers and streams using underwater epoxy to attach miniature sensors to large rocks and cement bridge supports. The authors conducted laboratory and field trials to identify the best underwater epoxy for this purpose, and they selected the FX-764 Hydro-Ester Splash Zone Epoxy manufactured by Fox Industries due to its superior adhesive strength and ease of use. A variety of miniature temperature sensors are available, but the authors prefer the TidbiT v2 manufactured by Onset Computer Corporation because of its small size, accuracy, low drift rate, large memory, long battery life, waterproof casing, and ease of data retrieval with a portable data shuttle or field computer.
+4. Target:
+The primary focus of this method is to provide a simple and reliable technique for establishing annual monitoring sites for thermal regimes in rivers and streams using underwater epoxy to attach miniature sensors.
+5. Constraints:
+One constraint for this method is the availability and cost of the underwater epoxy and temperature sensors. Additionally, the installation process may require specialized equipment and training to ensure the safety of the installer and the protection of the aquatic ecosystem.

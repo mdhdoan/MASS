@@ -1,0 +1,17 @@
+ 1. Sediment pins
+2. Sediment changes
+3. Monitoring method
+4. CEERP action effectiveness monitoring and research
+5. Bathymetry and terrestrial LiDAR
+
+Abstract:
+Sediment pins are used to track sediment changes at specific locations over time in the Columbia Estuary Ecosystem Restoration Program (CEERP) action effectiveness monitoring and research. This method involves measuring the distance from the top of the sediment pin to the surface of the sediment below, typically taken twice a year. It provides valuable data on sediment accumulation that can be used alongside bathymetry and terrestrial LiDAR for larger spatial coverage of elevation data.
+
+Description:
+The use of sediment pins is a monitoring method employed in the CEERP action effectiveness monitoring and research to track sediment changes at specific locations over time. The measurements taken using sediment pins, which involve measuring the distance from the top of the pin to the surface of the sediment below, provide valuable data on sediment accumulation. This method is typically conducted semiannually for accurate tracking and monitoring. Sediment pins can be used in conjunction with bathymetry and terrestrial LiDAR which provide a larger spatial coverage of elevation data. The use of sediment pins was developed specifically for CEERP action effectiveness monitoring and research to effectively monitor the changes in sediments over time.
+
+Target:
+The primary focus of this method is to track and monitor sediment changes at specific locations over time in the Columbia Estuary Ecosystem Restoration Program (CEERP) action effectiveness monitoring and research.
+
+Constraints:
+The use of sediment pins as a monitoring method may have several constraints, including but not limited to, difficulty in accessing certain locations, potential damage or displacement of sediment pins due to environmental factors, and limitations in accurately measuring the distance between the top of the pin and the surface of the sediment below. Additionally, this method only provides data for specific locations, which may not be representative of broader trends in sediment accumulation.

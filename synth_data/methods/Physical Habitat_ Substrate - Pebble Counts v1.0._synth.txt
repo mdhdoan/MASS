@@ -1,0 +1,9 @@
+ 1. Keywords: streambed substrate, pebble count procedure, bed load transport, channel morphology, bankfull constraints.
+
+2. Abstract: The pebble count procedure is a method used to quantify the composition of streambed substrate in a non-lab setting. This technique measures substrate at regular intervals along main and side channels within bankfull constraints, providing valuable data on bed load transport frequency. Understanding channel morphology and substrate composition is crucial for assessing channel stability and resistance to scour during high flow events, as well as the suitability of spawning grounds for aquatic organisms.
+
+3. Description: The pebble count procedure is a valuable tool for evaluating streambed substrate without the need for laboratory sieve analysis. By taking measurements along main channels and side channels within bankfull constraints, this method offers insights into bed load transport frequency—an essential factor in maintaining channel morphology and providing suitable habitats for aquatic organisms. The procedure's focus on capturing the composition of streambed materials contributes to assessing channel stability and scour resistance during high flow events, which directly impacts fish spawning and other ecological processes.
+
+4. Target: The primary goal of the pebble count procedure is to quantify the substrate composition in streams and rivers efficiently and accurately, providing essential information for understanding channel morphology, assessing ecological health, and predicting responses to various flow conditions.
+
+5. Constraints: The main constraints for the pebble count procedure include the need for accessibility to streambeds and banks for accurate measurements, time required for thorough data collection along the transects, and potential limitations due to challenging environmental conditions (e.g., fast-flowing waters, poor visibility).

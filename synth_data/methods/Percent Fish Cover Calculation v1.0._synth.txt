@@ -1,0 +1,23 @@
+ 1. Relevant keywords:
+   - Percent wetted area fish cover (FC)
+   - Large Woody Debris (LWD)
+   - Vegetation
+   - Undercut Banks
+   - Aquatic Vegetation
+   - Artificial cover
+   - Channel unit
+   - Weighted average
+   - CHaMP - Fish Cover Elements Method
+
+2. Abstract:
+The necessity for monitoring and evaluating fish habitat has led to the development of the Percent of Wetted Area with Fish Cover (FC) method. This approach, based on the CHaMP - Fish Cover Elements Method, involves estimating cover for various channel units and calculating a weighted average for each tier or the entire site. The method analyzes fish cover types including Large Woody Debris, Vegetation, Undercut Banks, Aquatic Vegetation, and Artificial structures. This information is crucial in understanding and managing fish habitats for conservation purposes.
+
+3. Description:
+The Percent of Wetted Area with Fish Cover (FC) method calculates the percentage of wetted area that has fish cover across different channel units within a site or tier. The process begins by estimating cover for each channel unit, followed by determining a weighted average based on the channel unit area. Five types of fish cover are considered: Large Woody Debris (LWD), Vegetation, Undercut Banks, Aquatic Vegetation, and Artificial structures.
+The text also provides information on the CHaMP - Fish Cover Elements Method, which serves as a foundation for the data collection process. The methodology aims to calculate the total percent cover, as well as the area with no cover, for each type of fish cover. By providing a detailed breakdown of wetted areas with fish cover, this approach supports effective management and conservation strategies in fish habitats.
+
+4. Target:
+The primary goal of the Percent of Wetted Area with Fish Cover (FC) method is to assess and quantify fish habitat quality and availability by calculating the percentage of wetted area with various types of fish cover across different channel units, tiers, or entire sites.
+
+5. Constraints:
+The primary constraint for this method is data availability and accuracy, as it relies on precise measurements of fish cover types within channel units. The success of the analysis depends on comprehensive field data collection, which might be challenging in remote locations or areas with limited accessibility. Additionally, seasonal variations in vegetation and water levels could impact the accuracy of the method, requiring periodic updates to maintain its effectiveness.

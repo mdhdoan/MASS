@@ -1,0 +1,9 @@
+ 1. Keywords: Nitrogen digestion, Phosphorus digestion, Potassium persulfate, Basic and acidic conditions, Boric acid-sodium hydroxide system, Autoanalyzer.
+
+2. Abstract: This method outlines the process of simultaneous digestion of organic nitrogen and phosphorus compounds in a single sample vial using potassium persulfate under basic and acidic conditions, respectively. A boric acid-sodium hydroxide system is utilized to achieve high digestion efficiencies (>80%) for the reactions, which can be run on an Astoria autoanalyzer. This method offers a practical solution for the analysis of organic nitrogen and phosphorus compounds in various samples.
+
+3. Description: The text describes a procedure for the simultaneous digestion of organic nitrogen and phosphorus compounds using potassium persulfate under controlled pH conditions. In basic conditions, reacting nitrogen in compounds such as proteins leads to the formation of nitrate ions, while in acidic conditions, phosphorus in compounds like ATP is converted into phosphate ions. The method utilizes a boric acid-sodium hydroxide system, allowing for high digestion efficiencies above 80%. This procedure is compatible with the Astoria autoanalyzer. Valderama's experiments provided the foundation for this process, which has proven to be an effective means of analyzing organic nitrogen and phosphorus compounds in different samples.
+
+4. Target: The primary focus of this method is the simultaneous digestion of organic nitrogen and phosphorus compounds for further analysis on an autoanalyzer.
+
+5. Constraints: This method requires proper control of pH conditions to ensure successful digestion, as well as access to an Astoria autoanalyzer or a similar device for downstream analysis. Additionally, familiarity with laboratory procedures and chemical safety precautions is necessary for the correct execution of this method.

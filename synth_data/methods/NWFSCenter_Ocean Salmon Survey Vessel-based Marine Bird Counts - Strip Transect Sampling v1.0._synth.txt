@@ -1,0 +1,20 @@
+ 1. Relevant keywords:
+   - Coastal ecosystems
+   - Coho and Chinook salmon
+   - Biotic and abiotic factors
+   - Columbia River Plume
+   - Marine bird predation
+   - Juvenile salmon distribution
+
+2. Abstract:
+   This study focuses on the impact of marine bird predation on juvenile salmon in the Columbia River Plume, an area known for high salmonid abundance influenced by anthropogenic factors. The research aims to quantify the distribution and abundance of marine birds, as well as their overlap with juvenile salmon distributions, to understand how ocean avian predation may affect early marine survival of salmon.
+
+3. Description:
+   This study is part of a long-term interdisciplinary effort by academic and federal scientists to understand coastal ecosystems and biological and physical processes that influence recruitment variability of salmon in Pacific Northwest waters. The current research focus is on the effects of biotic and abiotic environmental conditions on the early marine life history of coho and Chinook salmon, specifically in the Columbia River Plume. This area has high salmonid abundance and is influenced by anthropogenic factors, making it a critical region for study.
+   Marine birds are abundant and highly mobile predators that consume fish and zooplankton found in the Columbia River Plume and adjacent coastal waters of the California Current. The possibility of ocean avian predation affecting early marine survival of juvenile salmon has led to this study, which aims to quantify the distribution and abundance of marine birds at sea, as well as their overlap with juvenile salmon distributions.
+
+4. Target:
+   The primary focus of the method is to understand the impact of marine bird predation on juvenile salmon in the Columbia River Plume.
+
+5. Constraints:
+   The constraints for this study include accurately quantifying the distribution and abundance of marine birds at sea, obtaining reliable data on their overlap with juvenile salmon distributions, and accounting for environmental factors that may affect both marine birds and juvenile salmon.

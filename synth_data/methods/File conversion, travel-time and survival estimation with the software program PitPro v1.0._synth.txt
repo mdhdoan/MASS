@@ -1,0 +1,23 @@
+ Sure, I'd be happy to help! Based on the text body you provided, here are five relevant keywords:
+
+1. PitPro
+2. Computer program
+3. Columbia Basin Research
+4. PIT Tag Information System (PTAGIS)
+5. Travel-time and survival estimates
+
+Now, let's move on to the other sections:
+
+2. Abstract:
+PitPro is a computer program developed by Columbia Basin Research that helps users convert files from the PIT Tag Information System (PTAGIS) into the format required for running SURPH and ROSTER programs. The program also provides travel-time and Cormack-Jolly-Seber survival estimates, which are essential for fisheries management. By automating the file conversion process and providing valuable statistical estimates, PitPro saves time and increases efficiency in data analysis.
+3. Description:
+PitPro is a computer program designed to convert files from the Columbia Basin PIT Tag Information System (PTAGIS) into the format required for running SURPH and ROSTER programs. These programs are used for analyzing fish passage data, making it essential to have the correct file format. PitPro can also produce travel-time and Cormack-Jolly-Seber survival estimates from PIT tag interrogation data, which are crucial for fisheries management.
+
+PIT tags are small electronic devices that are inserted into fish to track their movement and behavior. The PTAGIS is a database that stores PIT tag data collected from various sources. However, the file format used by PTAGIS may not be compatible with other programs used for analyzing fish passage data. This is where PitPro comes in handy, as it automates the file conversion process, saving time and increasing efficiency.
+
+The travel-time and survival estimates provided by PitPro are also essential for fisheries management. Travel-time estimates can provide insights into how long it takes for fish to move through a system, while survival estimates can help determine the effectiveness of various management strategies. The Cormack-Jolly-Seber method is a widely used statistical technique for estimating survival rates in wildlife populations.
+
+4. Target:
+The primary focus of PitPro is to convert files from the PIT Tag Information System (PTAGIS) into the format required for running SURPH and ROSTER programs, while also providing valuable statistical estimates such as travel-time and survival rates.
+5. Constraints:
+The main constraint of PitPro is its compatibility with the file format used by PTAGIS. If PTAGIS changes its file format, PitPro may need to be updated to ensure compatibility. Additionally, users must have access to the SURPH and ROSTER programs to use PitPro's full capabilities.

@@ -1,0 +1,18 @@
+ Sure, I'd be happy to help you summarize and label this text. Here are five keywords that I think are highly relevant to the method described:
+
+1. Environmental Monitoring and Assessment Program (EMAP)
+2. Fish tissue contaminants
+3. Mercury
+4. Stressor indicators
+5. Bioaccumulation
+
+Now, let's move on to the other sections you requested:
+
+2. Abstract:
+This method describes an Environmental Monitoring and Assessment Program (EMAP) protocol for monitoring and measuring the ecological condition of western wadable streams, with a focus on determining selected tissue contaminant levels in fish tissue. The method uses two types of fish tissue contaminant samples - small and big - to evaluate the potential burden of toxic chemicals at a site. By integrating physical habitat, water chemistry, land use, human population density, other records of relevant anthropogenic stresses, fish, macroinvertebrates, and periphyton indicators, this method aims to help diagnose whether the probable cause of stream degradation is water quality, physical habitat, or both.
+3. Description:
+The method described in this text is derived from an EMAP protocol for monitoring western wadable streams. The method focuses on determining selected tissue contaminant levels in fish tissue, with a particular emphasis on mercury. Two types of fish tissue contaminant samples are prepared - small and big - to maximize the potential of obtaining a sample from every site. Small fish tissue contaminant samples are composite samples of individuals less than 100 mm long, while big fish tissue contaminant samples are individuals that are greater than 120 mm long. Whole fish are collected and analyzed for several reasons, including logistical simplicity and the ability to integrate all fish parts. Fish contaminant results are intended to be used in conjunction with other stressor indicators and condition indicators to help diagnose the probable cause of stream degradation.
+4. Target:
+The primary focus or goal of this method is to evaluate the ecological condition of western wadable streams by determining selected tissue contaminant levels in fish tissue, particularly mercury.
+5. Constraints:
+One constraint of this method is that the relative bioaccumulation of contaminants by large and small stream fish is not known, so two different types of samples were prepared to account for this uncertainty. Another constraint is that whole fish must be collected and analyzed, which may present logistical challenges for field crews and analytical labs.

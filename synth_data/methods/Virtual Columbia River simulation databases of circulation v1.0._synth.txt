@@ -1,0 +1,18 @@
+ 1. Relevant keywords:
+   - Retrospective simulation
+   - Columbia River plume
+   - Simulation databases
+   - Salmon relevant metrics
+   - Virtual Columbia River
+
+2. Abstract:
+The method described involves the use of retrospective simulations of circulation in the Columbia River plume to understand and characterize ocean entry conditions. By storing simulation results in databases, scientists can compute salmon-relevant metrics, gaining insights into the relationship between ocean conditions and salmon populations. This process is carried out within a modeling system called the Virtual Columbia River, maintained at Oregon Health & Science University.
+
+3. Description:
+This method focuses on retrospective simulations of multiple years of circulation in the Columbia River plume. The results of these simulations are stored in simulation databases to facilitate the computation of salmon-relevant metrics. These metrics help characterize ocean entry conditions, which is crucial for understanding and managing salmon populations. The simulations are conducted within a modeling system known as the Virtual Columbia River, managed by Oregon Health & Science University. This method allows researchers to analyze past ocean conditions and their impact on salmon, providing valuable insights for conservation efforts.
+
+4. Target:
+The primary goal of this method is to characterize ocean entry conditions and their relationship with salmon populations through retrospective simulations and metric computations.
+
+5. Constraints:
+Constraints for this method may include the availability and quality of historical data on ocean circulation and salmon populations, computational resources for running extensive simulations, and the complexity of accurately modeling the Columbia River plume and its interactions with salmon.

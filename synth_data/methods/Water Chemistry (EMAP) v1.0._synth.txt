@@ -1,0 +1,30 @@
+ 1. Relevant keywords:
+   - Environmental Monitoring and Assessment Program (EMAP)
+   - Water chemistry data
+   - Acid-base status
+   - Nutrient enrichment
+   - Chemical stressors
+   - Major cations and anions
+   - Dissolved inorganic carbon (DIC)
+   - Syringe samples
+   - Specific conductance
+   - Dissolved oxygen
+   - Land use variables
+
+2. Abstract:
+This method, derived from the EMAP protocol, focuses on monitoring water chemistry data for western wadable streams. It offers guidelines to collect data that help characterize acid-base status, nutrient enrichment, and chemical stressors such as excessive conductivity or chloride derived from human activities. By measuring major cations, anions, nutrients, turbidity, and color, this method enables the classification of streams based on their water chemistry, providing valuable insights for environmental management and assessment.
+
+3. Description:
+This methodology text discusses a procedure based on the EMAP protocol designed for monitoring water chemistry in western wadable streams. The process includes instructions for collecting water chemistry data to determine acid-base status, trophic condition, and the impact of chemical stressors like sulfate from mining or chloride derived from human activities.
+
+Water chemistry information involves various measurements such as major cations (e.g., calcium, magnesium, sodium, potassium) and anions (e.g., bicarbonate, carbonate, chloride, sulfate), nutrients, turbidity, and color. These guidelines are based on the National Stream Survey and Mid-Atlantic Integrated Assessment.
+
+The method utilizes syringe samples to protect water samples from atmospheric exposure, preserving accurate pH and DIC concentrations. At some sites, additional in situ or streamside measurements of specific conductance, dissolved oxygen, and temperature are performed to assess water quality and potential for healthy aerobic organism populations.
+
+Spatial variability within a single stream's channel is expected to be minimal, eliminating the need for composite water chemistry samples. Longitudinal variability at small scales appears insignificant based on conductivity data from larger stream reaches in the Mid-Atlantic region. Water chemistry results from these single point samples can be associated with land use variables and biological assemblage metrics.
+
+4. Target:
+The primary focus of this method is to provide a systematic approach for collecting water chemistry data to assess and classify wadable streams based on their water quality and potential environmental impacts.
+
+5. Constraints:
+This method does not explicitly mention any constraints; however, it may require specialized equipment (e.g., pH meters, conductivity probes) and trained personnel to ensure proper sample collection and analysis. Additionally, the reliance on single-point samples assumes minimal longitudinal variability, which might not be accurate for all stream types or regions.

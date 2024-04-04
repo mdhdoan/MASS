@@ -1,0 +1,21 @@
+ 1. Keyword list:
+   - Field data collection
+   - Stream discharge estimation
+   - Instantaneous discharge (Q)
+   - Waded streams
+   - Base-flow conditions
+
+2. Abstract:
+Field data collection is crucial for estimating instantaneous discharge in cubic feet per second, which helps categorize streams based on their characteristics during sampling. This method focuses on waded streams, where discharge measurements are taken near an index station with non-turbulent flow. Data collection should be conducted at any time except before water, sediment, or invertebrate sampling to ensure accurate and reliable results for better stream management and understanding of hydrological processes.
+
+3. Description:
+This methodology describes the process of collecting field data necessary for estimating instantaneous discharge (Q) in cubic feet per second. The purpose is to categorize streams based on their characteristics during sampling, specifically under approximate base-flow conditions. This method is applicable to waded streams where discharge measurements are typically taken near an index station (X) with uniform and nonturbulent flow.
+
+It is important to note that this procedure should not be carried out prior to water, sediment, or invertebrate sampling to avoid any potential interference or contamination of the samples. This method emphasizes data reliability and accuracy for better stream management and understanding of hydrological processes during data collection events.
+
+4. Target:
+The primary focus of this method is to provide a systematic approach for estimating instantaneous discharge in waded streams, facilitating accurate categorization based on stream characteristics under base-flow conditions.
+
+5. Constraints:
+- Data collection should not be conducted prior to water, sediment, or invertebrate sampling.
+- Applicable only to waded streams with uniform and nonturbulent flow conditions.

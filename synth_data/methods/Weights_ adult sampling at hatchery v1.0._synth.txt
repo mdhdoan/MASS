@@ -1,0 +1,18 @@
+ 1. Keywords:
+   - Weight values
+   - Reproductive effort
+   - Size at age calculations
+   - Broodstock
+   - Salmon (Chum salmon)
+
+2. Abstract:
+Weight values play a crucial role in calculating reproductive effort and size at age for broodstock management. These measurements are essential for understanding the health and productivity of chum salmon populations, particularly in the context of reintroduction programs like the one in Duncan Creek (Lower Columbia River). By accurately determining these values, conservationists can make informed decisions regarding reintroduction strategies, ultimately supporting the recovery and sustainability of endangered species.
+
+3. Description:
+The text focuses on the importance of weight values for calculating reproductive effort and size at age in broodstock management. Reproductive effort is calculated by dividing green egg mass weight by whole body weight, while size at age calculations are also derived from weight data. These measurements are relevant to the reintroduction of Lower Columbia River Chum Salmon into Duncan Creek between FY 2008 and 2010. The report highlights the significance of these values in understanding the health and productivity of chum salmon populations, providing insights that can help inform conservation strategies and contribute to successful reintroduction efforts.
+
+4. Target:
+The primary focus or goal of this method is to emphasize the importance of weight values for accurate reproductive effort and size at age calculations in broodstock management, particularly within chum salmon reintroduction programs.
+
+5. Constraints:
+There are no explicit constraints mentioned in the text body; however, obtaining accurate weight data for chum salmon populations might involve challenges such as limited access to monitoring sites or difficulties in safely capturing and measuring individual fish.

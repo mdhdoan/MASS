@@ -1,0 +1,9 @@
+ 1. Keywords: Shrub definition, height measurement, HEP models, tree-shrub differentiation, ecological function.
+
+2. Abstract: This text describes a method for classifying and measuring woody vegetation, specifically shrubs and trees under a certain height. The necessity of this method arises from the assumption that trees below 16 feet in height function more like shrubs than trees. This leads to a need for clear definitions and guidelines for identifying and counting these plants. By following these rules, researchers can ensure consistent data collection and analysis across different studies and locations.
+
+3. Description: The methodology presented here focuses on the distinction between shrubs and trees based on height, with trees under 16 feet being classified as shrubs. This is essential for ecological assessments using Habitat Evaluation Program (HEP) models. Shrub heights are recorded relative to transect lines or point intervals, measuring only the dominant shrub canopy biomass. Measurements are taken in 10ths of feet and rounded to whole numbers on data loggers or paper forms. The importance of adhering to these guidelines is emphasized by the potential discrepancies between visual estimates and actual height measurements.
+
+4. Target: The primary focus of this method is to provide clear instructions for classifying and measuring woody vegetation, specifically shrubs and trees under 16 feet, in order to ensure consistent data collection and analysis.
+
+5. Constraints: This method's main constraints include relying on visual estimates for tree-shrub differentiation based on height, potential discrepancies between visual estimates and actual measurements, and the necessity of using transect lines or point intervals for accurate height measurement.

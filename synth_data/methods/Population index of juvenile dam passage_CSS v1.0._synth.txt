@@ -1,0 +1,20 @@
+ 1. Keyword list:
+   - Population index
+   - PIT-tag detection probability
+   - Daily flow data
+   - Spill percentage data
+   - Predictive model
+
+2. Abstract:
+The population index is a valuable in-season tool that predicts the daily PIT-tag (Passive Integrated Transponder) detection probability by analyzing daily flow and spill percentage data. This method helps fishery managers make informed decisions regarding fish passage by providing an estimate of the number of fish expected to pass through collection or bypass facilities.
+
+3. Description:
+The population index is a predictive model that utilizes daily PIT-tag detection probability based on flow and spill percentage data to provide in-season insights about fish populations. This tool helps fishery managers assess the effectiveness of fish passage systems, monitor species abundance, and make informed decisions for managing water resources and aquatic ecosystems. The method is particularly useful during high-flow events when fish migration is most likely to occur. By relying on real-time data, the population index offers a practical solution for monitoring fish populations in near real-time, allowing managers to respond promptly to changes in the environment or fish behavior.
+
+4. Target:
+The primary focus of the population index method is to offer an accurate, in-season prediction of daily PIT-tag detection probability and estimate the number of fish passing through collection or bypass facilities, providing valuable insights for fishery management decisions.
+
+5. Constraints:
+- The accuracy of the population index model depends on the quality and availability of flow and spill percentage data.
+- Accurate PIT-tag detection is necessary for reliable results, as errors in tag detection can affect the model's predictions.
+- The model might not account for all factors affecting fish migration and behavior, leading to potential limitations in its predictive capabilities.

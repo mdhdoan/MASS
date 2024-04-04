@@ -23,8 +23,7 @@ from langchain.schema import Document
 random.seed(2024)
 
 HEADERS = [
-    "background",
-    "assumptions", 
+    "abstractText"
 ]
 
 def increase_count(count, character):

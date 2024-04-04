@@ -1,0 +1,21 @@
+ 1. Relevant keywords:
+   - Ground-based measurements
+   - Channel unit dimensions
+   - Fish habitat quantification
+   - UAS-based measurements
+   - Canopy cover
+
+2. Abstract:
+Ground-based measurements of channel unit dimensions are crucial in quantifying fish habitat, especially when high canopy cover makes UAS-based methods less effective. This approach offers a reliable alternative to gather essential information about the length, width, and depth of aquatic environments, supporting fishery resource management and conservation efforts.
+
+3. Description:
+The text emphasizes the importance of ground-based measurements in determining channel unit dimensions, which are critical for quantifying fish habitat. This method supplements UAS (Unmanned Aerial System)-based measurements when high canopy cover may hinder their accuracy or feasibility. By measuring length, width, and depth of water channels, researchers gain crucial insights into the suitability and extent of aquatic habitats. Ground-based techniques provide direct access to these features, ensuring accurate data collection even in challenging conditions.
+
+4. Target:
+The primary focus is to establish a ground-based measurement method for channel unit dimensions to effectively quantify fish habitat.
+
+5. Constraints:
+This method's constraints include the following:
+   - Difficult terrain or accessibility issues might hinder ground-based measurements, requiring additional resources and safety measures.
+   - Time and labor-intensive data collection compared to UAS methods may affect cost and efficiency.
+   - Data interpretation and analysis could demand specialized expertise in aquatic ecosystems and geospatial analysis.

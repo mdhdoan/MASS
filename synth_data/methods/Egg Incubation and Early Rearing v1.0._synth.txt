@@ -1,0 +1,9 @@
+ 1. Relevant keywords: Nez Perce Tribe, hatchery evaluation data, fish facilities, species-specific method, run-timing of fish.
+
+2. Abstract: The Nez Perce Tribe's Department of Fisheries Resources Management collects and manages data from 18 fish hatchery facilities to monitor and evaluate the effectiveness of these operations. This data collection is crucial for understanding the success of hatchery programs, informing management decisions, and conserving fish populations. The methods used are tailored to each facility, species, and run-timing, ensuring accurate and relevant information is gathered for effective management and decision-making processes.
+
+3. Description: The Nez Perce Tribe Department of Fisheries Resources Management collects hatchery evaluation data from 18 facilities, which consist of various types of hatcheries including adult traps, picket weirs, adult holding ponds, spawning facilities, primary and secondary juvenile rearing locations, and acclimation release sites. The management of these sites is carried out solely by the Nez Perce Tribe, collaboratively with co-managers, or in a supportive role for the tribe. This species-specific method focuses on individual hatcheries, fish species, and run-timing to ensure efficient data collection that caters to the unique needs of each facility.
+
+4. Target: The primary focus of this method is to effectively collect and manage data from fish hatchery facilities for evaluation and management purposes, ensuring the sustainability and success of these programs in conserving fish populations.
+
+5. Constraints: Although not explicitly mentioned, potential constraints for this method could include resource limitations (budget, staffing), access to certain facilities, seasonal variations affecting data collection, and the need for ongoing adaptation as new information emerges or circumstances change.

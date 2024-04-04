@@ -1,0 +1,23 @@
+ Sure, I'd be happy to help you label the topics and create an abstract, description, target, and constraints based on the provided text body. Here are the keywords that I have identified as highly relevant to the method:
+
+1. Electrofishing
+2. Template customization
+3. Sampling objectives
+4. Equipment manuals
+5. Point of contact
+
+Now, let's move on to the other questions you have asked.
+
+Abstract:
+This method outlines a template for customizing electrofishing methods using guidance from PNAMP experts. The purpose is not to standardize responses but rather to standardize how an electrofishing method is documented. This approach enables users to determine the appropriate sampling objectives, select the right equipment and techniques, and ensure that they have the necessary contact information for support.
+
+Description:
+The text body provides a template for customizing electrofishing methods based on specific sampling objectives. The first question asks about the objective or purpose of the program and lists several options to choose from, such as management survey, abundance, detection, species presence-absence, species list, relative abundance, absolute abundance, and population dynamics.
+
+The second question asks why electrofishing is being used to achieve the objective. The third question requires users to provide the title, affiliation, or program names, while the fourth question asks for the email address and phone number of the point of contact. By following this template, users can create a standardized documentation of their electrofishing method that can be easily understood and replicated by others.
+
+Target:
+The primary focus of this method is to guide users in customizing an electrofishing method based on specific sampling objectives while ensuring that the necessary information is documented for reference and support.
+
+Constraints:
+One constraint of this method is the need for accurate information about the sampling objectives, equipment manuals, and point of contact details. Another constraint is the need for users to obtain correct answers from helpful sources if they do not know the answer at any point in the process.

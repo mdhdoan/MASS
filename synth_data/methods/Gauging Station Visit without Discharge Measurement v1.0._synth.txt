@@ -1,0 +1,18 @@
+ 1. Keyword list:
+   - River gauging stations
+   - Real-time stations
+   - Staff gauge readings
+   - Site maintenance
+   - Data collection
+
+2. Abstract:
+River gauging stations and real-time stations play a crucial role in monitoring water levels and flow rates. To ensure accurate data collection, personnel visit these stations twice a month to perform staff gauge readings, site maintenance, and download available data. This regular upkeep allows for continuous monitoring of water resources, ensuring the safety of nearby communities while also supporting various industrial applications.
+
+3. Description:
+The text describes the routine process of visiting river gauging stations and real-time stations to collect staff gauge readings, perform site maintenance, and download available data. These visits occur twice a month but do not include discharge measurements. Staff gauge readings involve measuring the water level at specific points in a river or canal. Site maintenance includes tasks such as cleaning the area around the gauging station, inspecting equipment for wear or damage, and ensuring the structural integrity of the site. Data downloaded from these stations provides valuable information on water resource availability, flood risk management, and environmental monitoring.
+
+4. Target:
+The primary focus is to maintain river gauging stations and real-time stations, collect staff gauge readings, and download available data for continuous water resources monitoring.
+
+5. Constraints:
+A key constraint for this method is the lack of discharge measurements during routine visits. This limitation may impact the accuracy or completeness of data related to flow rates, requiring additional measurement methods or specialized equipment.

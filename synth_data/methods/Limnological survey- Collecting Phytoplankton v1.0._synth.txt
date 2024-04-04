@@ -1,0 +1,13 @@
+ 1. Keywords: Phytoplankton, nutrient availability, temperature, light, grazing pressure, primary production, water quality, zooplankton, toxins, Utermohl 1958.
+
+2. Abstract: This method focuses on the collection and preservation of water samples for analysis of phytoplankton abundance and composition by an external lab. The necessity of this method arises from the importance of understanding phytoplankton populations in larger lakes and reservoirs, as they significantly contribute to primary production and their abundance and species can impact water quality and fish supply. By examining these samples using Utermohl's techniques, managers and researchers can make informed decisions regarding lake and fisheries management, ensuring a balance between adequate food supply for fish and maintaining good water quality.
+
+3. Description: Phytoplankton, free-floating algae, are the primary form of plants in larger lakes and reservoirs, responsible for most of the primary production in these systems (Horne and Goldman 1994). Factors controlling phytoplankton abundance and species composition include nutrient availability, temperature, light, and grazing pressure. The abundance of phytoplankton is crucial for lake and fisheries managers, as insufficient quantities can limit the food supply for fish, while excessive amounts can lead to poor water quality.
+
+The composition of the phytoplankton community plays an equally significant role. Some taxa are highly nutritious and readily consumed by zooplankton, increasing secondary production and potentially leading to clearer waters through grazing. In contrast, other taxa are not edible and can proliferate unchecked, causing nuisance blooms. A small fraction of these organisms produce toxins, posing a risk to public health.
+
+This method provides detailed instructions for collecting and preserving water samples for phytoplankton abundance and composition analysis by an external lab using Utermohl 1958-based techniques.
+
+4. Target: The primary focus of this method is the collection, preservation, and examination of water samples to analyze phytoplankton abundance and composition in larger lakes and reservoirs.
+
+5. Constraints: This method relies on external lab capabilities for phytoplankton analysis using Utermohl 1958 techniques, which might not be available or accessible everywhere. Also, the success of this method depends on proper field collection and sample preservation, requiring specific knowledge and skills.

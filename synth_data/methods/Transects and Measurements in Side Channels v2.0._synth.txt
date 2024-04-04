@@ -1,0 +1,9 @@
+ 1. Relevant keywords: side channel, bankfull width, transect, flow, geomorphic features, perennial stream, major/minor/dry side channel.
+
+2. Abstract: This method outlines the procedure for sampling a reach with a side channel, which is crucial in data collection for water bodies. The selection of side channels to sample is based on their bankfull width and adherence to specific geomorphic features. Three types of side channels are identified: major, minor, and dry. Major side channels contain 16-49% of the total flow, while minor side channels have less than or equal to 15% of the total flow. Dry side channels meet all criteria but do not have flowing water.
+
+3. Description: The method emphasizes the importance of collecting data on side channels, regardless of their size or presence of water, with a restriction of sampling only one side channel per transect. In cases where multiple side channels are present, the widest bankfull width should be selected for sampling. A side channel is defined as a channel separated from the main channel by an island, a continuous channel that diverges and reconnects to the main channel, or a channel with geomorphic features of a perennial or intermittent stream. Specific criteria are provided for major, minor, and dry side channels based on their flow percentage and geomorphic characteristics.
+
+4. Target: The primary focus of this method is to establish a systematic approach for selecting and sampling side channels in water bodies.
+
+5. Constraints: The constraints of this method include the necessity of access to various types of side channels, resources to collect and analyze data, and expertise to accurately identify side channel characteristics and flow percentages. Additionally, there may be logistical challenges or limitations when attempting to sample a single side channel per transect in environments with numerous or complex waterways.

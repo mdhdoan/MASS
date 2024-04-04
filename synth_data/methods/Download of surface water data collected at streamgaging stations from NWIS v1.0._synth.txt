@@ -1,0 +1,20 @@
+ 1. Relevant keywords:
+   - USGS water-resources data
+   - Surface water data
+   - Groundwater data
+   - National Water Information System (NWIS)
+   - Streamflow measurements
+   - USGS streamgaging stations
+   - Online data retrieval
+
+2. Abstract:
+The United States Geological Survey (USGS) collects and manages vast amounts of water-resources data from sites across all 50 states and U.S. territories. The method for accessing daily surface water parameters involves using the National Water Information System (NWIS) web interface, allowing users to retrieve current and historical data on surface water and groundwater resources. By providing an accessible and organized platform, this system enables efficient research, monitoring, and decision-making in managing the nation's water resources.
+
+3. Description:
+The USGS is responsible for collecting water-resources data at approximately 1.5 million sites across all 50 states and U.S. territories, focusing on surface water and groundwater categories. Surface water data, such as gage height (stage) and streamflow (discharge), are collected at major rivers, lakes, and reservoirs. The National Water Information System (NWIS) web site provides a platform for users to access these data. Users can retrieve data by category (such as surface water, groundwater, or water quality) and geographic area. Further refinement is possible by selecting specific information and defining the desired output format. This method focuses on retrieving daily data for surface water parameters measured at USGS streamgaging stations throughout the nation, which can be accessed online at <http://waterdata.usgs.gov/nwis/>.
+
+4. Target:
+The primary focus of this method is to facilitate access to and management of vast amounts of water-resources data collected by the USGS across various geographic locations and data categories.
+
+5. Constraints:
+The main constraints for this method include ensuring consistent and reliable data collection from a large number of sites, maintaining up-to-date and accurate information on the NWIS web interface, and providing adequate documentation to help users effectively navigate and utilize the system's features.

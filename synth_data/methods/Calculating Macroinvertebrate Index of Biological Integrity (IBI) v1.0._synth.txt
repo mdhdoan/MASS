@@ -1,0 +1,21 @@
+ 1. Relevant keywords:
+   - Benthic macroinvertebrates (BMI)
+   - Biological assessment
+   - Water quality monitoring
+   - Index of Biotic Integrity (IBI)
+   - Stream health assessment
+
+2. Abstract:
+Benthic macroinvertebrates play a crucial role as indicators of watershed health due to their sensitivity to pollution and habitat alteration. The Index of Biotic Integrity (IBI) is an effective method for evaluating stream health by converting complex community structure data into a simple numerical value. This approach assesses various aspects, such as taxonomic richness, composition, diversity, feeding groups, habit, and tolerance to stressors. Using IBI enables researchers and environmental managers to make informed decisions about water quality management and conservation efforts.
+
+3. Description:
+The Index of Biotic Integrity (IBI) is a widely-used method for evaluating the biological integrity and health of streams by analyzing benthic macroinvertebrate communities. The IBI process involves calculating measures of taxonomic richness, composition, diversity, feeding groups, habit, and tolerance to stressors. These metrics are then assigned to one of six metric classes that capture distinct dimensions of biotic integrity. Each metric is scaled against the 5th-95th percentiles for streams within each of the nine WSA ecoregions. This regional scaling ensures accurate comparisons between streams and better discrimination among them. The final IBI score, which ranges from 0 to 100, offers a comprehensive assessment of stream health, facilitating effective water quality management and conservation efforts (Stoddard et al., 2005).
+
+4. Target:
+The primary focus of the IBI method is assessing and monitoring the biological integrity and health of streams using benthic macroinvertebrate communities as indicators.
+
+5. Constraints:
+- The success of the IBI method depends on accurate identification and enumeration of benthic macroinvertebrates, which can be time-consuming and require expertise.
+- Stream accessibility may limit sampling efforts, potentially affecting the accuracy and representativeness of IBI scores.
+- Seasonal variations in macroinvertebrate communities can impact IBI scores, making it necessary to perform assessments at consistent times to ensure comparability.
+- Limited funding or resources may restrict the frequency and extent of IBI monitoring programs, which can hinder effective water quality management.

@@ -1,0 +1,20 @@
+ 1. Keywords: 
+   - Bonneville Power Administration-funded
+   - Coastal ecosystems
+   - Ocean monitoring (chlorophyll a)
+   - Biotic and abiotic environmental conditions
+   - Columbia River Plume
+   - Juvenile salmon
+   - Higher trophic level predators
+
+2. Abstract:
+This text discusses a long-term study funded by the Bonneville Power Administration to understand coastal ecosystems and factors influencing recruitment variability of Pacific Northwest salmon. Ocean monitoring, specifically measuring chlorophyll a, is used as an indicator for ocean primary production. The research focuses on examining the effects of various biotic and abiotic environmental conditions on coho and Chinook salmon during their early marine life history in the Columbia River Plume, which has high salmonid abundance and faces anthropogenic influences.
+
+3. Description:
+The Bonneville Power Administration funds this research effort to understand coastal ecosystems and biological and physical processes affecting salmon recruitment variability in Pacific Northwest waters. Ocean monitoring of chlorophyll a serves as a measure for ocean primary production. The main focus is on investigating the influence of biotic and abiotic environmental conditions on the early marine life history stages of coho and Chinook salmon, specifically within the Columbia River Plume. This area has high salmonid abundance and experiences anthropogenic factors that impact it.
+
+4. Target:
+The primary focus is to examine how various biotic and abiotic environmental factors affect the early life history of coho and Chinook salmon in the Pacific Northwest, particularly in the Columbia River Plume.
+
+5. Constraints:
+The research method might be constrained by resource availability for conducting extensive ocean monitoring, limitations in data collection techniques for measuring chlorophyll a and observing juvenile salmon, challenges associated with understanding complex biotic and abiotic interactions, and potential restrictions due to budget or time constraints from the Bonneville Power Administration funding.

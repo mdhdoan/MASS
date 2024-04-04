@@ -1,0 +1,18 @@
+ Sure, I can help you with that! Here are five highly relevant keywords related to the method described in the text body:
+
+1. Solar insolation modeling
+2. Gross primary production (GPP) model
+3. Riparian vegetation shading
+4. National Biomass and Carbon Dataset (NBCD)
+5. ArcGIS Python tools
+
+Now, let's move on to the other sections:
+
+2. Abstract:
+The Integrated Status and Effectiveness Monitoring Program (ISEMP) is developing a spatially-explicit GPP model for stream networks in the Columbia Basin to predict salmonid habitat needs. Preliminary work by Eco Logical Research, Inc. (ELR) has shown promising results using temperature, solar inputs, and conductivity as model inputs. However, collecting comprehensive field-based solar insolation measurements is resource-prohibitive. Therefore, ISEMP aims to develop a reliable and robust solar insolation model for all stream networks and associated riparian buffers within the Columbia Basin using ArcGIS Python tools and NBCD basal area-weighted canopy height data. This model will potentially reduce the need for field-based data collection and provide a reliable input for GPP modeling efforts.
+3. Description:
+The necessity of developing a spatially-explicit GPP model for stream networks in the Columbia Basin arises from the resource-prohibitive nature of collecting comprehensive field-based solar insolation measurements. Preliminary work by ELR has shown promising results using temperature, solar inputs, and conductivity as model inputs. However, to improve the preliminary GPP model development work, ISEMP aims to develop a methodology for modeling solar insolation that emulates the effects of shading from riparian vegetation and topography. The Columbia Habitat Monitoring Program (CHaMP) protocol collects solar insolation data during stream surveys, but collecting field-based solar insolation measurements comprehensively for the entire stream network of the Columbia Basin is not feasible. Therefore, ISEMP has relied on raster data derived from the National Biomass and Carbon Dataset (NBCD) basal area-weighted canopy height dataset to approximate stream shading when calculating solar insolation using ESRIs Area Solar Radiation tool. The model inputs include NHD+ 1:24k flowlines, segmented NED DEM 10m2 USGS Hydrologic Unit polygon (i.e. HUC4, HUC5) Stream area polygon (i.e. bankfull or NHD Area) NBCD basal-area weighted (BAW) canopy height.
+4. Target:
+The primary focus or goal of the method is to develop a spatially-explicit solar insolation model for all stream networks and associated riparian buffers within the Columbia Basin to provide a reliable input for GPP modeling efforts and potentially reduce the need for field-based data collection.
+5. Constraints:
+The constraints for the current method include the resource-prohibitive nature of collecting comprehensive field-based solar insolation measurements and the limited availability of high-resolution vegetation height raster datasets with elevation values in meters. However, any vegetation height raster dataset will work as an input for the tool.

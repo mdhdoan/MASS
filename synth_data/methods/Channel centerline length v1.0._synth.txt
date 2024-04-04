@@ -1,0 +1,18 @@
+ 1. Keywords: 
+   - LengthCenter
+   - UAS imagery
+   - Ground-based surveys
+   - Aerial visibility
+   - Stream centerline measurement
+
+2. Abstract:
+This method details the process of calculating mainstem channel centerline length (LengthCenter) using either unmanned aircraft systems (UAS) imagery or ground-based surveys as an alternative when aerial visibility is limited. The necessity for this approach arises from the need to accurately measure stream centerlines in challenging terrains or conditions where traditional methods may be unfeasible.
+
+3. Description:
+The text outlines two primary approaches for calculating LengthCenter: through UAS imagery (considered the primary method) and ground-based surveys (secondary method). The use of UAS imagery provides high-resolution, aerial visuals that enable precise identification and measurement of stream centerlines. However, limitations in aerial visibility may necessitate using ground-based surveys as an alternative for accurate data collection. This secondary method requires on-site personnel to manually survey the area, ensuring appropriate measurements are recorded even when airborne imagery is unavailable or impractical.
+
+4. Target:
+The primary focus of this method is to accurately determine mainstem channel centerline length using advanced technology and traditional surveying techniques for reliable data collection under various conditions.
+
+5. Constraints:
+The main constraint for the UAS imagery method is limited aerial visibility, which could be due to environmental factors or physical obstructions. Ground-based surveys may face constraints related to accessibility, time consumption, and labor intensity. Proper training for personnel conducting ground-based surveys is also essential to ensure accurate data collection.

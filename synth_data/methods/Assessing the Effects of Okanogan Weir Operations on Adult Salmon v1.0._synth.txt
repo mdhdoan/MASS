@@ -1,0 +1,28 @@
+ Sure, I'd be happy to help! Here are five highly relevant keywords related to the text body you provided:
+
+1. Weir operation
+2. Adaptive management
+3. Fish passage
+4. Salmon mortality
+5. Technical oversight group (TOG)
+
+Now, let's move on to the other sections you requested:
+
+2. Abstract:
+This method outlines the necessary steps for adaptively managing the operation of a weir in order to minimize negative effects on migrating salmon and other aquatic resources. Critical situations or conditions may arise that require the termination or modification of the weir's operations, such as evidence of delay in passage, bodily injury, or mortality to fish. Data is collected on various factors related to fish presence, trapping efficiency, and river conditions. The technical oversight group (TOG) plays a key role in consulting on situations that require in-season consultation, including instances of high drop back rates, prolonged holding below the weir, fish impingement or gilling, high salmon mortality, shallow trap depth, and the elimination of three-inch picket spacing after the majority of sockeye have passed.
+
+3. Description:
+The text body describes a method for adaptively managing the operation of a weir as a functional trapping system to prevent or minimize negative effects on migrating salmon and other aquatic resources. Critical situations that may require termination or modification of the weir's operations include evidence of delay in passage, bodily injury, or mortality to fish. Data is collected on various factors related to fish presence, trapping efficiency, and river conditions, including adult fish mortality during weir operations, fish passage, fish presence/absence within 1 rKM upstream and downstream of the weir, trapping efficiency, and river conditions.
+
+The technical oversight group (TOG) is responsible for conducting a process of adaptive management for operation of the weir in cases where data or observations indicate that the weir or its operations may be causing negative effects on fish. There are specific situations that require in-season TOG consultation, including:
+
+* High drop back rates: If the majority of fish estimated during daylight tower, bank, and boat observations approach the weir but return downstream (drop back) with no relative passage during night trapping hours in a 48 hour operational period.
+* Prolonged holding below the weir: If the majority of fish estimated during daylight tower, bank, and boat observations approach the weir and hold directly below the weir for an extended period of time (e.g., 48 hours).
+* Fish impingement or gilling: If five fish of any species are impinged on the upstream side or gilled between pickets of the weir from the downstream side. The TOG may recommend replacement with an alternate picket spacing based on the size class of the fish and specific picket spacing of the panel.
+* High salmon mortality: If 10 salmon mortalities are observed on three consecutive surveys or 25 salmon mortalities are observed on any one survey below the weir. Presently, no information exists on natural mortality in this area for this time of year.
+* Shallow trap depth: If trap depth falls below 8 inches.
+* Elimination of three-inch picket spacing: After the majority of sockeye have passed the weir, the Colville Confederated Tribes (CCT) may consult the TOG and then proceed with eliminating the three-inch picket spacing (by replacing panels or by adding metal grating).
+4. Target:
+The primary focus or goal of this method is to ensure the safe passage of migrating salmon and other aquatic resources during the operation of a weir as a functional trapping system.
+5. Constraints:
+There are several constraints to this method, including the need for ongoing data collection and observation to detect critical situations or conditions that may require termination or modification of the weir's operations. The reliance on the technical oversight group (TOG) for in-season consultation and decision-making may also be a constraint, depending on the availability and expertise of group members. Additionally, the lack of information on natural mortality in the area during the relevant time of year presents a challenge for interpreting data on salmon mortality below the weir.

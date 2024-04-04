@@ -1,0 +1,25 @@
+ 1. Relevant keywords:
+   - River Channel Analysis
+   - GIS Tools (RBT)
+   - High-resolution DEMs (Digital Elevation Models)
+   - LiDAR Remote Sensing
+   - Topographic Surveys
+   - Hydraulic Geometry
+   - Stream Gradient & Sinuosity
+   - Water Level Simulation
+   - Residual Pools Identification
+   - ArcGIS Extension
+
+2. Abstract:
+The River Channel Belief Theory (RBT) is a suite of GIS tools designed for analyzing river channels using high-resolution digital elevation models (DEMs). RBT offers an advanced approach to describe and measure river channels by incorporating data from airborne remote sensing techniques, such as LiDAR, or ground-based topographic surveys. This method simplifies the process of measuring channel geometry, computing stream gradients, identifying residual pools, and simulating water levels for understanding aquatic habitats.
+
+3. Description:
+The RBT is an ArcGIS extension that consists of a collection of tools designed to work within the ESRI ArcGIS Desktop software. It allows users to analyze river channels using high-resolution DEMs derived from airborne remote sensing techniques, such as LiDAR, or ground-based topographic surveys. RBT offers the capability to detrend a DEM for removing the longitudinal valley slope and cut user-defined cross sections through the DEM.
+
+Additionally, it helps define the hydraulic geometry in each cross section (e.g., bankfull width/depth) and compute stream gradient and sinuosity. Users can create long profiles along a channel's length to map longitudinal variations in any of the channel geometry metrics. RBT also allows for varying water levels in a detrended DEM to investigate water depth distribution inside a stream and extent of off-channel habitats still connected to the main stem flow. Lastly, it helps locate residual pools, which can be used to identify fish habitats.
+
+4. Target:
+The primary goal of RBT is to provide advanced tools for river channel analysis within the ArcGIS environment, making it easier for professionals to describe and measure river channels using high-resolution DEMs derived from airborne or ground-based surveys while offering valuable insights into various channel geometry metrics and aquatic habitats.
+
+5. Constraints:
+RBT's use is constrained by the requirement of having ArcGIS installed, as it is an ArcGIS extension. The method also relies on access to accurate and high-resolution DEMs derived from either airborne remote sensing or ground-based topographic surveys.

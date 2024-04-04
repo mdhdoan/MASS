@@ -1,0 +1,12 @@
+ 1. Keywords: Site-level average bankfull width to depth ratio, Field measurements, Modified Channel Morphology, Bankfull Width v2.0, Laser Rangefinder v1.0
+2. Abstract: This method outlines the process of calculating the site-level average bankfull width to depth ratio using field measurements utilized in two collection methods: Modified Channel Morphology: Bankfull Width v2.0 and Measuring Bankfull Width and Height using a Laser Rangefinder v1.0. This approach ensures more accurate and consistent data for assessing riverine systems' characteristics, addressing the challenge of subjective or inaccurate width-to-depth ratio measurements.
+3. Description: The text details a methodology to calculate the site-level average bankfull width to depth ratio based on two distinct approaches:
+
+   A. Modified Channel Morphology: Bankfull Width v2.0 - This method involves identifying and measuring the bankfull width of channels using established geomorphic indicators, ensuring consistency and reliability in data collection.
+
+   B. Measuring Bankfull Width and Height using a Laser Rangefinder v1.0 - Utilizing laser rangefinders for accurate measurement of both bankfull width and height, this method further refines the data acquisition process by incorporating advanced technology to minimize human error.
+
+   By combining these two techniques, the text aims to provide practitioners with a standardized and efficient approach for determining site-level average bankfull width to depth ratios in various riverine systems.
+
+4. Target: Standardizing bankfull width to depth ratio measurements in field research
+5. Constraints: The primary constraint of this method is its reliance on accessible geomorphic indicators or the availability of advanced laser rangefinding equipment, which might not be feasible for every research project due to resource limitations or site-specific challenges.

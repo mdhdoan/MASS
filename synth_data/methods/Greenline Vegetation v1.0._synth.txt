@@ -1,0 +1,18 @@
+ Sure, I'd be happy to help! Here are five relevant keywords for the text body you provided:
+
+1. PACFISH/INFISH riparian sampling protocol
+2. Greenline vegetation
+3. Streamside vegetation
+4. Vegetation and ground cover
+5. Dynamic interface of stream and terrestrial ecosystems
+
+Now, let's move on to the other sections:
+
+2. Abstract:
+In 1998, two programs called PACFISH and INFISH were developed to address monitoring needs in the upper Columbia River Basin. These programs led to a method for measuring greenline vegetation, which is the first perennial vegetation on or near the water's edge. Greenline data is used to describe vegetation and ground cover adjacent to streams, as it represents the dynamic interface of stream and terrestrial ecosystems. This method is important because it helps researchers understand the impact of aquatic and riparian environments on fish populations.
+3. Description:
+The text describes a method for measuring greenline vegetation, which was derived from the PACFISH/INFISH riparian sampling protocol. The greenline is defined as the first perennial vegetation on or near the water's edge, and it is an important location to measure because it is the dynamic interface of stream and terrestrial ecosystems. The method includes instructions for measuring greenline vegetation, which can help researchers describe vegetation and ground cover adjacent or nearest the stream. This information is important for understanding the impact of aquatic and riparian environments on fish populations.
+4. Target:
+The primary focus of this method is to provide a standardized way to measure and describe greenline vegetation in the upper Columbia River Basin.
+5. Constraints:
+One constraint of this method is that it may not be applicable to all aquatic and riparian monitoring needs, as it was specifically developed for the upper Columbia River Basin. Additionally, the method relies on the availability of perennial vegetation on or near the water's edge, which may not be present in all stream environments.

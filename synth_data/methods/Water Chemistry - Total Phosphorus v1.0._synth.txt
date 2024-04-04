@@ -1,0 +1,18 @@
+ Sure, I'd be happy to help! Here are five relevant keywords related to the method described in the text body:
+
+1. Monitoring strategy
+2. Anadromous salmonids
+3. Water quality attributes
+4. Evolutionary Significant Unit (ESU)
+5. Data Quality Level A
+
+Now, let's move on to the other sections you requested:
+
+2. Abstract:
+The Columbia River Basin has seen a significant decline in anadromous salmonids over the past 30 years, with several populations now protected under the Endangered Species Act (ESA). In order to address this issue, a comprehensive monitoring strategy needs to be implemented to reduce uncertainties surrounding the declines and develop effective recovery plans. The method described in this text involves implementing a continuous monitoring program for water quality attributes such as temperature, turbidity, conductivity, pH, dissolved oxygen, nitrogen, and phosphorous at specific sites located at the downstream end of each population or subpopulation's distribution. This approach allows for assessments of species and their habitat at multiple spatial scales, from specific reaches to Evolutionary Significant Units (ESUs), which are important components of the evolutionary legacy of the species. The accuracy of the water quality instruments used in this method meets Data Quality Level A as defined by the Oregon Watershed Plan Water Quality Monitoring Technical Guidebook (2001).
+3. Description:
+The text describes a comprehensive monitoring strategy for anadromous salmonids in the Columbia River Basin, which have exhibited significant declines over the past 30 years. The method involves continuously monitoring seven water quality attributes at integrator sites located at the downstream end of each population or subpopulation's distribution. These attributes include temperature (weekly and daily maximums), turbidity, conductivity, pH, dissolved oxygen (DO), nitrogen, and phosphorous. The methods for continuous monitoring of these attributes follow the manufacturers' guidelines for deployment and calibration and are co-located with flow gauges operated by the United States Geological Service (USGS) or Washington State Department of Ecology (WDOE). This allows investigators to assess the effect of stream flow upon the water quality attributes. The accuracy of the water quality instruments meets Data Quality Level A as defined by the Oregon Watershed Plan Water Quality Monitoring Technical Guidebook (2001).
+4. Target:
+The primary focus or goal of this method is to develop a comprehensive monitoring strategy for anadromous salmonids in the Columbia River Basin, which have exhibited significant declines over the past 30 years. The method aims to reduce uncertainties surrounding the declines and develop effective recovery plans by continuously monitoring water quality attributes at specific sites located at the downstream end of each population or subpopulation's distribution.
+5. Constraints:
+The constraints for this method include the need for accurate and reliable water quality instruments that meet Data Quality Level A as defined by the Oregon Watershed Plan Water Quality Monitoring Technical Guidebook (2001). Additionally, the monitoring program must be able to assess the effect of stream flow upon the water quality attributes, which requires co-locating water quality monitoring stations with associated flow gauges operated by the USGS or WDOE. Finally, the monitoring program must be able to assess species and their habitat at multiple spatial scales, from specific reaches to Evolutionary Significant Units (ESUs), which are important components of the evolutionary legacy of the species.

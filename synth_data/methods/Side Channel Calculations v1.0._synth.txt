@@ -1,0 +1,18 @@
+ 1. Relevant keywords:
+   - Side channel metrics
+   - Spatial extent
+   - Total side channel area
+   - Proportion of side channel area
+   - Aerial proportion of pools
+
+2. Abstract:
+The text discusses a set of methods for calculating various spatial extents related to side channels in a water body. These metrics include total side channel area, proportion of side channel area to reach area, and aerial proportion of pools for qualifying side channels. By analyzing these metrics, researchers can better understand the ecological impact of side channels on the overall health of a water system.
+
+3. Description:
+The text outlines three specific metrics used in the analysis of side channel spatial extent. The first metric, total side channel area, is calculated as the sum of qualifying (16-49% of flow) and non-qualifying (<16% of flow) side channels. The second metric, proportion of side channel area to reach area, represents the percentage of the total reach area (wetted area plus non-qualifying side channels) that is occupied by side channels, both qualifying and non-qualifying. The third metric, aerial proportion of pools for qualifying side channels, measures the percentage of the area of qualifying channels that consists of slow/pool areas. These metrics provide valuable insights into the ecological significance of side channels in a water system.
+
+4. Target:
+The primary focus of this method is to calculate and analyze key spatial extents related to side channels to assess their impact on the overall health of a water system.
+
+5. Constraints:
+There are no explicit constraints mentioned in the text; however, the calculation of these metrics relies on accurate data collection and analysis of side channel areas within the water system.

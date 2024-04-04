@@ -1,0 +1,9 @@
+ 1. Keywords: bank stability, erosional, depositional, transects, wadeable Lotic systems, AIM National Monitoring Framework.
+
+2. Abstract: This method describes the process of determining and evaluating bank stability in wadeable Lotic systems. By taking measurements at 11 main and 10 intermediate transects on both left and right banks, one can assess whether the bank is experiencing erosion or deposition. The AIM National Monitoring Framework provides additional considerations for Alaska to ensure accurate and comprehensive evaluations. This method helps in understanding the health of a water body and informing any necessary remediation efforts.
+
+3. Description: The text outlines a specific method for assessing bank stability, which is critical in monitoring the health of wadeable Lotic systems. By taking measurements at 11 main and 10 intermediate transects on both left and right banks, one can evaluate whether the bank is experiencing erosion or deposition. The AIM National Monitoring Framework provides additional guidance for this process in Alaska. The method may be adjusted by adding more plots to increase accuracy.
+
+4. Target: The primary focus of this method is to determine and evaluate bank stability in wadeable Lotic systems, which can help inform decisions regarding the health and management of these water bodies.
+
+5. Constraints: This method requires access to the water body and its banks for measurement taking, as well as an understanding of the AIM National Monitoring Framework for Alaska. There may be limitations in certain weather conditions or seasons, and safety precautions must be taken when working near water bodies. Additional resources (e.g., personnel, equipment) may be necessary to add more plots for increased accuracy.

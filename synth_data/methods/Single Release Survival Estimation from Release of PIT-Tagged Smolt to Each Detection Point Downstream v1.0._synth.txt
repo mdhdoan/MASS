@@ -1,0 +1,9 @@
+ 1. Keywords: CJS model, open capture single-release, survival estimation, steelhead out-migrants, PIT-array.
+
+2. Abstract: This text describes the use of a specific method for estimating survival and its variance for steelhead out-migrants at different stages of their journey. The CJS model, first introduced in 1964 by Cormack and later refined by Jolly and Seber in 1965, is used to analyze data collected from a PIT-array system. This method allows for the estimation of survival rates from release at the steelhead out-migrant stage to the PIT-array, from the PIT-array to the trap, from the trap to Bonneville Dam, and from Bonneville Dam to the Columbia River estuary.
+
+3. Description: The text details the use of an open capture single-release CJS model for estimating survival rates and variances at various stages of steelhead out-migration. This method was applied to data collected from a PIT-array system, which allowed for the tracking of individual fish as they moved through different stages of their migration. The CJS model is particularly useful in this context as it allows for the estimation of survival rates and variances even when not all individuals are detected at each stage of the migration. This is achieved by using the open capture single-release design, where individual fish are released into the population after being captured and marked.
+
+4. Target: The primary focus of this method is to estimate survival rates and variances for steelhead out-migrants at different stages of their journey, from release to various key points along their migration route.
+
+5. Constraints: One constraint of this method is that it requires a PIT-array system to be in place to track individual fish as they move through the different stages of migration. Additionally, the open capture single-release design assumes that the population is closed and there is no immigration or emigration, which may not always be the case in real-world scenarios.

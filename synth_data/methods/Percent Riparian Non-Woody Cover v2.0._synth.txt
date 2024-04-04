@@ -1,0 +1,10 @@
+ 1. Relevant keywords: Riparian coverage estimation, Transect measurements, Non-woody cover, CHaMP method, Peck et al. (2001) methods
+    (EMAP).
+
+2. Abstract: This text outlines a method for estimating non-woody riparian coverage using the CHaMP Riparian Structure Method, which is based on the Peck et al. (2001) methods from the EMAP. The process involves measuring percentages of groundstory, understory, and canopy cover at 5 evenly spaced transects along both banks of a 10mx10m plot. This information is crucial for understanding and managing riparian ecosystems.
+
+3. Description: The text describes a method for estimating non-woody riparian coverage using the CHaMP Riparian Structure Method, which adheres to the Peck et al. (2001) methods from the EMAP. Measurements of percentages of groundstory, understory, and canopy cover are taken at 5 transects on both banks within a 10mx10m plot starting at bankfull. The purpose of these measurements is to estimate non-woody riparian coverage, which is essential for understanding and managing riparian ecosystems. The method provides standardization and accuracy in measuring and analyzing the data collected from the transects.
+
+4. Target: The primary focus or goal of this method is to accurately estimate non-woody riparian coverage through standardized measurements, analysis, and calculation.
+
+5. Constraints: This method requires a consistent and systematic measurement process, with clear definitions for groundstory, understory, and canopy cover to ensure accuracy and reliability in the estimation of non-woody riparian coverage. Additionally, the transect locations must be evenly spaced and accurately measured to maintain the integrity of the data collected.

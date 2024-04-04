@@ -1,0 +1,9 @@
+ 1. Relevant keywords: stream sampling, field activities, regulations, sample transport, exotic species prevention.
+
+2. Abstract: This text describes the importance of careful planning and execution of stream sampling activities by field teams. The method outlines necessary pre- and post-sampling procedures to ensure regulatory compliance, minimize transfer of invasive species, and maintain accurate sample tracking. Adhering to this method is crucial for maintaining data integrity and mitigating environmental risks in large-scale water quality monitoring efforts.
+
+3. Description: The text details various activities conducted by field teams at a base location before and after visiting stream sampling sites. These tasks include preparing necessary equipment, confirming access permissions, and ensuring correct sample packaging and shipping. Compliance with State, Federal, and international regulations is essential to prevent the spread of invasive species, waterborne pathogens, and other contaminants during transport. The method emphasizes minimizing potential risks associated with large geographic sampling areas and highlights the importance of proper documentation and communication between field teams.
+
+4. Target: Stream sampling activities optimization and compliance for large-scale monitoring programs
+
+5. Constraints: This method requires significant resources, including personnel, equipment, logistics management, and regulatory knowledge to successfully implement. Adhering to strict timelines, budget constraints, and coordinating with various governmental agencies can pose challenges in executing the method effectively.

@@ -1,0 +1,18 @@
+ Sure, I'd be happy to help! Here are five highly relevant keywords related to the method described in the text:
+
+1. Genetic analysis
+2. Parentage based tagging (PBT)
+3. Snake River fall Chinook salmon
+4. Natural-origin population recovery
+5. Hatchery fish database comparison
+
+Now, let's move on to your other questions:
+
+2. Abstract:
+The method described in the text involves using genetic analysis and parentage based tagging (PBT) to determine the proportions of hatchery and natural-origin fall Chinook salmon that spawn in a specific reach of the Snake River. This information is crucial for promoting a natural-origin population of Snake River fall Chinook salmon for recovery purposes, with a target of over 85% natural fish. The method involves collecting fall Chinook spawner carcasses and conducting genetic analyses of their tissue to determine whether they are hatchery or natural fish. Since 2015, all hatchery fall Chinook salmon in the Snake River basin have been analyzed for PBT. The results of tissue analysis can be compared to the database of hatchery fish to make this determination.
+3. Description:
+The method described in the text involves collecting fall Chinook spawner carcasses and conducting genetic analyses of their tissue to determine whether they are hatchery or natural-origin fish. The use of PBT allows for a more accurate determination of the origin of the fish, as it analyzes genetic markers inherited from both parents. Since 2015, all hatchery fall Chinook salmon in the Snake River basin have been analyzed for PBT, and the results of tissue analysis can be compared to this database to determine which fish are hatchery and natural. This information is crucial for promoting a natural-origin population of Snake River fall Chinook salmon for recovery purposes, with a target of over 85% natural fish.
+4. Target:
+The primary focus or goal of the method described in the text is to determine the proportions of hatchery and natural-origin fall Chinook salmon that spawn in a specific reach of the Snake River, with a target of over 85% natural fish.
+5. Constraints:
+One constraint for the current method is the unknown proportions of hatchery and natural-origin fish that spawn in the focus reach of the Snake River between Pittsburg Landing (rkm 345) and Hells Canyon Dam (rkm 398). Additionally, genetic analysis and PBT require specialized equipment and expertise, which may be limited or unavailable in certain areas.

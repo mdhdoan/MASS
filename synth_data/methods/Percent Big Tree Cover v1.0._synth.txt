@@ -1,0 +1,9 @@
+ 1. Keywords: canopy coverage, aerial estimates, DBH (diameter at breast height), transects, riparian structure method.
+
+2. Abstract: The method described is an approach to estimating the aerial coverage of large trees in a given area. This information is crucial for understanding the structure and health of forests, particularly in riparian zones. By using visual estimates taken at regular intervals along transects, researchers can calculate the percentage of aerial cover from big trees, contributing to a comprehensive analysis of the riparian structure.
+
+3. Description: The method consists of estimating the aerial coverage from big trees (DBH > 0.3 m) in the canopy layer (trees >5 m tall). These estimates are taken at five predetermined transects within a 10m x 10m plot on both banks (RB and LB) of a water body, beginning at bankfull. The percent of aerial cover is determined based on the shadow that would be cast if the sun were directly overhead. All site-wide estimates are averaged to arrive at an overall percentage of big tree cover. The method is part of the CHaMP - Riparian Structure Method, which provides a framework for measuring and analyzing riparian forest structure.
+
+4. Target: The primary goal of this method is to calculate the percent of aerial cover from large trees in a given area, contributing to a better understanding of riparian zone structure and health.
+
+5. Constraints: This method relies on visual estimates, which may introduce some degree of subjectivity and variability. Adhering to standardized procedures and training for data collectors can help minimize these issues but cannot be entirely eliminated.

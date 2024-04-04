@@ -1,0 +1,9 @@
+ 1. Keywords: Pacific Anadromous Fish Strategy (PACFISH), Inland Fish Strategy (INFISH), riparian monitoring, aquatic monitoring, upper Columbia River Basin.
+
+2. Abstract: The development of the Pacific Anadromous Fish Strategy (PACFISH) and Inland Fish Strategy (INFISH) programs in 1998 was a significant step towards addressing aquatic and riparian monitoring needs throughout the upper Columbia River Basin. These strategies were derived from a specific riparian sampling protocol, which provides detailed instructions for describing the vegetation and ground cover in riparian areas. This method is essential for effective management and conservation efforts in these critical habitats.
+
+3. Description: The text body discusses the creation of two programs, PACFISH and INFISH, in 1998 to address monitoring needs in the upper Columbia River Basin's aquatic and riparian areas. These programs were developed based on a sampling protocol specifically designed for riparian zones, which includes detailed instructions for characterizing vegetation and ground cover. This methodology is crucial for understanding and preserving these ecologically sensitive areas, as it allows managers to evaluate the health of the riparian ecosystem and make informed decisions regarding conservation efforts.
+
+4. Target: The primary focus or goal of this method is to establish a comprehensive approach for monitoring and managing aquatic and riparian habitats in the upper Columbia River Basin, ensuring their preservation and promoting sustainable use.
+
+5. Constraints: Potential constraints for this method could include limited resources, such as funding or personnel, challenges in accessing remote or difficult-to-reach riparian areas, and the need for ongoing maintenance and updates to the monitoring protocol to account for changes in environmental conditions or species composition.

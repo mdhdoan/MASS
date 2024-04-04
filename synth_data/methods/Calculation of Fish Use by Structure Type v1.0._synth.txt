@@ -1,0 +1,9 @@
+ 1. Relevant keywords: fish sampling, stream structures, restoration, juvenile salmonid abundance, snorkeling, electrofishing.
+
+2. Abstract: This method describes the process of estimating the abundance of juvenile salmonids in streams using two sampling methods: snorkeling and electrofishing. The method involves observing and recording the number of fish utilizing various structures within the stream, which can provide insights into the preference of different structures by fish. This information is useful for reporting fish utilization of restoration efforts, as structures installed as part of restoration can significantly impact fish populations.
+
+3. Description: The text describes a method for estimating juvenile salmonid abundance in streams using snorkeling (Estimating Instream Juvenile Salmonid Abundance Using Snorkeling v1.0) and electrofishing (Estimating Instream Juvenile Salmonid Abundance Using Electrofishing v1.0). The method focuses on observing fish utilizing structures within the stream, including natural and placed wood, natural and placed boulders, and natural and created off-channel areas. The number of fish observed using each structure type is summed and reported as (number of fish / structure type). This information can help determine the preference of different structures by fish and report fish utilization of restoration efforts.
+
+4. Target: The primary focus or goal of this method is to estimate juvenile salmonid abundance in streams using snorkeling and electrofishing methods, while also providing insights into fish preference for different stream structures installed as part of restoration efforts.
+
+5. Constraints: There are no explicit constraints mentioned in the text; however, the success of this method depends on several factors, including water clarity, fish behavior, and the accuracy and consistency of observations made during sampling.

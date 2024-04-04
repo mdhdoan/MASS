@@ -1,0 +1,11 @@
+ 1. Keywords: Nonrecording gages, observation, stage recording, staff gage, wire-weight gage.
+
+2. Abstract: The use of nonrecording gages for stage recording is a method that involves the systematic observation of a physical gage to measure water level in rivers or streams. This technique is essential in situations where automatic recording devices are not available or feasible due to financial constraints. Regular observations made by trained personnel help provide accurate data, which is vital for flood forecasting and management.
+
+3. Description: Nonrecording gages are used for stage recording through direct observation by a trained observer at regular intervals. The method highlights two main types of nonrecording gages - staff or wire-weight gages - commonly employed at nonrecording stations. These gages are typically read twice daily, with additional readings taken during periods of rapidly changing water levels.
+
+The observer records and reports these readings to the headquarters using specific report cards and record books, such as those used by the U.S. Geological Survey. Timely review of weekly report cards at headquarters ensures prompt identification and resolution of any problems or difficulties encountered in the field. Moreover, regular visits by a hydrographer to nonrecording stream-gaging stations are crucial for maintaining accuracy and ensuring the observer's continued dedication to the task.
+
+4. Target: The primary goal of this method is to provide accurate stage recording data through direct observation when automatic recording devices are not available or feasible.
+
+5. Constraints: This manual method relies on human observers, which can lead to potential issues such as inconsistency in readings due to human error, lack of availability during extreme weather conditions, and the requirement for regular supervision and quality control checks to ensure accuracy and reliability of data.

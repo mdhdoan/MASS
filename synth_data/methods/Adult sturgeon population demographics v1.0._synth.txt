@@ -1,0 +1,9 @@
+ 1. Keywords: sturgeon population trends, data analysis, white sturgeon, Kootenai River, Kootenay Lake, population dynamics, abundance, mortality rate, survival rate, growth, maturation.
+
+2. Abstract: This text discusses the importance of understanding and analyzing trends in the adult sturgeon population to aid in the recovery efforts of the species. A comprehensive data analysis is conducted on the Kootenai River and Kootenay Lake white sturgeon population using data from 1977 to the present. The objectives of this analysis include determining abundance, mortality rate, survival rate, growth, and maturation of the sturgeon population. This information will serve as a benchmark for comparing the population's status after recovery measures are in place.
+
+3. Description: The text outlines a data analysis method used to evaluate the state of the Kootenai River and Kootenay Lake white sturgeon population. The goal of this analysis is to provide a comprehensive and current picture of the population dynamics, abundance, mortality rate, survival rate, growth, and maturation of the white sturgeon in the Kootenai River and Kootenay Lake. This information serves as a benchmark for comparing the population's status after recovery measures are implemented. The data used in this analysis spans from 1977 to the present, allowing for an extensive view of the population trends.
+
+4. Target: The primary focus of this method is to provide a comprehensive and current picture of the Kootenai River and Kootenay Lake white sturgeon population dynamics and status.
+
+5. Constraints: The constraints of this method include the availability and accuracy of data collected from 1977 to the present, as well as the limitations in the analysis techniques used. Additionally, the success of this method is dependent on the effectiveness of recovery measures implemented for the white sturgeon population.

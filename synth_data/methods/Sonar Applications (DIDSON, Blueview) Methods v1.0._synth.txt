@@ -1,0 +1,22 @@
+ 1. Relevant keywords:
+   - DIDSON unit
+   - Hydroacoustics
+   - Sonar technologies
+   - Data analysis
+   - Salmon migration
+
+2. Abstract:
+The DIDSON (Down-looking Imaging Sonar) system is used for monitoring salmon migration by collecting hydroacoustic data 24/7 during the migration period. The data is analyzed to count fish images and validate the accuracy of the DIDSON counts with underwater optical camera counts. This method helps in assessing salmon passage, species identification, and resource management by comparing it with Blueview sonar technology operating simultaneously at the same site.
+
+3. Description:
+The DIDSON unit is deployed to monitor the salmon migration period, collecting hydroacoustic data continuously for 24 hours a day, seven days a week. The collected data is stored on high-capacity storage mediums available on-site. The analysis of DIDSON files involves counting fish images, similar to analyzing video records.
+
+The technique's evaluation as a resource management tool is based on validating the DIDSON counts with underwater optical camera counts for correct species identification and salmon passage counts when both systems operate concurrently. Moreover, accuracy and precision of the DIDSON salmon escapement estimates are also considered in the evaluation process.
+
+In some cases, Blueview sonar may be operated simultaneously at the current DIDSON monitoring site to provide a side-by-side comparison of the two sonar technologies, assisting in choosing the best fit for specific monitoring purposes.
+
+4. Target:
+The primary goal of this method is to assess and validate salmon migration patterns, species identification, and resource management tool efficiency by comparing DIDSON and Blueview sonar technology performance during concurrent operations.
+
+5. Constraints:
+Some constraints for this method include ensuring the proper functioning and maintenance of the DIDSON unit and underwater optical camera systems during the salmon migration period. Additionally, accurate synchronization and seamless integration of both sonar technologies are required for a fair side-by-side comparison and validation process.

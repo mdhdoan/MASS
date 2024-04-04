@@ -1,0 +1,14 @@
+ Sure, I'd be happy to help! Here are the five highly relevant keywords related to the method:
+
+1. MS Access database
+2. Summary statistics
+3. Paired t-test
+4. Fish passage projects
+5. Biological significance
+
+Now, let me provide a brief overview of each section:
+
+2. Abstract: This text describes a method for evaluating the effectiveness of fish passage projects using an MS Access database to compute summary statistics and perform a paired t-test. The method uses a combination of statistical analysis and biological significance indicators, such as a 20% increase in population density, to determine whether the projects are successful. The hypothesis being tested is whether the mean difference in fish passage success is greater than zero.
+3. Description: The text begins by describing how field data are uploaded into an MS Access database to compute summary statistics that reflect habitat conditions at the reach scale. These summary statistics were selected based on their high signal-to-noise ratios and include variables such as juvenile fish density, spawner density, and redd density. The data will be tested using a paired t-test, which compares control and impact reaches of individual streams. To account for the possibility that statistically significant differences may not be biologically meaningful, the text also includes an indicator of biological significance: a 20% increase in populations between the mean yearly difference for the 10 sampled fish passage projects. The conclusions will be based on the differences of the paired scores for the 10 sampled projects and will be tested in Years 1, 2, and 5. If the results are significant in any of those years, the fish passage projects will be considered effective.
+4. Target: The primary focus or goal of this method is to evaluate the effectiveness of fish passage projects by analyzing summary statistics and performing a paired t-test.
+5. Constraints: One constraint for this method is that it may yield very small differences that are statistically significant but not biologically meaningful. To address this constraint, the text includes an indicator of biological significance based on a 20% increase in populations between the mean yearly difference for the 10 sampled fish passage projects. Another constraint is that the conclusions will be based on the differences of the paired scores for the 10 sampled projects, which may not be representative of all fish passage projects. Additionally, the testing will only occur in Years 1, 2, and 5, which may not capture long-term trends or changes.

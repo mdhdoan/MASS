@@ -1,0 +1,9 @@
+ 1. Relevant keywords: stream measurement, slope and bearing, hand level, measuring rod, compass, waded streams.
+
+2. Abstract: This method provides a systematic approach to measuring the slope and bearing of the main channel in waded streams during data collection events (DCE). The necessity for this method arises from the need to gather accurate topographical information about stream sites, which is crucial for various purposes such as flood prediction, water resource management, and habitat conservation. This method employs simple tools like a hand level, measuring rod, and compass, making it accessible and cost-effective.
+
+3. Description: The method described in the text involves two crew members who work together to measure the slope and bearing of at least 20 segments of the stream site. One crew member, referred to as the 'rodders', holds a measuring rod vertically in position while the other crew member, the 'sighter', uses a hand level and compass to sight on the rodder and record data. The process requires careful incremental measurements across each segment of the stream site. It is essential that those who perform this method receive proper training beforehand to ensure accuracy and safety.
+
+4. Target: The primary goal of this method is to accurately measure the slope and bearing of waded streams during DCEs, providing vital topographical data for various applications in environmental management and conservation.
+
+5. Constraints: This method requires careful calibration of tools and precise measurement techniques. Additionally, it relies on good weather conditions and clear visibility for accurate readings with the hand level and compass. The need for two trained crew members may also present a logistical challenge.

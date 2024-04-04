@@ -1,0 +1,9 @@
+ 1. Relevant keywords: PIT tag antennas, fish ladders, minimum passage time, detection times, passage problems.
+
+2. Abstract: The use of PIT (Passive Integrated Transponder) tag antennas at various locations in fish ladders allows for the estimation of a minimum passage time for fish. This is done by subtracting the first detection time at a dam from the last detection time at a dam. Although this only covers a small distance of the total passage distance, it can be useful in identifying potential passage issues or problems (e.g. Murauskas et al., 2014). This method provides valuable data for monitoring fish passage and ensuring the effective operation of fish ladders.
+
+3. Description: PIT tag antennas are commonly placed at multiple points within fish ladders to detect the presence of tagged fish. By recording the first and last detection times at a dam, an estimate of minimum passage time can be calculated. This method is useful as it can help uncover potential problems in the passage of fish through dams. However, it should be noted that this only covers a small portion of the total passage distance. Despite this limitation, the data obtained from PIT tag antennas can contribute significantly to the monitoring and management of fish passages.
+
+4. Target: The primary focus of this method is to estimate minimum passage time for fish passing through dams using PIT tag antenna detection times, in order to identify potential problems in the passage process.
+
+5. Constraints: A key constraint of this method is that it only provides data for a small section of the total passage distance, potentially limiting its ability to detect issues in other areas of the fish ladder. Additionally, the successful implementation of this method relies on the availability and proper functioning of PIT tag antennas at various locations within the fish ladder.

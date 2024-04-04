@@ -1,0 +1,20 @@
+ Sure, I'd be happy to help! Here are the five highly relevant keywords that I have identified from the text body:
+1. Post-fishery analyses
+2. Coded-wire tags (CWT)
+3. Visual stock identification (VSI)
+4. Scales samples
+5. In-season management
+
+Now, let's move on to the other sections you have requested:
+
+2. Abstract:
+This method describes a post-fishery analysis technique that uses coded-wire tags and visual stock identification to estimate the age structure and stock composition of landed salmon fisheries. The methodology involves expanding individual observations using tag rates and sample rates, allowing for an estimation of unsampled salmon stocks in the fishery. Scales samples are collected during fishery sampling and sent to agency labs for aging and expansion to landings. This information is used to compare fishery performance among years and aid in-season management, particularly when ESA-listed stocks of salmon are part of a mixed-stock fishery.
+
+3. Description:
+The methodology begins by using coded-wire tags (CWT) and sample rates to expand individual observations of CWTs to account for unsampled salmon stocks in the fishery. Age data, by stocks, are also expanded to unsampled individuals. The stock and age composition of landings post-season are then used to describe and compare fishery performance among years. Salmon that are inspected during fisheries sampling receive a visual stock identification (VSI), based on phenotypic characteristics and fin marks. Stock calls are confirmed with recovered coded-wire tags, when possible, and used to make corrections. From the proportion of correct and incorrect VSIs, correction factors are applied to non-CWT VSIs. Scales samples that are collected during fishery sampling are sent to agency labs for aging, recording, and expanding to landings. Stock calls and corrections are tracked closely when an ESA-listed stock of salmon is part of a mixed-stock fishery to aid in-season management.
+
+4. Target:
+The primary focus or goal of this method is to provide an accurate estimation of the age structure and stock composition of landed salmon fisheries, allowing for yearly comparisons and in-season management decisions.
+
+5. Constraints:
+One constraint for this method could be the availability and accuracy of coded-wire tags (CWT) in the fishery. Additionally, the success of visual stock identification (VSI) methods may depend on the expertise of those conducting the inspections and the clarity of phenotypic characteristics and fin marks. Finally, the timeliness and accuracy of scales sample processing and aging in agency labs could impact the effectiveness of this method.

@@ -1,0 +1,18 @@
+ 1. Relevant keywords:
+   - Browse evaluation
+   - Livestock browse
+   - Wildlife browse
+   - Revegetation treatments
+   - Adaptive management
+
+2. Abstract:
+Browse evaluation is a method used to monitor the impact of livestock and wildlife browsing on revegetation treatments such as planted trees and shrubs within a project area. This process involves observing and recording the severity and location of browse activity, which can then inform maintenance requirements for browse exclosures and adaptive management strategies in restored floodplain areas. By closely monitoring browse activity, this method helps ensure the success of revegetation efforts and promotes sustainable land management practices.
+
+3. Description:
+Browse evaluation is a critical component of post-treatment monitoring for restoration projects focused on planted trees and shrubs in areas where livestock or wildlife are present. By assessing browse severity and location, managers can identify potential issues with browsing intensity and make informed decisions about maintenance requirements for browse exclosures. Additionally, this information can be used to inform adaptive management strategies in restored floodplain areas, ensuring that restoration efforts are successful and sustainable over time. Browse evaluation helps address the challenge of balancing the needs of livestock and wildlife with the goals of restoration projects, ultimately promoting healthy ecosystems and sustainable land use practices.
+
+4. Target:
+The primary focus of browse evaluation is to assess and monitor the impact of browsing on revegetation treatments in order to inform management decisions and promote sustainable land use practices.
+
+5. Constraints:
+Constraints for browse evaluation may include limited resources for monitoring and data collection, difficulty accessing remote or difficult-to-reach project areas, and challenges in accurately quantifying browsing intensity in complex ecosystems. Additionally, variability in browsing behavior among different livestock and wildlife species can make it difficult to develop universally applicable monitoring protocols.

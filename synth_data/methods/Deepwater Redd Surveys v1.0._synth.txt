@@ -1,0 +1,9 @@
+ 1. Keywords: deepwater fall Chinook salmon, spawning sites, annual total, long-term monitoring, Snake River
+   
+2. Abstract: The importance of tracking and monitoring the fall Chinook salmon population in the Snake River is highlighted through the use of a standardized method. By sampling the same 25 deepwater fall Chinook salmon spawning sites each year, researchers can gather data on the number of redds constructed annually. This long-term monitoring effort allows for informed decision-making and resource allocation in conservation efforts for this population.
+
+3. Description: The text details a specific method used to monitor the Snake River fall Chinook salmon population. Each year, 25 deepwater spawning sites are selected and thoroughly sampled. During sampling, counts are made at each site to track the number of redds constructed. Once all sites have been surveyed, the individual counts are summed to obtain an annual total for the sites surveyed. This method provides valuable data for long-term monitoring purposes, helping researchers understand population trends and facilitating effective conservation strategies.
+
+4. Target: The primary focus of this method is to track and monitor the number of redds constructed annually by deepwater fall Chinook salmon in the Snake River.
+
+5. Constraints: This method requires consistent funding and resources for annual sampling, as well as a thorough understanding of suitable spawning sites for the Snake River fall Chinook population. Additionally, it assumes that the selected 25 spawning sites are representative of the overall population and that any changes in these sites do not significantly impact the data's validity.

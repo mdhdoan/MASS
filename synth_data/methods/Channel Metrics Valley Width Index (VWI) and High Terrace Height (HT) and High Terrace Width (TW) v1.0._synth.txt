@@ -1,0 +1,9 @@
+ 1. Keywords: lateral stream movement, constraining terraces, land use features, stream channel, spatial proximity.
+
+2. Abstract: This text describes a method used to understand and identify the factors that restrict the lateral movement of a stream. The necessity for this method arises from the need to manage streams and their surrounding environments effectively. By analyzing both physical features like terraces and hillslopes as well as man-made land use elements such as roads, railways, and dikes, this approach ensures that all relevant constraints are considered. This holistic understanding of stream constriction is crucial for proper watershed management and flood control.
+
+3. Description: The text discusses the various features that may limit a stream's lateral movement within its valley. These can be natural topographical elements like high terraces or hillslopes, or man-made land use features such as road beds, railways, dikes, and other similar structures. For these constraining elements to impact the stream channel, they must be situated both close to and significantly above the channel itself. The text emphasizes the importance of considering both types of constraints when evaluating a stream's behavior and potential flood risk.
+
+4. Target: The primary focus of this method is to identify and analyze the various features that restrict a stream's lateral movement, thereby enabling better watershed management and flood control strategies.
+
+5. Constraints: The effectiveness of this method relies on accurately identifying and mapping all relevant constraining terraces and land use features in close proximity to the stream channel. Inaccurate data or insufficient spatial resolution could lead to missed constraints, impacting the overall efficacy of the method.

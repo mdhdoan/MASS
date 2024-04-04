@@ -1,0 +1,18 @@
+ 1. Keyword list: 
+   * Bank erosion
+   * Measurement
+   * Transect
+   * Lineal extent
+   * Methods (ID: 1579, 4073, 4100)
+
+2. Abstract:
+Bank erosion is a critical aspect of understanding stream health and stability. The method described here focuses on measuring bank erosion by assessing the lineal extent along both left and right banks at predefined transects. This approach allows for a systematic evaluation of bank erosion using established Method IDs (1579, 4073, and 4100). By accurately quantifying bank erosion, researchers can better understand stream dynamics, inform conservation efforts, and manage potential risks associated with unstable banks.
+
+3. Description:
+Bank erosion measurement is based on the proportion of a reach that contains actively eroding stream banks. At each transect, which follows Method IDs 1579 or 4073, the lineal extent (Method ID: 4100) of erosion along both the left and right banks is measured in meters. The use of specific method identifiers ensures standardization and consistency across measurements, facilitating data comparison and analysis.
+
+4. Target:
+The primary focus of this method is to accurately quantify bank erosion by measuring the lineal extent along the banks at predefined transects using established methods (IDs 1579, 4073, and 4100).
+
+5. Constraints:
+The main constraint for this method is ensuring access to the stream bank area to perform accurate measurements. Challenges like restricted access, safety concerns, or adverse weather conditions can impact data collection. Additionally, it's essential to maintain consistency in measurement techniques and method ID application to ensure reliable results and valid comparisons between different sites or time points.

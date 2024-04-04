@@ -1,0 +1,9 @@
+ 1. Keywords: Environmental Assessment Program, Water Quality Studies Unit Standard Operating Procedure, Total Dissolved Gas (TDG), freshwater, spot measurements, continuous monitoring, barometric pressure, percent of saturation.
+
+2. Abstract: The Environmental Assessment Program (EAP) has established a Water Quality Studies Unit Standard Operating Procedure (SOP) for monitoring Total Dissolved Gas (TDG) in freshwater. This SOP is crucial to ensure standardization and accuracy in TDG measurement, which is essential for evaluating water quality. The procedure describes methods for both spot measurements and long-term continuous monitoring of TDG pressure, as well as the measurement of barometric pressure data to calculate TDG as a percentage of saturation.
+
+3. Description: This SOP, titled "Water Quality Studies Unit Standard Operating Procedure (SOP) for Monitoring Total Dissolved Gas (TDG) in Freshwater," provides detailed instructions on how to conduct TDG monitoring in freshwater. It begins by emphasizing the importance of following this SOP for all TDG monitoring activities. The SOP then explains the procedures for spot measurements and long-term continuous monitoring of TDG pressure, highlighting the need to measure barometric pressure data to calculate TDG as a percentage of saturation. This information is crucial for assessing water quality and ensuring compliance with environmental regulations.
+
+4. Target: The primary focus of this SOP is to establish standardized procedures for monitoring TDG in freshwater, ensuring accurate and consistent measurements.
+
+5. Constraints: The constraints of this method include the need for specialized equipment to measure TDG pressure and barometric pressure, as well as the necessity of trained personnel to conduct the monitoring activities and analyze the data. Additionally, environmental conditions such as weather and water flow may impact the accuracy and feasibility of the measurements.

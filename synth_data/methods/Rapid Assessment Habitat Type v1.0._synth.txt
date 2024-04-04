@@ -1,0 +1,25 @@
+ Sure, I'd be happy to help! Based on the text body you provided, here are five relevant keywords:
+
+1. Habitat types
+2. Salmonid view
+3. Data collection
+4. Wetted channel surface area
+5. Off-channel habitat
+
+Now, let's move on to the other sections:
+
+**Abstract:**
+This method outlines a systematic approach for measuring and mapping habitat types in aquatic systems, specifically for salmonid populations. The necessity of this method arises from the abundant heterogeneity of habitat types encountered in such environments, which requires labor-intensive data collection efforts. By using GPS technology to geo-reference each habitat type and post-processing the data to create a map of the reach, researchers can estimate the percentage of wetted channel surface area comprising different habitat types, providing valuable insights into the distribution and abundance of key habitats for salmonid populations.
+
+**Description:**
+The text body describes a method for measuring and mapping habitat types in aquatic systems from a salmonid viewpoint. Habitat types are measurable physical characteristics about the environment that are relevant to salmonid populations, such as backwater pools, beaver ponds, glides, riffles, and tailouts. These habitats are measured as a percentage of the wetted channel surface area for the particular habitat type.
+
+Field practitioners must physically walk each reach, using a GPS to geo-reference each habitat type, and then post-process the GPS data to create a map of the reach. This method recognizes that all months are rated the same for this attribute, although it is acknowledged that the relative amount of this habitat type can change over a wide range of flow levels. When rating this attribute, a moderate flow level should be assumed.
+
+Off-channel habitat consists of oxbows, back swamps, riverine ponds, and the channels that connect them to the main channel or its side channels. Off-channel habitat is not a percent but rather a multiplier used to estimate the amount of off-channel habitat based on the wetted surface area of the all combined in-channel habitat.
+
+**Target:**
+The primary focus or goal of this method is to provide a systematic approach for measuring and mapping habitat types in aquatic systems, specifically for salmonid populations.
+
+**Constraints:**
+There are several constraints for this method, including the labor-intensive nature of data collection, the need for GPS technology and post-processing software, and the assumption of moderate flow levels when rating habitat types. Additionally, off-channel habitat is not measured as a percentage but rather estimated using a multiplier based on the wetted surface area of all combined in-channel habitats.

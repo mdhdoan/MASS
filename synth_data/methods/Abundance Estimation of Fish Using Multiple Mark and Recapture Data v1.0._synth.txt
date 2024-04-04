@@ -1,0 +1,9 @@
+ 1. Keywords: fish population abundance, Schnabel population estimator, indirect methods, white sturgeon, fisheries management
+
+2. Abstract: An accurate estimate of fish population abundance is crucial for understanding and managing changes in fish populations. Direct observation and enumeration are not always feasible, making indirect methods necessary. The Schnabel population estimator is one such method that can be used to estimate the overall abundance of white sturgeon within a specific area. This method was first introduced by Schnabel (1938) and further developed by Chapman (1952, 1954), and has proven to be an effective tool in fisheries management.
+
+3. Description: The necessity of estimating fish population abundance is discussed, with a focus on the use of indirect methods when direct observation is not available or practical. The Schnabel population estimator is introduced as a method for estimating the overall abundance (N) of white sturgeon within a specific area. This method was first proposed by Schnabel (1938) and further developed by Chapman (1952, 1954). The text provides details on how this method can be applied to estimate the abundance of white sturgeon populations.
+
+4. Target: The primary goal of the Schnabel population estimator is to provide an accurate estimate of the overall abundance of a specific fish population (in this case, white sturgeon) within a defined area.
+
+5. Constraints: The main constraint of the Schnabel population estimator is its dependence on indirect methods, which may not always provide accurate estimates. Additionally, this method requires a solid understanding of statistical concepts and may be difficult to apply without proper training.

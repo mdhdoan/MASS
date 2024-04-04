@@ -1,0 +1,9 @@
+ 1. Keywords: Temperature data QAQC, water temperature metrics, river thermal regime, magnitude, variability, frequency, duration, timing.
+
+2. Abstract: The method described focuses on the importance of performing temperature data quality assurance and quality control (QAQC) procedures for water temperature metrics. These metrics are crucial in characterizing the main components of a river's thermal regime, including magnitude, variability, frequency, duration, and timing. Ensuring accurate and reliable temperature data is essential for effective river management and conservation efforts, particularly in the context of climate change.
+
+3. Description: The text outlines a method for performing temperature data QAQC procedures and calculating water temperature metrics to characterize the main components of a river's thermal regime. Temperature data QAQC procedures involve checking data for errors and inconsistencies, ensuring that the data is accurate and reliable. Water temperature metrics are calculated based on this data, providing insights into the magnitude, variability, frequency, duration, and timing of river temperatures. These metrics are important for understanding the thermal dynamics of rivers, which can have significant impacts on aquatic ecosystems and water quality.
+
+4. Target: The primary focus of this method is to ensure accurate and reliable temperature data for characterizing the thermal regime of rivers.
+
+5. Constraints: The main constraint of this method is the availability and quality of temperature data. In order to calculate accurate and meaningful water temperature metrics, high-quality data is essential. Additionally, sufficient resources and expertise may be required to perform temperature data QAQC procedures and analyze the resulting data.

@@ -1,0 +1,32 @@
+ 1. Relevant keywords:
+   - Single Nucleotide Polymorphisms (SNPs)
+   - GT-seq
+   - Genotyping-in-Thousands by sequencing
+   - Next-generation sequencing
+   - Multiplexed PCR products
+   - Bi-allelic nature
+   - Low error rates
+   - Standardization
+   - Columbia River Inter-Tribal Fish Commission
+   - Unlabelled oligos
+   - PCR master mix
+   - Sequencing adapters
+   - Dual barcode sequence tags
+   - Illumina HiSeq DNA sequencer
+
+2. Abstract:
+Genotyping-in-Thousands by sequencing (GT-seq) is a novel, efficient method for large-scale genotyping using Single Nucleotide Polymorphisms (SNPs). Developed by Columbia River Inter-Tribal Fish Commission geneticists, GT-seq employs next-generation sequencing of multiplexed PCR products to generate genotypes for thousands of individuals in a single Illumina HiSeq DNA sequencer lane. The method uses unlabelled oligos and PCR master mix in two thermal cycling steps, incorporating sequencing adapters and barcode sequence tags into the amplicons. Post sequencing, a simple Perl script is used to count amplicon-specific sequences for each allele, determining genotypes through allele ratios. GT-seq offers high automation, rapid genotyping, and low error rates, facilitating standardization across laboratories for genetic studies in salmon and steelhead throughout the Columbia River basin.
+
+3. Description:
+The GT-seq method, published in Molecular Ecology Resources, was developed by Nate Campbell and Shawn Narum of the Columbia River Inter-Tribal Fish Commission. The technique uses next-generation sequencing of multiplexed PCR products to generate genotypes for thousands of individuals in a single Illumina HiSeq DNA sequencer lane. GT-seq relies on the bi-allelic nature of Single Nucleotide Polymorphisms (SNPs) for highly automated, rapid genotyping with low error rates, which facilitates standardization across laboratories.
+
+The method employs unlabelled oligos and PCR master mix in two thermal cycling steps to amplify targeted SNP loci. During this process, sequencing adapters and dual barcode sequence tags are incorporated into the amplicons, enabling thousands of individuals to be pooled into a single sequencing library. After sequencing, reads from individual samples are split into individual files using their unique combination of barcode sequences. Genotyping is performed with a simple Perl script that counts amplicon-specific sequences for each allele and uses allele ratios to determine the genotypes.
+
+4. Target:
+The primary goal of GT-seq is to provide a robust, efficient, and standardized method for large-scale SNP genotyping in genetic studies involving salmon and steelhead throughout the Columbia River basin.
+
+5. Constraints:
+Potential constraints for the GT-seq method include:
+- The need for access to Illumina HiSeq DNA sequencing technology.
+- Dependence on successful barcode sequence tag identification during post-sequencing processing.
+- Potential limitations in multiplexing capability, affecting the number of samples that can be processed simultaneously.

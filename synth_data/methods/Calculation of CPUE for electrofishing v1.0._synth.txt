@@ -1,0 +1,24 @@
+ 1. Relevant keywords:
+   - Fisheries management
+   - Fish stock estimation
+   - CPUE (Catch-per-unit-effort)
+   - Relative abundance
+   - Assumptions in CPUE
+
+2. Abstract:
+Fisheries researchers and managers often face challenges in obtaining numeric estimates of fish stocks due to limitations in resources, time, or logistics. As an alternative, they frequently use catch-per-unit-effort (CPUE) as a measure of relative abundance. The CPUE method assumes that the number of captured fish is proportional to the effort expended, and it relies on four additional assumptions for accurate interpretation: equilibrium, independent units of effort, constant catchability, and equal capture probability.
+
+3. Description:
+Catch-per-unit-effort (CPUE) is a method used in fisheries management as an alternative to numeric estimates of fish stocks when resources or logistical constraints are present. The CPUE method calculates the relative abundance of a fish stock by measuring the number of caught fish divided by the amount of effort expended during sampling (Hubert and Fabrizio, 2007). This approach assumes that CPUE increases with total population size, acting as a representative index of the entire population.
+
+Proper use and interpretation of CPUE involve several assumptions:
+  1. Population equilibrium: The fish population must be in a stable state for CPUE to accurately reflect abundance.
+  2. Independent units of effort: Sampling efforts should not influence one another, ensuring that each sampling event is independent.
+  3. Constant catchability: Catchability, or the probability of capturing a fish given its presence in the sampled area, must remain consistent throughout the sampling period.
+  4. Equal capture probability: All individuals within the population should have an equal chance of being captured during the sampling process (Seber, 1982).
+
+4. Target:
+The primary goal of CPUE is to provide a relative abundance index for fish stocks when numeric estimates are unattainable or impractical due to resource constraints.
+
+5. Constraints:
+CPUE has several limitations and assumptions that must be carefully considered, including population equilibrium, independent units of effort, constant catchability, and equal capture probability. Violations of these assumptions may lead to inaccurate interpretations of fish stock abundance. Moreover, CPUE does not provide an absolute measure of the number of fish in a given area but rather a relative comparison between different sampling efforts or time periods.

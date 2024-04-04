@@ -1,0 +1,26 @@
+ 1. Relevant keywords:
+   - Columbia River Basin anadromous salmonids
+   - Endangered Species Act (ESA)
+   - Monitoring strategy
+   - Water quality attributes
+   - UCMS (Hillman 2006) guidelines
+   - Integrator sites
+   - Data Quality Level A
+
+2. Abstract:
+Anadromous salmonids in the Columbia River Basin have experienced significant declines, with several populations now protected under the ESA. A comprehensive monitoring strategy is required to address uncertainties and aid recovery efforts. The United States Geological Service (USGS) and Washington State Department of Ecology (WDOE) have initiated water quality monitoring programs focusing on seven key attributes at integrator sites—locations downstream from salmonid populations or subpopulations. These continuous measurements, combined with monthly grab samples for nutrients, provide essential data for ESA assessments and recovery planning at various spatial scales, addressing the needs of specific reaches, subpopulations, populations, and Evolutionary Significant Units (ESUs).
+
+3. Description:
+The text describes a monitoring strategy aimed at addressing the decline in Columbia River Basin anadromous salmonids, several of which are now protected under the ESA. The primary focus is to develop a comprehensive monitoring strategy to reduce uncertainties surrounding declines and recovery planning. Monitoring programs typically concentrate on specific management actions' effects, with data mainly applicable at the subpopulation or population scale.
+
+However, the ESA necessitates evaluations at multiple spatial scales—specific reaches, subpopulations, populations, and ESUs—which requires water quality monitoring stations to be coupled with associated flow gauges operated by USGS or WDOE. The UCMS (Hillman 2006) identifies seven water quality attributes (temperature, turbidity, conductivity, pH, dissolved oxygen, nitrogen, and phosphorus) for continuous monitoring at integrator sites—locations downstream from each population or subpopulation.
+
+Continuous monitoring of these attributes follows manufacturers' guidelines for deployment and calibration. Data accuracy meets the Data Quality Level A as defined by the Oregon Watershed Plan Water Quality Monitoring Technical Guidebook (2001). Monthly grab samples are collected for nutrient analysis at integrator sites. This monitoring strategy addresses ESA requirements for species and habitat assessments at various spatial scales, providing essential data for recovery planning.
+
+4. Target:
+The primary focus of this method is to create a comprehensive water quality monitoring strategy for anadromous salmonids in the Columbia River Basin under the Endangered Species Act (ESA) to support their recovery and address uncertainties surrounding declines.
+
+5. Constraints:
+- Data collected from current and historical monitoring programs might not be adequate or reliable enough for ESA assessments and recovery planning.
+- Monitoring programs have usually been designed to evaluate specific management actions' effects, limiting the utility of data at different spatial scales.
+- Implementing a new monitoring strategy will require collaboration between various organizations (USGS, WDOE) to ensure proper deployment, calibration, and data collection following UCMS guidelines.

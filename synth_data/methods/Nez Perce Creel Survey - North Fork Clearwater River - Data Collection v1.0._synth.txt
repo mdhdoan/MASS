@@ -1,0 +1,29 @@
+ Sure, I'd be happy to help! Based on the text body you provided, here are five keywords that I believe are highly relevant to the Nez Perce Creel Survey method:
+
+1. Creel survey
+2. Treaty harvest estimation
+3. North Fork Clearwater River
+4. Tribal fishing effort
+5. Harvest monitoring
+
+Now, let's move on to your other questions:
+
+**Abstract:**
+
+The Nez Perce Creel Survey method is a key tool used by the Nez Perce Harvest Monitoring Program to estimate treaty harvest in Usual and Accustomed fishing areas along the North Fork Clearwater River. This method involves collecting catch and harvest information from tribal fishers, which is then used to ensure that the proposed harvest strategy is being followed and to provide a baseline accounting of Nez Perce annual harvest. The data obtained from this survey can also be used for run-reconstruction, SAR estimations, and run forecast models. By accurately monitoring treaty harvest in this way, the Nez Perce Tribe can ensure that their fishing activities are sustainable and in compliance with their treaty rights.
+
+**Description:**
+
+The Nez Perce Creel Survey method is one of four methods used by the Nez Perce Harvest Monitoring Program to estimate Treaty harvest in Usual and Accustomed fishing areas. This particular method is specific to the North Fork Clearwater River and involves conducting a creel survey, which is a type of survey used to collect information about recreational fishing activities. The survey collects data on the number and species of fish caught, as well as the location, date, and gear types used by tribal fishers.
+
+The purpose of this method is to produce a reliable estimate of treaty catch of steelhead, fall Chinook, and spring Chinook (and incidental species) and tribal fishing effort. The data collected from this survey provides a baseline accounting of Nez Perce annual harvest, with multiple years of information characterizing trends in the fisheries. This information is useful for run-reconstruction, SAR estimations, and run forecast models.
+
+The creel survey method is conducted by trained observers who are stationed at key fishing locations along the North Fork Clearwater River. These observers collect data on a daily basis from tribal fishers as they return from their fishing trips. The data collected is then used to calculate the total number of fish caught and harvested by the Nez Perce Tribe.
+
+**Target:**
+
+The primary focus or goal of the Nez Perce Creel Survey method is to estimate treaty harvest in Usual and Accustomed fishing areas along the North Fork Clearwater River. This information is used to ensure that the proposed harvest strategy is being followed, to provide a baseline accounting of Nez Perce annual harvest, and to characterize trends in the fisheries.
+
+**Constraints:**
+
+One constraint of the Nez Perce Creel Survey method is that it is specific to the North Fork Clearwater River and may not be applicable to other fishing areas. Additionally, the success of this method relies on the accuracy and completeness of the data collected by trained observers. Any errors or omissions in the data could lead to inaccurate estimates of treaty harvest. Finally, weather and river conditions can also affect the ability of observers to collect data, potentially leading to gaps in the data collection.

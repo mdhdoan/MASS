@@ -1,0 +1,20 @@
+ 1. Relevant keywords:
+   - Juvenile salmonid habitat
+   - Population dynamics
+   - CHaMP survey data
+   - Hydraulic models
+   - Digital elevation models (DEM)
+   - Surface roughness
+   - Discharge
+
+2. Abstract:
+The Columbia Habitat Monitoring Program (CHaMP) has collected extensive survey data to understand the relationship between juvenile salmonid habitat and population dynamics. A key linkage in this process is the development of hydraulic models for over 600 reaches where CHaMP collects data. These models, created using digital elevation models, surface roughness estimates, and discharge information, provide accurate velocity vector and depth fields. The modeling approach aims to generate unique hydraulic models for each site at multiple flow conditions, with more than 1000 combinations already modeled successfully.
+
+3. Description:
+The text discusses a method employed by the CHaMP program to quantify relationships between juvenile salmonid habitat and population dynamics using hydraulic models. The motivation behind this approach is to create precise and accurate models for over 600 reaches where CHaMP collects data. The development of these models involves using digital elevation models (DEM) generated from topographic surveys, surface roughness estimates based on pebble size distributions, and discharge information as inputs. Hydraulic model outputs include velocity vector and depth fields along with derived information. The text highlights that the method can be applied for both measured and non-measured discharge rates.
+
+4. Target:
+The primary focus of this method is to create hydraulic models capable of accurately representing juvenile salmonid habitats in over 600 CHaMP reaches at multiple flow conditions, thereby supporting research into population dynamics.
+
+5. Constraints:
+There are no explicit constraints mentioned in the text; however, it's important to note that generating accurate and precise models requires high-quality input data, including accurate digital elevation models and reliable discharge measurements.

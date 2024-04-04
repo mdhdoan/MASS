@@ -1,0 +1,21 @@
+ 1. Relevant keywords:
+   - Columbia River Basin
+   - Anadromous salmonids
+   - Monitoring strategy
+   - Endangered Species Act (ESA)
+   - Evolutionary Significant Unit (ESU)
+   - Water quality attributes
+
+2. Abstract:
+A comprehensive monitoring strategy is required to address the decline of Columbia River Basin anadromous salmonids, several of which are now protected under the Endangered Species Act (ESA). Current and historical monitoring programs lack adequate data for ESA assessments and recovery planning. A proposed method involves continuous monitoring of seven key water quality attributes at specific sites related to each population or subpopulation. This approach addresses ESA requirements by providing reliable data at multiple spatial scales, allowing for better assessment and conservation efforts of these protected species.
+
+3. Description:
+The text discusses the need for an improved monitoring strategy for Columbia River Basin anadromous salmonids, which have experienced significant declines over the past 30 years. Many populations are now listed under the Endangered Species Act (ESA), necessitating better data collection and analysis to support recovery planning. The proposed method focuses on continuous monitoring of seven water quality attributes at integrator sites located downstream from each population or subpopulation.
+
+These water quality attributes include temperature, turbidity, conductivity, pH, dissolved oxygen, nitrogen, and phosphorous. Monitoring stations are equipped with instruments that meet Data Quality Level A standards as defined by the Oregon Watershed Plan Water Quality Monitoring Technical Guidebook (2001). Co-locating water quality monitoring stations with associated flow gauges enables investigators to assess the impact of stream flow on water quality attributes, providing a more comprehensive understanding of the factors affecting salmonid populations.
+
+4. Target:
+The primary focus is to implement a reliable and adequate monitoring strategy for Columbia River Basin anadromous salmonids, ensuring compliance with ESA requirements and facilitating effective recovery planning.
+
+5. Constraints:
+The success of this method relies on accurate data collection and analysis, as well as the ability to consistently monitor water quality attributes at integrator sites. Ensuring proper deployment, calibration, and maintenance of monitoring instruments is crucial for obtaining reliable data. Additionally, coordinating with relevant agencies, such as the USGS and WDOE, for flow gauge operation and data sharing may pose challenges. Finally, securing funding to support long-term monitoring efforts will be essential for the continued success and effectiveness of this strategy.

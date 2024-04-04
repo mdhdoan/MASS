@@ -1,0 +1,9 @@
+ 1. Keywords: Snorkel Herding, fish capture, stream habitats, modified snorkeling, small areas.
+
+2. Abstract: Snorkel Herding is a specialized approach to snorkeling that enables the efficient capture of fish in confined areas of streams, such as pools (Heitke et al., 2009). This method addresses the need for effective fish sampling in these ecosystems, providing an alternative to traditional techniques like seining or electrofishing. By modifying standard snorkeling practices, Snorkel Herding offers a less invasive and more targeted way to study fish populations in their natural habitats.
+
+3. Description: Snorkel Herding is a tailored snorkeling method that aims to capture fish in specific stream sections, particularly pools (Habitat units, Heitke et al., 2009). This technique diverges from traditional snorkeling, which primarily focuses on observation and data collection. By concentrating on smaller areas within streams, Snorkel Herding offers a more precise approach to fish sampling. The restricted scope reduces the impact on fish populations and surrounding ecosystems compared to other methods like seining or electrofishing. Snorkel Herding's targeted nature allows researchers to gather valuable information about fish species distribution, abundance, and behavior while minimizing disturbance.
+
+4. Target: The primary focus of Snorkel Herding is to provide an efficient and less invasive method for capturing fish in confined aquatic habitats like stream pools.
+
+5. Constraints: Snorkel Herding's constraints include the need for clear water conditions, suitable environmental conditions for snorkeling, and specialized training for practitioners to ensure safe and effective implementation.

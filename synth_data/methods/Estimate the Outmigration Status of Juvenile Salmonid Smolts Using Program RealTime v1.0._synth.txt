@@ -1,0 +1,25 @@
+ 1. Relevant keywords:
+   - RealTime Program
+   - Statistical software
+   - Salmonid smolts outmigration prediction
+   - PIT-tag data
+   - Passage indices
+   - Snake and Columbia River hydrosystem
+
+2. Abstract:
+The RealTime Program, a statistical software developed by the University of Washington, is used to predict run timing of individual stocks of outmigrating juvenile salmonid smolts through the Snake and Columbia River hydrosystem. Leveraging PIT-tag data and passage indices, this program provides real-time predictions for endangered and threatened salmon stocks since 1994. These forecasts aid inseason river management by offering valuable insights into smolt outmigration timing.
+
+3. Description:
+RealTime Program, a statistical software, is designed to predict run timing of individual stocks of outmigrating juvenile salmonid smolts through the Snake and Columbia River hydrosystem using PIT-tag data and passage indices. The program has been providing inseason predictions since 1994 for threatened and endangered Snake River salmon stocks and, since 2000, for listed Mid-Columbia River stocks. These predictions are publicly available through the internet to assist inseason river management.
+
+The RealTime Program utilizes PIT-tag data to forecast arrival distributions, historical timing, transport, and survival for Snake River yearling Chinook, steelhead, subyearling Chinook, sockeye, and coho salmon at Lower Granite, Little Goose, Lower Monumental, Ice Harbor, and McNary dams. The forecasts are based on PIT-tag detections at Lower Granite Dam.
+
+Additionally, the program uses passage indices for runs-at-large to provide arrival distributions and historical timing for combined stocks of yearling Chinook salmon, steelhead, subyearling Chinook, sockeye, and coho salmon at Rock Island, Lower Granite, McNary, John Day, and Bonneville dams. These forecasts are based on FPC passage indices at each dam.
+
+End-of-season evaluations for the inseason predictions are reported annually in the BPA technical report series, Monitoring and Evaluation of Smolt Migration in the Columbia Basin, available through Pisces (Townsend et al. 2011).
+
+4. Target:
+The primary focus of RealTime Program is to provide real-time predictions for smolt outmigration timing, aiding inseason river management and conservation efforts for threatened and endangered salmon stocks.
+
+5. Constraints:
+The method's constraints include the availability and accuracy of PIT-tag data and passage indices, as well as reliance on real-time detections at specific dam locations. Additionally, seasonal variations in environmental factors may influence smolt migration patterns and impact forecasting accuracy.

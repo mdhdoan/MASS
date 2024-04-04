@@ -1,0 +1,9 @@
+ 1. Keywords: Environmental Assessment Program (EAP), dissolved oxygen (DO) concentration, Winkler Method, Azide-Modification, SM 21st Edition, freshwater monitoring.
+
+2. Abstract: The Environmental Assessment Program (EAP) Standard Operating Procedure (SOP) outlines the field collection and laboratory procedures for determining the dissolved oxygen (DO) concentration in water samples. The Winkler Method (Azide-Modification), as described in SM 21st Edition, 2005, is used for analysis. This SOP is crucial for freshwater monitoring as DO is a major factor that influences aquatic biological communities and can indicate water quality.
+
+3. Description: The EAP SOP focuses on the field collection and laboratory procedures for measuring DO concentration in water samples. The Winkler Method (Azide-Modification), SM 21st Edition, 2005 is used for analysis, where the volume of sodium thiosulfate used to analyze a 200mL sample is equal to the DO concentration in mg/L. The SOP highlights how atmospheric pressure and water temperature affect DO concentration, with higher pressure increasing oxygen solubility and higher temperature decreasing it. The SOP is intended for freshwater monitoring, as DO plays a significant role in determining aquatic biological communities, and its concentration can be affected by the addition of organic or inorganic material that exerts an oxygen demand through respiration and biodegradation.
+
+4. Target: The primary focus of this EAP SOP is to provide a standardized method for measuring DO concentration in freshwater monitoring.
+
+5. Constraints: This method requires specialized knowledge and equipment for field collection and laboratory analysis, as well as strict adherence to the outlined procedures to ensure accurate results. Additionally, the Winkler Method (Azide-Modification) used is a time-sensitive process that requires precise timing and temperature control during sample analysis.

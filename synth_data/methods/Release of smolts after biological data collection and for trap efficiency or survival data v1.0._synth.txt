@@ -1,0 +1,9 @@
+ 1. Keywords: Smolts, Biological data collection, Anesthetic recovery, Release method, Survival risks.
+
+2. Abstract: This method emphasizes the importance of allowing smolts used for biological data collection sufficient time to recover from anesthesia before being released back into their natural environment. This practice helps mitigate additional survival risks associated with data collection stress, ensuring more accurate data and promoting the well-being of the smolts.
+
+3. Description: The text discusses a method focused on handling smolts utilized for collecting biological data, such as reach survival estimates. A crucial step in this process is providing ample time for these smolts to recover from anesthesia before releasing them back into their natural habitat. This approach aims to minimize the negative impact of data collection on the smolts' survival, thereby enhancing the reliability of the collected data and preserving the overall health of the population.
+
+4. Target: The primary goal of this method is to establish a responsible and effective technique for releasing smolts after data collection while reducing potential survival risks due to stress from the anesthetic and handling.
+
+5. Constraints: This method requires careful planning, resources, and personnel trained in handling and monitoring smolt recovery times. Adverse environmental conditions or logistical challenges may also present constraints to implementing this method consistently and effectively.

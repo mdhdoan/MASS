@@ -1,0 +1,21 @@
+ 1. Relevant keywords:
+   - Large wood pieces volume calculation
+   - Size class bins
+   - Geometric mean volume
+   - LWD historic dataset
+   - Channel units (pools, fast-turbulent and fast non-turbulent waters)
+
+2. Abstract:
+This method presents a technique to calculate the total volume of qualifying large wood pieces in a site. The approach relies on categorizing the number of large wood debris pieces into different size class bins and multiplying the count by a constant for that size class bin, which represents the geometric mean volume of an average piece within the size class. This method has been developed based on a historic dataset containing more than 75,000 pieces of large woody debris with length and diameter measurements. The derived geometric mean volumes provide accurate estimations of large wood pieces' contribution to the site's overall volume.
+
+3. Description:
+The objective of this method is to calculate the total volume of qualifying large wood pieces (with a diameter greater than 0.10m and length of 1.0m) at a site. Volume estimation of Large Woody Debris (LWD) is carried out by tallying the number of pieces of LWD that fall into various size class bins, with each bin representing a range of lengths and diameters. A constant is then multiplied to the count for each size class bin, which represents the geometric mean volume of an average piece within the size class. The geometric mean volumes were derived from a historic dataset containing over 75,000 pieces of LWD, where length and diameter measurements were taken for every piece. For each piece in the historic dataset, the volume was calculated as: volume = pi × Length × (Diameter/2)^2. Each piece in the historic dataset was then assigned to a size class bin, and the geometric mean volume was calculated for each size class bin. The derived geometric mean volumes by size class from the historic dataset are presented in the text.
+
+Metrics are reported separately for both wetted and bankfull large wood volume and are differentiated by site and tier 1 channel units (pools, fast-turbulent, and fast non-turbulent waters) at a site. The CHaMP - Large Woody Debris Method provides background on identifying the channel units that are analyzed for this calculation. For 2011 to 2013, refer to the corresponding method documents (-Large Woody Debris v1.0, Tally Large Woody Debris v2.0, and Tally Large Woody Debris v3.0).
+
+4. Target:
+The primary focus of this method is to accurately estimate the volume of large wood pieces within a site while adhering to specific size requirements.
+
+5. Constraints:
+- The method relies on the availability and accuracy of historical data for calculating geometric mean volumes by size class.
+- Accurate measurement of LWD length and diameter is required for correct assignment to size class bins.

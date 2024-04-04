@@ -1,0 +1,22 @@
+ 1. Relevant keywords:
+   - Head differential
+   - Weir monitoring
+   - Fish safety
+   - Staff safety
+   - Stage height
+
+2. Abstract:
+Weir monitoring is crucial to ensure the safety of fish, staff, and infrastructure. By keeping track of head differentials, or the difference in stage height of surface water across weir pickets, potential hazards can be anticipated. This proactive approach helps maintain a secure environment for both aquatic life and personnel while preserving the integrity of the weir structure.
+
+3. Description:
+Weir monitoring focuses on observing head differential, which is the variance in stage height of surface water between weir pickets. Weirs are low-head dams used to alter the direction of flowing water or for measurement purposes. Monitoring head differential allows for the early detection of conditions that may endanger fish, staff, or the weir itself. By understanding these variations, appropriate actions can be taken to mitigate risks and maintain a safe operating environment.
+
+4. Target:
+The primary goal of weir monitoring is to ensure safety and preserve structural integrity in the presence of changing water levels and flow rates.
+
+5. Constraints:
+Weir monitoring may be limited by factors such as:
+   - Accessibility to the weir for visual inspections or equipment installation
+   - Availability and reliability of sensing technologies for accurate stage height measurements
+   - Environmental conditions, including extreme weather events or water quality issues
+   - Budgetary constraints affecting monitoring frequency and technology investment.

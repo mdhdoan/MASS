@@ -1,0 +1,24 @@
+ 1. Relevant keywords:
+   - River Channel Analysis
+   - GIS Tools (RBT)
+   - High-resolution DEMs (LiDAR, Topographic Surveys)
+   - Channel Geometry Metrics
+   - Water Level Simulation
+   - Fish Habitat Identification
+   - ArcGIS Extension
+
+2. Abstract:
+The River Bathymetry Toolkit (RBT) is a suite of GIS tools designed for analyzing river channels using high-resolution digital elevation models (DEMs). The RBT, an ESRI ArcGIS Desktop software extension, offers various features to describe and measure river channels, such as detrending DEMs, cutting cross sections, defining hydraulic geometry, computing stream gradients, identifying residual pools, and simulating water level changes. The toolkit helps users understand river morphology, assess fish habitats, and plan water resource management strategies.
+
+3. Description:
+The RBT is a collection of GIS tools developed for analyzing river channels using high-resolution DEMs derived from airborne remote sensing (LiDAR) or ground-based topographic surveys. Before applying the RBT, users need to install ESRI ArcGIS software. The toolkit allows users to detrend DEMs to eliminate longitudinal valley slopes, cut user-defined cross sections through DEMs, and define hydraulic geometry in each cross section (e.g., bankfull width/depth). It also computes stream gradient, sinuosity, and creates long profiles down the length of a channel while mapping longitudinal variations in various channel geometry metrics.
+
+The RBT simulates water level changes in detrended DEMs to study water depth distribution, off-channel habitats connected to main stem flow, and residual pools that may serve as fish habitats. The toolkit is an ArcGIS extension, requiring users to have the base software installed before using any of its features.
+
+For CHaMP topographic surveys conducted between 2011 and 2013, a single line represented the mainstem, while in sites processed with the 2014 topotoolbar, the total length of features flagged as mainstem is used – excluding side channels. The RBT builds upon these survey methods to analyze river morphology and provide valuable insights for water resource management and fish habitat assessment.
+
+4. Target:
+The primary focus of the River Bathymetry Toolkit (RBT) is to offer advanced GIS tools for analyzing river channel geometry, water depth distribution, and fish habitats using high-resolution DEMs within ESRI ArcGIS Desktop software.
+
+5. Constraints:
+The RBT requires users to have the ESRI ArcGIS software installed as a prerequisite, as it is an ArcGIS extension. Additionally, the methodology and accuracy of analysis heavily depend on the quality and resolution of input DEMs derived from airborne remote sensing (LiDAR) or ground-based topographic surveys.

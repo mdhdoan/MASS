@@ -1,0 +1,23 @@
+ 1. Relevant keywords:
+   - Pacific Anadromous Fish Strategy (PACFISH)
+   - Inland Fish Strategy (INFISH)
+   - Aquatic and riparian monitoring
+   - Upper Columbia River Basin
+   - Riparian sampling protocol
+   - Plant specimen identification
+
+2. Abstract:
+In 1998, the Pacific Anadromous Fish Strategy (PACFISH) and Inland Fish Strategy (INFISH) programs were established to manage aquatic and riparian monitoring needs in the upper Columbia River Basin. These programs led to a sampling method derived from a PACFISH/INFISH riparian protocol, which provides instructions for collecting plant specimens for identification in the field or office. This approach helps enhance the understanding of local vegetation and its impact on aquatic ecosystems.
+
+3. Description:
+The Pacific Anadromous Fish Strategy (PACFISH) and Inland Fish Strategy (INFISH) programs were introduced in 1998 to tackle monitoring needs in the upper Columbia River Basin's aquatic and riparian environments. The text describes a method derived from a PACFISH/INFISH riparian sampling protocol, which includes detailed instructions for gathering plant specimens for identification either in the field or an office setting. This process aids in quickly determining unknown plant species, ensuring appropriate management decisions and resource allocations.
+
+4. Target:
+The primary focus of this method is to create a streamlined process for collecting and identifying unknown plant specimens within the upper Columbia River Basin's aquatic and riparian environments as part of the PACFISH and INFISH programs.
+
+5. Constraints:
+There are no explicit constraints mentioned in the text; however, potential limitations may include:
+- Accessibility to remote monitoring sites
+- Dependence on weather conditions for fieldwork
+- Availability and expertise of personnel for plant identification
+- Potential impact on the environment during sample collection

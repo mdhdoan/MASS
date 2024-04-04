@@ -1,0 +1,18 @@
+ Sure, I'd be happy to help! Here are the keywords I've identified from the text body:
+
+1. Environmental Assessment Program (EAP) Standard Operating Procedure (SOP)
+2. Freshwater benthic macroinvertebrate (BMI) data collection
+3. Wadeable streams and rivers
+4. Taxonomic identification and reporting
+5. Compatible with other federal and state agencies' methods
+
+Now, let me provide the rest of the information you have requested:
+
+2. Abstract:
+The Environmental Assessment Program (EAP) Standard Operating Procedure (SOP) for collecting freshwater benthic macroinvertebrate (BMI) data in wadeable streams and rivers outlines the minimum requirements for standardized methods of collecting, preserving, identifying, and reporting aquatic insects. This SOP is compatible with those used by other federal and state agencies in the Pacific Northwest Region, allowing for shared data collection that can be used efficiently across agencies and potentially enable more extensive sampling. The procedures outlined here are mandatory for EAP staff when collecting macroinvertebrates from wadeable rivers and streams in Washington State and recommended for any outside entities submitting data for analysis using Ecology's bioassessment models.
+3. Description:
+The text body describes the Environmental Assessment Program (EAP) Standard Operating Procedure (SOP) for collecting freshwater benthic macroinvertebrate (BMI) data in wadeable streams and rivers. The SOP outlines minimum requirements for standardized methods of collecting, preserving, identifying, and reporting aquatic insects. These methods are compatible with those used by other federal and state agencies in the Pacific Northwest Region, allowing for shared data collection that can be used efficiently across agencies and potentially enable more extensive sampling. The procedures outlined here are mandatory for EAP staff when collecting macroinvertebrates from wadeable rivers and streams in Washington State. To ensure comparable results, any outside entities submitting data for analysis using Ecology's bioassessment models must conduct their sampling in this manner.
+4. Target:
+The primary focus or goal of the EAP SOP is to provide a standardized method for collecting freshwater benthic macroinvertebrate (BMI) data in wadeable streams and rivers that can be used efficiently across agencies, allowing for more extensive sampling.
+5. Constraints:
+One constraint for the current method is the need for compatibility with other federal and state agencies' methods. Additionally, any outside entities submitting data for analysis using Ecology's bioassessment models must conduct their sampling in this manner, which may require additional resources or training.

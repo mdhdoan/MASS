@@ -1,0 +1,19 @@
+ 1. Keywords:
+   - Slow water channel units
+   - Surface area
+   - Survey reach
+   - Pool habitat quantity
+   - Total surface area (m)
+
+2. Abstract:
+The method presented here focuses on calculating the total surface area of slow water channel units in a survey reach as a measure of pool habitat quantity. This approach is essential for understanding and quantifying pool habitats, which play a critical role in aquatic ecosystems. By accurately measuring the surface area of these channel units, researchers can assess the availability and extent of this vital habitat.
+
+3. Description:
+The text provides details on calculating the total surface area (m) of slow water channel units within a survey reach as an indicator of pool habitat quantity. Slow water channel units are essential features in aquatic ecosystems that harbor various organisms, particularly at certain life stages. Accurate measurement and quantification of these habitats contribute to our understanding of the overall health and productivity of aquatic systems. The method described here is a systematic procedure for measuring and analyzing pool habitats, allowing researchers to effectively monitor and manage them.
+
+4. Target:
+The primary focus of this method is to measure and quantify pool habitat quantity through the calculation of slow water channel units' surface area.
+
+5. Constraints:
+- The success of this method depends on accurately identifying and measuring slow water channel units within a survey reach.
+- This approach may be limited by factors affecting visibility or accessibility in the survey area, such as water clarity, vegetation, or infrastructure.

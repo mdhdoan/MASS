@@ -1,0 +1,9 @@
+ 1. Keywords: gene expression, genetic backgrounds, same environment, crosses, RNA isolation, whole bodies.
+
+2. Abstract: This study focuses on comparing gene expression in fish with different genetic backgrounds, raised in the same environment. To achieve this, crosses were created within and between wild fish and F1 hatchery fish, and the fry were frozen in liquid nitrogen at swim up. RNA was then isolated from whole bodies of each fish to analyze their gene expression patterns, which will help understand how genetic differences influence gene expression in fish raised under identical conditions.
+
+3. Description: The research process started by creating crosses within and between wild fish and F1 hatchery fish, followed by freezing the fry in liquid nitrogen at swim up. This allowed for a controlled environment to compare gene expression levels across different genetic backgrounds. By isolating RNA from whole bodies of each fish, researchers can study how genetic differences affect their gene expression profiles, providing valuable insights into genotype-environment interactions and potential genetic adaptation mechanisms.
+
+4. Target: The primary focus is to analyze gene expression differences between fish with varying genetic backgrounds raised in the same environment.
+
+5. Constraints: There might be constraints related to accurately measuring gene expression levels due to potential confounding factors, such as subtle environmental differences during development or individual variations that are not directly linked to genetic background. Additionally, RNA isolation and analysis techniques require careful validation and control to ensure accurate results.

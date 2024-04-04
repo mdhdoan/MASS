@@ -1,0 +1,22 @@
+ 1. Keywords:
+   - Scale samples
+   - Age composition
+   - Run reconstruction
+   - Forecasting
+   - Age-at-length composition
+
+2. Abstract:
+Scale sampling of adult salmon and steelhead is essential for estimating age composition, which in turn is vital for run reconstruction, forecasting, and understanding length at upstream locations. This method helps fisheries managers make informed decisions about species conservation and management by providing accurate estimates of age distribution within the population.
+
+3. Description:
+The text describes a method that involves collecting scale samples from natural and hatchery-origin adult salmon and steelhead for estimating age composition. The data obtained from these samples serve multiple purposes, including run reconstruction and forecasting, as well as estimating age-at-length composition and length at upstream locations. This information is critical for effective fisheries management, as it allows managers to understand population dynamics and develop appropriate conservation strategies.
+
+4. Target:
+The primary focus of this method is to estimate the age composition of adult salmon and steelhead populations through scale sampling, providing valuable insights for fisheries management and conservation efforts.
+
+5. Constraints:
+Some potential constraints for this method may include:
+- The need for a sufficient sample size to ensure accurate estimates
+- Difficulty in obtaining samples from certain locations or species
+- Variability in the accuracy of age estimates based on scale quality and condition
+- Time and resources required for processing and analyzing scale samples.

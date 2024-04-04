@@ -1,0 +1,21 @@
+ 1. Relevant Keywords:
+   - Marking & Tagging
+   - Biological Information
+   - Chinook Salmon, Coho Salmon, Steelhead, Bull Trout, Lamprey
+   - Rotary Screw Traps, Beach Seines, Electrofishing
+
+2. Abstract:
+This method details the process of marking, tagging, and collecting biological information from various species of fish, including Chinook Salmon, Coho Salmon, Steelhead, Bull Trout, and Lamprey. The technique is applied using rotary screw traps, beach seines, or electrofishing methods. This approach allows for a better understanding of fish populations and behaviors in natural and hatchery environments, supporting conservation efforts and management strategies.
+
+3. Description:
+The text describes a method that involves capturing fish using rotary screw traps, beach seines, or electrofishing techniques. Once captured, the method details how to mark, tag, and collect biological information from Chinook Salmon, Coho Salmon, Steelhead, Bull Trout, and Lamprey species. This process allows researchers and managers to gather crucial data about fish populations and their behaviors in natural and hatchery environments.
+
+4. Target:
+The primary focus of this method is the efficient and accurate marking, tagging, and collection of biological information from various fish species to support conservation efforts and management strategies.
+
+5. Constraints:
+Some constraints for this method may include:
+   - Ensuring the safety and well-being of captured fish during handling and tagging processes
+   - Minimizing stress on the fish to avoid affecting their behavior or survival rates
+   - Maintaining accurate and consistent data collection practices
+   - Adhering to ethical guidelines and regulations related to animal research and conservation.

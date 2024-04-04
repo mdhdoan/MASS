@@ -1,0 +1,21 @@
+ 1. Relevant keywords:
+   - Coded-wire-tag (CWT)
+   - Smolt-to-adult ratio (SAR)
+   - Columbia Basin
+   - Federal Columbia River Power System (FCRPS)
+   - Biological Opinion (BO)
+   - Reasonable and Prudent Alternative (RPA)
+   - Pacific States Marine Fisheries Commission (PSMFC)
+
+2. Abstract:
+The text describes a method for estimating the smolt-to-adult ratio (SAR) using coded-wire-tag (CWT) data from hatcheries in the Columbia Basin, spanning across WA, OR, and ID. This annual analysis is crucial to fulfill the requirements of the Federal Columbia River Power System 2000 Biological Opinion Reasonable and Prudent Alternative for monitoring and evaluating SARs. By analyzing CWT release and recovery data obtained from the Regional Mark Processing Center, the study provides a geographically wide representation of SARs in the Columbia Basin, Puget Sound, and outer Washington and Oregon coasts.
+
+3. Description:
+The text focuses on estimating smolt-to-adult ratios (SAR) for a number of CWT releases across the Columbia Basin, as mandated by the Federal Columbia River Power System 2000 Biological Opinion Reasonable and Prudent Alternative. The study relies on historical CWT data collected since the mid-70s from various hatcheries in WA, OR, and ID.
+The CWT release and recovery data used in the analysis are obtained from the Regional Mark Processing Center, managed by the Pacific States Marine Fisheries Commission (PSMFC). The text emphasizes that SAR estimates from a wide geographic range are analyzed to ensure comprehensive coverage of the Columbia Basin, Puget Sound, and outer Washington and Oregon coasts.
+
+4. Target:
+The primary focus of this method is to estimate smolt-to-adult ratios (SAR) using historical CWT data for hatcheries in the Columbia Basin and other regions within WA, OR, and ID, following the guidelines provided by the Federal Columbia River Power System 2000 Biological Opinion Reasonable and Prudent Alternative.
+
+5. Constraints:
+The constraints for this method include the availability and reliability of historical CWT data, as well as the capability to accurately track and analyze CWT release and recovery information from multiple hatcheries across a wide geographic area. Additionally, ensuring compliance with the Federal Columbia River Power System 2000 Biological Opinion Reasonable and Prudent Alternative imposes specific requirements on SAR estimation methods and reporting.

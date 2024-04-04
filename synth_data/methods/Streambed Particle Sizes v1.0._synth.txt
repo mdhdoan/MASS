@@ -1,0 +1,20 @@
+ 1. Keyword list:
+   - Streambed particle size measurement
+   - Transect points
+   - Scour line
+   - Pebble measurement
+   - Dry transects
+
+2. Abstract:
+Streambed particle size measurements are crucial for understanding stream morphology and behavior. This method outlines a systematic approach to measure particles at 10 predefined points on each main and intermediate transect, ranging from 5% to 95% of the distance between scour lines on opposite sides of the stream. The Appendix C guideline assists with pebble measurement at dry transects.
+
+3. Description:
+The method describes a technique for determining streambed particle sizes using 10 evenly spaced points along main and intermediate transects. These points represent distances from 5% to 95% of the distance between two scour lines on opposite sides of the stream, ensuring thorough coverage of the area. A more detailed Appendix C guideline supports pebble measurement specifically for dry transects, offering additional instructions and considerations.
+
+4. Target:
+The primary focus is to establish a standardized methodology for assessing streambed particle sizes, enabling researchers and practitioners to analyze and compare results effectively.
+
+5. Constraints:
+- Measurements rely on the scour line's positioning, which might not always be clear or consistent in natural environments.
+- The accuracy of the measurements depends on the observer's ability to identify and categorize particle sizes correctly.
+- Dry transects require specific guidelines (found in Appendix C) for successful pebble measurement.

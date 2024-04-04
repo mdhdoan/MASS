@@ -1,0 +1,9 @@
+ 1. Keywords: measurement collection, transects, method ID 3828, main channel, equidistant
+
+2. Abstract: This method details the process of collecting measurements at eleven evenly spaced transects. The transects are to be established using a specified method ID or a similar alternative. The measurements being taken will be limited to the primary channel only. This approach allows for standardized data collection, enabling accurate analysis and comparison of results across different locations or time points.
+
+3. Description: The text outlines a procedure for measuring specific parameters at eleven equally spaced transects within a given area. To ensure consistency, it is recommended to use method ID 3828 or an equivalent method for establishing the transects. The measurements will be focused on the main channel, excluding other features or areas. This concentrated measurement strategy enables more precise and meaningful data analysis.
+
+4. Target: The primary goal of this method is to provide a systematic approach for collecting measurements at specific points along a main channel within a defined area.
+
+5. Constraints: One constraint for this method is the requirement for using method ID 3828 or a similar method for setting up transects. Another potential limitation could be the restriction of measurements to only the main channel, which may exclude important data from other associated features or areas.

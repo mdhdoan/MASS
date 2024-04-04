@@ -1,0 +1,9 @@
+ 1. Keywords: Photo points sampling, camera location documentation, reference photos, monitoring site condition, time-lapse detection.
+
+2. Abstract: The method of photo point sampling is crucial for accurately relocating survey reaches and documenting their conditions over time. This involves taking detailed photographs of the monuments and key features within the reach transects, serving as reliable reference points for future visits. By capturing high-quality images and meticulously recording camera locations, this method facilitates consistent monitoring and assessment of site changes through time.
+
+3. Description: The text provides a detailed description of the photo point sampling method, which is primarily used to establish precise photographic records of survey reaches. This process includes capturing reference images of monuments, as well as the top and bottom of reach transects. By thoroughly documenting camera locations in relation to points of interest within the site, researchers can return to these exact positions to repeat the photography at later stages. The resulting time-lapse series enables the detection and analysis of changes in the survey reaches over extended periods, providing valuable data for environmental or geographical studies.
+
+4. Target: The primary goal of this method is to create accurate photographic records and reference points that facilitate relocation, condition documentation, and long-term change detection in survey reaches.
+
+5. Constraints: Some constraints for the photo point sampling method may include accessibility limitations in reaching specific locations within the site, weather conditions affecting image quality, potential changes in landmarks or surroundings making it difficult to locate original camera positions, and technological advancements needed for accurate georeferencing of camera placements over time.

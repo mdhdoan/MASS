@@ -1,0 +1,9 @@
+ 1. Relevant keywords: Site layout, Transects, Bankfull elevation, Channel units, CHaMP protocols.
+
+2. Abstract: This method outlines a systematic approach for laying out a site, using techniques such as locating the site, establishing site markers, determining bankfull elevation and site width category, and dividing the site into channel units. The strategy is based on Site Layout v2.0 (Method 1579) and the CHaMP (2013) protocols, utilizing transects labeled A through K. This layout does not include benchmarks or monuments. By following this method, practitioners can ensure a standardized and efficient process for site preparation and data collection.
+
+3. Description: The text describes a site layout method that adheres to the CHaMP (2013) protocols while incorporating elements from Site Layout v2.0 (Method 1579). The method involves locating the site, establishing site markers, and determining bankfull elevation and site width category. This information is then used to divide the site into channel units. The transect strategy in this method follows that of Peck et al (2003), with transects A through K corresponding to odd-numbered transects in the CHaMP protocols (e.g., Transect A = Transect 1 and Transect C = Transect 5). The method omits benchmarks and monuments, which are typically used for precise measurements and alignment.
+
+4. Target: The primary goal of this method is to establish a standardized site layout strategy that adheres to established protocols while improving efficiency by simplifying the process.
+
+5. Constraints: This method does not include benchmarks or monuments, which may limit its applicability in situations requiring high precision measurements and alignment. Additionally, it assumes a basic understanding of the CHaMP (2013) protocols and Site Layout v2.0 (Method 1579).

@@ -1,0 +1,20 @@
+ 1. Keyword list:
+   - Survival modeling
+   - PIT tagged salmonids
+   - Apparent survival
+   - Smolt-to-adult-returns (SAR)
+   - Bottlenecks in survival
+
+2. Abstract:
+Survival modeling is crucial for identifying limitations during juvenile and adult migration periods, which can significantly affect population recovery of salmonids. Using PIT tagged salmonids allows for the estimation of apparent survival, providing insights into out-of-basin survival and smolt-to-adult-returns (SAR) rates. These metrics are essential for understanding within-basin productivity, ocean survival, and subsequent adult returns. Analyzing juvenile salmonid apparent survival helps managers detect bottlenecks in survival and compare patterns between wild and hatchery groups, contributing to improved overall production.
+
+3. Description:
+Survival modeling focuses on estimating potential limitations during critical periods of salmonid migration, including outmigration of juveniles and upstream migration of adults. The foundation of this analysis relies on information collected from PIT tagged salmonids, which enables the calculation of overall apparent survival rates. These estimates further provide insights into out-of-basin survival and smolt-to-adult-returns (SAR) rates, offering valuable metrics for understanding within-basin productivity, ocean survival, and subsequent adult returns.
+
+By evaluating smolt abundance estimates alongside SAR rates over time, managers can better understand the influences of freshwater versus oceanic factors on annual adult returns. Identifying bottlenecks in juvenile salmonid survival becomes possible through apparent survival calculations, which allows for more informed decision-making. Furthermore, comparing patterns between wild and hatchery groups enhances overall production strategies by addressing specific survival challenges faced by each group.
+
+4. Target:
+The primary focus of survival modeling is to improve population recovery and overall production of salmonids by identifying bottlenecks in survival during critical migration periods and understanding the influence of freshwater and oceanic factors on adult returns.
+
+5. Constraints:
+The success of survival modeling is dependent on accurate data collection, tag retention, and proper PIT tagging of salmonids. Additionally, the method assumes that the monitored populations are representative of the overall population and that there are no significant migration or emigration biases.

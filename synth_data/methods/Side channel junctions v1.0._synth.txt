@@ -1,0 +1,20 @@
+ Sure, I'd be happy to help! Here are the labeled topics you requested:
+
+1. Keywords:
+   * Side channel junctions
+   * Survey reach
+   * River complexity index (RCI)
+   * Counting method
+   * Calculation
+
+2. Abstract:
+The necessity of counting the number of side channel junctions in a survey reach is due to their importance in calculating the river complexity index (RCI). The RCI is a valuable tool for understanding river systems and their behavior. This method provides a standardized approach for counting side channel junctions, allowing for accurate and consistent calculations of the RCI.
+
+3. Description:
+The text describes a method for counting the number of side channel junctions in a survey reach as needed for the calculation of the river complexity index (RCI). The process involves identifying each side channel junction in the survey reach and counting it towards a total. This count is then used to calculate the RCI, which provides valuable insights into the complexity of the river system.
+
+4. Target:
+The primary focus or goal of this method is to provide a standardized approach for counting side channel junctions in a survey reach, allowing for accurate and consistent calculations of the RCI.
+
+5. Constraints:
+One constraint of this method is that it requires a thorough survey of the river system to accurately identify and count all side channel junctions. Additionally, the accuracy of the RCI calculation is dependent on the precision of the side channel junction count.

@@ -1,0 +1,18 @@
+ 1. Relevant keywords:
+   - Fall Chinook salmon redds
+   - Unmanned aerial surveys (UAS) or drones
+   - Video imagery analysis
+   - Long-term monitoring
+   - Statistical model
+
+2. Abstract:
+Unmanned aerial surveys using drones are employed to observe and count fall Chinook salmon redds in the Hells Canyon spawning area. Video imagery is analyzed to identify and count redds, which helps estimate the total number of redds for the entire river system. This long-term monitoring method assists in tracking annual redd counts for the Snake River fall Chinook salmon population, contributing to better management and conservation efforts.
+
+3. Description:
+The text describes a method that involves using unmanned aerial surveys (UAS or drones) to capture video imagery of fall Chinook salmon redds in the Hells Canyon spawning area. The redds are then counted from the video imagery by comparing observations from one sampling week to the next and summing the number of new redds seen over the course of the season. A statistical model is applied to expand these counts to represent the entire river system, which helps track annual redd counts for the Snake River fall Chinook salmon population. This method serves as a long-term monitoring effort, ensuring effective management and conservation strategies.
+
+4. Target:
+The primary focus of this method is to estimate and monitor the number of fall Chinook salmon redds in the Hells Canyon spawning area over time.
+
+5. Constraints:
+Constraints for this method may include factors affecting drone operations, such as weather conditions or airspace restrictions, limitations in image quality and analysis techniques, and potential human errors during data collection and interpretation.

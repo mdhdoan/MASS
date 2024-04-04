@@ -1,0 +1,9 @@
+ 1. Keywords: vertical distance, height, water surface, bankfull elevation, transects, floodplain connectivity.
+
+2. Abstract: This method involves identifying and measuring the vertical distance from the observed water surface to the bankfull elevation on one side of a channel at eleven main transects. This measurement helps quantify floodplain connectivity and is crucial for understanding the behavior and impact of floodwaters in a given area. The guidelines for dry transects are provided in Appendix C of the AIM protocol, while Appendix D offers visual references for bankfull height.
+
+3. Description: The method consists of taking vertical distance measurements at 11 main transects along a channel to determine the bankfull elevation on one side of the channel. This data can be used as an indicator of floodplain connectivity, allowing for more informed decision-making in managing water resources and flood risk mitigation. Guidance on measuring bankfull height at dry transects is provided in Appendix C of the AIM protocol. For visual examples, refer to Appendix D in the AIM protocol.
+
+4. Target: The primary focus of this method is to quantify floodplain connectivity and assess water levels relative to bank elevations for improved water resource management and flood risk mitigation.
+
+5. Constraints: Some constraints may include the difficulty in accurately identifying the bankfull elevation, especially at dry transects, or if vegetation obstructs the view of the channel. Time-consuming data collection and potential measurement errors can also pose challenges in applying this method effectively.

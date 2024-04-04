@@ -1,0 +1,22 @@
+ 1. Relevant keywords:
+   - Sampling method
+   - Snorkeling counts
+   - Juvenile anadromous salmonids
+   - Fish density and biomass
+   - Habitat types
+
+2. Abstract:
+This summer, a sampling study will be conducted to monitor spring and summer Chinook salmon and steelhead populations in their juvenile stage. The primary goal is to collect data on fish density, biomass, size, and condition factor for each age group of anadromous salmonids. Snorkeling counts will serve as the main sampling tool, allowing researchers to estimate relative abundances of both natural and hatchery-raised juvenile Chinook salmon and steelhead, along with other coexisting species in representative habitat types. This information is essential for understanding population dynamics, informing management strategies, and preserving these valuable aquatic resources.
+
+3. Description:
+The sampling method will focus on gathering data related to fish density (number/m2), biomass (grams/m2), size, and condition factor per age group of juvenile anadromous salmonids. The main tool for this study is snorkeling counts, used across different habitat types. Snorkeling observations are conducted in areas representing the diverse habitat types to ensure that data collected reflects a range of conditions. This methodology enables researchers to determine the density and relative abundance of juvenile Chinook salmon and steelhead of natural and hatchery origin, as well as other coexisting species.
+
+4. Target:
+The primary focus of this method is to assess and monitor the population dynamics of spring and summer Chinook salmon and steelhead through detailed data collection on their density, biomass, size, and condition factor in juvenile stages. Additionally, it aims to understand the relative abundance of these species in various habitat types.
+
+5. Constraints:
+The main constraints for this method include the following factors:
+- Water clarity and visibility may affect snorkeling counts and the accuracy of data collected.
+- Availability of trained personnel to perform snorkeling surveys might be limited, affecting the timeframe and intensity of the study.
+- Weather conditions during the sampling period (June 1 to September 15) can impact the feasibility of conducting snorkeling counts, particularly in cases of extreme temperatures or precipitation events.
+- Potential interference with fish behavior due to human presence during snorkeling surveys should be minimized to maintain data accuracy and integrity.

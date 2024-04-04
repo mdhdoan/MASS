@@ -1,0 +1,9 @@
+ 1. Keywords: Hatchery-origin spawners, Okanogan River Basin, RMIS database, in-to-basin stray rate, non-target basin.
+
+2. Abstract: This method is crucial for monitoring the composition of hatchery-origin spawners in the Okanagan River Basin. By estimating the in-to-basin stray rate of hatchery-origin fish using data from the RMIS database, this approach ensures that the contribution of hatchery-origin spawners reared in non-target basins is tracked effectively. This information is vital for understanding and managing the genetic diversity and overall health of fish populations in their natural habitats.
+
+3. Description: The Okanagan River Basin relies on monitoring the composition of hatchery-origin spawners to maintain the genetic integrity and sustainability of its fish populations. A significant aspect of this process involves tracking the contribution of hatchery-origin spawners reared in non-target basins, as their presence can affect local ecosystems. The RMIS (Recreational Management Information System) database contains essential data for estimating the stray rate of hatchery-origin fish into the target basin. This method focuses on using that information to accurately calculate the in-to-basin stray rate, providing a more comprehensive understanding of hatchery-origin spawners' contribution and their impact on the Okanagan River Basin ecosystem.
+
+4. Target: The primary focus of this method is to estimate the in-to-basin stray rate of hatchery-origin fish in the Okanagan River Basin using data from the RMIS database.
+
+5. Constraints: Possible constraints for this method include inconsistencies or errors in data collection and entry, limitations of the RMIS database, and potential difficulties in accurately tracing hatchery-origin spawners reared in non-target basins. Additionally, environmental factors influencing fish migration patterns may affect stray rate estimations.

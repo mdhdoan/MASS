@@ -1,0 +1,18 @@
+ 1. Relevant keywords:
+   - Quantify pool habitat
+   - Method 6872
+   - Habitat units
+   - Pools vs. Riffle/Runs
+   - Reach classification
+
+2. Abstract:
+Method 6872, "Habitat Units: Pools vs. Riffle/Runs v2.0," is recommended for quantifying the percentage of a river reach classified as pool habitat. This method provides standardized guidelines for classifying habitat units within a river reach, improving data consistency and comparability across studies. By accurately categorizing and measuring pool habitats, researchers can better understand aquatic ecosystem dynamics and make informed management decisions.
+
+3. Description:
+The objective of Method 6872 is to quantify the percentage of a river reach classified as pool habitat using the recommended collection method for classifying habitat units in a reach. The focus of this method is on Pools vs. Riffle/Runs, which are essential components of aquatic ecosystems and serve as critical habitats for various organisms. This version 2.0 update offers refined guidelines to enhance data quality and comparability across studies.
+
+4. Target:
+The primary goal of Method 6872 is to quantify pool habitat within a river reach, providing valuable insights into aquatic ecosystem dynamics and informing management decisions.
+
+5. Constraints:
+Method 6872 requires proper training to ensure consistent application and data quality. Additionally, specific field equipment may be necessary for accurate data collection, such as depth gauges and flow meters. Time and resource constraints might also impact the implementation of this method.

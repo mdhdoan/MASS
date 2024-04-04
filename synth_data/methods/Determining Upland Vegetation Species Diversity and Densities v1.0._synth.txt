@@ -1,0 +1,22 @@
+ 1. Relevant keywords:
+   - SRFB acquired lands
+   - Upland habitat maintenance
+   - Erosion and landslides prevention
+   - Vegetation health tracking
+   - Forest cover, brush, and grasslands diversity
+
+2. Abstract:
+This method focuses on maintaining and improving the upland habitats of SRFB (Salmon Recovery Funding Board) acquired lands to protect downslope portions of salmon-bearing streams. By monitoring forest cover, brush, and grassland species diversity and density, this approach aims to reduce erosion, landslides, high runoff, and high stream temperatures, ensuring the long-term health of these ecosystems.
+
+3. Description:
+SRFB acquired lands often contain significant upland habitats, which may have been purchased in fee title or by easement to protect riparian and instream habitat. These uplands are crucial for maintaining stream health and preventing issues like erosion, landslides, high runoff, and increased stream temperatures.
+
+To ensure the well-being of these upland habitats, this method proposes tracking changes in forest cover, brush, and grassland species diversity and density since the base year when the lands were purchased. By delineating major vegetation polygons, evaluating them in the field, and establishing transect and plot locations, managers can effectively monitor the health of these areas and make informed decisions regarding their conservation.
+
+4. Target:
+The primary goal of this method is to maintain or improve upland habitat health, particularly in areas where stream and riparian protection are high priorities.
+
+5. Constraints:
+- Availability of historical data on vegetation composition and structure since the base year
+- Accessibility for field evaluations and establishment of transects and plots
+- Potential limitations in resources, such as funding or personnel, for conducting long-term monitoring programs.

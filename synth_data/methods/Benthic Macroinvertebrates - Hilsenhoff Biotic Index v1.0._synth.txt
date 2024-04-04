@@ -1,0 +1,9 @@
+ 1. Keywords: Hilsenhoff Biotic Index, pollution tolerance, benthic macroinvertebrates, environmental quality, riffle habitats.
+
+2. Abstract: The Hilsenhoff Biotic Index (HBI) is a valuable method used to assess environmental quality by evaluating the presence of pollution-tolerant benthic macroinvertebrate families. This index, developed by Hilsenhoff in 1988, assigns values between 0 and 10 to each taxa, with higher proportions of tolerant organisms indicating possible contamination. Initially created for riffle habitats, the HBI has become an essential tool in environmental monitoring and management.
+
+3. Description: The Hilsenhoff Biotic Index (HBI) is a method that relies on pollution tolerance values assigned to various benthic macroinvertebrate families. These values range from 0 to 10, with higher scores indicating increased tolerance to pollution. By examining the composition of these organisms at a site, researchers can estimate the environmental quality and potential contamination levels. This index was initially developed based on samples collected from riffle habitats, which typically host diverse macroinvertebrate communities. Sites with high HBI values may require further investigation to identify possible pollution sources and implement appropriate management strategies.
+
+4. Target: The primary focus of the Hilsenhoff Biotic Index is to determine environmental quality and detect potential pollution impacts on aquatic ecosystems using benthic macroinvertebrate communities.
+
+5. Constraints: The HBI method has certain constraints, such as its original development for riffle habitats. This may limit its applicability in other aquatic environments with different macroinvertebrate assemblages. Furthermore, the success of this method depends on accurate taxonomic identification and proper assignment of pollution tolerance values to each family, which can be time-consuming and require specialized expertise.

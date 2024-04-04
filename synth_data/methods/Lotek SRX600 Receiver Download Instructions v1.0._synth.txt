@@ -1,0 +1,13 @@
+ 1. Relevant keywords: Radio telemetry, Animal tracking, Lotek tags and receivers, Salmon monitoring, Portable receivers
+
+2. Abstract: This method describes the use of radio telemetry tags and receivers for tracking animals over large geographic regions. Developed by Lotek, a Canadian company specializing in radio telemetry products, this technology has been widely used for monitoring adult salmon in the Snake River basin. The equipment's portability allows for seasonal installation and removal, as well as flexible deployment via fixed locations or mobile platforms like boats or planes. This method provides an efficient, non-invasive solution for gathering critical data on animal movement and distribution in aquatic environments.
+
+3. Description: Radio telemetry tags and receivers by Lotek enable biologists to monitor animals across vast regions without requiring permanent infrastructure. The tag emits individual codes that can be detected over several hundred yards from the shoreline of large rivers, allowing for passive tracking. When applied to returning adult salmon, receivers can be installed at fixed points along the river with multiple antennas facing upstream, downstream, and towards tributaries. This configuration helps define spawning reaches within a basin, as demonstrated by Snake River Fall Chinook salmon monitoring. Additionally, receivers can be mounted on moving platforms like automobiles, boats, or planes to cover larger areas more quickly. Lotek's equipment has been extensively utilized throughout the Snake River basin and is currently employed by several agencies in the region.
+
+4. Target: The primary goal of this method is to provide an efficient, adaptable solution for tracking animals using radio telemetry tags and receivers, specifically focusing on adult salmon monitoring in the Snake River basin.
+
+5. Constraints: While radio telemetry tags and receivers offer numerous benefits, they may face some limitations, including:
+   - Tag performance might be affected by water conditions or fish behavior, leading to reduced detection range.
+   - Equipment cost can be relatively high compared to other monitoring methods.
+   - Limited battery life for tags could necessitate frequent tag replacement or recharge.
+   - Potential regulatory restrictions on the use of radio telemetry equipment in specific areas or contexts.

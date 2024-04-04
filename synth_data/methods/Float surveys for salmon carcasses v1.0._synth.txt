@@ -1,0 +1,18 @@
+ 1. Keywords: 
+   - Salmon carcasses
+   - Spawning grounds
+   - Data collection
+   - Research monitoring
+   - Demographic characteristics
+
+2. Abstract:
+   This method focuses on the retrieval of salmon carcasses from spawning grounds as a valuable source of information for research and monitoring applications. Surveying spawning grounds during the spawning season allows researchers to collect carcasses and gather important data regarding various aspects, such as spawning escapement, pre-spawn mortality, egg retention, demographic characteristics, genotypic and phenotypic traits, stray rates, and spawning composition. This method is crucial in understanding salmon populations and their evolution.
+
+3. Description:
+   The text describes the significance of collecting salmon carcasses from spawning grounds as a data collection method for research and monitoring purposes. By conducting surveys during the spawning season, researchers can gather valuable data relating to various aspects of salmon population dynamics, including pre-spawn mortality, egg retention, demographic characteristics, genotypic and phenotypic traits, stray rates, and spawning composition (ratio of hatchery- vs natural-origin spawners). This information aids in understanding the evolution and health of salmon populations. The method described here is specific to surveying and collecting carcasses from spawning grounds, with additional methods available for further assessment of collected carcasses, such as biological sampling or tag/mark interrogations.
+
+4. Target:
+   The primary focus of this method is to gather essential data about salmon populations by retrieving and analyzing carcasses collected from spawning grounds.
+
+5. Constraints:
+   This method is limited to the survey and collection of salmon carcasses during the spawning season. Additional methods, such as biological sampling or tag/mark interrogations, are required for further data analysis.

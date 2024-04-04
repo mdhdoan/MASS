@@ -1,0 +1,18 @@
+ 1. Relevant keywords:
+   - Juvenile Salmonid estimation
+   - Snorkel surveys
+   - Topographic surveys
+   - Stream channel unit classification
+   - RBT- Channel Unit Calculation
+
+2. Abstract:
+This method aims to accurately calculate the number of juvenile salmonids in various stream channel units by utilizing data from snorkel and topographic surveys. By employing Estimating Instream Juvenile Salmonid Abundance Using Snorkeling v1.0, Topographic Point Collection v2.0, Channel Unit Classification v2.0, and RBT - Channel Unit Calculation v1.0, this method provides a comprehensive approach to assess juvenile salmonid populations in their habitats. This information is crucial for understanding population dynamics, habitat suitability, and informing conservation efforts.
+
+3. Description:
+The text body details a method that utilizes various data collection and analysis techniques to estimate the number of juvenile salmonids in stream channel units. Data is gathered through snorkel surveys using Estimating Instream Juvenile Salmonid Abundance Using Snorkeling v1.0, which offers a non-destructive and cost-effective means of assessing fish populations. Topographic Point Collection v2.0 is used to collect topographic data from stream channels, providing valuable information about the physical characteristics of the habitat. Channel Unit Classification v2.0 categorizes stream channel units based on their features and attributes, allowing for further analysis and comparison. Finally, RBT - Channel Unit Calculation v1.0 calculates the number of juvenile salmonids present in each classified stream channel unit.
+
+4. Target:
+The primary focus of this method is to calculate and provide a detailed assessment of juvenile salmonid abundance within different stream channel units, offering insights into population distribution and habitat suitability for these species.
+
+5. Constraints:
+The success of the method depends on accurate data collection during snorkel surveys and topographic surveys. The classification of stream channel units may also pose challenges due to the varying features and attributes of each unit. Additionally, potential limitations in detecting juvenile salmonids during snorkeling surveys should be considered when interpreting the results.

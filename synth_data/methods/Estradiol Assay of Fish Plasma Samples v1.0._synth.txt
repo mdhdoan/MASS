@@ -1,0 +1,9 @@
+ 1. Keywords: Estradiol, Plasma estradiol levels, Fish sexual development, Feed restriction, Maturational status
+
+2. Abstract: This text discusses the role of estradiol in female sexual development in fish, with a focus on rainbow trout. It highlights the correlation between plasma estradiol levels and spawning, indicating that estradiol may serve as a marker for maturational status. The text also explores the impact of feed restriction on plasma estradiol levels, suggesting its potential use as a tool to indicate maturational status in post-spawning fish.
+
+3. Description: The text begins by identifying estradiol as the primary gonadal steroid regulating female sexual development in fish, specifically mentioning rainbow trout. It then details how plasma estradiol levels increase approximately 8 months prior to spawning and peak around 4 months before spawning. The text also cites various sources supporting these findings. The text further discusses the effect of feed restriction on plasma estradiol levels in maturing female salmonids, indicating a significant decrease in estradiol levels within 10 weeks after spawning. This finding suggests that plasma estradiol levels may indicate maturational status in post-spawning fish.
+
+4. Target: The primary focus of the method is to explore the correlation between plasma estradiol levels and maturational status in female steelhead kelts, with the aim of potentially using it as a tool for indicating maturational status in post-spawning fish.
+
+5. Constraints: The main constraint for this method is the need for further research to establish a more robust correlation between plasma estradiol levels and maturational status in female steelhead kelts, as well as determining the optimal time frame for measuring these levels to ensure accurate indications of maturational status.

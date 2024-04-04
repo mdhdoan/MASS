@@ -1,0 +1,20 @@
+ Sure, I'd be happy to help! Here are the most relevant keywords for the text body you provided:
+1. Groundwater monitoring
+2. Water table elevation
+3. Groundwater temperature patterns
+4. Floodplain reconnection projects
+5. Seasonal oscillations
+
+Now, let's move on to the other sections:
+
+2. Abstract:
+This method outlines a procedure for analyzing groundwater temperature data in order to detect changes in water table elevation and surface water temperature patterns. By comparing the amplitude and synchronicity of groundwater and surface water temperature cycles in restored and reference areas, this analysis can help provide evidence that restoration work is achieving project goals. The method models seasonal oscillations in groundwater and surface water temperature to examine their amplitude and timing, assuming that data were collected at an hourly resolution using specific types of loggers.
+
+3. Description:
+The text body describes a method for analyzing groundwater temperature data as part of a restoration monitoring design. The data should include both reference sites (which received no manipulations) and treated sites (where restoration activities have occurred). The goal is to compare the amplitude and synchronicity of groundwater and surface water temperature cycles in these areas. Groundwater temperature patterns are expected to align more closely with surface water patterns in areas where groundwater is closer to the land surface, indicating a rise in the water table and potential groundwater-surface water exchange. The method models seasonal oscillations in groundwater and surface water temperature to evaluate how their parameters have changed since restoration. The analysis assumes that data were collected from wells installed as part of a restoration monitoring design and instrumented with Onset HOBO U20 Water Level Loggers, and that hourly monitoring data from surface water temperature loggers are also available.
+
+4. Target:
+The primary focus or goal of this method is to compare the amplitude and synchronicity of groundwater and surface water temperature cycles in restored and reference areas, in order to provide evidence that restoration work is achieving project goals.
+
+5. Constraints:
+The constraints for this method include the availability of hourly monitoring data from both groundwater and surface water temperature loggers installed at both treated and control sites. Additionally, the analysis assumes that the data were collected using specific types of loggers and at a resolution of one reading per hour or two hours for the duration of the monitoring period. Finally, the method focuses on analyzing groundwater temperature patterns and does not discuss water table elevation data in detail.

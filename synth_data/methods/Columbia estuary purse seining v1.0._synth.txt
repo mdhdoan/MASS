@@ -1,0 +1,22 @@
+ 1. Relevant keywords:
+   - Juvenile salmon capture
+   - Columbia River estuary
+   - Measuring fish
+   - Enumerating fish
+   - Lethal sampling
+   - Salmon recruitment variability
+   - Coho and Chinook salmon
+   - Columbia River Plume
+   - Juvenile salmon characterization
+
+2. Abstract:
+The text describes a method used to study juvenile salmon and associated fish in the Columbia River estuary, including measurements, enumeration, and lethal sampling. This research forms part of a long-term effort to understand coastal ecosystems and factors influencing recruitment variability of Pacific Northwest salmon, specifically focusing on how biotic and abiotic environmental conditions impact early marine life history of coho and Chinook salmon. The area of focus is the Columbia River Plume, which has high salmonid abundance and is affected by human activities. By sampling salmon in the estuary, scientists can characterize them immediately before ocean entry, providing valuable insights for conservation efforts.
+
+3. Description:
+The method involves capturing juvenile salmon and associated fish in the Columbia River estuary to study their early marine life history. This research is part of a long-term Bonneville Power Administration-funded effort by academic and federal scientists aimed at understanding coastal ecosystems and factors influencing Pacific Northwest salmon recruitment variability. The current focus is on examining the effects of biotic and abiotic environmental conditions on coho and Chinook salmon, with a particular emphasis on the Columbia River Plume due to its high abundance of salmonids and influence from human activities. By sampling salmon in the estuary, scientists can characterize them immediately before ocean entry, gaining insights into their biological and physical processes.
+
+4. Target:
+The primary goal of this method is to understand and analyze the effects of various environmental conditions on coho and Chinook salmon during their early marine life history, specifically within the Columbia River Plume area.
+
+5. Constraints:
+The constraints for this method include potential limitations in sampling techniques, challenges in accurately measuring and enumerating fish populations, ethical considerations related to lethal sampling, and the influence of anthropogenic factors on the environment, which can complicate data interpretation.

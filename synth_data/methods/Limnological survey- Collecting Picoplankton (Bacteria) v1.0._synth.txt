@@ -1,0 +1,11 @@
+ 1. Keywords: Picoplankton, planktonic organisms, primary production, nutrient loading, enumeration methods.
+
+2. Abstract: This method is crucial for accurately assessing picoplankton, which are critical to the primary production in aquatic systems, particularly those with a strong microbial component. The procedure provides standardized steps for collecting and preserving picoplankton samples for external laboratory enumeration using techniques from MacIsaac and Stockner (1993). By following these guidelines, researchers can ensure accurate data collection on the distribution and abundance of these vital organisms in marine and freshwater systems, facilitating studies examining changes in nutrient loading.
+
+3. Description: Picoplankton refers to planktonic (free-drifting) organisms within the size range of 0.2 to 2.0m. These microorganisms are prevalent in all marine and freshwater systems, consisting of autotrophs such as cyanobacteria and heterotrophic bacteria. Due to their significant contribution to primary production in many lakes and reservoirs, understanding picoplankton is essential when investigating aquatic systems with strong microbial components.
+
+The method discussed here outlines field collection and preservation techniques for subsequent picoplankton enumeration by external laboratories using MacIsaac and Stockner's (1993) methods. These guidelines aim to ensure consistent sample handling, enabling accurate measurement of picoplankton populations. Given their role as primary producers, monitoring these organisms can help detect early responses to nutrient loading changes, providing valuable insights into ecosystem health.
+
+4. Target: The primary goal is to establish standardized procedures for the field collection and preservation of picoplankton samples, allowing accurate enumeration by external contracting labs.
+
+5. Constraints: It is important to adhere strictly to the specified collection and preservation protocols described in this method to maintain sample integrity and ensure accurate enumeration results from external laboratories.

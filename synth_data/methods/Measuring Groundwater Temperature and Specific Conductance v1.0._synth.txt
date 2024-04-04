@@ -1,0 +1,9 @@
+ 1. Keywords: Groundwater temperature, conductivity, wells, groundwater-surface water interaction, water origin indication
+
+2. Abstract: The method described focuses on measuring groundwater temperature and conductivity from wells as a means to identify areas of groundwater-surface water interaction and infer the age and origin of groundwater. This approach provides valuable insights for developing and managing groundwater networks by helping determine potential influences, sources, and water quality factors.
+
+3. Description: The text details a method for monitoring groundwater temperature and conductivity levels in wells to identify areas where groundwater interacts with surface water. Groundwater temperature can indicate the presence of nearby surface water due to their influence on one another. Conductivity measurements provide information about the age and origin of groundwater, as well-conductivity increases with higher mineral content and temperature. By analyzing this data, hydrogeologists and environmental scientists can better understand groundwater systems, improve network management, and make informed decisions regarding water resources.
+
+4. Target: The primary focus of this method is to aid in the development and management of groundwater networks by gathering critical information on groundwater-surface water interactions and water origins.
+
+5. Constraints: This method relies on access to wells for data collection, which might not be available or easily accessible in all locations. Additionally, temperature and conductivity measurements alone may not provide a complete understanding of groundwater systems and should ideally be used in conjunction with other monitoring techniques.

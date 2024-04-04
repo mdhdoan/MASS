@@ -1,0 +1,9 @@
+ 1. Relevant keywords: Fork length, fish measurement, forked caudal fins, damaged fin rays, eroded fin rays
+
+2. Abstract: Fork length is a crucial measurement in fish studies, particularly for species with forked caudal fins. This method addresses the challenge of accurately measuring fork length when the longer dorsal and ventral rays are often damaged or eroded. By focusing on the tip of the median caudal fin rays, researchers can obtain consistent and accurate measurements, aiding in studies related to fish growth, health, and population dynamics.
+
+3. Description: Fork length is defined as the distance from the most anterior part of a fish to the tip of the median caudal fin rays (Caudal peduncle). This measurement method is more reliable for fish species with forked caudal fins, where the dorsal and ventral rays are typically longer than the median rays. As these longer rays are prone to damage or erosion due to contact with rocks, debris, or hatchery walls, focusing on the tips of the median caudal fin rays ensures consistent and accurate measurements. By utilizing fork length, researchers can effectively study fish growth patterns, health indicators, and population dynamics while accounting for potential ray damage in their assessments.
+
+4. Target: The primary focus of this method is to establish a standardized approach for measuring the fork length of fish species with forked caudal fins accurately, regardless of any damage or erosion to the longer dorsal and ventral rays.
+
+5. Constraints: The main constraints for this method include ensuring that the fish being measured does not experience further injury during the process, as well as correctly identifying the most anterior part of the fish and the tip of the median caudal fin rays in cases where the fins are heavily damaged or obscured.

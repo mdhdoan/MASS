@@ -1,0 +1,18 @@
+ Sure, I'd be happy to help! Here are five highly relevant keywords related to the method described in the text body:
+
+1. Zooplankton biomass estimation
+2. Literature values for mg of carbon per individual
+3. Length-weight regressions
+4. Carbon weight averages and length wet-weight relations
+5. Sample collection and analysis
+
+Now, let's move on to the rest of your request:
+
+2. Abstract:
+This method describes a process for estimating zooplankton biomass using literature values and length-weight regressions. The necessity for this method arises from the lack of existing biomass values for many species, which requires researchers to use related species or estimate biomass based on individual measurements. This method provides a standardized approach for calculating zooplankton biomass that can be used by researchers in the field.
+3. Description:
+The method begins by explaining the importance of meso- and microzooplankton biomass for estimating available lower trophic food. Biomass is typically calculated based on average weights derived from literature values, which apply a single value for mg of carbon per individual for all individuals of a given life stage. However, there may be no existing biomass values for many species, so related species must be used instead. For mysids collected by the Environmental Monitoring Program (EMP) and the Fall Midwater Trawl (FMWT), the first 100 individuals are measured to the nearest mm, and biomass is calculated based on length-weight regressions. These regressions provide a more accurate estimate of total biomass than literature values but may vary depending on individual factors such as sex, reproductive state, health, and time of year. The method also includes updated biomass conversions from the literature and a Zooplankton Biomass Lookup Table that provides carbon weight averages for micro-zooplankton and length wet-weight relations for macrozooplankton species. These estimates are derived from published and unpublished studies, and sample cups are dried and analyzed for carbon and nitrogen using an elemental analyzer.
+4. Target:
+The primary focus of this method is to provide a standardized approach for estimating zooplankton biomass that can be used by researchers in the field.
+5. Constraints:
+One constraint of this method is the lack of existing biomass values for many species, which requires researchers to use related species or estimate biomass based on individual measurements. Additionally, the accuracy of length-weight regressions may vary depending on individual factors such as sex, reproductive state, health, and time of year. Finally, the method relies on the availability of published and unpublished studies for carbon weight averages and length wet-weight relations.

@@ -1,0 +1,28 @@
+ 1. Relevant keywords:
+   - Hatchery spring Chinook salmon
+   - Tribal subsistence fishery
+   - Single access point creel design
+   - Fishery managers
+   - Tribal harvest effort
+   - Biological and tag recovery information
+   - West Fork of the Hood River
+   - Punchbowl Falls
+   - Fisher interviews
+   - Sampled harvested fish
+
+2. Abstract:
+A tribal subsistence fishery for hatchery spring Chinook salmon is opened in the Hood River basin when run forecasts suggest a suitable return of the species. The management focuses on gathering information about tribal harvest effort, catch, and biological details of the fish. To achieve this, a single access point creel design is implemented, where tribal members are employed to collect data through fisher interviews and fish sampling at the West Fork of the Hood River near Punchbowl Falls. This method enables better understanding of the fishery's impact on the hatchery spring Chinook salmon population, informing sustainable management strategies.
+
+3. Description:
+The text describes a specific data collection process for a tribal subsistence fishery focused on hatchery spring Chinook salmon in the Hood River basin. The methodology involves implementing a single access point creel design based on Pollack et al. (1994). This approach requires employing tribal members to manage the access point, conduct interviews with fishers, and collect samples from harvested fish for biological analysis. The chosen location is the West Fork of the Hood River near Punchbowl Falls, a site known for virtually all tribal fishing activities. By gathering information on harvest effort, catch, and biological characteristics, fishery managers can monitor the fishery's impact on hatchery spring Chinook salmon stocks, ensuring sustainable practices through informed decision-making.
+
+4. Target:
+The primary focus of this method is to collect detailed data about a tribal subsistence fishery for hatchery spring Chinook salmon in order to facilitate informed and sustainable management strategies.
+
+5. Constraints:
+The success of this method relies on several factors, including:
+- Accurate run forecasts predicting suitable returns of hatchery spring Chinook salmon
+- Cooperation from tribal members to collect required data at the designated access point and during interviews
+- Proper implementation and monitoring of the single access point creel design following guidelines set out in Pollack et al. (1994)
+- Availability and effectiveness of biological analysis techniques for collected fish samples
+- Ensuring that the chosen location near Punchbowl Falls offers reliable access, accommodating most tribal fishing activities

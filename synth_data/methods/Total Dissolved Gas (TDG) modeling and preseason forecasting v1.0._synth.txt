@@ -1,0 +1,22 @@
+ 1. Relevant keywords:
+   - NOAA's COMPASS model
+   - Juvenile salmon survival and travel time
+   - Hydro System Simulation (HYDSIM) model
+   - TDG predictive model
+   - Flow, spill%, pool elevations inputs
+
+2. Abstract:
+NOAA's Survival and Travel Time Model for juvenile salmon, COMPASS, is a powerful tool to analyze fish exposure to varying environmental conditions in river systems. By matching fish timing and location with river conditions, COMPASS effectively assesses fish exposure to different indices. Furthermore, it serves as a forecasting tool using predicted hydrosystem operations and available environmental condition data. However, there is a need for a predictive TDG (Total Dissolved Gas) model to anticipate potential harmful TDG levels for juvenile salmon management. This paper discusses the development of such a model, limited to a few key variables derived from the HYDSIM modeling process, including flow, spill%, and pool elevations at 15 sites in the hydrosystem.
+
+3. Description:
+The Comprehensive Passage (COMPASS) model developed by NOAA is used for estimating juvenile salmon survival and travel time while accounting for varying environmental factors in river systems. By aligning fish movement with river conditions, COMPASS accurately determines fish exposure to specific indices. Apart from its assessment capabilities, COMPASS can also be utilized as a forecasting tool, employing predicted hydrosystem operations and available environmental condition data.
+
+The Hydro System Simulation (HYDSIM) model generates flow and spill predictions independently, while long-term averages and flow conditions are used to estimate other environmental factors such as temperature. Despite these features, a predictive TDG (Total Dissolved Gas) model is required for anticipating potential harmful TDG levels to aid juvenile salmon management.
+
+Production models for forecasting TDG in this context rely on limited variables derived from the HYDSIM modeling process, including flow, spill%, and pool elevations at 15 sites within the hydrosystem. The text does not provide further information on model development or implementation specifics.
+
+4. Target:
+The primary goal of this method is to create a predictive TDG (Total Dissolved Gas) model using limited variables derived from HYDSIM modeling for juvenile salmon management and harmful TDG level anticipation.
+
+5. Constraints:
+The constraints for the current method include reliance on limited variables, such as flow, spill%, and pool elevations at 15 sites within the hydrosystem, generated through the HYDSIM modeling process for developing a predictive TDG model.

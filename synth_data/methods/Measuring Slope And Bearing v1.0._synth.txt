@@ -1,0 +1,9 @@
+ 1. Keywords: water surface slope, bearing, residual pool depth, cross sectional stream complexity, transects.
+
+2. Abstract: The measurement of the water surface slope and bearing is crucial for determining the residual pool volume in a stream. This method involves two people back-sighting downstream between transects to obtain the necessary measurements. By understanding the changes in cross sectional stream complexity typified by pools and riffles, this information can be used to calculate the residual pool depth and volume. This data provides insight into the behavior of water flow and the characteristics of the stream's structure.
+
+3. Description: The method for determining the water surface slope and bearing involves two people using transects to measure the changes in cross sectional stream complexity, specifically focusing on pools and riffles. By back-sighting downstream between transects, these individuals can calculate the residual pool depth, which is the amount of water that would remain in the pools if there were no flow and the pools were impermeable basins. The purpose of measuring this parameter is to show how the stream's complexity changes along its course.
+
+4. Target: The primary focus of this method is to calculate residual pool depth and volume, providing valuable information about cross sectional stream complexity.
+
+5. Constraints: This method requires the use of two people to obtain accurate measurements, as well as the presence of transects in the stream. Additionally, the measurement process may be affected by environmental factors such as weather conditions or water turbidity.

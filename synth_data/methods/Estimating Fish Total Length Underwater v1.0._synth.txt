@@ -1,0 +1,22 @@
+ 1. Keywords:
+* Fish length estimation
+* Snorkeling activities
+* Underwater measurement
+* Calibrated dowels and fish cutouts
+* Live fish marking or caging
+
+2. Abstract:
+This method discusses the importance of estimating fish lengths in underwater activities, such as snorkeling, when using a traditional measuring board is not feasible. Due to the magnification effect of objects viewed underwater, researchers need to practice estimating sizes accurately. The article suggests several methods for this purpose, including using calibrated wooden dowels or floating cutouts of fish of various sizes attached to weights and distributed throughout a stream channel. Snorkelers can also use live fish of known sizes, either by marking individual fish in a stream reach or capturing fish of different size classes and placing them in temporary live cages for independent viewing and reporting.
+
+3. Description:
+The necessity of estimating fish lengths during underwater activities is highlighted due to the impracticality of using measuring boards while snorkeling. The text explains how objects viewed underwater are magnified approximately 1.3 times, requiring researchers to practice estimating sizes accurately. The article then proposes several methods for this purpose:
+* Snorkelers can use calibrated wooden dowels or floating cutouts of fish of various sizes attached to weights and distributed throughout a stream channel to practice estimating the size of objects underwater.
+* Researchers can also utilize live fish of known sizes, either by individually marking fish in a stream reach for snorkelers to estimate their sizes or capturing fish of different size classes and placing them in temporary live cages. Snorkelers then independently view each fish and report their results to an instructor.
+
+4. Target:
+The primary goal of this method is to provide practical solutions for accurately estimating fish lengths during underwater activities when using a traditional measuring board is not feasible.
+
+5. Constraints:
+* The use of wooden dowels or floating cutouts may be limited by environmental factors and regulations.
+* Marking live fish may require specialized equipment, expertise, and permission from relevant authorities.
+* Using temporary live cages for capturing fish of different size classes requires proper handling, monitoring, and release to minimize harm to the captured animals.

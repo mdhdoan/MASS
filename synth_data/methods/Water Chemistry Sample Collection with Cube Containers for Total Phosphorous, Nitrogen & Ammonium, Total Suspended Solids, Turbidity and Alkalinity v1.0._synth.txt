@@ -1,0 +1,9 @@
+ 1. Keywords: water sampling, in-stream, water chemistry analyses, TP, TN
+
+2. Abstract: The necessity to analyze water chemistry is crucial for understanding the health of aquatic systems. This method outlines the process of collecting water samples in-stream to test for various parameters such as total phosphorous (TP), total nitrogen (TN), and total suspended solids (TSS). By monitoring these levels, environmental scientists can assess the water quality and detect any potential pollution sources or ecological changes.
+
+3. Description: The text body describes a method to collect water samples in-stream for various water chemistry analyses, including TP, TN, total ammonium, nitrate, basic anions, cations, TSS, turbidity, acid neutralizing capacity (ANC), alkalinity, dissolved oxygen carbon (DOC) and total organic carbon (TOC). This method is essential to determine the water quality and health of aquatic systems. By monitoring these parameters, scientists can detect any changes or anomalies in the water chemistry that may be caused by pollution sources or natural processes. Each parameter provides unique information about the water quality, such as TP and TN, which are indicators of eutrophication, while TSS and turbidity provide information on sediment load and water clarity.
+
+4. Target: The primary focus of this method is to collect water samples for in-stream water chemistry analyses, enabling the monitoring and assessment of aquatic systems' health.
+
+5. Constraints: This method requires specialized equipment, training, and knowledge of water sampling techniques and safety procedures. Additionally, environmental factors such as weather conditions, water depth, and flow rates can impact the collection process.

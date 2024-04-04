@@ -1,0 +1,24 @@
+ 1. Relevant keywords:
+   - Benthic macroinvertebrates (BMIs)
+   - Surber sampler
+   - Kick net
+   - Targeted-riffle method
+   - Reachwide protocol
+   - Biological integrity assessment
+   - Gerth and Herlihy 2006; Rehn et al. 2007
+
+2. Abstract:
+Benthic macroinvertebrates (BMIs) play a significant role in assessing aquatic ecosystem health. This method discusses two approaches—targeted-riffle and reachwide—to collect BMIs using Surber samplers or kick nets, prioritizing the Surber sampler. The choice between methods depends on the presence of fast-water habitats. Both have been shown to yield comparable data by Gerth and Herlihy (2006) and Rehn et al. (2007), making them interchangeable for assessing macroinvertebrate biological integrity.
+
+3. Description:
+The method focuses on the collection of BMIs through two sampling approaches, targeted-riffle and reachwide. The former, designed for reaches with fast-water or riffle habitats, is the default method due to increased efficiency. It involves collecting BMIs from riffle or fast-water areas and compositing 8 Surber or kick net samples into a single sample. In contrast, the reachwide protocol targets low gradient reaches without fast-water habitats. Here, collectors gather BMI samples just downstream of 11 main transects, compositing them into one sample.
+
+The text highlights the importance of collecting BMIs before physical habitat data and specifies that both methods require identification of sampled habitats (targeted-riffle or reachwide) and the number of replicate samples. Notably, Gerth and Herlihy (2006), as well as Rehn et al. (2007), have demonstrated similar results from these two approaches, making them interchangeable in terms of biological integrity assessment.
+
+4. Target:
+The primary goal is to establish a standardized method for collecting BMIs using either the targeted-riffle or reachwide approach, ensuring the consistency and accuracy of macroinvertebrate biological integrity assessments.
+
+5. Constraints:
+- The methods are limited by the necessity of prior knowledge about fast-water habitats to determine the appropriate collection technique.
+- Both methods require substantial time and effort for sample processing due to the compositing of multiple samples into one composite sample.
+- Although interchangeable, differences in precision and accuracy between the two methods might still exist, potentially impacting data reliability.

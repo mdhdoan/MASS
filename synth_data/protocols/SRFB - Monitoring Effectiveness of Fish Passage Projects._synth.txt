@@ -1,0 +1,12 @@
+ 1. Abstract: This protocol outlines the methods and monitoring approach for fish passage projects, which are part of a larger Reach-Scale Effectiveness Monitoring program. The goal is to ensure engineered fish passage projects continue to meet design criteria and increase abundance of target salmonids upstream post-project.
+2. Values, Statements, and Outcomes: 
+   - Values: Importance of restoring fish habitats and ensuring the success of salmon recovery efforts.
+   - Problem Statement: Existing barriers in streams and small rivers limiting access to spawning grounds for targeted species of salmon and trout.
+   - Desired Outcomes: Confirmation that fish passage projects meet design criteria and demonstrate increased abundance of target salmonids upstream within five years post-project.
+3. Description: The protocol focuses on monitoring fish passage projects, including bridge projects, culvert improvements, dam removals, debris removals, diversion dam passages, fishway construction, weirs, and water management projects. Monitoring involves assessing fish abundance both downstream and upstream of fish blockages at years 0, 1, 2, and 5, as well as checking if design criteria are met at each project monitored during the same timeframe. Project managers determine appropriate design criteria for individual projects.
+4. Objectives:
+   - Objective: Monitor the effectiveness of fish passage projects in restoring upstream access to targeted species.
+   - Summary of Solution Coverage: The objective addresses both questions posed by the problem statement—project performance and overall impact on salmonid populations.
+   - Keywords: Fish passage projects, monitoring, design criteria, salmonids, increased abundance, upstream access.
+5. Target: Effective fish passage projects ensuring increased abundance of target salmonids upstream within five years post-project.
+6. Constraints: The success of the protocol depends on factors such as accurate project design criteria, proper implementation of monitoring programs, and consistent data collection across different project sites.

@@ -1,0 +1,12 @@
+ 1. Abstract: This text discusses the need to study and understand the redband trout populations in the Spokane River, Lake Roosevelt, and the upper Columbia River. The construction of Grand Coulee Dam altered the life history form of these fish and potentially blocked migration routes and isolated habitats. Further investigation is required to identify wild redband trout populations, quantify their numbers, locate their spawning sites, and determine the importance of main channel spawners in the overall population.
+2. Values, Statements, and Outcomes: 
+   - Values: Understanding and preserving local wildlife and habitats.
+   - Problem Statement: The life history form of redband trout has been altered, and their populations may be isolated due to dam construction. Spawning locations and stocks' status are not fully known in the targeted areas.
+   - Desired Outcomes: Identification of redband trout populations, quantification of adult spawners and redds (spawning nests), determination of potential spawning sites, and assessment of the significance of main channel spawners for the overall population.
+3. Description: The text focuses on the need to study redband trout in specific areas impacted by dam construction. Further investigation is required to identify wild populations, quantify redds and adult spawners, locate current spawning sites, and determine potential new sites. Specific methodologies for data collection and analysis are not provided.
+4. Objectives: 
+   - Objective: Investigate redband trout populations in the Spokane River, Lake Roosevelt, and the upper Columbia River to understand their status, distribution, and spawning habits.
+   - Summary of Solution Coverage: This objective covers understanding the current state of redband trout stocks, identifying potential new spawning sites, and quantifying adult spawners and redds in these areas.
+   - Keywords: Redband trout, Spokane River, Lake Roosevelt, upper Columbia River, wild populations, redds, adult spawners, spawning locations, potential spawning locations, main channel spawners.
+5. Target: Comprehensive understanding of redband trout populations in the targeted areas and their life history strategies.
+6. Constraints: The primary constraint mentioned is that identification of wild redband trout populations and their life history strategies has not been completed in portions of the Spokane River, Lake Roosevelt, and the upper Columbia River.

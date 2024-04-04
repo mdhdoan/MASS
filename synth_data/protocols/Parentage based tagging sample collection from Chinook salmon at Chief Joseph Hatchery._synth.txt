@@ -1,0 +1,19 @@
+ **Protocol for Collecting PBT Genetic Samples from Hatchery Chinook Salmon at Chief Joseph Hatchery**
+
+1. Abstract: The Colville Confederated Tribes - Chief Joseph Hatchery Science Program (CJHP) collects genetic samples (DNA) from all Chinook salmon spawned at the Chief Joseph Hatchery annually, following a request from the Columbia River Intertribal Fish Commission (CRITFC). This process supports parentage-based tagging (PBT), which involves genotyping all broodstock and creating a parental genotype database. PBT allows for tracing the origin of every juvenile and identifying its exact brood year, similar to human parentage analysis.
+
+2. Values, Statements and Outcomes:
+   - Value: Emphasizes the importance of genetic data in managing fish populations and understanding their genetic diversity.
+   - Problem Statement: The challenge lies in accurately tracking the origin of every juvenile and identifying its exact brood year to optimize hatchery management.
+   - Desired Outcomes: Developing a reliable system for tracing the origin of each hatchery-reared fish, enhancing hatchery management and preserving genetic diversity.
+
+3. Description: The process includes collecting tissue samples (fin clips) from every adult hatchery broodstock that contributes to spawning at Chief Joseph Hatchery. Samples are taken from fresh, live tissue, preserved until DNA extraction, and labeled with relevant data/information. CRITFC provides all necessary supplies and data sheets prior to the spawning season. Once collected, samples and data are shipped to CRITFC's Hagerman Genetics Laboratory for further processing and analysis.
+
+4. Objectives:
+   - Objective: Implement a robust PBT tagging system for hatchery Chinook salmon at Chief Joseph Hatchery.
+   - Summary of Solution Coverage: The objective addresses the entire problem statement by providing an effective method to trace juveniles' origin and brood year.
+   - Keywords: Parentage-based tagging, genetic samples, hatchery management, fin clips, DNA extraction, CRITFC Hagerman Genetics Laboratory.
+
+5. Target: Developing a reliable PBT system for tracking the origin of every juvenile Chinook salmon from Chief Joseph Hatchery.
+
+6. Constraints: The success of this protocol relies on 100% broodstock sampling, ensuring no contamination during sample preservation and accurate data recording for each sampled fish.

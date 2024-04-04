@@ -1,0 +1,20 @@
+ 1. Abstract: The text outlines a study on the Rufus Woods Lake fishery, focusing on the Rainbow Trout population and its management. It highlights the shift from a trophy-only fishery to a combined catchable and trophy fishery due to factors such as excessive fish escapement from aquaculture net pens and insufficient food resources. The Colville Tribes conduct creel studies to manage the fishery optimally.
+
+2. Values, Statements and Outcomes: 
+- Values: Importance of sustainable fishery management, protection of native fish populations, responsible aquaculture practices.
+- Problem Statement: Maintaining a trophy fishery is not feasible due to various factors; finding an alternative solution for the Rufus Woods Lake Rainbow Trout fishery.
+- Desired Outcomes: A combined catchable and trophy fishery that ensures long-term sustainability, increased understanding of fish behavior and population dynamics in the lake, informed decision-making for fishery management through detailed creel studies.
+
+3. Description: The text discusses the Rufus Woods Lake fishery's current status and the shift from a trophy-only to a combined catchable and trophy fishery. It mentions various factors affecting the Rainbow Trout population, such as fish escapement from aquaculture net pens and food resource availability. The Colville Tribes conduct detailed creel studies to manage the fishery optimally, collecting data on fishing effort, catch rates, harvest statistics, and fish size by month.
+
+4. Objectives: 
+- Objective: To manage the Rufus Woods Lake Rainbow Trout fishery through detailed creel studies and shift from a trophy-only to a combined catchable and trophy fishery.
+- Summary of Solution Coverage: The objective covers the entire problem statement by providing an alternative solution for the fishery's sustainability while addressing factors affecting the Rainbow Trout population.
+- Keywords: Rufus Woods Lake, Rainbow Trout, creel studies, catchable and trophy fishery, fish escapement, food resources.
+
+5. Target: Sustainable management of the Rufus Woods Lake Rainbow Trout fishery through a combined catchable and trophy fishery approach.
+
+6. Constraints: 
+- Financial constraints in conducting creel studies and implementing management strategies.
+- Dependence on accurate data collection for effective decision-making.
+- Aquaculture practices' potential impact on native fish populations.

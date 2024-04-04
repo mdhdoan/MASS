@@ -1,0 +1,20 @@
+ 1. Abstract: This text describes the need to study and understand the migration patterns and habitat use of adult spring Chinook salmon in the upper Grande Ronde River during their pre-spawning period. The goal is to inform restoration planning efforts.
+2. Values, Statements and Outcomes: Values include the preservation of natural resources and native species. The problem statement is the lack of knowledge about the migration patterns and habitat use of this specific population of Chinook salmon. The desired outcome is to gather data that can support restoration planning efforts.
+3. Description: The text provides background information on the migration patterns and habitat use of Chinook salmon in other areas, as well as the current methods used for studying these patterns (such as radio telemetry). It also highlights specific challenges in the upper Grande Ronde River, such as low stream flows and high temperatures, and areas of private ownership that limit access for monitoring.
+4. Objectives: The objective is to gather data on the migration patterns and habitat use of a sub-sample of returning adult spring Chinook salmon in the upper Grande Ronde River during the pre-spawning period. This objective covers the problem statement of lacking information about this specific population's migration and habitat use. Keywords: migration patterns, habitat use, pre-spawning period, data collection, sub-sample.
+5. Target: The primary focus is to gather data on the migration and habitat use of Chinook salmon in the upper Grande Ronde River.
+6. Constraints: There are several constraints mentioned in the text such as limited access to certain areas due to private ownership, low stream flows, and high temperatures which can affect the migration patterns of the fish.
+
+Keywords:
+
+* Migration patterns
+* Habitat use
+* Pre-spawning period
+* Data collection
+* Sub-sample
+* Grande Ronde River
+* Chinook salmon
+* Restoration planning
+* Private ownership
+* Low stream flows
+* High temperatures.

@@ -1,0 +1,21 @@
+ 1. Abstract:
+The Walla Walla Basin Watershed Council is conducting a study to collect seasonal water temperature data in the Walla Walla River and its tributaries. The increased frequency of high summertime water temperatures has become a limiting factor for local fish populations, impacting threatened species such as bull trout, summer steelhead, and spring Chinook salmon. The Council has been gathering temperature data for nearly 20 years, and this protocol continues that effort, aiming to understand flood impacts, guide restoration efforts, and measure outcomes.
+
+2. Values, Statements, and Outcomes:
+Values: Protecting native fish populations and their habitats
+Problem Statement: High summertime water temperatures threatening fish populations
+Desired Outcomes: Improved understanding of temperature fluctuations, guidance for restoration projects, and assessment of flood impacts on water temperatures
+
+3. Description:
+This study aims to collect seasonal water temperature data in the Walla Walla Basin at 27 locations, using data loggers set to record measurements every 15 minutes from May to November. The Council has previously collected temperature data for nearly two decades with support from multiple funding sources. The data logger readings will serve as a representative sample of water temperatures in each stream reach and help identify peak seasonal temperatures following the 2020 Walla Walla River flow event.
+
+4. Objectives:
+Objective: To collect detailed water temperature data in the Walla Walla Basin to assess flood impacts, guide restoration efforts, and measure outcomes.
+Summary of Solution Coverage: This objective covers the entirety of the problem statement by gathering essential information about water temperatures to support conservation and restoration initiatives.
+Keywords: Water temperature data, data loggers, flood impacts, restoration, Walla Walla Basin
+
+5. Target:
+The primary focus of this protocol is to collect comprehensive water temperature data in the Walla Walla Basin to understand flood impacts, guide restoration efforts, and measure outcomes.
+
+6. Constraints:
+Constraints for this protocol may include limited funding or resources, accessibility to certain monitoring locations, and potential technical challenges related to data logger deployment and maintenance.

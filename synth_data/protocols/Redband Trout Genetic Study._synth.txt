@@ -1,0 +1,16 @@
+ 1. Abstract:
+The Lake Roosevelt watershed is home to various wild trout populations, and this protocol aims to determine their genetic status (pure, introgressed, or naturalized non-native) using tissue samples and 192 SNPs analysis. This information will assist regional fisheries managers in habitat restoration plans, conservation needs, and harvest regulation changes, ultimately preserving the biodiversity of trout populations in the lake.
+
+2. Values, Statements, and Outcomes:
+- Values: Protecting and conserving native trout populations and their genetic diversity.
+- Problem Statement: Determining the genetic status of wild trout populations within the Lake Roosevelt watershed to ensure proper management and conservation efforts.
+- Desired outcomes: Accurate classification of trout populations, leading to informed decision-making for habitat restoration, conservation needs, and harvest regulation changes.
+3. Description:
+The protocol employs tissue sample collection from various trout populations in the Lake Roosevelt watershed. These samples will undergo genetic analysis using 192 SNPs, which are appropriate for determining Redband Trout population-level distinctions. The analysis aims to identify pure, introgressed, and naturalized non-native trout populations, providing a comprehensive understanding of the genetic status of these fishes in the lake.
+
+4. Objectives:
+- Objective: Determine the genetic status of wild trout populations within the Lake Roosevelt watershed.
+- Summary of Solution Coverage: The objective covers the entire problem statement by accurately classifying trout populations using genetic analysis, providing essential information for habitat restoration, conservation needs, and harvest regulation changes.
+- Keywords: Genetic status, tissue samples, 192 SNPs, Redband Trout, pure, introgressed, naturalized non-native, lake management, fisheries management.
+5. Target: Accurate genetic classification of wild trout populations in the Lake Roosevelt watershed.
+6. Constraints: The success of this protocol depends on proper tissue sample collection, accurate genetic analysis using 192 SNPs, and the availability of relevant information about trout populations in the lake.

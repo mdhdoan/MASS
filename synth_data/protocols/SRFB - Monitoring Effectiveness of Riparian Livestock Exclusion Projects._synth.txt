@@ -1,0 +1,12 @@
+ 1. Abstract: This document outlines a monitoring protocol for evaluating the effectiveness of livestock exclusion fencing projects. The primary focus is to assess the success of these initiatives in terms of excluding livestock, restoring riparian vegetation, and improving stream bank stability. By implementing this monitoring design, decision-makers can gauge the impact of their investments in addressing issues related to water quality, soil erosion, and habitat degradation.
+2. Values, Statements, and Outcomes:
+	* Values: Addressing environmental concerns through responsible land use practices and improving water quality for aquatic life and human consumption.
+	* Problem Statement: Assess the effectiveness of livestock exclusion projects in mitigating negative impacts on riparian areas, such as erosion, sedimentation, and loss of vegetation.
+	* Desired Outcomes: Accurate evaluation of project success to optimize resource allocation, inform future decision-making, and ensure compliance with regulatory requirements.
+3. Description: The monitoring protocol provides specific methods for assessing the impact of livestock exclusion projects on riparian areas over time. It details procedures for measuring key indicators such as erosion rates, vegetation cover, shading levels, and livestock presence. By comparing data collected from both control and impact reaches, this design enables an accurate evaluation of the effectiveness of the implemented exclusion measures.
+4. Objectives:
+	* Objective: Evaluate the success of livestock exclusion projects in achieving their intended goals.
+	* Summary of Solution Coverage: The protocol addresses multiple aspects of project performance, including livestock exclusion, vegetation restoration, and bank stability improvement.
+	* Keywords: Livestock exclusion fencing, riparian vegetation restoration, stream bank stability, monitoring design, indicators, control reaches, impact reaches.
+5. Target: Comprehensive assessment of the effectiveness of livestock exclusion projects in restoring and preserving riparian areas.
+6. Constraints: The success of this protocol depends on access to suitable control and impact reaches, consistent data collection over time, and adequate resources for monitoring implementation.

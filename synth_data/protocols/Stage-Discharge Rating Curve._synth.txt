@@ -1,0 +1,16 @@
+ 1. Abstract:
+This text outlines a method for calculating stream discharge data using continuous stage data and manual discharge measurements. The protocol is based on established USGS methods, ensuring accurate and reliable results. The importance of calibrating equipment to manufacturer's specifications is emphasized.
+2. Values, Statements and Outcomes:
+Values: Precision, accuracy, reliability
+Problem Statement: There is a need for an accurate and reliable method for measuring stream discharge.
+Desired outcomes: Accurate and reliable discharge data, informed decision-making in water resource management.
+3. Description:
+This text describes a protocol for calculating stream discharge using continuous stage data and manual discharge measurements. The use of cross-sectional measurements as an accurate estimate of actual stream discharge is highlighted. The importance of calibrating equipment to manufacturer's specifications is emphasized, ensuring the accuracy and reliability of the results. The protocol is based on established USGS methods, adding credibility and trustworthiness to the method.
+4. Objectives:
+Objective: To provide a detailed description of the protocol for calculating stream discharge using continuous stage data and manual discharge measurements.
+Summary of Solution Coverage: The objective covers the entire process of calculating stream discharge, from the importance of accurate cross-sectional measurements to the calibration of equipment and the use of established USGS methods.
+Keywords: Stream discharge, continuous stage data, manual discharge measurements, cross-sectional measurements, USGS methods, calibration.
+5. Target:
+Primary focus: Calculating stream discharge using continuous stage data and manual discharge measurements.
+6. Constraints:
+Constraints for the current protocol may include availability of resources (e.g. equipment, funding), time constraints, and access to the stream being measured. Additionally, the accuracy and reliability of the results may be impacted by factors such as weather conditions, water levels, and changes in the stream bed over time.

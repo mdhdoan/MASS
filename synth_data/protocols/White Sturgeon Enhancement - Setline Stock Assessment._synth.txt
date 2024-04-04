@@ -1,0 +1,17 @@
+ 1. Abstract: This text outlines a recovery plan for critically endangered white sturgeon populations in the upper Columbia River. The initiative aims to ensure the persistence of naturally reproducing sturgeon populations and restore beneficial use opportunities if feasible. A key aspect of this plan involves monitoring population parameters through standardized setline stock assessment surveys in the Roosevelt Reach.
+
+2. Values, Statements and Outcomes: 
+   - Values: Conservation of endangered species and their habitats.
+   - Problem Statement: Recruitment failure and potential extinction of white sturgeon populations in the upper Columbia River.
+   - Desired Outcomes: Ensuring the persistence and viability of white sturgeon populations, restoring opportunities for beneficial use if feasible, and monitoring population status and trends.
+
+3. Description: The Upper Columbia White Sturgeon Recovery Initiative (UCWSRI) was formed to address the decline in white sturgeon populations. The UCWSRP outlines methods for recovering these populations while adhering to ESA and SARA legislation. A crucial part of this plan is monitoring population parameters using standardized setline stock assessment surveys in collaboration with the Spokane Tribe and BC Hydro. Data analysis will be conducted by the STOI Lake Roosevelt Sturgeon Recovery Project.
+
+4. Objectives: 
+   - Objective: Estimate the abundance of hatchery and wild components, describe spatial and depth distributions, estimate growth and condition, and survival rates in both components.
+   - Summary of Solution Coverage: This objective aims to address the problem statement by providing essential information for recovery planning and conservation efforts.
+   - Keywords: Abundance estimation, hatchery component, wild component, spatial distribution, depth distribution, growth rate, condition, survival rate.
+
+5. Target: Comprehensive assessment of white sturgeon populations in the upper Columbia River to aid in their recovery and conservation.
+
+6. Constraints: The success of this protocol depends on coordinated efforts between multiple organizations and adherence to ESA and SARA legislation, as well as adequate funding for data analysis and survey implementation.

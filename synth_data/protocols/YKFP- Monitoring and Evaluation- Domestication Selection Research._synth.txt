@@ -1,0 +1,14 @@
+ 1. Abstract:
+The Yakima Klickitat Fisheries Project (YKFP) aims to investigate the impact of artificial fish production on natural populations. The project focuses on three genetic lines of Yakima spring Chinook with varying levels of hatchery exposure, monitoring phenotypic divergence and genotypic changes. This research is crucial for understanding the effects of hatchery rearing on wild fish fitness and the long-term sustainability of fish populations.
+2. Values, Statements and Outcomes:
+Values: Understanding the effects of hatcheries on fish populations and ensuring sustainable fishery management.
+Problem Statement: Assessing whether hatchery rearing reduces the fitness of wild fish populations and identifying potential negative impacts of domestication selection.
+Desired outcomes: To develop best practices for hatchery management, minimize undesirable genetic changes, and maintain the genetic diversity and productivity of natural fish populations.
+3. Description:
+The YKFP monitors developmental abnormalities, egg-to-fry survival rates, emergence timing, fertility, and reproductive effort across three genetic lines of Yakima spring Chinook with varying levels of hatchery exposure. The project employs a Domestication Monitoring Plan to separate genetic effects from phenotypic plasticity, addressing challenges faced by previous studies. The study includes the Hatchery Control Line, Supplementation Hatchery sub-lines, Supplementation Natural origin sub-lines, and a Wild Control line.
+4. Objectives:
+Objective: Compare and evaluate fitness indicators for three genetic lines of Yakima spring Chinook with varying levels of hatchery exposure.
+Summary of Solution Coverage: The objective covers the entire problem statement by providing a comprehensive assessment of hatchery impacts on wild fish fitness.
+Keywords: Artificial production, hatchery exposure, genetic fitness, phenotypic divergence, domestication selection, genotypic change, natural productivity, spawning fitness, wild fish populations.
+5. Target: Investigating the effects of hatchery rearing on Yakima spring Chinook fitness and sustainability.
+6. Constraints: The success of this protocol depends on accurate data collection, appropriate statistical analysis, and potential limitations in the representativeness of the selected genetic lines.

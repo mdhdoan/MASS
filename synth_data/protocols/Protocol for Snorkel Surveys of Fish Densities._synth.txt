@@ -1,0 +1,12 @@
+ 1. Abstract: This document presents a monitoring protocol to survey fish densities and assemblage structure using snorkel surveys, focusing on juvenile salmonids in the upper Grande Ronde, Catherine Creek, Minam River, and nearby basins. The protocol aims to provide consistent measures of relative fish abundance and assemblage structure across agencies involved in data collection.
+2. Values, Statements, and Outcomes:
+   - Value: Importance of preserving and improving habitat quality for ESA listed fish species.
+   - Problem Statement: Inconsistency in monitoring methods among different entities, making it difficult to determine the effectiveness of habitat restoration efforts.
+   - Desired Outcome: A common snorkeling protocol that enables consistent data collection and evaluation of aggregate habitat restoration actions' impact on basin-wide habitat quality for ESA listed fish species.
+3. Description: The document introduces a snorkeling protocol based on Thurow (1994) and ONeal (2007). It emphasizes the key assumption that snorkeling offers a consistent measure of relative fish abundance and assemblage structure at habitat unit and reach scales. While no specific project numbers or additional protocol details are provided, the text highlights the importance of consistent methods for data collection and analysis in addressing the problem statement.
+4. Objectives:
+   - Objective: Develop a standardized snorkeling protocol for monitoring fish densities and assemblage structure.
+   - Summary of Solution Coverage: The objective covers the entire problem statement by providing a solution to address inconsistencies in data collection methods.
+   - Keywords: Snorkeling protocol, relative fish abundance, fish assemblage structure, consistent measures, habitat unit, reach scales.
+5. Target: Standardize fish monitoring protocols for ESA listed fish species in the upper Grande Ronde, Catherine Creek, Minam River, and nearby basins.
+6. Constraints: The success of this protocol depends on consistent implementation across agencies, ensuring that trained personnel follow the same procedures to maintain accuracy and reliability in data collection and analysis.

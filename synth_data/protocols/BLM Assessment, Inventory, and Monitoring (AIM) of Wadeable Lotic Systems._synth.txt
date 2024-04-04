@@ -1,0 +1,21 @@
+ 1. Abstract:
+The Bureau of Land Management (BLM) has developed a National Aquatic Monitoring Framework (NAMF) to evaluate the condition and trend of aquatic systems as part of their Assessment, Inventory, and Monitoring (AIM) Strategy. This protocol outlines field methodologies for collecting core and contingent indicators for wadeable streams and rivers, standardizing sampling methodologies, and utilizing statistically valid sample designs.
+
+2. Values, Statements and Outcomes:
+Values: The importance of monitoring and assessing the condition of aquatic systems to ensure their health and sustainability.
+Problem Statement: The need for a consistent, quantitative approach to determine the attainment of BLM land health standards for perennial wadeable streams and rivers.
+Desired outcomes: Maximizing compatibility with existing monitoring programs, accurately estimating condition and trend, meeting BLM lotic data needs and state and federal regulations.
+
+3. Description:
+This protocol focuses on the National Aquatic Monitoring Framework (NAMF) and its implementation for wadeable streams and rivers. It outlines field methodologies for the collection of core and contingent indicators, as well as suggested covariates. The 11 core indicators represent a consistent approach for determining the attainment of BLM land health standards, while the 7 contingent indicators are measured only where applicable to assist in interpreting monitoring data.
+
+4. Objectives:
+Objective: To establish and implement the National Aquatic Monitoring Framework (NAMF) for wadeable streams and rivers as part of the AIM Strategy.
+Summary of Solution Coverage: This objective covers the entire problem statement, providing a comprehensive solution for monitoring and assessing the condition of aquatic systems.
+Keywords: National Aquatic Monitoring Framework, AIM Strategy, core indicators, contingent indicators, wadeable streams and rivers.
+
+5. Target:
+The primary focus of this protocol is to establish and implement a consistent, quantitative approach for determining the attainment of BLM land health standards for perennial wadeable streams and rivers.
+
+6. Constraints:
+The success of this protocol is dependent on the availability of resources, including funding, equipment, and personnel, as well as cooperation from relevant stakeholders and the public.

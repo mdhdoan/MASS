@@ -1,0 +1,16 @@
+ 1. Abstract:
+The text outlines a protocol for monitoring and managing migratory Westslope Cutthroat Trout populations at the tributary scale. The objective is to generate annual abundance estimates for adults, estimate juvenile-to-adult return rates, examine life-history attributes, create interrogation histories for individual PIT tagged fish, and describe the spatial distribution of the migratory life-history within watersheds. This comprehensive approach enables effective monitoring and management of this valuable species.
+2. Values, Statements, and Outcomes:
+Values: Conserving and managing Westslope Cutthroat Trout populations for their ecological and recreational importance.
+Problem Statement: Understanding the status and trends of migratory Cutthroat Trout populations to inform conservation and management efforts.
+Desired Outcomes: Reliable abundance estimates, insights into return rates, life-history attributes, and spatial distribution to support informed decision-making in Westslope Cutthroat Trout conservation.
+3. Description:
+The protocol uses inclined-plane traps and weirs for sampling juvenile and adult fish in four tributaries of the Priest River (Big, Quartz, Sadler, and Sanborn creeks). Captured individuals are tagged with Passive Integrated Transponder (PIT) tags to enable long-term monitoring. The data collected includes individual identification, migration timing, sex ratio, and mean size of fish. PIT arrays stationed within the watershed allow for the tracking of seasonal movements and spatial distribution of migratory Westslope Cutthroat Trout.
+4. Objectives:
+Objective 1: Generate annual abundance estimates for migratory adult Westslope Cutthroat Trout at the tributary scale, covering all aspects of the problem statement. Keywords: Abundance estimation, tributary scale, annual basis.
+Objective 2: Estimate juvenile-to-adult return rates for migratory Westslope Cutthroat Trout at the tributary scale, addressing a critical aspect of population dynamics. Keywords: Return rates, juvenile, adult.
+Objective 3: Analyze life-history attributes such as migration timing, sex ratio, and mean size of fish to understand population trends. Keywords: Life-history attributes, migration timing, sex ratio, mean size.
+Objective 4: Create interrogation histories for individual PIT tagged Westslope Cutthroat Trout to evaluate seasonal movements within watersheds. Keywords: Interrogation histories, PIT tagging, seasonal movements.
+Objective 5: Describe the spatial distribution of the migratory life-history of Westslope Cutthroat Trout within watersheds using stationary PIT arrays. Keywords: Spatial distribution, PIT arrays, stationary.
+5. Target: Comprehensive monitoring and management of migratory Westslope Cutthroat Trout populations at the tributary scale.
+6. Constraints: The success of this protocol depends on consistent and accurate data collection, adequate funding for equipment and personnel, and appropriate permits for sampling and PIT tagging. Additionally, environmental factors such as water levels and temperature may influence fish migration and availability for sampling.

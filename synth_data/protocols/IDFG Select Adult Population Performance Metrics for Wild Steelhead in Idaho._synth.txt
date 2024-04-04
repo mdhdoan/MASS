@@ -1,0 +1,16 @@
+ 1. Abstract:
+This protocol outlines IDFG's intensive monitoring efforts focused on adult wild steelhead in twelve locations and ten populations within the Clearwater River and Salmon River MPGs. The goal is to estimate abundance, productivity, smolt-to-adult return rates, and population demographics to support informed management decisions aimed at preserving and recovering Idaho's wild steelhead runs for various user benefits.
+2. Values, Statements, and Outcomes:
+   - Values: Preserving and recovering Idaho's wild steelhead runs is valuable for maintaining biodiversity, ecological balance, and offering recreational opportunities.
+   - Problem Statement: Steelhead populations have declined due to hydroelectric dam construction, degraded habitats, and other factors, necessitating monitoring and management interventions.
+   - Desired Outcomes: Increased understanding of steelhead population dynamics and trends, informed management decisions, and ultimately, the recovery and preservation of wild steelhead runs in Idaho.
+3. Description:
+The IDFG uses the VSP criteria and metrics, such as abundance, productivity, diversity, and spatial structure, to evaluate steelhead populations. Specific methods include snorkel surveys (ID: 89) for evaluating spatial structure and genetic sampling at weirs for assessing diversity. The monitoring focuses on twelve locations and ten populations in the Clearwater River and Salmon River MPGs. Objectives include estimating adult abundance, productivity, smolt-to-adult return rates, and population demographics.
+4. Objectives:
+   - Objective: Estimate adult wild steelhead abundance and productivity at all twelve locations.
+   - Solution Coverage: This objective directly addresses the problem statement by providing quantitative data on adult wild steelhead populations to aid in management decisions.
+   - Keywords: Adult wild steelhead, abundance, productivity, estimation.
+5. Target: Monitoring and estimating adult wild steelhead population dynamics in Idaho's Clearwater River and Salmon River MPGs.
+6. Constraints:
+   - Constraint: Availability of financial resources for conducting monitoring activities.
+   - Constraint: Accessibility to certain monitoring locations due to geographical or environmental conditions.

@@ -1,0 +1,14 @@
+ 1. Abstract:
+The Nez Perce Tribe's Fisheries Resources Management implements radio telemetry to monitor returning anadromous adult salmonids, specifically Chinook salmon and steelhead. The data collected is used for various purposes such as evaluating hatchery effectiveness, determining population status and trends, assessing conservation actions, and monitoring recovery metrics.
+2. Values, Statements, and Outcomes:
+Values: Conservation of anadromous adult salmonids, particularly Chinook salmon and steelhead.
+Problem Statement: The need to evaluate the performance of hatchery-raised steelhead and their fidelity to their natal stream, as well as assessing spatial overlap in spawning distribution.
+Desired Outcomes: Effective population management, informed conservation actions, improved understanding of salmonid biology and ecology.
+3. Description:
+The protocol employs radio telemetry to gather information on adult distribution, fidelity to natal stream of origin, and spatial overlap in spawning distribution between natural, supplementation, and conventional adults. The data is utilized for determining abundance, survival, life history characteristics, hatchery effectiveness, population status and trend monitoring, assessing conservation actions, viability, and recovery metric monitoring. Protocol #2250 outlines the specific methods for calculating metrics and indicators used in this study.
+4. Objectives:
+Objective: To determine adult return fidelity to natal stream of origin, spatial overlap in the spawning distribution of natural, supplementation and conventional adults, and compare the relative performance of supplementation and conventional hatchery steelhead and salmon.
+Summary of Solution Coverage: The objective covers the entire problem statement outlined above.
+Keywords: Radio telemetry, anadromous adult salmonids, Chinook salmon, steelhead, fidelity, natal stream of origin, spawning distribution, hatchery effectiveness, conservation actions, population management, recovery metrics.
+5. Target: The primary focus of the protocol is to gain a better understanding of the biology and ecology of anadromous adult salmonids, specifically Chinook salmon and steelhead, in order to inform effective conservation actions and population management.
+6. Constraints: The success of this protocol relies on accurate data collection through radio telemetry, as well as proper analysis using the methods outlined in Protocol #2250. Additionally, there may be limitations in terms of cost, time, and resources available for implementing and maintaining this study.

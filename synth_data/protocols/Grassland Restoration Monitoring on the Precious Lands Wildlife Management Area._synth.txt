@@ -1,0 +1,23 @@
+ 1. Abstract:
+The text describes a protocol for monitoring and re-establishing native floral components in a previously cultivated area. The necessity of this protocol lies in promoting wildlife value and documenting trends in plant community health. A succinct solution is provided through regular monitoring and replanting with native grasses and forbs.
+
+2. Values, Statements and Outcomes:
+- Values: Promoting wildlife value, preserving natural floral components, and documenting changes over time.
+- Problem Statement: Previous cultivation of the land led to a loss of natural flora and associated wildlife habitat.
+- Desired outcomes: Baseline data establishment, long-term monitoring to track trends in plant community health, weedy encroachment, limiting factors for wildlife, and identifying/monitoring areas of habitat degradation.
+
+3. Description:
+The text outlines a detailed protocol for monitoring and re-establishing native floral components in the project area. Personnel are trained in local flora identification and familiar with the sampling design. Monitoring plots are established on both control and treatment fields, with yearly monitoring during the height of the growing season to minimize variability. The data collected will be used to evaluate baseline conditions, track changes over time, and identify areas of concern.
+
+4. Objectives:
+- Describe the objective in detail: To re-establish native floral components and monitor their health and impact on wildlife habitat over time.
+- Summary of Solution Coverage: The objective covers the entire problem statement, with a focus on replanting native flora and regular monitoring to track trends and identify issues.
+- Keywords: Reclamation, native floral components, monitoring, baseline data, long-term monitoring, wildlife habitat, limiting factors.
+
+5. Target:
+Re-establishment and preservation of natural floral components for promoting wildlife value.
+
+6. Constraints:
+- Financial constraints may limit the frequency and extent of replanting and monitoring activities.
+- Availability and expertise of personnel to conduct the monitoring and identification of local flora.
+- Climate and weather conditions may impact the timing and success of replanting efforts and monitoring activities.

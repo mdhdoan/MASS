@@ -1,0 +1,14 @@
+ 1. Abstract:
+This protocol focuses on monitoring and comparing hourly changes in water table elevation and groundwater temperature in well fields adjacent to a restored stream reach (treatment) and a nearby unrestored, reference stream reach (control). The aim is to determine whether trends in water table elevation and groundwater temperature support the hypothesis that restoration actions have improved hydrologic connectivity and mitigated the effects of incision.
+2. Values, Statements and Outcomes:
+Values: Protecting and restoring riparian zones, improving stream health, and enhancing groundwater recharge.
+Problem Statement: Riparian zone degradation due to channel incision in arid western United States.
+Desired outcomes: Improved hydrologic connectivity between streams and floodplains, increased groundwater recharge, and mitigated effects of incision.
+3. Description:
+This protocol describes the methods and processes for monitoring water table elevation and groundwater temperature changes in two well fields near a restored (treatment) and an unrestored reference reach. The treatment area has been installed with beaver dam analog (BDA) structures to increase the number and lifespan of beaver dams, which promote trench widening and aggradation to mitigate channel incision. Data loggers are used in each well field to monitor temperature and pressure changes, which can be transformed into water table elevation data using computer software.
+4. Objectives:
+Objective: Determine whether restoration actions, specifically the installation of BDA structures, have improved hydrologic connectivity between the stream and its floodplain, increased groundwater recharge, and mitigated the effects of incision.
+Summary of Solution Coverage: This protocol focuses on assessing the effectiveness of restoration efforts in improving hydrological connectivity and mitigating channel incision's impacts by comparing water table elevation and temperature trends between restored and unrestored areas.
+Keywords: Restoration actions, beaver dam analog structures, hydrologic connectivity, groundwater recharge, channel incision, well fields, water table elevation, and groundwater temperature.
+5. Target: Assessing the impact of restoration efforts on improving hydrological connectivity, enhancing groundwater recharge, and mitigating channel incision effects.
+6. Constraints: The effectiveness of this protocol depends on proper data logger calibration, accurate field measurement data, appropriate well locations, and consistent water table elevation and temperature differences between treatment and control areas.

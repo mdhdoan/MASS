@@ -1,0 +1,12 @@
+ 1. Abstract: The text outlines a protocol to study the effects of increased spill rates on juvenile salmonid migration in the Columbia and Snake rivers under the 2019-2021 Spill Operation Agreement. A higher total dissolved gas (TDG) cap has been set, necessitating monitoring for gas bubble trauma (GBT) in native, resident nonsalmonids, specifically Northern Pikeminnow, Smallmouth Bass, and Walleye. The study aims to determine the feasibility of describing GBT in these species during fieldwork.
+2. Values, Statements, and Outcomes: 
+   - Values: Conservation of native fish populations, sustainable hydropower generation.
+   - Problem Statement: Assessing the impact of increased spill rates on non-salmonid fish populations.
+   - Desired Outcomes: Establishing appropriate GBT criteria for nonsalmonids and determining feasible methods for monitoring them during fieldwork.
+3. Description: The protocol involves capturing Northern Pikeminnow, Smallmouth Bass, and Walleye downstream of Priest Rapids dam during the spring spill period to study the incidence and severity of GBT. The study references regional Smolt Monitoring Program criteria for GBT monitoring in salmonids but acknowledges potential differences in GBT progression in nonsalmonids. Fieldwork feasibility, including nighttime data collection, is also assessed.
+4. Objectives: 
+   - Objective: Determine the incidence and severity of GBT in Northern Pikeminnow, Smallmouth Bass, and Walleye during the spring spill period.
+   - Summary of Solution Coverage: The objective addresses the problem statement by focusing on understanding the impact of increased TDG on nonsalmonids and evaluating monitoring methods.
+   - Keywords: Incidence, severity, gas bubble trauma, Northern Pikeminnow, Smallmouth Bass, Walleye, spill period, total dissolved gas, fieldwork.
+5. Target: Monitoring and assessing GBT in nonsalmonids during the 2020-2021 spring spill.
+6. Constraints: Time constraints related to the spill period, potential limitations of fieldwork at night, and uncertainty regarding the applicability of current GBT criteria for nonsalmonids.

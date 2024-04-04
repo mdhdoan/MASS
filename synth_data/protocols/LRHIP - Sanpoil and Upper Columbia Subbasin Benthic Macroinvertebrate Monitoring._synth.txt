@@ -1,0 +1,17 @@
+ 1. Abstract: This protocol describes the importance of benthic macroinvertebrate communities for use in EDT model development to aid in habitat restoration and protection prioritization. A standardized protocol is provided for future status and trend monitoring of these communities, with baseline benthic macroinvertebrate data sets used for EDT model development.
+
+2. Values, Statements, and Outcomes:
+   - Values: The value of preserving and protecting benthic macroinvertebrate communities lies in their role as essential indicators of aquatic ecosystem health.
+   - Problem Statement: There is a lack of baseline data on benthic macroinvertebrate communities, which are critical for EDT model development to prioritize habitat restoration and protection efforts effectively.
+   - Desired Outcomes: The establishment of a standardized protocol for future status and trend monitoring of benthic macroinvertebrate communities, providing baseline data sets for EDT model development.
+
+3. Description: This protocol describes the importance of benthic macroinvertebrates in aquatic ecosystems and their role as indicators of environmental health. The text provides information on limited benthic macroinvertebrate community data in most reservation streams without anadromous fish, particularly smaller streams. A standardized monitoring protocol is established based on other monitoring programs in the Basin, such as CHaMP and ISEMP.
+
+4. Objectives:
+   - Objective: Develop a standardized protocol for future status and trend monitoring of benthic macroinvertebrate communities to provide baseline data sets for EDT model development.
+   - Summary of Solution Coverage: This objective covers the entire problem statement by addressing the lack of baseline data on benthic macroinvertebrate communities, which are critical for EDT model development and prioritizing habitat restoration efforts effectively.
+   - Keywords: Benthic macroinvertebrate communities, standardized protocol, baseline data sets, EDT model development
+
+5. Target: Establishing a standardized protocol for future status and trend monitoring of benthic macroinvertebrate communities to aid in EDT model development.
+
+6. Constraints: The primary constraint is the limited availability of benthic macroinvertebrate community data, particularly in smaller streams without anadromous fish on reservations. Another constraint could be resources required to implement the monitoring program consistently across various sites and timeframes.

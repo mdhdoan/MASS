@@ -1,0 +1,21 @@
+ 1. Abstract:
+The ISEMP aims to design and implement Status and Trends Monitoring and Effectiveness Monitoring for salmon and steelhead populations in the Interior Columbia River Basin. This is achieved through a pilot-project approach, implementing experimental programs in several major subbasins, including the South Fork Salmon and Lemhi rivers. Rotary screw traps are used to estimate juvenile abundance and survival. Standardization of trapping and fish handling methods among rotary screw traps operated by ISEMP is provided, along with a description of trap efficiency and juvenile abundance estimation methods.
+
+2. Values, Statements and Outcomes:
+Values: Efficient and standardized monitoring of anadromous salmonids and their habitat.
+Problem Statement: The need for accurate and reliable estimates of juvenile abundance and survival for salmon and steelhead populations in the Interior Columbia River Basin.
+Desired outcomes: Standardized protocols and sampling designs, leading to accurate and powerful estimates of juvenile abundance and survival for salmon and steelhead populations.
+
+3. Description:
+The ISEMP uses rotary screw traps to estimate juvenile abundance and survival in the Interior Columbia River Basin. To ensure standardization and accuracy, a monitoring protocol has been established that provides standardization of trapping and fish handling methods among rotary screw traps operated by ISEMP in the South Fork Salmon and Lemhi rivers. The protocol also includes a brief description of trap efficiency and juvenile abundance estimation methods using rotary screw traps. Additionally, simple mark-recapture methods can be used with downstream migrant traps to estimate total freshwater production, survival (and mortality) between life stages (e.g., egg-to-smolt).
+
+4. Objectives:
+Objective: To provide standardization of trapping and fish handling methods among rotary screw traps operated by ISEMP in the South Fork Salmon and Lemhi rivers, and to describe trap efficiency and juvenile abundance estimation methods using rotary screw traps.
+Summary of Solution Coverage: The objective covers the entire problem statement by providing a solution for accurate and reliable estimates of juvenile abundance and survival for salmon and steelhead populations in the Interior Columbia River Basin.
+Keywords: ISEMP, rotary screw traps, standardization, trap efficiency, juvenile abundance estimation.
+
+5. Target:
+Primary focus: Standardization of trapping and fish handling methods for rotary screw traps operated by ISEMP in the South Fork Salmon and Lemhi rivers.
+
+6. Constraints:
+The protocol assumes that trap efficiency estimates accurately reflect the true proportion of the captured emigrating population, marked individuals retain their marks (tags) and all tags are detected upon recapture, marked individuals are captured at the same rate as unmarked individuals, marked individuals mix randomly among unmarked individuals, and marked individuals are representative of the entire target population for which abundance and survival will be estimated.

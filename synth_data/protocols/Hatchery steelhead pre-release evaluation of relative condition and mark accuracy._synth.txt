@@ -1,0 +1,12 @@
+ 1. Abstract: This protocol aims to accurately monitor and assess the biological characteristics of Hood River stock steelhead before and after release from a hatchery. The study focuses on collecting data about fork length, weight, and condition factor, as well as evaluating the accuracy of external marks used for identification. The results will be compared with wild and hatchery downstream migrants to ensure the effectiveness and representativeness of the hatchery-reared steelhead.
+2. Values, Statements, and Outcomes: 
+   - Values: Accuracy, Sustainability, Responsible Resource Management
+   - Problem Statement: Ensuring the genetic diversity and health of Hood River stock steelhead populations, monitoring the effectiveness of hatchery practices
+   - Desired Outcomes: Improved management strategies, informed decision-making, and conservation efforts for steelhead populations
+3. Description: The protocol outlines methods for collecting and analyzing data on steelhead fork length, weight, condition factor, and external mark accuracy using various sampling techniques, such as hatchery sampling and rotary screw traps. It highlights the importance of comparing biological data from both pre- and post-release fish to evaluate the success of the hatchery practices. The study also emphasizes the need for representative samples to ensure accurate comparisons with wild steelhead populations in the same subbasin.
+4. Objectives: 
+   - Objective: To collect, compare, and analyze data on Hood River stock steelhead fork length, weight, condition factor, and external mark accuracy before and after release
+   - Summary of Solution Coverage: Comprehensively addressing the need for monitoring and assessing hatchery practices to ensure sustainable steelhead populations
+   - Keywords: Hood River stock steelhead, fork length, weight, condition factor, external marks, pre-release, post-release, rotary screw trap, representative samples
+5. Target: Comprehensive Assessment of Hood River Stock Steelhead Populations
+6. Constraints: The success of this protocol depends on the availability and quality of hatchery-reared steelhead, as well as sufficient downstream migrant traps to collect post-release data. Additionally, environmental factors, such as water flow rates and temperatures, can impact fish behavior and sampling efficiency.

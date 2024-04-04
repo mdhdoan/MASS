@@ -1,0 +1,18 @@
+ 1. Abstract:
+The text outlines a procedure for assessing the age structure of broodstock used in the Chief Joseph Hatchery integrated program. Scales are collected from naturally-occurring adult broodstock and sent to a laboratory for analysis, providing information about individual fish ages and their origin (natural or hatchery). This knowledge helps hatchery managers understand the age composition of their broodstock and evaluate the performance of the integrated program.
+2. Values, Statements, and Outcomes:
+- Value: Ensuring sustainable management of fishery resources
+- Problem Statement: Understanding the age structure of broodstock in hatchery programs
+- Desired Outcome: Improved management decisions based on accurate information about hatchery broodstock age composition
+3. Description:
+The text describes a specific protocol for determining the age structure of broodstock used in the Chief Joseph Hatchery integrated program. Scales are collected from 660 natural-origin adult Chinook, marked and tagged for identification. Samples are then sent to the WDFW lab for analysis, providing information about individual fish ages and their origin. This data allows hatchery managers to monitor the age composition of their broodstock and make informed decisions regarding the performance of the integrated program.
+4. Objectives:
+- Objective: Assess the age structure of natural-origin adult Chinook broodstock
+- Summary of Solution Coverage: The entirety of the problem statement is covered through this objective
+- Keywords: Age structure, natural-origin adult Chinook broodstock, WDFW lab
+5. Target:
+Age structure assessment of natural-origin adult Chinook broodstock for the Chief Joseph Hatchery integrated program
+6. Constraints:
+- Availability and reliability of marking and tagging methods for identifying natural-origin broodstock
+- Timely processing and analysis of scale samples by the WDFW lab
+- Ensuring an adequate sample size (660 fish) is collected for reliable results.

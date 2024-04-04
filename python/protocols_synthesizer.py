@@ -53,8 +53,9 @@ def feed_llm(text_content):
     llm = Ollama(model="mixtral")
     prompt = PromptTemplate(input_variables=["content"], template=prompt_template)
     llm_chain = LLMChain(llm=llm, prompt=prompt)
+    # print('Begin Mixtral')
     result = llm_chain.invoke({'content': text_content})
-    print('Mixtral complete')
+    # print('Mixtral complete')
     label = result['text']
     return label
 
@@ -66,16 +67,19 @@ if __name__ == '__main__':
             continue
         with open(file_name, 'rt', encoding='utf-8') as in_file:
             doc = json.load(in_file)
-            relevant_text = str(doc['background']) + str(doc['assumptions'] + ' '.join(doc['objectives']))
+            background = str(doc['background']) if doc['background'] else ''
+            assumptions = str(doc['assumptions']) if doc['assumptions'] else ''
+            objectives = ' '.join(doc['objectives']) if doc['objectives'] else ''
+            relevant_text = background + assumptions + objectives
             try:
                 result = feed_llm(relevant_text)
                 save_path = 'synth_data/protocols/'
                 os.makedirs('synth_data/protocols/', exist_ok = True)
-                result_file_name = os.path.join(save_path, '.\synth_data\synth ' + file_name + '.txt')
+                result_file_name = os.path.join(save_path, file[:-4] + '_synth.txt')
                 with open(result_file_name, 'w+') as synth_file:
                     synth_file.write(result)
             except Exception as e:
                 print(f"\n{file_name}")
         count = increase_count(count, '.')
-        break
-    print(f"\nRead {count} documents.\n")
+        # break
+    print(f"\nProcessed {count} documents.\n")

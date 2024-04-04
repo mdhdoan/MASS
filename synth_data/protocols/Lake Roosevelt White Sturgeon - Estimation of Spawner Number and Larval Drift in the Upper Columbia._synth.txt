@@ -1,0 +1,12 @@
+ 1. Abstract: This text outlines a protocol for using genetic markers to estimate the number of spawners contributing to a white sturgeon repatriation program in the Upper Columbia River. The goal is to improve management and conservation efforts by accurately assessing genetic diversity and population structure.
+2. Values, Statements, and Outcomes: 
+   - Values: Conservation of endangered species, effective resource management.
+   - Problem Statement: Lack of knowledge about the number of spawners contributing to white sturgeon repatriation programs and their genetic diversity.
+   - Desired Outcomes: Accurate estimates of spawner numbers and genetic diversity in repatriation programs, improved management strategies for white sturgeon conservation.
+3. Description: This protocol details the use of microsatellites and SNPs to reconstruct family groups and estimate the number of spawners contributing to a repatriation program for Upper Columbia River white sturgeon at the Waneta spawning site. The project involves fin clip DNA extraction, genotyping, and the use of the Colony program to analyze the data in two phases. In phase one, families will be reconstructed and spawner numbers estimated using simulated data from Upper Columbia samples. In phase two, larval white sturgeon from the American repatriation program will be analyzed to determine if any inferred full sibling families include individuals from both the Waneta spawning site and American sampling sites.
+4. Objectives: 
+   - Objective: Accurately estimate the number of spawners contributing to a white sturgeon repatriation program using genetic markers.
+   - Summary of Solution Coverage: The entire problem statement is addressed through this objective.
+   - Keywords: White sturgeon, repatriation program, spawner number estimation, genetic markers, microsatellites, SNPs, Colony program, family group reconstruction.
+5. Target: Accurate assessment of white sturgeon spawner numbers and genetic diversity in repatriation programs.
+6. Constraints: The success of this protocol depends on the availability and quality of fin clip samples, the effectiveness of DNA extraction and genotyping methods, and the accuracy of the Colony program for family group reconstruction and spawner number estimation.

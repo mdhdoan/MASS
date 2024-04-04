@@ -1,0 +1,22 @@
+ 1. Abstract:
+The text outlines a protocol for monitoring and estimating the abundance and life-history attributes of migratory adult salmonids at the tributary or watershed scale. The protocol emphasizes the importance of generating reliable estimates to support recovery efforts and sustainable fisheries. Fixed weir migrant traps are utilized to collect data on migratory redband trout and westslope cutthroat trout populations in the Coeur d'Alene basin.
+
+2. Values, Statements and Outcomes:
+- Values: The importance of preserving and managing migratory salmonid populations for ecological balance and sustainable fisheries.
+- Problem Statement: There is a need to monitor and assess the status of migratory salmonid populations to guide recovery efforts and ensure sustainable fisheries.
+- Desired Outcomes: Generating annual abundance estimates, juvenile to adult return rates, and examining life-history attributes of migratory salmonids at the tributary or watershed scale.
+3. Description:
+The protocol involves using fixed weir migrant traps as a sampling technique in the Coeur d'Alene Tribe's fisheries program to collect data on migratory salmonid populations. The traps are located in key areas where redband trout and westslope cutthroat trout utilize larger stream habitats and Coeur d'Alene Lake as adult rearing environments. The collected data is used to estimate annual abundance, juvenile to adult return rates, and examine life-history attributes of the populations.
+
+4. Objectives:
+- Objective: Generate annual abundance estimates for migratory adult salmonids at the tributary or watershed scale.
+- Solution Coverage: The objective covers the primary need for monitoring and assessing the status of migratory salmonid populations, enabling data-driven decision making for recovery efforts and sustainable fisheries.
+- Keywords: annual abundance estimates, tributary, watershed scale, migratory adult salmonids.
+
+5. Target:
+The primary focus is on generating reliable estimates of migratory salmonid populations to support recovery efforts and sustainable fisheries.
+
+6. Constraints:
+- The protocol requires the availability of resources (financial, human, technological) to implement the sampling technique and analyze the collected data.
+- The accuracy of the estimates depends on the appropriate placement and operation of the fixed weir migrant traps.
+- External factors such as environmental changes, migration patterns, and fish population dynamics can impact the reliability of the estimates.

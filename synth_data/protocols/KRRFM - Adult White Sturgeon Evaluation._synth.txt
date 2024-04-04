@@ -1,0 +1,12 @@
+ 1. Abstract: The protocol focuses on the sampling methods and purposes related to adult Kootenai River White Sturgeon. Its primary goal is to determine growth, survival, and abundance, providing adults for hatchery production and telemetry studies. This protocol has been in place since 1988, ensuring data collected is unbiased and representative of the population's true status.
+2. Values, Statements, and Outcomes:
+   - Value: Importance of long-term data collection for informed decision making about sturgeon populations.
+   - Problem Statement: Understanding and managing Kootenai River White Sturgeon populations requires accurate data on growth, survival, abundance, and broodstock.
+   - Desired Outcomes: Improved sturgeon population management based on reliable information from this sampling protocol.
+3. Description: The text details the standardized methods used in a long-term sampling protocol for adult Kootenai River White Sturgeon that has been ongoing since 1988. Sampling provides growth, survival, and abundance data, as well as specimens for telemetry studies and hatchery production. Data integrity is maintained through the assumption of unbiased methods ensuring representative population status.
+4. Objectives:
+   - Objective: Accurately determine Kootenai River White Sturgeon growth, survival, and abundance.
+   - Solution Coverage: This objective addresses a major aspect of the problem statement by providing reliable data on key population indicators.
+   - Keywords: Growth determination, survival assessment, abundance measurement.
+5. Target: Long-term monitoring and management of Kootenai River White Sturgeon populations.
+6. Constraints: The success of this protocol depends on maintaining unbiased sampling methods to ensure collected data accurately reflects the true status of the sturgeon population.

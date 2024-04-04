@@ -1,0 +1,19 @@
+ 1. Abstract: This protocol outlines the importance and necessity of monitoring freshwater mussel populations in the Pacific Northwest, where native species have experienced significant range declines. The goal is to understand the distribution, population health, and status of mussel populations, which will inform conservation efforts and restoration of damaged populations.
+2. Values, Statements, and Outcomes: 
+   - Values: Preservation of freshwater mussels, understanding and protecting biodiversity, responsible management of natural resources
+   - Problem Statement: Declining range of native freshwater mussel species in the Pacific Northwest
+   - Desired Outcomes: Baseline survey information, trends shown through ongoing monitoring, informed conservation actions
+3. Description: This protocol details a research project by the Confederated Tribes of the Umatilla Indian Reservation (CTUIR) that has been conducting baseline surveys and research on freshwater mussels since 2003. The study follows methods from Box et al. (2006), focusing on monitoring underlying mussel presence, abundance, and trends in abundance. The project aims to evaluate population health and status through mussel-specific surveys, with a focus on sub-basin distribution of mussel populations.
+4. Objectives: 
+   - Objective: To determine distribution of freshwater mussel populations by sub-basin, and to evaluate population health and status through mussel specific surveys.
+   - Summary of Solution Coverage: This objective covers the entire problem statement by providing a comprehensive understanding of mussel distribution and population health.
+   - Keywords: Freshwater mussels, Pacific Northwest, sub-basin distribution, population health, monitoring, conservation, restoration
+5. Target: The primary focus of this protocol is to gain a better understanding of freshwater mussel populations in the Pacific Northwest, with the goal of informing conservation efforts and restoring damaged populations.
+6. Constraints: 
+   - Limited resources (financial, personnel)
+   - Accessibility of survey sites
+   - Time required for monitoring and data collection
+   - Potential impacts on mussel populations during surveys
+   - Changes in environmental conditions affecting mussel populations
+
+Relevant Keywords: Freshwater mussels, Pacific Northwest, distribution, population health, conservation, restoration, monitoring, surveys, sub-basin.

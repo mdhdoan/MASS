@@ -1,0 +1,14 @@
+ 1. Abstract:
+This protocol outlines the steps to calculate and summarize solar insolation and electrical conductivity values for HUC4 watersheds, which will be used as inputs in a gross primary production (GPP) model. The purpose of this protocol is to provide accurate and automated methods for predicting GPP, which can aid in making spatially-explicit predictions regarding habitat needs and capacity for aquatic species.
+2. Values, Statements and Outcomes:
+Values: Understanding and managing the health of aquatic ecosystems.
+Problem Statement: There is a need for accurate prediction of gross primary production (GPP) in stream ecosystems to understand the availability of carbon for consumers and make informed decisions regarding habitat needs and capacity.
+Desired outcomes: Accurate, automated methods for predicting GPP using solar insolation and electrical conductivity as inputs.
+3. Description:
+This protocol uses ArcGIS toolsets to calculate solar insolation and electrical conductivity within a watershed's stream network. Solar insolation is calculated using temperature, solar insolation, and electrical conductivity as model inputs for GPP predictions for steelhead populations. The solar insolation modeling process is improved by South Fork Research, Inc. (SFR) through the development of ArcGIS Python tools. Electrical conductivity is shown to be a potential indicator of aquatic macroinvertebrate species richness and can influence faunal life stages. A previously developed electrical conductivity predictive model is used to build an automated workflow for predicting conductivity for a stream network, summarizing predicted upstream conductivity values per 1000-meter stream segments. The accuracy of solar results is validated using field data collected using SunEye.
+4. Objectives:
+Objective: To calculate and summarize solar insolation and electrical conductivity values for HUC4 watersheds for use in a GPP model.
+Summary of Solution Coverage: This objective covers the entire problem statement by providing accurate, automated methods for predicting GPP using solar insolation and electrical conductivity as inputs.
+Keywords: Solar insolation, Electrical conductivity, GPP, ArcGIS, Steelhead populations, HUC4 watersheds
+5. Target: The primary focus of this protocol is to provide accurate and automated methods for predicting gross primary production (GPP) in stream ecosystems using solar insolation and electrical conductivity as inputs.
+6. Constraints: This protocol requires access to ArcGIS toolsets, a previously developed electrical conductivity predictive model, and field data collected using SunEye. Additionally, the accuracy of solar results is dependent on the quality of the field data collected using SunEye.

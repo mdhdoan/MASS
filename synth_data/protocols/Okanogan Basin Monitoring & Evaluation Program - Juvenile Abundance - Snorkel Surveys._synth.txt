@@ -1,0 +1,18 @@
+ Sure, I can help you label and extract information from the text you provided. Here's my analysis:
+
+1. Abstract:
+The Okanogan-Basin Monitoring and Evaluation Program (OBMEP) has implemented a juvenile abundance protocol to estimate the population of fish in the Okanogan River Basin. The methods used include snorkel surveys, mark-recapture electrofishing, PIT tag data, and rotary screw trap data. The goal is to determine the status and trend of juvenile salmonid abundance in the basin.
+2. Values, Statements and Outcomes:
+Values: Accurate monitoring and evaluation of fish populations in the Okanogan River Basin.
+Problem Statement: There is a need to determine the status and trend of juvenile salmonid abundance in the Okanogan River Basin.
+Desired outcomes: To establish an effective method for monitoring juvenile salmonid abundance and density, which can help inform conservation efforts.
+3. Description:
+The OBMEP's juvenile abundance protocol uses various methods to estimate fish populations in the Okanogan River Basin. Snorkel surveys and mark-recapture electrofishing are used for visual identification and enumeration of fish species. PIT tag data and rotary screw trap data provide additional information on individual fish movement and population dynamics. The protocol details how juvenile abundance estimates are derived in Protocol #194.
+4. Objectives:
+Objective: To accurately estimate the abundance, species, and density of fish observed at sites within the Okanogan River Basin.
+Summary of Solution Coverage: This objective covers the entire problem statement by providing a comprehensive solution for monitoring juvenile salmonid abundance in the basin.
+Keywords: Juvenile abundance, mark-recapture electrofishing, snorkel surveys, PIT tag data, rotary screw trap data, Protocol #194.
+5. Target:
+To establish an effective method for monitoring juvenile salmonid abundance and density in the Okanogan River Basin.
+6. Constraints:
+The protocol is limited by the need for trained personnel to conduct snorkel surveys and mark-recapture electrofishing, as well as the availability of PIT tag data and rotary screw trap data. Additionally, environmental factors such as water clarity and temperature may affect survey results.

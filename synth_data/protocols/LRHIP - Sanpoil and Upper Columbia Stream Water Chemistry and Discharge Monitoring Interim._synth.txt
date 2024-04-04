@@ -1,0 +1,12 @@
+ 1. Abstract: This protocol aims to provide baseline water chemistry and stream discharge data sets for use in EDT model development, a key tool for prioritizing habitat restoration and protection efforts. A standardized protocol for future status and trend monitoring of stream water chemistry and discharge is also outlined.
+2. Values, Statements and Outcomes:
+* Value: The importance of protecting and restoring aquatic habitats to support healthy fish populations.
+* Problem Statement: Current habitat restoration efforts lack statistical rigor and clear prioritization strategies.
+* Desired Outcome: Improved habitat conditions and increased survival of migratory rainbow trout, leading to enhanced Tribal subsistence and recreational opportunities.
+3. Description: This text describes a protocol for collecting and analyzing water chemistry and discharge data in the Lake Roosevelt Habitat Improvement Project (LRHIP) area. The Ecosystem Diagnosis and Treatment (EDT) model will use these data to identify high-priority areas for restoration. Detailed methods for data collection, including pH, temperature, dissolved oxygen, specific conductance, and stream discharge measurements, are provided. The text also includes references to relevant protocols (2101 & 2102) and committees (Northwest Power and Conservation Committee).
+4. Objectives:
+* Objective: Develop a standardized protocol for monitoring water chemistry and discharge in the LRHIP area.
+* Summary of Solution Coverage: The objective covers the entire problem statement by providing a rigorous, statistically sound methodology for monitoring water quality and stream discharge to inform restoration efforts.
+* Keywords: Baseline data, water chemistry, stream discharge, EDT model, standardized protocol.
+5. Target: Development of a standardized protocol for water chemistry and discharge monitoring in the LRHIP area.
+6. Constraints: The success of this protocol depends on consistent data collection, adherence to established methods, and sufficient funding for ongoing monitoring efforts.

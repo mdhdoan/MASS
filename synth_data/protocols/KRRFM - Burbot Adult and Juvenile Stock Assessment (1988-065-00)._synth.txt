@@ -1,0 +1,12 @@
+ 1. Abstract: The text outlines a study focused on the Kootenai River's burbot population in Idaho, aiming to restore and sustainably manage it for annual harvests. The study uses various monitoring techniques such as hoop nets, passive telemetry, and PIT tags to assess demographics, movements, and responses to mitigative measures.
+2. Values, Statements, and Outcomes: 
+   - Values: Importance of preserving native fish species and providing sustainable fishing opportunities.
+   - Problem Statement: Decline in the Kootenai River burbot population due to dam construction and overfishing.
+   - Desired outcomes: Restored burbot population, annual sustainable harvests, improved understanding of burbot demographics and behaviors.
+3. Description: The text provides a detailed overview of the study, including methodologies such as hoop netting, passive telemetry, and PIT tagging to assess burbot demographics, movements, and responses to environmental conditions. The study also incorporates parental-based tagging to determine the parentage of recaptured burbot and addresses the impact of winter discharge management from Libby Dam on burbot spawning.
+4. Objectives: 
+   - Objective: Restore and manage the Kootenai River burbot population for annual sustainable harvests through detailed monitoring, data collection, and analysis.
+   - Summary of Solution Coverage: The objective covers the entire problem statement by implementing various techniques to assess, restore, and manage the burbot population.
+   - Keywords: Kootenai River, burbot, restoration, demographics, sustainable harvest, passive telemetry, PIT tags, parental-based tagging, winter discharge management.
+5. Target: Restoring and sustainably managing the Kootenai River's burbot population in Idaho.
+6. Constraints: The study's success relies on various factors such as cooperation from relevant authorities, funding availability, and adherence to ethical guidelines for animal research.

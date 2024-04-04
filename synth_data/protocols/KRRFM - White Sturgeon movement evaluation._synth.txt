@@ -1,0 +1,13 @@
+ 1. Abstract: This protocol outlines the study and monitoring of White sturgeon movement responses to flows and temperatures provided by Libby Dam, aiming to understand their spawning movements into proper spawning habitat above Bonners Ferry, Idaho. The researchers utilize passive telemetry arrays, Vemco sonic transmitters, and real-time active tracking to determine fish movement and behavioral responses to dam operations and mitigation measures.
+2. Values, Statements, and Outcomes:
+ values: Importance of preserving and understanding native fish populations
+ problem statement: Lack of knowledge regarding sturgeon spawning movements in the Kootenai River/Kootenay Lake system
+ desired outcomes: Data collection to inform management decisions, effective mitigation measures, and habitat enhancement projects.
+3. Description: The protocol employs various monitoring methods, such as passive telemetry arrays and active tracking, to study sturgeon movement in the Kootenai River/Kootenay Lake system. Real-time data collection with Vemco VR-100 receivers will provide insights into fish behavioral responses to Libby Dam operations and mitigation measures. A key aspect is integrating Vemco's Positioning System (VPS) to assess finer scale sturgeon movements near Shorty's Island and other potential habitat enhancement project sites.
+4. Objectives: 
+ objective: Determine environmental parameters influencing adult spawning movements into proper spawning habitat above Bonners Ferry, Idaho
+ summary of solution coverage: The entire scope of the problem statement is addressed
+ keywords: White sturgeon, spawning movements, Libby Dam operations, mitigation measures, Vemco Positioning System (VPS), Shorty's Island, habitat enhancement projects.
+5. Target: Studying and understanding adult spawning movements of White sturgeon in the Kootenai River/Kootenay Lake system.
+6. Constraints: 
+ constraint: Assumption that sampling methods are unbiased and data collected is representative of the true status of the population

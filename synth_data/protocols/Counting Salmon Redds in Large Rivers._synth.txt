@@ -1,0 +1,12 @@
+ 1. Abstract: The text describes a protocol for counting redds (spawning salmon nests) to assess the health and spatial distribution of salmon populations. This information can be used to evaluate the effectiveness of recovery efforts and inform management decisions.
+2. Values, Statements, and Outcomes:
+	* Value: Importance of preserving and protecting salmon populations for ecological and economic reasons.
+	* Problem Statement: Need to monitor and assess the health and spatial distribution of salmon populations to inform conservation efforts.
+	* Desired Outcomes: Data-driven decision making in recovery plans, informed modeling efforts, and improved understanding of salmon populations.
+3. Description: The protocol involves counting redds in both shallow and deep water sites to obtain a comprehensive view of the spawning salmon distribution. Long-term redd count data can help establish spatial criteria for recovery plans and provide important information for modeling efforts.
+4. Objectives:
+	* Objective: To accurately assess the health and spatial distribution of salmon populations using redd counts.
+	* Summary of Solution Coverage: The objective covers the entire problem statement, as accurate redd counts can provide valuable insights into salmon population status.
+	* Keywords: Redd counts, salmon distribution, recovery plans, modeling efforts.
+5. Target: The primary focus is to gather and analyze redd count data for better understanding and management of salmon populations.
+6. Constraints: Potential constraints include limitations in accessing counting sites, varying environmental conditions affecting redd visibility, and the need for consistent and accurate counting methodologies.

@@ -1,0 +1,16 @@
+ 1. Abstract:
+This text describes a plan to monitor and gather data on steelhead trout populations in the Asotin and Tucannon rivers in Washington State. The goal is to determine adult abundance, proportion of hatchery-origin fish, population age structure, and distribution of steelhead in the river tributaries. This information will be used for recovery efforts under the Endangered Species Act (ESA).
+2. Values, Statements and Outcomes:
+Values: Conservation of steelhead trout populations, meeting ESA recovery goals.
+Problem Statement: Uncertainty regarding adult steelhead abundance, distribution, and hatchery origin in unsampled tributaries, and the impact on ESA recovery efforts.
+Desired outcomes: To collect data on adult steelhead abundance, hatchery-origin fish, population age structure, and distribution to meet ESA recovery goals.
+3. Description:
+The text outlines a plan for monitoring steelhead trout populations in the Asotin and Tucannon rivers using adult traps to gather data. The proposed project will provide information on adult abundance, proportion of hatchery-origin fish, population age structure, distribution, and contribute to genetic characterization of Snake River Basin steelhead. The monitoring plan includes specific objectives, target populations, and constraints for the study.
+4. Objectives:
+The objective is to gather data on adult steelhead abundance, proportion of hatchery-origin fish, population age structure, and distribution in the Asotin and Tucannon river tributaries.
+Summary of Solution Coverage: The objective covers all aspects of the problem statement, including uncertainty regarding adult steelhead abundance, distribution, and hatchery origin in unsampled tributaries.
+Keywords: Steelhead trout, adult abundance, hatchery-origin fish, population age structure, river tributaries, ESA recovery.
+5. Target: Monitoring and gathering data on steelhead trout populations in the Asotin and Tucannon rivers.
+6. Constraints: The proposed project is subject to certain constraints, including adequate funding for DNA and SNPs analyses, and the availability of adult steelhead for tissue sampling at trap sites/streams. Additionally, the success of the project depends on the ability to install, maintain, and operate adult traps, accurately enumerate migrating adult steelhead, and properly collect tissue samples for genetic analysis.
+
+Keywords: Steelhead trout, adult abundance, hatchery-origin fish, population age structure, river tributaries, ESA recovery, DNA and SNPs analyses, tissue sampling, genetic characterization.

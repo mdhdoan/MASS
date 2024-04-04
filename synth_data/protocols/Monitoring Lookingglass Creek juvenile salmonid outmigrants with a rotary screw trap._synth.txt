@@ -1,0 +1,12 @@
+ 1. Abstract: Rotary screw traps are essential for monitoring outmigrating juvenile anadromous species, particularly summer steelhead and Chinook salmon, in the Pacific Northwest. The Lookingglass Creek screw trap offers accurate abundance and life history information for these species, contributing to their population status and trend analysis in the Grande Ronde Subbasin.
+2. Values, Statements, and Outcomes: 
+   - Values: Conservation of native anadromous fish populations.
+   - Problem Statement: There is a need for accurate monitoring of juvenile steelhead and Chinook salmon to assess population health and inform management strategies.
+   - Desired outcomes: Unbiased abundance estimates, representative sampling, and informed decision-making on conservation efforts.
+3. Description: Rotary screw traps are a reliable method for collecting and studying outmigrating juvenile steelhead and Chinook salmon in the Pacific Northwest. The Lookingglass Creek screw trap provides valuable information about the wild population of these species in the Grande Ronde Subbasin, ensuring unbiased fish sampling. This data contributes to the understanding of their life histories and aids in the monitoring of their population status and trends.
+4. Objectives: 
+   - Objective: To accurately monitor outmigrant abundance and life history of summer steelhead and Chinook salmon using rotary screw traps.
+   - Summary of Solution Coverage: The objective covers the entire problem statement, focusing on accurate data collection for informed decision-making on conservation efforts.
+   - Keywords: Rotary screw trap, outmigrant abundance, life history, summer steelhead, Chinook salmon, monitoring, conservation.
+5. Target: Monitoring and conserving native anadromous fish populations in the Pacific Northwest.
+6. Constraints: The effectiveness of this protocol depends on factors such as proper screw trap maintenance, accurate fish identification, timely data analysis, and adequate funding for ongoing research and management efforts.

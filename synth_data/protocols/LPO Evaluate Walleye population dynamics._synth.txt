@@ -1,0 +1,19 @@
+ 1. Abstract: The text outlines a research protocol aimed at studying the impact of walleye on native fish populations in a lake. The study will analyze the diet, origin, and movement patterns of walleye using various monitoring techniques, providing valuable insights to inform management strategies.
+
+2. Values, Statements and Outcomes: 
+- Values: Preservation of biodiversity, responsible management of fish populations
+- Problem Statement: Walleye may pose a threat to native fish populations; understanding their origin, diet, and movement patterns is crucial for effective management.
+- Desired outcomes: Baseline datasets for future population trends, insights into walleye life histories, informed management strategies.
+
+3. Description: The protocol involves using radio and acoustic telemetry to track walleye movements during spawning, studying their diet through isotopic analysis, and monitoring catch rates with fall Walleye index netting methods. Selected sampling locations and gear types aim to representatively sample the walleye population and establish applicable baseline datasets for future comparisons.
+
+4. Objectives:
+- Determine the origin of walleye in the lake via isotopic analysis
+- Analyze walleye diet, spawning locations, home range, feeding habits, growth rates, population dynamics, and general life histories
+- Establish baseline datasets to compare future population trends
+- Summary of Solution Coverage: This objective covers understanding the role of walleye in the lake ecosystem and developing a foundation for informed management strategies.
+- Keywords: Walleye origin, diet analysis, telemetry, spawning locations, home range, growth rates, population dynamics, baseline datasets.
+
+5. Target: Comprehensive study of walleye ecology to inform management strategies.
+
+6. Constraints: The success of this protocol depends on factors such as adequate funding, availability and accessibility of equipment, proper implementation, and accurate data collection and analysis.

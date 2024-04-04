@@ -1,0 +1,12 @@
+ 1. Abstract: This text describes a project's goal to assess the abundance, productivity, and survival rates of the Asotin Creek steelhead population, including several adjacent tributaries, for better management and conservation. The project also aims to establish a baseline for salmonid populations and collect genetic data for further characterization.
+2. Values, Statements, and Outcomes: 
+   - Values: Importance of conserving and managing the Asotin Creek steelhead population and understanding its current status.
+   - Problem Statement: Lack of comprehensive information about the abundance, productivity, and survival rates of the Asotin Creek steelhead population and adjacent tributaries.
+   - Desired Outcomes: Establishing a baseline for salmonid populations, assessing life stage survival rates, determining genetic structure, and identifying potential limiting factors for salmonid production in the subbasin.
+3. Description: The text outlines a project (2002-053-00) that implements research, monitoring, and evaluation criteria from various plans to study the Asotin Creek steelhead population. Methods involve using weirs, mark-recapture assumptions, and DNA sampling for genetic analysis. This project focuses on adult steelhead monitoring and provides estimates for species abundance, productivity, survival rates, and temporal/spatial distribution.
+4. Objectives: 
+   - Objective: Determine the abundance, productivity, and survival rates of the Asotin Creek steelhead population and adjacent tributaries, as well as collect genetic data.
+   - Summary of Solution Coverage: The objective covers the entire problem statement by providing a comprehensive assessment of the steelhead population's status and characteristics.
+   - Keywords: Abundance, productivity, survival rates, genetic structure, mark-recapture, DNA sampling, weirs, Asotin Creek steelhead population.
+5. Target: Comprehensive assessment and characterization of the Asotin Creek steelhead population and adjacent tributaries.
+6. Constraints: The protocol assumes properly functioning weirs and representative sampling, as well as basic mark-recapture assumptions.

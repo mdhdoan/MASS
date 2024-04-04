@@ -1,0 +1,12 @@
+ 1. Abstract: This text outlines a protocol to study the impact of salmonid-focused habitat restoration projects on Pacific lamprey populations in the Upper Columbia region. The necessity for this study arises from the lack of information on whether these projects benefit lamprey by creating or enhancing larval rearing habitats and attracting lamprey occupancy.
+2. Values, Statements and Outcomes: 
+   - Values: Importance of biodiversity conservation and ecosystem health.
+   - Problem Statement: Limited information on the benefits of salmonid-focused habitat restoration projects for Pacific lamprey populations in the Upper Columbia region.
+   - Desired outcomes: Quantifying the area, condition, and biomass of larval rearing habitats for Pacific lamprey at historical salmonid-focused habitat restoration projects. Identifying project types and features that promote Type 1 larval rearing habitat development.
+3. Description: The text focuses on the methodology to assess the suitability of salmonid-focused habitat restoration projects in supporting Pacific lamprey populations in the Methow and Entiat Subbasins. The protocol employs Close 2000 criteria for Type 1 larval rearing habitat identification and quantification, examining field data sheets to determine presence, biomass, and distribution of larval lamprey.
+4. Objectives: 
+   - Objective: Evaluate the effectiveness of salmonid-focused habitat restoration projects in providing Pacific lamprey rearing habitats.
+   - Summary of Solution Coverage: The objective covers the majority of the problem statement, focusing on assessing and quantifying the benefits of these projects for Pacific lamprey populations.
+   - Keywords: Type 1 larval rearing habitat, Close 2000, Methow and Entiat Subbasins, Pacific lamprey biomass, salmonid-focused project features.
+5. Target: To measure the impact of salmonid-focused habitat restoration projects on Pacific lamprey populations in the Upper Columbia region.
+6. Constraints: The success of this protocol depends on the availability and quality of historical field data sheets from past salmonid-focused habitat restoration projects.

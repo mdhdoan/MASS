@@ -1,0 +1,12 @@
+ 1. Abstract: The Nez Perce Tribe's Department of Fisheries Resources Management employs in-stream weirs to monitor and manage returning adult runs of anadromous salmonids, such as Chinook salmon and steelhead. This method assists in capturing, marking, collecting biological data, and managing fish populations using sliding scales. The primary goal is to estimate abundance, survival, life history characteristics, and evaluate hatchery effectiveness and population trends.
+2. Values, Statements, and Outcomes: 
+Values: Importance of preserving and managing native anadromous salmonid populations.
+Problem Statement: Need for effective monitoring and management strategies to maintain healthy fish populations and ensure the success of conservation actions.
+Desired outcomes: Accurate population estimates, evaluation of hatchery effectiveness, informed decision-making for conservation efforts, and improved recovery metrics.
+3. Description: The text describes the use of in-stream weirs for capturing and collecting data on returning adult runs of Chinook salmon and steelhead. Metrics and indicators from protocols #2246 and #2249 are used to analyze collected data, which enable the estimation of abundance, survival rates, life history characteristics, and hatchery performance. Weirs also facilitate the implementation of management sliding scales for pass/keep scenarios, addressing population management needs and conservation goals.
+4. Objectives: 
+- Objective: Accurately estimate adult abundance and survival of Chinook salmon and steelhead.
+Summary of Solution Coverage: The entire problem statement is covered through effective monitoring and data analysis.
+Keywords: Adult abundance, survival rates, life history characteristics, hatchery effectiveness.
+5. Target: Effective anadromous salmonid population management through in-stream weir implementation and data analysis.
+6. Constraints: Success of this protocol depends on factors such as proper weir placement, sufficient funding for data collection and analysis, and the availability of necessary personnel to carry out tasks described in protocols #2246 and #2249.

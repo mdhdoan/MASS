@@ -1,0 +1,12 @@
+ 1. Abstract: The text describes the management and monitoring of the Grande Ronde Upper Mainstem (GRUM) summer steelhead population. It highlights the shift towards natural origin steelhead spawners since 2002, the accurate data collection methods used, and the estimation of total spawner abundance and proportion of hatchery origin spawners. The protocol also discusses the use of the Viable Salmonid Parameter (VSP) concept by NOAA to assess the population's extinction risk.
+2. Values, Statements and Outcomes: 
+   - Values: Preservation of genetically distinct steelhead populations.
+   - Problem Statement: Managing and ensuring the sustainability of the GRUM summer steelhead population.
+   - Desired Outcomes: Accurate assessment of the GRUM summer steelhead population's status, leading to informed management decisions and the restoration of depleted populations to optimal levels.
+3. Description: The text details the methods used in monitoring and managing the GRUM summer steelhead population. It explains the use of index spawning ground surveys, the Generalized Random Tessellation Stratified (GRTS) design, and data collection at three weirs in the GRUM population area. The VSP concept is used by NOAA to assess the population's extinction risk, with natural origin spawner abundance (NOSA) being a key parameter.
+4. Objectives: 
+   - Objective: To provide accurate and up-to-date data on the GRUM summer steelhead population, allowing for informed management decisions.
+   - Summary of Solution Coverage: The text covers the entire problem statement, providing detailed information on the methods and processes used to monitor and manage the GRUM summer steelhead population.
+   - Keywords: GRUM, summer steelhead, natural origin spawner abundance, VSP, GRTS design, data collection, management.
+5. Target: Management and monitoring of the GRUM summer steelhead population.
+6. Constraints: The constraints for this protocol are not explicitly stated in the text. However, they may include factors such as budget limitations, resource availability, and regulatory requirements.

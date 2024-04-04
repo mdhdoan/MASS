@@ -1,0 +1,14 @@
+ 1. Abstract: The text outlines a monitoring protocol for evaluating the effectiveness of Floodplain Enhancement Projects (FEPs) in improving fish and wildlife habitat. It details the specific metrics to be collected, including pre-project topography, habitat area, water connection, channel dynamics, juvenile salmon and steelhead numbers, and benthic invertebrate communities. The protocol is designed to answer key questions about the impact of FEPs on habitat and species.
+2. Values, Statements, Outcomes:
+Values: The importance of preserving and enhancing fish and wildlife habitat for conservation purposes.
+Problem Statement: Lack of a standardized monitoring protocol for evaluating the effectiveness of FEPs.
+Desired outcomes: A comprehensive evaluation of the impact of FEPs on fish and wildlife habitat, including metrics on habitat area, water connection, channel dynamics, juvenile salmon and steelhead numbers, and benthic invertebrate communities.
+3. Description: The text describes a monitoring protocol for evaluating the effectiveness of Floodplain Enhancement Projects (FEPs) in improving fish and wildlife habitat. The protocol includes several metrics to be collected, including pre-project topography, habitat area by habitat type, proportion of slow water habitat at various flows, value of the River Complexity Index, ratio of floodplain area to channel area, variation in residual depth and channel size, inundated floodplain area, proportion of each habitat type relative to total area, channel migration rate, secondary production (benthic macroinvertebrates) by habitat type, relative fish abundance by habitat, season, species and life stage, and the presence of fish species by season. The protocol also includes a predictive model for inundation of off-channel habitat.
+4. Objectives:
+Objective: To evaluate the effectiveness of FEPs in improving fish and wildlife habitat.
+Summary of Solution Coverage: The objective covers all aspects of FEPs, including pre-project topography, habitat area, water connection, channel dynamics, juvenile salmon and steelhead numbers, and benthic invertebrate communities.
+Keywords: Floodplain Enhancement Projects, monitoring protocol, fish and wildlife habitat, pre-project topography, habitat area, water connection, channel dynamics, juvenile salmon and steelhead numbers, benthic invertebrate communities.
+5. Target: To establish a standardized monitoring protocol for evaluating the effectiveness of FEPs in improving fish and wildlife habitat.
+6. Constraints: The constraints for this protocol include access to study sites, availability of funding, and limitations in data collection methods.
+
+Keywords: Floodplain Enhancement Projects, monitoring protocol, fish and wildlife habitat, pre-project topography, habitat area, water connection, channel dynamics, juvenile salmon and steelhead numbers, benthic invertebrate communities.

@@ -1,0 +1,12 @@
+ 1. Abstract: The Asotin Creek Salmon Population Assessment project aims to evaluate the abundance, productivity, and survival rates of juvenile steelhead and Chinook salmon in the Asotin Creek mainstem. This information will contribute to a better understanding of the Asotin Creek steelhead population's status under the Endangered Species Act (ESA) by incorporating data from several adjacent tributaries.
+2. Values, Statements and Outcomes: 
+   - Values: Preserving and managing native fish populations, ensuring biodiversity, and complying with ESA regulations.
+   - Problem Statement: Insufficient information on the abundance, productivity, and survival rates of Asotin Creek steelhead and Chinook salmon populations.
+   - Desired Outcomes: A comprehensive assessment of juvenile steelhead and Chinook salmon life history patterns, survival rates, and emigrant production in Asotin Creek, supporting informed decision-making for conservation efforts.
+3. Description: This project implements research, monitoring, and evaluation criteria from the Asotin Subbasin Plan (ASP 2004), the MERR, and the Anadromous Salmonid Monitoring Strategy (ASMS 2010). The primary focus is on juvenile steelhead trapping, data collection, and analysis, closely tied with the Asotin Creek Adult Trapping and Analysis protocol (#295). Assumptions include proper gear functioning and representative sampling.
+4. Objectives: 
+   - Objective: Conduct a detailed assessment of juvenile steelhead and Chinook salmon in Asotin Creek, including life history patterns, survival rates, and emigrant production estimates.
+   - Summary of Solution Coverage: The project covers the entire problem statement by providing essential information for understanding and managing Asotin Creek's steelhead and Chinook salmon populations.
+   - Keywords: Asotin Creek Salmon Population Assessment, juvenile steelhead trapping, life history patterns, survival rates, emigrant production estimates, Asotin Creek Adult Trapping and Analysis (#295).
+5. Target: Comprehensive assessment of Asotin Creek's juvenile steelhead and Chinook salmon populations.
+6. Constraints: The success of the project depends on properly functioning gear, representative sampling, and adherence to key assumptions related to smolt trapping.

@@ -1,0 +1,12 @@
+ 1. Abstract: This text describes a study focused on the rainbow trout population in Lake Pend Oreille, Idaho. The objective is to calculate growth rates and condition factors of rainbow trout, while also monitoring their abundance and age structure, as an essential part of managing and rebuilding the fishery. Anglers are utilized for fish sampling during fishing derbies to increase efficiency and representativeness.
+2. Values, Statements and Outcomes: 
+values - conservation and management of fisheries resources
+problem statement - declining kokanee abundance and trophy trout populations in Lake Pend Oreille
+desired outcomes - rebuilding the kokanee population, restoring the trophy rainbow trout fishery, maintaining a sustainable ecosystem
+3. Description: The study uses restrictive harvest regulations and monitors the response of the rainbow trout population through angler-based sampling during fishing derbies. This approach allows for more efficient data collection across all sizes of fish in the population. Sampling results are then compared with previous studies to assess changes in growth rates, condition factors, age structure, and abundance over time.
+4. Objectives: 
+objective - calculate rainbow trout growth rates and condition factors while monitoring their abundance and age structure
+summary of solution coverage - this objective addresses the primary concern of rebuilding the rainbow trout population as part of a broader ecosystem management strategy
+keywords - growth rate, condition factor, angler-based sampling, fishing derbies, sustainable fishery, age structure
+5. Target: Rebuilding and managing the rainbow trout population in Lake Pend Oreille.
+6. Constraints: The success of this study is dependent on factors such as weather conditions, fish behavior, and angler participation during fishing derbies. Additionally, data analysis and interpretation require specialized knowledge and resources.

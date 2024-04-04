@@ -1,0 +1,12 @@
+ 1. Abstract: The text outlines the importance of fisheries sampling within the SAFE Program, which helps balance fishing opportunities with minimizing impacts on ESA-listed fish species. Real-time data collected from samplers and buyers informs decision-making by fisheries managers, ensuring sustainability and compliance with regulations.
+2. Values, Statements, and Outcomes:
+	* Value: Importance of real-time data collection for effective fisheries management.
+	* Problem Statement: Balancing fishing opportunities with environmental protection and regulatory compliance.
+	* Desired Outcome: Accurate, timely information to guide decision-making in Select Area fisheries.
+3. Description: The text details the process of fisheries sampling, including data collection by state agency personnel, bio-sampling results sharing between states, fish ticket reporting, and monitoring for ESA-listed species. It also highlights the importance of proper training, equipment maintenance, and reviewing cumulative landings data to ensure sustainable practices.
+4. Objectives:
+	* Objective: Implement an effective fisheries sampling protocol to balance fishing opportunities with environmental protection and regulatory compliance.
+	* Summary of Solution Coverage: The text covers various aspects of the sampling process, including data collection, reporting, reviewing cumulative landings, and ensuring proper training for samplers.
+	* Keywords: Fisheries sampling, real-time data, ESA-listed species, fish tickets, cumulative landings, fisheries management.
+5. Target: Implement an effective and sustainable fisheries sampling protocol for the SAFE Program in Select Areas.
+6. Constraints: Successful implementation of this protocol requires coordination between state agencies, proper training for samplers, timely reporting from buyers, and adequate equipment maintenance.

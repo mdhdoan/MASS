@@ -1,0 +1,12 @@
+ 1. Abstract: The text describes the importance of understanding O. nerka (sockeye salmon) population characteristics in Sawtooth Basin lakes to support sockeye salmon restoration efforts. It highlights the necessity of monitoring O. nerka abundance, density, and biomass, as well as the use of both midwater trawl and hydroacoustic techniques for data collection. The calibration and representativeness of sampling equipment are also emphasized.
+2. Values, Statements, and Outcomes: 
+- Value: Effective sockeye salmon restoration and population management
+- Problem Statement: Managing O. nerka populations in the face of varying productivity and kokanee competition
+- Desired Outcome: Responsible reintroduction decisions based on accurate population data and understanding of carrying capacity
+3. Description: The text details methods for monitoring O. nerka populations, including midwater trawl and hydroacoustic techniques. Midwater trawling provides biological sample data for abundance, density, biomass, and stock composition estimates, while hydroacoustics helps estimate population size in lakes with physical limitations for trawling. Both methods must be used together to generate comprehensive data for understanding carrying capacity and developing reintroduction plans. Sampling equipment calibration and representativeness are crucial for accurate data collection.
+4. Objectives: 
+- Objective: Utilize midwater trawl and hydroacoustic techniques to collect O. nerka population data in Sawtooth Basin lakes
+- Summary of Solution Coverage: Comprehensively addresses the necessity of understanding population characteristics, carrying capacity, and reintroduction planning
+- Keywords: Midwater trawl, hydroacoustics, abundance, density, biomass, stock composition, carrying capacity, reintroduction planning
+5. Target: O. nerka population monitoring and management for sockeye salmon restoration in Sawtooth Basin lakes
+6. Constraints: Physical limitations associated with midwater trawling and the inability to generate biological data on stock compositions using hydroacoustics

@@ -1,0 +1,12 @@
+ 1. Abstract: This text outlines the monitoring protocol for evaluating the effectiveness of Partial Barrier Projects in improving salmonid density. The procedure follows the Washington Salmon Recovery Funding Board and Columbia Habitat Monitoring Program protocols, with modifications to fit the specific project needs. The goal is to assess changes in adult and juvenile salmonid density upstream and downstream of fish barriers over a five-year period post-project implementation.
+2. Values, Statements, and Outcomes: 
+   - Values: Importance of preserving and enhancing fish populations, particularly salmonids.
+   - Problem Statement: Evaluating the success of Partial Barrier Projects in improving fish density.
+   - Desired outcomes: Data-driven evidence on project effectiveness, informing future decision-making and resource allocation for fish conservation efforts.
+3. Description: The text describes a monitoring design focused on comparing salmonid density before and after implementing Partial Barrier Projects at specific project sites. Modifications to the Washington Salmon Recovery Funding Board's and Columbia Habitat Monitoring Program's protocols are made due to variations in monitoring design and metrics. Access to impact and control reaches is granted prior to project implementation and for five years following completion.
+4. Objectives: 
+   - Objective: Determine if adult and juvenile salmonid density in the impact reach (upstream of fish barriers) increases relative to densities in the control reach (downstream) from year -1 to 2 and 5 post-project implementation.
+   - Summary of Solution Coverage: The objective addresses the primary goal of assessing project effectiveness in improving fish density at specific project sites.
+   - Keywords: Partial Barrier Projects, salmonid density, impact reach, control reach, monitoring design, pre-post project evaluation.
+5. Target: Monitoring and evaluating the success of Partial Barrier Projects in enhancing fish populations.
+6. Constraints: The effectiveness of this protocol depends on consistent access to impact and control reaches before and after project implementation for data collection.

@@ -1,0 +1,14 @@
+ 1. Abstract:
+The text outlines a protocol for monitoring and recovering the Fifteenmile Creek steelhead population in North Central Oregon. The protocol highlights the need to determine population dynamics, life history characteristics, and abundance estimates of stray hatchery fish and spawner abundance. It also emphasizes the use of technology such as weirs and video reviewers for accurate data collection.
+2. Values, Statements and Outcomes:
+Values: The importance of preserving native steelhead populations in their natural habitat.
+Problem Statement: The Fifteenmile Creek steelhead population is at risk due to various factors including hatchery augmentation and inconsistent run-timing.
+Desired outcomes: Improved accuracy and precision of estimates related to stray hatchery fish, spawner abundance, and life history characteristics. Ultimately, the goal is to recover this population to sustainable levels for future generations.
+3. Description:
+The protocol focuses on monitoring and evaluating the Fifteenmile Creek steelhead population through various methods such as weirs that move fish into live-boxes or video bypass chutes, and the use of video reviewers who accurately identify individual fish as adult or kelt. The interim nature of this protocol is due to contract issues.
+4. Objectives:
+Describe in detail the objective of accurately estimating stray hatchery fish and spawner abundance through the use of technology such as weirs, live-boxes, video bypass chutes, and accurate identification of individual fish.
+Summary of Solution Coverage: The entire problem statement is covered through this objective, with a focus on improving accuracy and precision of estimates related to stray hatchery fish, spawner abundance, and life history characteristics.
+Keywords: Steelhead population dynamics, life history characteristics, stray hatchery fish, spawner abundance, weirs, video reviewers
+5. Target: The primary focus of the protocol is to accurately estimate and recover the Fifteenmile Creek steelhead population in North Central Oregon.
+6. Constraints: The protocol's interim nature due to contract issues may impact its implementation and success.

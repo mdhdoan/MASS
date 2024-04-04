@@ -1,0 +1,14 @@
+ 1. Abstract:
+The Lake Roosevelt Fisheries Evaluation Program (LRFEP) is a collaborative effort to assess the performance of fish stocks and evaluate the ecological impacts of hatchery fish on resident populations in Lake Roosevelt. The program utilizes various monitoring techniques, such as boat electrofishing and net surveys, to collect data on morphometric indices, catch-per-unit-effort, species diversity, and more. By comparing current and historical data, LRFEP aims to understand changes in fish populations relative to hydro-project operations.
+2. Values, Statements, and Outcomes:
+Values: The importance of preserving and understanding the local aquatic ecosystem.
+Problem Statement: Loss of anadromous fishes due to dam construction and the need for mitigation efforts.
+Desired outcomes: Reestablishment of recreational and subsistence fisheries, assessment of stocked fish impacts on resident populations, and long-term monitoring of fishery health.
+3. Description:
+LRFEP is a multi-agency collaborative that focuses on evaluating the performance of fishes stocked by the Lake Roosevelt Artificial Production Program (LRAPP). The program collects morphometric indices, calculates catch-per-unit-effort and condition, and assesses species diversity using boat electrofishing, fyke net, gill net, and beach seine surveys. LRFEP also investigates ecological impacts, size and age structure, predator/prey relationships, and diet of target fish species, comparing current and historical data to understand changes relative to hydro-project operations.
+4. Objectives:
+Objective: Evaluate the performance of fishes stocked by LRAPP and investigate ecological impacts on Lake Roosevelt's fishery.
+Summary of Solution Coverage: The objective covers the assessment of stocked fish performance, impacts on resident populations, and changes in fish populations due to hydro-project operations.
+Keywords: Fish performance evaluation, ecological impacts, hydro-project operations, stocked fish impacts, fish population changes.
+5. Target: Comprehensive assessment and monitoring of Lake Roosevelt's fishery.
+6. Constraints: The success of the LRFEP depends on accurate data collection, collaboration between agencies, funding for the program, and the ability to adapt to changing environmental conditions in Lake Roosevelt.

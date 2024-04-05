@@ -42,7 +42,10 @@ def feed_llm(text_content):
     Keywords
     Include a list of highly relevant keywords relevant to the protocol. These keywords can serve as quick references to the main topics and themes covered. Aiming to limit to 5. Then please fill out the following parts:
     1.  Abstract: The Abstract section provides a comprehensive high-level, non-technical focus overview of the protocol, explaining its necessity and offering a succinct solution. 
-    2.	Values, Statements and Outcomes: Values that describe why we are putting money into this, Problem Statement of what problem are they trying to solve, Desired outcomes such as what kind of outcomes are specified or desired from the text body.
+    2.	Values, Statements and Outcomes: 
+            Values that describe why we are putting money into this, 
+            Problem Statement of what problem are they trying to solve, 
+            Desired outcomes such as what kind of outcomes are specified or desired from the text body.
     3.	Description: Provide a more technical focus, more detailed description of the text body. Focus and depth into why certain methods, metrics, and indicators are used, if any are mentioned. Also explaining why, mechanics, processes, and specifics. Contains more specific details such as project#, protocols#, etc.
     4.	Objectives: Describe the objective in detail, Summary of Solution Coverage: How much of the problem statement is this objective covering, and Keywords: List specific keywords or specifics related to the objective. 
     5.	Target: Specifies the primary focus or goal of the protocol in a few words.

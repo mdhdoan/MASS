@@ -23,7 +23,8 @@ from langchain.schema import Document
 random.seed(2024)
 
 HEADERS = [
-    "abstractText"
+    "background",
+    "assumptions", 
 ]
 
 def increase_count(count, character):
@@ -69,16 +70,17 @@ if __name__ == '__main__':
             abstractText = str(doc['abstractText']) if doc['abstractText'] else ''
 
             # Add the context from protocols, and the objectives related that it's trying to solve. Borrow data from synth of possible
+            
             # Add metric connection from the other files for possible solutions
 
             relevant_text = abstractText
             try:
                 result = feed_llm(relevant_text)
-                save_path = 'synth_data/methods/'
-                os.makedirs('synth_data/methods/', exist_ok = True)
-                result_file_name = os.path.join(save_path, file[:-4] + '_synth.txt')
-                with open(result_file_name, 'w+') as synth_file:
-                    synth_file.write(result)
+                # save_path = 'synth_data/methods/'
+                # os.makedirs('synth_data/methods/', exist_ok = True)
+                # result_file_name = os.path.join(save_path, file[:-4] + '_synth.txt')
+                # with open(result_file_name, 'w+') as synth_file:
+                #     synth_file.write(result)
             except Exception as e:
                 print(f"\n{file_name}")
         count = increase_count(count, '.')

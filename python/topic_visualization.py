@@ -12,7 +12,8 @@ from bertopic.representation import KeyBERTInspired
 from bertopic.vectorizers import ClassTfidfTransformer
 
 HEADERS = [
-    "abstractText"
+    "background",
+    "assumptions", 
 ]
 
 def increase_count(count, character):
@@ -107,7 +108,7 @@ if __name__ == '__main__':
     topic_model.visualize_documents(documents, embeddings=embeddings)
 
     # Reduce dimensionality of embeddings, this step is optional but much faster to perform iteratively:
-    reduced_embeddings = UMAP(n_neighbors=10, n_components=2, min_dist=0.0, metric='cosine').fit_transform(embeddings)
+    reduced_embeddings = UMAP(n_neighbors=8, n_components=2, min_dist=0.0, metric='cosine').fit_transform(embeddings)
     viz_docs = topic_model.visualize_documents(documents, reduced_embeddings=reduced_embeddings, width=3096, height=1440, custom_labels=True)
     viz_docs.show()
     viz_docs.write_html("viz/" + model_name + '-docs.html')

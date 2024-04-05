@@ -54,10 +54,10 @@ if __name__ == '__main__':
     embeddings = embedding_model.encode(documents, show_progress_bar=True)
 
     # Step 2 - Reduce dimensionality
-    umap_model = UMAP(n_neighbors=15, n_components=5, min_dist=0.0, metric='cosine')
+    umap_model = UMAP(n_neighbors=8, n_components=3, min_dist=0.0, metric='cosine')
 
     # Step 3 - Cluster reduced embeddings
-    hdbscan_model = HDBSCAN(min_cluster_size=15, metric='euclidean', cluster_selection_method='eom', prediction_data=True)
+    hdbscan_model = HDBSCAN(min_cluster_size=8, metric='euclidean', cluster_selection_method='eom', prediction_data=True)
 
     # Step 4 - Tokenize topics
     vectorizer_model = CountVectorizer(stop_words="english")
@@ -133,7 +133,7 @@ if __name__ == '__main__':
     topic_model.set_topic_labels(label_dict)
 
     topic_model.save(
-        "model/data/protocol", 
+        "model/data", 
         serialization="pytorch", save_ctfidf=True, save_embedding_model="sentence-transformers/all-MiniLM-L6-v2"
     )
     

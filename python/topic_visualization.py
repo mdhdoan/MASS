@@ -39,36 +39,6 @@ if __name__ == '__main__':
     for i in range (1,dict_length):
         label_dict[str(i)] = label_list[i]     
     print(label_dict)
-    # label_dict = {
-    #     0: "Stream Channel Classification and Sampling",
-    #     1: "Water Chemistry and Groundwater Temperature Analysis",
-    #     2: "Estimating egg survival during spawning",
-    #     3: "Salmonid tagging procedures",
-    #     4: "Site Layout: Locating and Marking",
-    #     5: "Electrofishing trout in rivers",
-    #     6: "Macroinvertebrate sampling protocol",
-    #     7: "Salmonid trap efficiency methods",
-    #     8: "Genetic population structure and heterozygosity",
-    #     9: "Salmonid Redd Detection Efficiency",
-    #     10: "Floodplain Vegetation Restoration",
-    #     11: "Hydroacoustic methods for fish population assessment",
-    #     12: "Fisheries sampling techniques",
-    #     13: "Fishing: Gillnet Use in Fisheries",
-    #     14: "Columbia River Basin Salmonid Ecology (ESA and Water Quality)",
-    #     15: "Streamflow Measurement in Streams",
-    #     16: "eDNA Extraction and Purification",
-    #     17: "Wetlands Wildlife Habitat Management",
-    #     18: "Vegetation Cover Estimation",
-    #     19: "Woody Debris Tallying: Diameter and Length Classes",
-    #     20: "RBT toolkit for river channel analysis (ArcGIS)",
-    #     21: "Salmon Research in Columbia River Plume",
-    #     22: "Fish Passage Criteria Evaluation",
-    #     23: "Stream habitat assessment through thalweg profiling",
-    #     24: "Fish Seining Techniques",
-    #     25: "Riparian Vegetation Monitoring in Watersheds",
-    #     26: "Anadromous fish telemetry using PIT tags",
-    #     27: "Habitat Statistics for Fish Projects (EPA)"
-    # }
     topic_model.set_topic_labels(label_dict)
 
     in_path, documents, count = sys.argv[1], [], 0

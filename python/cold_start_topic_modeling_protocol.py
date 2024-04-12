@@ -133,7 +133,7 @@ if __name__ == '__main__':
     topic_model.set_topic_labels(label_dict)
 
     topic_model.save(
-        "model/data", 
+        "model/data/protocol", 
         serialization="pytorch", save_ctfidf=True, save_embedding_model="sentence-transformers/all-MiniLM-L6-v2"
     )
     

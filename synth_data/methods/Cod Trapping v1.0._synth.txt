@@ -1,9 +1,0 @@
- 1. Keywords: Cod traps, burbot, stock assessment, non-lethal, cost-effective
-
-2. Abstract: Cod traps are a valuable tool for capturing burbot in the context of stock assessment. They are non-lethal, easy to deploy and retrieve, and have low bycatch, making them an ethical and efficient choice. Their durability and low cost also contribute to their widespread use. This method outlines the process of deploying and retrieving cod traps for burbot capture.
-
-3. Description: The text discusses the use of cod traps, as described by Spence (2000), for the purpose of capturing burbot. These traps are commonly used in stock assessment due to their non-lethal nature and ease of deployment, retrieval, storage, and transportation. They also have a low risk of catching other species, making them environmentally friendly. Additionally, cod traps are durable and cost-effective. The text provides detailed instructions on how to set up and retrieve the cod traps.
-
-4. Target: The primary goal of this method is to effectively capture burbot for stock assessment purposes using cod traps.
-
-5. Constraints: The use of cod traps for burbot capture may be limited by local regulations or conservation efforts aimed at protecting burbot populations. Additionally, the success of this method depends on proper deployment and retrieval techniques, as well as an understanding of burbot behavior and habitat preferences.

@@ -1,5 +1,0 @@
- 1. Keywords: individual fry weights, hatcheries, field sampling, migrant traps, seining
-2. Abstract: This method outlines the importance of collecting and recording accurate fry weights at both hatcheries and field sampling sites. Proper handling and measurement techniques are crucial to minimize bias from water on the fry, ensuring reliable data for further analysis in fish ecology studies.
-3. Description: The text details the process of gathering individual fry weights at two main locations - hatcheries and field sampling sites. Field sampling sites consist of migrant traps and seining operations. Weighing fry requires special care due to their small size, as well as the potential for bias from water on the fry. The method aims to maintain precision in data collection by emphasizing thorough drying techniques prior to weighing.
-4. Target: Improving accuracy in fry weight measurements
-5. Constraints: Major constraints include the small size of fry, which requires delicate handling and precise measurement tools, as well as the challenge of eliminating bias from water on the fry during this process.

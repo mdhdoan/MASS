@@ -1,9 +1,0 @@
- 1. Keywords: fish survival rate, hatchery management, culture practices, mortality rate, egg collection planning
-
-2. Abstract: This method provides a crucial tool for hatchery managers and biologists to estimate the survival rate of fish grown at hatcheries. By evaluating the performance of culture practices and calculating necessary changes, they can improve overall survival. The ability to estimate survival rates also helps in planning egg collection, ensuring the desired number of fish are released. This information is vital for effective management and conservation efforts.
-
-3. Description: The text describes a method to calculate survival and mortality rates of fish grown at hatcheries. Knowing these rates allows hatchery managers and biologists to evaluate culture practices and make informed decisions regarding improvements. Survival rate estimation is also essential for egg collection planning, as understanding the survival rate enables managers to collect the appropriate number of eggs needed to achieve their target release numbers. The method explains that the mortality rate can be simply calculated as 1 minus the survival rate.
-
-4. Target: The primary goal of this method is to provide a means for hatchery managers and biologists to estimate fish survival rates, evaluate culture practices, and plan egg collection accordingly.
-
-5. Constraints: This method assumes that hatcheries have adequate resources and tools to monitor and track fish populations accurately, ensuring reliable data for calculating survival and mortality rates. Additionally, this method may require consistent data collection over time to identify trends and make informed decisions.

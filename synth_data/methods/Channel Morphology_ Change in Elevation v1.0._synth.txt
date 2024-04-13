@@ -1,9 +1,0 @@
- 1. Relevant keywords: stream gradient, waters surface slope, change in elevation, transects A and K.
-
-2. Abstract: The method described measures the average slope of a stream's surface, also known as stream gradient. This is done by calculating the change in elevation between two points along the stream. In this case, the starting point is the left wetted point at transect A and the ending point is the left wetted point at transect K. This information can be useful in various applications, such as understanding stream behavior or assessing water flow.
-
-3. Description: Stream gradient is a measure of the average slope of a stream's surface, typically calculated by measuring the change in elevation between two points along the stream. In this particular method, the starting point is the left wetted point at transect A and the ending point is the left wetted point at transect K. These transects serve as reference lines or points along the stream's path. The change in elevation between these two points is then used to calculate the average slope, which provides a quantitative measure of the stream gradient.
-
-4. Target: The primary focus of this method is to determine the stream gradient, which can be useful in various applications related to water flow and stream behavior.
-
-5. Constraints: The accuracy of this method depends on the precision of the elevation measurements at transects A and K. Additionally, the method assumes that the change in elevation between these two points is representative of the overall slope of the stream's surface.

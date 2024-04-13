@@ -1,9 +1,0 @@
- 1. Relevant keywords: groundwater monitoring, water table elevation, restoration activities, Onset HOBO U20 Water Level Loggers, data collection, well casing.
-
-2. Abstract: This method outlines the process of collecting and uploading data from groundwater wells using Onset HOBO U20 Water Level Loggers. By monitoring changes in water table elevation and temperature patterns, this method helps evaluate the effectiveness of restoration projects such as floodplain reconnection. Regular monitoring before and after restoration is crucial to assess progress towards project goals.
-
-3. Description: The method begins by assuming that groundwater wells have already been installed for restoration monitoring purposes. Data are collected using Onset HOBO U20 Water Level Loggers, which are suspended within each well casing using a steel cable connected to the well cap. The loggers record water level and temperature data over time. This method focuses on uploading data from the U20 probes for further analysis. By tracking changes in water table elevation and temperature patterns, project managers can determine if restoration activities are achieving desired outcomes (Figure 1).
-
-4. Target: The primary goal of this method is to provide a systematic approach for collecting, uploading, and analyzing groundwater data from U20 probes to assess the impact of restoration projects on water table elevation and temperature patterns.
-
-5. Constraints: This method assumes that groundwater wells have already been installed as part of a restoration monitoring design. Additionally, it requires access to Onset HOBO U20 Water Level Loggers and compatible software or tools for uploading and analyzing the collected data.

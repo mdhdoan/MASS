@@ -1,9 +1,0 @@
- 1. Relevant keywords: geomorphic data, stream habitat, data collection methods, fish habitat, repeatable results.
-
-2. Abstract: The necessity of collecting geomorphic data for understanding stream systems and providing fish habitat information is highlighted in the text. The method ID4111 suggests a concurrent collection of geomorphic data and additional habitat data to obtain valuable in-stream habitat information that would not be obtained through a geomorphic survey alone. This approach allows for scientifically sound, repeatable results and facilitates stream comparisons within a watershed and between regions.
-
-3. Description: The method ID4111 focuses on the collection of both geomorphic data and additional habitat data in order to provide a comprehensive understanding of stream systems and fish habitat information. This approach recognizes that valuable in-stream habitat information would not be obtained through a geomorphic survey alone, and seeks to address this gap by collecting these types of data concurrently. The method is based on the principle of producing scientifically sound, repeatable results, which allows for effective communication and comparison of stream characteristics within a watershed and between regions.
-
-4. Target: The primary focus of method ID4111 is to obtain in-stream habitat data through the concurrent collection of geomorphic data and additional habitat data.
-
-5. Constraints: There may be limitations in resources, time, or expertise that could impact the implementation of method ID4111. Additionally, the specific survey needs and desired level of understanding will vary according to the situation, which could also affect the feasibility of this approach.

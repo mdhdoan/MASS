@@ -1,9 +1,0 @@
- 1. Keywords: Juvenile salmonids, total dissolved gas, Gas Bubble Trauma (GBT), dam, sampling location.
-
-2. Abstract: The juvenile salmonid examinations aim to assess the exposure of migrating fish to harmful levels of total dissolved gas based on the prevalence and severity of Gas Bubble Trauma (GBT) symptoms. This method is crucial for ensuring the survival and well-being of juvenile salmonids during their migration past dams or sampling locations, where high levels of dissolved gases can be present.
-
-3. Description: The text discusses the goal of conducting examinations on juvenile salmonids to determine the relative extent to which they have been exposed to potentially harmful levels of total dissolved gas. This exposure is evaluated based on the presence and severity of Gas Bubble Trauma (GBT) symptoms observed on the fish. Migrating juvenile salmonids passing a dam or sampling location are at risk, as these areas can have elevated concentrations of dissolved gases. By closely examining the fish for signs of GBT, researchers and managers can assess the potential harm caused by exposure to these gases and take necessary actions to mitigate any adverse effects on the juvenile salmonid population.
-
-4. Target: The primary focus is to evaluate the impact of total dissolved gas exposure on migrating juvenile salmonids based on Gas Bubble Trauma symptoms, ensuring their health and well-being during migration.
-
-5. Constraints: The effectiveness of this method depends on accurate identification and assessment of GBT symptoms in juvenile salmonids, which might require specialized training for personnel involved in the examination process. Additionally, external factors such as water temperature, pressure changes, or other stressors can influence the development of GBT, making it essential to control these variables during sampling and observation.

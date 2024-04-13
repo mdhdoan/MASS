@@ -1,9 +1,0 @@
- 1. Keywords: lake level manipulations, predation, kokanee, predator reduction, angler harvest incentives, contract netting, trap net data analysis.
-
-2. Abstract: After implementing lake level manipulations, an unforeseen consequence arose - increased predation by a rapidly growing lake trout population threatening the kokanee population. To address this concern, a two-pronged approach was taken using angler harvest incentives and contract netting to reduce the predator population. This method's purpose is to maintain the balance of the aquatic ecosystem and protect the kokanee species from overpredation.
-
-3. Description: The text discusses the challenges faced in maintaining a balanced aquatic ecosystem after manipulating lake levels, resulting in increased predation on the kokanee population by lake trout. To mitigate this issue, a two-pronged approach was implemented, combining angler harvest incentives ($15 per fish) and contract netting using gill nets and trap nets to reduce the predator population. The text further focuses on the analysis of trap net data as part of the overall method for managing predation levels.
-
-4. Target: The primary focus is to control predator populations and protect the kokanee species through a two-pronged approach of angler harvest incentives and contract netting.
-
-5. Constraints: Possible constraints include public resistance to killing lake trout, limited budget for implementing harvest incentives and contract netting, seasonal limitations on netting, potential harm to non-target species during netting, and ensuring the sustainability of the kokanee population after predator reduction strategies are implemented.

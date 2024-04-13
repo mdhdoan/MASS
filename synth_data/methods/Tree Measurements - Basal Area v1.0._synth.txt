@@ -1,8 +1,0 @@
- 1. Relevant keywords: basal area, tree stems, breast height, cross sectional areas, land area, Avery and Burkhart (1994)
-2. Abstract: The method introduced by Avery and Burkhart (1994) defines basal area as the sum of cross-sectional areas of all tree stems in a stand, measured at breast height (4.5 feet) and expressed per unit of land area. This measurement provides an effective way to assess forest stand density and productivity, allowing for better inventory, management, and conservation practices.
-3. Description: The basal area concept, as defined by Avery and Burkhart (1994), involves measuring the cross-sectional areas of tree stems at breast height (4.5 feet) and calculating the sum per unit land area, typically in units of ft²/acre or m²/hectare. This method helps quantify forest stand density and productivity by considering each tree's contribution to the overall stand biomass. By expressing basal area as a function of land area, this approach enables meaningful comparisons between different stands or sites, regardless of their size or tree species composition.
-4. Target: The primary goal of this method is to establish a standardized and quantifiable measure for assessing forest stand density and productivity.
-5. Constraints: Some constraints of the basal area method include:
-	* Accurate identification and measurement of all tree stems in a stand, which can be challenging in complex or dense forests.
-	* Ensuring consistent breast height measurements (4.5 feet) for each tree stem.
-	* Possible errors introduced by variations in tree taper or bark thickness.

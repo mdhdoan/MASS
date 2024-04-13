@@ -1,9 +1,0 @@
- 1. Keywords: High-resolution imagery, UAS operation, orthophoto, Agisoft Metashape, photogrammetric processing.
-
-2. Abstract: The use of high-resolution imagery from Unmanned Aircraft Systems (UAS) has become essential for monitoring river and wetland restoration projects due to its cost-effectiveness and the ability to calculate various monitoring metrics. This method extends Method #6731, providing a detailed process for collecting data to create an orthophoto from a UAS. It also establishes a standard approach for processing raw photographic data in Agisoft Metashape or other structure-from-motion photogrammetric software.
-
-3. Description: This text presents a method that builds on UAS Operation v1.0, Method #6731, to provide a more detailed process of creating an orthophoto from a UAS. The method emphasizes the importance of high-resolution imagery in river/wetland restoration projects, citing cost-effectiveness and the ability to calculate multiple monitoring metrics as advantages. It then outlines the steps for collecting data using a UAS and provides instructions on processing raw photographic data in Agisoft Metashape, which can be generalized to other structure-from-motion photogrammetric programs.
-
-4. Target: The primary goal of this method is to establish a standard process for creating high-resolution orthophotos from UAS imagery in river/wetland restoration projects, with a focus on data processing in Agisoft Metashape or similar software.
-
-5. Constraints: While the method aims to be versatile, it may require specific equipment and software (UAS, Agisoft Metashape or equivalent) for implementation. Additionally, users must have the necessary expertise to operate UAS and process data using photogrammetric software.

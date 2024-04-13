@@ -1,9 +1,0 @@
- 1. Keywords: Fish cover, channel unit level attributes, protocol section 8.
-   
-2. Abstract: The text discusses the importance of Fish Cover as a channel unit level attribute, which is one of the topics covered in section 8 of a certain protocol. The purpose of highlighting this attribute is to provide an understanding of its significance and role within the broader context of the protocol.
-
-3. Description: The text specifically refers to "Fish Cover" as a unit-level attribute within channel units, which is addressed in section 8 of a given protocol. This reference suggests that Fish Cover is one of several attributes being considered or defined within this section. No further details about the nature or purpose of Fish Cover are provided in the text, so no additional explanation can be offered here.
-
-4. Target: The primary focus of this method is to define and explain the concept of Fish Cover as a channel unit level attribute.
-
-5. Constraints: The constraints for this method are not specified in the provided text body. Section 8 of the protocol may contain certain guidelines or limitations related to the definition and application of Fish Cover, but these are not discussed here.

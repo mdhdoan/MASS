@@ -1,6 +1,0 @@
- 1. Keywords: video bypass chute, escapement estimates, video-monitored system, trapping operations, PIT array.
-
-2. Abstract: The use of a video bypass chute in the weir and live well allows for more accurate and precise escapement estimates through the implementation of a video-monitored system with low error rates. Concurrent trapping operations at the same site help correct for visual misidentification of kelts, while a PIT array provides accurate information about the sample fraction and adult-to-kelt survival rate.
-3. Description: The text describes a method for improving escapement estimates through the use of a video bypass chute in the weir and live well. This system is video-monitored, showing extremely low error rates and enabling accurate measurements. Additionally, concurrent trapping operations at the same site allow for the correction of visual misidentification errors. The PIT array provides further information about the sample fraction and survival rate of adults and kelts.
-4. Target: Improving escapement estimate accuracy and precision.
-5. Constraints: The effectiveness of this method is dependent on the quality of the video-monitored system, the accuracy of trapping operations at the site, and the proper functioning of the PIT array.

@@ -1,9 +1,0 @@
- 1. Keywords: Stream constraining features, lateral movement limitation, terraces, hillslopes, land use features.
-
-2. Abstract: This text discusses the importance of understanding and identifying features that restrict the lateral movement of a stream. These constraints can include natural geographic features such as high terraces or hillslopes, as well as man-made land use features like road beds, railways, and dikes. It highlights the necessity for these constraining elements to be close to the stream channel in order to effectively limit its lateral movement.
-
-3. Description: The method discussed here involves analyzing various physical features that restrict a stream's ability to move laterally. If either natural or man-made barriers are present within a valley, they must meet certain criteria to effectively constrain the stream. For geographic barriers, these conditions include being both high and close to the stream channel. Similarly, for man-made land use features, their proximity and height relative to the stream channel are crucial factors in limiting its lateral movement.
-
-4. Target: The primary focus of this method is to identify and understand the various constraints on a stream's lateral movement within a valley system.
-
-5. Constraints: The main constraints for this method include the availability and accessibility of accurate topographical data to determine the height and proximity of both natural and man-made features. Furthermore, it requires detailed knowledge about local geography and land use patterns.

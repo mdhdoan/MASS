@@ -1,9 +1,0 @@
- 1. Keywords: Cormack-Jolly-Seber (CJS) methods, survival rates, detections, dams, instantaneous mortality rates, juvenile salmonids, Ricker (1975), exponential law of population decline.
-
-2. Abstract: The text outlines the use of Cormack-Jolly-Seber (CJS) methods to estimate survival rates for fish passing through reaches based on detections at dams. This approach is crucial for understanding fish populations and their mortality rates, as it provides a reliable way to assess the success of conservation efforts. The authors also discuss an innovative method for estimating instantaneous mortality rates for juvenile salmonids, which builds upon previous work in the field (Schaller et al., 2007; Tuomikoski et al., 2009).
-
-3. Description: The text describes the application of CJS methods to estimate survival rates through reaches based on detections at dams (Cormack, 1964; Jolly, 1965; Seber, 1965; Burnham et al., 1987). The authors provide a detailed explanation of how these methods are used to estimate survival rates and the underlying assumptions. They also discuss a numerical characterization of survival provided by Ricker (1975), which is known as the exponential law of population decline (Quinn and Deriso, 1999). Additionally, the text presents an approach for estimating instantaneous mortality rates for juvenile salmonids (Schaller et al., 2007; Tuomikoski et al., 2009).
-
-4. Target: The primary focus of this method is to estimate survival and mortality rates for fish populations based on detections at dams.
-
-5. Constraints: The constraints of the CJS methods include the need for a large number of detections, the assumption that all individuals have an equal probability of detection, and the requirement for closed populations during the study period. The method for estimating instantaneous mortality rates for juvenile salmonids requires data on the age or size of the fish at death.

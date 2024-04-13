@@ -1,9 +1,0 @@
- 1. Keywords: underwater videography, substrate composition, sediment particle size, spatial variability, long-term sediment monitoring.
-
-2. Abstract: Underwater videography mapping surveys offer a valuable method for evaluating underwater environments. By identifying the composition and particle size characteristics of the substrate, these surveys help in determining spatial variability of sediments. This information is crucial for understanding surficial sediment facies on a reach scale and monitoring long-term sediment processes, such as erosion and aggradation. The data collected can be used to assess the effectiveness of restoration efforts by comparing sites before and after treatment.
-
-3. Description: Underwater videography mapping surveys are used to identify the composition of underwater substrates, focusing on particle size characteristics and spatial variability of sediments. This information is helpful in explaining surficial sediment facies on a reach scale and monitoring long-term sediment processes like scour (erosion) or fill (aggradation). The data gathered from these surveys can be utilized to assess the impact of human activities, natural events, or restoration projects on underwater ecosystems. By comparing a restoration site before and after treatment, managers can evaluate the success of their efforts in addressing issues such as sediment deposition, erosion, and water quality.
-
-4. Target: The primary focus of underwater videography mapping surveys is to provide detailed information about underwater substrates, enabling better understanding and management of underwater environments.
-
-5. Constraints: Although underwater videography mapping surveys offer valuable insights, they might be subject to certain limitations, such as visibility issues due to water turbidity or light conditions, technical challenges related to equipment handling and data analysis, and limited accessibility to some underwater areas.

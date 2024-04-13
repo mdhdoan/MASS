@@ -1,9 +1,0 @@
- 1. Keywords: fish predation analysis, prey fish consumption, smallmouth bass, stomach sample analysis, piscine predators.
-
-2. Abstract: This method focuses on the analysis of prey fish consumed by fish predators, with a specific emphasis on smallmouth bass, northern pikeminnow, and channel catfish. The necessity for this method arises from the need to understand the impact of predation on prey fish populations and derive summary statistics on their consumption. This is achieved through the examination of stomach samples that have been collected and preserved.
-
-3. Description: The described method is designed for analyzing smallmouth bass stomach samples, which can be adapted for other piscine predators. It assumes that stomach samples have been collected and stored in sample containers with a preservative or frozen. This process involves carefully extracting the stomach contents, identifying and counting prey fish remains, and subsequently determining their size distribution. The method enables deriving descriptive summary statistics of prey fish consumed by predators as well as more advanced analyses estimating the loss of particular prey fish due to predation.
-
-4. Target: The primary goal of this method is to assess and analyze the dietary habits of piscine predators, with a focus on quantifying their prey fish consumption.
-
-5. Constraints: This method requires stomach samples from fish predators that have recently fed and contain identifiable prey fish remains. It also assumes access to resources for accurately identifying and counting prey fish species, as well as determining their size distribution.

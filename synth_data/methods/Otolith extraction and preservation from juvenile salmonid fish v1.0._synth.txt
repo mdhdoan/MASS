@@ -1,8 +1,0 @@
- 1. Keywords: Otoliths, fish aging, subyearling salmonids, Method 1078, stable isotope analysis, natal stream identification.
-
-2. Abstract: The necessity for a new method for removing otoliths from subyearling salmonids, which are typically 35 mm fork length or greater, is highlighted. Current methods, such as Method 1078, provide sound details for otolith removal but may not be suitable for smaller fish. The new method aims to enable stable isotope analysis for ultimate natal stream assignment of these small fish.
-
-3. Description: The text discusses the importance of otoliths in acquiring information about fish, including their age and origin. A specific need for a new method arises due to the small size of subyearling salmonids, which current methods like Method 1078 may not adequately address. Stable isotope analysis is mentioned as a potential use of otoliths, allowing for the assignment of a natal stream. The text concludes by emphasizing the need for a new method that can be applied to smaller fish, facilitating more accurate identification and analysis.
-
-4. Target: Development of a new method for removing otoliths from subyearling salmonids, enabling stable isotope analysis for natal stream assignment.
-5. Constraints: The primary constraint for this method is the small size of subyearling salmonids, which requires a more delicate and precise approach compared to current methods. Additionally, the method must be compatible with stable isotope analysis, ensuring accurate results for natal stream identification.

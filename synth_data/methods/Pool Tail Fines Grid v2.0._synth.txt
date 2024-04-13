@@ -1,9 +1,0 @@
- 1. Keywords: Quantification, Surface substrate, Particle size, Pools, Non-turbulent channel units
-   
-2. Abstract: This method describes the process of quantifying the percentage of surface substrate with particle sizes below 2 mm and between 2-6 mm at the tails of pools and non-turbulent channel units. The importance of this method lies in its ability to provide detailed information about the distribution of substrate particle sizes, which can be crucial for understanding various geological or environmental processes.
-
-3. Description: The text body focuses on the quantification of surface substrate particles at the tails of pools and non-turbulent channel units. Two specific size ranges are considered: particles smaller than 2 mm and those between 2-6 mm. The method involves a systematic process to calculate the percentage of these particle sizes, which can help in analyzing the composition of surface substrates in different geographical locations or conditions.
-
-4. Target: The primary goal of this method is to quantify the proportion of specific surface substrate particle sizes at the tails of pools and non-turbulent channel units.
-
-5. Constraints: The success of this method relies on the accurate identification and measurement of the substrate particles, as well as a thorough understanding of the geographical or environmental context in which they are found. Potential challenges include variations in particle size due to natural processes or human activities, as well as difficulties in accessing certain locations for data collection.

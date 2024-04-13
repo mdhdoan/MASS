@@ -1,9 +1,0 @@
- 1. Keywords: turbidity monitoring, weir installation, NTU limit, mitigating measures, daily measurements.
-
-2. Abstract: Regular turbidity monitoring is essential during weir installation and operation to ensure that construction or monitoring activities do not introduce high levels of sediment into the water. The permissible turbidity level is set at 5 Nephelometric Turbidity Units (NTU's). If this limit is exceeded, the activity causing the increase in turbidity will be halted until effective countermeasures are developed and implemented. Compliance with these guidelines helps maintain water quality and protect aquatic ecosystems.
-
-3. Description: The method involves monitoring turbidity levels during weir installation and daily operations to prevent sediment concentrations from surpassing 5 NTU's. Monitoring is conducted once a day during the construction phase and weir operation, ensuring that any activity causing elevated turbidity can be promptly identified and addressed. Exceeding this limit results in terminating the responsible activity until appropriate mitigation measures are implemented to reduce turbidity levels.
-
-4. Target: The primary focus is to maintain water clarity during weir installation and maintenance, protecting aquatic ecosystems and complying with regulatory requirements by limiting sediment discharge within acceptable limits.
-
-5. Constraints: This method requires continuous monitoring, regular reporting, strict adherence to the 5 NTU limit, and rapid implementation of mitigation measures when turbidity exceedances occur. Availability of resources for effective countermeasures is crucial for successful implementation.

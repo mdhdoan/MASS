@@ -1,9 +1,0 @@
- 1. Relevant keywords: field data collection, instantaneous discharge, waded streams, index station, uniform flow.
-
-2. Abstract: This method details the process of gathering essential field data for estimating instantaneous discharge rates in cubic feet per second during data collection events. The data is used to categorize streams based on their characteristics under approximate base-flow conditions and applies specifically to waded streams. Measurements are typically taken near the index station, where uniform (nonturbulent) flow is present, and can be done at any time except before sampling for water, sediment, or invertebrates.
-
-3. Description: The method outlines the specifics of collecting field data necessary to estimate instantaneous discharge rates during each data collection event. This data will be utilized to categorize streams according to their characteristics under approximate base-flow conditions and is particularly relevant for waded streams. Discharge measurement usually occurs near the index station, which is located in the middle of the reach, where uniform (nonturbulent) flow is present. The timing of the measurement is flexible, with the exception of before sampling for water, sediment, or invertebrates.
-
-4. Target: The primary focus of this method is to provide a systematic approach for collecting field data to estimate instantaneous discharge rates in waded streams.
-
-5. Constraints: The method has some constraints, including the requirement for uniform (nonturbulent) flow at the measurement location and the restriction on measuring before sampling for water, sediment, or invertebrates.

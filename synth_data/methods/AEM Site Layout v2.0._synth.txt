@@ -1,9 +1,0 @@
- 1. Keywords: Site Layout v2.0, Method 1579, transects reduction, wetted channel, benchmarks omission.
-
-2. Abstract: This method, based on Site Layout v2.0 (Method 1579), presents adaptations to simplify the original procedure. The number of transects is reduced, and benchmark references are removed. These changes streamline the process while maintaining accuracy in locating sites, establishing site markers, determining bankful elevation and site width category, laying out the site, and identifying channel units.
-
-3. Description: This method is an updated version of Site Layout v2.0 (Method 1579), excluding certain elements such as benchmarks and monuments to create a more efficient process. The number of transects has been reduced from 21 to 11, which still provides sufficient data for analysis while decreasing the time and effort required. Instead of stretching the tape in the middle of the bankfull channel, the new method uses the middle of the wetted channel. Furthermore, bearing readings from benchmarks to other benchmark locations have been removed entirely. These changes were introduced in 2012, including the deletion of a table listing reasons for rejecting a site and modifying transect layout procedures.
-
-4. Target: The primary focus of this method is to create an efficient site layout process by reducing the number of transects, eliminating benchmark-related tasks, and maintaining essential elements from the original Site Layout v2.0 (Method 1579).
-
-5. Constraints: Although this method aims for efficiency, it relies on the assumption that users have already located the site using Method 831. It also requires familiarity with the updated techniques introduced in 2012 and replaces some traditional methods (such as using bankfull channel centerlines) with new approaches (using wetted channel centers instead).

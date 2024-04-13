@@ -1,9 +1,0 @@
- 1. Keywords: reach level, thalweg depth, channel morphology, stream reach, single value summary.
-
-2. Abstract: The method described in this text aims to calculate the average thalweg depth based on channel morphology data, providing a reach level summary for each stream reach. This is important as reach level serves as a single value summary of numerous attributes of each stream reach, allowing for easier analysis and comparison. By calculating the thalweg depth, which represents the line of lowest elevation in a stream channel, researchers can better understand the shape and characteristics of the stream reach.
-
-3. Description: The text describes a method to calculate reach level average thalweg depth using channel morphology data. A reach level is defined as a single value summary of numerous attributes of each stream reach, providing an overall picture of its characteristics. Thalweg depth, which is calculated based on the channel morphology data, represents the line of lowest elevation in a stream channel and is an important indicator of stream power and sediment transport potential. By calculating the average thalweg depth for a reach level, researchers can better understand the overall shape and characteristics of that particular stream reach.
-
-4. Target: The primary focus or goal of this method is to calculate the reach level average thalweg depth based on channel morphology data.
-
-5. Constraints: The constraints for this method include the availability and accuracy of channel morphology data, as well as the need for appropriate analytical tools to perform the calculations. Additionally, the interpretation of reach level and thalweg depth may vary depending on the specific characteristics of the stream reach being studied.

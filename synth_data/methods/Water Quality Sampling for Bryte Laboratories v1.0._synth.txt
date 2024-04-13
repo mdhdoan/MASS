@@ -1,9 +1,0 @@
- 1. Keywords: Water Quality samples, Bryte Laboratories, preparation, collection, close-out procedures.
-
-2. Abstract: This method outlines the process of collecting water quality samples to be analyzed at Bryte Laboratories. The importance of proper sample collection is highlighted, as it directly impacts the accuracy and reliability of subsequent analysis results. The method covers all stages from preparation, actual collection, and close-out procedures, ensuring that samples are handled correctly and ready for examination.
-
-3. Description: The Method starts with preparation procedures detailing what must be done before the collection process begins. It then moves onto the collection stage where specific techniques and equipment required to gather water samples are discussed. Lastly, it details close-out procedures which involve properly documenting and storing collected samples for transport to Bryte Laboratories. Adherence to this method ensures that collected samples remain uncontaminated and suitable for further analysis.
-
-4. Target: The primary focus of this method is to establish a standardized procedure for collecting water quality samples, ensuring their suitability for laboratory testing at Bryte Laboratories.
-
-5. Constraints: The main constraint for this method is the necessity for strict adherence to each step to prevent contamination or damage to the sample, which could lead to inaccurate test results.

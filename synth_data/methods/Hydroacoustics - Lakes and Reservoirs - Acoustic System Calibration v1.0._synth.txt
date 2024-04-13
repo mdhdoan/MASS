@@ -1,9 +1,0 @@
- 1. Keywords: acoustic system calibration, laboratory calibrations, field calibration, target strength, environmental conditions, standard calibration target.
-
-2. Abstract: Acoustic system calibration is crucial for accurate measurement of fish populations. Yearly laboratory calibrations ensure the proper functioning of a sonar system's electronics, while field calibrations account for site-specific environmental conditions. Utilizing standard calibration targets optimizes this process.
-
-3. Description: The text emphasizes the importance of acoustic system calibration for accurate fish population measurement through threshold levels and target strength values. Yearly laboratory calibrations are recommended to verify electronics and ensure correct operation. However, field calibrations are essential due to environmental factors affecting the calibration technique. Two methods include using various spherical objects or specialized targets made of copper or tungsten carbide.
-
-4. Target: To establish accurate acoustic system calibration for fish population measurement.
-
-5. Constraints: The primary constraint lies in site-specific environmental conditions, requiring tailored calibration techniques and potential reliance on specific standard calibration targets, such as those made of copper or tungsten carbide.

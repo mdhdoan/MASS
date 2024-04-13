@@ -1,9 +1,0 @@
- 1. Keywords: Hierarchical Bayesian model, avian predation rates, PIT tags, smolt, deposition probability, detection probability.
-
-2. Abstract: This method proposes the use of a Hierarchical Bayesian model to estimate avian predation rates on smolt fish. The model uses data from recovered PIT tags found in bird colonies and adjusts for deposition and detection probabilities. This approach provides a more accurate estimation of predation rates than previous methods, allowing for better management and conservation strategies for smolt populations.
-
-3. Description: The method described in the text involves using a Hierarchical Bayesian model to estimate avian predation rates on smolt fish based on recoveries of PIT tags from bird colonies. The estimates are calculated by determining the proportion of salmonid PIT tags found on each bird colony, relative to the available population of PIT-tagged fish (smolt availability). This proportion is then adjusted for two sources of error: deposition probability and detection probability. Deposition probability refers to the likelihood that a PIT tag consumed by a bird from a particular colony was subsequently deposited on the colony, while detection probability refers to the likelihood that a PIT tag deposited on-colony was detected by researchers following the breeding season. The method aims to provide a more accurate estimation of predation rates, which can inform conservation and management strategies for smolt populations.
-
-4. Target: The primary focus or goal of this method is to accurately estimate avian predation rates on smolt fish using PIT tag data.
-
-5. Constraints: The main constraint of this method is the availability and accuracy of PIT tag data. Additionally, estimating deposition and detection probabilities may introduce further uncertainty into the model.

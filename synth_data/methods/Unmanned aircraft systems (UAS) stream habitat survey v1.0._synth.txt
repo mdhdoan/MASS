@@ -1,9 +1,0 @@
- 1. Keywords: Aerial imagery, unmanned aircraft systems (UAS), viewing angles, spatially accurate maps, habitat tracking, habitat metrics.
-
-2. Abstract: The use of unmanned aircraft systems (UAS) to collect aerial imagery from various viewing angles is essential for generating spatially accurate maps of complex channels and monitoring changes in habitats over time. This method enables precise measurement of habitat metrics, providing valuable insights into the spatial distribution and temporal dynamics of different habitats.
-
-3. Description: The text describes the application of unmanned aircraft systems (UAS) to capture aerial imagery from multiple viewing angles, specifically nadir and off-nadir perspectives. This approach allows for the creation of spatially accurate maps of complex channels, which is critical for understanding the spatial distribution and configuration of these features. Moreover, by repeatedly collecting imagery over time, this method facilitates tracking changes in habitat extent and composition. The resulting data can be used to compute accurate measures of habitat metrics, offering valuable insights into the dynamics of different habitats.
-
-4. Target: The primary focus of this method is to generate spatially accurate maps and monitor habitat changes for better understanding and managing complex channels and their associated habitats.
-
-5. Constraints: Some constraints for this method may include regulatory restrictions on UAS operation, limitations in image resolution due to factors such as altitude and camera specifications, and potential challenges in processing and analyzing large volumes of imagery data. Additionally, weather conditions and limited battery life may also pose constraints on UAS-based aerial imagery collection.

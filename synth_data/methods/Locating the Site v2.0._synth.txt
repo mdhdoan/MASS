@@ -1,9 +1,0 @@
- 1. Keywords: site establishment, location determination, laying out sites, methods 832, 1579, 4073, 4074.
-
-2. Abstract: The objective is to establish the bottom and top locations of a site before laying it out. This process is crucial for proper planning and construction. The text discusses various methods (832, 1579, 4073, 4074) to complete this task, ensuring that the site is set up correctly from the beginning.
-
-3. Description: The text focuses on the necessity of determining the location for the establishment of the bottom and top of a site before laying it out. This step must be completed using one of the specified methods (832, 1579, 4073, or 4074). The process is critical for proper site planning and construction.
-
-4. Target: The primary goal is to determine and establish the top and bottom locations of a site before laying it out using one of the specified methods.
-
-5. Constraints: The constraints are not explicitly stated in the text, but they include the requirement to use one of the specified methods (832, 1579, 4073, or 4074) for determining the location of the site's top and bottom before laying it out.

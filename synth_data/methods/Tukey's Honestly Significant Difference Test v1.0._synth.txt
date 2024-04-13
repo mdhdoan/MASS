@@ -1,9 +1,0 @@
- 1. Relevant keywords: Tukey's HSD Test, ANOVA, pairwise comparisons, post-hoc test, test statistic.
-
-2. Abstract: Tukey's Honestly Significant Difference (HSD) Test is a crucial method in statistical analysis used to determine if the means of two or more groups are significantly different from one another. Often employed as a follow-up to ANOVA testing, it provides additional resolution when making direct group comparisons. This test is essential for understanding the differences between groups and ensuring that any observed disparities are not merely due to chance.
-
-3. Description: Tukey's HSD Test is a single-step, multiple comparison statistical test that builds upon the results of an ANOVA model. It is typically run as a post-hoc test, following the primary analysis. The output from an ANOVA model offers insight into whether or not the covariates account for a significant portion of the variation in the data. However, Tukey's HSD provides further detail when making direct group comparisons. The formula for Tukey's HSD Test is: qs = (Ya - Yb) / se, where qs represents the test statistic, Ya denotes the larger of the two means being compared, Yb signifies the smaller of the two means being compared, and se refers to the standard error of the data in question.
-
-4. Target: The primary focus of Tukey's HSD Test is to offer a rigorous statistical approach for comparing the means of multiple groups or sets of data, ensuring that any observed differences are indeed significant.
-
-5. Constraints: The main constraint for Tukey's HSD Test is its reliance on an ANOVA model as a prerequisite. Additionally, it assumes that the variances of the populations from which the samples are derived are equal, and that the data points within each group are normally distributed.

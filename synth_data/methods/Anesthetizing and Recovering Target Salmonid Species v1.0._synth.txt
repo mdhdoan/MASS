@@ -1,9 +1,0 @@
- 1. Keywords: Anesthetizing fish, Finquel MS-222, juvenile anadromous fish, rotary screw traps, beach seines, electorfishing, pH control, sodium bicarbonate.
-
-2. Abstract: The method described involves anesthetizing juvenile anadromous fish using Finquel MS-222 after they have been captured in various fishing methods such as rotary screw traps, beach seines, or electorfishing. This process ensures the safe handling and release of these fish back into their natural habitats by minimizing stress and injury. The anesthetic bath is prepared by pre-mixing Finquel MS-222 and sodium bicarbonate solutions prior to capturing fish, then combining them with stream water upon capture.
-
-3. Description: The text explains the process of using Finquel MS-222 as an anesthetic for juvenile anadromous fish after they have been captured in different fishing methods. To maintain the pH level and prevent harm to the fish, sodium bicarbonate is added to the solution beforehand. Once the fish are caught, stock solutions of MS-222 and sodium bicarbonate are combined with stream water to create an anesthetic bath for the captured fish. This method helps in safely handling and releasing these fish back into their environment by reducing stress and injury during the process.
-
-4. Target: The primary goal of this method is to ensure safe handling and release of juvenile anadromous fish after capture, minimizing harm and stress.
-
-5. Constraints: The method requires pre-mixing solutions, capturing fish using specific methods, and having access to stream water for creating the anesthetic bath. Additionally, proper pH control through the use of sodium bicarbonate is necessary to prevent adverse effects on the captured fish.

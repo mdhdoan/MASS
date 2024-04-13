@@ -1,9 +1,0 @@
- 1. Keywords: Incremental depth measurements, Status and Trends Program, stream site traversal, bars assessment, edge pools, main channel observations.
-
-2. Abstract: This method details the process of collecting incremental depth measurements for the Status and Trends Program during a stream site traversal. It focuses on observing the main channel, identifying the presence of bars and edge pools, and restricting observations to these areas. The importance of this method lies in its ability to provide accurate data for assessing the status and trends of water bodies.
-
-3. Description: This text presents a method for collecting incremental depth measurements for the Status and Trends Program while traversing a stream site. It emphasizes observing only the main channel, thereby excluding other areas from the assessment. The method also involves evaluating the presence of bars and edge pools within the main channel. This detailed process allows for a comprehensive understanding of the stream's characteristics and conditions, providing valuable data for further analysis in the Status and Trends Program.
-
-4. Target: The primary goal of this method is to collect precise depth measurements and assess the presence of bars and edge pools within the main channel of a stream site for the Status and Trends Program.
-
-5. Constraints: This method restricts observations to the main channel, potentially limiting the scope of data collected. Additionally, focusing solely on bars and edge pools may not provide a complete understanding of the stream's overall conditions and characteristics.

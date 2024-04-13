@@ -1,9 +1,0 @@
- 1. Keywords: water temperature, data logger, accuracy check, NIST traceable thermometer, pre-deployment, post-deployment.
-
-2. Abstract: This method highlights the significance of monitoring stream and river water temperatures to detect potential water quality issues. A crucial step in ensuring accurate data collection is conducting pre-deployment and post-deployment accuracy checks for temperature data loggers. These checks involve comparing data logger units with a NIST traceable thermometer, providing confidence in the collected data's reliability.
-
-3. Description: The text details a method for checking the accuracy of temperature data loggers used in stream and river water monitoring. Accurate data is essential for identifying water quality concerns. To ensure this accuracy, the method describes comparing data logger units to a NIST traceable thermometer before and after deployment. This process establishes confidence in the data's accuracy and consistency, contributing to informed decision-making regarding potential water quality problems.
-
-4. Target: The primary goal of this method is to outline a procedure for conducting precision checks on temperature data loggers used in water temperature monitoring, enhancing data reliability and supporting water quality management efforts.
-
-5. Constraints: Users must have access to NIST traceable thermometers and follow the recommended calibration and maintenance procedures for both the thermometers and data loggers to ensure accurate and consistent measurements.

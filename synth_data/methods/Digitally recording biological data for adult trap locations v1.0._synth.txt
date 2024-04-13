@@ -1,9 +1,0 @@
- 1. Keywords: Biological data recording, adult returns, trap locations, monitoring and evaluation program, digital data collection.
-
-2. Abstract: The importance of accurately recording biological data from adult returns at trap locations is highlighted in this method. This process is crucial for a monitoring and evaluation program as it provides valuable information on survival metrics, hatchery/natural compositions, and adult return age structure. By digitally recording this data at the time of collection, errors associated with manual entry into databases can be minimized, leading to more accurate and reliable results.
-
-3. Description: The text focuses on the importance of accurately recording biological data from adult returns captured at trap locations in a monitoring and evaluation program. These data provide valuable insights into various aspects of the population such as survival metrics, hatchery/natural compositions, and adult return age structure information. The manual entry of these data can lead to errors, which can be minimized by recording this data digitally at the time of collection. This process ensures that the data is accurately captured, reducing the chances of errors in the database and providing more reliable results for analysis.
-
-4. Target: The primary focus of this method is to accurately record biological data from adult returns at trap locations through digital data collection.
-
-5. Constraints: One constraint for this method is ensuring that there is sufficient technology available for digital data collection at all trap locations. Additionally, the personnel responsible for recording the data must be trained in the use of this technology to ensure accurate and consistent data collection.

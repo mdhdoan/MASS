@@ -1,9 +1,0 @@
- 1. Keywords: passive sampling, hoop nets, river monitoring, fish capture, fisheries management.
-
-2. Abstract: Hoop nets are a valuable tool for rivers' passive sampling and monitoring. They provide an efficient and non-disruptive method to capture a variety of fishes, offering insights into species composition, population size, and health. This information is crucial for managing fish populations and preserving biodiversity in aquatic ecosystems (Guy et al., 2009).
-
-3. Description: Hoop nets are passive sampling gear used to capture a variety of fishes in rivers. According to Guy et al. (2009), this method involves placing hoop nets in strategic locations within the waterbody, allowing them to passively collect fish over time. The nets' design enables them to capture different species and sizes, making them suitable for fisheries management and ecosystem monitoring. As passive sampling gear, they do not require active participation or interference with the environment, ensuring minimal disruption to aquatic life.
-
-4. Target: Hoop nets are aimed at facilitating passive fish sampling in rivers, providing valuable data for fisheries management, biodiversity monitoring, and ecosystem preservation efforts.
-
-5. Constraints: Despite their benefits, hoop nets have limitations and constraints. They may be less effective in turbid waters, as visibility plays a crucial role in proper placement. Additionally, local regulations or permits might restrict the use of these nets in some areas. The success of hoop net sampling depends on careful planning, including selecting appropriate locations and monitoring intervals to ensure accurate data collection.

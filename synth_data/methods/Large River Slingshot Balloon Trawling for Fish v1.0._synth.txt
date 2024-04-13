@@ -1,9 +1,0 @@
- 1. Keywords: Trawling, sampling gear, oceanic habitats, estuarine habitats, large rivers, tailwater zone sampling area, Long Term Resource Monitoring Program (LTRMP).
-
-2. Abstract: Trawling is a common method used to sample aquatic organisms in various bodies of water. Its use extends to oceanic and estuarine habitats but is only occasionally employed in large rivers. In the tailwater zone sampling area of the Long Term Resource Monitoring Program, trawling with a standard two-seam balloon trawl gear is used to sample benthic fishes. The methods for trawling may vary depending on time of year and site due to the high variability of tailwater zones in large rivers.
-
-3. Description: Trawling has been an effective technique to sample aquatic organisms, including oceanic and estuarine habitats (Herzog et al. 2005). However, its use in large rivers is less common. When used in large rivers, a standard two-seam balloon trawl is commonly utilized to sample benthic fishes for the Long Term Resource Monitoring Program (LTRMP; Gutreuter et al. 1995). This sampling technique is typically carried out at permanently fixed sampling sites within the tailwater zone (TWZ) sampling area. Tailwater zones are highly variable and subject to change day-to-day and among river reaches, leading to variations in trawling methods depending on time of year and site.
-
-4. Target: The primary focus of this method is to sample benthic fishes using trawling gear in the tailwater zone sampling area of large rivers as part of the Long Term Resource Monitoring Program.
-
-5. Constraints: Trawling methods for sampling benthic fishes in the tailwater zones of large rivers may be subject to change due to high variability in these areas, which can depend on time of year and site. This method is only occasionally used in large rivers and requires specialized trawl gear.

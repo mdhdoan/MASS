@@ -1,9 +1,0 @@
- 1. Keywords: Site location, benchmarks, site markers, monuments, bankfull elevation, site width category, channel units.
-
-2. Abstract: This method outlines the steps for laying out a site, starting with the establishment of benchmarks, site markers, and monuments. It also covers determining bankfull elevation and site width category, and laying out the site to establish channel units. The necessity of this method lies in its provision of a systematic approach to locating and preparing a site for further investigation or development.
-
-3. Description: This method assumes that the site has already been located using Method 831. The first step is to establish benchmarks, site markers, and monuments, which serve as reference points for future measurements and observations. Next, bankfull elevation and site width category are determined, providing crucial information about the site's topography and hydrological characteristics. Finally, the site is laid out and channel units are established, enabling further investigation or development of the site.
-
-4. Target: The primary goal of this method is to provide a systematic approach for laying out a site, ensuring accurate measurements and observations for future use.
-
-5. Constraints: This method assumes that the site has already been located using Method 831. Additionally, it requires the availability of appropriate equipment and resources for establishing benchmarks, site markers, and monuments, as well as for determining bankfull elevation, site width category, and channel units.

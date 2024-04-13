@@ -1,5 +1,0 @@
- 1. Keywords: site location, reach identification, transect layout, side channels, pools identification
-2. Abstract: This method outlines the process of identifying and mapping sites for study, including the layout of transects within each site. The importance of this method lies in its ability to accurately locate and mark areas of interest, such as side channels and pools, for further analysis.
-3. Description: The text describes a method that involves first locating sites and identifying the start of the study's reach. Once this is done, the site and transects within each site are laid out. Additionally, side channels and pools are identified and marked during this process. This detailed approach ensures that all areas of interest are accounted for and can be studied further.
-4. Target: The primary focus of this method is the accurate identification and mapping of sites and areas of interest for study.
-5. Constraints: The constraints of this method include the need for careful site selection and the ability to accurately identify and mark areas of interest, such as side channels and pools.

@@ -1,9 +1,0 @@
- 1. Keywords: Float, Stilling well, Gas-purge system, Bubble gage, Manometer, Pressure head
-
-2. Abstract: The necessity of automatically recording data from a stage is addressed through the use of sensors that measure the level of water. This can be achieved through the traditional method of using a float in a stilling well or by a more modern gas-purge system that transmits the pressure head of water to a manometer. The latter system, also known as a bubble gage, eliminates the need for a stilling well. These methods enable accurate and efficient data collection, which is crucial in various fields such as hydrology, meteorology, and environmental monitoring.
-
-3. Description: In order to sense a stage for automatic recording, two methods are commonly used. The first method involves using a float in a stilling well. This technique is more traditional and requires a physical structure to house the float that moves up and down as the water level changes, thus providing data on the stage height. The second method is through the use of a gas-purge system, known as a bubble gage, which measures the pressure head of water in a stream and transmits this information to a manometer. This technique eliminates the need for a stilling well, making it more practical for certain applications. Both methods provide accurate data on stage levels, enabling better monitoring and analysis of environmental conditions.
-
-4. Target: The primary focus of these methods is to accurately measure the level of a stage for automatic recording, providing reliable data that can be used in various fields and applications.
-
-5. Constraints: Despite their advantages, both methods have certain constraints. For instance, the use of a stilling well requires physical space and maintenance, while the bubble gage system may be affected by changes in atmospheric pressure. Therefore, users should consider these factors when selecting the appropriate method for their specific needs.

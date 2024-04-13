@@ -1,9 +1,0 @@
- 1. Keywords: beach seining, fish capture, sampling method, net design, habitat consideration
-
-2. Abstract: Beach seining is a fishing technique used to capture and sample fish in various aquatic habitats. This method involves using a large net, known as a seine, which is dragged along the bottom of the body of water to encircle fish before being pulled to shore. Beach seining can be an efficient and non-harmful way to collect data on fish populations for research purposes when considering factors such as habitat, water conditions, fish behavior, time of year, net design, and sampling methodology.
-
-3. Description: The text describes beach seining as a practical and relatively low-cost method for capturing and sampling fishes in various aquatic habitats, including rivers, estuaries, lakes, reservoirs, and marine environments. It highlights the importance of considering factors like water depth, current velocity, bottom topography, debris, and vegetation when selecting suitable sites for seining. The net design and size play a significant role in determining the selectivity and capture efficiency of this method. Beach seining can be carried out using parallel set techniques for fish/set, fish/area, or fish/volume analysis, requiring accurate measurements of the swept area's length, width, and maximum depth.
-
-4. Target: The primary goal of beach seining is to effectively capture and sample fish populations in various aquatic habitats while minimizing stress, harm, and costs associated with other fishing methods.
-
-5. Constraints: Seining as a method has some constraints including site selection limitations due to irregular bottom topography, debris, larger rocks, or dense vegetation that can cause net snagging or reduced fish retention. Additionally, seine design choices may impact the capture efficiency and selectivity of certain fish species based on their mobility and behavior.

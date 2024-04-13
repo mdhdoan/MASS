@@ -1,9 +1,0 @@
- 1. Keywords: water-level variation, tidal fluctuations, wetland evolution, tidal reconnection, hydrology data analysis.
-
-2. Abstract: This method describes the importance of analyzing water-level variation in wetlands, particularly in estuaries where both river flow and tidal fluctuations play a significant role. The main objective is to measure the pattern of hydrology with respect to a known reference point to determine the timing, frequency, and duration of tidal inundation in reference and restored sites. This information is crucial for understanding wetland evolution and restoration as changes in tidal elevation can cause shifts in circulation patterns, sedimentation/erosion patterns, and the distribution of vegetation and fishes.
-
-3. Description: The text discusses the importance of water-level variation in wetlands, specifically tidal fluctuations as a key measure for wetland restoration. A significant aspect of this analysis is the change in tidal elevation within a restoration project due to tidal reconnection. The extent, period, and duration of tidal forcing will result in changes in aerial exposure, circulation patterns, sedimentation/erosion patterns, and the distribution of vegetation and fishes. The data collected for this analysis falls under Method: Hydrology (water level) - Data Collection. The objective is to measure the pattern of hydrology with respect to a known reference point to determine the timing, frequency, and duration of tidal inundation in reference and restored sites.
-
-4. Target: The primary focus of this method is to analyze water-level variation data in wetlands to understand the impact of tidal reconnection on wetland evolution and restoration.
-
-5. Constraints: The constraints for this method include the availability and accuracy of hydrology data, the complexity of the estuarine environment, and potential limitations in the analysis techniques used to interpret the data.

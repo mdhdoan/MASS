@@ -1,9 +1,0 @@
- 1. Keywords: Trapping and marking program, floating rotary screw traps, gabion baskets, cable suspension system, flow conditions.
-
-2. Abstract: A trapping and marking program is conducted using floating rotary screw traps to determine the emigration timing and abundances of wild Chinook salmon and steelhead. The traps are anchored by gabion baskets, which allow movement with changing flow conditions. This setup enables efficient trapping during most flow conditions, providing valuable data for understanding and managing these fish populations.
-
-3. Description: The method involves a trapping and marking program using floating rotary screw traps to study the emigration timing and abundances of Chinook salmon and steelhead in their natural habitat. These traps are designed to efficiently capture fish and feature a cable suspension system anchored by gabion baskets, allowing for side-to-side and upstream/downstream movement. This flexibility ensures that the trap can be positioned optimally during various flow conditions, increasing its effectiveness in capturing and marking fish. Understanding the emigration timing and abundances of these species is crucial for their management and conservation.
-
-4. Target: The primary goal of this method is to gather data on the emigration timing and abundances of wild Chinook salmon and steelhead populations, which can inform their management and conservation efforts.
-
-5. Constraints: Potential constraints for this method include variable flow conditions that may affect trap efficiency, as well as potential impacts on fish behavior due to the presence of the traps. Additionally, limited access to suitable trapping locations and budget constraints might impact the scale and duration of the study.

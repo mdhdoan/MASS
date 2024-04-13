@@ -1,9 +1,0 @@
- 1. Keywords: Pacific lamprey, Columbia River Basin, research, monitoring, restoration, translocation, telemetry, PIT tagging.
-
-2. Abstract: The Pacific lamprey, an important species in the Columbia River Basin, has been declining in recent years. To support research, monitoring, and restoration efforts, adult lampreys have been collected since 2000 for various purposes such as translocation to bypass difficult migration corridors and monitoring passage through dams using techniques like radio and acoustic telemetry and PIT tagging. This method aims to outline the necessary steps required to collect adult Pacific Lamprey for these efforts.
-
-3. Description: The text describes the decline of the Pacific lamprey in the Columbia River Basin and the need for research, monitoring, and restoration efforts to support the species' recovery. Since 2000, adult Pacific lampreys have been collected throughout the basin for various purposes such as translocation to bypass difficult migration corridors and monitoring passage through dams using radio and acoustic telemetry and PIT tagging. These techniques allow researchers to track and study the movement of the lampreys in real-time, providing valuable data for conservation efforts.
-
-4. Target: The primary focus of this method is to outline the necessary steps required to collect adult Pacific Lamprey for research, monitoring, and restoration efforts in the Columbia River Basin.
-
-5. Constraints: The constraints for this method may include funding limitations, availability of adult lampreys for collection, and access to appropriate migration corridors for translocation. Additionally, the use of telemetry and PIT tagging techniques requires specialized equipment and trained personnel, which can also be a constraint.

@@ -1,5 +1,0 @@
- 1. Keywords: measuring point, water level, wells, elevation, consistent measurements
-2. Abstract: This method describes the process of establishing a measuring point (MP) on wells to ensure all water level measurements are taken from the same reference elevation. The MP provides consistency and accuracy in measurements, reducing errors that may occur when multiple people take measurements. An example is provided for a two-inch monitoring well.
-3. Description: A measuring point (MP) is a critical component in accurately measuring water levels in wells. By having a consistent reference point, different individuals can take measurements while ensuring they all relate to the same elevation. This approach increases measurement accuracy and reduces potential errors. An example of an MP on a two-inch monitoring well is provided for better understanding.
-4. Target: The primary goal of this method is to create a consistent measuring reference for water level measurements in wells.
-5. Constraints: None explicitly mentioned in the text body. However, selecting a suitable location for the MP and ensuring it remains fixed over time could be potential challenges.

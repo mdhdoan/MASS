@@ -1,9 +1,0 @@
- 1. Keywords: herbaceous height, graduated rod, leaf material, Habitat Evaluation Program (HEP), inflorescences, regional HEP team.
-
-2. Abstract: The method described is a technique for measuring the height of herbaceous vegetation using a graduated rod or similar device. This measurement only includes leaf material, which can consist of both residual cover and new growth. The purpose of this method is to provide a standardized way of assessing the health and density of vegetation in a given habitat, in line with the Habitat Evaluation Program (HEP) model.
-
-3. Description: The text outlines the specific steps and considerations for measuring the height of herbaceous vegetation. A graduated rod or similar device is used to measure the height of leaf material in 10ths of a foot (0.10 ft.). It is important to note that only leaf material is measured, and grass/herbs inflorescences are excluded from height measurements. The Habitat Evaluation Program (HEP) model determines whether residual cover or new growth is included in the measurement. The method described is primarily used by the Regional HEP Team.
-
-4. Target: The primary focus of this method is to provide a standardized and accurate way of measuring the height of herbaceous vegetation for habitat evaluation purposes.
-
-5. Constraints: The constraints of this method include the requirement for specialized equipment (graduated rod or similar device) and the need for trained personnel to accurately measure the height of herbaceous vegetation and interpret the results in the context of the Habitat Evaluation Program (HEP) model. Additionally, the method may not be applicable in certain environments where herbaceous vegetation is difficult to access or identify.

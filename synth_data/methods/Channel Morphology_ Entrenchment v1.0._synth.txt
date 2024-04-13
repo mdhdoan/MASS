@@ -1,9 +1,0 @@
- 1. Relevant keywords: Stream entrenchment, bankfull width, gradient, laser survey, site determination.
-
-2. Abstract: Entrenchment is a measure used to determine the vertical confinement of a stream. This method is necessary for understanding the stability and behavior of a stream in relation to its surrounding landscape. By using a laser survey and analyzing site characteristics such as bankfull width and gradient, entrenchment can be accurately determined. This task is typically completed last at a site due to its reliance on previous measurements and calculations.
-
-3. Description: Entrenchment refers to the degree of vertical confinement of a stream, and is an important factor in understanding stream behavior and stability. To determine entrenchment, sites with less than 30 m average bankfull width and less than 4% gradient are selected. Bankfull width is calculated as an average during site determination, while gradient is determined at the end of the laser survey. The use of a laser survey allows for precise measurements, leading to more accurate entrenchment determinations. This method is typically completed last at a site due to its reliance on previous measurements and calculations.
-
-4. Target: The primary focus or goal of this method is to accurately determine stream entrenchment by analyzing site characteristics such as bankfull width and gradient using laser survey data.
-
-5. Constraints: This method requires the use of a laser survey, which may not be feasible in all situations due to cost or accessibility. Additionally, sites must have less than 30 m average bankfull width and less than 4% gradient to be considered for entrenchment determination.

@@ -1,9 +1,0 @@
- 1. Keywords: Elevation data, restoration actions, tidal inundation, data logging instruments, topography.
-
-2. Abstract: The use of elevation data is essential for measuring changes in elevation before and after restoration efforts in areas affected by tidal inundation. By linking data logging instruments to topography and biotic surveys, it becomes possible to accurately assess the impact of these actions on the site. This method allows for a more informed decision-making process in managing coastal ecosystems and ensuring their sustainability.
-
-3. Description: The text discusses the importance of elevation data in quantifying changes in elevation before and after restoration efforts in areas affected by tidal inundation. By linking data logging instruments to topography and biotic surveys, this method enables a more precise understanding of how restoration actions impact the site. This information is crucial for coastal ecosystem management, as it helps decision-makers evaluate the success of restoration efforts and plan future actions accordingly.
-
-4. Target: The primary focus of this method is to accurately quantify changes in elevation before and after restoration actions on portions of a site affected by tidal inundation.
-
-5. Constraints: Potential constraints for this method include limited access to accurate elevation data, difficulties in linking data logging instruments to topography and biotic surveys, and the need for specialized equipment and expertise to collect and analyze the data. Additionally, natural factors such as weather conditions and tides may also impact the accuracy and reliability of the data collected using this method.

@@ -1,9 +1,0 @@
- 1. Relevant keywords: fishery performance, creel surveys, access-point survey design, fishing effort, catch and harvest calculation.
-
-2. Abstract: Creel surveys are an essential tool for measuring the performance of a fishery, including catch and angler effort. The access-point survey design is particularly useful for small water bodies with limited access points. This method outlines the process of calculating fishing effort, catch, and harvest using data collected from creel surveys using the access-point survey design. By accurately measuring these performance indicators, fisheries managers and researchers can effectively assess the impact of management actions on a particular fishery.
-
-3. Description: The text describes the importance of measuring fishery performance using creel surveys, with a focus on the access-point survey design for water bodies with limited access points. The method explains how to calculate fishing effort, catch, and harvest using data collected from such surveys. By accurately measuring these indicators, fisheries managers and researchers can assess the impact of management actions on a particular fishery.
-
-4. Target: The primary focus of this method is to provide a detailed process for calculating fishing effort, catch, and harvest in a fishery using creel surveys with an access-point survey design.
-
-5. Constraints: This method assumes that the reader has a basic understanding of fisheries management and creel surveys. Additionally, it requires accurate data collection at each access point to ensure the accuracy of the calculations.

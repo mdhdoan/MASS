@@ -1,9 +1,0 @@
- 1. Keywords: average width, measure, wetted channel
-   
-2. Abstract: The text describes a method for measuring the average width of a wetted channel. This is important for understanding the behavior and characteristics of fluid flow in various applications such as hydraulics, irrigation, and environmental studies. The method provides a practical and accurate way to determine this key parameter, which can help in designing and managing water resources systems.
-
-3. Description: The text body focuses on the specific steps required to measure the average width of a wetted channel. It explains that this can be done by first identifying the location of the wetted perimeter, which is the boundary between the wet and dry parts of the channel. Then, several equidistant points are selected along this perimeter, and the distance between each pair of adjacent points is measured. The average width is calculated as the sum of these distances divided by the number of measurements. The text also notes that this method assumes a rectangular shape for the channel cross-section, which may not always be the case in real-world scenarios.
-
-4. Target: The primary goal of the method described in the text is to determine the average width of a wetted channel in a systematic and accurate way.
-
-5. Constraints: One constraint of this method is the assumption of a rectangular shape for the channel cross-section, which may not always be valid. Additionally, the accuracy of the measurement depends on the number and spacing of the points chosen along the wetted perimeter, as well as the precision of the measuring instrument used.

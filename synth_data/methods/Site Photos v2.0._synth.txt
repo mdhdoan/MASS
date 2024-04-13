@@ -1,9 +1,0 @@
- 1. Keywords: photography, transects, bankfull channel, site characterization, sample relocation.
-
-2. Abstract: Photography is used to document and assess environmental conditions in a site through the use of transects established at specific locations along the bankfull channel. This method provides a visual and comprehensive overview that helps in characterizing the site, monitoring changes, and identifying suitable locations for future sampling activities. By capturing detailed images of the area, researchers can accurately relocate sample sites, ensuring continuity and consistency in their studies over time.
-
-3. Description: The text details a method involving the use of photography to capture images at designated transects along the bankfull channel of a site. A total of five transect locations have been selected for this purpose (specifically at points 1, 6, 11, 16, and 21). The primary goal is to assist in characterizing site conditions through visual assessments offered by these photographs. These images are crucial when trying to relocate sample sites during subsequent sampling events. Photographs serve as a reliable reference point, ensuring that researchers can accurately pinpoint the exact locations where previous samples were taken, thus promoting continuity and comparability in their investigations.
-
-4. Target: The primary focus of this method is site characterization and sample relocation using photography at designated transect points along the bankfull channel.
-
-5. Constraints: This method requires careful planning to determine appropriate transect locations, as well as accessibility to these sites for image capture. Additionally, consistency in camera settings (such as angle, distance, lighting conditions) is necessary to ensure comparability between photographs taken at different times.

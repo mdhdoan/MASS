@@ -1,9 +1,0 @@
- 1. Keywords: Proportional Size Distribution, Length-frequency data, Fish populations, Guy et al. (2006, 2007), Neumann and Allen (2007)
-   
-2. Abstract: Proportional Size Distribution (PSD) is a valuable method to describe fish populations using length-frequency data (Neumann & Allen, 2007). PSD, formerly known as Proportional Stock Density, offers a numerical approach for assessing and describing these populations (Guy et al., 2006, 2007). The method's wide usage highlights its significance in fisheries management.
-
-3. Description: The text discusses the Proportional Size Distribution (PSD), an essential tool in the field of fish population assessment and description. PSD was initially known as Proportional Stock Density, but it has evolved over time with changing terminologies (Guy et al., 2006, 2007). The method relies on length-frequency data to provide a numerical representation of fish populations (Neumann & Allen, 2007). This technique has been widely used in fisheries research and management due to its ability to convey valuable information about the population.
-
-4. Target: The primary focus of PSD is to assess and describe fish populations using length-frequency data.
-
-5. Constraints: Potential constraints for PSD could include limitations in obtaining accurate length-frequency data, variations in species-specific growth rates, or challenges in accounting for different life stages within the population.

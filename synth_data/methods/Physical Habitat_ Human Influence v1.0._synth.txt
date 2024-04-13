@@ -1,9 +1,0 @@
- 1. Keywords: Environmental Monitoring, EMAP protocol, wadable streams, riparian area, human land use activities, watershed land-use information, disturbance assessment.
-
-2. Abstract: This method is based on an Environmental Monitoring and Assessment Program (EMAP) protocol designed for surveying western wadable streams. It offers a systematic approach to evaluate the presence and vicinity of various human land use activities in the riparian area of the stream. The collected field data, when combined with watershed land-use information, helps estimate potential disturbance levels for the sample stream reaches, providing valuable insights for environmental management and conservation efforts.
-
-3. Description: The method discussed here is derived from an EMAP protocol developed for monitoring western wadable streams, focusing on assessing human land use activities' impact in their riparian areas. Field evaluations are performed to gather data on the presence and proximity of different human-induced disturbances. This information, when integrated with watershed land-use details, is used to estimate the potential degree of disturbance for specific stream reaches, facilitating informed decision-making regarding environmental management, preservation efforts, and resource allocation.
-
-4. Target: The primary goal of this method is to assess the potential disturbance levels in wadable streams due to human land use activities by gathering field data and analyzing watershed land-use information.
-
-5. Constraints: This method's constraints include potential limitations in accessing riparian areas for data collection, resource availability for conducting extensive evaluations, and the need for accurate and up-to-date watershed land-use information to ensure reliable disturbance assessments.

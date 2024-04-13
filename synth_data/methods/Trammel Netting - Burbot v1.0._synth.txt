@@ -1,9 +1,0 @@
- 1. Keywords: Trammel nets, fishing gear, gill net, burbot stock assessment, high capture rates.
-
-2. Abstract: Trammel nets are a type of passive fishing gear used for burbot stock assessment. They consist of two large mesh outer panels and a small mesh inner panel, suspended from a float line and lead line. Fish are captured in a mesh pocket as they swim through the outer panels and push into the inner panel. This method is particularly useful in Wyoming for burbot stock assessment due to its high capture rates and low capture-related mortality.
-
-3. Description: Trammel nets, as described by Hubert (1996), are a type of fishing gear that are constructed similar to a gill net but have some distinct differences. They consist of two large mesh outer panels and a small mesh inner panel, all suspended from a float line and attached to a lead line. The design allows fish to swim through the outer panels and become entrapped in the inner panel's smaller mesh, creating a mesh pocket where the fish are captured. This method is commonly used for burbot stock assessment, particularly in Wyoming (Abrahamse 2009), due to its high capture rates relative to other gears used for this purpose. The low capture-related mortality associated with trammel nets makes them a desirable method for fisheries management and research.
-
-4. Target: The primary focus of trammel nets is burbot stock assessment, providing a reliable and efficient means of capturing and studying this species.
-
-5. Constraints: While trammel nets have many benefits, they also have some constraints. For example, they may not be suitable for use in all types of water bodies or environments, and their effectiveness may depend on factors such as water temperature, turbidity, and fish behavior. Additionally, the design and construction of trammel nets require careful consideration to ensure that they are effective and do not harm non-target species.

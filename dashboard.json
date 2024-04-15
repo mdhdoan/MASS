@@ -1,0 +1,890 @@
+{
+  "title": "Method Assessment Support System 0.2",
+  "version": "2.4",
+  "settings": {
+    "pagenumber": 5,
+    "editable": true,
+    "fullscreenEnabled": false,
+    "parameters": {
+      "neodash_methods_title_1": "Analysis of Roving Creel Data v1.0",
+      "neodash_methods_title_1_display": "Analysis of Roving Creel Data v1.0",
+      "neodash_events_title_1": "Rufus Woods Lake Creel Survey",
+      "neodash_events_title_1_display": "Rufus Woods Lake Creel Survey",
+      "neodash_samples_title_1": "Logan River 2017",
+      "neodash_samples_title_1_display": "Logan River 2017",
+      "neodash_methods_topic_1": " Groundwater Monitoring: Stormwater and Groundwater Sampling",
+      "neodash_methods_topic_1_display": " Groundwater Monitoring: Stormwater and Groundwater Sampling",
+      "neodash_keyword": "habitat"
+    },
+    "theme": "light"
+  },
+  "pages": [
+    {
+      "title": "SitRep",
+      "reports": [
+        {
+          "id": "7be138db-1eb1-491e-8ca6-d78f5d9ee6c4",
+          "title": "Fully fledge data",
+          "query": "MATCH p=(m:Methods)-[:USED_IN]->(e:Events)-[:BECOME]->(s:Samples)\nRETURN p\n",
+          "width": 16,
+          "height": 12,
+          "x": 0,
+          "y": 2,
+          "type": "graph",
+          "selection": {
+            "Methods": "title",
+            "Events": "name",
+            "Samples": "title"
+          },
+          "settings": {
+            "frozen": false,
+            "nodePositions": {},
+            "refreshButtonEnabled": true
+          },
+          "schema": [
+            [
+              "Methods",
+              "owner_email",
+              "owner_name",
+              "keywords",
+              "json_key",
+              "description",
+              "abstract",
+              "title",
+              "type",
+              "constraints",
+              "url",
+              "target",
+              "uid",
+              "instruction",
+              "topic",
+              "topic_id",
+              "id",
+              "represent_words",
+              "representative"
+            ],
+            [
+              "Events",
+              "dataHandlingConsiderations",
+              "qualityControlConsiderations",
+              "eid",
+              "keyAssumptions",
+              "fieldScheduleNotes",
+              "url",
+              "reportingConsiderations",
+              "ownerEmail",
+              "qualifications",
+              "ownerName",
+              "background",
+              "name",
+              "programUrl",
+              "safetyConsiderations",
+              "objectives",
+              "rolesAndResponsibilities",
+              "equipmentCleaningAndCalibration",
+              "protocolUrl",
+              "trainingRequirements",
+              "status"
+            ],
+            [
+              "Samples",
+              "dataRepositoryUrl",
+              "startYear",
+              "title",
+              "url",
+              "ownerEmail",
+              "sid",
+              "lastUpdated",
+              "studyDesignUrl",
+              "initiationYear",
+              "ownerName",
+              "spatialDesignCategory",
+              "retirementYear",
+              "status",
+              "description"
+            ]
+          ]
+        },
+        {
+          "id": "d400c174-2708-4721-b734-24a6e9efdee0",
+          "title": "Full fledge methods",
+          "query": "MATCH p=(m:Methods)-[:USED_IN]->(e:Events)-[:BECOME]->(s:Samples)\nRETURN DISTINCT m.title as `Method title`, m.html as `link` ORDER BY m.title\n\n",
+          "width": 8,
+          "height": 4,
+          "x": 16,
+          "y": 2,
+          "type": "table",
+          "selection": {},
+          "settings": {
+            "columnWidths": "[7, 3]"
+          }
+        },
+        {
+          "id": "b6e119fe-d9b9-4102-80d1-7117b35ae06f",
+          "title": "Full fledge events",
+          "query": "MATCH p=(m:Methods)-[:USED_IN]->(e:Events)-[:BECOME]->(s:Samples)\nRETURN DISTINCT e.title as `Event title`, e.url as `link` ORDER BY e.title\n",
+          "width": 8,
+          "height": 4,
+          "x": 16,
+          "y": 6,
+          "type": "table",
+          "selection": {},
+          "settings": {
+            "columnWidths": "[7, 3]"
+          }
+        },
+        {
+          "id": "986f623b-f2cf-4a5f-ba23-4948b5451172",
+          "title": "Full fledge samples",
+          "query": "MATCH p=(m:Methods)-[:USED_IN]->(e:Events)-[:BECOME]->(s:Samples)\nRETURN DISTINCT s.title as `Sample title`, s.url as `link` ORDER BY s.title\n",
+          "width": 8,
+          "height": 4,
+          "x": 16,
+          "y": 10,
+          "type": "table",
+          "selection": {},
+          "settings": {
+            "columnWidths": "[7, 3]"
+          }
+        },
+        {
+          "id": "7b6d72df-210d-406a-87e8-84a2c8114613",
+          "title": "Full fledge methods",
+          "query": "MATCH p=(m:Methods)-[:USED_IN]->(e:Events)-[:BECOME]->(s:Samples)\nRETURN COUNT(DISTINCT m)\n",
+          "width": 4,
+          "height": 2,
+          "x": 8,
+          "y": 0,
+          "type": "value",
+          "selection": {},
+          "settings": {},
+          "schema": []
+        },
+        {
+          "id": "ec57d5c3-b15b-4c06-aeae-805dc069eadb",
+          "title": "Full fledge events ",
+          "query": "MATCH p=(m:Methods)-[:USED_IN]->(e:Events)-[:BECOME]->(s:Samples)\nRETURN COUNT(DISTINCT e)",
+          "width": 4,
+          "height": 2,
+          "x": 12,
+          "y": 0,
+          "type": "value",
+          "selection": {},
+          "settings": {},
+          "schema": []
+        },
+        {
+          "id": "721b339e-fcf3-4363-b462-abd5b77ed3eb",
+          "title": "Full fledge samples",
+          "query": "MATCH p=(m:Methods)-[:USED_IN]->(e:Events)-[:BECOME]->(s:Samples)\nRETURN COUNT(DISTINCT s)\n\n\n",
+          "width": 4,
+          "height": 2,
+          "x": 16,
+          "y": 0,
+          "type": "value",
+          "selection": {},
+          "settings": {},
+          "schema": []
+        },
+        {
+          "id": "88e91e40-4dce-4665-8672-314baebcf2de",
+          "title": "Full path available",
+          "query": "MATCH p=(m:Methods)-[:USED_IN]->(e:Events)-[:BECOME]->(s:Samples)\nRETURN COUNT (DISTINCT p)\n\n\n",
+          "width": 4,
+          "height": 2,
+          "x": 20,
+          "y": 0,
+          "type": "value",
+          "selection": {},
+          "settings": {},
+          "schema": []
+        },
+        {
+          "id": "f5ba520f-74ba-4f54-970d-ccca21ffa6ff",
+          "title": "Total topics",
+          "query": "MATCH (m: Methods) \nRETURN COUNT(DISTINCT m.topic_id) ",
+          "width": 4,
+          "height": 2,
+          "x": 0,
+          "y": 0,
+          "type": "value",
+          "selection": {},
+          "settings": {},
+          "schema": []
+        },
+        {
+          "id": "db80b945-0d5f-477d-a116-e0b9e2c8a3e8",
+          "title": "Total keywords",
+          "query": "MATCH (m: Methods)\nUNWIND m.represent_words as keyword\nRETURN COUNT(DISTINCT keyword)",
+          "width": 4,
+          "height": 2,
+          "x": 4,
+          "y": 0,
+          "type": "value",
+          "selection": {},
+          "settings": {},
+          "schema": []
+        }
+      ]
+    },
+    {
+      "title": "Topics explorer",
+      "reports": [
+        {
+          "id": "8cbbae1d-b81e-49ff-8803-9b64f3157d2a",
+          "title": "List of topics in database",
+          "query": "MATCH (m: Methods)\nRETURN m.topic_id as `Topic ID`, m.topic as `Topic Label`, COUNT(m.topic) as `Number of methods` ORDER BY `Topic ID` \n",
+          "width": 7,
+          "height": 7,
+          "x": 17,
+          "y": 4,
+          "type": "table",
+          "selection": {},
+          "settings": {
+            "columnWidths": "[1, 5, 5, 2]"
+          }
+        },
+        {
+          "id": "498bafe0-ff2d-4bf1-9121-b0a705a782f7",
+          "title": "Topic search",
+          "query": "MATCH (n:`Methods`) \nWHERE toLower(toString(n.`topic`)) CONTAINS toLower($input) \nRETURN DISTINCT n.`topic` as value,  n.`topic` as display ORDER BY size(toString(value)) ASC LIMIT 5",
+          "width": 7,
+          "height": 2,
+          "x": 17,
+          "y": 0,
+          "type": "select",
+          "selection": {},
+          "settings": {
+            "type": "Node Property",
+            "entityType": "Methods",
+            "propertyType": "topic",
+            "propertyTypeDisplay": "topic",
+            "parameterName": "neodash_methods_topic_1",
+            "id": "1"
+          },
+          "schema": []
+        },
+        {
+          "id": "8a816b4a-b5ea-4d60-a2d7-bd9f99d3ec54",
+          "title": "Number of methods in topic",
+          "query": "MATCH (m:Methods {topic: $neodash_methods_topic_1})\nRETURN COUNT(m)",
+          "width": 7,
+          "height": 2,
+          "x": 17,
+          "y": 2,
+          "type": "value",
+          "selection": {},
+          "settings": {},
+          "schema": []
+        },
+        {
+          "id": "54946573-b11e-44ff-ab37-517d9eded323",
+          "title": "Methods in topic",
+          "query": "MATCH (m: Methods {topic: $neodash_methods_topic_1}) \nRETURN m.title as `Method title` ORDER BY m.title",
+          "width": 8,
+          "height": 5,
+          "x": 0,
+          "y": 6,
+          "type": "table",
+          "selection": {},
+          "settings": {}
+        },
+        {
+          "id": "dee52b7d-8c80-4ca8-9667-844e4bceda03",
+          "title": "Topic distribution",
+          "query": "MATCH (m: Methods) \nRETURN m.topic as `Method topic` , COUNT(m) as `Number of methods` ORDER BY `Number of methods` DESC",
+          "width": 17,
+          "height": 6,
+          "x": 0,
+          "y": 0,
+          "type": "bar",
+          "selection": {
+            "index": "Method topic",
+            "value": "Number of methods",
+            "key": "(none)"
+          },
+          "settings": {
+            "barValues": true,
+            "refreshButtonEnabled": true,
+            "fullscreenEnabled": true,
+            "expandHeightForLegend": false
+          },
+          "schema": []
+        },
+        {
+          "id": "387f6f6e-5ec9-400d-a552-c979ed53e93a",
+          "title": "Represent method in topic",
+          "query": "MATCH (m: Methods {topic: $neodash_methods_topic_1}) \nWHERE m.representative = true\nRETURN m.title as `Method title` ORDER BY m.title\n",
+          "width": 9,
+          "height": 5,
+          "x": 8,
+          "y": 6,
+          "type": "table",
+          "selection": {},
+          "settings": {}
+        }
+      ]
+    },
+    {
+      "title": "Keywords explorer",
+      "reports": [
+        {
+          "id": "d417a73b-b55b-4170-8124-e3b7dc21d0cc",
+          "title": "Keyword distribution",
+          "query": "MATCH (m: Methods)\nUNWIND m.represent_words as keyword\nRETURN keyword as `Keywords` , COUNT(keyword) as `Number of methods` ORDER BY `Number of methods` DESC\n\n\n",
+          "width": 24,
+          "height": 7,
+          "x": 0,
+          "y": 0,
+          "type": "bar",
+          "selection": {
+            "index": "Keywords",
+            "value": "Number of methods",
+            "key": "(none)"
+          },
+          "settings": {},
+          "schema": []
+        },
+        {
+          "id": "5a1f48cf-7517-4ec3-ae12-6bbecdc6f305",
+          "title": "Keyword search",
+          "query": "RETURN true;",
+          "width": 4,
+          "height": 2,
+          "x": 0,
+          "y": 7,
+          "type": "select",
+          "selection": {},
+          "settings": {
+            "type": "Free Text",
+            "entityType": "keyword",
+            "parameterName": "neodash_keyword"
+          },
+          "schema": []
+        },
+        {
+          "id": "ce75e4a0-3376-4ae1-adc5-37d5aa33c020",
+          "title": "Keyword in details",
+          "query": "MATCH (m: Methods)\nUNWIND m.represent_words as keyword\nWITH m, keyword\n  WHERE keyword = $neodash_keyword\nRETURN m.title as `Method title`, m.topic as Topic, m.represent_words as `List of keywords` ORDER BY `Method title`\n",
+          "width": 16,
+          "height": 7,
+          "x": 0,
+          "y": 9,
+          "type": "table",
+          "selection": {},
+          "settings": {
+            "columnWidths": "[5, 3, 5]",
+            "allowDownload": true
+          }
+        },
+        {
+          "id": "a4e5feb2-a2e2-40f5-9a61-9f864209ea3f",
+          "title": "Number of methods contains keyword",
+          "query": "MATCH (m: Methods)\nUNWIND m.represent_words as keyword\nWITH m, keyword\n  WHERE keyword = $neodash_keyword\nRETURN COUNT(m)",
+          "width": 6,
+          "height": 2,
+          "x": 4,
+          "y": 7,
+          "type": "value",
+          "selection": {},
+          "settings": {},
+          "schema": []
+        },
+        {
+          "id": "1cb3c30d-4c86-4f2a-bf97-e13bdd3a2da1",
+          "title": "Representative method of keyword and topic",
+          "query": "MATCH (m: Methods)\nUNWIND m.represent_words as keyword\nWITH m, keyword\n  WHERE keyword = $neodash_keyword and m.representative = true\nRETURN m.title as `Method title`, m.topic as Topic ORDER BY `Method title`\n",
+          "width": 8,
+          "height": 9,
+          "x": 16,
+          "y": 7,
+          "type": "table",
+          "selection": {},
+          "settings": {}
+        },
+        {
+          "id": "14fbd40b-3edd-450c-8110-61e29527f585",
+          "title": "Number of representative method",
+          "query": "MATCH (m: Methods)\nUNWIND m.represent_words as keyword\nWITH m, keyword\n  WHERE keyword = $neodash_keyword and m.representative = true\nRETURN COUNT(m.title)\n\n\n\n",
+          "width": 6,
+          "height": 2,
+          "x": 10,
+          "y": 7,
+          "type": "value",
+          "selection": {},
+          "settings": {},
+          "schema": []
+        }
+      ]
+    },
+    {
+      "title": "Methods explorer",
+      "reports": [
+        {
+          "id": "18f08e09-0998-45b2-808d-00b11063f05f",
+          "title": "Total number of methods in database",
+          "query": "MATCH (m:Methods) \nRETURN COUNT(m) as Number_of_methods\n",
+          "width": 5,
+          "height": 2,
+          "x": 0,
+          "y": 0,
+          "type": "value",
+          "selection": {},
+          "settings": {
+            "refreshButtonEnabled": true
+          },
+          "schema": []
+        },
+        {
+          "id": "3af97b15-1a9c-4d29-a327-70277ca497e5",
+          "title": "Methods visualization",
+          "query": "MATCH (m:Methods {title: $neodash_methods_title_1}) CALL apoc.path.spanningTree(m, {relationshipFilter: \"USED_IN>|BECOME\"}) \nYIELD path \nRETURN path, m",
+          "width": 13,
+          "height": 8,
+          "x": 0,
+          "y": 2,
+          "type": "graph",
+          "selection": {
+            "Methods": "title",
+            "Events": "name",
+            "Protocols": "title",
+            "Samples": "title"
+          },
+          "settings": {
+            "refreshButtonEnabled": true,
+            "fullscreenEnabled": true,
+            "downloadImageEnabled": true,
+            "refreshRate": 0,
+            "defaultNodeSize": 6
+          },
+          "schema": [
+            [
+              "Methods",
+              "owner_email",
+              "owner_name",
+              "keywords",
+              "json_key",
+              "description",
+              "abstract",
+              "title",
+              "type",
+              "constraints",
+              "url",
+              "target",
+              "uid",
+              "instruction",
+              "topic",
+              "topic_id",
+              "id",
+              "represent_words",
+              "representative"
+            ],
+            [
+              "Events",
+              "dataHandlingConsiderations",
+              "eid",
+              "qualityControlConsiderations",
+              "keyAssumptions",
+              "fieldScheduleNotes",
+              "url",
+              "reportingConsiderations",
+              "ownerEmail",
+              "qualifications",
+              "ownerName",
+              "background",
+              "name",
+              "safetyConsiderations",
+              "programUrl",
+              "objectives",
+              "rolesAndResponsibilities",
+              "equipmentCleaningAndCalibration",
+              "protocolUrl",
+              "trainingRequirements",
+              "status"
+            ],
+            [
+              "Protocols",
+              "keywords",
+              "ownername",
+              "methods",
+              "description",
+              "problem_statement",
+              "pid",
+              "abstract",
+              "title",
+              "desired_outcomes",
+              "constraints",
+              "url",
+              "assumptions",
+              "target",
+              "ownerEmail",
+              "uid",
+              "metric",
+              "background",
+              "programUrl",
+              "objectives",
+              "value"
+            ],
+            [
+              "Samples",
+              "dataRepositoryUrl",
+              "startYear",
+              "description",
+              "title",
+              "url",
+              "ownerEmail",
+              "sid",
+              "studyDesignUrl",
+              "lastUpdated",
+              "initiationYear",
+              "ownerName",
+              "spatialDesignCategory",
+              "retirementYear",
+              "status"
+            ]
+          ]
+        },
+        {
+          "id": "4fd277c2-1da2-447a-8295-86993a40a70a",
+          "title": "How the visualization works",
+          "query": "The visualization below would show the method and any connected events or samples.  \nChoosing a method from the search bar on the right, visualization will automatically refresh to show that method.  \nLeft clicking on the nodes shown will also provide the details for you to view.  ",
+          "width": 8,
+          "height": 2,
+          "x": 5,
+          "y": 0,
+          "type": "text",
+          "selection": {},
+          "settings": {},
+          "schema": []
+        },
+        {
+          "id": "631759c9-20d7-402c-a975-9d1916bed0ec",
+          "title": "Method search",
+          "query": "MATCH (n:`Methods`) \nWHERE toLower(toString(n.`title`)) CONTAINS toLower($input) \nRETURN DISTINCT n.`title` as value,  n.`title` as display ORDER BY size(toString(value)) ASC LIMIT 5",
+          "width": 6,
+          "height": 2,
+          "x": 13,
+          "y": 0,
+          "type": "select",
+          "selection": {},
+          "settings": {
+            "type": "Node Property",
+            "entityType": "Methods",
+            "propertyType": "title",
+            "propertyTypeDisplay": "title",
+            "parameterName": "neodash_methods_title_1",
+            "id": "1"
+          },
+          "schema": []
+        },
+        {
+          "id": "ad8cc866-25dc-4a73-9e24-0740df8a0311",
+          "title": "Connected Events",
+          "query": "Match p=(m:Methods {title: $neodash_methods_title_1})-[]-(e:Events)\nRETURN COUNT(p)\n",
+          "width": 5,
+          "height": 2,
+          "x": 19,
+          "y": 0,
+          "type": "value",
+          "selection": {},
+          "settings": {},
+          "schema": []
+        },
+        {
+          "id": "2ee3a1c8-a4e7-491f-9257-70ba44351f2e",
+          "title": "Method details",
+          "query": "MATCH (m: Methods {title: $neodash_methods_title_1})\nWITH m, keys(m) as method_keys UNWIND method_keys as method_key\nWITH m, method_key\nRETURN method_key as `Method attributes`, m[method_key] as `Value` ",
+          "width": 11,
+          "height": 8,
+          "x": 13,
+          "y": 2,
+          "type": "table",
+          "selection": {},
+          "settings": {
+            "columnWidths": "[2,10]",
+            "allowDownload": true,
+            "refreshButtonEnabled": true,
+            "fullscreenEnabled": false
+          }
+        }
+      ]
+    },
+    {
+      "title": "Events explorer",
+      "reports": [
+        {
+          "id": "ae81ae67-ddd3-4203-826f-ca2c06374e40",
+          "title": "Total number of events in database",
+          "query": "MATCH (e:Events) \nRETURN COUNT(e) ",
+          "width": 5,
+          "height": 2,
+          "x": 0,
+          "y": 0,
+          "type": "value",
+          "selection": {},
+          "settings": {},
+          "schema": []
+        },
+        {
+          "id": "9f40106e-6a0c-4119-bc01-9bf427f15fa6",
+          "title": "How the visualization works",
+          "query": "The visualization below would show the event and any connected samples.  \nChoosing an event from the search bar on the right, visualization will automatically refresh to show that event.  \nLeft clicking on the nodes shown will also provide the details for you to view.  \n\n\n",
+          "width": 8,
+          "height": 2,
+          "x": 5,
+          "y": 0,
+          "type": "text",
+          "selection": {},
+          "settings": {},
+          "schema": []
+        },
+        {
+          "id": "e0d5ab46-dc76-4aec-9ca6-a6c35f0dd53e",
+          "title": "Events visualization",
+          "query": "MATCH (e:Events {title: $neodash_events_title_1}) CALL apoc.path.spanningTree(e, {relationshipFilter: \"BECOME\"}) \nYIELD path \nRETURN path, e\n",
+          "width": 13,
+          "height": 8,
+          "x": 0,
+          "y": 2,
+          "type": "graph",
+          "selection": {
+            "Events": "name",
+            "Samples": "title"
+          },
+          "settings": {
+            "defaultNodeSize": 5,
+            "nodeLabelFontSize": 2
+          },
+          "schema": [
+            [
+              "Events",
+              "dataHandlingConsiderations",
+              "eid",
+              "qualityControlConsiderations",
+              "keyAssumptions",
+              "fieldScheduleNotes",
+              "title",
+              "url",
+              "reportingConsiderations",
+              "ownerEmail",
+              "qualifications",
+              "ownerName",
+              "background",
+              "safetyConsiderations",
+              "programUrl",
+              "objectives",
+              "rolesAndResponsibilities",
+              "equipmentCleaningAndCalibration",
+              "protocolUrl",
+              "trainingRequirements",
+              "status"
+            ],
+            [
+              "Samples",
+              "dataRepositoryUrl",
+              "startYear",
+              "description",
+              "title",
+              "url",
+              "ownerEmail",
+              "sid",
+              "studyDesignUrl",
+              "lastUpdated",
+              "initiationYear",
+              "ownerName",
+              "spatialDesignCategory",
+              "retirementYear",
+              "status"
+            ]
+          ]
+        },
+        {
+          "id": "878d3f8a-a48d-459c-b37e-cf510255f0d3",
+          "title": "Event search",
+          "query": "MATCH (n:`Events`) \nWHERE toLower(toString(n.`title`)) CONTAINS toLower($input) \nRETURN DISTINCT n.`title` as value,  n.`title` as display ORDER BY size(toString(value)) ASC LIMIT 5",
+          "width": 6,
+          "height": 2,
+          "x": 13,
+          "y": 0,
+          "type": "select",
+          "selection": {},
+          "settings": {
+            "type": "Node Property",
+            "entityType": "Events",
+            "id": "1",
+            "propertyType": "title",
+            "propertyTypeDisplay": "title",
+            "parameterName": "neodash_events_title_1"
+          },
+          "schema": []
+        },
+        {
+          "id": "353cfa6b-86f0-4930-94e9-21700113137a",
+          "title": "Connected Samples",
+          "query": "Match p=(e:Events {title: $neodash_events_title_1})-[]-(s:Samples)\nRETURN COUNT(p)\n\n\n\n",
+          "width": 5,
+          "height": 2,
+          "x": 19,
+          "y": 0,
+          "type": "value",
+          "selection": {},
+          "settings": {},
+          "schema": []
+        },
+        {
+          "id": "c2adac8b-9822-4b25-bb80-bcfe65821c7c",
+          "title": "Events details",
+          "query": "MATCH (e: Events {title: $neodash_events_title_1})\nWITH e, keys(e) as event_keys\n    UNWIND event_keys as event_key\nWITH e, event_key\nRETURN event_key as `Event attributes`, e[event_key] as Value \n",
+          "width": 11,
+          "height": 8,
+          "x": 13,
+          "y": 2,
+          "type": "table",
+          "selection": {},
+          "settings": {
+            "columnWidths": "[3, 10]"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Samples explorer",
+      "reports": [
+        {
+          "id": "e9af324c-e638-43ec-b26b-266e2cfe0c68",
+          "title": "Total number of samples in database",
+          "query": "MATCH (s:Samples) \nRETURN COUNT(s) \n",
+          "width": 5,
+          "height": 2,
+          "x": 0,
+          "y": 0,
+          "type": "value",
+          "selection": {},
+          "settings": {},
+          "schema": []
+        },
+        {
+          "id": "241f69ce-d6bb-4367-96b8-0bff9d976e39",
+          "title": "How the visualization works",
+          "query": "The visualization below would show the sample and any connected events.  \nChoosing an sample from the search bar on the right, visualization will automatically refresh to show that sample.  \nLeft clicking on the nodes shown will also provide the details for you to view. \n",
+          "width": 8,
+          "height": 2,
+          "x": 5,
+          "y": 0,
+          "type": "text",
+          "selection": {},
+          "settings": {},
+          "schema": []
+        },
+        {
+          "id": "58d43391-84dd-4a7d-9442-913552952b83",
+          "title": "Sample search",
+          "query": "MATCH (n:`Samples`) \nWHERE toLower(toString(n.`title`)) CONTAINS toLower($input) \nRETURN DISTINCT n.`title` as value,  n.`title` as display ORDER BY size(toString(value)) ASC LIMIT 5",
+          "width": 6,
+          "height": 2,
+          "x": 13,
+          "y": 0,
+          "type": "select",
+          "selection": {},
+          "settings": {
+            "type": "Node Property",
+            "entityType": "Samples",
+            "propertyType": "title",
+            "propertyTypeDisplay": "title",
+            "parameterName": "neodash_samples_title_1",
+            "id": "1"
+          },
+          "schema": []
+        },
+        {
+          "id": "d3f2051e-28f2-4fe5-b52e-a2ade0b4023b",
+          "title": "Connected Events",
+          "query": "Match p=(s:Samples {title: $neodash_samples_title_1})-[]-(e:Events)\nRETURN COUNT(p)\n",
+          "width": 5,
+          "height": 2,
+          "x": 19,
+          "y": 0,
+          "type": "value",
+          "selection": {},
+          "settings": {},
+          "schema": []
+        },
+        {
+          "id": "b2f0a4c7-05f4-4b3e-8494-68bda7f693a7",
+          "title": "Samples visualization",
+          "query": "MATCH (s:Samples {title: $neodash_samples_title_1}) CALL apoc.path.spanningTree(s, {relationshipFilter: \"USED_IN\"}) \nYIELD path \nRETURN path, s\n",
+          "width": 13,
+          "height": 8,
+          "x": 0,
+          "y": 2,
+          "type": "graph",
+          "selection": {
+            "Samples": "title"
+          },
+          "settings": {},
+          "schema": [
+            [
+              "Samples",
+              "dataRepositoryUrl",
+              "startYear",
+              "title",
+              "url",
+              "ownerEmail",
+              "sid",
+              "lastUpdated",
+              "studyDesignUrl",
+              "initiationYear",
+              "ownerName",
+              "spatialDesignCategory",
+              "retirementYear",
+              "status"
+            ]
+          ]
+        },
+        {
+          "id": "1741e641-02c8-408e-b0f8-7fc8414750eb",
+          "title": "Samples details",
+          "query": "MATCH (s: Samples {title: $neodash_samples_title_1})\nWITH s, keys(s) as sample_keys\n    UNWIND sample_keys as sample_key\nWITH s, sample_key\nRETURN sample_key as `Sample attributes`, s[sample_key] as Value \n",
+          "width": 11,
+          "height": 8,
+          "x": 13,
+          "y": 2,
+          "type": "table",
+          "selection": {},
+          "settings": {}
+        }
+      ]
+    },
+    {
+      "title": "To be added in next version",
+      "reports": [
+        {
+          "id": "a3b93f38-1927-4893-ba40-49ad607b0071",
+          "title": "Add things here!",
+          "query": "Higher priority:  \nAdd protocols/metrics/indicators connection here  \nAdd synthetic protocol here too <-- (Make a new page for golden data!)  \nLinkage to data repositories from sample  \nMaybe fix the naming schema  \nBPA project numbers link to study plans to persuade them to work with us!  \nSample design --> Data repositories  \nLink project number,... maybe MR projects, programs, organizations,...  \nLink mucho protocols to uno method?  <-- Try this\n\n\nLow priority:  \nAdd map to methods  \nSYNTHESIZE THEM BOOBOO protocols",
+          "width": 18,
+          "height": 6,
+          "x": 0,
+          "y": 0,
+          "type": "text",
+          "selection": {},
+          "settings": {},
+          "schema": []
+        }
+      ]
+    }
+  ],
+  "parameters": {},
+  "extensions": {
+    "active": true,
+    "activeReducers": [],
+    "styling": {
+      "active": true
+    },
+    "advanced-charts": {
+      "active": true
+    },
+    "actions": {}
+  },
+  "uuid": "1cfc9545-5739-498b-8348-54bee2aba9e0"
+}

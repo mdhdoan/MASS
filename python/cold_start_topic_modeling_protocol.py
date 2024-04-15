@@ -99,7 +99,7 @@ if __name__ == '__main__':
     The topic is described by the following keywords delimited by triple backquotes (```):
     ```{keywords}```
 
-    Return ONLY a the topic label, which should not contain more than 5 words.
+    Return ONLY the topic label, which should not contain more than 5 words.
     If your answer has any code in it, generate again. 
     If the amount of words in your answer is more than 5, generate again.
     If your answer include a clarification or explanation, only return the topic label

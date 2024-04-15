@@ -82,44 +82,44 @@ if __name__ == '__main__':
     display(all_doc_details)
     all_doc_details.to_json('full_details.json', orient = 'records', lines=True)
     
-    # # System prompt describes information given to all conversations
-    # prompt_template = """
-    # You are a helpful, respectful and honest assistant for labeling topics.
+    # System prompt describes information given to all conversations
+    prompt_template = """
+    You are a helpful, respectful and honest assistant for labeling topics.
 
-    # I have a topic that contains the following documents delimited by triple backquotes (```). 
-    # ```{documents}```
+    I have a topic that contains the following documents delimited by triple backquotes (```). 
+    ```{documents}```
     
-    # The topic is described by the following keywords delimited by triple backquotes (```):
-    # ```{keywords}```
+    The topic is described by the following keywords delimited by triple backquotes (```):
+    ```{keywords}```
 
-    # Return ONLY a the topic label, which should not contain more than 5 words.
-    # If your answer has any code in it, generate again. 
-    # If the amount of words in your answer is more than 5, generate again.
-    # """
+    Return ONLY a the topic label, which should not contain more than 5 words.
+    If your answer has any code in it, generate again. 
+    If the amount of words in your answer is more than 5, generate again.
+    """
 
-    # llm = Ollama(model="mistral")
-    # prompt = PromptTemplate(input_variables=["documents", "keywords"], template=prompt_template)
-    # llm_chain = LLMChain(llm=llm, prompt=prompt)
+    llm = Ollama(model="mistral")
+    prompt = PromptTemplate(input_variables=["documents", "keywords"], template=prompt_template)
+    llm_chain = LLMChain(llm=llm, prompt=prompt)
     
-    # print(topic_model.get_topic_info())
-    # label_dict = dict()
-    # for i in range(-1, len(topic_model.get_topic_info())-1):
-    #     if i == -1:
-    #         label_dict[i] = 'Outlier Topic'
-    #     else:
-    #         keywords = topic_model.topic_labels_[i].split('_')[1:]
-    #         docs = topic_model.representative_docs_[i]
-    #         result = llm_chain.invoke({'documents': docs, 'keywords': keywords})
-    #         label = result['text']
-    #         print(f"[{i}] --- {topic_model.topic_labels_[i]} --- {label}")
-    #         label_dict[i] = label
+    print(topic_model.get_topic_info())
+    label_dict = dict()
+    for i in range(-1, len(topic_model.get_topic_info())-1):
+        if i == -1:
+            label_dict[i] = 'Outlier Topic'
+        else:
+            keywords = topic_model.topic_labels_[i].split('_')[1:]
+            docs = topic_model.representative_docs_[i]
+            result = llm_chain.invoke({'documents': docs, 'keywords': keywords})
+            label = result['text']
+            print(f"[{i}] --- {topic_model.topic_labels_[i]} --- {label}")
+            label_dict[i] = label
     
-    # topic_model.set_topic_labels(label_dict)
+    topic_model.set_topic_labels(label_dict)
 
-    # topic_model.save(
-    #     "model/data", 
-    #     serialization="pytorch", save_ctfidf=True, save_embedding_model="sentence-transformers/all-MiniLM-L6-v2"
-    # )
+    topic_model.save(
+        "model/data/method", 
+        serialization="pytorch", save_ctfidf=True, save_embedding_model="sentence-transformers/all-MiniLM-L6-v2"
+    )
     
     count = 0
     for file in os.listdir(in_path):

@@ -97,6 +97,7 @@ if __name__ == '__main__':
     # test_result = {}
     fail_counter = 0
     metric_counter = 0
+    total_metrics = 0
     for protocol_id, metrics in protocol_dict.items():
         print('protocol #', protocol_counter, 'out of', total_protocol, 'id:', protocol_id)
         total_metrics_in_protocol = len(metrics)
@@ -142,6 +143,7 @@ if __name__ == '__main__':
                     try:
                         description = method_dict[method + str(' v1.0')]
                     except: 
+                        metric_fail_counter += 1
                         bad_metric_list.append(metric)
                         description = 'DESCRIPTION NOT FOUND, TITLE MIGHT BE HALLUCINATING'
                 else:
@@ -157,16 +159,22 @@ if __name__ == '__main__':
             with open('METRIC_METHOD_MATCHING_TEST_LIST_PASS.json', 'a+') as test_result_file:
                 writing_data = json.dumps(test_result, indent = 4)
                 test_result_file.write(writing_data)
-            print('Completed with fail rate: ' + str(metric_fail_counter) + ' out of ' + str(total_metrics_in_protocol) + ' with metric ' + str(metric))
-            print('NEXT METRIC\n')
+            print('Completed with fail rate: ' + str(metric_fail_counter) + ' methods out of ' + str(total_metrics_in_protocol) + ' with metric ' + str(metric))
             metric_total_fail_counter += metric_fail_counter
-        print('Completed with fail rate: ' + str(metric_total_fail_counter) + ' out of ' + str(metric_counter) + ' with protocol ID ' + str(protocol_id) +'\n\n')
+            total_metrics += total_metrics_in_protocol
+            print('total metrics so far:', total_metrics)
+            print('NEXT METRIC\n')
+
+        print('Completed with fail rate: ' + str(metric_total_fail_counter) + ' methods out of ' + str(total_metrics) + ' with protocol ID ' + str(protocol_id) +'\n\n')
         protocol_counter = protocol_counter + 1
-        # if protocol_counter == 2:
-        #     break
-        # else:
-        #     continue
-    print('Completed with fail rate: ' + str(fail_counter) + 'metrics out of ' + str(metric_counter) + ' with ' + str(total_protocol) + ' protocols')
+        fail_counter += metric_total_fail_counter
+        # total_metrics += total_metrics_in_protocol
+        print('total metrics so far:', total_metrics)
+        if protocol_counter == 2:
+            break
+        else:
+            continue
+    print('Completed with fail rate: ' + str(fail_counter) + ' metrics out of ' + str(total_metrics) + ' with ' + str(total_protocol) + ' protocols')
     with open('bad_metrics.txt', 'w+') as bad_metric_records:
         bad_metric_records.write(str(bad_metric_list))
     # Mar 28 Completed with fail rate: 63metrics out of 2108 with 322 protocols

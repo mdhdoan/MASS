@@ -80,10 +80,10 @@ if __name__ == '__main__':
     
     topics, probs = topic_model.fit_transform(documents, embeddings)
 
-    labels = ['Anadromous fish telemetry using PIT tags', 'Columbia River Salmonid Ecology and Monitoring', 'eDNA extraction and Purification', 'Fish Age Estimation in Fisheries',
-              'Fish Passage Criteria Evaluation', 'Fish Seining Techniqies', 'Fishing: Gill Nets and Tangle Nets in Fisheries','Genetic Population Structure and Heterozygosity Analysis',
-              'Riparian Vegetaion monitoring in Watersheds', 'Salmon Research in Columbia River Plume', 'Salmonid Tagging Procedures', 'Streamflow Measurement in Streams',
-              'Topographic RBT tools for ArcGIS', 'Vegetaion Estimates: Woody and Non-Woody coverage', 'Wetland Habitat and Waterfowl Management', 'Woody Debris Tallying']
+    labels = ['Anadromous fish telemetry using PIT tags', 'Columbia River Salmonid Ecology and Monitoring', 'eDNA extraction and Purification', 'Fish Age Estimation in Fisheries', 
+          'Fish Passage Criteria Evaluation', 'Fish Seining Techniques', 'Fishing: Gill Nets and Tangle Nets in Fisheries', 'Genetic Population Structure and Heterozygosity Analysis', 
+          'Riparian Vegetation monitoring in Watersheds', 'Salmon Research in Columbia River Plume', 'Salmonid Tagging Procedures', 'Streamflow Measurement in Streams', 
+          'Topographic RBT tools for ArcGIS', 'Vegetation Estimates: Woody and Non-Woody coverage', 'Wetland Habitat and Waterfowl Management', 'Woody Debris Tallying']
 
     # System prompt describes information given to all conversations
     ontology_prompt_template = """

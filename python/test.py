@@ -68,13 +68,13 @@ if __name__ == '__main__':
     prompt = PromptTemplate(input_variables=["method"], template=prompt_template)
     llm_chain = LLMChain(llm=llm, prompt=prompt)
     # print(len(documents))
-    sorted_methods = {}
     count = 0
     for title, method in documents.items():
+        sorted_methods = {}
         result = llm_chain.invoke({'method': method})
         sorted_methods[title] = result['text']
         count = increase_count(count, '.')
-    with open('sorted_methods.json', 'w+') as result_file:
-        ontology_data = json.dumps(sorted_methods, indent = 2)
-        result_file.write(ontology_data)
+        with open('sorted_methods.json', 'a+') as result_file:
+            ontology_data = json.dumps(sorted_methods, indent = 2)
+            result_file.write(ontology_data)
     

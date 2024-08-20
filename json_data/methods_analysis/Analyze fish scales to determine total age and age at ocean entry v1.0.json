@@ -1,0 +1,9 @@
+{
+  "abstractText": "Use scale analysis to determine total age, brood year, and age of ocean entry of adult fish.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/7119",
+  "title": "Analyze fish scales to determine total age and age at ocean entry v1.0",
+  "id": 7119,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Craig Contor",
+  "ownerEmail": "craigcontor@ctuir.org"
+}

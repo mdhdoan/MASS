@@ -1,0 +1,9 @@
+{
+  "abstractText": "Wood, as described in this method, is determined by the amount of Large Woody Debris (LWD) within the reach. Dimensions of what constitutes LWD are defined here as pieces >0.1 m diameter and >2 m in length. Wood is counted if any part of the piece is within bankfull width and bankfull height. Numbers and volumes of LWD corresponding to index levels are based on Peterson et al. (1992), May et al. (1997), Hyatt and Naiman (2001), and Collins et al. (2002). Ranges for index values are based on LWD pieces per channel width and presence of jams (on larger channels >45 m). A jam is an accumulation of 5 or more pieces of LWD.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/3970",
+  "title": "Rapid Assessment Wood v1.0",
+  "id": 3970,
+  "type": "Data Collection",
+  "ownerName": "Sonya Schaller",
+  "ownerEmail": "sonya.schaller@colvilletribes.com"
+}

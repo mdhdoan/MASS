@@ -1,0 +1,9 @@
+{
+  "abstractText": "Condition sampling will occur daily as part of the SMP sampling. Theprimary role of the condition monitoring is to identify the proportion of each species ofmigrant juvenile salmon that are descaled or have significant injuries indicative ofproblems in fish passage at dams such as debris in fish bypass apparatus. Secondarily, thedata collected on fish disease, predation and other injuries will provide a relativeindication of the health of fish passing at the dams. While external signs of disease maybe a useful indicator of increased risk of mortality to out-migrants these symptoms willbe collected primarily to provide relative information about fish health and should not beconsidered definitive of overall smolt population health until further studies are availableto support that claim.Other information that will be collected as part of detailed condition sampling includeslength and weight data, detailed information of fish marks, such as fin clips, presence ofcoded wire tags, pit-tags or other external marks such as visible implant or elastomertags. At transportation sites length and weight data are necessary as part of the dailyestimates of barge loading.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1649",
+  "title": "Condition Sampling Protocol, Smolt Monitoring Program v1.0",
+  "id": 1649,
+  "type": "Data Collection",
+  "ownerName": "Erin Cooper",
+  "ownerEmail": "ecooper@fpc.org"
+}

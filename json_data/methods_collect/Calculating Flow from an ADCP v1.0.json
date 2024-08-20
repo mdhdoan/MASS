@@ -1,0 +1,9 @@
+{
+  "abstractText": "The purpose of this method is to processAcoustic Doppler Current Profiler (ADCP) data and create rating equations used to calculate flow.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/7157",
+  "title": "Calculating Flow from an ADCP v1.0",
+  "id": 7157,
+  "type": "Data Collection",
+  "ownerName": "Brett Larsen",
+  "ownerEmail": "brett.larsen@water.ca.gov"
+}

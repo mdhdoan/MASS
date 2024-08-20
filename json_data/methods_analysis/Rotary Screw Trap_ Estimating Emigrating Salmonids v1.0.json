@@ -1,0 +1,9 @@
+{
+  "abstractText": "The number of juvenile salmonids migrating downstream past a rotary screw trap in a given period is estimated using an estimate of trap efficiency (Method ID: 134) and the trap catch during the period. Period estimates and their associated variances are combined over a migration season to estimate the number of migrants in a migration season with an associated confidence interval. Migrant abundance is estimated by conducting weekly trap efficiency tests throughout the migratory year at the trap site.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1615",
+  "title": "Rotary Screw Trap: Estimating Emigrating Salmonids v1.0",
+  "id": 1615,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Polly Gibson",
+  "ownerEmail": "polly.p.gibson@odfw.oregon.gov"
+}

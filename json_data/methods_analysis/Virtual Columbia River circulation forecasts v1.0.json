@@ -1,0 +1,9 @@
+{
+  "abstractText": "This method involves the short-term (hours/days ahead) prediction of circulation in the Columbia River plume. These circulation forecasts can be used to guide fisheries cruises (e.g., where the advanced knowledge of the location of plume fronts is useful), or to predictocean entry conditions for barged or lower-estuary hatchery-released smolts. Simulations are conducted within a modeling system maintained at OHSU, the Virtual Columbia River.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1750",
+  "title": "Virtual Columbia River: circulation forecasts v1.0",
+  "id": 1750,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "PNAMP Support",
+  "ownerEmail": "pnamp.mm@gmail.com"
+}

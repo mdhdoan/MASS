@@ -1,0 +1,9 @@
+{
+  "abstractText": "This method describes the process used by DWR to install and configurea side looking, permanetly mounted, Acoustic Doppler Current Profiler (ADCP).",
+  "url": "http://www.monitoringresources.org/api/v1/methods/7156",
+  "title": "ADCP Installation & Configuration v1.0",
+  "id": 7156,
+  "type": "Data Collection",
+  "ownerName": "Brett Larsen",
+  "ownerEmail": "brett.larsen@water.ca.gov"
+}

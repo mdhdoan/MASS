@@ -1,0 +1,9 @@
+{
+  "abstractText": "This is a measure of the volume of large woody debris (LWD) of all sizes within the study reach. LWD are counted and grouped within various size classes (diameter and length). The volume of each piece of LWD is estimated by the standard formula for volume of a cylinder, which is the area of the base (pi times the radius squared) times the length. The LWD volumes are summed to calculate site LWD volume. The site LWD volume calculations follow the methodology for CHaMP Large Wood Volume Calculation (Method ID:872). The site LWD volume is then multiplied by the log base 10 (log10) to report the site metric Log10of Volume of LWD.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/5276",
+  "title": "Log10 Volume of LWD v1.0",
+  "id": 5276,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Rachael Katz",
+  "ownerEmail": "rachael.katz@tetratech.com"
+}

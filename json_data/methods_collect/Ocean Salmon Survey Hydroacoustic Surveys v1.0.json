@@ -1,0 +1,9 @@
+{
+  "abstractText": "This describes the standard method developed to perform hydroacoustic surveys used to assess fish populations in the ocean. These surveys are used to collect data, in the form of echograms, that are used to estimate fish densities and target strength distributions. These estimates are then used in conjunction with trawl data to generate age and origin specific abundance estimates.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1703",
+  "title": "Ocean Salmon Survey Hydroacoustic Surveys v1.0",
+  "id": 1703,
+  "type": "Data Collection",
+  "ownerName": "Cheryl Morgan",
+  "ownerEmail": "cheryl.morgan@oregonstate.edu"
+}

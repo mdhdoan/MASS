@@ -1,0 +1,9 @@
+{
+  "abstractText": "The intent of this method is to estimate the grain size distribution and fine sediment concentration of the streambed, 0-20cm below the bed surface, in spawning areas of mainstem rivers and their tributaries. See method 5479 for field collection procedures.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/6918",
+  "title": "Bulk Streambed Sediment Sampling - Lab v1.0",
+  "id": 6918,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Sonya Schaller",
+  "ownerEmail": "sonya.schaller@colvilletribes.com"
+}

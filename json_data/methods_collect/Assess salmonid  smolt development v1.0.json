@@ -1,0 +1,9 @@
+{
+  "abstractText": "Smoltification is the physiological, morphological and behavioral process that prepares a freshwater adapted parr for life as a seawater adapted smolt. There are three common smolt indicators: #1) smolt appearance (scale from 1-3), #2) change in condition factor or body shape (K) and #3) measurement of gill Na+/K+ ATPase activity. The condition factor of salmonids typically decreases from relatively high levels in the winter to low levels during smoltification in the spring as the animals become more streamlined (Hoar 1988). It is commonly held that ATPase activity provides one of the best physiological indicators of smolt development and positive correlations between ATPase activity and SARs have also been demonstrated in numerous studies (Zaugg 1989; Zaugg and Mahnken 1991; Ewing and Birks 1992; Beckman et al. 1999). Smolt development is best examined as a profile of change over time several months and during smoltification for comparing treatment and or release groups.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/368",
+  "title": "Assess salmonid  smolt development v1.0",
+  "id": 368,
+  "type": "Data Collection",
+  "ownerName": "Donald Larsen",
+  "ownerEmail": "don.larsen@noaa.gov"
+}

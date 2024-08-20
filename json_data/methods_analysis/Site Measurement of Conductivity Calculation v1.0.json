@@ -1,0 +1,9 @@
+{
+  "abstractText": "Measure of the concentration of ionized materials in water, or the ability of water to conduct electrical current.Site conductivity ismeasured at the upstream end of each site and this single measurement will be reported as the site-level metric.The CHaMP - Water Chemistry Method provides background on collection of the measurement data that are analyzed for this calculation. See - http://www.monitoringmethods.org/Method/Details/848",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1248",
+  "title": "Site Measurement of Conductivity Calculation v1.0",
+  "id": 1248,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Steve Rentmeester",
+  "ownerEmail": "steve@sitkatech.com"
+}

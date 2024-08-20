@@ -1,0 +1,9 @@
+{
+  "abstractText": "Method for determining channel type using Rosgen and Montgomery-Buffington channel classification systems.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/216",
+  "title": "Habitat-Channel Type v1.0",
+  "id": 216,
+  "type": "Data Collection",
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org"
+}

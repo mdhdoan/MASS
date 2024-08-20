@@ -1,0 +1,9 @@
+{
+  "abstractText": "Determine if the transect and associated bank stability is in an erosional or depositional area, and evaluate bank stability. These indicators are measured at a minimum of 11 main and 10 intermediate transects on the left and right banks.The bank stability area is defined as follows:1. The plot extends up the bank from the scour line to the lip of the first flat depositional feature at or above bankfull.2. The plot extends parallel to the stream 25cm up- and downstream of the transect flag (50cm wide total). Plot width can be delineated with a depth rod.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/7026",
+  "title": "Bank Stability based on Erosional Features v1.0",
+  "id": 7026,
+  "type": "Data Collection",
+  "ownerName": "PNAMP Support",
+  "ownerEmail": "pnamp.mm@gmail.com"
+}

@@ -1,0 +1,9 @@
+{
+  "abstractText": "Growth hormone (GH) is a pituitary factor common to all vertebrate animals (for review see Dickhoff et al 1997).  In salmonids, GH levels are secreted in response to changes in season, water temperature and nutrition.  GH, in turn, stimulates production and release of another hormone, insulin-like growth factor-I (IGF-I) from the liver that stimulates cell growth and differentiation in all vertebrate tissues (Daughaday and Rotwein, 1989).  Correspondingly, plasma IGF-I levels are positively correlated with growth rate in juvenile salmonids (Beckman and Dickhoff 1998; Beckman et al. 1998, 1999; 2000; 2004 a and b; Pierce et al 2001; Larsen et al. 2006) and have been positively correlated with smolt-to-adult return rates (SARs) as well (Beckman et al 1999).  Plasma IGF-1 levels are not useful for assessing growth in adult salmonids due to interactions with reproductive steroids (Larsen et al. 2004).",
+  "url": "http://www.monitoringresources.org/api/v1/methods/650",
+  "title": "Assessing growth in juvenile salmon using plasma Insulin-like growth factor-I (IGF-1) v1.0",
+  "id": 650,
+  "type": "Data Collection",
+  "ownerName": "Donald Larsen",
+  "ownerEmail": "don.larsen@noaa.gov"
+}

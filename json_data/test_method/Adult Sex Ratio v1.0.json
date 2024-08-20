@@ -1,0 +1,9 @@
+{
+  "abstractText": "Adult sex ratio is the proportion of males to females or conversely females to males in a population. For example, in anadromous salmonid populations this ratio is determined from adult returnsto their natal streams or hatcheries in a given year, or vice versa. Counts of males and females can be taken during weir sampling, adult trap sampling, carcass surveys, or any other sampling where the sex of the individuals can be readily determined.Details of sexdetermination methods of anadromous adults is detailed inmethod #1429. Adult sex ratios are important for estimating the number of redds constructed,resultant egg deposition and prospective juvenile production.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/454",
+  "title": "Adult Sex Ratio v1.0",
+  "id": 454,
+  "type": "Data Collection",
+  "ownerName": "PNAMP Support",
+  "ownerEmail": "pnamp.mm@gmail.com"
+}

@@ -1,0 +1,9 @@
+{
+  "abstractText": "Fall Chinook are trapped at Lower Granite Dam. An automated sort by code system shunts specific returns of PIT tagged fish, tagged as juveniles, into the trap.Trapped fish are loaded into an anesthetic tank and calmed down with Aqui-S. Each fish is scanned for a PIT tag. Anaction code displays on a monitor screen when a PIT tagged fish selected as part of the radio tagging study are scanned, indicating that scales need to be collected from the fish and a radio tag needs to be inserted into the fish. This is how fish are identified at the trap for radio tagging purposes and tagged.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/4242",
+  "title": "Radio Tagging via the Esophagus v1.0",
+  "id": 4242,
+  "type": "Data Collection",
+  "ownerName": "Deborah Milks",
+  "ownerEmail": "deborah.milks@dfw.wa.gov"
+}

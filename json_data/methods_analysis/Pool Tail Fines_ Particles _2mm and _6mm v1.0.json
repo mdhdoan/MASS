@@ -1,0 +1,9 @@
+{
+  "abstractText": "These metrics are the average percentage of pool tail substrates comprised of fine sediment <2mm and <6mm.Percent composition of fines (<6mm) and sand (<2mm) are visually estimated as a percentage of the total substrate for each habitat unit within the site.The data collection method is described at:https://www.monitoringmethods.org/Method/Details/5329",
+  "url": "http://www.monitoringresources.org/api/v1/methods/868",
+  "title": "Pool Tail Fines: Particles <2mm and <6mm v1.0",
+  "id": 868,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Steve Rentmeester",
+  "ownerEmail": "steve@sitkatech.com"
+}

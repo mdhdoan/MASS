@@ -1,0 +1,9 @@
+{
+  "abstractText": "Habitat preference data, except during spawning, for species like Smallmouth Bass, Walleye, and Northern Pikeminnowin large altered systems like the Columbia River is not well described in the literature. Based on the habitat stratification design, a species-specific habitat preference classification scheme will be developed. See uploaded file for habitat classes.It is possible that a piscivore abundance model stratified by habitat type will improve the precision of the abundance estimates. Our year one GRTS study design will allow the collection of fish density by habitat type and will ultimately allow us to develop habitat-based abundance estimates.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/7074",
+  "title": "Habitat Classification at Specific Points v1.0",
+  "id": 7074,
+  "type": "Data Collection",
+  "ownerName": "Matt Polacek",
+  "ownerEmail": "polacmcp@dfw.wa.gov"
+}

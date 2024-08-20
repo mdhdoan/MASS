@@ -1,0 +1,9 @@
+{
+  "abstractText": "Sturgeon movements are currently monitored throughout the Kootenai River/Kootenay Lake system withVemco VR2Wpassive telemetry techniques. The purpose of which is to evaluate large-scale movements and fish responses to Libby dam operations that directly impact temperature, flow, and river stage.Determining habitat usage by adult spawning sturgeon on spawningsubstrate habitatenhancement projects is a significant aspect of this monitoring plan and the overall recovery goal.To do this, we will use a VPS system which consists of off the shelf equipment used in conventional VR2W-based studies.The system consists of underwater acoustic transmitters and receivers and a receiver data processing service provided by VEMCO. On a periodic basis, we collect receiver data, and send it to VEMCO for position resolution and to determine if the system is functioning properly. VEMCO will provide interim calculated positions, and may recommend changes to the design of the system to address performance issues. At the end of the study, once all receiver data has been collected, VEMCO will provide a final report and calculated positions. For most studies, VEMCO expects position accuracy similar to that provided by the GPS standard positioning service: 95% of positions within a 15-metre error circle. We will analyze data from aVemco VPS system to determine habitat use.Two habitat enhancement projects are scheduled to be completedby the spring 2015 sturgeon spawning season. Data collected and analyzed in 2014 will serveas pre-treatment data.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/4185",
+  "title": "Adult sturgeon use of habitat enhancement projects v1.0",
+  "id": 4185,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Ryan Hardy",
+  "ownerEmail": "ryan.hardy@idfg.idaho.gov"
+}

@@ -1,0 +1,9 @@
+{
+  "abstractText": "The primary objective for weir operationsis to utilize it as an adult Summer/Fall Chinook Salmon management tool, to meet broodstock needs of the hatchery program, and to meet the proportion of hatchery-origin spawners (pHOS)and the proportion ofnatural influence (PNI) targets for the population.The fate of fish captured in the weir trap consists of the following:1. Hatchery-origin Chinook will be; (a) retained to reduce escapement of hatchery fish and reduce pHOS and increase PNI to achieve population goals(b) retained for use in Chief Joseph Hatchery segregated program broodstock if needed; or (c) released upstream of the weir for continued migration to the spawning grounds if overall run size is relatively low (<5,000) and pHOS is also low (<20%).2. Natural-origin Chinook will be; (a) released upstream of the weir for continued migration to the spawning grounds; or (b) retained for use in Chief Joseph Hatchery integrated program broodstock.Weir effectiveness is a measure of the proportion of hatchery Okanogan summer/fall Chinook encountered in the weir trap, becoming available for removal from the population as a form of adult fish management.After spawning ground surveys are completed, all ofthe weirtrapping and estimated Okanogan spawning escapement informationis gathered to calculate the weir effectiveness.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/5522",
+  "title": "Calculate Effectiveness of an Adult Chinook Temporary Weir v1.0",
+  "id": 5522,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Andrea Pearl",
+  "ownerEmail": "andrea.pearl@colvilletribes.com"
+}

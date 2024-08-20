@@ -1,0 +1,9 @@
+{
+  "abstractText": "Calculate side channel length (SCLength) as a measure of off-channel habitat quantity and for use in calculating side channel ratio (SCRatio).",
+  "url": "http://www.monitoringresources.org/api/v1/methods/6964",
+  "title": "Side channel length v1.0",
+  "id": 6964,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Casey Justice",
+  "ownerEmail": "jusc@critfc.org"
+}

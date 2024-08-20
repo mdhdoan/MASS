@@ -1,0 +1,9 @@
+{
+  "abstractText": "Redd count ground surveys consist of one to two people walking along the streambed in an upstream or downstream direction enumerating the number of redds. The number of people required to conduct a survey depends upon the width of the stream. Small streams (average wetted width  30 feet) are surveyed by one person and large streams (average wetted width >30 feet) are surveyed by two or more people. Surveys are normally conducted from mid-morning until late afternoon, on clear, sunny days when redd visibility is good and avoided on extremely overcast days, in the rain or when water clarity or overhead light conditions compromise the observers ability to detect redds.Stream transects are surveyed once (i.e., single pass) or as a multiple-pass surveys which allow surveyors to observe the progression of redd construction. Multiple-pass surveys are conducted in intensively monitored streams and preferred over single-pass surveys because they minimize redd enumeration errors in heavily spawned areas, provide an indication of spawn timing, and generate more carcasses which improve the biological representation of the overall return.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/6641",
+  "title": "Redd Count Ground Surveys v1.0",
+  "id": 6641,
+  "type": "Data Collection",
+  "ownerName": "Ryan Kinzer",
+  "ownerEmail": "ryank@nezperce.org"
+}

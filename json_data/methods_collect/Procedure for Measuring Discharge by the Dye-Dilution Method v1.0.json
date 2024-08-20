@@ -1,0 +1,9 @@
+{
+  "abstractText": "The only dye-dilution method that will be discussed here is the constant-rate-injection method. The sudden-injection method is not considered here because not only is it usually a less accurate method, but it is extremely laborious when dye is used and it can be applied with less effort by using common salt as a tracer. As mentioned earlier, the sudden-injection method requires that the entire concentration-time curve be defined, and for that purpose it is desirable to sample the stream concentration at intervals of less than a minute during periods of rapidly changing concentration. If the dye dilution technique is used, it means that within a minute or so, grab samples must be obtained at all three sampling points in the sampling cross section. Furthermore, because it is recommended that at least 20 samples be taken at each sampling point to define the concentration-time curve, it means that a minimum of 60 stream samples must be analyzed by fluorometer, along with calibration and background samples. In short, it is not practical to use dye as a tracer in the sudden-injection method. Although recording fluorometers with flow-through doors are available, they seldom provide the precision required for a discharge measurement. When salt is used as the tracer, conductivity readings can be obtained at a point in a matter of a few seconds, by using a temperature-compensated probe and portable meter.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/5440",
+  "title": "Procedure for Measuring Discharge by the Dye-Dilution Method v1.0",
+  "id": 5440,
+  "type": "Data Collection",
+  "ownerName": "PNAMP Support",
+  "ownerEmail": "pnamp.mm@gmail.com"
+}

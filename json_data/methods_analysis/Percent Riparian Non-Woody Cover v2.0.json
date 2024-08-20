@@ -1,0 +1,9 @@
+{
+  "abstractText": "Estimate of the percent of non-woody riparian coverage.Estimates of non-woody cover are taken at 5 transects (1, 6, 11, 16, 21) on the right and left bankwithin a10mx10mplot beginning atbankfull. Estimates are made of the percent of non-woody cover forthe groundstory, understory and canopy cover.The CHaMP - Riparian Structure Method provides background on the measurements that are analyzed for this calculation. See -http://www.monitoringmethods.org/Method/Details/4053CHaMP method follows the Peck et al. (2001) methods used by the EMAP.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/6742",
+  "title": "Percent Riparian Non-Woody Cover v2.0",
+  "id": 6742,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Kaylyn Costi",
+  "ownerEmail": "kaylyncosti@ctuir.org"
+}

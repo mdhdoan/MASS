@@ -1,0 +1,9 @@
+{
+  "abstractText": "2-dimentional habitat mosaic maps produced from imagery collected with recreational grade side scan sonar imaging systems have been usedin management of natural resources to stratify sampling designs, identifiy spawning substrate for fish, determine areal coverage of benthic substrates, and track morphological changes in channel topography(Smit et al. 2014, Smit and Kaeser 2016, Litts and Kaeser 2016, Kaeser t al. 2012).",
+  "url": "http://www.monitoringresources.org/api/v1/methods/6821",
+  "title": "Benthic substrate classification using georeferenced sonar imagery v1.0",
+  "id": 6821,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Reuben Smit",
+  "ownerEmail": "reuben.smit@spokanetribe.com"
+}

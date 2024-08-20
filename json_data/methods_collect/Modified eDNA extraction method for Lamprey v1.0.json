@@ -1,0 +1,9 @@
+{
+  "abstractText": "Monitoring of environmental DNA (eDNA) is a cost effective, efficient, noninvasive tool that can be usedto monitor Pacific Lamprey translocation programs as part of a pre- and post- release monitoring program, recolonization after barrier removals,presence/absence in translocation and control streams, and seasonal differences in occupancy. Current eDNA methods can distinguish between Entosphenus and Lampetra genera (Carim et al. 2017; Grote and Carim 2017). Environmental DNA is useful in detecting invasive species, species present in low abundanceand to monitorthe extent of a species ranges (Carim et al. 2016; Ostberg et al. 2019).To develop an eDNA assay specific to Pacific lamprey, DNA of the mitochondrial cytochrome c oxidase I (COI) of Pacific lamprey and unidentified freshwater lamprey was sequenced (Carim et al. 2016).eDNA extraction protocol for detection of eDNA in water samples to monitor for species detection/non detection and distribution.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/6909",
+  "title": "Modified eDNA extraction method for Lamprey v1.0",
+  "id": 6909,
+  "type": "Data Collection",
+  "ownerName": "Laurie Porter",
+  "ownerEmail": "porl@critfc.org"
+}

@@ -1,0 +1,9 @@
+{
+  "abstractText": "Active channel width provides a reference to stream size regardless of flowlevel at the time of the survey. It is the scale used to evaluate all stream andvalley characteristics. For example, this information is used to estimate valleywidth index and determine appropriate types of enhancement efforts.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/3860",
+  "title": "Channel Metrics: Active Channel Width (ACW) v1.0",
+  "id": 3860,
+  "type": "Data Collection",
+  "ownerName": "Charlie Stein",
+  "ownerEmail": "charlie.stein@oregonstate.edu"
+}

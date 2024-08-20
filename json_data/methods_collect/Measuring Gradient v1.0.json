@@ -1,0 +1,9 @@
+{
+  "abstractText": "Surface gradient is used to model stream reach physical processes such as bed load movement. The rise in elevation between two transects on a stream or river is first determined, then it is divided by the specified length between the two transects (rise over run).",
+  "url": "http://www.monitoringresources.org/api/v1/methods/48",
+  "title": "Measuring Gradient v1.0",
+  "id": 48,
+  "type": "Data Collection",
+  "ownerName": "John Arterburn",
+  "ownerEmail": "john.arterburn@colvilletribes.com"
+}

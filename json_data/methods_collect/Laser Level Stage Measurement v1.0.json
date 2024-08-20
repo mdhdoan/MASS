@@ -1,0 +1,9 @@
+{
+  "abstractText": "Laser levels are used to measure stage height from a known elevation and allow a check on the vertical staff gauge elevation.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1674",
+  "title": "Laser Level Stage Measurement v1.0",
+  "id": 1674,
+  "type": "Data Collection",
+  "ownerName": "Troy Baker",
+  "ownerEmail": "troy.baker@wwbwc.org"
+}

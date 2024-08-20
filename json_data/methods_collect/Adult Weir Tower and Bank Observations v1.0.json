@@ -1,0 +1,9 @@
+{
+  "abstractText": "Document an estimated number of fish holding below the weirInformation collected on tower and bank observations are assessed daily for potential negative affects of the weir on migrating salmon. This may include observations that indicate the weir or its' operations may be causing delay in passage. In this case, the process of adaptive management for operation of the weir will be conducted through a Technical Oversight Group (TOG). Field technicians will report a critical situation to the project lead and provide documentation of a potential negative impact to passage delay (e.g. approach and regress, holding for extended periods of time). If the majority of fish estimated during daylight tower and bank observations approach the weir, but return downstream (drop back), with no relative passage during night trapping hours in a 48 hour operational period or the majority of fish estimated during daylight tower and bank observations approach the weir and hold directly below the weir for an extended period of time (e.g. 48 hours), the Project Lead will consult with the TOG. The TOG may require mitigative action, in which case, the Project Lead will implement and monitor the effect.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/5516",
+  "title": "Adult Weir Tower and Bank Observations v1.0",
+  "id": 5516,
+  "type": "Data Collection",
+  "ownerName": "Andrea Pearl",
+  "ownerEmail": "andrea.pearl@colvilletribes.com"
+}

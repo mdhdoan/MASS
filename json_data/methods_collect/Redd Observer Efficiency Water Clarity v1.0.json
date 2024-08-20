@@ -1,0 +1,9 @@
+{
+  "abstractText": "Redd counts are an important tool used to monitor salmonid populations. A key assumption of redd counts is that they are representative of the actual number of redds. However, numerous factors can potentially affect the detectability of redds and lead to errors in total redds counts. One of these factors is water clarity, which can severely limit an observers ability to complete reliable counts. Water clarity must be sufficient to enable surveyors to see the stream bottom (i.e., redds) in the deepest habitats and/or from several meters away. Routinely measuring and recording water clarity during redd surveys will allow assessment of water conditions within and among spawning seasons.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/4162",
+  "title": "Redd Observer Efficiency: Water Clarity v1.0",
+  "id": 4162,
+  "type": "Data Collection",
+  "ownerName": "Mike Hughes",
+  "ownerEmail": "michael.hughes@dfw.wa.gov"
+}

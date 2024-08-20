@@ -1,0 +1,9 @@
+{
+  "abstractText": "Sampling procedurefor streams where beaver activity is present, including reach setup, photos, water quality and temperature, macroinvertebrate integrity,pool dimensions and physical habitat.Note: Typicallly this method would be split into multiple methods, but it makes more sense to clump multiple methods together under the umbrella of in areas with beaver activity.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/7002",
+  "title": "Sampling Reaches with Beaver Activity v1.0",
+  "id": 7002,
+  "type": "Data Collection",
+  "ownerName": "PNAMP Support",
+  "ownerEmail": "pnamp.mm@gmail.com"
+}

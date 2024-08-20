@@ -1,0 +1,9 @@
+{
+  "abstractText": "Fishery managers and researchers often need to estimate the abundance of pelagic fish (e.g.kokanee) in a lake or reservoir to determine the effect of a managementaction or mitigation effort. The use ofhydroacousticsis a nonintrusive method that allows the researcher to sample large volumes of water in a relatively short time (Simmonds and MacLennan 2005). Hydroacoustics has proven to be a reliable technique for estimating the abundance of fish populations that occur in open water and are not found close to the bottom or surface (SimmondsandMacLennan2005). This technique is particularly useful when performed in conjunctionwith other techniques, such as trawl or gillnetsurveys, in order to verify species composition, age and size structures of the target population.This describes the standard method developed to perform hydroacoustic surveys used to assess kokanee populations in Idaho, but may be useful for other species and waters. These surveys are used to collect data, in the form of echograms, that are used to estimate fish densities and target strength distributions. These estimates are typically used in conjunction with trawl data to generate age and origin specific abundance estimates.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1001",
+  "title": "Hydroacoustic survey to assess pelagic fish populations v1.0",
+  "id": 1001,
+  "type": "Data Collection",
+  "ownerName": "Sean Wilson",
+  "ownerEmail": "sean.wilson@idfg.idaho.gov"
+}

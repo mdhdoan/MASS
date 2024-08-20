@@ -1,0 +1,9 @@
+{
+  "abstractText": "Objective: measure the vertical difference or drop between the water surface at the Top of the Reach (TR) and the water surface at the Bottom of the Reach (BR), and calculate the gradient (elevation change / reach length).",
+  "url": "http://www.monitoringresources.org/api/v1/methods/102",
+  "title": "Measuring Change in Reach Elevation v1.0",
+  "id": 102,
+  "type": "Data Collection",
+  "ownerName": "Jacque Schei",
+  "ownerEmail": "jschei@usgs.gov"
+}

@@ -1,0 +1,9 @@
+{
+  "abstractText": "To assess the expected accuracy of genetic stock identification with a given baseline data set, geneticists working on Pacific salmon typically run two types of tests using genetic software.  The first test is 100% simulations which involve repeatedly simulating mixtures by resampling from the baseline, simulating new baselines by resampling from the baseline, and analyzing the simulated mixtures with the simulated baselines. A second test, called leave-one-out (LOO) involves removing each individual from the baseline (one at a time) and and estimating their population (or reporting group) of origin using the method of Rannala and Mountain (1997).",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1346",
+  "title": "Predicting the accuracy of genetic stock identification v1.0",
+  "id": 1346,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Matthew Campbell",
+  "ownerEmail": "matthew.campbell@idfg.idaho.gov"
+}

@@ -1,0 +1,9 @@
+{
+  "abstractText": "Objective: Quantify change in elevation at waters surface between the top andbottom boundaries of the reach.Elevation Change Definition: vertical difference or drop between the water surface at the Top of the Reach (TR) and the water surface at the Bottom of the Reach (BR).Gradient Definition: the percent slope, at water surface, of the stream reach (elevationchange/reach length).",
+  "url": "http://www.monitoringresources.org/api/v1/methods/6868",
+  "title": "Measuring Change in Reach Elevation v2.0",
+  "id": 6868,
+  "type": "Data Collection",
+  "ownerName": "PNAMP Support",
+  "ownerEmail": "pnamp.mm@gmail.com"
+}

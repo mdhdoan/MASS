@@ -1,0 +1,9 @@
+{
+  "abstractText": "Substrate data provides information about potential amounts and quality ofspawning and rearing habitat, turbidity (i.e., silt overloads), and streamflow.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/3879",
+  "title": "Percent Substrate Distribution in Habitat Units v1.0",
+  "id": 3879,
+  "type": "Data Collection",
+  "ownerName": "Charlie Stein",
+  "ownerEmail": "charlie.stein@oregonstate.edu"
+}

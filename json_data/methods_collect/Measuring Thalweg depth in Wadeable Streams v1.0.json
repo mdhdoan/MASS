@@ -1,0 +1,9 @@
+{
+  "abstractText": "This method explains how to collect incremental depth measurements for the Status and TrendsProgram when traversing the length of the stream site. It also describes assessing the presence ofbars and edge pools. Observations in this method will be restricted to the main channel.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/3847",
+  "title": "Measuring Thalweg depth in Wadeable Streams v1.0",
+  "id": 3847,
+  "type": "Data Collection",
+  "ownerName": "Glenn Merritt",
+  "ownerEmail": "glenn.merritt@ecy.wa.gov"
+}

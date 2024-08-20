@@ -1,0 +1,9 @@
+{
+  "abstractText": "A sample (site) weight isused with aGeneralized Random Tessellation Stratified (GRTS) - based sampling design andcan be thought of as anexpansion factor, or the number of km that a particular site represents when expanded to the whole spawning distribution, estimation area, or by strata (group).This metric is used when calculating Total Spawner Abundance ( method ID: 5409)",
+  "url": "http://www.monitoringresources.org/api/v1/methods/5437",
+  "title": "Sample (Site) Weight v1.0",
+  "id": 5437,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "PNAMP Support",
+  "ownerEmail": "pnamp.mm@gmail.com"
+}

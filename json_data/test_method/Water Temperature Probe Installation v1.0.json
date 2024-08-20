@@ -1,0 +1,9 @@
+{
+  "abstractText": "At the site, search for a large rock or boulder (charismatic megaboulders are best) that will be immobile during large floods and is easy for others to identify on subsequent site visits. Finding a good rock is the most important step to a successful sensor installation. The best rocks are large enough that they often protrude a foot or more above the low flow water surface and wide enough that they can effectively shield the sensor from moving rocks or debris during floods. Ideal site characteristics downstream of large rocks are pockets of relatively calm water with smaller substrate sizes. If large rocks and cobbles are on the downstream side, similarly large substrates are likely to move there again during the next flood and could dislodge the sensor. Finally, the rock should provide a relatively flat downstream attachment surface that is deep enough to remain submerged and in or near flowing water for the entire year. Large substrates suitable for attachment may be relatively rare within low-gradient, meadow reaches, and in these instances, seek steeper channels immediately up or downstream of the meadow. Immobile structures like bridge footings may be considered but we do not recommend attachment to large logs, as they may decay over time.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/846",
+  "title": "Water Temperature Probe Installation v1.0",
+  "id": 846,
+  "type": "Data Collection",
+  "ownerName": "Boyd Bouwes",
+  "ownerEmail": "boydbouwes@gmail.com"
+}

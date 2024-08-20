@@ -1,0 +1,9 @@
+{
+  "abstractText": "Standardizing sampling effort, techniques, and gear is critical to allow for comparisons of data among field stations. A suite of environmental measurements are recorded at every site immediately before sampling for fishes. Measurements or observations are taken at the anticipated midpoint of a run (electrofishing, trawling) or at the net location for sampling locations with stationary gear (fyke netting, hoop netting).Studies have shown that fish species diversity is significantly higher in vegetated areas than in unvegetated areas andspecies richness are positively related to habitat complexity (Petry et al. 2003).Macrophytes may influence habitat selection and ecological relationships of fishes (Savino and Stein 1989; Heck and Crowder 1991). Piscivores can induce prey to seek shelter behind roots, leaves and stems functioning as visual and physical barriersfrom predation (Savino and Stein 1989, Petry et al. 2003).Vegetation coverage is an important observation when conducting long term monitoring because it provides information on the habitat type and potential fish assemblage.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/5535",
+  "title": "Large River Monitoring Qualitative Vegetation Coverage Appraisal v1.0",
+  "id": 5535,
+  "type": "Data Collection",
+  "ownerName": "Sam Cimino",
+  "ownerEmail": "scimino@usgs.gov"
+}

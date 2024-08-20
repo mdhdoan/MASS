@@ -1,0 +1,9 @@
+{
+  "abstractText": "Thermal regimes in rivers and streams are fundamental determinants of biological processes and are often monitored for regulatory compliance. Here, we describe a simple technique for establishing annual monitoring sites that uses underwater epoxy to attach miniature sensors to large rocks and cement bridge supports, which then serve as protective anchors.Isaak and Horan (2011) assessed many underwater epoxies in laboratory and field trials to identify one with the best properties for use in this protocol. The FX-764 Hydro-Ester Splash Zone Epoxy manufactured by Fox Industries (Baltimore, MD, http://www.foxind.com/) was chosen in these trials because its adhesive strength was far superior to other epoxies, and it had a putty-like consistency that made it easy to use in the field. A variety of miniature temperature sensors are available that could be used with this protocol (Dunham and others 2005; USEPA In Press). Our preferred sensor is the TidbiT v2 manufactured by Onset Computer Corporation (Bourne, MA, http://www.onsetcomp.com/) because of its small size, accuracy (+0.2C), low annual drift rate (0.1C/year), large memory and long battery life (5+ years), waterproof casing, and ease of data retrieval with a portable data shuttle or field computer.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/4132",
+  "title": "Using Underwater Epoxy to Install Annual Temperature Monitoring Sites in Rivers and Streams v1.0",
+  "id": 4132,
+  "type": "Data Collection",
+  "ownerName": "PNAMP Support",
+  "ownerEmail": "pnamp.mm@gmail.com"
+}

@@ -1,0 +1,9 @@
+{
+  "abstractText": "This method was designed to generate aerial estimates of canopy, understory andgroundcoverby various morphological groups of vegetation. Although the method is subjective to crew variability and estimation abilities, it does provide general information on bank-specific vegetation types.Modified methodfrom Kaufmann et al. (1999) and Peck et al. (2001)",
+  "url": "http://www.monitoringresources.org/api/v1/methods/223",
+  "title": "Habitat-Riparian Assessment-Canopy, Understory and Groundcover Aerial Estimates v1.0",
+  "id": 223,
+  "type": "Data Collection",
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org"
+}

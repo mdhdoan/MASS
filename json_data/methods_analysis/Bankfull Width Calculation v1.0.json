@@ -1,0 +1,9 @@
+{
+  "abstractText": "The River Bathymetry Toolkit (RBT) is a suite of GIS tools for processing high resolution Digital Elevation Models (DEMs) of stream reaches. The RBT is being actively developed by ESSA Technologies and is available for free. The goal is to characterize in-stream and floodplain geomorphology to support aquatic habitat analyses and numerical models of flow and sediment transport. Tools were created for ArcGIS to conduct several types of analyses associated with DEMs, including geomorphic change detection, uncertainty analyses, user-defined density of cross-sections and longitudinal profiles. These tools can extract hydrologic parameters such as wetted area, bankfull width, water depths, hydraulic radius, gradient, sinuosity (McKean et al. 2009), erosion and depositional patterns and budgets, and uncertainty in the DEM (Wheaton et al. 2010). Using an automated detrending algorithm we are able to remove the overall valley slope. Tools are being created that use the detrended raster to investigate flooding outside a main channel at any prescribed discharge or flow stage. The RBT will also allow users to recreate other survey protocols that use cross-sectional and longitudinal profile approaches. The CHaMP - Topographic Point Collection Methods (Method ID:5328) provides background on collection of the X, Y, Z point measurement data used to generated the DEM that is analyzed for this calculation.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/856",
+  "title": "Bankfull Width Calculation v1.0",
+  "id": 856,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org"
+}

@@ -1,0 +1,9 @@
+{
+  "abstractText": "This document is the Environmental Assessment Program (EAP), Standard Operating Procedure (SOP) used to collect, preserve, measure, and analyze water quality at Freshwater Ambient Monitoring stations. It describes the general stream monitoring procedures used for run preparation, sample collection, measurement, processing, preservation, and shipment. The document also addresses quality assurance and quality control procedures. The standard set of samples collected, measured, or processed include: temperature, pH, conductivity, dissolved oxygen, turbidity, total suspended solids, fecal coliform bacteria, ammonia, nitrate plus nitrite, total nitrogen, total phosphorus, soluble reactive phosphorus, metals, and stage height. Other samples that may also be collected and processed on a special study request basis include: alkalinity, dissolved organic carbon (DOC), total organic carbon (TOC), filtered total phosphorus, filtered total nitrogen, and suspended sediment concentration (SSC). All Ambient stations are typically monitored once a month and dissolved metals are also monitored every other month at only a few stations.This SOP is intended for long term ambient stream monitoring.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/3789",
+  "title": "Standard Operating Procedures for the Collection, Processing, and Analysis of Stream Samples v1.0",
+  "id": 3789,
+  "type": "Data Collection",
+  "ownerName": "Steve Rentmeester",
+  "ownerEmail": "steve@sitkatech.com"
+}

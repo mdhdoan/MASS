@@ -1,0 +1,9 @@
+{
+  "abstractText": "The features which constrain the lateral movement of the streammay be some combination of high terraces or hillslopes, or the stream may be constrainedby land use features such as road beds, railways, dikes, and others. If constrainingterraces or land use features are present within a valley, they must be both high and closeto the stream channel to constrain its lateral movement.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/3865",
+  "title": "Channel Metrics: Valley Width Index (VWI) and High Terrace Height (HT) and High Terrace Width (TW) v1.0",
+  "id": 3865,
+  "type": "Data Collection",
+  "ownerName": "Charlie Stein",
+  "ownerEmail": "charlie.stein@oregonstate.edu"
+}

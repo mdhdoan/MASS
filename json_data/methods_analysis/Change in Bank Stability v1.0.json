@@ -1,0 +1,9 @@
+{
+  "abstractText": "Using the information from the locations of channel migration  change in bank location- the proportion of the channel length where active bank migration is taking place is calculated, as described in Method ID: 4235. The units for this metric are a percent with the length of active bank migration divided by the total reach length. This value can becompared to the bank erosion proportion that is visually estimated in the field, using Method ID: 4100 andMethod ID: 5279.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/5280",
+  "title": "Change in Bank Stability v1.0",
+  "id": 5280,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Rachael Katz",
+  "ownerEmail": "rachael.katz@tetratech.com"
+}

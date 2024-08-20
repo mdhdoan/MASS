@@ -1,0 +1,9 @@
+{
+  "abstractText": "Although more expensive than using fixed-wing aircraft, helicopters are often deployed for species of conservation concern or when fixed-wing counts are not practical or safe (e.g., in dense canopy or canyons). These aircraft provide slower, more maneuverable counting platforms that can increase accuracy and precision.  The first and foremost objective when making an aerial count is to try and make the most accurate count possible.  The second objective, and probably of equal importance to the first, is to be consistent.  Consistency is vital to creating a reliable index of abundance over time.  Counting units, aircraft and pilots used, and most certainly areas surveyed should be consistent from year to year to maximize the utility of any information gathered.  Aerial surveys should be performed with the understanding that the information gathered is first and foremost useful as an indexand only with significant study can observer counts be expanded further to estimates of total escapement.  Multiple counts should be made annually in each area so that all components of the run are captured, especially the peak. Many programs use peak counts for index purposes, but it is well understood that these counts do not represent the total escapement due to variability in run timing and stream life. At best, observers will get an index (an unknown portion) of the number of adult salmon returning to spawn, even if corrected for the changing population. In practice, it is more convenient to estimate the peak versus the average and assume that stream life is consistent among years; the peak count is a useful index (Bevan 1961).",
+  "url": "http://www.monitoringresources.org/api/v1/methods/105",
+  "title": "Helicopter Survey v1.0",
+  "id": 105,
+  "type": "Data Collection",
+  "ownerName": "Jacque Schei",
+  "ownerEmail": "jschei@usgs.gov"
+}

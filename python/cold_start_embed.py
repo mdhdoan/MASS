@@ -11,7 +11,7 @@ from sentence_transformers import SentenceTransformer
 from sklearn.feature_extraction.text import CountVectorizer
 
 from bertopic import BERTopic
-from bertopic.representation import KeyBERTInspired
+from bertopic.representation import KeyBERTInspired, MaximalMarginalRelevance
 from bertopic.vectorizers import ClassTfidfTransformer
 
 from langchain.chains.llm import LLMChain
@@ -45,26 +45,31 @@ if __name__ == '__main__':
             count = increase_count(count, '.')
     print(f"\nRead {count} documents.\n")
     
-    # # Step 1 - Extract embeddings
+    # Step 1 - Extract embeddings
     embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
     embeddings = embedding_model.encode(documents, show_progress_bar=True)
-
     # Step 2 - Reduce dimensionality
-    umap_model = UMAP(n_neighbors=15, n_components=5, min_dist=0.0, metric='cosine')
-
+    umap_model = UMAP(n_neighbors=15, n_components=5, min_dist=0.0, metric='cosine', random_state=42)
     # Step 3 - Cluster reduced embeddings
     hdbscan_model = HDBSCAN(min_cluster_size=15, metric='euclidean', cluster_selection_method='eom', prediction_data=True)
-
     # Step 4 - Tokenize topics
-    vectorizer_model = CountVectorizer(stop_words="english")
-
+    vectorizer_model = CountVectorizer(stop_words="english", ngram_range=(1, 3), min_df=3)
     # Step 5 - Create topic representation
-    ctfidf_model = ClassTfidfTransformer()
-
-    # Step 6 - (Optional) Fine-tune topic representations with 
-    # a `bertopic.representation` model
+    ctfidf_model = ClassTfidfTransformer(bm25_weighting=True, reduce_frequent_words=True)
+    # Step 6 - (Optional) Fine-tune topic representation
     representation_model = KeyBERTInspired()
+    # representation_model = {
+    #         "KBI": KeyBERTInspired(top_n_words=30),
+    #         "MMR": MaximalMarginalRelevance(top_n_words=30, diversity=.5),
+    #     }
     
+    # Step 7 - Provide zeroshot list for guidance
+    zeroshot_topics = [
+        "Physical", "Ecological", "Chemical",
+        "Data Collection", "Data Analysis", "Statistical Methods",
+        "Population Estimation", "Fish Capture, Handling, and Release", "Biology"
+    ]
+
     # All steps together
     topic_model = BERTopic(
         embedding_model=embedding_model,          # Step 1 - Extract embeddings
@@ -72,7 +77,9 @@ if __name__ == '__main__':
         hdbscan_model=hdbscan_model,              # Step 3 - Cluster reduced embeddings
         vectorizer_model=vectorizer_model,        # Step 4 - Tokenize topics
         ctfidf_model=ctfidf_model,                # Step 5 - Extract topic words
-        representation_model=representation_model # Step 6 - (Optional) Fine-tune topic represenations
+        representation_model=representation_model, # Step 6 - (Optional) Fine-tune topic represenations
+        zeroshot_topic_list=zeroshot_topics, 
+        zeroshot_min_similarity=.85
     )
     
     topics, probs = topic_model.fit_transform(documents, embeddings)
@@ -92,6 +99,7 @@ if __name__ == '__main__':
     The topic is described by the following keywords delimited by triple backquotes (```):
     ```{keywords}```
 
+    Consider a topic label from {zeroshot_topics} before creating a new label
     Return ONLY a the topic label, which should not contain more than 5 words.
     If your answer has any code in it, generate again. 
     If the amount of words in your answer is more than 5, generate again.
@@ -109,7 +117,7 @@ if __name__ == '__main__':
         else:
             keywords = topic_model.topic_labels_[i].split('_')[1:]
             docs = topic_model.representative_docs_[i]
-            result = llm_chain.invoke({'documents': docs, 'keywords': keywords})
+            result = llm_chain.invoke({'documents': docs, 'keywords': keywords, 'zeroshot_topics': zeroshot_topics})
             label = result['text']
             print(f"[{i}] --- {topic_model.topic_labels_[i]} --- {label}")
             label_dict[i] = label
@@ -153,7 +161,6 @@ if __name__ == '__main__':
                 count = increase_count(count, '.')
             except Exception as e:
                 print(f"\nHit Exception with {file}, {e}")
-            count = increase_count(count, '.')
             # break
             
     print(f"\nAdded embedding to {count} documents.\n")    

@@ -1,0 +1,9 @@
+{
+  "abstractText": "River gauging stations and real-time stations are visited twice a month to collect staff gauge readings, perform any site maintenance and download data. These visits do not include a discharge measurement.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1676",
+  "title": "Gauging Station Visit without Discharge Measurement v1.0",
+  "id": 1676,
+  "type": "Data Collection",
+  "ownerName": "Troy Baker",
+  "ownerEmail": "troy.baker@wwbwc.org"
+}

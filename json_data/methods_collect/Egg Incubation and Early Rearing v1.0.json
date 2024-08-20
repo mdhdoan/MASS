@@ -1,0 +1,9 @@
+{
+  "abstractText": "The Nez Perce Tribe (NPT) Department of Fisheries Resources Management (DFRM) collects hatchery evaluation data from fish trapped, spawned or reared at 18 different facilities. The types of hatchery facilities that data are collected at include adult traps, picket weirs, adult holding ponds, spawning facilities, primary and secondary juvenile rearing locations and acclimation release sites. Management of each site is completed solely by the Nez Perce Tribe, collaboratively with co-managers or with NPT taking an assistance role.This particular method is connected and specific to the individual hatchery, species, and run-timing of the fish being collected.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/6648",
+  "title": "Egg Incubation and Early Rearing v1.0",
+  "id": 6648,
+  "type": "Data Collection",
+  "ownerName": "Ryan Kinzer",
+  "ownerEmail": "ryank@nezperce.org"
+}

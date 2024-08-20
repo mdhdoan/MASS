@@ -1,0 +1,9 @@
+{
+  "abstractText": "Stream flow or discharge is the volume of water passing through a streamper unit time. A simple way to estimate discharge is to multiply a cross-sectionalarea by the average velocity of the water. Stream velocity (recorded in ft/s) andthe cross-sectional area (ft2) produce volume per unit time (ft3/s). However,water in a channel flows at different speeds depending on its location. It istherefore necessary to divide a stream cross-section into subsections anddetermine the discharge of each subsection. The total of all the sectiondischarges equals the total stream discharge.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/4106",
+  "title": "Calculate Total Stream Discharge v1.0",
+  "id": 4106,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "PNAMP Support",
+  "ownerEmail": "pnamp.mm@gmail.com"
+}

@@ -1,0 +1,9 @@
+{
+  "abstractText": "The density of juvenile fish, by species, within each channel unit area in fish/m2. Channel units are identified using Method ID: 1581. Juvenile fish may be sampled using snorkeling or electrofishing, such as Method ID: 196 and Method ID: 197, as customized in Protocol: 1880.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/5274",
+  "title": "Fish Density by Channel Unit and Species v1.0",
+  "id": 5274,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Rachael Katz",
+  "ownerEmail": "rachael.katz@tetratech.com"
+}

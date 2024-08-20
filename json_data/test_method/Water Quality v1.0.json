@@ -1,0 +1,9 @@
+{
+  "abstractText": "The plan includes two temperature metrics that will serve as specific indicators of water temperature: maximum daily maximum temperature (MDMT) and maximum weekly maximum temperature (MWMT).  Data loggers can be used to measure MWMT and MDMT. Zaroban (2000) describes pre-placement procedures, placement procedures, and retrieval procedures. This manual also provides standard methods for conducting temperature-monitoring studies associated with land management activities and for characterizing temperature regimes throughout a watershed.The plan includes turbidity as the one sediment-related specific indicator under water quality. Investigators will measure turbidity with monitoring instruments calibrated on the nephelometric turbidity method (NTUs). Daily means (and SD) and maximum turbidities should be calculated. Chapter 11 in OPSW (1999) provides a standardized method for measuring turbidity, data quality guidelines, equipment, field measurement procedures, and methods to store and analyze turbidity data. The plan includes five specific indicators associated with contaminants and nutrients: conductivity, pH, dissolved oxygen (DO), nitrogen, and phosphorus. OPSW (1999) identifies standard methods for measurements. OPSW (1999) also includes criteria for data quality guidelines, equipment, field-measurement procedures, and methods to store and analyze water quality data.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/34",
+  "title": "Water Quality v1.0",
+  "id": 34,
+  "type": "Data Collection",
+  "ownerName": "Tracy Hillman",
+  "ownerEmail": "tracy.hillman@bioanalysts.net"
+}

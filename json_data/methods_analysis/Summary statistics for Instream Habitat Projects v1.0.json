@@ -1,0 +1,9 @@
+{
+  "abstractText": "After field data collection, the data are uploaded into an MS Access database which then computes summary statistics to reflect habitat conditions at the reach scale.  These summary statistics were generally developed as part of the EPA EMAP and were selected for this program based on their high signal to noise ratios as compared to other potential summary variables. The following variables are reported for Instream Habitat Projects: GPS Coordinates, Sample Date, Reach Length, Reach Width, Number of AIS Present, Juvenile Fish Density, Log10Volume of LWD, Difference in Size Between Measured and Estimated LWD, Mean Residual Pool Vertical Profile Area, Mean Residual Pool Area, Average Maximum Pool Depth, and Average Pool Tail Crest Depth. Statistical significance will be tested (w/ paired-t test) for: Number of AIS remaining, Mean Residual Pool Vertical Profile Area, Mean Residual Pool Area, Changes in LWD profile, and Juvenile Abundance.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/293",
+  "title": "Summary statistics for Instream Habitat Projects v1.0",
+  "id": 293,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Jennifer O'Neal",
+  "ownerEmail": "jen@naturaldes.com"
+}

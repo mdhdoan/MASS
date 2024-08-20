@@ -1,0 +1,9 @@
+{
+  "abstractText": "The concept of a channel habitat unit is the basic level of notation for our surveymethodology. We subdivide the stream into two general classes of unit types:channel geomorphic units and special case units. Then measure dept in each habitat unit.Channel geomorphic units are relatively homogeneous lengths of the stream thatare classified by channel bed form, flow characteristics, and water surface slope.With some exceptions, channel geomorphic units are defined to be at least as longas the active channel is wide. Individual units are formed by the interaction ofdischarge and sediment load with the channel resistance (roughness characteristicssuch as bedrock, boulders, and large woody debris).Channel units are defined (in priority order) based on characteristics of (1) bedform,(2) gradient, and (3) substrate.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/3871",
+  "title": "Defining and Measuring Channel Habitat Type v1.0",
+  "id": 3871,
+  "type": "Data Collection",
+  "ownerName": "PNAMP Support",
+  "ownerEmail": "pnamp.mm@gmail.com"
+}

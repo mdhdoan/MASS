@@ -1,0 +1,9 @@
+{
+  "abstractText": "Estimate of the percent of bank that is covered with vegetation and the percent of bank that is devoid of vegetation.Estimates of cover are taken at 5 transects (1, 6, 11, 16, 21) on the right and left bankwithin a10mx10mplot beginning atbankfull. Percent of the areal coverage of groundcover (<0.5 m) is visually estimated for each plot. Percent GroundCover is an average of the estimates from each of these 10 plots. ?The CHaMP - Riparian Structure Method provides background on the measurements that are analyzed for this calculation. See -http://www.monitoringmethods.org/Method/Details/4053CHaMP method follows the Peck et al. (2001) methods used by EMAP.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/6741",
+  "title": "Percent Riparian Ground Cover v2.0",
+  "id": 6741,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Kaylyn Costi",
+  "ownerEmail": "kaylyncosti@ctuir.org"
+}

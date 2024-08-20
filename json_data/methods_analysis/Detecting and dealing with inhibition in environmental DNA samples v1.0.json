@@ -1,0 +1,9 @@
+{
+  "abstractText": "McKee et al. (2015) tested three approaches for reducing quantitative PCR inhibition in water samples collected from coastal plain wetlands and mountain headwater streams. These approaches include 5-fold and 10-fold dilutions and spin-column purification. All treatments reduced the concentration of DNA in the samples, but column purified samples retained the greatest sensitivity. For stream samples, all three treatments effectively reduced qPCR inhibition. However, for wetland samples, the 5-fold dilution was less effective than other treatments. An overview of methods for each treatment is provided since the treatment that best circumvents inhibition issues may be context specific.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/6626",
+  "title": "Detecting and dealing with inhibition in environmental DNA samples v1.0",
+  "id": 6626,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Adam Sepulveda",
+  "ownerEmail": "asepulveda@usgs.gov"
+}

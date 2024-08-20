@@ -1,0 +1,9 @@
+{
+  "abstractText": "Population size estimates for anadromous fish species are important for conservation and management but sampling costs limit the extent of most estimates to small portions of river networks that encompass hundreds or thousands of linear kilometers. However, the advent of large fish density datasets, spatial-stream-network (SSN) models that benefit from non-independence among samples, and national geospatial database frameworks for streams provide the components to create a broadly scalable approach to population estimation. This method uses those components with universal kriging to predict a continuous map of densities among survey locations and block kriging (BK) to summarize discrete map areas and make population estimates at stream, river, and network scales. Reach covariates are also incorporated to the SSN models to assess habitat factors that may affect the distribution and density of fish species. The SSN-BK population estimator is applied using the STARS and SSN software in the ArcGIS and R computing environments.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/6621",
+  "title": "Spatial Stream Network (SSN) block-krige estimation for salmonid abundance v1.0",
+  "id": 6621,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Dan Isaak",
+  "ownerEmail": "disaak67@gmail.com"
+}

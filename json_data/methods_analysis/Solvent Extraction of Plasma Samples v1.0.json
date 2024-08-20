@@ -1,0 +1,9 @@
+{
+  "abstractText": "Fish plasma samples must be solvent extracted prior to steroid assay to remove interfering substances. Solvent extraction is a method for separating nonpolar substances from plasma. Steroids such as estradiol (E2) and 11-ketotestosterone (11-KT) are nonpolar and segregate into the nonpolar phase, and most interfering substances (proteins) segregate into the aqueous phase. Commercially available assay kits may claim that solvent extraction is not necessary for human plasma samples. Nevertheless, interfering substances in fish plasma often cause unreliable readings in these assays. The best practice is to solvent extract all samples prior to steroid assay. The efficiency of extraction must be determined and values corrected accordingly. The most common solvents used for extraction are diethyl ether, ethyl ether, methyl tert-butyl ether, and dichloromethane, with solvent selection depending upon the application. Interfering substances such as peroxides and preservatives may also be introduced during solvent extraction. Peroxides form over time in ether. These substances will typically reduce B/B0 versus assay buffer. Ether lots with different preservatives or of different ages may behave differently. It is important to assess the effect of extraction on B/B0 before extracting samples. Column chromatography and solid phase extraction on C18 columns are alternatives to ether extraction.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/5319",
+  "title": "Solvent Extraction of Plasma Samples v1.0",
+  "id": 5319,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Doug Hatch",
+  "ownerEmail": "hatd@critfc.org"
+}

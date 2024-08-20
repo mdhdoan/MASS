@@ -1,0 +1,9 @@
+{
+  "abstractText": "Geomorphic data help us understand the processes and characteristics of stream systems, provide fish habitat information, facilitate stream comparisonswithin a watershed and between regions, and provide a common framework forcommunication (Ebbers 2007). A major reason for using geomorphic data collection methods isthat they are scientifically sound and produce repeatable results (Ebbers2007). The nature ofthe geomorphic data we collect will vary according to the specific survey needsand our desired level of understanding. However, there is valuable streamhabitat information that would not be obtained through a geomorphic surveyalone (e.g., fish cover). Therefore, the general approach to obtaining in-streamhabitat data will be to collect geomorphic data and additional habitat dataconcurrently.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/4117",
+  "title": "Channel Cross Section Survey v1.0",
+  "id": 4117,
+  "type": "Data Collection",
+  "ownerName": "PNAMP Support",
+  "ownerEmail": "pnamp.mm@gmail.com"
+}

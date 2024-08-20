@@ -1,0 +1,9 @@
+{
+  "abstractText": "Proportion of the canopy (>5m) and understory (0.5-5 m) vegetation cover that is coniferous. Visual estimates of the dominant vegetation in the canopy and understory cover are taken at 5 transects (1, 6, 11, 16, 21) within a 10m x 10m plot on the right and left bank beginning at bankfull. If dominant vegetation is coniferous, it is scored 1.0 (100% coniferous cover); if dominant vegetation is mixed, it is scored 0.5 (50% coniferous cover); all other vegetation types are scored zero. Proportion coniferous cover is the average of the scores for the left and right banks of each of the five transectsThe CHaMP - Riparian Structure Method provides background on the measurements that are analyzed for this calculation. See - http://www.monitoringmethods.org/Method/Details/845CHaMP method follows the Peck et al. (2001) methods used by the EMAP.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1242",
+  "title": "Percent Coniferous Cover v1.0",
+  "id": 1242,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Steve Rentmeester",
+  "ownerEmail": "steve@sitkatech.com"
+}

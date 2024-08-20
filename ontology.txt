@@ -1,47 +1,51 @@
-"Based on the provided keywords and considering the context of all the documents, here's a suggested comprehensive ontology for the given information:
-1. **Fish**
-    - Fish populations (anadromous fish, salmonids)
-    - Fish species identification and classification (e.g., White sturgeon)
-    - Fish behavior and migration patterns
-   
-2. **Aquaculture and Fisheries** <- Fix that Mistral
-    These should be at number 6:
-        - Telemetry using Passive Integrated Transponder (PIT) tags for fish tracking
-        - Stock assessment studies and mark-recapture methods   
-        - Marking, tagging, and handling procedures for fish   
-    Generic:
-        - Research on fishing effort estimation (angler surveys, roving crews, offsite surveys)
+SITE
+    Habitat
+        Physical
+            Flow: Movement and distribution of water within the habitat.
+            Temperature: Heat levels within the habitat.
+            Structure: Physical formation and arrangement of the habitat.
+            Sediment Composition: Characteristics and types of sediment present in the habitat.
+            Hydraulic Connectivity: Degree to which water bodies within the habitat are connected.
+        Ecological
+            Population: Study of groups of organisms of the same species.
+            Disturbance Observation Monitoring: Tracking environmental changes impacting habitat.
+            Reproductive Success: Studying the reproduction rates and success of species.
+            Food Webs: Interactions between different organisms based on their feeding relationships.
+            Vegetation or Plant Life: Ecological aspects related to plant species.
+            Behavioral Studies: Monitoring animal behavior.
+            Species Interactions: Interactions among different species within the habitat.
+            Habitat Fragmentation: Division of habitats into smaller, isolated patches.
+        Chemical
+            Constituents: Chemical components present in the habitat.
+            Pollutant: Substances contaminating the habitat.
+            Nutrient Levels: Amounts and types of nutrients present in the habitat.
+            Water Quality: Overall quality of water including various chemical parameters.
 
-3. **Effects of Dams on Aquatic Ecosystems**
-    - Reductions in spawning habitat for fish species
-    - Impact on native prey abundance due to dam construction and operation
-    - Effects on genetic diversity and population fragmentation
-    - Changes or modifications to hydropower systems for fish recruitment (e.g., white sturgeon)
-    - Blockage of historical migration patterns for various fish species
+METHODS
+    Data Collection
+        Sampling Design: Planning and structuring data collection processes.
+        Field Methods: Techniques used in the field for collecting data.
+        Monitoring Techniques: Methods used to monitor environmental conditions or populations.
+        Remote Sensing: Collection of data using remote sensing technology.
+        Acoustic Monitoring: Use of acoustic devices to monitor animal presence and behavior.
+    Data Analysis
+        Statistical Analysis: Application of statistical methods to interpret data.
+        Descriptive Statistics & Confidence Intervals: Statistical techniques for summarizing data and estimating parameters.
+        Spatial Analysis: Analyzing geographical patterns in data.
+        Temporal Analysis: Studying changes over time.
+    Statistical Methods
+        Regression Models: Statistical techniques to model relationships between variables.
+        Multivariate Analysis: Techniques for analyzing data with more than one variable.
 
-4. **Habitat and Water Quality**
-    - Preferred spawning, rearing, and overwintering habitat conditions for different fish populations
-    - Availability and quality of instream and riparian habitats in impounded reaches (e.g., vegetation coverage, woody debris)
-    - Monitoring of water temperature, dissolved oxygen, pH, and other water quality parameters
-    
-5. **Fish Biology**
-    - Fish age estimation methods using otoliths or scales
-    - Genetic population structure assessment (e.g., for white sturgeon, salmonids)
-    - Migration and gene flow between populations
-    - Effective population size analysis (number of breeding adults)
-
-6. **Research and Monitoring Methods**
-    - Transect-based methods for measuring substrate characteristics and human influence in riparian zones
-    - Ecosystem surveys using field measurements, remote sensing, and statistical analyses
-    - Collection and analysis of eDNA samples
-    - Sampling designs (spatial and temporal) for fishery research
-
-7. **Fisheries Management**
-    - Implementation of fish passage criteria to support upstream fish migration
-    - Assessment and evaluation of fish passage systems, such as fish ladders or weirs
-    - Enhancement programs and stock assessment studies for various fish populations
-
-8. **Impacts on Aquatic Ecosystems**
-    - Monitoring changes in species composition and community structure due to dam construction and operation
-    - Evaluation of potential impacts on food webs, energy flow, and trophic cascades in aquatic ecosystems
-    - Research on long-term effects of dams on biodiversity and ecosystem function."
+FISHERIES MANAGEMENT
+    Population Estimation
+        Mark-Recapture: Estimating population size using marked individuals.
+        Survey Methods: Methods for estimating population through surveys.
+    Fish Capture, Handling, and Release
+        Tagging and Tracking: Techniques for tagging and tracking fish movements.
+        Non-lethal Sampling: Methods to sample fish without causing harm.
+    Biology
+        Genetics: Study of genetic variation and inheritance in fish.
+        Biodiversity: Study of the variety of life within fish populations.
+        Reproductive Biology: Study of fish reproductive systems and cycles.
+        Physiology: Study of fish bodily functions.

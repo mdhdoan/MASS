@@ -1,0 +1,9 @@
+{
+  "abstractText": "This method describes post-fishery analyses that indicates what fisheries stocks and age structure of those stocks were landed. Ituses coded-wire tags (CWT) tag rates and sample rates to expand individual observations of CWTs to account for un-sampled salmon stocks in the fishery. Age data, by stocks, are also expanded to unsampled individuals. Expanded stock and age composition of landings post-season are used to describeand compare fishery performanceamong years.Salmon that are inspected during fisheries sampling receive a visual stock identification (VSI), based on phenotypic characteristics and fin marks (see Protocol 3577: Fisheries Sampling for the Select Area Fisheries Enhancement (SAFE) Program, for example). Stock calls are confirmed with recovered coded-wire tags, when possible, and used to make corrections. From the proportion of correct and incorrect VSIs, correction factors are applied to non-CWT VSIs. Stock calls and corrections are tracked closely when an ESA-listed stock of salmon is part of a mixed-stock fishery, which occurs in a short time frame to aid in-season management. Scales samples that are collected during fishery sampling are sent to agency labs, mounted, read, agesrecorded, and expanded to landings.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/6896",
+  "title": "Determine stock and age composition of salmon in commercial harvest using coded-wire tags (CWT) v1.0",
+  "id": 6896,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Cyndi Baker",
+  "ownerEmail": "cynthia.f.baker@state.or.us"
+}

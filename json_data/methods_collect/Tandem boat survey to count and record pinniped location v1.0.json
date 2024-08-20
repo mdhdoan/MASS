@@ -1,0 +1,9 @@
+{
+  "abstractText": "Conduct tandem boat surveys to collect data to be used in generating mark/recapture sea lion abundance estimates (see method ID: 1256 for analysis).",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1255",
+  "title": "Tandem boat survey to count and record pinniped location v1.0",
+  "id": 1255,
+  "type": "Data Collection",
+  "ownerName": "Doug Hatch",
+  "ownerEmail": "hatd@critfc.org"
+}

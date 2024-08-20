@@ -1,0 +1,9 @@
+{
+  "abstractText": "Edge habitat isimportantfor juvenile salmonidrearing. It provides refuge for salmonids from higher velocities and depths especiallyin the main channel of large rivers (Beechieet al 2005). Increasing edge habitat is a goal of some restoration projects. Therefore, quantifying the amount of available edge habitat allows changes in edge habitat to be monitored with regards to restoration actions. Calculation of water depths and velocities is needed to calculate edge habitat, and is done with Hydraulic Modeling. See separate data analysis method -Hydraulic Modeling for Analysis of Floodplain Habitat (method ID: 1764)",
+  "url": "http://www.monitoringresources.org/api/v1/methods/4232",
+  "title": "Proportion of Edge Water Habitat at Various Flows v1.0",
+  "id": 4232,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Rachael Katz",
+  "ownerEmail": "rachael.katz@tetratech.com"
+}

@@ -1,0 +1,9 @@
+{
+  "abstractText": "PIT tag antennas are commonly located at multiple locations in fish ladders. An estimate of minimum passage time can be estimated by subtracting the first detection time at a dam from the last detection time at a dam. At most dams, this only covers a small distance of the total passage distance, however this statistic can be useful in uncovering passage problems (e.g. Murauskaset. al,2014)",
+  "url": "http://www.monitoringresources.org/api/v1/methods/3926",
+  "title": "Estimate passage time at a dam using PIT tags v1.0",
+  "id": 3926,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Jeffrey Fryer",
+  "ownerEmail": "fryj@critfc.org"
+}

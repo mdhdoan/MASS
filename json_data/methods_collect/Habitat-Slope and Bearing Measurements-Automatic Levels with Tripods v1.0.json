@@ -1,0 +1,9 @@
+{
+  "abstractText": "Method describing the collection of slope using an automatic level with tripod and stadia rods. The change in elevation at a site is calculated by sighting a stadia rod from the automatic level on a tripod to both the top of the site and the bottom of the site. Elevations are measured from the water surface.Definitions:Elevation change = vertical difference or drop between the water surface at the Top of the Site (TS) and the water surface at the Bottom of the Site (BS).Gradient = the percent slope of the stream site (elevation change / site length)Introduction: Measure elevation change between the water surface at the Top of the Site (TS) and the water surface at the Bottom of the Site (BS) using a tripod and surveyors level Measure elevation change 1 time. Record elevation changes on Form 1 and in the data logger If you knowingly make an error while shooting elevation change, DO NOT enter this data into loggerOverview:One person operates the level and records heights from the stadia rod. The other person positions the stadia rod at the BS, any intermediate spots (if necessary) and at the TS. It is very important to keep the stadia rod plumb (vertical in all directions) when taking measurements. The person operating the level will be able to tell if the stadia rod is plumb or not and will communicate what needs to happen to the other person using the 2-way radios. The bottom surface of the stadia rod must be held at the surface of the water, not the stream bottom when positioned at the BS and TS.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/324",
+  "title": "Habitat-Slope and Bearing Measurements-Automatic Levels with Tripods v1.0",
+  "id": 324,
+  "type": "Data Collection",
+  "ownerName": "Carol Volk",
+  "ownerEmail": "carol@southforkresearch.org"
+}

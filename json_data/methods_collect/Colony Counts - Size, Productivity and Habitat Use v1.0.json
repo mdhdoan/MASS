@@ -1,0 +1,9 @@
+{
+  "abstractText": "High resolution, georeferenced aerial photographs and ground counts are used to estimate the total number of double-crested cormorants and Caspian terns nesting on East Sand Island in the Columbia River estuary each year.  Photos and ground counts are taken at various periods during the birds nesting season, including the period of peak egg incubation (to quantify the total number of adults) and the period of peak chick rearing (to quantify productivity). Multiple ground counts of sitting/standing or adult/juveniles are taken in concert with aerial surveys to calibrate counts from aerial imagery. Aerial images are georeferenced so the total amount of habitat used by the birds during the nesting season can also be quantified.  Data on the total number of nesting pairs (adults), young (productivity), and habitat use can then be used to evaluate the efficacy of avian management actions aimed at reducing colony size and, ultimately, impacts from the colony on juvenile salmonids.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/154",
+  "title": "Colony Counts - Size, Productivity and Habitat Use v1.0",
+  "id": 154,
+  "type": "Data Collection",
+  "ownerName": "Allen Evans",
+  "ownerEmail": "allen@realtimeresearch.com"
+}

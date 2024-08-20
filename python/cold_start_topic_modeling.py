@@ -68,6 +68,7 @@ if __name__ == '__main__':
     # a `bertopic.representation` model
     representation_model = KeyBERTInspired()
     
+
     # All steps together
     topic_model = BERTopic(
         embedding_model=embedding_model,          # Step 1 - Extract embeddings

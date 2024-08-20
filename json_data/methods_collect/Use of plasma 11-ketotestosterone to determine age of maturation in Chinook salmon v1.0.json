@@ -1,0 +1,9 @@
+{
+  "abstractText": "Measurement of plasma levels of 11-ketotestosterone in fish blood. This steroid is instrumental in initiating the maturation process in teleost fish. Levels are measured in the laboratory by an ELISA immunoassay technique. Plasma levels that exceed a pre-determined threshold measure in salmon prior to release as 'putative smolts' can be used to census a population to determine which fish are initiating the maturation process for the following year and thus allow one to determine age of maturation. This method has shown utility for several studies of early male maturation in Chinook salmon.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/371",
+  "title": "Use of plasma 11-ketotestosterone to determine age of maturation in Chinook salmon v1.0",
+  "id": 371,
+  "type": "Data Collection",
+  "ownerName": "Donald Larsen",
+  "ownerEmail": "don.larsen@noaa.gov"
+}

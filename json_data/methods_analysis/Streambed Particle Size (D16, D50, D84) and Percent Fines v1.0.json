@@ -1,0 +1,9 @@
+{
+  "abstractText": "To calculate streambed particle size distribution within a sample reach. Measurements are taken from 210 substrate particle measurements taken from the active channel, defined as scour line on one side of the stream to scour line on the other side (10 percent each of 21 transects). These values are computed to characterize substrate conditions within the entire sample reach, and because, in most instances, sample reaches are randomly located and transects are systematically spaced, the descriptive statistics can be interpreted as unbiased representations of substrate conditions.The recommended data collection method for streambed particle sizes isMethod 6801.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/7025",
+  "title": "Streambed Particle Size (D16, D50, D84) and Percent Fines v1.0",
+  "id": 7025,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "PNAMP Support",
+  "ownerEmail": "pnamp.mm@gmail.com"
+}

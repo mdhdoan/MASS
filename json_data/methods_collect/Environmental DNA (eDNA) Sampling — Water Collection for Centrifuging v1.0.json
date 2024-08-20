@@ -1,0 +1,9 @@
+{
+  "abstractText": "In order to perform laboratory molecular analyses to detect eDNA, samples must first be collected fromthe appropriate aquatic environment in accordance with the following method.Cautions: Lifejackets must be worn at all times in transport vessels (boats). Additionally, disposablepowder-free latex or nitrile gloves must be worn when collecting water samples and measuring waterdepth and temperature. Be aware of pollutants in the aquatic environment andrelated health hazards.Field crews should have separate and designated field gear andouterwear that is for eDNA samplingonly. This gear should be stored separately from other field gear that may come in contact with target speciesbiological material. Gear should be transported in a clean eDNA gear box so that it is notcontaminated in vehicles, boats, or trailers.Gear (such as PFDs and hats) should be decontaminated between sampling events.However, if anygear is compromised during sampling (accidentally falling in, or a spill, etc.) andstaff feel that itmay contribute to contamination of the samples, the gear should be decontaminated assoon aspossible at the end of the work day, or replaced with new gear as soon as possible.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/5496",
+  "title": "Environmental DNA (eDNA) Sampling \u2014 Water Collection for Centrifuging v1.0",
+  "id": 5496,
+  "type": "Data Collection",
+  "ownerName": "PNAMP Support",
+  "ownerEmail": "pnamp.mm@gmail.com"
+}

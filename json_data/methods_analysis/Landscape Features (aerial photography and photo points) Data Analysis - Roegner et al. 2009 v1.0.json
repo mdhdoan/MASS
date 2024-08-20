@@ -1,0 +1,9 @@
+{
+  "abstractText": "The goal of aerial photography and photo points is to quantify project-wide changes in landform and vegetation patterns accompanying restoration. GIS-based measurements include site area; width, sinuosity, density, and total edge of tidal channels; as well as area and configuration of landforms and broad vegetation communities.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/821",
+  "title": "Landscape Features (aerial photography and photo points) Data Analysis - Roegner et al. 2009 v1.0",
+  "id": 821,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Catherine Corbett",
+  "ownerEmail": "ccorbett@estuarypartnership.org"
+}

@@ -1,0 +1,9 @@
+{
+  "abstractText": "This method is the reported value of valley width, as measured using topographic maps or GIS. Valley width provides a measure of how wide of an area a river or stream can potentially migrate,",
+  "url": "http://www.monitoringresources.org/api/v1/methods/5271",
+  "title": "Valley Width v1.0",
+  "id": 5271,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Rachael Katz",
+  "ownerEmail": "rachael.katz@tetratech.com"
+}

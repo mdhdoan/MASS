@@ -1,0 +1,9 @@
+{
+  "abstractText": "Gill nets are commonly used in fisheries studies as an effective means to capture many different species of fish (see Method ID 140). Gill nets are one of the most commonly used gears to collect fish and can be used in a variety of different ways including floating, sinking, suspended, vertical, set, or drifted. Additionally, although gill nets are commonly thought of as having a high mortality rate, especially when set overnight, short soak times and cold water temperatures can reduce mortality rates. However, in some instances gill nets are set in a fashion that makes typical setting or lifting methods impractical (e.g., large quantities of net or deep water). In these situations, it is more practical to use commercial gill netting companies that are familiar with the process of netting in this way such as those on the Great Lakes. Similarly, a different approach would be to replicate the methods and equipment used by these companies.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1030",
+  "title": "Commercial Gill Netting v1.0",
+  "id": 1030,
+  "type": "Data Collection",
+  "ownerName": "Pete Rust",
+  "ownerEmail": "Pete.Rust@idfg.idaho.gov"
+}

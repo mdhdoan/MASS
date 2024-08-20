@@ -1,0 +1,9 @@
+{
+  "abstractText": "Measuring the weight of individuals from specific species (typically a variety of game or commercial fishes that can be found throughout the system) can be useful for characterizing size structure within populations by developing length x weight relationships (Ickes et al. 2014).The relationship between length and weight of a fish species in a river system is useful for providing a practical index of the condition of the fish and to potentially compare life-history strategies between different river systems (Petrakis and Stergiou 1995, Kirby and Ickes 2006).",
+  "url": "http://www.monitoringresources.org/api/v1/methods/5545",
+  "title": "Fish Weight Measurements for Individual Specimen on Large River Systems v1.0",
+  "id": 5545,
+  "type": "Data Collection",
+  "ownerName": "Sam Cimino",
+  "ownerEmail": "scimino@usgs.gov"
+}

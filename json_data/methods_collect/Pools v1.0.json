@@ -1,0 +1,9 @@
+{
+  "abstractText": "Objectives: categorize pools as scour, dam, or plunge, quantify the relative length and frequency of pool habitat in each reach, determine the average residual depth of pools.Scour & Dam PoolsPool length, measured along the thalweg, is greater than the pools width, measured perpendicular to the thalweg, at the widest point.Plunge PoolsPool length is less than the pools width at the widest point.  The thalweg drops vertically over an obstruction at the pool's head crest.  Pool's max depth must be within a specified distance of the obstruction.  Sampling Method:1. Measure the pool length, maximum depth, and pool tail crest depth for each pool that meet the above criteria.2. Measure pool length along the thalweg between the head crest and tail crest.3. The maximum depth represents the deepest point in the pool and is found by probing with a depth rod until the deepest point is located.  4. The pool tail crest depth is measured at the maximum depth along the pool tail crest and is normally  at the thalweg.5. Record the pool type.   a. Full-channel pool    b. Partial-channel pool 6. Record the pool's formation: scour, dam, or plunge.  7. Measure the pool tail crest depth on dammed pools along the top of the obstruction if all flow is going over the obstruction.  If all of the water is not flowing over the obstruction, the pool is a scour or plunge pool, and you will locate the pool-tail in front of or behind the obstruction.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/63",
+  "title": "Pools v1.0",
+  "id": 63,
+  "type": "Data Collection",
+  "ownerName": "Jacque Schei",
+  "ownerEmail": "jschei@usgs.gov"
+}

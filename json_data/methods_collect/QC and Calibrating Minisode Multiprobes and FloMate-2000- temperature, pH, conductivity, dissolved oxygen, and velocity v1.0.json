@@ -1,0 +1,9 @@
+{
+  "abstractText": "This method explains how to verify, QC, that in situ meters are working properly. It also explains how to calibratethe instruments.Instruments included on the procedure include probes for measuringtemperature, pH, conductivity, and dissolved oxygen (Minisonde Multiprobes). It also includesthe instrument used for measuring water velocity (Marsh-McBirney FloMate-2000).This method is performed by 1 or more persons. This method is applied at every data collection event, beforeand after sampling, although some of the tasks are required less frequently. Staff performing thismethod must have been trained.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/3830",
+  "title": "QC and Calibrating Minisode Multiprobes and FloMate-2000- temperature, pH, conductivity, dissolved oxygen, and velocity v1.0",
+  "id": 3830,
+  "type": "Data Collection",
+  "ownerName": "Glenn Merritt",
+  "ownerEmail": "glenn.merritt@ecy.wa.gov"
+}

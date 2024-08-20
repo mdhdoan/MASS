@@ -1,0 +1,9 @@
+{
+  "abstractText": "Often groundwater wells are instrumented with data logging pressure transducer to capture water levels changes over time.  These data need to be corrected and analyzed to be valuable for determining trends in aquifer health, groundwater-surface water interactions studies, and other projects.  This method explains how pressure transducer data can be corrected to manual water level measurements.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1448",
+  "title": "Groundwater Data Analysis v1.0",
+  "id": 1448,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Troy Baker",
+  "ownerEmail": "troy.baker@wwbwc.org"
+}

@@ -1,0 +1,9 @@
+{
+  "abstractText": "Many of the estimates conducted to assess fish population status including survival, biomass, and production need to be estimated on an age-specific basis. Scales are a popular structure to use due to their ease to collect and the ability to release fish afterwards. This method describes how to age fish scales.",
+  "url": "http://www.monitoringresources.org/api/v1/methods/1090",
+  "title": "Scale Ageing v1.0",
+  "id": 1090,
+  "type": "Data Analysis/Interpretation",
+  "ownerName": "Pete Rust",
+  "ownerEmail": "Pete.Rust@idfg.idaho.gov"
+}

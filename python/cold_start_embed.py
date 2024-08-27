@@ -77,9 +77,9 @@ if __name__ == '__main__':
         hdbscan_model=hdbscan_model,              # Step 3 - Cluster reduced embeddings
         vectorizer_model=vectorizer_model,        # Step 4 - Tokenize topics
         ctfidf_model=ctfidf_model,                # Step 5 - Extract topic words
-        representation_model=representation_model, # Step 6 - (Optional) Fine-tune topic represenations
-        zeroshot_topic_list=zeroshot_topics, 
-        zeroshot_min_similarity=.85
+        representation_model=representation_model # Step 6 - (Optional) Fine-tune topic represenations
+        # zeroshot_topic_list=zeroshot_topics, 
+        # zeroshot_min_similarity=.85
     )
     
     topics, probs = topic_model.fit_transform(documents, embeddings)

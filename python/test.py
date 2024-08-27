@@ -1,6 +1,5 @@
 import json
 import os
-import random
 import sklearn
 import sys
 
@@ -18,8 +17,6 @@ from bertopic.representation import KeyBERTInspired, MaximalMarginalRelevance
 from bertopic.vectorizers import ClassTfidfTransformer
 
 from time import process_time
-
-random.seed(2024)
 
 HEADERS = [
     "abstractText"
@@ -54,17 +51,17 @@ if __name__ == '__main__':
     embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
     embeddings = embedding_model.encode(documents_LLM, show_progress_bar=True)
     # Step 2 - Reduce dimensionality
-    umap_model = UMAP(n_neighbors=15, n_components=5, min_dist=0.0, metric='cosine', random_state=42)
+    umap_model = UMAP(n_neighbors=10, n_components=5, min_dist=0.0, metric='cosine', random_state=42)
     # Step 3 - Cluster reduced embeddings
-    hdbscan_model = HDBSCAN(min_cluster_size=15, metric='euclidean', cluster_selection_method='eom', prediction_data=True)
+    hdbscan_model = HDBSCAN(min_cluster_size=10, metric='euclidean', cluster_selection_method='eom', prediction_data=True)
     # Step 4 - Tokenize topics
     vectorizer_model = CountVectorizer(stop_words="english", ngram_range=(1, 3), min_df=3)
     # Step 5 - Create topic representation
     ctfidf_model = ClassTfidfTransformer(bm25_weighting=True, reduce_frequent_words=True)
     # Step 6 - (Optional) Fine-tune topic representation
     representation_model = {
-            "KBI": KeyBERTInspired(top_n_words=30),
-            "MMR": MaximalMarginalRelevance(top_n_words=30, diversity=.5),
+            "KBI": KeyBERTInspired(top_n_words=20),
+            "MMR": MaximalMarginalRelevance(top_n_words=20, diversity=.5),
         }
     
     # All steps together
@@ -77,7 +74,7 @@ if __name__ == '__main__':
         representation_model=representation_model # Step 6 - (Optional) Fine-tune topic represenations
     )
     
-    # topics, probs = topic_model.fit_transform(documents_LLM, embeddings)
+    topics, probs = topic_model.fit_transform(documents_LLM, embeddings)
     prompt_template = """
     You are a helpful, honest assistant for labeling topics.
     YOU DO NOT EXPLAIN YOUR CHOICES, UNLESS ASKED SPECIFICALLY
@@ -154,14 +151,14 @@ if __name__ == '__main__':
     # print(len(documents))
     count = 0
     sorted_methods = {}
-    for title, method in documents.items():
-        method_start_time = process_time()
-        result = llm_chain.invoke({'method': method})
-        method_end_time = process_time()
-        sorted_methods[title] = result['text']
-        print(title, "---", method_end_time - method_start_time)
-        # count = increase_count(count, '.')
-        with open('sorted_methods_collect.json', 'w+') as result_file:
-            ontology_data = json.dumps(sorted_methods, indent = 2)
-            result_file.write(ontology_data)
+    # for title, method in documents.items():
+    #     method_start_time = process_time()
+    #     result = llm_chain.invoke({'method': method})
+    #     method_end_time = process_time()
+    #     sorted_methods[title] = result['text']
+    #     print(title, "---", method_end_time - method_start_time)
+    #     # count = increase_count(count, '.')
+    #     with open('sorted_methods_collect.json', 'w+') as result_file:
+    #         ontology_data = json.dumps(sorted_methods, indent = 2)
+    #         result_file.write(ontology_data)
     

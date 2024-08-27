@@ -53,7 +53,7 @@ if __name__ == '__main__':
     metric_matching_data = csv_to_list_of_dicts(file_name)
     # print(metric_matching_data)
 
-    llm = Ollama(model="mistral")
+    llm = Ollama(model="mistral-nemo")
     prompt = PromptTemplate(input_variables=["metric_dict", "method_dict"], template=prompt_template)
     llm_chain = LLMChain(llm=llm, prompt=prompt)
 
@@ -158,7 +158,7 @@ if __name__ == '__main__':
             # print('Writing to PASS file...')
             with open('METRIC_METHOD_MATCHING_TEST_LIST_PASS.json', 'a+') as test_result_file:
                 writing_data = json.dumps(test_result, indent = 4)
-                test_result_file.write(writing_data)
+                test_result_file.write(writing_data + ',\n')
             print('Completed with fail rate: ' + str(metric_fail_counter) + ' methods out of ' + str(total_metrics_in_protocol) + ' with metric ' + str(metric))
             metric_total_fail_counter += metric_fail_counter
             total_metrics += total_metrics_in_protocol
@@ -170,11 +170,14 @@ if __name__ == '__main__':
         fail_counter += metric_total_fail_counter
         # total_metrics += total_metrics_in_protocol
         print('total metrics so far:', total_metrics)
-        if protocol_counter == 2:
-            break
-        else:
-            continue
+        # if protocol_counter == 2:
+        #     break
+        # else:
+        #     continue
     print('Completed with fail rate: ' + str(fail_counter) + ' metrics out of ' + str(total_metrics) + ' with ' + str(total_protocol) + ' protocols')
-    with open('bad_metrics.txt', 'w+') as bad_metric_records:
-        bad_metric_records.write(str(bad_metric_list))
+    for metric in bad_metric_list:
+        with open('bad_metrics.txt', 'a+') as bad_metric_records:
+            bad_metric_records.write(str(metric))
     # Mar 28 Completed with fail rate: 63metrics out of 2108 with 322 protocols
+    # AUG 27 Completed with fail rate: 3357 metrics out of 26714 with 322 protocols
+    # AUG 27 Completed with fail rate: 2242 metrics out of 27502 with 322 protocols

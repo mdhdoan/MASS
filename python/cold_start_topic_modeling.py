@@ -1,8 +1,7 @@
+from IPython.display import display
 import json
-import numpy
-import os
 import pandas as pd
-import random
+import os
 import sklearn
 import sys
 
@@ -20,8 +19,6 @@ from langchain_community.llms import Ollama
 from langchain.prompts import PromptTemplate
 from langchain.schema import Document
 
-random.seed(2024)
-
 HEADERS = [
     "abstractText"
 ]
@@ -31,6 +28,26 @@ def increase_count(count, character):
     print(character, end="", flush=True)
     return count
 
+def create_prompt(format_instructions):
+    QA_TEMPLATE = """
+        I have a topic that contains the following documents delimited by triple backquotes (```). They could not be in English. The data also include French
+        ```{documents}```
+        
+        The topic is described by the following keywords delimited by triple backquotes (```):
+        ```{keywords}```
+
+        Do not provide further information besides the topic label, which should not contain more than 5 words.
+        Do not include codes in your answer
+        I want something look like these: 
+        "Streamflow Measurement in Streams"
+        "Wetland Habitat and Waterfowl Management"
+        Answer: {format_instructions}
+    """
+    #Verify your answer, and if the result list has more than 2 items, then Value has multiple parts. Treat them all as one value only, and ignore the number in brackets in them. Retry to shorten it to format above.
+    return PromptTemplate(
+        input_variables=["documents", "keywords"], 
+        partial_variables={"format_instructions": format_instructions}, 
+        template=QA_TEMPLATE)
 
 if __name__ == '__main__':
     in_path, documents, count = sys.argv[1], [], 0
@@ -41,13 +58,15 @@ if __name__ == '__main__':
             
         with open(file_name, 'rt', encoding='utf-8') as in_file:
             doc = json.load(in_file)
+            # print(doc)
             try:
+                # print('value is:', value[0])
                 documents.append('\n'.join([doc[k] for k in HEADERS if doc[k]]))
             except Exception as e:
                 print(f"\n{file_name}")
+            # break
             count = increase_count(count, '.')
     print(f"\nRead {count} documents.\n")
-
     # Step 1 - Extract embeddings
     embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
     embeddings = embedding_model.encode(documents, show_progress_bar=True)
@@ -59,10 +78,10 @@ if __name__ == '__main__':
     hdbscan_model = HDBSCAN(min_cluster_size=15, metric='euclidean', cluster_selection_method='eom', prediction_data=True)
 
     # Step 4 - Tokenize topics
-    vectorizer_model = CountVectorizer(stop_words="english")
+    vectorizer_model = CountVectorizer(stop_words="english", ngram_range=(1, 3), min_df=3)
 
     # Step 5 - Create topic representation
-    ctfidf_model = ClassTfidfTransformer()
+    ctfidf_model = ClassTfidfTransformer(bm25_weighting=True, reduce_frequent_words=True)
 
     # Step 6 - (Optional) Fine-tune topic representations with 
     # a `bertopic.representation` model
@@ -71,46 +90,35 @@ if __name__ == '__main__':
 
     # All steps together
     topic_model = BERTopic(
-        embedding_model=embedding_model,          # Step 1 - Extract embeddings
-        umap_model=umap_model,                    # Step 2 - Reduce dimensionality
-        hdbscan_model=hdbscan_model,              # Step 3 - Cluster reduced embeddings
-        vectorizer_model=vectorizer_model,        # Step 4 - Tokenize topics
-        ctfidf_model=ctfidf_model,                # Step 5 - Extract topic words
-        representation_model=representation_model # Step 6 - (Optional) Fine-tune topic represenations
+        embedding_model=embedding_model,            # Step 1 - Extract embeddings
+        umap_model=umap_model,                      # Step 2 - Reduce dimensionality
+        hdbscan_model=hdbscan_model,                # Step 3 - Cluster reduced embeddings
+        vectorizer_model=vectorizer_model,          # Step 4 - Tokenize topics
+        ctfidf_model=ctfidf_model,                  # Step 5 - Extract topic words
+        representation_model=representation_model,  # Step 6 - (Optional) Fine-tune topic representations
+        top_n_words=10,
+        calculate_probabilities=True,
+        verbose=True
     )
     
     topics, probs = topic_model.fit_transform(documents, embeddings)
 
-    # labels = ['Anadromous fish telemetry using PIT tags', 'Columbia River Salmonid Ecology and Monitoring', 'eDNA extraction and Purification', 'Fish Age Estimation in Fisheries',
-    #           'Fish Passage Criteria Evaluation', 'Fish Seining Techniqies', 'Fishing: Gill Nets and Tangle Nets in Fisheries','Genetic Population Structure and Heterozygosity Analysis',
-    #           'Riparian Vegetaion monitoring in Watersheds', 'Salmon Research in Columbia River Plume', 'Salmonid Tagging Procedures', 'Streamflow Measurement in Streams',
-    #           'Topographic RBT tools for ArcGIS', 'Vegetaion Estimates: Woody and Non-Woody coverage', 'Wetland Habitat and Waterfowl Management', 'Woody Debris Tallying',
-    #               Previous attempt at labeling the work contains these topic labels that I would like to be try before generating new label. 
-    # The labels are delimtied by triple backquotes (```):
-    # ```{labels}```]
-
     # System prompt describes information given to all conversations
     prompt_template = """
-    You are a helpful, respectful and honest assistant for labeling topics.
-
-    I have a topic that contains the following documents delimited by triple backquotes (```). 
+    I have a topic that contains the following documents delimited by triple backquotes (```). They could not be in English. The data also include French
     ```{documents}```
     
     The topic is described by the following keywords delimited by triple backquotes (```):
     ```{keywords}```
 
-    Return ONLY a the topic label, which should not contain more than 5 words.
-    If your answer has any code in it, generate again. 
-    If the amount of words in your answer is more than 5, generate again.
-    If your answer include a clarification or explanation, only return the topic label
-    If the label includes any character such as [ and ] and ' and " remove those characters
-
-    For example, I want something look like these: 
-    Streamflow Measurement in Streams
-    Wetland Habitat and Waterfowl Management
+    Do not provide further information besides the topic label, which should not contain more than 5 words.
+    Do not include codes in your answer
+    I want something look like these: 
+    "Streamflow Measurement in Streams"
+    "Wetland Habitat and Waterfowl Management"
     """
 
-    llm = Ollama(model="mixtral")
+    llm = Ollama(model="llama3.2")
     prompt = PromptTemplate(input_variables=["documents", "keywords"], template=prompt_template)
     llm_chain = LLMChain(llm=llm, prompt=prompt)
     
@@ -133,7 +141,7 @@ if __name__ == '__main__':
     topic_model.set_topic_labels(label_dict)
 
     topic_model.save(
-        "model/data/method", 
+        "model/" + sys.argv[1][2:], 
         serialization="pytorch", save_ctfidf=True, save_embedding_model="sentence-transformers/all-MiniLM-L6-v2"
     )
     

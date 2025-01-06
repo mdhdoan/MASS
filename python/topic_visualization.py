@@ -22,9 +22,9 @@ def increase_count(count, character):
 
 
 if __name__ == '__main__':
-    model_name = 'data/method'
+    model_name = sys.argv[1][2:]
     topic_model = BERTopic.load("model/" + model_name)
-    label_file_path = '.\model\data\method'
+    label_file_path = "model/" + model_name
     label_file_name = os.path.join(label_file_path, 'topics.json')
     with open(label_file_name, 'r') as l_file:
         label_data = json.load(l_file)
@@ -61,29 +61,29 @@ if __name__ == '__main__':
 
     viz_topics = topic_model.visualize_topics(top_n_topics = dict_length - 1)
     viz_topics.show()
-    viz_topics.write_html("viz/" + model_name + '-topics.html')
+    viz_topics.write_html("viz/" + model_name + 'method-topics.html')
     
     # viz_heatmap = topic_model.visualize_heatmap()
     viz_heatmap = topic_model.visualize_heatmap(custom_labels=True)
     viz_heatmap.show()
-    viz_heatmap.write_html("viz/" + model_name + '-heatmap.html')
+    viz_heatmap.write_html("viz/" + model_name + 'method-heatmap.html')
 
     viz_words = topic_model.visualize_barchart(top_n_topics = dict_length - 1)
     # viz_words = topic_model.visualize_barchart(top_n_topics=20, custom_labels=True)
     viz_words.show()
-    viz_words.write_html("viz/" + model_name + '-words.html')
+    viz_words.write_html("viz/" + model_name + 'method-words.html')
 
     # # Run the visualization with the original embeddings
     topic_model.visualize_documents(documents, embeddings=embeddings)
 
     # Reduce dimensionality of embeddings, this step is optional but much faster to perform iteratively:
-    reduced_embeddings = UMAP(n_neighbors=10, n_components=5, min_dist=0.0, metric='cosine').fit_transform(embeddings)
+    reduced_embeddings = UMAP(n_neighbors=15, n_components=5, min_dist=0.0, metric='cosine').fit_transform(embeddings)
     viz_docs = topic_model.visualize_documents(documents, reduced_embeddings=reduced_embeddings, width=3096, height=1440, custom_labels=True)
     viz_docs.show()
-    viz_docs.write_html("viz/" + model_name + '-docs.html')
+    viz_docs.write_html("viz/" + model_name + 'method-docs.html')
     
     hierarchical_topics = topic_model.hierarchical_topics(documents)
     viz_hie_tops = topic_model.visualize_hierarchy(hierarchical_topics=hierarchical_topics, custom_labels=True)
     viz_hie_tops.show()
-    viz_hie_tops.write_html("viz/" + model_name + '-hierarchy.html')
+    viz_hie_tops.write_html("viz/" + model_name + 'method-hierarchy.html')
     

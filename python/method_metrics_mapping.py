@@ -53,7 +53,7 @@ if __name__ == '__main__':
     metric_matching_data = csv_to_list_of_dicts(file_name)
     # print(metric_matching_data)
 
-    llm = Ollama(model="mistral-nemo")
+    llm = Ollama(model="llama3.3")
     prompt = PromptTemplate(input_variables=["metric_dict", "method_dict"], template=prompt_template)
     llm_chain = LLMChain(llm=llm, prompt=prompt)
 

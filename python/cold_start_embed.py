@@ -105,7 +105,7 @@ if __name__ == '__main__':
     If the amount of words in your answer is more than 5, generate again.
     """
 
-    llm = Ollama(model="mistral")
+    llm = Ollama(model="llama3.2")
     prompt = PromptTemplate(input_variables=["documents", "keywords"], template=prompt_template)
     llm_chain = LLMChain(llm=llm, prompt=prompt)
     

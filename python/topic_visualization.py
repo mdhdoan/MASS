@@ -59,6 +59,7 @@ if __name__ == '__main__':
     sentence_model = SentenceTransformer("all-MiniLM-L6-v2")
     embeddings = sentence_model.encode(documents, show_progress_bar=True)
 
+    os.makedirs('viz/' + model_name, exist_ok = True)
     viz_topics = topic_model.visualize_topics(top_n_topics = dict_length - 1)
     viz_topics.show()
     viz_topics.write_html("viz/" + model_name + 'method-topics.html')

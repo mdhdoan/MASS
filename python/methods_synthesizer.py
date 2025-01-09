@@ -1,9 +1,6 @@
+from IPython.display import display
 import json
-import numpy
 import os
-import pandas as pd
-import random
-import sklearn
 import sys
 
 from umap import UMAP
@@ -20,7 +17,11 @@ from langchain_community.llms import Ollama
 from langchain.prompts import PromptTemplate
 from langchain.schema import Document
 
-random.seed(2024)
+############################## Variables ###################################
+
+HEADERS = [
+    "abstractText"
+]
 
 ############################## AI PROMPTS ###################################
 keywords_prompt = """
@@ -29,7 +30,7 @@ keywords_prompt = """
     I have a text body as seen below:
     {content}
 
-    Create a list of highly relevant keywords relevant to the method. These keywords can serve as quick references to the main topics and themes covered. Aiming to limit to 5.
+    Create a list of highly relevant keywords relevant to the method. These keywords can serve as quick references to the main topics and themes covered. Your maximum is 10.
     The list shoule be a comma separated list, on one line.
     If your answer has any code in it, generate again. 
     """
@@ -41,7 +42,6 @@ abstract_prompt = """
     {content}
 
     Summarize the method in a comprehensive high-level, non-technical focus overview of the method, explaining its necessity and how it solves any issues raised. 
-    
     If your answer has any code in it, generate again. 
     """
 
@@ -52,7 +52,6 @@ description_prompt = """
     {content}
 
     Provide a description that is technical focus, use the terms from the method as closely as possible, closely following the given content in a more detailed description of the text body. Focus indepth into the content and provide explanation where applicable.
-    
     If your answer has any code in it, generate again. 
     """
 

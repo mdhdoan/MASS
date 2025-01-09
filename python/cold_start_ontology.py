@@ -1,9 +1,6 @@
 import json
-import numpy
 import os
-import pandas as pd
 import random
-import sklearn
 import sys
 
 from umap import UMAP
@@ -129,7 +126,7 @@ if __name__ == '__main__':
  
     # """
 
-    llm = Ollama(model="mistral")
+    llm = Ollama(model="llama3.2")
     # prompt = PromptTemplate(input_variables=["documents", "keywords", "labels"], template=ontology_prompt_template)
     # llm_chain = LLMChain(llm=llm, prompt=prompt)
     

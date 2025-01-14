@@ -1,4 +1,5 @@
 // A lot of things changes when you use the full APOC and their stuff
+// Add this line for windows: WITH REPLACE(json_file, '\\', '/') as json_file
 // Load organization data
 CALL apoc.load.directory('*.json', 'programs') YIELD value
 WITH value as json_file
@@ -44,6 +45,21 @@ WITH json_data, p
 WITH p, metric_data
     SET p.metric = p.metric + [metric_data.id]
     SET p.metric = apoc.coll.toSet(p.metric)
+
+// Load methods data
+CALL apoc.load.directory('*.json', 'methods') YIELD value
+WITH value as json_file
+WITH REPLACE(json_file, '\\', '/') as json_file
+    CALL apoc.load.json(json_file) YIELD value as json_data
+MERGE (m:Methods {uid: json_data.url})
+        SET m.content = json_data.abstractText,
+            m.title = json_data.title,
+            m.status = json_data.status,
+            m.html = json_data.html,
+            m.type = json_data.type,
+            m.owner = json_data.ownerName,
+            m.embed = json_data.vector
+        
 
 // Load method data - topic
 CALL apoc.load.json('full_details.json') YIELD value as json_data

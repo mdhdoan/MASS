@@ -2,7 +2,7 @@ from IPython.display import display
 import json
 import pandas as pd
 import os
-import sklearn
+import re
 import sys
 
 from umap import UMAP
@@ -147,14 +147,15 @@ if __name__ == '__main__':
                 doc['vector'] = embed_data.tolist()
                 # print(type(doc['vector']))
                 # print('doc update: ', doc)
-                save_path = 'embed/'
+                save_path = 'embed/' + sys.argv[1]
                 os.makedirs(save_path, exist_ok = True)
                 # print('path made success', save_path)
                 # json_data = json.dump(doc, indent=2)
                 # print('json dump success')
-                new_file_name = os.path.join(save_path, 'Embedded ' + file)
+                new_file_name = os.path.join(save_path, 'Embedded_' + file)
+                new_filename = re.sub(r'[^a-zA-Z0-9]', '', new_file_name)
                 # print('path join success: ', new_file_name)
-                with open(new_file_name, 'w+') as json_file:
+                with open(new_filename, 'w+', encoding= 'utf-8') as json_file:
                     # print('file created success: ', new_file_name)
                     json.dump(doc, json_file, ensure_ascii=False, indent=2)
                     # print('file write success')

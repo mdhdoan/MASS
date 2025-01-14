@@ -6,6 +6,12 @@ MATCH (p:Programs)
 WHERE o.title in p.organization
 MERGE (o)-[:SPONSORS]->(p)
 
+//Connect programs to protocols
+MATCH (p1: Programs)
+MATCH (p2: Protocols)
+WHERE p2.programUrl = p1.uid
+MERGE (p2)-[:USED_IN]->(p1)
+
 // Connect methods to protocols
 MATCH (m: Methods)
 MATCH (p: Protocols)

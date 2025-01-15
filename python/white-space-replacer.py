@@ -12,7 +12,6 @@ def remove_spaces_in_filenames(directory):
             new_filename = filename.replace(" ", "_")  # Replace spaces with underscores
             new_filename = new_filename.replace("(", "")
             new_filename = new_filename.replace(")", "")
-            new_filename = new_filename.replace("-", "")
             new_filename = new_filename.replace("–", "")
             new_path = os.path.join(directory, new_filename)
             

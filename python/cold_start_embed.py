@@ -21,6 +21,7 @@ from langchain.schema import Document
 
 HEADERS = [
     "abstractText"
+    # "background"
 ]
 
 def increase_count(count, character):
@@ -152,10 +153,12 @@ if __name__ == '__main__':
                 # print('path made success', save_path)
                 # json_data = json.dump(doc, indent=2)
                 # print('json dump success')
+                # file = re.sub(r'[^a-zA-Z0-9]', '', file)
                 new_file_name = os.path.join(save_path, 'Embedded_' + file)
-                new_filename = re.sub(r'[^a-zA-Z0-9]', '', new_file_name)
                 # print('path join success: ', new_file_name)
-                with open(new_filename, 'w+', encoding= 'utf-8') as json_file:
+                for field, text in doc.items():
+                    doc[field] = re.sub(r'[^a-zA-Z0-9]', '', text)
+                with open(new_file_name, 'w+', encoding= 'utf-32') as json_file:
                     # print('file created success: ', new_file_name)
                     json.dump(doc, json_file, ensure_ascii=False, indent=2)
                     # print('file write success')

@@ -84,7 +84,7 @@ def increase_count(count, character):
     return count
 
 def feed_llm(prompt, text_content):
-    llm = Ollama(model="mistral")
+    llm = Ollama(model="llama3.2")
     prompt = PromptTemplate(input_variables=["content"], template=prompt)
     llm_chain = LLMChain(llm=llm, prompt=prompt)
     # print('Begin Mixtral')
@@ -113,18 +113,17 @@ if __name__ == '__main__':
             prompts = [keywords_prompt, abstract_prompt, description_prompt, target_prompt, constraint_prompt]
             keys = ['keywords', 'abstract', 'description', 'target', 'constraints']
             prompts_length = len(prompts)
+            save_path = 'synth_data/methods/'
+            os.makedirs('synth_data/methods/', exist_ok = True)
+            result_file_name = os.path.join(save_path, file[:-4] + '_synth.json')
+            synth_dict = {}
             for index in range(0, prompts_length):
                 synth_result = {keys[index]: feed_llm(prompts[index], relevant_text)}
-                # print(synth_result)
-                # print(keys[index] + ':', synth_result)
-                save_path = 'synth_data/methods/'
-                os.makedirs('synth_data/methods/', exist_ok = True)
-                result_file_name = os.path.join(save_path, file[:-4] + '_synth.json')
-                # writing_data = json.dumps(synth_result)
-                with open(result_file_name, 'a+') as synth_file:
-                    json.dump(synth_result, synth_file, ensure_ascii=False, indent=2)
+                synth_dict[keys[index]] = synth_result
             # except Exception as e:
             #     print(f"\n{file_name}")
+            with open(result_file_name, 'w+') as synth_file:
+                json.dump(synth_dict, synth_file, ensure_ascii=False, indent=2)
         count = increase_count(count, '.')
         # break
     print(f"\nProcessed {count} documents.\n")

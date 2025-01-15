@@ -1,0 +1,11 @@
+{
+  "keywords": " Slope, Site assessment, Abney hand level, Stadia rod, Field measurement"
+,
+  "abstract": " This method involves using simple tools, such as an Abney level and a stadia rod, to measure slope angles between transects at a habitat sampling site. The necessity of this method lies in the importance of knowing the slope information for various reasons, including understanding drainage patterns and assessing soil stability. The equipment required is lightweight and portable, making it suitable for use in remote locations where other more complex tools may be impractical. Overall, this method provides a feasible solution for collecting essential slope data in various field environments."
+,
+  "description": " To precisely determine the slope gradient at a habitat sampling site, this technique employs an Abney level and a stadia rod. The Abney level, a versatile hand instrument, enables the measurement of horizontal angles between two points on opposite sides of a given transect. Conversely, the stadia rod, which consists of graduated rods with interim markings, facilitates the measurement of vertical distances between these same points.\n\nBy combining the data derived from both instruments, the slope gradient can be calculated as the tangent of the angle measured by the Abney level. The equipment used in this method is compact and portable, making it an efficient solution for collecting slope information in remote locations where larger machinery might not be feasible."
+,
+  "target": " Collecting slope information between transects using an Abney level and stadia rod. (Slope measurement between transects)"
+,
+  "constraints": " The given text does not mention any specific constraints related to the method of collecting slope information using an Abney level and stadia rod. The text only mentions that this method is feasible for remote locations due to the ease of transporting the necessary equipment."
+}
